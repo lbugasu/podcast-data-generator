@@ -24,6 +24,7 @@ jobs:
     steps:
       - name: Compile TypeScript
         run: npx tsc
+      - name: tsc
         uses: icrawl/action-tsc@v1
   process:
     needs: [compile, download-core-nlp]
