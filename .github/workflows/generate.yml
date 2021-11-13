@@ -9,18 +9,39 @@ jobs:
     strategy:
       matrix:
         node-version: [14.x]
-    steps: 
+    steps:
       - name: 'Checkout 🧞'
         uses: actions/checkout@v2
       - name: 'Download Stanford CoreNLP 🏋️'
         run: |
           wget -P tmp "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
       - name: 'Unzip Core NLP 🔥'
-        run: unzip tmp/stanford-ner-4.2.0.zip -d tmp/    
+        run: unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - name: 'Install npm dependencies 🪨'
         run: |
           npm install
       - name: 'compile 🏗️'
         run : tsc
-      - name: 'Process 🤖'
+      - name: 'Prepare 🧑‍🍳'
+        run: |
+          mkdir tmp/dist
+          mkdir tmp/dist/podcasts
+      - name: 'Process w/ Name Entity Recognition 🤖'
         run: node out/index.js
+      - name: Generate Palette
+        run : |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py tmp/dist
+          mv tmp/dist dist/
+      - name: Verify Changed files 🐒
+        uses: tj-actions/verify-changed-files@v8.3
+        id: verify-changed-files
+        with:
+          files: |
+            dist
+      - name: Deploy  💾
+        if: steps.verify-changed-files.outputs.files_changed == 'true'
+        uses: JamesIves/github-pages-deploy-action@4.0.0
+        with:
+          branch: dist
+          folder: dist

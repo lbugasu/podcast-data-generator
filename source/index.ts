@@ -1,22 +1,43 @@
-import { getRssFeedsFromOPML, findNamedEntities, parseRssFeed, getDataFromRssFeed} from './lib/helpers'
+import { prepare, getRssFeedsFromOPML, findNamedEntities, writeToFile, getDataFromRssFeed } from './lib/helpers'
 import path from 'path'
+import { Podcast } from './models'
 
 
 const opmlFilePath = path.resolve(process.cwd(), './data/podcasts_opml.xml')
 
-async function run() {
+async function download() {
   const feeds = await getRssFeedsFromOPML(opmlFilePath)
-
   const _feeds = feeds.slice(0, 2)
-  const rssFeedData = await Promise.all(_feeds.map((feed) => {
+  return Promise.all(_feeds.map((feed) => {
     return getDataFromRssFeed(feed.xmlurl)
   }))
-
-  rssFeedData.forEach(async (data) => {
-    const entities = await findNamedEntities(data.description)
-    console.log(entities)
-  })
-
 }
 
-run()
+async function ner(rssFeedData: Podcast[]) {
+  return Promise.all(rssFeedData.map(async (data) => {
+    const entities = await findNamedEntities(data.description)
+    const episodesWithEntities = await Promise.all(data.items.map((episode) => {
+      const itemEntities = findNamedEntities(episode.description)
+      episode.entities = itemEntities
+      return episode
+    }))
+    data.entities = entities
+    data.items = episodesWithEntities
+    return data
+  }))
+}
+
+function write(podcasts: Podcast[]) {
+  podcasts.forEach((podcast) => {
+    writeToFile(podcast)
+  })
+}
+
+// Prepare folders for dist
+prepare()
+
+// Action
+download()
+  .then((rssFeedData: Podcast[]) => ner(rssFeedData))
+  .then((podcasts) => write(podcasts))
+
