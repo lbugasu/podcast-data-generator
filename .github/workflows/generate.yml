@@ -27,7 +27,7 @@ jobs:
       - name: Process
         run: node out/index.js
   process:
-    needs: compile, download-core-nlp
+    needs: [compile, download-core-nlp]
     runs-on: ubuntu-latest
     steps:
       - name: Process
