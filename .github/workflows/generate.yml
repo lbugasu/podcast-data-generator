@@ -6,31 +6,21 @@ on:
 jobs:
   download-core-nlp:
     runs-on: ubuntu-latest
-    steps:
-      - name: Download Stanford CoreNLP
-        run: |
-          wget -P tmp "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-      - name: Unzip Core NLP
-        run: unzip tmp/stanford-ner-4.2.0.zip -d tmp/
-  install-dependencies:
-    runs-on: ubuntu-latest
     strategy:
       matrix:
         node-version: [14.x]
-    steps:
-      - uses: actions/checkout@v2
-      - name: Install npm dependencies
+    steps: 
+      - name: 'Checkout 🧞'
+        uses: actions/checkout@v2
+      - name: 'Download Stanford CoreNLP 🏋️'
+        run: |
+          wget -P tmp "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+      - name: 'Unzip Core NLP 🔥'
+        run: unzip tmp/stanford-ner-4.2.0.zip -d tmp/    
+      - name: 'Install npm dependencies 🪨'
         run: |
           npm install
-          tsc
-  compile:
-    needs: install-dependencies
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo $PWD
-  process:
-    needs: [compile, download-core-nlp]
-    runs-on: ubuntu-latest
-    steps:
-      - name: Process
+      - name: 'compile 🏗️'
+        run : tsc
+      - name: 'Process 🤖'
         run: node out/index.js
