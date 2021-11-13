@@ -58,6 +58,7 @@ function logError(item: any, error: any){
 }
 
 function writeToFile(podcast: any) {
+  console.log(podcast)
   const folder = process.cwd() + '/tmp/dist/podcasts'
   try {
     fs.writeFileSync(`${folder}/${podcast.title}.json`, JSON.stringify(podcast, null, 4), 'utf8')
