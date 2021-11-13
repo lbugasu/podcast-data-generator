@@ -1,0 +1,726 @@
+{
+    "items": [
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Reactive Angular",
+            "link": "https://share.transistor.fm/s/54b6d935",
+            "pubDate": "Wed, 11 Aug 2021 21:00:00 +1000",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>There is a lot of buzz around reactivity and reactive programming these days.</p><p>All reactive Angular API is built on top of RxJS library so there is a lot of reactivity built-in within Angular. </p><p>What do you think, should Angular have First-class RxJS support, should it be optional or may be Angular should support both options?</p><p>Lets discuss   👉 <a href=\"https://twitter.com/kuncevic/status/1425397229930438656\">Twitter thread </a></p><p><strong>Links<br></strong><a href=\"https://angular.io/guide/rx-library\">The RxJS library</a></p><p><a href=\"https://github.com/angular/angular/issues/5689\">Proposal: Input as Observable</a> </p><p><strong><br>Angular Getting Started Workshop</strong><a href=\"https://ngstart.dev\"><br>ngstart.dev</a></p><p><strong>Aliaksei's mailing list</strong><br><a href=\"https://kuncevic.dev/?ref=rocks\">kuncevic.dev</a></p>\n      ",
+            "content:encodedSnippet": "There is a lot of buzz around reactivity and reactive programming these days.\nAll reactive Angular API is built on top of RxJS library so there is a lot of reactivity built-in within Angular. \nWhat do you think, should Angular have First-class RxJS support, should it be optional or may be Angular should support both options?\nLets discuss   👉 Twitter thread \nLinks\nThe RxJS library\nProposal: Input as Observable \n\nAngular Getting Started Workshop\nngstart.dev\nAliaksei's mailing list\nkuncevic.dev",
+            "enclosure": {
+                "url": "https://media.transistor.fm/54b6d935/ea9e35a5.mp3",
+                "length": "2206918",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>There is a lot of buzz around reactivity and reactive programming these days.</p><p>All reactive Angular API is built on top of RxJS library so there is a lot of reactivity built-in within Angular. </p><p>What do you think, should Angular have First-class RxJS support, should it be optional or may be Angular should support both options?</p><p>Lets discuss   👉 <a href=\"https://twitter.com/kuncevic/status/1425397229930438656\">Twitter thread </a></p><p><strong>Links<br></strong><a href=\"https://angular.io/guide/rx-library\">The RxJS library</a></p><p><a href=\"https://github.com/angular/angular/issues/5689\">Proposal: Input as Observable</a> </p><p><strong><br>Angular Getting Started Workshop</strong><a href=\"https://ngstart.dev\"><br>ngstart.dev</a></p><p><strong>Aliaksei's mailing list</strong><br><a href=\"https://kuncevic.dev/?ref=rocks\">kuncevic.dev</a></p>\n      ",
+            "contentSnippet": "There is a lot of buzz around reactivity and reactive programming these days.\nAll reactive Angular API is built on top of RxJS library so there is a lot of reactivity built-in within Angular. \nWhat do you think, should Angular have First-class RxJS support, should it be optional or may be Angular should support both options?\nLets discuss   👉 Twitter thread \nLinks\nThe RxJS library\nProposal: Input as Observable \n\nAngular Getting Started Workshop\nngstart.dev\nAliaksei's mailing list\nkuncevic.dev",
+            "guid": "58f7913d-d413-4dee-9aab-c0b255069a23",
+            "isoDate": "2021-08-11T11:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "This episode is about reactivity in Angular 🔥",
+                "summary": "This episode is about reactivity in Angular 🔥",
+                "explicit": "No",
+                "duration": "134",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "24",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Designing Reusable Components with Tomas Trajan",
+            "link": "https://share.transistor.fm/s/5cf8cd1a",
+            "pubDate": "Wed, 04 Aug 2021 20:00:00 +1000",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>Component is the central piece in Angular. Sometimes you want to generalize a particular component, to make it shareable across your application or to move into a custom component library to share it around multiple applications. It is important to understand how to approach shareable components in your particular use-case.</p><p>In this episode we are discussing:</p><ul>\n<li>Components and Components composition</li>\n<li>Shared folder, Shared library, ngModules</li>\n<li>Template context</li>\n<li>Custom component libraries</li>\n<li>Designing components for scale</li>\n<li>Best practices, tips and tricks and common pitfalls</li>\n</ul><p><strong>Articles</strong></p><p><a href=\"https://tomastrajan.medium.com/the-6-best-practices-for-building-custom-angular-components-library-1d6a4cc8215e?sk=5e9cc7d81c71ad67d2e533924afb3032\">Custom Angular Component Library (Best practices)<br></a><a href=\"https://tomastrajan.medium.com/the-best-way-to-architect-your-angular-libraries-87959301d3d3?sk=0b449c5d8dd8f1b84d7957b5af8f4ab4\">Angular Library Architecture (sub-entries)<br></a><a href=\"https://tomastrajan.medium.com/how-to-build-epic-angular-app-with-clean-architecture-91640ed1656?sk=44ebaed856c0a663160ff669e94e4d05\">Angular Application Architecture</a></p><p><strong>More from Tomas</strong><br><a href=\"https://twitter.com/tomastrajan\">Twitter</a></p><p><a href=\"https://github.com/tomastrajan\">Github<br></a><a href=\"https://www.tomastrajan.com\">Website</a><a href=\"https://github.com/tomastrajan\"><br></a><a href=\"https://omniboard.dev\">Omniboard</a> </p><p><strong>Angular Self-Paced Workshops from Aliaksei</strong></p><p><a href=\"https://ngstart.dev\">ngstart.dev</a> </p>\n      ",
+            "content:encodedSnippet": "Component is the central piece in Angular. Sometimes you want to generalize a particular component, to make it shareable across your application or to move into a custom component library to share it around multiple applications. It is important to understand how to approach shareable components in your particular use-case.\nIn this episode we are discussing:\n\nComponents and Components composition\nShared folder, Shared library, ngModules\nTemplate context\nCustom component libraries\nDesigning components for scale\nBest practices, tips and tricks and common pitfalls\nArticles\nCustom Angular Component Library (Best practices)\nAngular Library Architecture (sub-entries)\nAngular Application Architecture\nMore from Tomas\nTwitter\nGithub\nWebsite\nOmniboard \nAngular Self-Paced Workshops from Aliaksei\nngstart.dev",
+            "enclosure": {
+                "url": "https://media.transistor.fm/5cf8cd1a/28bd163e.mp3",
+                "length": "47037750",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>Component is the central piece in Angular. Sometimes you want to generalize a particular component, to make it shareable across your application or to move into a custom component library to share it around multiple applications. It is important to understand how to approach shareable components in your particular use-case.</p><p>In this episode we are discussing:</p><ul>\n<li>Components and Components composition</li>\n<li>Shared folder, Shared library, ngModules</li>\n<li>Template context</li>\n<li>Custom component libraries</li>\n<li>Designing components for scale</li>\n<li>Best practices, tips and tricks and common pitfalls</li>\n</ul><p><strong>Articles</strong></p><p><a href=\"https://tomastrajan.medium.com/the-6-best-practices-for-building-custom-angular-components-library-1d6a4cc8215e?sk=5e9cc7d81c71ad67d2e533924afb3032\">Custom Angular Component Library (Best practices)<br></a><a href=\"https://tomastrajan.medium.com/the-best-way-to-architect-your-angular-libraries-87959301d3d3?sk=0b449c5d8dd8f1b84d7957b5af8f4ab4\">Angular Library Architecture (sub-entries)<br></a><a href=\"https://tomastrajan.medium.com/how-to-build-epic-angular-app-with-clean-architecture-91640ed1656?sk=44ebaed856c0a663160ff669e94e4d05\">Angular Application Architecture</a></p><p><strong>More from Tomas</strong><br><a href=\"https://twitter.com/tomastrajan\">Twitter</a></p><p><a href=\"https://github.com/tomastrajan\">Github<br></a><a href=\"https://www.tomastrajan.com\">Website</a><a href=\"https://github.com/tomastrajan\"><br></a><a href=\"https://omniboard.dev\">Omniboard</a> </p><p><strong>Angular Self-Paced Workshops from Aliaksei</strong></p><p><a href=\"https://ngstart.dev\">ngstart.dev</a> </p>\n      ",
+            "contentSnippet": "Component is the central piece in Angular. Sometimes you want to generalize a particular component, to make it shareable across your application or to move into a custom component library to share it around multiple applications. It is important to understand how to approach shareable components in your particular use-case.\nIn this episode we are discussing:\n\nComponents and Components composition\nShared folder, Shared library, ngModules\nTemplate context\nCustom component libraries\nDesigning components for scale\nBest practices, tips and tricks and common pitfalls\nArticles\nCustom Angular Component Library (Best practices)\nAngular Library Architecture (sub-entries)\nAngular Application Architecture\nMore from Tomas\nTwitter\nGithub\nWebsite\nOmniboard \nAngular Self-Paced Workshops from Aliaksei\nngstart.dev",
+            "guid": "b31ca7c9-de02-413a-b69f-0fce88ecd742",
+            "isoDate": "2021-08-04T10:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "In this episode we are discussing reusable components with Tomas Trajan",
+                "summary": "In this episode we are discussing reusable components with Tomas Trajan",
+                "explicit": "No",
+                "duration": "2936",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "23",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Web Components and Angular Elements",
+            "link": "https://share.transistor.fm/s/25dd015a",
+            "pubDate": "Wed, 28 Jul 2021 20:00:00 +1000",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>Web Components are also known as Custom Elements. </p><p>Custom Element is a web standard for defining new HTML elements in a framework-agnostic way.</p><p>There are a set of different techniques that allow you to build Web Components or Custom Elements. </p><p>Being an Angular Developer you can easily get into Web Components by using Angular Elements.</p><p><strong>Links:</strong></p><p><a href=\"https://developer.mozilla.org/en-US/docs/Web/Web_Components\">Web Components</a></p><p><a href=\"https://www.webcomponents.org\">Can I use Web Components</a></p><p><a href=\"http://polymer-library.polymer-project.org\">Polymer</a></p><p><a href=\"https://lit.dev\">Lit</a></p><p><a href=\"https://github.com/Polymer/polymer/issues/5240#issuecomment-391337152\">Polymer vs Lit</a><br><a href=\"https://angular.io/guide/elements\">Angular Elements</a></p><p><strong>Angular Self-Paced Workshops from Aliaksei</strong></p><p><a href=\"https://ngstart.dev\">ngstart.dev</a></p>\n      ",
+            "content:encodedSnippet": "Web Components are also known as Custom Elements. \nCustom Element is a web standard for defining new HTML elements in a framework-agnostic way.\nThere are a set of different techniques that allow you to build Web Components or Custom Elements. \nBeing an Angular Developer you can easily get into Web Components by using Angular Elements.\nLinks:\nWeb Components\nCan I use Web Components\nPolymer\nLit\nPolymer vs Lit\nAngular Elements\nAngular Self-Paced Workshops from Aliaksei\nngstart.dev",
+            "enclosure": {
+                "url": "https://media.transistor.fm/25dd015a/7722bdec.mp3",
+                "length": "4013815",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>Web Components are also known as Custom Elements. </p><p>Custom Element is a web standard for defining new HTML elements in a framework-agnostic way.</p><p>There are a set of different techniques that allow you to build Web Components or Custom Elements. </p><p>Being an Angular Developer you can easily get into Web Components by using Angular Elements.</p><p><strong>Links:</strong></p><p><a href=\"https://developer.mozilla.org/en-US/docs/Web/Web_Components\">Web Components</a></p><p><a href=\"https://www.webcomponents.org\">Can I use Web Components</a></p><p><a href=\"http://polymer-library.polymer-project.org\">Polymer</a></p><p><a href=\"https://lit.dev\">Lit</a></p><p><a href=\"https://github.com/Polymer/polymer/issues/5240#issuecomment-391337152\">Polymer vs Lit</a><br><a href=\"https://angular.io/guide/elements\">Angular Elements</a></p><p><strong>Angular Self-Paced Workshops from Aliaksei</strong></p><p><a href=\"https://ngstart.dev\">ngstart.dev</a></p>\n      ",
+            "contentSnippet": "Web Components are also known as Custom Elements. \nCustom Element is a web standard for defining new HTML elements in a framework-agnostic way.\nThere are a set of different techniques that allow you to build Web Components or Custom Elements. \nBeing an Angular Developer you can easily get into Web Components by using Angular Elements.\nLinks:\nWeb Components\nCan I use Web Components\nPolymer\nLit\nPolymer vs Lit\nAngular Elements\nAngular Self-Paced Workshops from Aliaksei\nngstart.dev",
+            "guid": "25253e3f-8a1f-46e3-9e72-43dd483818a1",
+            "isoDate": "2021-07-28T10:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "This episode is about how to get into Web Components 🍰\r\n",
+                "summary": "This episode is about how to get into Web Components 🍰\r\n",
+                "explicit": "No",
+                "duration": "247",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "22",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Developer Tools with Minko Gechev",
+            "link": "https://share.transistor.fm/s/a21f025f",
+            "pubDate": "Wed, 21 Jul 2021 20:00:00 +1000",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>I split up the developer tools into multiple categories </p><ul>\n<li>Development and productivity</li>\n<li>Debugging</li>\n<li>Performance</li>\n<li>Testing</li>\n</ul><p>In this episode we discuss each category in details as well as answering the following questions:</p><p><br></p><p>Why do we need developer tools?<br>Can you imagine a dev life without modern tooling?<br>What are the modern Tools for Angular developers?<br>How to debug a memory leak?</p><p><br>Also we talk about some cool insights about what Angular Team is working on right now to improve the Angular developer experience even more.</p><p><strong>Tools </strong></p><p><a href=\"https://angular.io/cli\">Angular CLI<br></a><a href=\"https://angular.io/guide/language-service\">Angular language service (vscode extension)<br></a><a href=\"https://github.com/mgechev/codelyzer\">Codelyzer<br></a><a href=\"https://github.com/prettier/prettier\">Prettier<br></a><a href=\"https://github.com/mgechev/ngrev\">Ngrev<br></a><a href=\"https://chrome.google.com/webstore/detail/angular-state-inspector/nelkodgfpddgpdbcjinaaalphkfffbem?hl=en\">Angular state inspector (chrome extension)<br></a><a href=\"https://angular.io/guide/devtools\">Angular DevTools  (chrome extension)<br></a><a href=\"https://jestjs.io\">Jest<br></a><a href=\"https://www.cypress.io\">Cypress</a></p><p><strong>People mentioned<br></strong>Misko Havery<br>John Papa</p><p>Ward Bell</p><p>Alan Agius<br>Douglas Crockford</p><p><strong>More from Minko</strong></p><p><a href=\"https://twitter.com/mgechev\">Twitter</a></p><p><a href=\"https://blog.mgechev.com\">Blog</a></p><p><strong>Angular Self-Paced Workshops from Aliaksei</strong></p><p><a href=\"https://ngstart.dev\">ngstart.dev</a> </p>\n      ",
+            "content:encodedSnippet": "I split up the developer tools into multiple categories \n\nDevelopment and productivity\nDebugging\nPerformance\nTesting\nIn this episode we discuss each category in details as well as answering the following questions:\n\n\nWhy do we need developer tools?\nCan you imagine a dev life without modern tooling?\nWhat are the modern Tools for Angular developers?\nHow to debug a memory leak?\n\nAlso we talk about some cool insights about what Angular Team is working on right now to improve the Angular developer experience even more.\nTools \nAngular CLI\nAngular language service (vscode extension)\nCodelyzer\nPrettier\nNgrev\nAngular state inspector (chrome extension)\nAngular DevTools  (chrome extension)\nJest\nCypress\nPeople mentioned\nMisko Havery\nJohn Papa\nWard Bell\nAlan Agius\nDouglas Crockford\nMore from Minko\nTwitter\nBlog\nAngular Self-Paced Workshops from Aliaksei\nngstart.dev",
+            "enclosure": {
+                "url": "https://media.transistor.fm/a21f025f/360c0131.mp3",
+                "length": "43518931",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>I split up the developer tools into multiple categories </p><ul>\n<li>Development and productivity</li>\n<li>Debugging</li>\n<li>Performance</li>\n<li>Testing</li>\n</ul><p>In this episode we discuss each category in details as well as answering the following questions:</p><p><br></p><p>Why do we need developer tools?<br>Can you imagine a dev life without modern tooling?<br>What are the modern Tools for Angular developers?<br>How to debug a memory leak?</p><p><br>Also we talk about some cool insights about what Angular Team is working on right now to improve the Angular developer experience even more.</p><p><strong>Tools </strong></p><p><a href=\"https://angular.io/cli\">Angular CLI<br></a><a href=\"https://angular.io/guide/language-service\">Angular language service (vscode extension)<br></a><a href=\"https://github.com/mgechev/codelyzer\">Codelyzer<br></a><a href=\"https://github.com/prettier/prettier\">Prettier<br></a><a href=\"https://github.com/mgechev/ngrev\">Ngrev<br></a><a href=\"https://chrome.google.com/webstore/detail/angular-state-inspector/nelkodgfpddgpdbcjinaaalphkfffbem?hl=en\">Angular state inspector (chrome extension)<br></a><a href=\"https://angular.io/guide/devtools\">Angular DevTools  (chrome extension)<br></a><a href=\"https://jestjs.io\">Jest<br></a><a href=\"https://www.cypress.io\">Cypress</a></p><p><strong>People mentioned<br></strong>Misko Havery<br>John Papa</p><p>Ward Bell</p><p>Alan Agius<br>Douglas Crockford</p><p><strong>More from Minko</strong></p><p><a href=\"https://twitter.com/mgechev\">Twitter</a></p><p><a href=\"https://blog.mgechev.com\">Blog</a></p><p><strong>Angular Self-Paced Workshops from Aliaksei</strong></p><p><a href=\"https://ngstart.dev\">ngstart.dev</a> </p>\n      ",
+            "contentSnippet": "I split up the developer tools into multiple categories \n\nDevelopment and productivity\nDebugging\nPerformance\nTesting\nIn this episode we discuss each category in details as well as answering the following questions:\n\n\nWhy do we need developer tools?\nCan you imagine a dev life without modern tooling?\nWhat are the modern Tools for Angular developers?\nHow to debug a memory leak?\n\nAlso we talk about some cool insights about what Angular Team is working on right now to improve the Angular developer experience even more.\nTools \nAngular CLI\nAngular language service (vscode extension)\nCodelyzer\nPrettier\nNgrev\nAngular state inspector (chrome extension)\nAngular DevTools  (chrome extension)\nJest\nCypress\nPeople mentioned\nMisko Havery\nJohn Papa\nWard Bell\nAlan Agius\nDouglas Crockford\nMore from Minko\nTwitter\nBlog\nAngular Self-Paced Workshops from Aliaksei\nngstart.dev",
+            "guid": "5e724aa6-549f-490e-8c85-b53cd43e61a0",
+            "isoDate": "2021-07-21T10:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "In this episode we are discussing Angular Developer Tools with Minko Gechev",
+                "summary": "In this episode we are discussing Angular Developer Tools with Minko Gechev",
+                "explicit": "No",
+                "duration": "2716",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "21",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Angular multi-project workspace",
+            "link": "https://share.transistor.fm/s/8d700232",
+            "pubDate": "Wed, 14 Jul 2021 21:00:00 +1000",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>Every time you scaffold a new project with Angular CLI <strong><em>ng new</em></strong> command, the CLI, by default, produces an Angular CLI workspace for that project. </p><p>In some cases when you are working on multiple Angular projects under the same solution you may want to try out a Multi-project Workspace. This approach is also suitable for many enterprise projects.</p><p><strong><em>ng new my-solution --create-application false<br>cd my-solution</em></strong></p><p><strong><em>ng g application my-app</em></strong></p><p><strong><em>ng g library my-shared-library</em></strong></p><p><strong>Links</strong><br><a href=\"https://angular.io/guide/file-structure#multiple-projects\">Multi-project workspace</a></p><p><strong>Angular Getting Started Workshop</strong><a href=\"https://ngstart.dev\"><br>ngstart.dev</a></p><p><strong>Aliaksei's mailing list</strong><br><a href=\"https://kuncevic.dev/?ref=rocks\">kuncevic.dev</a></p>\n      ",
+            "content:encodedSnippet": "Every time you scaffold a new project with Angular CLI ng new command, the CLI, by default, produces an Angular CLI workspace for that project. \nIn some cases when you are working on multiple Angular projects under the same solution you may want to try out a Multi-project Workspace. This approach is also suitable for many enterprise projects.\nng new my-solution --create-application false\ncd my-solution\nng g application my-app\nng g library my-shared-library\nLinks\nMulti-project workspace\nAngular Getting Started Workshop\nngstart.dev\nAliaksei's mailing list\nkuncevic.dev",
+            "enclosure": {
+                "url": "https://media.transistor.fm/8d700232/cecbd02a.mp3",
+                "length": "2569344",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>Every time you scaffold a new project with Angular CLI <strong><em>ng new</em></strong> command, the CLI, by default, produces an Angular CLI workspace for that project. </p><p>In some cases when you are working on multiple Angular projects under the same solution you may want to try out a Multi-project Workspace. This approach is also suitable for many enterprise projects.</p><p><strong><em>ng new my-solution --create-application false<br>cd my-solution</em></strong></p><p><strong><em>ng g application my-app</em></strong></p><p><strong><em>ng g library my-shared-library</em></strong></p><p><strong>Links</strong><br><a href=\"https://angular.io/guide/file-structure#multiple-projects\">Multi-project workspace</a></p><p><strong>Angular Getting Started Workshop</strong><a href=\"https://ngstart.dev\"><br>ngstart.dev</a></p><p><strong>Aliaksei's mailing list</strong><br><a href=\"https://kuncevic.dev/?ref=rocks\">kuncevic.dev</a></p>\n      ",
+            "contentSnippet": "Every time you scaffold a new project with Angular CLI ng new command, the CLI, by default, produces an Angular CLI workspace for that project. \nIn some cases when you are working on multiple Angular projects under the same solution you may want to try out a Multi-project Workspace. This approach is also suitable for many enterprise projects.\nng new my-solution --create-application false\ncd my-solution\nng g application my-app\nng g library my-shared-library\nLinks\nMulti-project workspace\nAngular Getting Started Workshop\nngstart.dev\nAliaksei's mailing list\nkuncevic.dev",
+            "guid": "a53fb462-7e77-4eb0-a7a7-69f62f472e8b",
+            "isoDate": "2021-07-14T11:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "This episode is about Angular multi-project workspace 👨‍🚀",
+                "summary": "This episode is about Angular multi-project workspace 👨‍🚀",
+                "explicit": "No",
+                "duration": "157",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "20",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Angular Change Detection with Wassim Chegham ",
+            "link": "https://share.transistor.fm/s/175f39e7",
+            "pubDate": "Wed, 07 Jul 2021 20:00:00 +1000",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>Change Detection is a mechanism built into Angular that allows Angular to decide what actions to be performed when the state of the app changes. Most of the time developers do not have to deal with change detection manually.</p><p>In this episode we are talking about a quick history of change detection and what problem it solves. We also discuss change detection strategies, when you should tap in to change detection manually and tips and tricks. <br><strong><br>People mentioned<br></strong><br></p><p>John Papa</p><p>Misko Hevery</p><p>Elon Musk</p><p><a href=\"https://angular.io/api/core/ChangeDetectorRef\"><br></a><strong>Twitter Discussion<br></strong><a href=\"https://twitter.com/kuncevic/status/1412390756594061314\">Angular Change Detection Edge Cases</a><br><strong><br>Links</strong><br><a href=\"https://chriskohler.dev/angular-change-detection-infographic\">Angular Change Detection Infographic</a><a href=\"https://angular.io/api/core/ChangeDetectorRef\"><br>ChangeDetectorRef<br></a><a href=\"https://angular.io/api/core/ApplicationRef\">ApplicationRef</a><a href=\"https://angular.io/api/core/ChangeDetectorRef\"><br></a><a href=\"https://angular.io/api/core/NgZone\">NgZone</a><a href=\"https://angular.io/api/core/ChangeDetectorRef\"><br></a><br></p><p><strong>More from Wassim</strong><br><a href=\"https://twitter.com/manekinekko\">Twitter</a> </p><p><a href=\"https://dev.to/wassimchegham\">Blog</a></p><p><a href=\"https://wassim.dev\">Website</a></p><p><br><strong>Aliaksei's mailing list</strong><br><a href=\"https://kuncevic.dev/?ref=rocks\">kuncevic.dev<br></a><br></p>\n      ",
+            "content:encodedSnippet": "Change Detection is a mechanism built into Angular that allows Angular to decide what actions to be performed when the state of the app changes. Most of the time developers do not have to deal with change detection manually.\nIn this episode we are talking about a quick history of change detection and what problem it solves. We also discuss change detection strategies, when you should tap in to change detection manually and tips and tricks. \n\nPeople mentioned\n\n\nJohn Papa\nMisko Hevery\nElon Musk\n\nTwitter Discussion\nAngular Change Detection Edge Cases\n\nLinks\nAngular Change Detection Infographic\nChangeDetectorRef\nApplicationRef\nNgZone\n\n\nMore from Wassim\nTwitter \nBlog\nWebsite\n\nAliaksei's mailing list\nkuncevic.dev",
+            "enclosure": {
+                "url": "https://media.transistor.fm/175f39e7/5d449a16.mp3",
+                "length": "38125576",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>Change Detection is a mechanism built into Angular that allows Angular to decide what actions to be performed when the state of the app changes. Most of the time developers do not have to deal with change detection manually.</p><p>In this episode we are talking about a quick history of change detection and what problem it solves. We also discuss change detection strategies, when you should tap in to change detection manually and tips and tricks. <br><strong><br>People mentioned<br></strong><br></p><p>John Papa</p><p>Misko Hevery</p><p>Elon Musk</p><p><a href=\"https://angular.io/api/core/ChangeDetectorRef\"><br></a><strong>Twitter Discussion<br></strong><a href=\"https://twitter.com/kuncevic/status/1412390756594061314\">Angular Change Detection Edge Cases</a><br><strong><br>Links</strong><br><a href=\"https://chriskohler.dev/angular-change-detection-infographic\">Angular Change Detection Infographic</a><a href=\"https://angular.io/api/core/ChangeDetectorRef\"><br>ChangeDetectorRef<br></a><a href=\"https://angular.io/api/core/ApplicationRef\">ApplicationRef</a><a href=\"https://angular.io/api/core/ChangeDetectorRef\"><br></a><a href=\"https://angular.io/api/core/NgZone\">NgZone</a><a href=\"https://angular.io/api/core/ChangeDetectorRef\"><br></a><br></p><p><strong>More from Wassim</strong><br><a href=\"https://twitter.com/manekinekko\">Twitter</a> </p><p><a href=\"https://dev.to/wassimchegham\">Blog</a></p><p><a href=\"https://wassim.dev\">Website</a></p><p><br><strong>Aliaksei's mailing list</strong><br><a href=\"https://kuncevic.dev/?ref=rocks\">kuncevic.dev<br></a><br></p>\n      ",
+            "contentSnippet": "Change Detection is a mechanism built into Angular that allows Angular to decide what actions to be performed when the state of the app changes. Most of the time developers do not have to deal with change detection manually.\nIn this episode we are talking about a quick history of change detection and what problem it solves. We also discuss change detection strategies, when you should tap in to change detection manually and tips and tricks. \n\nPeople mentioned\n\n\nJohn Papa\nMisko Hevery\nElon Musk\n\nTwitter Discussion\nAngular Change Detection Edge Cases\n\nLinks\nAngular Change Detection Infographic\nChangeDetectorRef\nApplicationRef\nNgZone\n\n\nMore from Wassim\nTwitter \nBlog\nWebsite\n\nAliaksei's mailing list\nkuncevic.dev",
+            "guid": "e5cd4e0e-4035-4698-80d4-7c4eaf334a7b",
+            "isoDate": "2021-07-07T10:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "In this episode we are discussing Angular Change Detection with Wassim Chegham ",
+                "summary": "In this episode we are discussing Angular Change Detection with Wassim Chegham ",
+                "explicit": "No",
+                "duration": "2379",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "19",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Keeping Angular Projects Up To Date",
+            "link": "https://share.transistor.fm/s/e6be7da6",
+            "pubDate": "Wed, 30 Jun 2021 20:00:00 +1000",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>Angular is continuously evolving together with the entire web ecosystem. </p><p>Therefore, it is a recommended best practice to keep up your Angular projects up to date with the latest Angular version.</p><p>In this episode, you will learn why updating to a new Angular version is a good idea. Also, I will provide some tips that will help you to achieve that.</p><p><strong>Links:</strong></p><p><a href=\"https://angular.io/guide/releases\">Angular versioning and releases</a><br><a href=\"https://update.angular.io\">Angular update guide</a><br><a href=\"https://angular.io/guide/deprecations\">Deprecated APIs and features</a><br><a href=\"https://angular.io/cli/update\">ng update</a><br><a href=\"https://stackoverflow.com/a/60258560\">Angular,  Angular CLI, NodeJS compatibility list </a><br><a href=\"https://github.com/cexbrayat/angular-cli-diff\">Angular CLI diff</a></p>\n      ",
+            "content:encodedSnippet": "Angular is continuously evolving together with the entire web ecosystem. \nTherefore, it is a recommended best practice to keep up your Angular projects up to date with the latest Angular version.\nIn this episode, you will learn why updating to a new Angular version is a good idea. Also, I will provide some tips that will help you to achieve that.\nLinks:\nAngular versioning and releases\nAngular update guide\nDeprecated APIs and features\nng update\nAngular,  Angular CLI, NodeJS compatibility list \nAngular CLI diff",
+            "enclosure": {
+                "url": "https://media.transistor.fm/e6be7da6/29a94b3b.mp3",
+                "length": "2278883",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>Angular is continuously evolving together with the entire web ecosystem. </p><p>Therefore, it is a recommended best practice to keep up your Angular projects up to date with the latest Angular version.</p><p>In this episode, you will learn why updating to a new Angular version is a good idea. Also, I will provide some tips that will help you to achieve that.</p><p><strong>Links:</strong></p><p><a href=\"https://angular.io/guide/releases\">Angular versioning and releases</a><br><a href=\"https://update.angular.io\">Angular update guide</a><br><a href=\"https://angular.io/guide/deprecations\">Deprecated APIs and features</a><br><a href=\"https://angular.io/cli/update\">ng update</a><br><a href=\"https://stackoverflow.com/a/60258560\">Angular,  Angular CLI, NodeJS compatibility list </a><br><a href=\"https://github.com/cexbrayat/angular-cli-diff\">Angular CLI diff</a></p>\n      ",
+            "contentSnippet": "Angular is continuously evolving together with the entire web ecosystem. \nTherefore, it is a recommended best practice to keep up your Angular projects up to date with the latest Angular version.\nIn this episode, you will learn why updating to a new Angular version is a good idea. Also, I will provide some tips that will help you to achieve that.\nLinks:\nAngular versioning and releases\nAngular update guide\nDeprecated APIs and features\nng update\nAngular,  Angular CLI, NodeJS compatibility list \nAngular CLI diff",
+            "guid": "3f3423cc-b9c8-47b0-82cc-f08002b32b35",
+            "isoDate": "2021-06-30T10:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "This episode is about how to keep your Angular projects up to date ✨ ",
+                "summary": "This episode is about how to keep your Angular projects up to date ✨ ",
+                "explicit": "No",
+                "duration": "139",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "18",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Animations with William Juan",
+            "link": "https://share.transistor.fm/s/acc568ba",
+            "pubDate": "Wed, 23 Jun 2021 20:00:00 +1000",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>Animation is a great solution to improve the application experience.</p><p>You can add animations to your web applications using CSS animations, browsers web animations API or by using third-party libraries.</p><p>Juan talking bout different aspects of animations, how it works and how to get started.</p><p><strong>Links</strong><br><a href=\"https://angular.io/guide/animations\">angular.io/guide/animations</a><br><a href=\"https://auth0.com/blog/get-better-angular-ux-using-animation-techniques\">auth0.com/blog/get-better-angular-ux-using-animation-techniques</a><br><a href=\"https://indepth.dev/posts/1285/in-depth-guide-into-animations-in-angular\">indepth.dev/posts/1285/in-depth-guide-into-animations-in-angular</a><br><a href=\"https://williamjuan027.github.io/angular-animations-explorer\">williamjuan027.github.io/angular-animations-explorer</a></p><p><a href=\"http://popmotion.io\">Popmotion</a><br><a href=\"https://airbnb.io/lottie\">lottie</a><br><a href=\"https://tailwindcss.com/docs/animation\">Tailwind</a></p><p><strong>More from Juan</strong><br><a href=\"https://twitter.com/williamjuan27\">Twitter</a><br><a href=\"https://williamjuan.dev\">Website</a></p>\n      ",
+            "content:encodedSnippet": "Animation is a great solution to improve the application experience.\nYou can add animations to your web applications using CSS animations, browsers web animations API or by using third-party libraries.\nJuan talking bout different aspects of animations, how it works and how to get started.\nLinks\nangular.io/guide/animations\nauth0.com/blog/get-better-angular-ux-using-animation-techniques\nindepth.dev/posts/1285/in-depth-guide-into-animations-in-angular\nwilliamjuan027.github.io/angular-animations-explorer\nPopmotion\nlottie\nTailwind\nMore from Juan\nTwitter\nWebsite",
+            "enclosure": {
+                "url": "https://media.transistor.fm/acc568ba/b3d34ce2.mp3",
+                "length": "23616955",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>Animation is a great solution to improve the application experience.</p><p>You can add animations to your web applications using CSS animations, browsers web animations API or by using third-party libraries.</p><p>Juan talking bout different aspects of animations, how it works and how to get started.</p><p><strong>Links</strong><br><a href=\"https://angular.io/guide/animations\">angular.io/guide/animations</a><br><a href=\"https://auth0.com/blog/get-better-angular-ux-using-animation-techniques\">auth0.com/blog/get-better-angular-ux-using-animation-techniques</a><br><a href=\"https://indepth.dev/posts/1285/in-depth-guide-into-animations-in-angular\">indepth.dev/posts/1285/in-depth-guide-into-animations-in-angular</a><br><a href=\"https://williamjuan027.github.io/angular-animations-explorer\">williamjuan027.github.io/angular-animations-explorer</a></p><p><a href=\"http://popmotion.io\">Popmotion</a><br><a href=\"https://airbnb.io/lottie\">lottie</a><br><a href=\"https://tailwindcss.com/docs/animation\">Tailwind</a></p><p><strong>More from Juan</strong><br><a href=\"https://twitter.com/williamjuan27\">Twitter</a><br><a href=\"https://williamjuan.dev\">Website</a></p>\n      ",
+            "contentSnippet": "Animation is a great solution to improve the application experience.\nYou can add animations to your web applications using CSS animations, browsers web animations API or by using third-party libraries.\nJuan talking bout different aspects of animations, how it works and how to get started.\nLinks\nangular.io/guide/animations\nauth0.com/blog/get-better-angular-ux-using-animation-techniques\nindepth.dev/posts/1285/in-depth-guide-into-animations-in-angular\nwilliamjuan027.github.io/angular-animations-explorer\nPopmotion\nlottie\nTailwind\nMore from Juan\nTwitter\nWebsite",
+            "guid": "7b000315-6b56-4c2f-abcb-2a0d44cd1e1d",
+            "isoDate": "2021-06-23T10:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "In this episode we are discussing Animations in Angular with William Juan",
+                "summary": "In this episode we are discussing Animations in Angular with William Juan",
+                "explicit": "No",
+                "duration": "1473",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "17",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Responsive Design",
+            "link": "https://share.transistor.fm/s/de7d20b8",
+            "pubDate": "Wed, 16 Jun 2021 20:00:00 +1000",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>These days, people use different devices to access the web. Therefore, every web application should be adapted to all screen sizes.</p><p>Responsive Design is a technique that allows screens to adjust to different sizes accordingly.</p><p>There are a few techniques to make your Angular Apps responsive. You can choose from several libraries specifically built for that purpose or just do plain CSS by writing CSS Media Queries.</p><p>Lets discuss that  👉 <a href=\"https://twitter.com/kuncevic/status/1404775599218987012\">Twitter thread </a></p><p><strong>Links<br></strong><a href=\"https://github.com/angular/flex-layout\">Angular Flex Layout</a><br><a href=\"https://material.angular.io/cdk/layout/overview\">Angular CDK Layout</a><br><a href=\"https://tailwindcss.com/docs/responsive-design\">Tailwind Responsive Design</a><br><a href=\"https://getbootstrap.com/docs/5.0/layout/utilities\">Bootstrap Layout Utilities </a><br><a href=\"https://www.w3schools.com/css/css_rwd_mediaqueries.asp\">CSS Media Queries</a></p><p><strong>Twitter Pool</strong><br><a href=\"https://twitter.com/kuncevic/status/1404775599218987012\">Angular Flex Layout / CDK vs Tailwind / Bootstrap Utilities vs Media Queries</a></p>\n      ",
+            "content:encodedSnippet": "These days, people use different devices to access the web. Therefore, every web application should be adapted to all screen sizes.\nResponsive Design is a technique that allows screens to adjust to different sizes accordingly.\nThere are a few techniques to make your Angular Apps responsive. You can choose from several libraries specifically built for that purpose or just do plain CSS by writing CSS Media Queries.\nLets discuss that  👉 Twitter thread \nLinks\nAngular Flex Layout\nAngular CDK Layout\nTailwind Responsive Design\nBootstrap Layout Utilities \nCSS Media Queries\nTwitter Pool\nAngular Flex Layout / CDK vs Tailwind / Bootstrap Utilities vs Media Queries",
+            "enclosure": {
+                "url": "https://media.transistor.fm/de7d20b8/f41e0d2d.mp3",
+                "length": "3164938",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>These days, people use different devices to access the web. Therefore, every web application should be adapted to all screen sizes.</p><p>Responsive Design is a technique that allows screens to adjust to different sizes accordingly.</p><p>There are a few techniques to make your Angular Apps responsive. You can choose from several libraries specifically built for that purpose or just do plain CSS by writing CSS Media Queries.</p><p>Lets discuss that  👉 <a href=\"https://twitter.com/kuncevic/status/1404775599218987012\">Twitter thread </a></p><p><strong>Links<br></strong><a href=\"https://github.com/angular/flex-layout\">Angular Flex Layout</a><br><a href=\"https://material.angular.io/cdk/layout/overview\">Angular CDK Layout</a><br><a href=\"https://tailwindcss.com/docs/responsive-design\">Tailwind Responsive Design</a><br><a href=\"https://getbootstrap.com/docs/5.0/layout/utilities\">Bootstrap Layout Utilities </a><br><a href=\"https://www.w3schools.com/css/css_rwd_mediaqueries.asp\">CSS Media Queries</a></p><p><strong>Twitter Pool</strong><br><a href=\"https://twitter.com/kuncevic/status/1404775599218987012\">Angular Flex Layout / CDK vs Tailwind / Bootstrap Utilities vs Media Queries</a></p>\n      ",
+            "contentSnippet": "These days, people use different devices to access the web. Therefore, every web application should be adapted to all screen sizes.\nResponsive Design is a technique that allows screens to adjust to different sizes accordingly.\nThere are a few techniques to make your Angular Apps responsive. You can choose from several libraries specifically built for that purpose or just do plain CSS by writing CSS Media Queries.\nLets discuss that  👉 Twitter thread \nLinks\nAngular Flex Layout\nAngular CDK Layout\nTailwind Responsive Design\nBootstrap Layout Utilities \nCSS Media Queries\nTwitter Pool\nAngular Flex Layout / CDK vs Tailwind / Bootstrap Utilities vs Media Queries",
+            "guid": "6c587d9a-6ce6-43ef-bc78-0c05255fa996",
+            "isoDate": "2021-06-16T10:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "This episode is about how to make Angular apps responsive📱",
+                "summary": "This episode is about how to make Angular apps responsive📱",
+                "explicit": "No",
+                "duration": "194",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "16",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Angular Material with Jeremy Elbourn",
+            "link": "https://share.transistor.fm/s/f8e4f706",
+            "pubDate": "Wed, 09 Jun 2021 20:00:00 +1000",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>Angular Material is the most popular UI library available for Angular. It contains a set of high-quality components implementing Google Material Design specification, built by the Angular Team.</p><p>Think of Angular Material as a foundation that you can use to build your own custom components.</p><p>Jeremy touched on a quick history about Angular Material, its continuous evolution and what to expect in the future.</p><p><strong>Links</strong><br><a href=\"https://material.angular.io\">material.angular.io</a><br><a href=\"https://material.angular.io/guides\">guides</a></p><p><strong>More from Jeremy</strong><br><a href=\"https://twitter.com/jelbourn\">twitter</a></p>\n      ",
+            "content:encodedSnippet": "Angular Material is the most popular UI library available for Angular. It contains a set of high-quality components implementing Google Material Design specification, built by the Angular Team.\nThink of Angular Material as a foundation that you can use to build your own custom components.\nJeremy touched on a quick history about Angular Material, its continuous evolution and what to expect in the future.\nLinks\nmaterial.angular.io\nguides\nMore from Jeremy\ntwitter",
+            "enclosure": {
+                "url": "https://media.transistor.fm/f8e4f706/e7910046.mp3",
+                "length": "38177037",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>Angular Material is the most popular UI library available for Angular. It contains a set of high-quality components implementing Google Material Design specification, built by the Angular Team.</p><p>Think of Angular Material as a foundation that you can use to build your own custom components.</p><p>Jeremy touched on a quick history about Angular Material, its continuous evolution and what to expect in the future.</p><p><strong>Links</strong><br><a href=\"https://material.angular.io\">material.angular.io</a><br><a href=\"https://material.angular.io/guides\">guides</a></p><p><strong>More from Jeremy</strong><br><a href=\"https://twitter.com/jelbourn\">twitter</a></p>\n      ",
+            "contentSnippet": "Angular Material is the most popular UI library available for Angular. It contains a set of high-quality components implementing Google Material Design specification, built by the Angular Team.\nThink of Angular Material as a foundation that you can use to build your own custom components.\nJeremy touched on a quick history about Angular Material, its continuous evolution and what to expect in the future.\nLinks\nmaterial.angular.io\nguides\nMore from Jeremy\ntwitter",
+            "guid": "3b74ee83-36f3-4714-80f8-7c936b3eddf9",
+            "isoDate": "2021-06-09T10:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "In this episode we are discussing Angular Material and Angular Components with Jeremy Elbourn",
+                "summary": "In this episode we are discussing Angular Material and Angular Components with Jeremy Elbourn",
+                "explicit": "No",
+                "duration": "2383",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "15",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Angular CDK",
+            "link": "https://share.transistor.fm/s/1a83686c",
+            "pubDate": "Wed, 02 Jun 2021 20:00:00 +1000",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>CDK stands for Component Development Kit. CDK is something that not every Angular developer knows about.</p><p>CDK contains a set of building blocks for creating your own UI components that could be great foundation for your custom components of any sort or a custom component library.</p><p><strong>Links</strong><br><a href=\"https://material.angular.io/cdk\">Angular CDK</a></p>\n      ",
+            "content:encodedSnippet": "CDK stands for Component Development Kit. CDK is something that not every Angular developer knows about.\nCDK contains a set of building blocks for creating your own UI components that could be great foundation for your custom components of any sort or a custom component library.\nLinks\nAngular CDK",
+            "enclosure": {
+                "url": "https://media.transistor.fm/1a83686c/2426770b.mp3",
+                "length": "2224908",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>CDK stands for Component Development Kit. CDK is something that not every Angular developer knows about.</p><p>CDK contains a set of building blocks for creating your own UI components that could be great foundation for your custom components of any sort or a custom component library.</p><p><strong>Links</strong><br><a href=\"https://material.angular.io/cdk\">Angular CDK</a></p>\n      ",
+            "contentSnippet": "CDK stands for Component Development Kit. CDK is something that not every Angular developer knows about.\nCDK contains a set of building blocks for creating your own UI components that could be great foundation for your custom components of any sort or a custom component library.\nLinks\nAngular CDK",
+            "guid": "bbc65b93-9c36-4cfd-b177-21b34236fd79",
+            "isoDate": "2021-06-02T10:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "This episode is a quick introduction in to Angular CDK  🧩",
+                "summary": "This episode is a quick introduction in to Angular CDK  🧩",
+                "explicit": "No",
+                "duration": "136",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "14",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "The History of Angular with Misko Hevery",
+            "link": "https://share.transistor.fm/s/28cff55e",
+            "pubDate": "Wed, 26 May 2021 21:25:23 +1000",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>Angular has been around for many years now.  There are a lot of decisions that were made within the Angular team that made Angular so successful today.</p><p>AngularJS referring to v1 - the first version of the framework<br>Angular referring to v2 and up, which is the new modern framework which is completely different to AngularJS</p><p>This time Miško Hevery, the creator of Angular will tell about Angular history and share insights on his journey working at Google creating one the coolest front-end framework!</p><p><strong>Links:<br></strong><a href=\"https://angular.io\">angular.io</a></p><p><strong>People mentioned<br></strong>Adam Abrons<strong><br></strong>Igor Minar</p><p><strong>More from Miško:<br></strong><a href=\"http://builder.io/\">builder.io</a><br><a href=\"https://twitter.com/mhevery\">twitter</a></p>\n      ",
+            "content:encodedSnippet": "Angular has been around for many years now.  There are a lot of decisions that were made within the Angular team that made Angular so successful today.\nAngularJS referring to v1 - the first version of the framework\nAngular referring to v2 and up, which is the new modern framework which is completely different to AngularJS\nThis time Miško Hevery, the creator of Angular will tell about Angular history and share insights on his journey working at Google creating one the coolest front-end framework!\nLinks:\nangular.io\nPeople mentioned\nAdam Abrons\nIgor Minar\nMore from Miško:\nbuilder.io\ntwitter",
+            "enclosure": {
+                "url": "https://media.transistor.fm/28cff55e/dbd67bd2.mp3",
+                "length": "36192987",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>Angular has been around for many years now.  There are a lot of decisions that were made within the Angular team that made Angular so successful today.</p><p>AngularJS referring to v1 - the first version of the framework<br>Angular referring to v2 and up, which is the new modern framework which is completely different to AngularJS</p><p>This time Miško Hevery, the creator of Angular will tell about Angular history and share insights on his journey working at Google creating one the coolest front-end framework!</p><p><strong>Links:<br></strong><a href=\"https://angular.io\">angular.io</a></p><p><strong>People mentioned<br></strong>Adam Abrons<strong><br></strong>Igor Minar</p><p><strong>More from Miško:<br></strong><a href=\"http://builder.io/\">builder.io</a><br><a href=\"https://twitter.com/mhevery\">twitter</a></p>\n      ",
+            "contentSnippet": "Angular has been around for many years now.  There are a lot of decisions that were made within the Angular team that made Angular so successful today.\nAngularJS referring to v1 - the first version of the framework\nAngular referring to v2 and up, which is the new modern framework which is completely different to AngularJS\nThis time Miško Hevery, the creator of Angular will tell about Angular history and share insights on his journey working at Google creating one the coolest front-end framework!\nLinks:\nangular.io\nPeople mentioned\nAdam Abrons\nIgor Minar\nMore from Miško:\nbuilder.io\ntwitter",
+            "guid": "434c61da-9b7b-4d7b-8454-b59783839a73",
+            "isoDate": "2021-05-26T11:25:23.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "In this episode we are discussing Angular history with the creator of Angular Miško Hevery",
+                "summary": "In this episode we are discussing Angular history with the creator of Angular Miško Hevery",
+                "explicit": "No",
+                "duration": "2259",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "13",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Component Communication Techniques",
+            "link": "https://share.transistor.fm/s/85965a75",
+            "pubDate": "Wed, 19 May 2021 20:00:00 +1000",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>Component communication is the most common challenge developers face building single page applications.</p><p>There are several techniques that you can use to approach components communication building Angular applications.</p><p>In this episode I am discussing basic component communication techniques.</p><p><strong>Links</strong><a href=\"https://angular.io/guide/inputs-outputs\"><br>Inputs and Outputs</a><br><a href=\"https://angular.io/api/common/AsyncPipe\">Async Pipe</a><br><a href=\"https://dev.to/kuncevic/reactive-services-with-rxjs-49p7\">Reactive Services Technique</a><br><a href=\"https://www.npmjs.com/package/rx-service\">Rx-service</a></p>\n      ",
+            "content:encodedSnippet": "Component communication is the most common challenge developers face building single page applications.\nThere are several techniques that you can use to approach components communication building Angular applications.\nIn this episode I am discussing basic component communication techniques.\nLinks\nInputs and Outputs\nAsync Pipe\nReactive Services Technique\nRx-service",
+            "enclosure": {
+                "url": "https://media.transistor.fm/85965a75/11791184.mp3",
+                "length": "3120672",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>Component communication is the most common challenge developers face building single page applications.</p><p>There are several techniques that you can use to approach components communication building Angular applications.</p><p>In this episode I am discussing basic component communication techniques.</p><p><strong>Links</strong><a href=\"https://angular.io/guide/inputs-outputs\"><br>Inputs and Outputs</a><br><a href=\"https://angular.io/api/common/AsyncPipe\">Async Pipe</a><br><a href=\"https://dev.to/kuncevic/reactive-services-with-rxjs-49p7\">Reactive Services Technique</a><br><a href=\"https://www.npmjs.com/package/rx-service\">Rx-service</a></p>\n      ",
+            "contentSnippet": "Component communication is the most common challenge developers face building single page applications.\nThere are several techniques that you can use to approach components communication building Angular applications.\nIn this episode I am discussing basic component communication techniques.\nLinks\nInputs and Outputs\nAsync Pipe\nReactive Services Technique\nRx-service",
+            "guid": "838e4765-070a-40cd-8326-66ea08abd3d2",
+            "isoDate": "2021-05-19T10:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "In this episode you will learn Angular component communication techniques 🛰",
+                "summary": "In this episode you will learn Angular component communication techniques 🛰",
+                "explicit": "No",
+                "duration": "192",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "12",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Angular Router with Justin Schwartzenberger",
+            "link": "https://share.transistor.fm/s/a8529b85",
+            "pubDate": "Wed, 12 May 2021 20:00:00 +1000",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>Angular router solves a lot of problems in client facing single-page web applications. </p><p>The router helps to control the page content by dynamically displaying the components without a need to request pages from the server.  </p><p>Without an Angular router the user navigation experience in Angular application would be hard to achieve.</p><p><strong>Links<br></strong><a href=\"https://angular.io/guide/router\">Angular Router</a><strong><br></strong><a href=\"https://www.youtube.com/watch?v=Nwp7IckoHxI\">Revisiting a Reactive Router with Ivy</a></p><p><strong>People mentioned<br></strong>Mike Ryan<br>Brandon Roberts<br>Victor Savkin<br>Michael Karén</p><p><strong><br>More from Justin<br></strong><a href=\"https://twitter.com/schwarty\">Twitter</a><br><a href=\"https://angularair.com/\">Website</a></p><p><strong>Aliaksei's mailing list<br></strong><a href=\"https://kuncevic.dev?ref=rocks\">kuncevic.dev</a></p>\n      ",
+            "content:encodedSnippet": "Angular router solves a lot of problems in client facing single-page web applications. \nThe router helps to control the page content by dynamically displaying the components without a need to request pages from the server.  \nWithout an Angular router the user navigation experience in Angular application would be hard to achieve.\nLinks\nAngular Router\nRevisiting a Reactive Router with Ivy\nPeople mentioned\nMike Ryan\nBrandon Roberts\nVictor Savkin\nMichael Karén\n\nMore from Justin\nTwitter\nWebsite\nAliaksei's mailing list\nkuncevic.dev",
+            "enclosure": {
+                "url": "https://media.transistor.fm/a8529b85/fc9f04a7.mp3",
+                "length": "47360844",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>Angular router solves a lot of problems in client facing single-page web applications. </p><p>The router helps to control the page content by dynamically displaying the components without a need to request pages from the server.  </p><p>Without an Angular router the user navigation experience in Angular application would be hard to achieve.</p><p><strong>Links<br></strong><a href=\"https://angular.io/guide/router\">Angular Router</a><strong><br></strong><a href=\"https://www.youtube.com/watch?v=Nwp7IckoHxI\">Revisiting a Reactive Router with Ivy</a></p><p><strong>People mentioned<br></strong>Mike Ryan<br>Brandon Roberts<br>Victor Savkin<br>Michael Karén</p><p><strong><br>More from Justin<br></strong><a href=\"https://twitter.com/schwarty\">Twitter</a><br><a href=\"https://angularair.com/\">Website</a></p><p><strong>Aliaksei's mailing list<br></strong><a href=\"https://kuncevic.dev?ref=rocks\">kuncevic.dev</a></p>\n      ",
+            "contentSnippet": "Angular router solves a lot of problems in client facing single-page web applications. \nThe router helps to control the page content by dynamically displaying the components without a need to request pages from the server.  \nWithout an Angular router the user navigation experience in Angular application would be hard to achieve.\nLinks\nAngular Router\nRevisiting a Reactive Router with Ivy\nPeople mentioned\nMike Ryan\nBrandon Roberts\nVictor Savkin\nMichael Karén\n\nMore from Justin\nTwitter\nWebsite\nAliaksei's mailing list\nkuncevic.dev",
+            "guid": "83305973-e80b-470b-81cd-d0f2d4ebd4fa",
+            "isoDate": "2021-05-12T10:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "In this episode we are discussing the Angular router with Justin Schwartzenberger",
+                "summary": "In this episode we are discussing the Angular router with Justin Schwartzenberger",
+                "explicit": "No",
+                "duration": "2957",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "11",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Application Folder Structure ",
+            "link": "https://share.transistor.fm/s/673f492a",
+            "pubDate": "Wed, 05 May 2021 20:00:00 +1000",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>Have you ever asked yourself the following question, what is the best way to structure an Angular application?</p><p>In this episode you will find out why you should care about the folder structure and what are the benefits of the proper folder structure.</p><p><strong>Links</strong><br><a href=\"https://angular.io/guide/feature-modules\">Feature modules</a></p>\n      ",
+            "content:encodedSnippet": "Have you ever asked yourself the following question, what is the best way to structure an Angular application?\nIn this episode you will find out why you should care about the folder structure and what are the benefits of the proper folder structure.\nLinks\nFeature modules",
+            "enclosure": {
+                "url": "https://media.transistor.fm/673f492a/c3e3b091.mp3",
+                "length": "3322979",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>Have you ever asked yourself the following question, what is the best way to structure an Angular application?</p><p>In this episode you will find out why you should care about the folder structure and what are the benefits of the proper folder structure.</p><p><strong>Links</strong><br><a href=\"https://angular.io/guide/feature-modules\">Feature modules</a></p>\n      ",
+            "contentSnippet": "Have you ever asked yourself the following question, what is the best way to structure an Angular application?\nIn this episode you will find out why you should care about the folder structure and what are the benefits of the proper folder structure.\nLinks\nFeature modules",
+            "guid": "94b89791-a3d0-4ebf-a77f-9d914a8f8ff6",
+            "isoDate": "2021-05-05T10:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "In this episode you will learn about application structure and why it is so important 🏗",
+                "summary": "In this episode you will learn about application structure and why it is so important 🏗",
+                "explicit": "No",
+                "duration": "204",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "10",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Error Handling with Michael Karén",
+            "link": "https://share.transistor.fm/s/078a4111",
+            "pubDate": "Wed, 28 Apr 2021 20:00:00 +1000",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>Error handling is a fundamental part of any real-world web application.</p><p>In this episode, you will find everything you need to know about error handling in Angular and more.</p><p>Fun fact: <em>That is literally the first ever episode of Angular Rocks, recorded on 21 Jan 2021</em></p><p><strong>Links</strong></p><p><a href=\"https://angular.io/api/core/ErrorHandler\">Error Handler Class</a><br><a href=\"https://angular.io/errors\">Angular Errors List </a><br><a href=\"https://blog.angular.io/angular-debugging-guides-dfe0ef915036\">Angular Debugging Guides</a><br><a href=\"https://indepth.dev/posts/1074/expecting-the-unexpected-best-practices-for-error-handling-in-angular\">Best practices for Error handling in Angular</a></p><p><strong>People mentioned</strong><br>David Herges</p><p><strong>More from Michael<br></strong><a href=\"https://twitter.com/melcor76\">Twitter</a><br><a href=\"https://blog.michaelkaren.dev\">Blog</a></p><p><strong>Aliaksei's mailing list<br></strong><a href=\"https://kuncevic.dev?ref=rocks\">kuncevic.dev</a></p>\n      ",
+            "content:encodedSnippet": "Error handling is a fundamental part of any real-world web application.\nIn this episode, you will find everything you need to know about error handling in Angular and more.\nFun fact: That is literally the first ever episode of Angular Rocks, recorded on 21 Jan 2021\nLinks\nError Handler Class\nAngular Errors List \nAngular Debugging Guides\nBest practices for Error handling in Angular\nPeople mentioned\nDavid Herges\nMore from Michael\nTwitter\nBlog\nAliaksei's mailing list\nkuncevic.dev",
+            "enclosure": {
+                "url": "https://media.transistor.fm/078a4111/b1d010c2.mp3",
+                "length": "26032951",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>Error handling is a fundamental part of any real-world web application.</p><p>In this episode, you will find everything you need to know about error handling in Angular and more.</p><p>Fun fact: <em>That is literally the first ever episode of Angular Rocks, recorded on 21 Jan 2021</em></p><p><strong>Links</strong></p><p><a href=\"https://angular.io/api/core/ErrorHandler\">Error Handler Class</a><br><a href=\"https://angular.io/errors\">Angular Errors List </a><br><a href=\"https://blog.angular.io/angular-debugging-guides-dfe0ef915036\">Angular Debugging Guides</a><br><a href=\"https://indepth.dev/posts/1074/expecting-the-unexpected-best-practices-for-error-handling-in-angular\">Best practices for Error handling in Angular</a></p><p><strong>People mentioned</strong><br>David Herges</p><p><strong>More from Michael<br></strong><a href=\"https://twitter.com/melcor76\">Twitter</a><br><a href=\"https://blog.michaelkaren.dev\">Blog</a></p><p><strong>Aliaksei's mailing list<br></strong><a href=\"https://kuncevic.dev?ref=rocks\">kuncevic.dev</a></p>\n      ",
+            "contentSnippet": "Error handling is a fundamental part of any real-world web application.\nIn this episode, you will find everything you need to know about error handling in Angular and more.\nFun fact: That is literally the first ever episode of Angular Rocks, recorded on 21 Jan 2021\nLinks\nError Handler Class\nAngular Errors List \nAngular Debugging Guides\nBest practices for Error handling in Angular\nPeople mentioned\nDavid Herges\nMore from Michael\nTwitter\nBlog\nAliaksei's mailing list\nkuncevic.dev",
+            "guid": "d2172918-a5ce-4a03-9d8a-501f7725a5ec",
+            "isoDate": "2021-04-28T10:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "In this episode we are discussing the best practices of error handling with Michael Karén",
+                "summary": "In this episode we are discussing the best practices of error handling with Michael Karén",
+                "explicit": "No",
+                "duration": "1624",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "9",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Interacting with Backend API",
+            "link": "https://share.transistor.fm/s/038001ab",
+            "pubDate": "Wed, 21 Apr 2021 20:00:00 +1000",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>Every real-world web application has to communicate with backend API. </p><p>Developers building web applications with Angular usually interact with the backend API using HttpClient.</p><p>In this episode I am explaining the basic HttpClient features and HTTP methods.</p><p><strong>Links</strong></p><p><a href=\"https://angular.io/guide/http\">Angular HttpClient</a><br><a href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods\">HTTP Methods</a><br><a href=\"https://medium.com/angular-in-depth/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6\">Top 10 ways to use Interceptors in Angular</a></p><p><b><br></b></p><p><strong><br></strong></p>\n      ",
+            "content:encodedSnippet": "Every real-world web application has to communicate with backend API. \nDevelopers building web applications with Angular usually interact with the backend API using HttpClient.\nIn this episode I am explaining the basic HttpClient features and HTTP methods.\nLinks\nAngular HttpClient\nHTTP Methods\nTop 10 ways to use Interceptors in Angular",
+            "enclosure": {
+                "url": "https://media.transistor.fm/038001ab/2396924a.mp3",
+                "length": "2928947",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>Every real-world web application has to communicate with backend API. </p><p>Developers building web applications with Angular usually interact with the backend API using HttpClient.</p><p>In this episode I am explaining the basic HttpClient features and HTTP methods.</p><p><strong>Links</strong></p><p><a href=\"https://angular.io/guide/http\">Angular HttpClient</a><br><a href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods\">HTTP Methods</a><br><a href=\"https://medium.com/angular-in-depth/top-10-ways-to-use-interceptors-in-angular-db450f8a62d6\">Top 10 ways to use Interceptors in Angular</a></p><p><b><br></b></p><p><strong><br></strong></p>\n      ",
+            "contentSnippet": "Every real-world web application has to communicate with backend API. \nDevelopers building web applications with Angular usually interact with the backend API using HttpClient.\nIn this episode I am explaining the basic HttpClient features and HTTP methods.\nLinks\nAngular HttpClient\nHTTP Methods\nTop 10 ways to use Interceptors in Angular",
+            "guid": "73487c0f-0bf7-4f52-a4ce-6531f9bc04e1",
+            "isoDate": "2021-04-21T10:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "In this episode you will learn how to interact with Backend API using Angular 🌐",
+                "summary": "In this episode you will learn how to interact with Backend API using Angular 🌐",
+                "explicit": "No",
+                "duration": "180",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "8",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Dependency Injection with Dmytro Mezhenskyi ",
+            "link": "https://share.transistor.fm/s/a71260d9",
+            "pubDate": "Thu, 15 Apr 2021 08:00:00 +1000",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>Dependency Injection is a design pattern that creates objects and provides them to consumer classes that depend on those objects. </p><p>Dependency Injection is widely used in Angular.</p><p>In this episode you will find everything you need to know about Dependency Injection and how it works in Angular</p><p><strong>Links<br></strong><a href=\"https://angular.io/guide/dependency-injection\">Dependency Injection</a><br><a href=\"https://www.youtube.com/watch?v=G8zXugcYd7o&amp;list=PLX7eV3JL9sfmJ6AaZj9eDlAKrJrEul4Vz\">Dependency Injection YouTube Series by Dmytro Mezhenskyi</a><strong></strong></p><p>More from Dmytro<br><a href=\"https://twitter.com/DecodedFrontend\">Twitter</a><br><a href=\"%20https://youtube.com/DecodedFrontend\">YouTube</a><br><a href=\"%20http://decodedfrontend.io\">Blog</a></p><p><strong>Aliaksei's mailing list<br></strong><a href=\"https://kuncevic.dev?ref=rocks\">kuncevic.dev</a></p>\n      ",
+            "content:encodedSnippet": "Dependency Injection is a design pattern that creates objects and provides them to consumer classes that depend on those objects. \nDependency Injection is widely used in Angular.\nIn this episode you will find everything you need to know about Dependency Injection and how it works in Angular\nLinks\nDependency Injection\nDependency Injection YouTube Series by Dmytro Mezhenskyi\nMore from Dmytro\nTwitter\nYouTube\nBlog\nAliaksei's mailing list\nkuncevic.dev",
+            "enclosure": {
+                "url": "https://media.transistor.fm/a71260d9/e8051808.mp3",
+                "length": "25857008",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>Dependency Injection is a design pattern that creates objects and provides them to consumer classes that depend on those objects. </p><p>Dependency Injection is widely used in Angular.</p><p>In this episode you will find everything you need to know about Dependency Injection and how it works in Angular</p><p><strong>Links<br></strong><a href=\"https://angular.io/guide/dependency-injection\">Dependency Injection</a><br><a href=\"https://www.youtube.com/watch?v=G8zXugcYd7o&amp;list=PLX7eV3JL9sfmJ6AaZj9eDlAKrJrEul4Vz\">Dependency Injection YouTube Series by Dmytro Mezhenskyi</a><strong></strong></p><p>More from Dmytro<br><a href=\"https://twitter.com/DecodedFrontend\">Twitter</a><br><a href=\"%20https://youtube.com/DecodedFrontend\">YouTube</a><br><a href=\"%20http://decodedfrontend.io\">Blog</a></p><p><strong>Aliaksei's mailing list<br></strong><a href=\"https://kuncevic.dev?ref=rocks\">kuncevic.dev</a></p>\n      ",
+            "contentSnippet": "Dependency Injection is a design pattern that creates objects and provides them to consumer classes that depend on those objects. \nDependency Injection is widely used in Angular.\nIn this episode you will find everything you need to know about Dependency Injection and how it works in Angular\nLinks\nDependency Injection\nDependency Injection YouTube Series by Dmytro Mezhenskyi\nMore from Dmytro\nTwitter\nYouTube\nBlog\nAliaksei's mailing list\nkuncevic.dev",
+            "guid": "1c87b505-6c42-4a98-93cb-20a1bdc3cfe4",
+            "isoDate": "2021-04-14T22:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "In this episode we are discussing the Dependency Injection (DI) with Dmytro Mezhenskyi ",
+                "summary": "In this episode we are discussing the Dependency Injection (DI) with Dmytro Mezhenskyi ",
+                "explicit": "No",
+                "duration": "1613",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "7",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Angular Lifecycle Hooks",
+            "link": "https://share.transistor.fm/s/b6cb66f1",
+            "pubDate": "Wed, 07 Apr 2021 20:20:00 +1000",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>Lifecycle hooks allow you to tap into the Angular lifecycle events to get more control.</p><p><br>In this episode I am explaining the nature of lifecycle hooks in Angular and walking through the essential lifecycle hooks like ngOnInit and ngOnDestroy. </p><p><br><strong>Links</strong></p><p><a href=\"https://angular.io/guide/lifecycle-hooks\">Angular Lifecycle Hooks</a></p>\n      ",
+            "content:encodedSnippet": "Lifecycle hooks allow you to tap into the Angular lifecycle events to get more control.\n\nIn this episode I am explaining the nature of lifecycle hooks in Angular and walking through the essential lifecycle hooks like ngOnInit and ngOnDestroy. \n\nLinks\nAngular Lifecycle Hooks",
+            "enclosure": {
+                "url": "https://media.transistor.fm/b6cb66f1/27e21c00.mp3",
+                "length": "3056817",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>Lifecycle hooks allow you to tap into the Angular lifecycle events to get more control.</p><p><br>In this episode I am explaining the nature of lifecycle hooks in Angular and walking through the essential lifecycle hooks like ngOnInit and ngOnDestroy. </p><p><br><strong>Links</strong></p><p><a href=\"https://angular.io/guide/lifecycle-hooks\">Angular Lifecycle Hooks</a></p>\n      ",
+            "contentSnippet": "Lifecycle hooks allow you to tap into the Angular lifecycle events to get more control.\n\nIn this episode I am explaining the nature of lifecycle hooks in Angular and walking through the essential lifecycle hooks like ngOnInit and ngOnDestroy. \n\nLinks\nAngular Lifecycle Hooks",
+            "guid": "f3d757b6-028e-4195-aca9-33f5e8d75c3c",
+            "isoDate": "2021-04-07T10:20:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "In this episode you will learn Angular lifecycle hooks 🪝",
+                "summary": "In this episode you will learn Angular lifecycle hooks 🪝",
+                "explicit": "No",
+                "duration": "188",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "6",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Angular CLI with Alan Agius",
+            "link": "https://share.transistor.fm/s/80128b9b",
+            "pubDate": "Thu, 01 Apr 2021 22:00:00 +1100",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>Angular CLI is the most important piece of Angular ecosystem. </p><p>In this episode you will find everything you need to know about Angular CLI: </p><ul>\n<li>Brief history</li>\n<li>Top features</li>\n<li>Monorepos </li>\n<li>Tips and tricks</li>\n<li>The future</li>\n</ul><p><br><strong>Links<br></strong><a href=\"https://twitter.com/alanagius4\">Alan Agius on Twitter</a><br><a href=\"https://angular.io/guide/file-structure#setting-up-for-a-multi-project-workspace\">Setup Multi Project Workspace</a><br><a href=\"https://docs.google.com/document/d/1CZC2rcpxffTDfRDs6p1cfbmKNLA6x5O-NtkJglDaBVs\">Angular Package Format (APF) Spec</a> </p><p><a href=\"https://github.com/ng-packagr/ng-packagr\">ng-packagr</a><br><a href=\"https://www.youtube.com/watch?v=gdyiGf0fQzQ\">ng-packagr with David Herges on ngAir</a><br><a href=\"https://www.youtube.com/watch?v=yOpy9UMQG-Y\">Optimizing Apps with Resource Inlining</a></p><p><strong>Bonus <br></strong><a href=\"https://kuncevic.dev/free\">Angular CLI Cheat Sheet</a></p><p><strong><br></strong><br></p>\n      ",
+            "content:encodedSnippet": "Angular CLI is the most important piece of Angular ecosystem. \nIn this episode you will find everything you need to know about Angular CLI: \n\nBrief history\nTop features\nMonorepos \nTips and tricks\nThe future\n\nLinks\nAlan Agius on Twitter\nSetup Multi Project Workspace\nAngular Package Format (APF) Spec \nng-packagr\nng-packagr with David Herges on ngAir\nOptimizing Apps with Resource Inlining\nBonus \nAngular CLI Cheat Sheet",
+            "enclosure": {
+                "url": "https://media.transistor.fm/80128b9b/6c982e2e.mp3",
+                "length": "24081054",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>Angular CLI is the most important piece of Angular ecosystem. </p><p>In this episode you will find everything you need to know about Angular CLI: </p><ul>\n<li>Brief history</li>\n<li>Top features</li>\n<li>Monorepos </li>\n<li>Tips and tricks</li>\n<li>The future</li>\n</ul><p><br><strong>Links<br></strong><a href=\"https://twitter.com/alanagius4\">Alan Agius on Twitter</a><br><a href=\"https://angular.io/guide/file-structure#setting-up-for-a-multi-project-workspace\">Setup Multi Project Workspace</a><br><a href=\"https://docs.google.com/document/d/1CZC2rcpxffTDfRDs6p1cfbmKNLA6x5O-NtkJglDaBVs\">Angular Package Format (APF) Spec</a> </p><p><a href=\"https://github.com/ng-packagr/ng-packagr\">ng-packagr</a><br><a href=\"https://www.youtube.com/watch?v=gdyiGf0fQzQ\">ng-packagr with David Herges on ngAir</a><br><a href=\"https://www.youtube.com/watch?v=yOpy9UMQG-Y\">Optimizing Apps with Resource Inlining</a></p><p><strong>Bonus <br></strong><a href=\"https://kuncevic.dev/free\">Angular CLI Cheat Sheet</a></p><p><strong><br></strong><br></p>\n      ",
+            "contentSnippet": "Angular CLI is the most important piece of Angular ecosystem. \nIn this episode you will find everything you need to know about Angular CLI: \n\nBrief history\nTop features\nMonorepos \nTips and tricks\nThe future\n\nLinks\nAlan Agius on Twitter\nSetup Multi Project Workspace\nAngular Package Format (APF) Spec \nng-packagr\nng-packagr with David Herges on ngAir\nOptimizing Apps with Resource Inlining\nBonus \nAngular CLI Cheat Sheet",
+            "guid": "35b361bb-3e22-416c-9fb0-ea82312c0cb9",
+            "isoDate": "2021-04-01T11:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "In this episode we are discussing the superpowers of Angular CLI with Alan Agius ",
+                "summary": "In this episode we are discussing the superpowers of Angular CLI with Alan Agius ",
+                "explicit": "No",
+                "duration": "1502",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "5",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Angular Template Syntax",
+            "link": "https://share.transistor.fm/s/3155d8cf",
+            "pubDate": "Wed, 24 Mar 2021 20:00:00 +1100",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>Angular template syntax powered by Angular built-in directives helps to do a lot of things within a component template.<br>In this episode I am talking about the main features of an Angular template syntax.</p><p>If you want to learn more, have a look in to Angular Cheat Sheet and the Demo App I created specifically for this episode</p><p><strong>Links</strong></p><p><a href=\"https://kuncevic.dev/free\">Cheat Sheet</a></p>\n      ",
+            "content:encodedSnippet": "Angular template syntax powered by Angular built-in directives helps to do a lot of things within a component template.\nIn this episode I am talking about the main features of an Angular template syntax.\nIf you want to learn more, have a look in to Angular Cheat Sheet and the Demo App I created specifically for this episode\nLinks\nCheat Sheet",
+            "enclosure": {
+                "url": "https://media.transistor.fm/3155d8cf/d3699285.mp3",
+                "length": "2944858",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>Angular template syntax powered by Angular built-in directives helps to do a lot of things within a component template.<br>In this episode I am talking about the main features of an Angular template syntax.</p><p>If you want to learn more, have a look in to Angular Cheat Sheet and the Demo App I created specifically for this episode</p><p><strong>Links</strong></p><p><a href=\"https://kuncevic.dev/free\">Cheat Sheet</a></p>\n      ",
+            "contentSnippet": "Angular template syntax powered by Angular built-in directives helps to do a lot of things within a component template.\nIn this episode I am talking about the main features of an Angular template syntax.\nIf you want to learn more, have a look in to Angular Cheat Sheet and the Demo App I created specifically for this episode\nLinks\nCheat Sheet",
+            "guid": "fafcc6f6-6f16-4775-8523-b6bd44fa7dee",
+            "isoDate": "2021-03-24T09:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "In this episode you will learn about Angular template syntax and built-in directives 🪄",
+                "summary": "In this episode you will learn about Angular template syntax and built-in directives 🪄",
+                "explicit": "No",
+                "duration": "181",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "4",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Angular Building Blocks",
+            "link": "https://share.transistor.fm/s/dd9f4c31",
+            "pubDate": "Wed, 17 Mar 2021 20:00:00 +1100",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>There is a number of building blocks in Angular:</p><ul>\n<li>Components</li>\n<li>Services</li>\n<li>Modules</li>\n<li>Pipes</li>\n<li>Directives</li>\n</ul><p>In this episode I am walking through the essential Angular building blocks and concepts. </p><p><strong>Links</strong></p><p><a href=\"https://angular.io/guide/architecture\">Introduction to Angular Concepts</a></p><p><a href=\"https://angular.io/guide/architecture-components\"><br></a><br></p>\n      ",
+            "content:encodedSnippet": "There is a number of building blocks in Angular:\n\nComponents\nServices\nModules\nPipes\nDirectives\nIn this episode I am walking through the essential Angular building blocks and concepts. \nLinks\nIntroduction to Angular Concepts",
+            "enclosure": {
+                "url": "https://media.transistor.fm/dd9f4c31/b8d8371c.mp3",
+                "length": "6817889",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>There is a number of building blocks in Angular:</p><ul>\n<li>Components</li>\n<li>Services</li>\n<li>Modules</li>\n<li>Pipes</li>\n<li>Directives</li>\n</ul><p>In this episode I am walking through the essential Angular building blocks and concepts. </p><p><strong>Links</strong></p><p><a href=\"https://angular.io/guide/architecture\">Introduction to Angular Concepts</a></p><p><a href=\"https://angular.io/guide/architecture-components\"><br></a><br></p>\n      ",
+            "contentSnippet": "There is a number of building blocks in Angular:\n\nComponents\nServices\nModules\nPipes\nDirectives\nIn this episode I am walking through the essential Angular building blocks and concepts. \nLinks\nIntroduction to Angular Concepts",
+            "guid": "f5886ef7-c473-4eab-ad81-ae8b2dd5a7f6",
+            "isoDate": "2021-03-17T09:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "In this episode you will learn about Angular Building Blocks 🧱",
+                "summary": "In this episode you will learn about Angular Building Blocks 🧱",
+                "explicit": "No",
+                "duration": "423",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "3",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Things You Should Know About Angular",
+            "link": "https://share.transistor.fm/s/fea8502b",
+            "pubDate": "Wed, 10 Mar 2021 20:00:00 +1100",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>In this episode I am explaining what is Angular and answering the following questions:</p><ul>\n<li>What does <em>single-page</em> <em>client-side </em>really means?</li>\n<li>Are there any differences between Angular and AngularJS?</li>\n<li>What are the benefits of using Angular? </li>\n<li>Why developers and companies choosing Angular? </li>\n</ul><p><strong>Links<br></strong><br><a href=\"https://blog.kuncevic.dev/what-are-the-benefits-of-using-angular\">What Are The Benefits Of Using Angular</a><br><a href=\"https://angular.io/docs\">Angular Docs</a><br><a href=\"https://angular.io/guide/roadmap\">Angular Roadmap</a><br><a href=\"https://angular.io/guide/releases\">Angular Versioning and Releases<br></a><a href=\"https://angular.io/guide/npm-packages#angular-packages\">Angular Packages</a><br><a href=\"https://update.angular.io\">Angular Update Guide</a><br><a href=\"https://angular.io/guide/updating\">Keeping Angular Up-to-Date</a><br><a href=\"https://gitter.im/angular/angular\">Angular on Gitter</a><br><a href=\"https://discord.com/invite/angular\">Angular Community on Discord</a><br><a href=\"https://github.com/AngularCommunity/angular-meetups\">Angular Meetups List</a></p><p><strong>Finding an Angular latest version</strong></p><p>in terminal or console:<br><em>npm show @angular/core</em></p><p>in web browser:<br><a href=\"https://github.com/angular/angular\">github.com/angular/angular</a><br><a href=\"https://www.google.com/search?q=angular+latest+version\">angular latest version</a><br></p>\n      ",
+            "content:encodedSnippet": "In this episode I am explaining what is Angular and answering the following questions:\n\nWhat does single-page client-side really means?\nAre there any differences between Angular and AngularJS?\nWhat are the benefits of using Angular? \nWhy developers and companies choosing Angular? \nLinks\n\nWhat Are The Benefits Of Using Angular\nAngular Docs\nAngular Roadmap\nAngular Versioning and Releases\nAngular Packages\nAngular Update Guide\nKeeping Angular Up-to-Date\nAngular on Gitter\nAngular Community on Discord\nAngular Meetups List\nFinding an Angular latest version\nin terminal or console:\nnpm show @angular/core\nin web browser:\ngithub.com/angular/angular\nangular latest version",
+            "enclosure": {
+                "url": "https://media.transistor.fm/fea8502b/afd940ec.mp3",
+                "length": "6769228",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>In this episode I am explaining what is Angular and answering the following questions:</p><ul>\n<li>What does <em>single-page</em> <em>client-side </em>really means?</li>\n<li>Are there any differences between Angular and AngularJS?</li>\n<li>What are the benefits of using Angular? </li>\n<li>Why developers and companies choosing Angular? </li>\n</ul><p><strong>Links<br></strong><br><a href=\"https://blog.kuncevic.dev/what-are-the-benefits-of-using-angular\">What Are The Benefits Of Using Angular</a><br><a href=\"https://angular.io/docs\">Angular Docs</a><br><a href=\"https://angular.io/guide/roadmap\">Angular Roadmap</a><br><a href=\"https://angular.io/guide/releases\">Angular Versioning and Releases<br></a><a href=\"https://angular.io/guide/npm-packages#angular-packages\">Angular Packages</a><br><a href=\"https://update.angular.io\">Angular Update Guide</a><br><a href=\"https://angular.io/guide/updating\">Keeping Angular Up-to-Date</a><br><a href=\"https://gitter.im/angular/angular\">Angular on Gitter</a><br><a href=\"https://discord.com/invite/angular\">Angular Community on Discord</a><br><a href=\"https://github.com/AngularCommunity/angular-meetups\">Angular Meetups List</a></p><p><strong>Finding an Angular latest version</strong></p><p>in terminal or console:<br><em>npm show @angular/core</em></p><p>in web browser:<br><a href=\"https://github.com/angular/angular\">github.com/angular/angular</a><br><a href=\"https://www.google.com/search?q=angular+latest+version\">angular latest version</a><br></p>\n      ",
+            "contentSnippet": "In this episode I am explaining what is Angular and answering the following questions:\n\nWhat does single-page client-side really means?\nAre there any differences between Angular and AngularJS?\nWhat are the benefits of using Angular? \nWhy developers and companies choosing Angular? \nLinks\n\nWhat Are The Benefits Of Using Angular\nAngular Docs\nAngular Roadmap\nAngular Versioning and Releases\nAngular Packages\nAngular Update Guide\nKeeping Angular Up-to-Date\nAngular on Gitter\nAngular Community on Discord\nAngular Meetups List\nFinding an Angular latest version\nin terminal or console:\nnpm show @angular/core\nin web browser:\ngithub.com/angular/angular\nangular latest version",
+            "guid": "7f8fa968-14bf-4b8d-b081-8afbb4cdb116",
+            "isoDate": "2021-03-10T09:00:00.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "In this episode you will learn what is Angular and what are the benefits of using Angular 🔥 \r\n",
+                "summary": "In this episode you will learn what is Angular and what are the benefits of using Angular 🔥 \r\n",
+                "explicit": "No",
+                "duration": "420",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "2",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        },
+        {
+            "creator": "Aliaksei Kuncevič",
+            "title": "Hello World",
+            "link": "https://share.transistor.fm/s/e6bde206",
+            "pubDate": "Tue, 02 Mar 2021 11:11:27 +1100",
+            "author": "Aliaksei Kuncevič",
+            "content:encoded": "\n        <p>Angular Rocks: who it's for and what it's about. Hosted by <a href=\"https://kuncevic.dev?ref=rocks\">kuncevic.dev</a></p>\n      ",
+            "content:encodedSnippet": "Angular Rocks: who it's for and what it's about. Hosted by kuncevic.dev",
+            "enclosure": {
+                "url": "https://media.transistor.fm/e6bde206/c9179281.mp3",
+                "length": "1216858",
+                "type": "audio/mpeg"
+            },
+            "content": "\n        <p>Angular Rocks: who it's for and what it's about. Hosted by <a href=\"https://kuncevic.dev?ref=rocks\">kuncevic.dev</a></p>\n      ",
+            "contentSnippet": "Angular Rocks: who it's for and what it's about. Hosted by kuncevic.dev",
+            "guid": "1fc9941c-4340-4dca-beb6-4805c572f615",
+            "isoDate": "2021-03-02T00:11:27.000Z",
+            "itunes": {
+                "author": "Aliaksei Kuncevič",
+                "subtitle": "About Angular Rocks. Hosted by kuncevic.dev 👋",
+                "summary": "About Angular Rocks. Hosted by kuncevic.dev 👋",
+                "explicit": "No",
+                "duration": "73",
+                "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+                "episode": "1",
+                "keywords": "web development, web technology, programming, angular"
+            }
+        }
+    ],
+    "feedUrl": "https://feeds.transistor.fm/angularrocks",
+    "image": {
+        "link": "https://angularrocks.com",
+        "url": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+        "title": "Angular Rocks"
+    },
+    "paginationLinks": {
+        "self": "https://feeds.transistor.fm/angularrocks"
+    },
+    "title": "Angular Rocks",
+    "description": "All things Angular podcast 🎙 by Aliaksei Kuncevič.",
+    "pubDate": "Wed, 11 Aug 2021 21:00:00 +1000",
+    "generator": "Transistor (https://transistor.fm)",
+    "link": "https://angularrocks.com",
+    "language": "en",
+    "copyright": "© 2021 Angular Rocks",
+    "lastBuildDate": "Wed, 11 Aug 2021 21:19:26 +1000",
+    "itunes": {
+        "owner": {
+            "name": "Aliaksei Kuncevič",
+            "email": "aliaksei@kuncevic.dev"
+        },
+        "image": "https://images.transistor.fm/file/transistor/images/show/18868/full_1614303633-artwork.jpg",
+        "categories": [
+            "Technology",
+            "Education"
+        ],
+        "categoriesWithSubs": [
+            {
+                "name": "Technology",
+                "subs": null
+            },
+            {
+                "name": "Education",
+                "subs": null
+            }
+        ],
+        "keywords": [
+            "web development",
+            " web technology",
+            " programming",
+            " angular"
+        ],
+        "author": "Aliaksei Kuncevič",
+        "subtitle": "All things Angular podcast 🎙 by Aliaksei Kuncevič..",
+        "summary": "All things Angular podcast 🎙 by Aliaksei Kuncevič.",
+        "explicit": "No"
+    },
+    "entities": [],
+    "episodes": []
+}
