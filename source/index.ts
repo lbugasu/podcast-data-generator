@@ -61,7 +61,7 @@ function generateNamedEntities() {
       console.log('Error: ')
     })
     if (parsedRssFeed) {
-      writeToFile(parsedRssFeed, slug(parsedRssFeed.title || xmlFeedPath), 'podcasts_ner', (i/pdcstRssFeedPaths.length))
+      writeToFile(parsedRssFeed, slug(parsedRssFeed.title || xmlFeedPath), 'podcasts_ne', (i/pdcstRssFeedPaths.length))
     }
     console.log(`Parsing Json Feeds: ${ (((i+1)/pdcstRssFeedPaths.length)*100).toFixed(2)}%`)
     return parsedRssFeed
