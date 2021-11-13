@@ -5,7 +5,7 @@ on:
       - main
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     strategy:
       matrix:
         node-version: [14.x]
@@ -30,7 +30,7 @@ jobs:
           mkdir tmp/dist/podcasts_ne
           mkdir tmp/dist/podcasts_ne_n_palettes
       - name: 'Process w/ Name Entity Recognition 🤖'
-        run: node --max-old-space-size=6144 out/index.js
+        run: node --max-old-space-size=8192 out/index.js
       - name: 'Generate Palette 🎨'
         run : |
           pip3 install -r requirements.txt
