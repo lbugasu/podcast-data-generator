@@ -8,8 +8,12 @@ const opmlFilePath = path.resolve(process.cwd(), './data/podcasts_opml.xml')
 async function download() {
   const feeds = await getRssFeedsFromOPML(opmlFilePath)
   return Promise.all(
-    feeds.map((feed, i) => {
-      return getDataFromRssFeed(feed.xmlurl).catch((error: any) => console.log(`error parsing rss feed- ${i}: `, error.message))
+    feeds.map(async (feed, i) => {
+      return getDataFromRssFeed(feed.xmlurl)
+        .catch((error: any) => {
+          console.log('error on url: ', feed.xmlurl)
+          console.log(`error parsing rss feed- ${i}: `, error.message)
+        })
     })
   )
 }
@@ -39,10 +43,10 @@ async function ner(rssFeedData: (Podcast)[]) {
   )
 }
 
-function write(podcasts: (Podcast | null)[]) {
-  podcasts.forEach(podcast => {
+function write(podcasts: Podcast[]) {
+  podcasts.forEach((podcast, i) => {
     if(!podcast) return
-    writeToFile(podcast)
+    writeToFile(podcast, (i/podcasts.length))
   })
 }
 
@@ -50,6 +54,6 @@ function write(podcasts: (Podcast | null)[]) {
 prepare()
 
 // Action
-download().then(results => results.filter(podcast => !!podcast))
-  .then((rssFeedData: Podcast[]) => ner(rssFeedData))
+download()
+  .then((rssFeedData: any[]) => ner(rssFeedData))
   .then(podcasts => write(podcasts))

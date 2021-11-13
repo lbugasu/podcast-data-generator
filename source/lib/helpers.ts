@@ -3,8 +3,7 @@ import fs from 'fs'
 import { opmlToJSON } from 'opml-to-json'
 import NerPromise, { Entity } from 'ner-promise'
 
-const parser = require('rss-url-parser')
-
+import Parser from 'rss-parser'
 
 const nerParser = new NerPromise({
   install_path: 'tmp/stanford-ner-2020-11-17'
@@ -17,8 +16,9 @@ async function getRssFeedsFromOPML(filePath: string): Promise<any[]> {
 }
 
 async function parseRssFeed(rssUrl: string) {
-  console.log(rssUrl)
-  return parser(rssUrl)
+  const parser = new Parser()
+  const feed = await parser.parseURL(rssUrl)
+  return feed
 }
 
 async function findNamedEntities(text?: string): Promise<Entity[]> {
@@ -57,12 +57,12 @@ function logError(item: any, error: any){
   })
 }
 
-function writeToFile(podcast: any) {
-  console.log('saving: ', podcast?.title)
+function writeToFile(podcast: any, total: number) {
+  // console.log('saving: ', podcast?.title)
   const folder = process.cwd() + '/tmp/dist/podcasts'
   try {
     fs.writeFileSync(`${folder}/${podcast.title}.json`, JSON.stringify(podcast, null, 4), 'utf8')
-    console.log('written podcast to file: ' + `${folder}/${podcast.title}.json`)
+    console.log(`done ${(total * 100).toFixed(2)}% - ${podcast.title}.json`)
   } catch (error: any) {
     logError(podcast, error)
   }
