@@ -48,7 +48,7 @@ def generate_color_palette(podcast):
     podcast['palette'] = []
   return podcast
 
-dist_directory = sys.argv[1]
+dist_directory = 'tmp/dist'
 
 podcastsFolder = dist_directory + "/podcasts"
 podcastFileNames = os.listdir(podcastsFolder)

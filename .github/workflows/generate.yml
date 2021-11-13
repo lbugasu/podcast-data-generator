@@ -5,7 +5,7 @@ on:
       - main
 jobs:
   download-core-nlp:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     strategy:
       matrix:
         node-version: [14.x]
@@ -31,7 +31,7 @@ jobs:
       - name: 'Generate Palette 🎨'
         run : |
           pip3 install -r requirements.txt
-          python3 scripts/generate.py tmp/dist
+          python3 scripts/generate.py
           cp tmp/dist dist/
           cp LICENSE.txt dist/LICENSE.txt
           cp docs/dataReadMe.md dist/ReadMe.txt
