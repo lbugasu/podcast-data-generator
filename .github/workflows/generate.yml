@@ -23,7 +23,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Compile TypeScript
-        run: tsc
+        run: npx tsc
+        uses: icrawl/action-tsc@v1
   process:
     needs: [compile, download-core-nlp]
     runs-on: ubuntu-latest
