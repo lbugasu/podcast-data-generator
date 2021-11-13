@@ -4,7 +4,8 @@
   "description": "Generate Podcast Data",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "dev": "npx concurrently \"tsc -w\" \"nodemon ./out/index.js\""
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,22 @@
   "bugs": {
     "url": "https://github.com/lbugasu/podcast-data-generator/issues"
   },
-  "homepage": "https://github.com/lbugasu/podcast-data-generator#readme"
+  "homepage": "https://github.com/lbugasu/podcast-data-generator#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "ner-promise": "^1.0.1",
+    "opml-to-json": "^1.0.1",
+    "path": "^0.12.7",
+    "rss-parser": "^3.12.0",
+    "slug": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "@types/node": "^16.11.7",
+    "concurrently": "^6.3.0",
+    "eslint": "^8.2.0",
+    "eslint-plugin-json": "^3.1.0",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.4.1"
+  }
 }

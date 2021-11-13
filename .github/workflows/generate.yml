@@ -1,0 +1,25 @@
+name: build
+on:
+  push:
+    branches:
+      - main
+jobs:
+  download-core-nlp:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download Stanford CoreNLP
+        run: |
+          wget -P tmp "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+      - name: Unzip Core NLP
+        run: unzip tmp/stanford-ner-4.2.0.zip -d tmp/
+  generate-data:
+    needs: install-and-test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install npm dependencies
+        run: npm install
+      - name: Compile TypeScript
+        run: tsc
+      - name: Process
+        run: node out/index.js
