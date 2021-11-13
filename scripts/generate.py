@@ -70,7 +70,7 @@ for index, podcastFile in enumerate(podcastFileNames):
     outputFile.close()
     print("Generated palette for: %s - %.2f%% done" % (podcast['title'], ((index+1)/len(podcastFileNames)*100)))
 
-print('\n🦩-------------Palette Generation Complete-------------🦜\n')
+print('\n🦩-------------Palette Generation Complete-------------🦜\n\n')
 
 
 logFile.close()
