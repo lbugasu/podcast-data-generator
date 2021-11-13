@@ -25,6 +25,7 @@ async function findNamedEntities(text?: string): Promise<Entity[]> {
   if (text) {
     let entities = Promise.resolve([] as Entity[])
     try {
+      console.log(text)
       entities = nerParser.process(text)
     } catch (error) {
       return entities

@@ -8,7 +8,7 @@ const opmlFilePath = path.resolve(process.cwd(), './data/podcasts_opml.xml')
 async function download() {
   const feeds = await getRssFeedsFromOPML(opmlFilePath)
   return Promise.all(
-    feeds.map(async (feed, i) => {
+    feeds.map(async (feed: any, i: number) => {
       return getDataFromRssFeed(feed.xmlurl)
         .catch((error: any) => {
           console.log('error on url: ', feed.xmlurl)
@@ -18,32 +18,32 @@ async function download() {
   )
 }
 
-async function ner(rssFeedData: (Podcast)[]) {
+async function ner(rssFeedData: any[]) {
   console.log('performing NER')
   return Promise.all(
-    rssFeedData.map(async data => {
-      if (!data) return data
-      const entities = await findNamedEntities(data?.description || '')
-      let episodesWithEntities = [] as typeof data.items
-      if (data.items) {
+    rssFeedData.map(async (podcast : any) => {
+      if (!podcast) return podcast
+      const entities = await findNamedEntities(podcast.meta)
+      let episodesWithEntities: any = []
+      if (podcast.episodes) {
         episodesWithEntities = await Promise.all(
-          data?.items?.map(async episode => {
+        podcast?.episodes?.map(async (episode: any) => {
             console.log(`NERing episode ${episode.title}`)
-            const description = striptags(episode?.content || '')
+            const description = striptags(episode?.description || '')
             return { ...episode, entities: await findNamedEntities(description) }
           })
         )}
       //@ts-ignore
       return {
-        ...data,
-        entities,
-        items: episodesWithEntities ?? data.items
+        ...podcast,
+        entities: entities,
+        episodes:  episodesWithEntities
       }
     })
   )
 }
 
-function write(podcasts: Podcast[]) {
+function write(podcasts: any[]) {
   podcasts.forEach((podcast, i) => {
     if(!podcast) return
     writeToFile(podcast, (i/podcasts.length))
