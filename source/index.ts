@@ -1,8 +1,7 @@
 import path from 'path'
 import slug from 'slug'
-import striptags from 'striptags'
 
-import { findNamedEntities, getDataFromXMLString, getFile, getFilesInFolder, getRssFeedsFromOPML, parseRssXMLString, PodcastFeedData, prepare, writeToFile } from './lib/helpers'
+import { findNamedEntities, getDataFromXMLString, getFile, getFilesInFolder, getRssFeedsFromOPML, PodcastFeedData, prepare, writeToFile } from './lib/helpers'
 import { Podcast } from './models'
 
 const opmlFilePath = path.resolve(process.cwd(), './data/podcasts_opml.xml')
@@ -11,41 +10,30 @@ async function downloadFeeds(): Promise<(PodcastFeedData | void)[]> {
   const feeds = await getRssFeedsFromOPML(opmlFilePath)
   const podcasts =  Promise.all(
     feeds.map(async (feed: any, i: number) => {
+    console.log(`Downloading Feeds: ${ ((i/feeds.length)*100).toFixed(2)}%`)
       return getDataFromXMLString(feed.xmlurl)
         .catch((error: any) => {
-          console.log('error on url: ', feed.xmlurl)
           console.log(`error parsing rss feed- ${i}: `, error.message)
         })
     })
   )
-  const _podcsts = (await podcasts).filter((podcast: any) => podcast)
-  console.log(_podcsts.length)
-  return _podcsts
+  return (await podcasts).filter((podcast: any) => podcast)
 }
 
-async function ner(rssFeedData: any[]) {
-  console.log('performing NER')
-  return Promise.all(
-    rssFeedData.map(async (podcast : any) => {
-      if (!podcast) return podcast
-      const entities = await findNamedEntities(podcast.meta)
-      let episodesWithEntities: any = []
-      if (podcast.episodes) {
-        episodesWithEntities = await Promise.all(
-        podcast?.episodes?.map(async (episode: any) => {
-            console.log(`NERing episode ${episode.title}`)
-            const description = striptags(episode?.description || '')
-            return { ...episode, entities: await findNamedEntities(description) }
-          })
-        )}
-      //@ts-ignore
-      return {
-        ...podcast,
-        entities: entities,
-        episodes:  episodesWithEntities
-      }
-    })
-  )
+async function ner(podcast: any): Promise<any>{
+  const entities = await findNamedEntities(podcast['description'])
+  let episodesWithEntities: any = []
+  if (podcast.items) {
+    episodesWithEntities = await Promise.all(
+    podcast?.items?.slice(0, 2).map(async (episode: any) => {
+        const description = (episode['content'] ?? '')
+        return { ...episode, entities: await findNamedEntities(description) }
+      })
+    )
+  }
+  podcast.entities = entities
+  podcast.episodes = episodesWithEntities ?? podcast.items
+  return podcast
 }
 
 function write(podcasts: any[]) {
@@ -64,18 +52,17 @@ function saveFeedsToFolder(podData: any[]) {
 
 function parsePodcastData() {
   const pdcstRssFeedPaths = getFilesInFolder('feeds')
-  const pdcsts = Promise.all(pdcstRssFeedPaths.map(async (xmlFeedPath, i) => {
-    console.log(`parsing XML Feeds: ${ ((i/pdcstRssFeedPaths.length)*100).toFixed(2)}%`)
-    const xmlFeed = getFile(`feeds\/${xmlFeedPath}`)
-    const parsedRssFeed = await parseRssXMLString(xmlFeed)
+  const pdcsts = Promise.all(pdcstRssFeedPaths.slice(0, 2).map(async (xmlFeedPath, i) => {
+
+    const jsonFile = JSON.parse(getFile(`feeds\/${xmlFeedPath}`))
+    const parsedRssFeed: Podcast | void = await ner(jsonFile)
       .catch((error: any) => {
-      console.log('Error: ', error.message)
+      console.log('Error: ')
     })
     if (parsedRssFeed) {
-      console.log(`parsed ${i} of ${pdcstRssFeedPaths.length}`)
       writeToFile(parsedRssFeed, slug(parsedRssFeed.title || xmlFeedPath), 'podcasts', (i/pdcstRssFeedPaths.length))
     }
-    
+    console.log(`Parsing Json Feeds: ${ ((i/pdcstRssFeedPaths.length)*100).toFixed(2)}%`)
     return parsedRssFeed
   }))
   pdcsts.then((pdcsts) => console.log('DONE Writing Podcasts JSON Files'))
@@ -84,26 +71,23 @@ function parsePodcastData() {
 // Prepare folders for dist
 prepare()
 
-
 // Action
 downloadFeeds()
-  // .then((feeds: any[]) => {
-  //   try {  return saveFeedsToFolder(feeds)}
-  //   catch (error: any) {
-  //     console.log('error saving feeds to folder', error.message)
-  //     return Promise.resolve(false)
-  //   }
-  // })
-  // .then((result: boolean) => {
-  //   if( result ) {
-  //     console.log('done')
-  //     parsePodcastData()
-  //   }
-  //   else {
-  //     console.log('error')
-  //   }
-  // })
-// parsePodcastData()
+  .then((feeds: any[]) => {
+    try {  return saveFeedsToFolder(feeds)}
+    catch (error: any) {
+      console.log('error saving feeds to folder', error.message)
+      return Promise.resolve(false)
+    }
+  })
+  .then((result: boolean) => {
+    if( result ) {
+      console.log('done')
+      parsePodcastData()
+    }
+    else {
+      console.log('error')
+    }
+  })
     
-  // .then((rssFeedData: any[]) => ner(rssFeedData))
   // .then(podcasts => write(podcasts))

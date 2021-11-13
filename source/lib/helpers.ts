@@ -2,14 +2,10 @@
 import fs from 'fs'
 import NerPromise, { Entity } from 'ner-promise'
 import { opmlToJSON } from 'opml-to-json'
-// import Parser from 'rss-parser'
 import Parser from 'rss-parser'
-
 import { Podcast } from './../models/index';
 
-const rssUrlParser = require('rss-url-parser')
 const parser = new Parser()
-
 const nerParser = new NerPromise({
   install_path: 'tmp/stanford-ner-2020-11-17'
 })
@@ -28,19 +24,17 @@ async function parseRssXMLString(xmlString: string) {
   return parser.parseString(xmlString)
 }
 
-async function findNamedEntities(text?: string): Promise<Entity[]> {
+async function findNamedEntities(text?: string): Promise<any> {
   if (text) {
-    let entities = Promise.resolve([] as Entity[])
+    let entities = {}
     try {
-      console.log(text)
-      entities = nerParser.process(text)
+      entities = await nerParser.process(text) as any
     } catch (error) {
       return entities
     }
-    return Promise.resolve([])
+    return entities
   }
-
-  else return Promise.resolve([])
+  else return {}
 }
 
 export type PodcastFeedData = {feed: Podcast, rssUrl: string}
