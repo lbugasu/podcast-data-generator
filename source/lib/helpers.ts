@@ -1,22 +1,24 @@
 /* Imports */
 import fs from 'fs'
 import { opmlToJSON } from 'opml-to-json'
-import Parser, { Item } from 'rss-parser'
 import NerPromise, { Entity } from 'ner-promise'
+
+const parser = require('rss-url-parser')
+
 
 const nerParser = new NerPromise({
   install_path: 'tmp/stanford-ner-2020-11-17'
 })
 
-async function getRssFeedsFromOPML(filePath: string): Promise<Item[]> {
+async function getRssFeedsFromOPML(filePath: string): Promise<any[]> {
   const opmlContent = fs.readFileSync(filePath, 'utf8')
   const jsonData = await opmlToJSON(opmlContent)
-  return jsonData.children[0].children as Item[]
+  return jsonData.children[0].children as any[]
 }
 
-export function parseRssFeed(rssUrl: string) {
-  const parser = new Parser()
-  return parser.parseURL(rssUrl)
+async function parseRssFeed(rssUrl: string) {
+  console.log(rssUrl)
+  return parser(rssUrl)
 }
 
 async function findNamedEntities(text?: string): Promise<Entity[]> {
