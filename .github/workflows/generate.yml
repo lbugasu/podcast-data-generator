@@ -24,8 +24,6 @@ jobs:
     steps:
       - name: Compile TypeScript
         run: tsc
-      - name: Process
-        run: node out/index.js
   process:
     needs: [compile, download-core-nlp]
     runs-on: ubuntu-latest
