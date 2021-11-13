@@ -5,7 +5,7 @@ on:
       - main
 jobs:
   download-core-nlp:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     strategy:
       matrix:
         node-version: [14.x]
