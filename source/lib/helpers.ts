@@ -1,8 +1,12 @@
 /* Imports */
 import fs from 'fs'
 import { opmlToJSON } from 'opml-to-json'
-import Parser, { Item, Output } from 'rss-parser'
+import Parser, { Item } from 'rss-parser'
 import NerPromise, { Entity } from 'ner-promise'
+
+const nerParser = new NerPromise({
+  install_path: 'tmp/stanford-ner-2020-11-17'
+})
 
 async function getRssFeedsFromOPML(filePath: string): Promise<Item[]> {
   const opmlContent = fs.readFileSync(filePath, 'utf8')
@@ -16,11 +20,17 @@ export function parseRssFeed(rssUrl: string) {
 }
 
 async function findNamedEntities(text?: string): Promise<Entity[]> {
-  const nerParser = new NerPromise({
-    install_path: 'tmp/stanford-ner-2020-11-17'
-  })
-  if (text) return nerParser.process(text)
-  else return []
+  if (text) {
+    let entities = Promise.resolve([] as Entity[])
+    try {
+      entities = nerParser.process(text)
+    } catch (error) {
+      return entities
+    }
+    return Promise.resolve([])
+  }
+
+  else return Promise.resolve([])
 }
 
 async function getDataFromRssFeed(rssUrl: string) {
