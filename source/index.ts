@@ -18,15 +18,17 @@ async function ner(rssFeedData: (Podcast)[]) {
   console.log('performing NER')
   return Promise.all(
     rssFeedData.map(async data => {
-      if(!data) return data
+      if (!data) return data
       const entities = await findNamedEntities(data?.description || '')
-      let episodesWithEntities = await Promise.all(
-        data?.items?.map(async episode => {
-          console.log(`NERing episode ${episode.title}`)
-          const description = striptags(episode?.content || '')
-          return { ...episode, entities: await findNamedEntities(description) }
-        })
-      )
+      let episodesWithEntities = [] as typeof data.items
+      if (data.items) {
+        episodesWithEntities = await Promise.all(
+          data?.items?.map(async episode => {
+            console.log(`NERing episode ${episode.title}`)
+            const description = striptags(episode?.content || '')
+            return { ...episode, entities: await findNamedEntities(description) }
+          })
+        )}
       //@ts-ignore
       return {
         ...data,
