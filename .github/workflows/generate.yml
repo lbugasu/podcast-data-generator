@@ -28,7 +28,7 @@ jobs:
           mkdir tmp/dist/podcasts
       - name: 'Process w/ Name Entity Recognition 🤖'
         run: node out/index.js
-      - name: Generate Palette
+      - name: 'Generate Palette 🎨'
         run : |
           pip3 install -r requirements.txt
           python3 scripts/generate.py tmp/dist
@@ -39,7 +39,7 @@ jobs:
         with:
           files: |
             dist
-      - name: Deploy  💾
+      - name: 'Deploy 💾'
         if: steps.verify-changed-files.outputs.files_changed == 'true'
         uses: JamesIves/github-pages-deploy-action@4.0.0
         with:

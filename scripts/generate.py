@@ -61,7 +61,7 @@ for podcastFile in podcastFileNames:
     podcast = generate_color_palette(podcast)
     podcasts.append(podcast)
 
-filepath = dist_directory +'/raw_podcasts_with_palette.json'
+filepath = dist_directory +'/data_with_palettes.json'
 
 with open(filepath,'w') as outputFile:
     outputFile.write(simplejson.dumps(podcasts, indent=4, sort_keys=True))
