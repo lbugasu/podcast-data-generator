@@ -1,10 +1,10 @@
 ---
-name: "pre-release"
+name: "tagged-release"
 
 on:
   push:
     branches:
-      - "release"
+      - "v*"
 
 jobs:
   pre-release:

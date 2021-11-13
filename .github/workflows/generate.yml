@@ -32,7 +32,7 @@ jobs:
         run : |
           pip3 install -r requirements.txt
           python3 scripts/generate.py
-          cp tmp/dist dist/
+          cp -r tmp/dist dist/
           cp LICENSE.txt dist/LICENSE.txt
           cp docs/dataReadMe.md dist/ReadMe.txt
       - name: Verify Changed files 🐒
