@@ -27,6 +27,8 @@ jobs:
           mkdir tmp/dist
           mkdir tmp/dist/feeds
           mkdir tmp/dist/podcasts
+          mkdir tmp/dist/podcasts_ner
+          mkdir tmp/dist/podcasts_ner_n_palettes
       - name: 'Process w/ Name Entity Recognition 🤖'
         run: node --max-old-space-size=8192 out/index.js
       - name: 'Generate Palette 🎨'

@@ -37,17 +37,16 @@ logFile.write("## Color Palette Generation: \n")
 def log_error(podcast, error):
   logFile.write("An exception occurred for: "+ podcast['title']+"\n: "+ str(error) + "\n")
 
-def generate_color_palette(podcast):
+def generate_color_palette(podcast_image):
+  palette = []
   try:
-    colors = []
-    image = download_image(podcast['imageURL'])
-    palette = get_color_palette(image)
-    colors = first_3_colors(palette)
-    podcast['palette'] = colors
+    if ( 'url' in podcast_image):
+      image = download_image(podcast_image['url'])
+      palette = get_color_palette(image)
+      palette = first_3_colors(palette)
   except Exception as error:
     log_error(podcast, error)
-    podcast['palette'] = []
-  return podcast
+  return palette
 
 dist_directory = 'tmp/dist'
 
@@ -55,21 +54,23 @@ podcastsFolder = dist_directory + "/podcasts"
 podcastFileNames = os.listdir(podcastsFolder)
 
 podcasts = []
-for podcastFile in podcastFileNames:
+for index, podcastFile in enumerate(podcastFileNames):
     podFile = open(podcastsFolder+'/'+podcastFile,'r')
     data = podFile.read()
     podcast = json.loads(data)
-    if( 'imageURL' in podcast):
-      podcast = generate_color_palette(podcast['imageURL'])
-    podcasts.append(podcast)
+    palette = []
+    if('image' in podcast):
+      palette = generate_color_palette(podcast['image'])
+    podcast['palette'] = palette
 
-    filepath = dist_directory + '/podcasts/' + podcast['title']+ '_with_palettes.json'
+    filepath = dist_directory + '/podcasts_ner_n_palettes/' + podcast['title']+ '_with_palettes.json'
 
     with open(filepath,'w') as outputFile:
       outputFile.write(simplejson.dumps(podcast, indent=4, sort_keys=True))
     outputFile.close()
+    print("Generated palette for: %s - %.2f%% done" % (podcast['title'], ((index+1)/len(podcastFileNames)*100)))
 
-print('done')
+print('\n🦩-------------Palette Generation Complete-------------🦜\n')
 
 
 logFile.close()

@@ -8,3 +8,7 @@ tsc
 
 # Process Data
 node out/index.js
+
+pip3 install -r requirements.txt
+
+python3 scripts/generate.py

@@ -9,7 +9,7 @@ const opmlFilePath = path.resolve(process.cwd(), './data/podcasts_opml.xml')
 async function downloadFeeds(): Promise<(PodcastFeedData | void)[]> {
   const feeds = await getRssFeedsFromOPML(opmlFilePath)
   const podcasts =  Promise.all(
-    feeds.map(async (feed: any, i: number) => {
+    feeds.slice(0, 2).map(async (feed: any, i: number) => {
     console.log(`Downloading Feeds: ${ ((i/feeds.length)*100).toFixed(2)}%`)
       return getDataFromXMLString(feed.xmlurl)
         .catch((error: any) => {
@@ -32,6 +32,7 @@ async function ner(podcast: any): Promise<any>{
     )
   }
   podcast.entities = entities
+  delete podcast.items
   podcast.episodes = episodesWithEntities ?? podcast.items
   return podcast
 }
@@ -39,18 +40,18 @@ async function ner(podcast: any): Promise<any>{
 function write(podcasts: any[]) {
   podcasts.forEach((podcast, i) => {
     if(!podcast) return
-    writeToFile(podcast, podcast.title, 'podcasts', (i/podcasts.length))
+    writeToFile(podcast, podcast.title, 'podcasts', ((i+1)/podcasts.length))
   })
 }
 
 function saveFeedsToFolder(podData: any[]) {
   podData.filter((pod)=>!!pod).forEach((pod: PodcastFeedData, i) => {
-    writeToFile(pod.feed, slug(pod.rssUrl), 'feeds', (i/podData.length))
+    writeToFile(pod.feed, slug(pod.rssUrl), 'feeds', ((i+1)/podData.length))
   })
   return Promise.resolve(true)
 }
 
-function parsePodcastData() {
+function generateNamedEntities() {
   const pdcstRssFeedPaths = getFilesInFolder('feeds')
   const pdcsts = Promise.all(pdcstRssFeedPaths.slice(0, 2).map(async (xmlFeedPath, i) => {
 
@@ -60,12 +61,12 @@ function parsePodcastData() {
       console.log('Error: ')
     })
     if (parsedRssFeed) {
-      writeToFile(parsedRssFeed, slug(parsedRssFeed.title || xmlFeedPath), 'podcasts', (i/pdcstRssFeedPaths.length))
+      writeToFile(parsedRssFeed, slug(parsedRssFeed.title || xmlFeedPath), 'podcasts_ner', (i/pdcstRssFeedPaths.length))
     }
-    console.log(`Parsing Json Feeds: ${ ((i/pdcstRssFeedPaths.length)*100).toFixed(2)}%`)
+    console.log(`Parsing Json Feeds: ${ (((i+1)/pdcstRssFeedPaths.length)*100).toFixed(2)}%`)
     return parsedRssFeed
   }))
-  pdcsts.then((pdcsts) => console.log('DONE Writing Podcasts JSON Files'))
+  pdcsts.then((pdcsts) => console.log('\n👅-------------DONE Writing Podcasts JSON Files-------------🤩\n\n'))
 }
 
 // Prepare folders for dist
@@ -82,8 +83,8 @@ downloadFeeds()
   })
   .then((result: boolean) => {
     if( result ) {
-      console.log('done')
-      parsePodcastData()
+      console.log('\n💃-------------Done Generating Podcast Data-------------🥁\n\n')
+      generateNamedEntities()
     }
     else {
       console.log('error')
