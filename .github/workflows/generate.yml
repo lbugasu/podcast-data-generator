@@ -46,7 +46,10 @@ jobs:
             dist
       - name: 'Deploy 💾'
         if: steps.verify-changed-files.outputs.files_changed == 'true'
-        uses: JamesIves/github-pages-deploy-action@4.0.0
-        with:
-          branch: release
-          folder: dist
+        uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: release
+          FOLDER: dist
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MESSAGE: "Build: ({sha}) {msg}"

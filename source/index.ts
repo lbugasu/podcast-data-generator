@@ -9,7 +9,7 @@ const opmlFilePath = path.resolve(process.cwd(), './data/podcasts_opml.xml')
 async function downloadFeeds(): Promise<(PodcastFeedData | void)[]> {
   const feeds = await getRssFeedsFromOPML(opmlFilePath)
   const podcasts =  Promise.all(
-    feeds.slice(0, 2).map(async (feed: any, i: number) => {
+    feeds.map(async (feed: any, i: number) => {
     console.log(`Downloading Feeds: ${ ((i/feeds.length)*100).toFixed(2)}%`)
       return getDataFromXMLString(feed.xmlurl)
         .catch((error: any) => {
@@ -25,7 +25,7 @@ async function ner(podcast: any): Promise<any>{
   let episodesWithEntities: any = []
   if (podcast.items) {
     episodesWithEntities = await Promise.all(
-    podcast?.items?.slice(0, 2).map(async (episode: any) => {
+    podcast?.items?.map(async (episode: any) => {
         const description = (episode['content'] ?? '')
         return { ...episode, entities: await findNamedEntities(description) }
       })
