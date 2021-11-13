@@ -25,6 +25,7 @@ jobs:
       - name: 'Prepare 🧑‍🍳'
         run: |
           mkdir tmp/dist
+          mkdir tmp/dist/feeds
           mkdir tmp/dist/podcasts
       - name: 'Process w/ Name Entity Recognition 🤖'
         run: node --max-old-space-size=8192 out/index.js

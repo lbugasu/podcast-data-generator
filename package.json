@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "dev": "npx concurrently \"tsc -w\" \"nodemon ./out/index.js\""
+    "dev": "npx concurrently \"tsc -w\" \"nodemon out/index.js\"",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -36,6 +37,7 @@
   "devDependencies": {
     "@types/jest": "^27.0.2",
     "@types/node": "^16.11.7",
+    "@types/slug": "^5.0.2",
     "concurrently": "^6.3.0",
     "eslint": "^8.2.0",
     "eslint-plugin-json": "^3.1.0",
