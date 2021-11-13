@@ -26,6 +26,8 @@ jobs:
         run: |
           mkdir tmp/dist
           mkdir tmp/dist/podcasts
+          mkdir tmp/dist/.github
+          mkdir tmp/dist/.github/workflows
       - name: 'Process w/ Name Entity Recognition 🤖'
         run: node out/index.js
       - name: 'Generate Palette 🎨'
@@ -35,7 +37,7 @@ jobs:
           cp -r tmp/dist dist/
           cp LICENSE.txt dist/LICENSE.txt
           cp docs/dataReadMe.md dist/ReadMe.txt
-          cp .github/workflows/dataset_release.yml dist/
+          cp .github/workflows/dataset_release.yml dist/.github/workflows/
       - name: Verify Changed files 🐒
         uses: tj-actions/verify-changed-files@v8.3
         id: verify-changed-files
