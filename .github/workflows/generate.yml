@@ -13,7 +13,7 @@ jobs:
       - name: Unzip Core NLP
         run: unzip tmp/stanford-ner-4.2.0.zip -d tmp/
   generate-data:
-    needs: install-and-test
+    needs: download-core-nlp
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
