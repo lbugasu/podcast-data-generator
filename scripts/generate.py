@@ -39,9 +39,11 @@ def log_error(podcast, error):
 
 def generate_color_palette(podcast):
   try:
-    image = download_image(podcast['image']['url'])
-    palette = get_color_palette(image)
-    colors = first_3_colors(palette)
+    colors = []
+    if( 'url' in podcast['image']):
+      image = download_image(podcast['image']['url'])
+      palette = get_color_palette(image)
+      colors = first_3_colors(palette)
     podcast['palette'] = colors
   except Exception as error:
     log_error(podcast, error)
@@ -58,7 +60,8 @@ for podcastFile in podcastFileNames:
     podFile = open(podcastsFolder+'/'+podcastFile,'r')
     data = podFile.read()
     podcast = json.loads(data)
-    podcast = generate_color_palette(podcast)
+    if( 'image' in podcast):
+      podcast = generate_color_palette(podcast['image'])
     podcasts.append(podcast)
 
 filepath = dist_directory +'/data_with_palettes.json'
