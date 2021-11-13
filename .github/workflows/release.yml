@@ -25,9 +25,12 @@ jobs:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "latest"
           prerelease: true
-          title: "Development Build"
+          title: "Generate Assets"
           files: |
             podcasts
+            podcasts_ner          
+            podcasts_ner_n_palettes
             ReadMe.md
             LICENSE.txt
+            
 
