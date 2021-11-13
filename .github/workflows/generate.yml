@@ -27,7 +27,7 @@ jobs:
           mkdir tmp/dist
           mkdir tmp/dist/podcasts
       - name: 'Process w/ Name Entity Recognition 🤖'
-        run: node out/index.js
+        run: node --max-old-space-size=8192 out/index.js
       - name: 'Generate Palette 🎨'
         run : |
           pip3 install -r requirements.txt
