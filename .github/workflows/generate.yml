@@ -21,7 +21,7 @@ jobs:
         run: |
           npm install
       - name: 'compile 🏗️'
-        run : tsc
+        run : npx tsc
       - name: 'Prepare 🧑‍🍳'
         run: |
           mkdir tmp/dist
