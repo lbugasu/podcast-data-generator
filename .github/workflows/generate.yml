@@ -15,7 +15,7 @@ jobs:
       - name: Cache node modules
         uses: actions/cache@v2
         env:
-          cache-name: cache-node-modules
+          cache-name: node-cache
         with:
           # npm cache files are stored in `~/.npm` on Linux/macOS
           path: ~/.npm
@@ -41,7 +41,7 @@ jobs:
         with: |
           path: tmp/stanford-ner-2020-11-17
           key: ${{ runner.os }}-{{ hashFiles('**lockfiles') }}
-        
+
   generate:
     needs: cache-artifacts
     runs-on: macos-latest
