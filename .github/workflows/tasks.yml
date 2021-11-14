@@ -78,6 +78,7 @@ jobs:
           key: podcasts_palettes_ner-1
       - name: commit 💾
         run: |
+          npx tsc
           # Stage the file, commit and push
           git add temp/podcasts_ne_n_palettes-1
           git commit -m "updated podcast group-1"
