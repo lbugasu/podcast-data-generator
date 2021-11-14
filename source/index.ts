@@ -20,22 +20,6 @@ async function downloadFeeds(): Promise<(PodcastFeedData | void)[]> {
   return (await podcasts).filter((podcast: any) => podcast)
 }
 
-async function ner(podcast: any): Promise<any>{
-  const entities = await findNamedEntities(podcast['description'])
-  let episodesWithEntities: any = []
-//   if (podcast.items) {
-//     episodesWithEntities = await Promise.all(
-//     podcast?.items?.map(async (episode: any) => {
-//         const description = (episode['content'] ?? '')
-//         return { ...episode, entities: await findNamedEntities(description) }
-//       })
-//     )
-//   }
-  podcast.entities = entities
-//   delete podcast.items
-//   podcast.episodes = episodesWithEntities ?? podcast.items
-  return podcast
-}
 
 function write(podcasts: any[]) {
   podcasts.forEach((podcast, i) => {
@@ -44,7 +28,7 @@ function write(podcasts: any[]) {
   })
 }
 
-const _pods: any[] = []
+const _pods = []
 function saveFeedsToFolder(podData: any[]) {
   podData.filter((pod) => !!pod).forEach((pod: PodcastFeedData, i) => {
     _pods.push(pod.feed)
@@ -53,22 +37,6 @@ function saveFeedsToFolder(podData: any[]) {
   return Promise.resolve(true)
 }
 
-function generateNamedEntities(): Promise<boolean> {
-  const pdcsts = Promise.all(_pods.slice(0, 20).map(async (podcast, i) => {
-
-    const parsedRssFeed: any = await ner(podcast)
-      .catch((error: any) => console.log('Error: '))
-
-    if (parsedRssFeed) {
-      writeToFile(parsedRssFeed, slug(parsedRssFeed.title), 'podcasts_ne', (i/_pods.length))
-    }
-    console.log(`Parsing Json Feeds: ${ (((i+1)/_pods.length)*100).toFixed(2)}%`)
-    return parsedRssFeed
-  }))
-  return pdcsts.then((pdcsts) => console.log('\n👅-------------DONE Writing Podcasts JSON Files-------------🤩\n\n')).then(() => {
-    return Promise.resolve(true)
-  })
-}
 
 // Prepare folders for dist
 prepare()
@@ -82,13 +50,8 @@ downloadFeeds()
       return Promise.resolve(false)
     }
   })
-  .then((result: boolean) => {
+  .then(() => {
     console.log('\n💃-------------Done Generating Podcast Data-------------🥁\n\n')
-    if (result) return generateNamedEntities()
-    return Promise.resolve(false)
-  }).then(() => {
-    console.log('FIN')
   })
 
 
-  // .then(podcasts => write(podcasts))

@@ -28,9 +28,9 @@ class WorkFlow {
     workFlow!: Yml
     jobCreator!: JobCreator
 
-    constructor(system: System, tasks: number, starter: Yml, job: Yml){
-        this.workFlow = cloneDeep(starter)
-        this.jobCreator = new JobCreator(job)
+    constructor(system: System, tasks: number, starterYml: Yml, jobYml: Yml){
+        this.workFlow = cloneDeep(starterYml)
+        this.jobCreator = new JobCreator(jobYml)
 
         this.system = system
         this.jobsPerSystem = JobsPerSystem[system]
@@ -52,12 +52,12 @@ class WorkFlow {
     }
 
     addJob(finalJob: boolean, index: number){
-        const jobs = finalJob ? 
-            this.splitTemplate.remainder + this.splitTemplate.taskPerJob: 
+        const jobs = finalJob ?
+            this.splitTemplate.remainder + this.splitTemplate.taskPerJob:
             this.splitTemplate.taskPerJob
         const startIndex = index * this.splitTemplate.taskPerJob
         const endIndex = startIndex + jobs
-        this.workFlow['jobs'][`group-${index}`] = this.jobCreator.createJob(startIndex, endIndex)
+        this.workFlow['jobs'][`group-${index}`] = this.jobCreator.createJob(index, startIndex, endIndex)
     }
 
     generateWorkflow(){
@@ -76,29 +76,34 @@ class JobCreator{
         this.#template = template
 
     }
-    createJob(startIndex: number, endIndex: number){
-        const _job = cloneDeep(this.#template)
-        const nodeCmd = `${_job['steps'][0]['run']} ${startIndex} ${endIndex}`
-        _job['steps'][0]['run'] = nodeCmd
-        return _job
+    createJob(jobIndex: number, startIndex: number, endIndex: number){
+      const _job = cloneDeep(this.#template)
+      const runSteps = _job['steps'][1]['run'].split('\n')
+      const createFolder = `${runSteps[0]}${jobIndex}`
+      const nodeCmd = `${runSteps[1]} ${startIndex} ${endIndex} ${jobIndex}`
+      const _newSteps =  createFolder + '\n' + nodeCmd + '\n'
+      _job['steps'][1]['run'] = _newSteps
+      _job['steps'][2]['id'] = `${_job['steps'][2]['id']}${jobIndex}`
+
+      _job['steps'][2]['with']['path'] = `${_job['steps'][2]['with']['path']}${jobIndex}`
+      _job['steps'][2]['with']['key'] = `${_job['steps'][2]['with']['key'] }${jobIndex}`
+      return _job
     }
 
 }
 
 const workFlowPath = process.cwd() + '\/scripts\/templates\/'
 
-const artefactsPath = workFlowPath + 'artifacts.yml'
 const jobPath = workFlowPath + 'job.yml'
 const starterPath = workFlowPath + 'starter.yml'
 
-const artifacts = yaml.load(fs.readFileSync(artefactsPath, 'utf8')) as Yml
 const job = yaml.load(fs.readFileSync(jobPath, 'utf8')) as Yml
 const starter = yaml.load(fs.readFileSync(starterPath, 'utf8')) as Yml
 
 starter['jobs'] = {}
 
 
-console.log(JSON.stringify(artifacts, null, 2))
+console.log(JSON.stringify(starter, null, 2))
 console.log(JSON.stringify(job, null, 2))
 
 

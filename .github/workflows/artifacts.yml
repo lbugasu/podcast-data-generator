@@ -37,5 +37,6 @@ jobs:
         env:
           cache-name: cache-core-nlp
         with: |
-          tmp/stanford-ner-4.2.0.zip
+          tmp/stanford-ner-2020-11-17
         key: ${{ runner.os }}-{{ hashFiles('**lockfiles') }}
+

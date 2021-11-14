@@ -3,17 +3,12 @@ steps:
     if: steps.node-cache.outputs.cache-hit != 'true'
     run: npm install
   - name: 'Process w/ Name Entity Recognition 🤖'
-    run: node --max-old-space-size=10240 out/index.js
-  - name: 'Generate Palette 🎨'
-    run : |
-      pip3 install -r requirements.txt
-      python3 scripts/generate.py
-      cp -r tmp/dist dist/
-      cp LICENSE.txt dist/LICENSE.txt
-      cp docs/dataReadMe.md dist/ReadMe.txt
+    run: |
+      mkdir podcasts_palettes_ner-
+      node --max-old-space-size=10240 out/index.js
   - name: Cache Output of the Job
-    id: podcasts_ne_n_palettes-
+    id: podcasts_palettes_ner-
     uses: actions/cache@v2
     with:
       path: tmp/dist/podcasts_ne_n_palettes-
-      key: podcasts_ne_n_palettes-
+      key: podcasts_palettes_ner-
