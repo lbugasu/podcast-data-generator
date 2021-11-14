@@ -11,6 +11,7 @@ steps:
     run: |
       npm install
       npx tsc
+      mkdir temp
   - name: 'Process w/ Name Entity Recognition 🤖'
     run: |
       mkdir temp/podcasts_palettes_ner-
@@ -21,7 +22,10 @@ steps:
     with:
       path: temp/podcasts_palettes_ner-
       key: podcasts_palettes_ner-
-  - name: commit 💾
+  - name: commit & Push changes 💾
+    uses: actions-js/push@master
+    with:
+      github_token: ${{ secrets.GITHUB_TOKEN }}
     run: |
       # Stage the file, commit and push
       git add temp/podcasts_palettes_ner-
