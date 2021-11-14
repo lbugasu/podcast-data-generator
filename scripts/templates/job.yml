@@ -6,6 +6,9 @@ strategy:
 steps:
   - name: 'Checkout 🧞'
     uses: actions/checkout@v2
+  - uses: oleksiyrudenko/gha-git-credentials@v2-latest
+    with:
+      token: '${{ secrets.POD_DATA_GEN }}'
   - name: Install Dependencies
     if: steps.node-cache.outputs.cache-hit != 'true'
     run: |
@@ -23,9 +26,6 @@ steps:
       path: temp/podcasts_palettes_ner-
       key: podcasts_palettes_ner-
   - name: commit & Push changes 💾
-    uses: actions-js/push@master
-    with:
-      github_token: ${{ secrets.GITHUB_TOKEN }}
     run: |
       # Stage the file, commit and push
       git add temp/podcasts_palettes_ner-
