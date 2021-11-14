@@ -1,4 +1,4 @@
-runs-on: macos-latest
+runs-on: ubuntu-latest
 steps:
   - name: Install Dependencies
     if: steps.node-cache.outputs.cache-hit != 'true'
@@ -6,7 +6,7 @@ steps:
   - name: 'Process w/ Name Entity Recognition 🤖'
     run: |
       mkdir podcasts_palettes_ner-
-      node --max-old-space-size=10240 out/index.js
+      node --max-old-space-size=6144 out/index.js
   - name: Cache Output of the Job
     id: podcasts_palettes_ner-
     uses: actions/cache@v2
