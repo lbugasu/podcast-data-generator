@@ -39,7 +39,7 @@ jobs:
         env:
           cache-name: core-nlp
         with: |
-          path: ~/tmp/stanford-ner-2020-11-17
+          path: ~/.tmp/stanford-ner-2020-11-17
           key: ${{ runner.os }}-{{ hashFiles('**lockfiles') }}-
 
   generate:
