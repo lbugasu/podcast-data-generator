@@ -15,6 +15,7 @@ jobs:
       - name: prep
         run: |
           mkdir temp
+          touch temp/sth.txt
           git add temp
           git commit -m "Create temp folder"
           git push origin dist
