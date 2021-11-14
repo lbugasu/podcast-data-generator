@@ -34,7 +34,7 @@ function generateNamedEntities(podcasts) {
         const parsedRssFeed = await ner(podcast)
             .catch((error) => console.log('Error: '));
         if (parsedRssFeed) {
-            (0, helpers_1.writeToFile)(parsedRssFeed, (0, slug_1.default)(parsedRssFeed.title), `podcasts_palettes_ner_${index}`, (i / podcasts.length));
+            (0, helpers_1.writeToFile)(parsedRssFeed, (0, slug_1.default)(parsedRssFeed.title), `tmp/podcasts_palettes_ner_${index}`, (i / podcasts.length));
         }
         console.log(`Parsing Json Feeds: ${(((i + 1) / podcasts.length) * 100).toFixed(2)}%`);
         return parsedRssFeed;
@@ -43,3 +43,5 @@ function generateNamedEntities(podcasts) {
         return Promise.resolve(true);
     });
 }
+const folderName = process.cwd() + 'podcasts_palettes';
+// Read all the files from the folder

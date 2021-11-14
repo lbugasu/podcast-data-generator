@@ -27,16 +27,18 @@ var JobsPerSystem;
     JobsPerSystem[JobsPerSystem["macos"] = 5] = "macos";
 })(JobsPerSystem || (JobsPerSystem = {}));
 class WorkFlow {
-    constructor(system, tasks, starterYml, jobYml) {
+    constructor(system, tasks, starterYml, jobYml, wrapUp) {
         this.system = 'ubuntu';
         this.jobsPerSystem = JobsPerSystem.ubuntu;
         this.splitTemplate = { taskPerJob: 0, remainder: 0 };
+        this.jobs = [];
         this.workFlow = (0, lodash_1.cloneDeep)(starterYml);
         this.jobCreator = new JobCreator(jobYml);
         this.system = system;
         this.jobsPerSystem = JobsPerSystem[system];
         this.createBatches(tasks);
         this.generateJobs();
+        this.wrapUp(wrapUp);
     }
     createBatches(tasks) {
         const taskPerJob = Math.floor(tasks / this.jobsPerSystem);
@@ -54,10 +56,16 @@ class WorkFlow {
             this.splitTemplate.taskPerJob;
         const startIndex = index * this.splitTemplate.taskPerJob;
         const endIndex = startIndex + jobs;
-        this.workFlow['jobs'][`group-${index}`] = this.jobCreator.createJob(index, startIndex, endIndex);
+        const jobName = `group-${index}`;
+        this.jobs.push(jobName);
+        this.workFlow['jobs'][jobName] = this.jobCreator.createJob(index, startIndex, endIndex);
     }
     generateWorkflow() {
         return js_yaml_1.default.dump(this.workFlow);
+    }
+    wrapUp(wrapUp) {
+        wrapUp['needs'] = JSON.stringify(this.jobs);
+        this.workFlow['jobs']['wrap-up'] = (wrapUp);
     }
     print() {
         console.log(JSON.stringify(this.workFlow, null, 2));
@@ -78,6 +86,10 @@ class JobCreator {
         _job['steps'][2]['id'] = `${_job['steps'][2]['id']}${jobIndex}`;
         _job['steps'][2]['with']['path'] = `${_job['steps'][2]['with']['path']}${jobIndex}`;
         _job['steps'][2]['with']['key'] = `${_job['steps'][2]['with']['key']}${jobIndex}`;
+        const commitSteps = _job['steps'][3]['run'].split('\n');
+        commitSteps[1] = `${commitSteps[1]}${jobIndex}`;
+        commitSteps[2] = `${commitSteps[2]}${jobIndex}"`;
+        _job['steps'][3]['run'] = commitSteps.join('\n');
         return _job;
     }
 }
@@ -85,9 +97,10 @@ _JobCreator_template = new WeakMap();
 const workFlowPath = process.cwd() + '\/scripts\/templates\/';
 const jobPath = workFlowPath + 'job.yml';
 const starterPath = workFlowPath + 'starter.yml';
+const wrapUpPath = workFlowPath + 'wrap-up.yml';
 const job = js_yaml_1.default.load(fs_1.default.readFileSync(jobPath, 'utf8'));
 const starter = js_yaml_1.default.load(fs_1.default.readFileSync(starterPath, 'utf8'));
-starter['jobs'] = {};
+const wrapUp = js_yaml_1.default.load(fs_1.default.readFileSync(wrapUpPath, 'utf8'));
 function writeYmlToActions(yamlFile) {
     const filePath = path_1.default.resolve(process.cwd(), 'tmp/tasks.yml');
     fs_1.default.writeFileSync(filePath, yamlFile);
@@ -95,7 +108,7 @@ function writeYmlToActions(yamlFile) {
 async function splitJobs() {
     const feeds = await (0, helpers_1.getRssFeedsFromOPML)(opmlFilePath);
     const noTasks = feeds.length;
-    const worker = new WorkFlow('ubuntu', noTasks, starter, job);
+    const worker = new WorkFlow('ubuntu', noTasks, starter, job, wrapUp);
     const yamlFile = worker.generateWorkflow();
     // worker.print()
     writeYmlToActions(yamlFile);

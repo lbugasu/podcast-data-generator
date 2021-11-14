@@ -4,323 +4,516 @@ name: tasks
     branches:
       - dist
 jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - name: prep
+        run: |
+          mkdir tmp
   group-0:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-0
+          mkdir tmp/podcasts_palettes_ner-0
           node --max-old-space-size=6144 out/index.js 0 15 0
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-0
         uses: actions/cache@v2
         with:
-          path: tmp/dist/podcasts_ne_n_palettes-0
+          path: tmp/podcasts_ne_n_palettes-0
           key: podcasts_palettes_ner-0
+      - name: commit 💾
+        run: |
+          # Stage the file, commit and push
+          git add tmp/podcasts_ne_n_palettes-0
+          git commit -m "updated podcast group-0"
+          git push origin dist
   group-1:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-1
+          mkdir tmp/podcasts_palettes_ner-1
           node --max-old-space-size=6144 out/index.js 15 30 1
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-1
         uses: actions/cache@v2
         with:
-          path: tmp/dist/podcasts_ne_n_palettes-1
+          path: tmp/podcasts_ne_n_palettes-1
           key: podcasts_palettes_ner-1
+      - name: commit 💾
+        run: |
+          # Stage the file, commit and push
+          git add tmp/podcasts_ne_n_palettes-1
+          git commit -m "updated podcast group-1"
+          git push origin dist
   group-2:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-2
+          mkdir tmp/podcasts_palettes_ner-2
           node --max-old-space-size=6144 out/index.js 30 45 2
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-2
         uses: actions/cache@v2
         with:
-          path: tmp/dist/podcasts_ne_n_palettes-2
+          path: tmp/podcasts_ne_n_palettes-2
           key: podcasts_palettes_ner-2
+      - name: commit 💾
+        run: |
+          # Stage the file, commit and push
+          git add tmp/podcasts_ne_n_palettes-2
+          git commit -m "updated podcast group-2"
+          git push origin dist
   group-3:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-3
+          mkdir tmp/podcasts_palettes_ner-3
           node --max-old-space-size=6144 out/index.js 45 60 3
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-3
         uses: actions/cache@v2
         with:
-          path: tmp/dist/podcasts_ne_n_palettes-3
+          path: tmp/podcasts_ne_n_palettes-3
           key: podcasts_palettes_ner-3
+      - name: commit 💾
+        run: |
+          # Stage the file, commit and push
+          git add tmp/podcasts_ne_n_palettes-3
+          git commit -m "updated podcast group-3"
+          git push origin dist
   group-4:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-4
+          mkdir tmp/podcasts_palettes_ner-4
           node --max-old-space-size=6144 out/index.js 60 75 4
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-4
         uses: actions/cache@v2
         with:
-          path: tmp/dist/podcasts_ne_n_palettes-4
+          path: tmp/podcasts_ne_n_palettes-4
           key: podcasts_palettes_ner-4
+      - name: commit 💾
+        run: |
+          # Stage the file, commit and push
+          git add tmp/podcasts_ne_n_palettes-4
+          git commit -m "updated podcast group-4"
+          git push origin dist
   group-5:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-5
+          mkdir tmp/podcasts_palettes_ner-5
           node --max-old-space-size=6144 out/index.js 75 90 5
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-5
         uses: actions/cache@v2
         with:
-          path: tmp/dist/podcasts_ne_n_palettes-5
+          path: tmp/podcasts_ne_n_palettes-5
           key: podcasts_palettes_ner-5
+      - name: commit 💾
+        run: |
+          # Stage the file, commit and push
+          git add tmp/podcasts_ne_n_palettes-5
+          git commit -m "updated podcast group-5"
+          git push origin dist
   group-6:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-6
+          mkdir tmp/podcasts_palettes_ner-6
           node --max-old-space-size=6144 out/index.js 90 105 6
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-6
         uses: actions/cache@v2
         with:
-          path: tmp/dist/podcasts_ne_n_palettes-6
+          path: tmp/podcasts_ne_n_palettes-6
           key: podcasts_palettes_ner-6
+      - name: commit 💾
+        run: |
+          # Stage the file, commit and push
+          git add tmp/podcasts_ne_n_palettes-6
+          git commit -m "updated podcast group-6"
+          git push origin dist
   group-7:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-7
+          mkdir tmp/podcasts_palettes_ner-7
           node --max-old-space-size=6144 out/index.js 105 120 7
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-7
         uses: actions/cache@v2
         with:
-          path: tmp/dist/podcasts_ne_n_palettes-7
+          path: tmp/podcasts_ne_n_palettes-7
           key: podcasts_palettes_ner-7
+      - name: commit 💾
+        run: |
+          # Stage the file, commit and push
+          git add tmp/podcasts_ne_n_palettes-7
+          git commit -m "updated podcast group-7"
+          git push origin dist
   group-8:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-8
+          mkdir tmp/podcasts_palettes_ner-8
           node --max-old-space-size=6144 out/index.js 120 135 8
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-8
         uses: actions/cache@v2
         with:
-          path: tmp/dist/podcasts_ne_n_palettes-8
+          path: tmp/podcasts_ne_n_palettes-8
           key: podcasts_palettes_ner-8
+      - name: commit 💾
+        run: |
+          # Stage the file, commit and push
+          git add tmp/podcasts_ne_n_palettes-8
+          git commit -m "updated podcast group-8"
+          git push origin dist
   group-9:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-9
+          mkdir tmp/podcasts_palettes_ner-9
           node --max-old-space-size=6144 out/index.js 135 150 9
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-9
         uses: actions/cache@v2
         with:
-          path: tmp/dist/podcasts_ne_n_palettes-9
+          path: tmp/podcasts_ne_n_palettes-9
           key: podcasts_palettes_ner-9
+      - name: commit 💾
+        run: |
+          # Stage the file, commit and push
+          git add tmp/podcasts_ne_n_palettes-9
+          git commit -m "updated podcast group-9"
+          git push origin dist
   group-10:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-10
+          mkdir tmp/podcasts_palettes_ner-10
           node --max-old-space-size=6144 out/index.js 150 165 10
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-10
         uses: actions/cache@v2
         with:
-          path: tmp/dist/podcasts_ne_n_palettes-10
+          path: tmp/podcasts_ne_n_palettes-10
           key: podcasts_palettes_ner-10
+      - name: commit 💾
+        run: |
+          # Stage the file, commit and push
+          git add tmp/podcasts_ne_n_palettes-10
+          git commit -m "updated podcast group-10"
+          git push origin dist
   group-11:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-11
+          mkdir tmp/podcasts_palettes_ner-11
           node --max-old-space-size=6144 out/index.js 165 180 11
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-11
         uses: actions/cache@v2
         with:
-          path: tmp/dist/podcasts_ne_n_palettes-11
+          path: tmp/podcasts_ne_n_palettes-11
           key: podcasts_palettes_ner-11
+      - name: commit 💾
+        run: |
+          # Stage the file, commit and push
+          git add tmp/podcasts_ne_n_palettes-11
+          git commit -m "updated podcast group-11"
+          git push origin dist
   group-12:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-12
+          mkdir tmp/podcasts_palettes_ner-12
           node --max-old-space-size=6144 out/index.js 180 195 12
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-12
         uses: actions/cache@v2
         with:
-          path: tmp/dist/podcasts_ne_n_palettes-12
+          path: tmp/podcasts_ne_n_palettes-12
           key: podcasts_palettes_ner-12
+      - name: commit 💾
+        run: |
+          # Stage the file, commit and push
+          git add tmp/podcasts_ne_n_palettes-12
+          git commit -m "updated podcast group-12"
+          git push origin dist
   group-13:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-13
+          mkdir tmp/podcasts_palettes_ner-13
           node --max-old-space-size=6144 out/index.js 195 210 13
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-13
         uses: actions/cache@v2
         with:
-          path: tmp/dist/podcasts_ne_n_palettes-13
+          path: tmp/podcasts_ne_n_palettes-13
           key: podcasts_palettes_ner-13
+      - name: commit 💾
+        run: |
+          # Stage the file, commit and push
+          git add tmp/podcasts_ne_n_palettes-13
+          git commit -m "updated podcast group-13"
+          git push origin dist
   group-14:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-14
+          mkdir tmp/podcasts_palettes_ner-14
           node --max-old-space-size=6144 out/index.js 210 225 14
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-14
         uses: actions/cache@v2
         with:
-          path: tmp/dist/podcasts_ne_n_palettes-14
+          path: tmp/podcasts_ne_n_palettes-14
           key: podcasts_palettes_ner-14
+      - name: commit 💾
+        run: |
+          # Stage the file, commit and push
+          git add tmp/podcasts_ne_n_palettes-14
+          git commit -m "updated podcast group-14"
+          git push origin dist
   group-15:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-15
+          mkdir tmp/podcasts_palettes_ner-15
           node --max-old-space-size=6144 out/index.js 225 240 15
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-15
         uses: actions/cache@v2
         with:
-          path: tmp/dist/podcasts_ne_n_palettes-15
+          path: tmp/podcasts_ne_n_palettes-15
           key: podcasts_palettes_ner-15
+      - name: commit 💾
+        run: |
+          # Stage the file, commit and push
+          git add tmp/podcasts_ne_n_palettes-15
+          git commit -m "updated podcast group-15"
+          git push origin dist
   group-16:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-16
+          mkdir tmp/podcasts_palettes_ner-16
           node --max-old-space-size=6144 out/index.js 240 255 16
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-16
         uses: actions/cache@v2
         with:
-          path: tmp/dist/podcasts_ne_n_palettes-16
+          path: tmp/podcasts_ne_n_palettes-16
           key: podcasts_palettes_ner-16
+      - name: commit 💾
+        run: |
+          # Stage the file, commit and push
+          git add tmp/podcasts_ne_n_palettes-16
+          git commit -m "updated podcast group-16"
+          git push origin dist
   group-17:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-17
+          mkdir tmp/podcasts_palettes_ner-17
           node --max-old-space-size=6144 out/index.js 255 270 17
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-17
         uses: actions/cache@v2
         with:
-          path: tmp/dist/podcasts_ne_n_palettes-17
+          path: tmp/podcasts_ne_n_palettes-17
           key: podcasts_palettes_ner-17
+      - name: commit 💾
+        run: |
+          # Stage the file, commit and push
+          git add tmp/podcasts_ne_n_palettes-17
+          git commit -m "updated podcast group-17"
+          git push origin dist
   group-18:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-18
+          mkdir tmp/podcasts_palettes_ner-18
           node --max-old-space-size=6144 out/index.js 270 285 18
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-18
         uses: actions/cache@v2
         with:
-          path: tmp/dist/podcasts_ne_n_palettes-18
+          path: tmp/podcasts_ne_n_palettes-18
           key: podcasts_palettes_ner-18
+      - name: commit 💾
+        run: |
+          # Stage the file, commit and push
+          git add tmp/podcasts_ne_n_palettes-18
+          git commit -m "updated podcast group-18"
+          git push origin dist
   group-19:
     runs-on: ubuntu-latest
+    needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-19
+          mkdir tmp/podcasts_palettes_ner-19
           node --max-old-space-size=6144 out/index.js 285 304 19
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-19
         uses: actions/cache@v2
         with:
-          path: tmp/dist/podcasts_ne_n_palettes-19
+          path: tmp/podcasts_ne_n_palettes-19
           key: podcasts_palettes_ner-19
+      - name: commit 💾
+        run: |
+          # Stage the file, commit and push
+          git add tmp/podcasts_ne_n_palettes-19
+          git commit -m "updated podcast group-19"
+          git push origin dist
+  wrap-up:
+    needs: >-
+      ["group-0","group-1","group-2","group-3","group-4","group-5","group-6","group-7","group-8","group-9","group-10","group-11","group-12","group-13","group-14","group-15","group-16","group-17","group-18","group-19"]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2.3.1
+      - name: Use Node v14
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - name: prepare
+        run: >
+          mkdir out
+
+          mkdir podcasts
+
+          mkdir out/.github
+
+          mkdir out/.github/workflows
+
+          cp LICENSE.txt out/LICENSE.txt
+
+          cp ReadMe.md out/ReadMe.md
+
+          node out/lib/wrap-up.js
+
+          cp -r podcasts out/podcasts
+
+          cp dist/.github/workflows/release.yml
+          out/.github/workflows/release.yml
+
+          rm -rf tmp
+      - name: Verify Changed files 🐒
+        uses: tj-actions/verify-changed-files@v8.3
+        id: verify-changed-files
+        with:
+          files: |
+            out
+      - name: Deploy 💾
+        if: steps.verify-changed-files.outputs.files_changed == 'true'
+        uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: release
+          FOLDER: out
+          GITHUB_TOKEN: ${{ secrets.POD_DATA_GEN }}
