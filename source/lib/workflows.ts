@@ -102,11 +102,6 @@ const starter = yaml.load(fs.readFileSync(starterPath, 'utf8')) as Yml
 
 starter['jobs'] = {}
 
-
-console.log(JSON.stringify(starter, null, 2))
-console.log(JSON.stringify(job, null, 2))
-
-
 function writeYmlToActions(yamlFile: string){
     const filePath = path.resolve(process.cwd(), 'tmp/tasks.yml')
     fs.writeFileSync(filePath, yamlFile)
@@ -117,7 +112,7 @@ async function splitJobs(){
     const noTasks =  feeds.length
     const worker = new WorkFlow('ubuntu', noTasks, starter, job)
     const yamlFile = worker.generateWorkflow()
-    worker.print()
+    // worker.print()
     writeYmlToActions(yamlFile)
 }
 

@@ -53,7 +53,7 @@ jobs:
 
   generate:
     needs: cache-artifacts
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     strategy:
       matrix:
         node-version: [14.x]
@@ -84,9 +84,9 @@ jobs:
           mkdir tmp/dist/.github
           mkdir tmp/dist/.github/workflows
       - name: 'Generate Files 🤖'
-        run: node --max-old-space-size=10240 out/index.js
+        run: node --max-old-space-size=8192 out/index.js
       - name: 'Build workflow Files 🏕️'
-        run: node --max-old-space-size=10240 out/lib/workflows.js
+        run: node --max-old-space-size=8192 out/lib/workflows.js
       - name: 'Generate Palette 🎨'
         run : |
           python3 scripts/generate.py

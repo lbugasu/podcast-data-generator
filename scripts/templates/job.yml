@@ -1,3 +1,4 @@
+runs-on: macos-latest
 steps:
   - name: Install Dependencies
     if: steps.node-cache.outputs.cache-hit != 'true'
