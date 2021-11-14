@@ -1,0 +1,226 @@
+name: starter
+'on':
+  push:
+    branches:
+      - main
+jobs:
+  group-0:
+    steps:
+      - name: Process w/ Name Entity Recognition 🤖
+        run: node --max-old-space-size=10240 out/index.js 0 15
+      - name: Generate Palette 🎨
+        run: |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py
+          cp -r tmp/dist dist/
+          cp LICENSE.txt dist/LICENSE.txt
+          cp docs/dataReadMe.md dist/ReadMe.txt
+  group-1:
+    steps:
+      - name: Process w/ Name Entity Recognition 🤖
+        run: node --max-old-space-size=10240 out/index.js 15 30
+      - name: Generate Palette 🎨
+        run: |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py
+          cp -r tmp/dist dist/
+          cp LICENSE.txt dist/LICENSE.txt
+          cp docs/dataReadMe.md dist/ReadMe.txt
+  group-2:
+    steps:
+      - name: Process w/ Name Entity Recognition 🤖
+        run: node --max-old-space-size=10240 out/index.js 30 45
+      - name: Generate Palette 🎨
+        run: |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py
+          cp -r tmp/dist dist/
+          cp LICENSE.txt dist/LICENSE.txt
+          cp docs/dataReadMe.md dist/ReadMe.txt
+  group-3:
+    steps:
+      - name: Process w/ Name Entity Recognition 🤖
+        run: node --max-old-space-size=10240 out/index.js 45 60
+      - name: Generate Palette 🎨
+        run: |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py
+          cp -r tmp/dist dist/
+          cp LICENSE.txt dist/LICENSE.txt
+          cp docs/dataReadMe.md dist/ReadMe.txt
+  group-4:
+    steps:
+      - name: Process w/ Name Entity Recognition 🤖
+        run: node --max-old-space-size=10240 out/index.js 60 75
+      - name: Generate Palette 🎨
+        run: |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py
+          cp -r tmp/dist dist/
+          cp LICENSE.txt dist/LICENSE.txt
+          cp docs/dataReadMe.md dist/ReadMe.txt
+  group-5:
+    steps:
+      - name: Process w/ Name Entity Recognition 🤖
+        run: node --max-old-space-size=10240 out/index.js 75 90
+      - name: Generate Palette 🎨
+        run: |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py
+          cp -r tmp/dist dist/
+          cp LICENSE.txt dist/LICENSE.txt
+          cp docs/dataReadMe.md dist/ReadMe.txt
+  group-6:
+    steps:
+      - name: Process w/ Name Entity Recognition 🤖
+        run: node --max-old-space-size=10240 out/index.js 90 105
+      - name: Generate Palette 🎨
+        run: |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py
+          cp -r tmp/dist dist/
+          cp LICENSE.txt dist/LICENSE.txt
+          cp docs/dataReadMe.md dist/ReadMe.txt
+  group-7:
+    steps:
+      - name: Process w/ Name Entity Recognition 🤖
+        run: node --max-old-space-size=10240 out/index.js 105 120
+      - name: Generate Palette 🎨
+        run: |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py
+          cp -r tmp/dist dist/
+          cp LICENSE.txt dist/LICENSE.txt
+          cp docs/dataReadMe.md dist/ReadMe.txt
+  group-8:
+    steps:
+      - name: Process w/ Name Entity Recognition 🤖
+        run: node --max-old-space-size=10240 out/index.js 120 135
+      - name: Generate Palette 🎨
+        run: |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py
+          cp -r tmp/dist dist/
+          cp LICENSE.txt dist/LICENSE.txt
+          cp docs/dataReadMe.md dist/ReadMe.txt
+  group-9:
+    steps:
+      - name: Process w/ Name Entity Recognition 🤖
+        run: node --max-old-space-size=10240 out/index.js 135 150
+      - name: Generate Palette 🎨
+        run: |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py
+          cp -r tmp/dist dist/
+          cp LICENSE.txt dist/LICENSE.txt
+          cp docs/dataReadMe.md dist/ReadMe.txt
+  group-10:
+    steps:
+      - name: Process w/ Name Entity Recognition 🤖
+        run: node --max-old-space-size=10240 out/index.js 150 165
+      - name: Generate Palette 🎨
+        run: |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py
+          cp -r tmp/dist dist/
+          cp LICENSE.txt dist/LICENSE.txt
+          cp docs/dataReadMe.md dist/ReadMe.txt
+  group-11:
+    steps:
+      - name: Process w/ Name Entity Recognition 🤖
+        run: node --max-old-space-size=10240 out/index.js 165 180
+      - name: Generate Palette 🎨
+        run: |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py
+          cp -r tmp/dist dist/
+          cp LICENSE.txt dist/LICENSE.txt
+          cp docs/dataReadMe.md dist/ReadMe.txt
+  group-12:
+    steps:
+      - name: Process w/ Name Entity Recognition 🤖
+        run: node --max-old-space-size=10240 out/index.js 180 195
+      - name: Generate Palette 🎨
+        run: |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py
+          cp -r tmp/dist dist/
+          cp LICENSE.txt dist/LICENSE.txt
+          cp docs/dataReadMe.md dist/ReadMe.txt
+  group-13:
+    steps:
+      - name: Process w/ Name Entity Recognition 🤖
+        run: node --max-old-space-size=10240 out/index.js 195 210
+      - name: Generate Palette 🎨
+        run: |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py
+          cp -r tmp/dist dist/
+          cp LICENSE.txt dist/LICENSE.txt
+          cp docs/dataReadMe.md dist/ReadMe.txt
+  group-14:
+    steps:
+      - name: Process w/ Name Entity Recognition 🤖
+        run: node --max-old-space-size=10240 out/index.js 210 225
+      - name: Generate Palette 🎨
+        run: |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py
+          cp -r tmp/dist dist/
+          cp LICENSE.txt dist/LICENSE.txt
+          cp docs/dataReadMe.md dist/ReadMe.txt
+  group-15:
+    steps:
+      - name: Process w/ Name Entity Recognition 🤖
+        run: node --max-old-space-size=10240 out/index.js 225 240
+      - name: Generate Palette 🎨
+        run: |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py
+          cp -r tmp/dist dist/
+          cp LICENSE.txt dist/LICENSE.txt
+          cp docs/dataReadMe.md dist/ReadMe.txt
+  group-16:
+    steps:
+      - name: Process w/ Name Entity Recognition 🤖
+        run: node --max-old-space-size=10240 out/index.js 240 255
+      - name: Generate Palette 🎨
+        run: |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py
+          cp -r tmp/dist dist/
+          cp LICENSE.txt dist/LICENSE.txt
+          cp docs/dataReadMe.md dist/ReadMe.txt
+  group-17:
+    steps:
+      - name: Process w/ Name Entity Recognition 🤖
+        run: node --max-old-space-size=10240 out/index.js 255 270
+      - name: Generate Palette 🎨
+        run: |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py
+          cp -r tmp/dist dist/
+          cp LICENSE.txt dist/LICENSE.txt
+          cp docs/dataReadMe.md dist/ReadMe.txt
+  group-18:
+    steps:
+      - name: Process w/ Name Entity Recognition 🤖
+        run: node --max-old-space-size=10240 out/index.js 270 285
+      - name: Generate Palette 🎨
+        run: |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py
+          cp -r tmp/dist dist/
+          cp LICENSE.txt dist/LICENSE.txt
+          cp docs/dataReadMe.md dist/ReadMe.txt
+  group-19:
+    steps:
+      - name: Process w/ Name Entity Recognition 🤖
+        run: node --max-old-space-size=10240 out/index.js 285 304
+      - name: Generate Palette 🎨
+        run: |
+          pip3 install -r requirements.txt
+          python3 scripts/generate.py
+          cp -r tmp/dist dist/
+          cp LICENSE.txt dist/LICENSE.txt
+          cp docs/dataReadMe.md dist/ReadMe.txt

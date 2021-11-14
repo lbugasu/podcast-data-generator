@@ -48,8 +48,7 @@ jobs:
         if: steps.verify-changed-files.outputs.files_changed == 'true'
         uses: s0/git-publish-subdir-action@develop
         env:
-          REPO: self
+          REPO: git@github.com:lbugasu/podcast-data-generator.git
           BRANCH: release
           FOLDER: dist
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MESSAGE: "Build: ({sha}) {msg}"
+          SSH_PRIVATE_KEY: ${{ secrets.DEPLOY_PRIVATE_KEY }}
