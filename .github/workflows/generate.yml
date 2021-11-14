@@ -24,10 +24,19 @@ jobs:
             ${{ runner.os }}-build-${{ env.cache-name }}-
             ${{ runner.os }}-build-
             ${{ runner.os }}-
-
+      - uses: actions/cache@v2
+        env:
+          cache-name: python-cache
+        if: startsWith(runner.os, 'Linux')
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
       - name: Install Dependencies
-        run: npm install
-
+        run: |
+          npm install
+          pip3 install -r requirements.txt
       - name: Build
         run: npm build
       - name: 'Download & Cache Stanford CoreNLP 🏋️'
@@ -58,8 +67,9 @@ jobs:
           unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - name: 'Install npm dependencies 🪨'
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: |
-          npm install
+        run: npm install
+        if: steps.python-cache.outputs.cache-hit != 'true'
+        run: pip3 install -r requirements.txt
       - name: 'compile 🏗️'
         run : npx tsc
       - name: 'Prepare 🧑‍🍳'
@@ -75,17 +85,15 @@ jobs:
       - name: 'Generate Files 🤖'
         run: node --max-old-space-size=10240 out/index.js
       - name: 'Build workflow Files 🏕️'
-        run: node --max-old-space-size=10240 out/lib/workflow.js
+        run: node --max-old-space-size=10240 out/lib/workflows.js
       - name: 'Generate Palette 🎨'
         run : |
-          pip3 install -r requirements.txt
           python3 scripts/generate.py
           cp -r tmp/dist dist/
           mkdir dist/out
           cp -r out dist/out
           cp LICENSE.txt dist/LICENSE.txt
           cp docs/dataReadMe.md dist/ReadMe.txt
-          node out/lib/workflows.js
           cp tmp/tasks.yml dist/.github/workflows/tasks.yml
       - name: Verify Changed files 🐒
         uses: tj-actions/verify-changed-files@v8.3
