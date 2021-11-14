@@ -37,7 +37,7 @@ jobs:
           mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir podcasts_palettes_ner-0
+          mkdir temp/podcasts_palettes_ner-0
           node --max-old-space-size=6144 out/lib/ner.js 0 15 0
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-0
