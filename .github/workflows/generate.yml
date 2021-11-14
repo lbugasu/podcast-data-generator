@@ -94,6 +94,7 @@ jobs:
           cp -r source dist
           cp -r typings dist
           cp -r scripts dist
+          cp -r tmp/dist/podcasts_palettes dist/podcasts_palettes
           cp tsconfig.json dist/tsconfig.json
           cp package.json dist/package.json
           cp package-lock.json dist/package-lock.json
