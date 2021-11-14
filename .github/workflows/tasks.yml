@@ -34,6 +34,7 @@ jobs:
         run: |
           npm install
           npx tsc
+          mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir podcasts_palettes_ner-0
