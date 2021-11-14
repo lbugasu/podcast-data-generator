@@ -21,7 +21,7 @@ jobs:
         run: |
           mkdir tmp
           mkdir tmp/podcasts_palettes_ner-0
-          node --max-old-space-size=6144 out/index.js 0 15 0
+          node --max-old-space-size=6144 out/lib/ner.js 0 15 0
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-0
         uses: actions/cache@v2
