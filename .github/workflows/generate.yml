@@ -38,9 +38,9 @@ jobs:
         uses: actions/cache@v2
         env:
           cache-name: core-nlp
-        with: |
+        with:
           path: ~/.tmp/stanford-ner-2020-11-17
-          key: ${{ runner.os }}-{{ hashFiles('**lockfiles') }}-
+          key: ${{ runner.os }}-{{ hashFiles('**lockfiles') }}-stanford-core-nlp
 
   generate:
     needs: cache-artifacts
