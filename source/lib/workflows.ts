@@ -108,7 +108,7 @@ console.log(JSON.stringify(job, null, 2))
 
 
 function writeYmlToActions(yamlFile: string){
-    const filePath = path.resolve(process.cwd(), 'dist/.github/workflows/tasks.yml')
+    const filePath = path.resolve(process.cwd(), 'tmp/tasks.yml')
     fs.writeFileSync(filePath, yamlFile)
 }
 
