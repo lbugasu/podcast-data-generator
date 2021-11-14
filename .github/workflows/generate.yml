@@ -37,10 +37,11 @@ jobs:
       - name: ' Cache🪨'
         uses: actions/cache@v2
         env:
-          cache-name: cache-core-nlp
+          cache-name: core-nlp
         with: |
-          tmp/stanford-ner-2020-11-17
-        key: ${{ runner.os }}-{{ hashFiles('**lockfiles') }}
+          path: tmp/stanford-ner-2020-11-17
+          key: ${{ runner.os }}-{{ hashFiles('**lockfiles') }}
+        
   generate:
     needs: cache-artifacts
     runs-on: macos-latest
@@ -54,8 +55,7 @@ jobs:
         if: steps.core-nlp.outputs.cache-hit != 'true'
         run: |
           wget -P tmp "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-      - name: 'Unzip Core NLP 🔥'
-        run: unzip tmp/stanford-ner-4.2.0.zip -d tmp/
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - name: 'Install npm dependencies 🪨'
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
