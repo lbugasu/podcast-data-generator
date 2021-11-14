@@ -92,11 +92,12 @@ jobs:
         run : |
           python3 scripts/generate.py
           cp -r source dist
+          mkdir dist
+          cp -r out/ dist/out
           cp -r typings dist
           cp -r scripts dist
           cp -r tmp/dist/podcasts_palettes dist/podcasts_palettes
           cp tsconfig.json dist/tsconfig.json
-          cp .gitignore dist/.gitignore
           cp package.json dist/package.json
           cp package-lock.json dist/package-lock.json
           cp LICENSE.txt dist/LICENSE.txt
