@@ -1,4 +1,4 @@
-# podcast-data-generator
+# Podcast Data Generator
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/lbugasu/podcast-data-generator?color=blueviolet)
 ![GitHub](https://img.shields.io/github/license/lbugasu/podcast-data-generator?color=FF9914&logoColor=3E363F)
 
