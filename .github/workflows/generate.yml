@@ -33,7 +33,7 @@ jobs:
       - name: 'Download & Cache Stanford CoreNLP 🏋️'
         run: |
           wget -P tmp "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-        unzip tmp/stanford-ner-4.2.0.zip -d tmp/
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - name: ' Cache🪨'
         uses: actions/cache@v2
         env:
