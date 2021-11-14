@@ -91,18 +91,18 @@ jobs:
       - name: 'Generate Palette 🎨'
         run : |
           python3 scripts/generate.py
+          cp -r source dist
+          cp -r typings dist
+          cp -r scripts dist
           cp tsconfig.json dist/tsconfig.json
-          cp -r out dist/
-          mkdir dist/source
-          mkdir dist/typings
-          cp -r source dist/source
-          cp -r typings dist/typings
           cp package.json dist/package.json
           cp package-lock.json dist/package-lock.json
           cp LICENSE.txt dist/LICENSE.txt
           cp docs/dataReadMe.md dist/ReadMe.md
           cp tmp/tasks.yml dist/.github/workflows/tasks.yml
-          cp scripts/templates/release.yml dist/.github/workflows/release.yml
+          mkdir dist/.github
+          mkdir dist/.github/workflows
+          cp .github/workflows/release.yml dist/.github/workflows/release.yml
       - name: Verify Changed files 🐒
         uses: tj-actions/verify-changed-files@v8.3
         id: verify-changed-files
