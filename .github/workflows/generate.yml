@@ -94,8 +94,7 @@ jobs:
         run : |
           python3 scripts/generate.py
           cp -r tmp/dist dist/
-          mkdir dist/out
-          cp -r out dist/out
+          cp -r out dist/
           cp LICENSE.txt dist/LICENSE.txt
           cp docs/dataReadMe.md dist/ReadMe.txt
           cp tmp/tasks.yml dist/.github/workflows/tasks.yml
