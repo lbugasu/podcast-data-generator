@@ -91,7 +91,13 @@ jobs:
       - name: 'Generate Palette 🎨'
         run : |
           python3 scripts/generate.py
-          cp -r tmp/dist dist/
+          mkdir dist/source
+          mkdir dist/typings
+          cp -r source dist/source
+          cp -r typings dist/typings
+          cp package.json dist/package.json
+          cp package-lock.json dist/package-lock.json
+          cp tsconfig.json dist/tsconfig.json
           cp -r out dist/
           cp LICENSE.txt dist/LICENSE.txt
           cp docs/dataReadMe.md dist/ReadMe.md

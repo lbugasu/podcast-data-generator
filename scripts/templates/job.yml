@@ -3,11 +3,14 @@ needs: prepare
 steps:
   - name: Install Dependencies
     if: steps.node-cache.outputs.cache-hit != 'true'
-    run: npm install
+    run: |
+      npm install
+      npx tsc
   - name: 'Process w/ Name Entity Recognition 🤖'
     run: |
+      mkdir tmp
       mkdir tmp/podcasts_palettes_ner-
-      node --max-old-space-size=6144 out/index.js
+      node --max-old-space-size=6144 out/lib/ner.js
   - name: Cache Output of the Job
     id: podcasts_palettes_ner-
     uses: actions/cache@v2

@@ -74,7 +74,7 @@ class WorkFlow {
     }
 
     wrapUp(wrapUp: Yml){
-        wrapUp['needs'] = JSON.stringify(this.jobs)
+        wrapUp['needs'] = this.jobs
         this.workFlow['jobs']['wrap-up'] =(wrapUp)
     }
 
