@@ -18,7 +18,7 @@ steps:
       node out/lib/wrap-up.js
       cp -r podcasts out/podcasts
       cp dist/.github/workflows/release.yml out/.github/workflows/release.yml
-      rm -rf tmp
+      rm -rf temp
   - name: Verify Changed files 🐒
     uses: tj-actions/verify-changed-files@v8.3
     id: verify-changed-files

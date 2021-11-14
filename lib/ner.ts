@@ -1,7 +1,8 @@
+import path from 'path';
 /*
 Read from a folder and generate Named entities
 */
-
+import fs from 'fs'
 import slug from "slug"
 import { findNamedEntities, writeToFile } from "./helpers"
 
@@ -38,7 +39,7 @@ function generateNamedEntities(podcasts: any[]): Promise<boolean> {
       .catch((error: any) => console.log('Error: '))
 
     if (parsedRssFeed) {
-      writeToFile(parsedRssFeed, slug(parsedRssFeed.title), `tmp/podcasts_palettes_ner_${index}`, (i/podcasts.length))
+      writeToFile(parsedRssFeed, slug(parsedRssFeed.title), `temp/podcasts_palettes_ner_${index}`, (i/podcasts.length))
     }
     console.log(`Parsing Json Feeds: ${ (((i+1)/podcasts.length)*100).toFixed(2)}%`)
     return parsedRssFeed
@@ -48,6 +49,18 @@ function generateNamedEntities(podcasts: any[]): Promise<boolean> {
   })
 }
 
-const folderName = process.cwd() + 'podcasts_palettes'
+const folderName = path.resolve(process.cwd(), 'podcasts_palettes')
 
 // Read all the files from the folder
+
+fs.readdir(folderName, function (err, files) {
+  //handling error
+  if (err) {
+      return console.log('Unable to scan directory: ' + err);
+  } 
+  //listing all files using forEach
+  files.forEach(function (file) {
+      // Do whatever you want to do with the file
+      console.log(file); 
+  });
+});

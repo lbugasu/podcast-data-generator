@@ -8,18 +8,17 @@ steps:
       npx tsc
   - name: 'Process w/ Name Entity Recognition 🤖'
     run: |
-      mkdir tmp
-      mkdir tmp/podcasts_palettes_ner-
+      mkdir temp/podcasts_palettes_ner-
       node --max-old-space-size=6144 out/lib/ner.js
   - name: Cache Output of the Job
     id: podcasts_palettes_ner-
     uses: actions/cache@v2
     with:
-      path: tmp/podcasts_ne_n_palettes-
+      path: temp/podcasts_ne_n_palettes-
       key: podcasts_palettes_ner-
   - name: commit 💾
     run: |
       # Stage the file, commit and push
-      git add tmp/podcasts_ne_n_palettes-
+      git add temp/podcasts_ne_n_palettes-
       git commit -m "updated podcast group-
       git push origin dist

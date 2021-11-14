@@ -14,7 +14,7 @@ jobs:
           token: '${{ secrets.POD_DATA_GEN }}'
       - name: prep
         run: |
-          mkdir tmp
-          git add tmp
-          git commit -m "Create tmp folder"
+          mkdir temp
+          git add temp
+          git commit -m "Create temp folder"
           git push origin dist

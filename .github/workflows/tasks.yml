@@ -14,9 +14,9 @@ jobs:
           token: ${{ secrets.POD_DATA_GEN }}
       - name: prep
         run: |
-          mkdir tmp
-          git add tmp
-          git commit -m "Create tmp folder"
+          mkdir temp
+          git add temp
+          git commit -m "Create temp folder"
           git push origin dist
   group-0:
     runs-on: ubuntu-latest
@@ -29,18 +29,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp0
-          mkdir tmp/podcasts_palettes_ner- 0 15 0
+          mkdir temp/podcasts_palettes_ner-0
+          node --max-old-space-size=6144 out/lib/ner.js 0 15 0
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-0
         uses: actions/cache@v2
         with:
-          path: tmp/podcasts_ne_n_palettes-0
+          path: temp/podcasts_ne_n_palettes-0
           key: podcasts_palettes_ner-0
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add tmp/podcasts_ne_n_palettes-0
+          git add temp/podcasts_ne_n_palettes-0
           git commit -m "updated podcast group-0"
           git push origin dist
   group-1:
@@ -54,18 +54,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp1
-          mkdir tmp/podcasts_palettes_ner- 15 30 1
+          mkdir temp/podcasts_palettes_ner-1
+          node --max-old-space-size=6144 out/lib/ner.js 15 30 1
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-1
         uses: actions/cache@v2
         with:
-          path: tmp/podcasts_ne_n_palettes-1
+          path: temp/podcasts_ne_n_palettes-1
           key: podcasts_palettes_ner-1
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add tmp/podcasts_ne_n_palettes-1
+          git add temp/podcasts_ne_n_palettes-1
           git commit -m "updated podcast group-1"
           git push origin dist
   group-2:
@@ -79,18 +79,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp2
-          mkdir tmp/podcasts_palettes_ner- 30 45 2
+          mkdir temp/podcasts_palettes_ner-2
+          node --max-old-space-size=6144 out/lib/ner.js 30 45 2
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-2
         uses: actions/cache@v2
         with:
-          path: tmp/podcasts_ne_n_palettes-2
+          path: temp/podcasts_ne_n_palettes-2
           key: podcasts_palettes_ner-2
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add tmp/podcasts_ne_n_palettes-2
+          git add temp/podcasts_ne_n_palettes-2
           git commit -m "updated podcast group-2"
           git push origin dist
   group-3:
@@ -104,18 +104,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp3
-          mkdir tmp/podcasts_palettes_ner- 45 60 3
+          mkdir temp/podcasts_palettes_ner-3
+          node --max-old-space-size=6144 out/lib/ner.js 45 60 3
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-3
         uses: actions/cache@v2
         with:
-          path: tmp/podcasts_ne_n_palettes-3
+          path: temp/podcasts_ne_n_palettes-3
           key: podcasts_palettes_ner-3
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add tmp/podcasts_ne_n_palettes-3
+          git add temp/podcasts_ne_n_palettes-3
           git commit -m "updated podcast group-3"
           git push origin dist
   group-4:
@@ -129,18 +129,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp4
-          mkdir tmp/podcasts_palettes_ner- 60 75 4
+          mkdir temp/podcasts_palettes_ner-4
+          node --max-old-space-size=6144 out/lib/ner.js 60 75 4
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-4
         uses: actions/cache@v2
         with:
-          path: tmp/podcasts_ne_n_palettes-4
+          path: temp/podcasts_ne_n_palettes-4
           key: podcasts_palettes_ner-4
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add tmp/podcasts_ne_n_palettes-4
+          git add temp/podcasts_ne_n_palettes-4
           git commit -m "updated podcast group-4"
           git push origin dist
   group-5:
@@ -154,18 +154,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp5
-          mkdir tmp/podcasts_palettes_ner- 75 90 5
+          mkdir temp/podcasts_palettes_ner-5
+          node --max-old-space-size=6144 out/lib/ner.js 75 90 5
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-5
         uses: actions/cache@v2
         with:
-          path: tmp/podcasts_ne_n_palettes-5
+          path: temp/podcasts_ne_n_palettes-5
           key: podcasts_palettes_ner-5
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add tmp/podcasts_ne_n_palettes-5
+          git add temp/podcasts_ne_n_palettes-5
           git commit -m "updated podcast group-5"
           git push origin dist
   group-6:
@@ -179,18 +179,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp6
-          mkdir tmp/podcasts_palettes_ner- 90 105 6
+          mkdir temp/podcasts_palettes_ner-6
+          node --max-old-space-size=6144 out/lib/ner.js 90 105 6
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-6
         uses: actions/cache@v2
         with:
-          path: tmp/podcasts_ne_n_palettes-6
+          path: temp/podcasts_ne_n_palettes-6
           key: podcasts_palettes_ner-6
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add tmp/podcasts_ne_n_palettes-6
+          git add temp/podcasts_ne_n_palettes-6
           git commit -m "updated podcast group-6"
           git push origin dist
   group-7:
@@ -204,18 +204,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp7
-          mkdir tmp/podcasts_palettes_ner- 105 120 7
+          mkdir temp/podcasts_palettes_ner-7
+          node --max-old-space-size=6144 out/lib/ner.js 105 120 7
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-7
         uses: actions/cache@v2
         with:
-          path: tmp/podcasts_ne_n_palettes-7
+          path: temp/podcasts_ne_n_palettes-7
           key: podcasts_palettes_ner-7
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add tmp/podcasts_ne_n_palettes-7
+          git add temp/podcasts_ne_n_palettes-7
           git commit -m "updated podcast group-7"
           git push origin dist
   group-8:
@@ -229,18 +229,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp8
-          mkdir tmp/podcasts_palettes_ner- 120 135 8
+          mkdir temp/podcasts_palettes_ner-8
+          node --max-old-space-size=6144 out/lib/ner.js 120 135 8
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-8
         uses: actions/cache@v2
         with:
-          path: tmp/podcasts_ne_n_palettes-8
+          path: temp/podcasts_ne_n_palettes-8
           key: podcasts_palettes_ner-8
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add tmp/podcasts_ne_n_palettes-8
+          git add temp/podcasts_ne_n_palettes-8
           git commit -m "updated podcast group-8"
           git push origin dist
   group-9:
@@ -254,18 +254,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp9
-          mkdir tmp/podcasts_palettes_ner- 135 150 9
+          mkdir temp/podcasts_palettes_ner-9
+          node --max-old-space-size=6144 out/lib/ner.js 135 150 9
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-9
         uses: actions/cache@v2
         with:
-          path: tmp/podcasts_ne_n_palettes-9
+          path: temp/podcasts_ne_n_palettes-9
           key: podcasts_palettes_ner-9
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add tmp/podcasts_ne_n_palettes-9
+          git add temp/podcasts_ne_n_palettes-9
           git commit -m "updated podcast group-9"
           git push origin dist
   group-10:
@@ -279,18 +279,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp10
-          mkdir tmp/podcasts_palettes_ner- 150 165 10
+          mkdir temp/podcasts_palettes_ner-10
+          node --max-old-space-size=6144 out/lib/ner.js 150 165 10
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-10
         uses: actions/cache@v2
         with:
-          path: tmp/podcasts_ne_n_palettes-10
+          path: temp/podcasts_ne_n_palettes-10
           key: podcasts_palettes_ner-10
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add tmp/podcasts_ne_n_palettes-10
+          git add temp/podcasts_ne_n_palettes-10
           git commit -m "updated podcast group-10"
           git push origin dist
   group-11:
@@ -304,18 +304,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp11
-          mkdir tmp/podcasts_palettes_ner- 165 180 11
+          mkdir temp/podcasts_palettes_ner-11
+          node --max-old-space-size=6144 out/lib/ner.js 165 180 11
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-11
         uses: actions/cache@v2
         with:
-          path: tmp/podcasts_ne_n_palettes-11
+          path: temp/podcasts_ne_n_palettes-11
           key: podcasts_palettes_ner-11
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add tmp/podcasts_ne_n_palettes-11
+          git add temp/podcasts_ne_n_palettes-11
           git commit -m "updated podcast group-11"
           git push origin dist
   group-12:
@@ -329,18 +329,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp12
-          mkdir tmp/podcasts_palettes_ner- 180 195 12
+          mkdir temp/podcasts_palettes_ner-12
+          node --max-old-space-size=6144 out/lib/ner.js 180 195 12
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-12
         uses: actions/cache@v2
         with:
-          path: tmp/podcasts_ne_n_palettes-12
+          path: temp/podcasts_ne_n_palettes-12
           key: podcasts_palettes_ner-12
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add tmp/podcasts_ne_n_palettes-12
+          git add temp/podcasts_ne_n_palettes-12
           git commit -m "updated podcast group-12"
           git push origin dist
   group-13:
@@ -354,18 +354,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp13
-          mkdir tmp/podcasts_palettes_ner- 195 210 13
+          mkdir temp/podcasts_palettes_ner-13
+          node --max-old-space-size=6144 out/lib/ner.js 195 210 13
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-13
         uses: actions/cache@v2
         with:
-          path: tmp/podcasts_ne_n_palettes-13
+          path: temp/podcasts_ne_n_palettes-13
           key: podcasts_palettes_ner-13
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add tmp/podcasts_ne_n_palettes-13
+          git add temp/podcasts_ne_n_palettes-13
           git commit -m "updated podcast group-13"
           git push origin dist
   group-14:
@@ -379,18 +379,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp14
-          mkdir tmp/podcasts_palettes_ner- 210 225 14
+          mkdir temp/podcasts_palettes_ner-14
+          node --max-old-space-size=6144 out/lib/ner.js 210 225 14
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-14
         uses: actions/cache@v2
         with:
-          path: tmp/podcasts_ne_n_palettes-14
+          path: temp/podcasts_ne_n_palettes-14
           key: podcasts_palettes_ner-14
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add tmp/podcasts_ne_n_palettes-14
+          git add temp/podcasts_ne_n_palettes-14
           git commit -m "updated podcast group-14"
           git push origin dist
   group-15:
@@ -404,18 +404,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp15
-          mkdir tmp/podcasts_palettes_ner- 225 240 15
+          mkdir temp/podcasts_palettes_ner-15
+          node --max-old-space-size=6144 out/lib/ner.js 225 240 15
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-15
         uses: actions/cache@v2
         with:
-          path: tmp/podcasts_ne_n_palettes-15
+          path: temp/podcasts_ne_n_palettes-15
           key: podcasts_palettes_ner-15
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add tmp/podcasts_ne_n_palettes-15
+          git add temp/podcasts_ne_n_palettes-15
           git commit -m "updated podcast group-15"
           git push origin dist
   group-16:
@@ -429,18 +429,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp16
-          mkdir tmp/podcasts_palettes_ner- 240 255 16
+          mkdir temp/podcasts_palettes_ner-16
+          node --max-old-space-size=6144 out/lib/ner.js 240 255 16
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-16
         uses: actions/cache@v2
         with:
-          path: tmp/podcasts_ne_n_palettes-16
+          path: temp/podcasts_ne_n_palettes-16
           key: podcasts_palettes_ner-16
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add tmp/podcasts_ne_n_palettes-16
+          git add temp/podcasts_ne_n_palettes-16
           git commit -m "updated podcast group-16"
           git push origin dist
   group-17:
@@ -454,18 +454,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp17
-          mkdir tmp/podcasts_palettes_ner- 255 270 17
+          mkdir temp/podcasts_palettes_ner-17
+          node --max-old-space-size=6144 out/lib/ner.js 255 270 17
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-17
         uses: actions/cache@v2
         with:
-          path: tmp/podcasts_ne_n_palettes-17
+          path: temp/podcasts_ne_n_palettes-17
           key: podcasts_palettes_ner-17
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add tmp/podcasts_ne_n_palettes-17
+          git add temp/podcasts_ne_n_palettes-17
           git commit -m "updated podcast group-17"
           git push origin dist
   group-18:
@@ -479,18 +479,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp18
-          mkdir tmp/podcasts_palettes_ner- 270 285 18
+          mkdir temp/podcasts_palettes_ner-18
+          node --max-old-space-size=6144 out/lib/ner.js 270 285 18
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-18
         uses: actions/cache@v2
         with:
-          path: tmp/podcasts_ne_n_palettes-18
+          path: temp/podcasts_ne_n_palettes-18
           key: podcasts_palettes_ner-18
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add tmp/podcasts_ne_n_palettes-18
+          git add temp/podcasts_ne_n_palettes-18
           git commit -m "updated podcast group-18"
           git push origin dist
   group-19:
@@ -504,18 +504,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp19
-          mkdir tmp/podcasts_palettes_ner- 285 304 19
+          mkdir temp/podcasts_palettes_ner-19
+          node --max-old-space-size=6144 out/lib/ner.js 285 304 19
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-19
         uses: actions/cache@v2
         with:
-          path: tmp/podcasts_ne_n_palettes-19
+          path: temp/podcasts_ne_n_palettes-19
           key: podcasts_palettes_ner-19
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add tmp/podcasts_ne_n_palettes-19
+          git add temp/podcasts_ne_n_palettes-19
           git commit -m "updated podcast group-19"
           git push origin dist
   wrap-up:
@@ -569,7 +569,7 @@ jobs:
           cp dist/.github/workflows/release.yml
           out/.github/workflows/release.yml
 
-          rm -rf tmp
+          rm -rf temp
       - name: Verify Changed files 🐒
         uses: tj-actions/verify-changed-files@v8.3
         id: verify-changed-files
