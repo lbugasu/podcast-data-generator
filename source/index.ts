@@ -54,7 +54,7 @@ function saveFeedsToFolder(podData: any[]) {
 }
 
 function generateNamedEntities(): Promise<boolean> {
-  const pdcsts = Promise.all(_pods.map(async (podcast, i) => {
+  const pdcsts = Promise.all(_pods.slice(0, 20).map(async (podcast, i) => {
 
     const parsedRssFeed: any = await ner(podcast)
       .catch((error: any) => console.log('Error: '))
