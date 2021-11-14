@@ -78,18 +78,18 @@ class JobCreator {
     }
     createJob(jobIndex, startIndex, endIndex) {
         const _job = (0, lodash_1.cloneDeep)(__classPrivateFieldGet(this, _JobCreator_template, "f"));
-        const runSteps = _job['steps'][2]['run'].split('\n');
+        const runSteps = _job['steps'][3]['run'].split('\n');
         const createFolder = `${runSteps[0]}${jobIndex}`;
         const nodeCmd = `${runSteps[1]} ${startIndex} ${endIndex} ${jobIndex}`;
         const _newSteps = createFolder + '\n' + nodeCmd + '\n';
-        _job['steps'][2]['run'] = _newSteps;
-        _job['steps'][3]['id'] = `${_job['steps'][3]['id']}${jobIndex}`;
-        _job['steps'][3]['with']['path'] = `${_job['steps'][3]['with']['path']}${jobIndex}`;
-        _job['steps'][3]['with']['key'] = `${_job['steps'][3]['with']['key']}${jobIndex}`;
-        const commitSteps = _job['steps'][4]['run'].split('\n');
+        _job['steps'][3]['run'] = _newSteps;
+        _job['steps'][4]['id'] = `${_job['steps'][4]['id']}${jobIndex}`;
+        _job['steps'][4]['with']['path'] = `${_job['steps'][4]['with']['path']}${jobIndex}`;
+        _job['steps'][4]['with']['key'] = `${_job['steps'][4]['with']['key']}${jobIndex}`;
+        const commitSteps = _job['steps'][5]['run'].split('\n');
         commitSteps[1] = `${commitSteps[1]}${jobIndex}`;
         commitSteps[2] = `${commitSteps[2]}${jobIndex}"`;
-        _job['steps'][4]['run'] = commitSteps.join('\n');
+        _job['steps'][5]['run'] = commitSteps.join('\n');
         return _job;
     }
 }
