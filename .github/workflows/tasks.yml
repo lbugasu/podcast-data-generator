@@ -36,19 +36,18 @@ jobs:
           npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir temp
           mkdir temp/podcasts_palettes_ner-0
           node --max-old-space-size=6144 out/lib/ner.js 0 15 0
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-0
         uses: actions/cache@v2
         with:
-          path: temp/podcasts_ne_n_palettes-0
+          path: temp/podcasts_palettes_ner-0
           key: podcasts_palettes_ner-0
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_ne_n_palettes-0
+          git add temp/podcasts_palettes_ner-0
           git commit -m "updated podcast group-0"
           git push origin dist
   group-1:
@@ -74,13 +73,12 @@ jobs:
         id: podcasts_palettes_ner-1
         uses: actions/cache@v2
         with:
-          path: temp/podcasts_ne_n_palettes-1
+          path: temp/podcasts_palettes_ner-1
           key: podcasts_palettes_ner-1
       - name: commit 💾
         run: |
-          npx tsc
           # Stage the file, commit and push
-          git add temp/podcasts_ne_n_palettes-1
+          git add temp/podcasts_palettes_ner-1
           git commit -m "updated podcast group-1"
           git push origin dist
   group-2:
@@ -106,12 +104,12 @@ jobs:
         id: podcasts_palettes_ner-2
         uses: actions/cache@v2
         with:
-          path: temp/podcasts_ne_n_palettes-2
+          path: temp/podcasts_palettes_ner-2
           key: podcasts_palettes_ner-2
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_ne_n_palettes-2
+          git add temp/podcasts_palettes_ner-2
           git commit -m "updated podcast group-2"
           git push origin dist
   group-3:
@@ -137,12 +135,12 @@ jobs:
         id: podcasts_palettes_ner-3
         uses: actions/cache@v2
         with:
-          path: temp/podcasts_ne_n_palettes-3
+          path: temp/podcasts_palettes_ner-3
           key: podcasts_palettes_ner-3
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_ne_n_palettes-3
+          git add temp/podcasts_palettes_ner-3
           git commit -m "updated podcast group-3"
           git push origin dist
   group-4:
@@ -168,12 +166,12 @@ jobs:
         id: podcasts_palettes_ner-4
         uses: actions/cache@v2
         with:
-          path: temp/podcasts_ne_n_palettes-4
+          path: temp/podcasts_palettes_ner-4
           key: podcasts_palettes_ner-4
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_ne_n_palettes-4
+          git add temp/podcasts_palettes_ner-4
           git commit -m "updated podcast group-4"
           git push origin dist
   group-5:
@@ -199,12 +197,12 @@ jobs:
         id: podcasts_palettes_ner-5
         uses: actions/cache@v2
         with:
-          path: temp/podcasts_ne_n_palettes-5
+          path: temp/podcasts_palettes_ner-5
           key: podcasts_palettes_ner-5
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_ne_n_palettes-5
+          git add temp/podcasts_palettes_ner-5
           git commit -m "updated podcast group-5"
           git push origin dist
   group-6:
@@ -230,12 +228,12 @@ jobs:
         id: podcasts_palettes_ner-6
         uses: actions/cache@v2
         with:
-          path: temp/podcasts_ne_n_palettes-6
+          path: temp/podcasts_palettes_ner-6
           key: podcasts_palettes_ner-6
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_ne_n_palettes-6
+          git add temp/podcasts_palettes_ner-6
           git commit -m "updated podcast group-6"
           git push origin dist
   group-7:
@@ -261,12 +259,12 @@ jobs:
         id: podcasts_palettes_ner-7
         uses: actions/cache@v2
         with:
-          path: temp/podcasts_ne_n_palettes-7
+          path: temp/podcasts_palettes_ner-7
           key: podcasts_palettes_ner-7
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_ne_n_palettes-7
+          git add temp/podcasts_palettes_ner-7
           git commit -m "updated podcast group-7"
           git push origin dist
   group-8:
@@ -292,12 +290,12 @@ jobs:
         id: podcasts_palettes_ner-8
         uses: actions/cache@v2
         with:
-          path: temp/podcasts_ne_n_palettes-8
+          path: temp/podcasts_palettes_ner-8
           key: podcasts_palettes_ner-8
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_ne_n_palettes-8
+          git add temp/podcasts_palettes_ner-8
           git commit -m "updated podcast group-8"
           git push origin dist
   group-9:
@@ -323,12 +321,12 @@ jobs:
         id: podcasts_palettes_ner-9
         uses: actions/cache@v2
         with:
-          path: temp/podcasts_ne_n_palettes-9
+          path: temp/podcasts_palettes_ner-9
           key: podcasts_palettes_ner-9
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_ne_n_palettes-9
+          git add temp/podcasts_palettes_ner-9
           git commit -m "updated podcast group-9"
           git push origin dist
   group-10:
@@ -354,12 +352,12 @@ jobs:
         id: podcasts_palettes_ner-10
         uses: actions/cache@v2
         with:
-          path: temp/podcasts_ne_n_palettes-10
+          path: temp/podcasts_palettes_ner-10
           key: podcasts_palettes_ner-10
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_ne_n_palettes-10
+          git add temp/podcasts_palettes_ner-10
           git commit -m "updated podcast group-10"
           git push origin dist
   group-11:
@@ -385,12 +383,12 @@ jobs:
         id: podcasts_palettes_ner-11
         uses: actions/cache@v2
         with:
-          path: temp/podcasts_ne_n_palettes-11
+          path: temp/podcasts_palettes_ner-11
           key: podcasts_palettes_ner-11
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_ne_n_palettes-11
+          git add temp/podcasts_palettes_ner-11
           git commit -m "updated podcast group-11"
           git push origin dist
   group-12:
@@ -416,12 +414,12 @@ jobs:
         id: podcasts_palettes_ner-12
         uses: actions/cache@v2
         with:
-          path: temp/podcasts_ne_n_palettes-12
+          path: temp/podcasts_palettes_ner-12
           key: podcasts_palettes_ner-12
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_ne_n_palettes-12
+          git add temp/podcasts_palettes_ner-12
           git commit -m "updated podcast group-12"
           git push origin dist
   group-13:
@@ -447,12 +445,12 @@ jobs:
         id: podcasts_palettes_ner-13
         uses: actions/cache@v2
         with:
-          path: temp/podcasts_ne_n_palettes-13
+          path: temp/podcasts_palettes_ner-13
           key: podcasts_palettes_ner-13
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_ne_n_palettes-13
+          git add temp/podcasts_palettes_ner-13
           git commit -m "updated podcast group-13"
           git push origin dist
   group-14:
@@ -478,12 +476,12 @@ jobs:
         id: podcasts_palettes_ner-14
         uses: actions/cache@v2
         with:
-          path: temp/podcasts_ne_n_palettes-14
+          path: temp/podcasts_palettes_ner-14
           key: podcasts_palettes_ner-14
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_ne_n_palettes-14
+          git add temp/podcasts_palettes_ner-14
           git commit -m "updated podcast group-14"
           git push origin dist
   group-15:
@@ -509,12 +507,12 @@ jobs:
         id: podcasts_palettes_ner-15
         uses: actions/cache@v2
         with:
-          path: temp/podcasts_ne_n_palettes-15
+          path: temp/podcasts_palettes_ner-15
           key: podcasts_palettes_ner-15
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_ne_n_palettes-15
+          git add temp/podcasts_palettes_ner-15
           git commit -m "updated podcast group-15"
           git push origin dist
   group-16:
@@ -540,12 +538,12 @@ jobs:
         id: podcasts_palettes_ner-16
         uses: actions/cache@v2
         with:
-          path: temp/podcasts_ne_n_palettes-16
+          path: temp/podcasts_palettes_ner-16
           key: podcasts_palettes_ner-16
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_ne_n_palettes-16
+          git add temp/podcasts_palettes_ner-16
           git commit -m "updated podcast group-16"
           git push origin dist
   group-17:
@@ -571,12 +569,12 @@ jobs:
         id: podcasts_palettes_ner-17
         uses: actions/cache@v2
         with:
-          path: temp/podcasts_ne_n_palettes-17
+          path: temp/podcasts_palettes_ner-17
           key: podcasts_palettes_ner-17
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_ne_n_palettes-17
+          git add temp/podcasts_palettes_ner-17
           git commit -m "updated podcast group-17"
           git push origin dist
   group-18:
@@ -602,12 +600,12 @@ jobs:
         id: podcasts_palettes_ner-18
         uses: actions/cache@v2
         with:
-          path: temp/podcasts_ne_n_palettes-18
+          path: temp/podcasts_palettes_ner-18
           key: podcasts_palettes_ner-18
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_ne_n_palettes-18
+          git add temp/podcasts_palettes_ner-18
           git commit -m "updated podcast group-18"
           git push origin dist
   group-19:
@@ -633,12 +631,12 @@ jobs:
         id: podcasts_palettes_ner-19
         uses: actions/cache@v2
         with:
-          path: temp/podcasts_ne_n_palettes-19
+          path: temp/podcasts_palettes_ner-19
           key: podcasts_palettes_ner-19
       - name: commit 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_ne_n_palettes-19
+          git add temp/podcasts_palettes_ner-19
           git commit -m "updated podcast group-19"
           git push origin dist
   wrap-up:
