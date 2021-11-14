@@ -7,22 +7,27 @@ jobs:
   prepare:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v2
       - name: prep
         run: |
           mkdir tmp
+          git add tmp
+          git commit -m "Create tmp folder"
+          git push origin dist
   group-0:
     runs-on: ubuntu-latest
     needs: prepare
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: |
+          npm install
+          npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp
-          ls
-          mkdir tmp/podcasts_palettes_ner-0
-          node --max-old-space-size=6144 out/lib/ner.js 0 15 0
+          mkdir tmp0
+          mkdir tmp/podcasts_palettes_ner- 0 15 0
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-0
         uses: actions/cache@v2
@@ -41,11 +46,13 @@ jobs:
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: |
+          npm install
+          npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp/podcasts_palettes_ner-1
-          node --max-old-space-size=6144 out/index.js 15 30 1
+          mkdir tmp1
+          mkdir tmp/podcasts_palettes_ner- 15 30 1
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-1
         uses: actions/cache@v2
@@ -64,11 +71,13 @@ jobs:
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: |
+          npm install
+          npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp/podcasts_palettes_ner-2
-          node --max-old-space-size=6144 out/index.js 30 45 2
+          mkdir tmp2
+          mkdir tmp/podcasts_palettes_ner- 30 45 2
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-2
         uses: actions/cache@v2
@@ -87,11 +96,13 @@ jobs:
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: |
+          npm install
+          npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp/podcasts_palettes_ner-3
-          node --max-old-space-size=6144 out/index.js 45 60 3
+          mkdir tmp3
+          mkdir tmp/podcasts_palettes_ner- 45 60 3
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-3
         uses: actions/cache@v2
@@ -110,11 +121,13 @@ jobs:
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: |
+          npm install
+          npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp/podcasts_palettes_ner-4
-          node --max-old-space-size=6144 out/index.js 60 75 4
+          mkdir tmp4
+          mkdir tmp/podcasts_palettes_ner- 60 75 4
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-4
         uses: actions/cache@v2
@@ -133,11 +146,13 @@ jobs:
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: |
+          npm install
+          npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp/podcasts_palettes_ner-5
-          node --max-old-space-size=6144 out/index.js 75 90 5
+          mkdir tmp5
+          mkdir tmp/podcasts_palettes_ner- 75 90 5
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-5
         uses: actions/cache@v2
@@ -156,11 +171,13 @@ jobs:
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: |
+          npm install
+          npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp/podcasts_palettes_ner-6
-          node --max-old-space-size=6144 out/index.js 90 105 6
+          mkdir tmp6
+          mkdir tmp/podcasts_palettes_ner- 90 105 6
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-6
         uses: actions/cache@v2
@@ -179,11 +196,13 @@ jobs:
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: |
+          npm install
+          npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp/podcasts_palettes_ner-7
-          node --max-old-space-size=6144 out/index.js 105 120 7
+          mkdir tmp7
+          mkdir tmp/podcasts_palettes_ner- 105 120 7
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-7
         uses: actions/cache@v2
@@ -202,11 +221,13 @@ jobs:
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: |
+          npm install
+          npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp/podcasts_palettes_ner-8
-          node --max-old-space-size=6144 out/index.js 120 135 8
+          mkdir tmp8
+          mkdir tmp/podcasts_palettes_ner- 120 135 8
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-8
         uses: actions/cache@v2
@@ -225,11 +246,13 @@ jobs:
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: |
+          npm install
+          npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp/podcasts_palettes_ner-9
-          node --max-old-space-size=6144 out/index.js 135 150 9
+          mkdir tmp9
+          mkdir tmp/podcasts_palettes_ner- 135 150 9
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-9
         uses: actions/cache@v2
@@ -248,11 +271,13 @@ jobs:
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: |
+          npm install
+          npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp/podcasts_palettes_ner-10
-          node --max-old-space-size=6144 out/index.js 150 165 10
+          mkdir tmp10
+          mkdir tmp/podcasts_palettes_ner- 150 165 10
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-10
         uses: actions/cache@v2
@@ -271,11 +296,13 @@ jobs:
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: |
+          npm install
+          npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp/podcasts_palettes_ner-11
-          node --max-old-space-size=6144 out/index.js 165 180 11
+          mkdir tmp11
+          mkdir tmp/podcasts_palettes_ner- 165 180 11
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-11
         uses: actions/cache@v2
@@ -294,11 +321,13 @@ jobs:
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: |
+          npm install
+          npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp/podcasts_palettes_ner-12
-          node --max-old-space-size=6144 out/index.js 180 195 12
+          mkdir tmp12
+          mkdir tmp/podcasts_palettes_ner- 180 195 12
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-12
         uses: actions/cache@v2
@@ -317,11 +346,13 @@ jobs:
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: |
+          npm install
+          npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp/podcasts_palettes_ner-13
-          node --max-old-space-size=6144 out/index.js 195 210 13
+          mkdir tmp13
+          mkdir tmp/podcasts_palettes_ner- 195 210 13
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-13
         uses: actions/cache@v2
@@ -340,11 +371,13 @@ jobs:
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: |
+          npm install
+          npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp/podcasts_palettes_ner-14
-          node --max-old-space-size=6144 out/index.js 210 225 14
+          mkdir tmp14
+          mkdir tmp/podcasts_palettes_ner- 210 225 14
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-14
         uses: actions/cache@v2
@@ -363,11 +396,13 @@ jobs:
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: |
+          npm install
+          npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp/podcasts_palettes_ner-15
-          node --max-old-space-size=6144 out/index.js 225 240 15
+          mkdir tmp15
+          mkdir tmp/podcasts_palettes_ner- 225 240 15
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-15
         uses: actions/cache@v2
@@ -386,11 +421,13 @@ jobs:
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: |
+          npm install
+          npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp/podcasts_palettes_ner-16
-          node --max-old-space-size=6144 out/index.js 240 255 16
+          mkdir tmp16
+          mkdir tmp/podcasts_palettes_ner- 240 255 16
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-16
         uses: actions/cache@v2
@@ -409,11 +446,13 @@ jobs:
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: |
+          npm install
+          npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp/podcasts_palettes_ner-17
-          node --max-old-space-size=6144 out/index.js 255 270 17
+          mkdir tmp17
+          mkdir tmp/podcasts_palettes_ner- 255 270 17
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-17
         uses: actions/cache@v2
@@ -432,11 +471,13 @@ jobs:
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: |
+          npm install
+          npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp/podcasts_palettes_ner-18
-          node --max-old-space-size=6144 out/index.js 270 285 18
+          mkdir tmp18
+          mkdir tmp/podcasts_palettes_ner- 270 285 18
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-18
         uses: actions/cache@v2
@@ -455,11 +496,13 @@ jobs:
     steps:
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
+        run: |
+          npm install
+          npx tsc
       - name: Process w/ Name Entity Recognition 🤖
         run: |
-          mkdir tmp/podcasts_palettes_ner-19
-          node --max-old-space-size=6144 out/index.js 285 304 19
+          mkdir tmp19
+          mkdir tmp/podcasts_palettes_ner- 285 304 19
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-19
         uses: actions/cache@v2
@@ -475,6 +518,25 @@ jobs:
   wrap-up:
     needs:
       - group-0
+      - group-1
+      - group-2
+      - group-3
+      - group-4
+      - group-5
+      - group-6
+      - group-7
+      - group-8
+      - group-9
+      - group-10
+      - group-11
+      - group-12
+      - group-13
+      - group-14
+      - group-15
+      - group-16
+      - group-17
+      - group-18
+      - group-19
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
