@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest",
     "dev": "npx concurrently \"tsc -w\" \"nodemon out/index.js\"",
-    "build": "tsc"
+    "build": "tsc",
+    "start": "node out/index.js"
   },
   "repository": {
     "type": "git",
