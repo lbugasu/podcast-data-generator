@@ -45,7 +45,10 @@ jobs:
         with:
           path: temp/podcasts_palettes_ner-0
           key: podcasts_palettes_ner-0
-      - name: commit 💾
+      - name: commit & Push changes 💾
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Stage the file, commit and push
           git add temp/podcasts_palettes_ner-0
@@ -66,6 +69,7 @@ jobs:
         run: |
           npm install
           npx tsc
+          mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-1
@@ -76,7 +80,10 @@ jobs:
         with:
           path: temp/podcasts_palettes_ner-1
           key: podcasts_palettes_ner-1
-      - name: commit 💾
+      - name: commit & Push changes 💾
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Stage the file, commit and push
           git add temp/podcasts_palettes_ner-1
@@ -97,6 +104,7 @@ jobs:
         run: |
           npm install
           npx tsc
+          mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-2
@@ -107,7 +115,10 @@ jobs:
         with:
           path: temp/podcasts_palettes_ner-2
           key: podcasts_palettes_ner-2
-      - name: commit 💾
+      - name: commit & Push changes 💾
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Stage the file, commit and push
           git add temp/podcasts_palettes_ner-2
@@ -128,6 +139,7 @@ jobs:
         run: |
           npm install
           npx tsc
+          mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-3
@@ -138,7 +150,10 @@ jobs:
         with:
           path: temp/podcasts_palettes_ner-3
           key: podcasts_palettes_ner-3
-      - name: commit 💾
+      - name: commit & Push changes 💾
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Stage the file, commit and push
           git add temp/podcasts_palettes_ner-3
@@ -159,6 +174,7 @@ jobs:
         run: |
           npm install
           npx tsc
+          mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-4
@@ -169,7 +185,10 @@ jobs:
         with:
           path: temp/podcasts_palettes_ner-4
           key: podcasts_palettes_ner-4
-      - name: commit 💾
+      - name: commit & Push changes 💾
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Stage the file, commit and push
           git add temp/podcasts_palettes_ner-4
@@ -190,6 +209,7 @@ jobs:
         run: |
           npm install
           npx tsc
+          mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-5
@@ -200,7 +220,10 @@ jobs:
         with:
           path: temp/podcasts_palettes_ner-5
           key: podcasts_palettes_ner-5
-      - name: commit 💾
+      - name: commit & Push changes 💾
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Stage the file, commit and push
           git add temp/podcasts_palettes_ner-5
@@ -221,6 +244,7 @@ jobs:
         run: |
           npm install
           npx tsc
+          mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-6
@@ -231,7 +255,10 @@ jobs:
         with:
           path: temp/podcasts_palettes_ner-6
           key: podcasts_palettes_ner-6
-      - name: commit 💾
+      - name: commit & Push changes 💾
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Stage the file, commit and push
           git add temp/podcasts_palettes_ner-6
@@ -252,6 +279,7 @@ jobs:
         run: |
           npm install
           npx tsc
+          mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-7
@@ -262,7 +290,10 @@ jobs:
         with:
           path: temp/podcasts_palettes_ner-7
           key: podcasts_palettes_ner-7
-      - name: commit 💾
+      - name: commit & Push changes 💾
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Stage the file, commit and push
           git add temp/podcasts_palettes_ner-7
@@ -283,6 +314,7 @@ jobs:
         run: |
           npm install
           npx tsc
+          mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-8
@@ -293,7 +325,10 @@ jobs:
         with:
           path: temp/podcasts_palettes_ner-8
           key: podcasts_palettes_ner-8
-      - name: commit 💾
+      - name: commit & Push changes 💾
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Stage the file, commit and push
           git add temp/podcasts_palettes_ner-8
@@ -314,6 +349,7 @@ jobs:
         run: |
           npm install
           npx tsc
+          mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-9
@@ -324,7 +360,10 @@ jobs:
         with:
           path: temp/podcasts_palettes_ner-9
           key: podcasts_palettes_ner-9
-      - name: commit 💾
+      - name: commit & Push changes 💾
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Stage the file, commit and push
           git add temp/podcasts_palettes_ner-9
@@ -345,6 +384,7 @@ jobs:
         run: |
           npm install
           npx tsc
+          mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-10
@@ -355,7 +395,10 @@ jobs:
         with:
           path: temp/podcasts_palettes_ner-10
           key: podcasts_palettes_ner-10
-      - name: commit 💾
+      - name: commit & Push changes 💾
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Stage the file, commit and push
           git add temp/podcasts_palettes_ner-10
@@ -376,6 +419,7 @@ jobs:
         run: |
           npm install
           npx tsc
+          mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-11
@@ -386,7 +430,10 @@ jobs:
         with:
           path: temp/podcasts_palettes_ner-11
           key: podcasts_palettes_ner-11
-      - name: commit 💾
+      - name: commit & Push changes 💾
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Stage the file, commit and push
           git add temp/podcasts_palettes_ner-11
@@ -407,6 +454,7 @@ jobs:
         run: |
           npm install
           npx tsc
+          mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-12
@@ -417,7 +465,10 @@ jobs:
         with:
           path: temp/podcasts_palettes_ner-12
           key: podcasts_palettes_ner-12
-      - name: commit 💾
+      - name: commit & Push changes 💾
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Stage the file, commit and push
           git add temp/podcasts_palettes_ner-12
@@ -438,6 +489,7 @@ jobs:
         run: |
           npm install
           npx tsc
+          mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-13
@@ -448,7 +500,10 @@ jobs:
         with:
           path: temp/podcasts_palettes_ner-13
           key: podcasts_palettes_ner-13
-      - name: commit 💾
+      - name: commit & Push changes 💾
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Stage the file, commit and push
           git add temp/podcasts_palettes_ner-13
@@ -469,6 +524,7 @@ jobs:
         run: |
           npm install
           npx tsc
+          mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-14
@@ -479,7 +535,10 @@ jobs:
         with:
           path: temp/podcasts_palettes_ner-14
           key: podcasts_palettes_ner-14
-      - name: commit 💾
+      - name: commit & Push changes 💾
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Stage the file, commit and push
           git add temp/podcasts_palettes_ner-14
@@ -500,6 +559,7 @@ jobs:
         run: |
           npm install
           npx tsc
+          mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-15
@@ -510,7 +570,10 @@ jobs:
         with:
           path: temp/podcasts_palettes_ner-15
           key: podcasts_palettes_ner-15
-      - name: commit 💾
+      - name: commit & Push changes 💾
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Stage the file, commit and push
           git add temp/podcasts_palettes_ner-15
@@ -531,6 +594,7 @@ jobs:
         run: |
           npm install
           npx tsc
+          mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-16
@@ -541,7 +605,10 @@ jobs:
         with:
           path: temp/podcasts_palettes_ner-16
           key: podcasts_palettes_ner-16
-      - name: commit 💾
+      - name: commit & Push changes 💾
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Stage the file, commit and push
           git add temp/podcasts_palettes_ner-16
@@ -562,6 +629,7 @@ jobs:
         run: |
           npm install
           npx tsc
+          mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-17
@@ -572,7 +640,10 @@ jobs:
         with:
           path: temp/podcasts_palettes_ner-17
           key: podcasts_palettes_ner-17
-      - name: commit 💾
+      - name: commit & Push changes 💾
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Stage the file, commit and push
           git add temp/podcasts_palettes_ner-17
@@ -593,6 +664,7 @@ jobs:
         run: |
           npm install
           npx tsc
+          mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-18
@@ -603,7 +675,10 @@ jobs:
         with:
           path: temp/podcasts_palettes_ner-18
           key: podcasts_palettes_ner-18
-      - name: commit 💾
+      - name: commit & Push changes 💾
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Stage the file, commit and push
           git add temp/podcasts_palettes_ner-18
@@ -624,6 +699,7 @@ jobs:
         run: |
           npm install
           npx tsc
+          mkdir temp
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-19
@@ -634,7 +710,10 @@ jobs:
         with:
           path: temp/podcasts_palettes_ner-19
           key: podcasts_palettes_ner-19
-      - name: commit 💾
+      - name: commit & Push changes 💾
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Stage the file, commit and push
           git add temp/podcasts_palettes_ner-19
