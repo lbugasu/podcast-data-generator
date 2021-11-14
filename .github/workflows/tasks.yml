@@ -1,0 +1,326 @@
+name: tasks
+'on':
+  push:
+    branches:
+      - dist
+jobs:
+  group-0:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Process w/ Name Entity Recognition 🤖
+        run: |
+          mkdir podcasts_palettes_ner-0
+          node --max-old-space-size=6144 out/index.js 0 15 0
+      - name: Cache Output of the Job
+        id: podcasts_palettes_ner-0
+        uses: actions/cache@v2
+        with:
+          path: tmp/dist/podcasts_ne_n_palettes-0
+          key: podcasts_palettes_ner-0
+  group-1:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Process w/ Name Entity Recognition 🤖
+        run: |
+          mkdir podcasts_palettes_ner-1
+          node --max-old-space-size=6144 out/index.js 15 30 1
+      - name: Cache Output of the Job
+        id: podcasts_palettes_ner-1
+        uses: actions/cache@v2
+        with:
+          path: tmp/dist/podcasts_ne_n_palettes-1
+          key: podcasts_palettes_ner-1
+  group-2:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Process w/ Name Entity Recognition 🤖
+        run: |
+          mkdir podcasts_palettes_ner-2
+          node --max-old-space-size=6144 out/index.js 30 45 2
+      - name: Cache Output of the Job
+        id: podcasts_palettes_ner-2
+        uses: actions/cache@v2
+        with:
+          path: tmp/dist/podcasts_ne_n_palettes-2
+          key: podcasts_palettes_ner-2
+  group-3:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Process w/ Name Entity Recognition 🤖
+        run: |
+          mkdir podcasts_palettes_ner-3
+          node --max-old-space-size=6144 out/index.js 45 60 3
+      - name: Cache Output of the Job
+        id: podcasts_palettes_ner-3
+        uses: actions/cache@v2
+        with:
+          path: tmp/dist/podcasts_ne_n_palettes-3
+          key: podcasts_palettes_ner-3
+  group-4:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Process w/ Name Entity Recognition 🤖
+        run: |
+          mkdir podcasts_palettes_ner-4
+          node --max-old-space-size=6144 out/index.js 60 75 4
+      - name: Cache Output of the Job
+        id: podcasts_palettes_ner-4
+        uses: actions/cache@v2
+        with:
+          path: tmp/dist/podcasts_ne_n_palettes-4
+          key: podcasts_palettes_ner-4
+  group-5:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Process w/ Name Entity Recognition 🤖
+        run: |
+          mkdir podcasts_palettes_ner-5
+          node --max-old-space-size=6144 out/index.js 75 90 5
+      - name: Cache Output of the Job
+        id: podcasts_palettes_ner-5
+        uses: actions/cache@v2
+        with:
+          path: tmp/dist/podcasts_ne_n_palettes-5
+          key: podcasts_palettes_ner-5
+  group-6:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Process w/ Name Entity Recognition 🤖
+        run: |
+          mkdir podcasts_palettes_ner-6
+          node --max-old-space-size=6144 out/index.js 90 105 6
+      - name: Cache Output of the Job
+        id: podcasts_palettes_ner-6
+        uses: actions/cache@v2
+        with:
+          path: tmp/dist/podcasts_ne_n_palettes-6
+          key: podcasts_palettes_ner-6
+  group-7:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Process w/ Name Entity Recognition 🤖
+        run: |
+          mkdir podcasts_palettes_ner-7
+          node --max-old-space-size=6144 out/index.js 105 120 7
+      - name: Cache Output of the Job
+        id: podcasts_palettes_ner-7
+        uses: actions/cache@v2
+        with:
+          path: tmp/dist/podcasts_ne_n_palettes-7
+          key: podcasts_palettes_ner-7
+  group-8:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Process w/ Name Entity Recognition 🤖
+        run: |
+          mkdir podcasts_palettes_ner-8
+          node --max-old-space-size=6144 out/index.js 120 135 8
+      - name: Cache Output of the Job
+        id: podcasts_palettes_ner-8
+        uses: actions/cache@v2
+        with:
+          path: tmp/dist/podcasts_ne_n_palettes-8
+          key: podcasts_palettes_ner-8
+  group-9:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Process w/ Name Entity Recognition 🤖
+        run: |
+          mkdir podcasts_palettes_ner-9
+          node --max-old-space-size=6144 out/index.js 135 150 9
+      - name: Cache Output of the Job
+        id: podcasts_palettes_ner-9
+        uses: actions/cache@v2
+        with:
+          path: tmp/dist/podcasts_ne_n_palettes-9
+          key: podcasts_palettes_ner-9
+  group-10:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Process w/ Name Entity Recognition 🤖
+        run: |
+          mkdir podcasts_palettes_ner-10
+          node --max-old-space-size=6144 out/index.js 150 165 10
+      - name: Cache Output of the Job
+        id: podcasts_palettes_ner-10
+        uses: actions/cache@v2
+        with:
+          path: tmp/dist/podcasts_ne_n_palettes-10
+          key: podcasts_palettes_ner-10
+  group-11:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Process w/ Name Entity Recognition 🤖
+        run: |
+          mkdir podcasts_palettes_ner-11
+          node --max-old-space-size=6144 out/index.js 165 180 11
+      - name: Cache Output of the Job
+        id: podcasts_palettes_ner-11
+        uses: actions/cache@v2
+        with:
+          path: tmp/dist/podcasts_ne_n_palettes-11
+          key: podcasts_palettes_ner-11
+  group-12:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Process w/ Name Entity Recognition 🤖
+        run: |
+          mkdir podcasts_palettes_ner-12
+          node --max-old-space-size=6144 out/index.js 180 195 12
+      - name: Cache Output of the Job
+        id: podcasts_palettes_ner-12
+        uses: actions/cache@v2
+        with:
+          path: tmp/dist/podcasts_ne_n_palettes-12
+          key: podcasts_palettes_ner-12
+  group-13:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Process w/ Name Entity Recognition 🤖
+        run: |
+          mkdir podcasts_palettes_ner-13
+          node --max-old-space-size=6144 out/index.js 195 210 13
+      - name: Cache Output of the Job
+        id: podcasts_palettes_ner-13
+        uses: actions/cache@v2
+        with:
+          path: tmp/dist/podcasts_ne_n_palettes-13
+          key: podcasts_palettes_ner-13
+  group-14:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Process w/ Name Entity Recognition 🤖
+        run: |
+          mkdir podcasts_palettes_ner-14
+          node --max-old-space-size=6144 out/index.js 210 225 14
+      - name: Cache Output of the Job
+        id: podcasts_palettes_ner-14
+        uses: actions/cache@v2
+        with:
+          path: tmp/dist/podcasts_ne_n_palettes-14
+          key: podcasts_palettes_ner-14
+  group-15:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Process w/ Name Entity Recognition 🤖
+        run: |
+          mkdir podcasts_palettes_ner-15
+          node --max-old-space-size=6144 out/index.js 225 240 15
+      - name: Cache Output of the Job
+        id: podcasts_palettes_ner-15
+        uses: actions/cache@v2
+        with:
+          path: tmp/dist/podcasts_ne_n_palettes-15
+          key: podcasts_palettes_ner-15
+  group-16:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Process w/ Name Entity Recognition 🤖
+        run: |
+          mkdir podcasts_palettes_ner-16
+          node --max-old-space-size=6144 out/index.js 240 255 16
+      - name: Cache Output of the Job
+        id: podcasts_palettes_ner-16
+        uses: actions/cache@v2
+        with:
+          path: tmp/dist/podcasts_ne_n_palettes-16
+          key: podcasts_palettes_ner-16
+  group-17:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Process w/ Name Entity Recognition 🤖
+        run: |
+          mkdir podcasts_palettes_ner-17
+          node --max-old-space-size=6144 out/index.js 255 270 17
+      - name: Cache Output of the Job
+        id: podcasts_palettes_ner-17
+        uses: actions/cache@v2
+        with:
+          path: tmp/dist/podcasts_ne_n_palettes-17
+          key: podcasts_palettes_ner-17
+  group-18:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Process w/ Name Entity Recognition 🤖
+        run: |
+          mkdir podcasts_palettes_ner-18
+          node --max-old-space-size=6144 out/index.js 270 285 18
+      - name: Cache Output of the Job
+        id: podcasts_palettes_ner-18
+        uses: actions/cache@v2
+        with:
+          path: tmp/dist/podcasts_ne_n_palettes-18
+          key: podcasts_palettes_ner-18
+  group-19:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Process w/ Name Entity Recognition 🤖
+        run: |
+          mkdir podcasts_palettes_ner-19
+          node --max-old-space-size=6144 out/index.js 285 304 19
+      - name: Cache Output of the Job
+        id: podcasts_palettes_ner-19
+        uses: actions/cache@v2
+        with:
+          path: tmp/dist/podcasts_ne_n_palettes-19
+          key: podcasts_palettes_ner-19
