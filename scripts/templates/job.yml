@@ -1,15 +1,16 @@
 runs-on: ubuntu-latest
+needs: prepare
 steps:
   - name: Install Dependencies
     if: steps.node-cache.outputs.cache-hit != 'true'
     run: npm install
   - name: 'Process w/ Name Entity Recognition 🤖'
     run: |
-      mkdir podcasts_palettes_ner-
+      mkdir tmp/podcasts_palettes_ner-
       node --max-old-space-size=6144 out/index.js
   - name: Cache Output of the Job
     id: podcasts_palettes_ner-
     uses: actions/cache@v2
     with:
-      path: tmp/dist/podcasts_ne_n_palettes-
+      path: tmp/podcasts_ne_n_palettes-
       key: podcasts_palettes_ner-

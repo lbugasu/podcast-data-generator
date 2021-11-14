@@ -3,3 +3,10 @@ on:
   push:
     branches:
       - dist
+jobs: 
+  prepare:
+  runs-on: ubuntu-latest
+    steps: 
+      - name: prep
+        run: |
+          mkdir tmp

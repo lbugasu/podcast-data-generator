@@ -38,7 +38,7 @@ function generateNamedEntities(podcasts: any[]): Promise<boolean> {
       .catch((error: any) => console.log('Error: '))
 
     if (parsedRssFeed) {
-      writeToFile(parsedRssFeed, slug(parsedRssFeed.title), `podcasts_palettes_ner_${index}`, (i/podcasts.length))
+      writeToFile(parsedRssFeed, slug(parsedRssFeed.title), `tmp/podcasts_palettes_ner_${index}`, (i/podcasts.length))
     }
     console.log(`Parsing Json Feeds: ${ (((i+1)/podcasts.length)*100).toFixed(2)}%`)
     return parsedRssFeed

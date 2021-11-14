@@ -28,15 +28,22 @@ class WorkFlow {
     workFlow!: Yml
     jobCreator!: JobCreator
 
-    constructor(system: System, tasks: number, starterYml: Yml, jobYml: Yml){
-        this.workFlow = cloneDeep(starterYml)
-        this.jobCreator = new JobCreator(jobYml)
+    jobs: string[] = []
 
-        this.system = system
-        this.jobsPerSystem = JobsPerSystem[system]
+    constructor(system: System, 
+        tasks: number, 
+        starterYml: Yml, 
+        jobYml: Yml, 
+        wrapUp: Yml){
+            this.workFlow = cloneDeep(starterYml)
+            this.jobCreator = new JobCreator(jobYml)
+            
+            this.system = system
+            this.jobsPerSystem = JobsPerSystem[system]
 
-        this.createBatches(tasks)
-        this.generateJobs()
+            this.createBatches(tasks)
+            this.generateJobs()
+            this.wrapUp(wrapUp)
     }
 
     createBatches(tasks: number) {
@@ -57,11 +64,18 @@ class WorkFlow {
             this.splitTemplate.taskPerJob
         const startIndex = index * this.splitTemplate.taskPerJob
         const endIndex = startIndex + jobs
-        this.workFlow['jobs'][`group-${index}`] = this.jobCreator.createJob(index, startIndex, endIndex)
+        const jobName = `group-${index}`
+        this.jobs.push(jobName)
+        this.workFlow['jobs'][jobName] = this.jobCreator.createJob(index, startIndex, endIndex)
     }
 
     generateWorkflow(){
         return yaml.dump(this.workFlow)
+    }
+
+    wrapUp(wrapUp: Yml){
+        wrapUp['needs'] = this.jobs
+        this.workFlow['jobs']['wrap-up'] = wrapUp
     }
 
     print(){
@@ -96,11 +110,12 @@ const workFlowPath = process.cwd() + '\/scripts\/templates\/'
 
 const jobPath = workFlowPath + 'job.yml'
 const starterPath = workFlowPath + 'starter.yml'
+const wrapUpPath = workFlowPath + 'wrap-up.yml'
 
 const job = yaml.load(fs.readFileSync(jobPath, 'utf8')) as Yml
 const starter = yaml.load(fs.readFileSync(starterPath, 'utf8')) as Yml
+const wrapUp = yaml.load(fs.readFileSync(wrapUpPath, 'utf8')) as Yml
 
-starter['jobs'] = {}
 
 function writeYmlToActions(yamlFile: string){
     const filePath = path.resolve(process.cwd(), 'tmp/tasks.yml')
@@ -110,7 +125,7 @@ function writeYmlToActions(yamlFile: string){
 async function splitJobs(){
     const feeds = await getRssFeedsFromOPML(opmlFilePath)
     const noTasks =  feeds.length
-    const worker = new WorkFlow('ubuntu', noTasks, starter, job)
+    const worker = new WorkFlow('ubuntu', noTasks, starter, job, wrapUp)
     const yamlFile = worker.generateWorkflow()
     // worker.print()
     writeYmlToActions(yamlFile)

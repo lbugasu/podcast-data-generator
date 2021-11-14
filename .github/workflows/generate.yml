@@ -96,7 +96,7 @@ jobs:
           cp -r tmp/dist dist/
           cp -r out dist/
           cp LICENSE.txt dist/LICENSE.txt
-          cp docs/dataReadMe.md dist/ReadMe.txt
+          cp docs/dataReadMe.md dist/ReadMe.md
           cp tmp/tasks.yml dist/.github/workflows/tasks.yml
       - name: Verify Changed files 🐒
         uses: tj-actions/verify-changed-files@v8.3
