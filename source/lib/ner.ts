@@ -47,3 +47,7 @@ function generateNamedEntities(podcasts: any[]): Promise<boolean> {
     return Promise.resolve(true)
   })
 }
+
+const folderName = process.cwd() + 'podcasts_palettes'
+
+// Read all the files from the folder

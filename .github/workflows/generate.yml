@@ -81,9 +81,7 @@ jobs:
           mkdir tmp/dist
           mkdir tmp/dist/feeds
           mkdir tmp/dist/podcasts
-          mkdir tmp/dist/podcasts_ne
           mkdir tmp/dist/podcasts_palettes
-          mkdir tmp/dist/podcasts_ne_n_palettes
           mkdir tmp/dist/.github
           mkdir tmp/dist/.github/workflows
       - name: 'Generate Files 🤖'
@@ -98,6 +96,7 @@ jobs:
           cp LICENSE.txt dist/LICENSE.txt
           cp docs/dataReadMe.md dist/ReadMe.md
           cp tmp/tasks.yml dist/.github/workflows/tasks.yml
+          cp scripts/templates/release.yml dist/.github/workflows/release.yml
       - name: Verify Changed files 🐒
         uses: tj-actions/verify-changed-files@v8.3
         id: verify-changed-files

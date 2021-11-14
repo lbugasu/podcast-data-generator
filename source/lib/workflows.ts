@@ -74,8 +74,8 @@ class WorkFlow {
     }
 
     wrapUp(wrapUp: Yml){
-        wrapUp['needs'] = this.jobs
-        this.workFlow['jobs']['wrap-up'] = wrapUp
+        wrapUp['needs'] = JSON.stringify(this.jobs)
+        this.workFlow['jobs']['wrap-up'] =(wrapUp)
     }
 
     print(){
@@ -101,6 +101,10 @@ class JobCreator{
 
       _job['steps'][2]['with']['path'] = `${_job['steps'][2]['with']['path']}${jobIndex}`
       _job['steps'][2]['with']['key'] = `${_job['steps'][2]['with']['key'] }${jobIndex}`
+      const commitSteps = _job['steps'][3]['run'].split('\n')
+      commitSteps[1] = `${commitSteps[1]}${jobIndex}`
+      commitSteps[2] = `${commitSteps[2]}${jobIndex}"`
+      _job['steps'][3]['run'] =  commitSteps.join('\n')
       return _job
     }
 
@@ -115,7 +119,6 @@ const wrapUpPath = workFlowPath + 'wrap-up.yml'
 const job = yaml.load(fs.readFileSync(jobPath, 'utf8')) as Yml
 const starter = yaml.load(fs.readFileSync(starterPath, 'utf8')) as Yml
 const wrapUp = yaml.load(fs.readFileSync(wrapUpPath, 'utf8')) as Yml
-
 
 function writeYmlToActions(yamlFile: string){
     const filePath = path.resolve(process.cwd(), 'tmp/tasks.yml')
