@@ -22,10 +22,13 @@ jobs:
   group-0:
     runs-on: ubuntu-latest
     needs: prepare
+    strategy:
+      matrix:
+        node-version:
+          - 14.x
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Checkout 🧞
+        uses: actions/checkout@v2
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
@@ -50,10 +53,13 @@ jobs:
   group-1:
     runs-on: ubuntu-latest
     needs: prepare
+    strategy:
+      matrix:
+        node-version:
+          - 14.x
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Checkout 🧞
+        uses: actions/checkout@v2
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
@@ -78,10 +84,13 @@ jobs:
   group-2:
     runs-on: ubuntu-latest
     needs: prepare
+    strategy:
+      matrix:
+        node-version:
+          - 14.x
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Checkout 🧞
+        uses: actions/checkout@v2
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
@@ -106,10 +115,13 @@ jobs:
   group-3:
     runs-on: ubuntu-latest
     needs: prepare
+    strategy:
+      matrix:
+        node-version:
+          - 14.x
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Checkout 🧞
+        uses: actions/checkout@v2
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
@@ -134,10 +146,13 @@ jobs:
   group-4:
     runs-on: ubuntu-latest
     needs: prepare
+    strategy:
+      matrix:
+        node-version:
+          - 14.x
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Checkout 🧞
+        uses: actions/checkout@v2
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
@@ -162,10 +177,13 @@ jobs:
   group-5:
     runs-on: ubuntu-latest
     needs: prepare
+    strategy:
+      matrix:
+        node-version:
+          - 14.x
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Checkout 🧞
+        uses: actions/checkout@v2
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
@@ -190,10 +208,13 @@ jobs:
   group-6:
     runs-on: ubuntu-latest
     needs: prepare
+    strategy:
+      matrix:
+        node-version:
+          - 14.x
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Checkout 🧞
+        uses: actions/checkout@v2
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
@@ -218,10 +239,13 @@ jobs:
   group-7:
     runs-on: ubuntu-latest
     needs: prepare
+    strategy:
+      matrix:
+        node-version:
+          - 14.x
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Checkout 🧞
+        uses: actions/checkout@v2
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
@@ -246,10 +270,13 @@ jobs:
   group-8:
     runs-on: ubuntu-latest
     needs: prepare
+    strategy:
+      matrix:
+        node-version:
+          - 14.x
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Checkout 🧞
+        uses: actions/checkout@v2
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
@@ -274,10 +301,13 @@ jobs:
   group-9:
     runs-on: ubuntu-latest
     needs: prepare
+    strategy:
+      matrix:
+        node-version:
+          - 14.x
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Checkout 🧞
+        uses: actions/checkout@v2
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
@@ -302,10 +332,13 @@ jobs:
   group-10:
     runs-on: ubuntu-latest
     needs: prepare
+    strategy:
+      matrix:
+        node-version:
+          - 14.x
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Checkout 🧞
+        uses: actions/checkout@v2
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
@@ -330,10 +363,13 @@ jobs:
   group-11:
     runs-on: ubuntu-latest
     needs: prepare
+    strategy:
+      matrix:
+        node-version:
+          - 14.x
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Checkout 🧞
+        uses: actions/checkout@v2
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
@@ -358,10 +394,13 @@ jobs:
   group-12:
     runs-on: ubuntu-latest
     needs: prepare
+    strategy:
+      matrix:
+        node-version:
+          - 14.x
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Checkout 🧞
+        uses: actions/checkout@v2
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
@@ -386,10 +425,13 @@ jobs:
   group-13:
     runs-on: ubuntu-latest
     needs: prepare
+    strategy:
+      matrix:
+        node-version:
+          - 14.x
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Checkout 🧞
+        uses: actions/checkout@v2
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
@@ -414,10 +456,13 @@ jobs:
   group-14:
     runs-on: ubuntu-latest
     needs: prepare
+    strategy:
+      matrix:
+        node-version:
+          - 14.x
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Checkout 🧞
+        uses: actions/checkout@v2
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
@@ -442,10 +487,13 @@ jobs:
   group-15:
     runs-on: ubuntu-latest
     needs: prepare
+    strategy:
+      matrix:
+        node-version:
+          - 14.x
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Checkout 🧞
+        uses: actions/checkout@v2
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
@@ -470,10 +518,13 @@ jobs:
   group-16:
     runs-on: ubuntu-latest
     needs: prepare
+    strategy:
+      matrix:
+        node-version:
+          - 14.x
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Checkout 🧞
+        uses: actions/checkout@v2
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
@@ -498,10 +549,13 @@ jobs:
   group-17:
     runs-on: ubuntu-latest
     needs: prepare
+    strategy:
+      matrix:
+        node-version:
+          - 14.x
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Checkout 🧞
+        uses: actions/checkout@v2
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
@@ -526,10 +580,13 @@ jobs:
   group-18:
     runs-on: ubuntu-latest
     needs: prepare
+    strategy:
+      matrix:
+        node-version:
+          - 14.x
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Checkout 🧞
+        uses: actions/checkout@v2
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
@@ -554,10 +611,13 @@ jobs:
   group-19:
     runs-on: ubuntu-latest
     needs: prepare
+    strategy:
+      matrix:
+        node-version:
+          - 14.x
     steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 14.x
+      - name: Checkout 🧞
+        uses: actions/checkout@v2
       - name: Install Dependencies
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: |
