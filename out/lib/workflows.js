@@ -87,8 +87,8 @@ class JobCreator {
         _job['steps'][5]['with']['path'] = `${_job['steps'][5]['with']['path']}${jobIndex}`;
         _job['steps'][5]['with']['key'] = `${_job['steps'][5]['with']['key']}${jobIndex}`;
         const commitSteps = _job['steps'][6]['run'].split('\n');
-        commitSteps[1] = `${commitSteps[1]}${jobIndex}`;
-        commitSteps[2] = `${commitSteps[2]}${jobIndex}"`;
+        commitSteps[2] = `${commitSteps[2]}${jobIndex}`;
+        commitSteps[3] = `${commitSteps[3]}${jobIndex}"`;
         _job['steps'][6]['run'] = commitSteps.join('\n');
         return _job;
     }
