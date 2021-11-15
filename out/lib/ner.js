@@ -16,28 +16,31 @@ const startIndex = +commandLineArgs[2];
 const endIndex = +commandLineArgs[3];
 const index = +commandLineArgs[4];
 async function ner(podcast) {
-    var _a;
+    console.log(podcast['title']);
+    console.log(podcast['description']);
     const entities = await (0, helpers_1.findNamedEntities)(podcast['description']);
-    let episodesWithEntities = [];
-    if (podcast.items) {
-        episodesWithEntities = await Promise.all((_a = podcast === null || podcast === void 0 ? void 0 : podcast.items) === null || _a === void 0 ? void 0 : _a.map(async (episode) => {
-            var _a;
-            const description = ((_a = episode['content']) !== null && _a !== void 0 ? _a : '');
-            return Object.assign(Object.assign({}, episode), { entities: await (0, helpers_1.findNamedEntities)(description) });
-        }));
-    }
+    // let episodesWithEntities: any = []
+    // if (podcast.items) {
+    //   episodesWithEntities = await Promise.all(
+    //   podcast?.items?.map(async (episode: any) => {
+    //       const description = (episode['content'] ?? '')
+    //       return { ...episode, entities: await findNamedEntities(description) }
+    //     })
+    //   )
+    // }
+    console.log(entities);
     podcast.entities = entities;
-    delete podcast.items;
-    podcast.episodes = episodesWithEntities !== null && episodesWithEntities !== void 0 ? episodesWithEntities : podcast.items;
+    // delete podcast.items
+    // podcast.episodes = episodesWithEntities ?? podcast.items
     return podcast;
 }
 function generateNamedEntities(podcasts) {
     const pdcsts = Promise.all(podcasts.slice(startIndex, endIndex).map(async (podcast, i) => {
-        const parsedRssFeed = await ner(podcast)
-            .catch((error) => console.log('Error: '));
-        if (parsedRssFeed) {
-            (0, helpers_1.writeToFile)(parsedRssFeed, (0, slug_1.default)(parsedRssFeed.title), `temp/podcasts_palettes_ner_${index}`, (i / podcasts.length));
-        }
+        const parsedRssFeed = await ner(JSON.parse(podcast))
+            .catch((error) => console.log('Error: ', error.message));
+        // if (parsedRssFeed) {
+        writeToFile(parsedRssFeed, (0, slug_1.default)(parsedRssFeed.title), `temp/podcasts_palettes_ner_${index}`, (i / podcasts.length));
+        // }
         console.log(`Parsing Json Feeds: ${(((i + 1) / podcasts.length) * 100).toFixed(2)}%`);
         return parsedRssFeed;
     }));
@@ -45,16 +48,34 @@ function generateNamedEntities(podcasts) {
         return Promise.resolve(true);
     });
 }
-const folderName = path_1.default.resolve(process.cwd(), 'podcasts_palettes');
 // Read all the files from the folder
+function getFile(filePath) {
+    return fs_1.default.readFileSync(filePath, 'utf8');
+}
+function writeToFile(podcast, fileName, folderName, total) {
+    const folder = process.cwd() + `\/${folderName}`;
+    try {
+        fs_1.default.writeFileSync(`${folder}/${fileName}.json`, JSON.stringify(podcast, null, 4), 'utf8');
+        if (total)
+            console.log(`done ${(total * 100).toFixed(2)}% - ${fileName}.json`);
+    }
+    catch (error) {
+        (0, helpers_1.logError)(podcast, error);
+    }
+}
+const rootFolderPath = process.cwd();
+const folderName = path_1.default.join(rootFolderPath, 'podcasts_palettes');
 fs_1.default.readdir(folderName, function (err, files) {
     //handling error
     if (err) {
         return console.log('Unable to scan directory: ' + err);
     }
+    const podcasts = [];
     //listing all files using forEach
-    files.forEach(function (file) {
+    files.forEach(function (fileName) {
         // Do whatever you want to do with the file
-        console.log(file);
+        const filePath = (rootFolderPath + '/podcasts_palettes/' + fileName);
+        podcasts.push(getFile(filePath));
     });
+    generateNamedEntities(podcasts);
 });
