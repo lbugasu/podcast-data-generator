@@ -41,9 +41,9 @@ function generateNamedEntities(podcasts: any[]): Promise<boolean> {
     const parsedRssFeed: any = await ner(JSON.parse(podcast))
       .catch((error: any) => console.log('Error: ', error.message))
 
-    // if (parsedRssFeed) {
+    if (parsedRssFeed) {
       writeToFile(parsedRssFeed, slug(parsedRssFeed.title), `temp/podcasts_palettes_ner_${index}`, (i/podcasts.length))
-    // }
+    }
     console.log(`Parsing Json Feeds: ${ (((i+1)/podcasts.length)*100).toFixed(2)}%`)
     return parsedRssFeed
   }))
@@ -62,8 +62,8 @@ function writeToFile(podcast: any, fileName?: string, folderName?: string,  tota
   try {
     fs.writeFileSync(`${folder}/${fileName}.json`, JSON.stringify(podcast, null, 4), 'utf8')
     if(total) console.log(`done ${(total * 100).toFixed(2)}% - ${fileName}.json`)
-  } catch (error) {
-    logError(podcast, error)
+  } catch (error: any) {
+    console.log('Error: ',error.message)
   }
 
 }

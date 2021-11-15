@@ -38,9 +38,9 @@ function generateNamedEntities(podcasts) {
     const pdcsts = Promise.all(podcasts.slice(startIndex, endIndex).map(async (podcast, i) => {
         const parsedRssFeed = await ner(JSON.parse(podcast))
             .catch((error) => console.log('Error: ', error.message));
-        // if (parsedRssFeed) {
-        writeToFile(parsedRssFeed, (0, slug_1.default)(parsedRssFeed.title), `temp/podcasts_palettes_ner_${index}`, (i / podcasts.length));
-        // }
+        if (parsedRssFeed) {
+            writeToFile(parsedRssFeed, (0, slug_1.default)(parsedRssFeed.title), `temp/podcasts_palettes_ner_${index}`, (i / podcasts.length));
+        }
         console.log(`Parsing Json Feeds: ${(((i + 1) / podcasts.length) * 100).toFixed(2)}%`);
         return parsedRssFeed;
     }));
@@ -60,7 +60,7 @@ function writeToFile(podcast, fileName, folderName, total) {
             console.log(`done ${(total * 100).toFixed(2)}% - ${fileName}.json`);
     }
     catch (error) {
-        (0, helpers_1.logError)(podcast, error);
+        console.log('Error: ', error.message);
     }
 }
 const rootFolderPath = process.cwd();
