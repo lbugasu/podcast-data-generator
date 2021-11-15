@@ -15,8 +15,6 @@ const index = +commandLineArgs[4]
 
 
 async function ner(podcast: any): Promise<any>{
-  console.log(podcast['title'])
-  console.log(podcast['description'])
   const entities = await findNamedEntities(podcast['description'])
   // let episodesWithEntities: any = []
   // if (podcast.items) {
@@ -27,7 +25,6 @@ async function ner(podcast: any): Promise<any>{
   //     })
   //   )
   // }
-  console.log(entities)
   podcast.entities = entities
   // delete podcast.items
   // podcast.episodes = episodesWithEntities ?? podcast.items
@@ -58,9 +55,8 @@ function getFile(filePath: string) {
 }
 
 function writeToFile(podcast: any, fileName?: string, folderName?: string,  total?: number) {
-  const folder = process.cwd() + `\/${folderName}`
   try {
-    fs.writeFileSync(`${folder}/${fileName}.json`, JSON.stringify(podcast, null, 4), 'utf8')
+    fs.writeFileSync(`${folderName}\/${fileName}.json`, JSON.stringify(podcast, null, 4), 'utf8')
     if(total) console.log(`done ${(total * 100).toFixed(2)}% - ${fileName}.json`)
   } catch (error: any) {
     console.log('Error: ',error.message)

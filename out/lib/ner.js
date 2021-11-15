@@ -16,8 +16,6 @@ const startIndex = +commandLineArgs[2];
 const endIndex = +commandLineArgs[3];
 const index = +commandLineArgs[4];
 async function ner(podcast) {
-    console.log(podcast['title']);
-    console.log(podcast['description']);
     const entities = await (0, helpers_1.findNamedEntities)(podcast['description']);
     // let episodesWithEntities: any = []
     // if (podcast.items) {
@@ -28,7 +26,6 @@ async function ner(podcast) {
     //     })
     //   )
     // }
-    console.log(entities);
     podcast.entities = entities;
     // delete podcast.items
     // podcast.episodes = episodesWithEntities ?? podcast.items
@@ -53,9 +50,8 @@ function getFile(filePath) {
     return fs_1.default.readFileSync(filePath, 'utf8');
 }
 function writeToFile(podcast, fileName, folderName, total) {
-    const folder = process.cwd() + `\/${folderName}`;
     try {
-        fs_1.default.writeFileSync(`${folder}/${fileName}.json`, JSON.stringify(podcast, null, 4), 'utf8');
+        fs_1.default.writeFileSync(`${folderName}\/${fileName}.json`, JSON.stringify(podcast, null, 4), 'utf8');
         if (total)
             console.log(`done ${(total * 100).toFixed(2)}% - ${fileName}.json`);
     }
