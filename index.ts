@@ -32,7 +32,7 @@ const _pods = []
 function saveFeedsToFolder(podData: any[]) {
   podData.filter((pod) => !!pod).forEach((pod: PodcastFeedData, i) => {
     _pods.push(pod.feed)
-    writeToFile(pod.feed, slug(pod.rssUrl), 'feeds', ((i+1)/podData.length))
+    writeToFile(pod.feed, slug(pod.rssUrl), 'podcasts', ((i+1)/podData.length))
   })
   return Promise.resolve(true)
 }

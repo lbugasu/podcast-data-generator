@@ -29,7 +29,7 @@ const _pods = [];
 function saveFeedsToFolder(podData) {
     podData.filter((pod) => !!pod).forEach((pod, i) => {
         _pods.push(pod.feed);
-        (0, helpers_1.writeToFile)(pod.feed, (0, slug_1.default)(pod.rssUrl), 'feeds', ((i + 1) / podData.length));
+        (0, helpers_1.writeToFile)(pod.feed, (0, slug_1.default)(pod.rssUrl), 'podcasts', ((i + 1) / podData.length));
     });
     return Promise.resolve(true);
 }
