@@ -59,8 +59,8 @@ jobs:
         run: |
           # Stage the file, commit and push
           git pull
-          git add temp/podcasts_palettes_ner-0"
-          git commit -m "updated podcast group-
+          git add temp/podcasts_palettes_ner-0
+          git commit -m "updated podcast group-0"
           git push origin dist
   group-1:
     runs-on: ubuntu-latest
