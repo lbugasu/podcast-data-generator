@@ -20,9 +20,9 @@ steps:
       mkdir dist/.github/workflows
       cp LICENSE.txt dist/LICENSE.txt
       cp ReadMe.md dist/ReadMe.md
-      node dist/lib/wrap-up.js
+      node out/lib/wrap-up.js
       cp -r podcasts dist/podcasts
-      cp dist/.github/workflows/release.yml dist/.github/workflows/release.yml
+      cp .github/workflows/release.yml dist/.github/workflows/release.yml
       rm -rf temp
   - name: Verify Changed files 🐒
     uses: tj-actions/verify-changed-files@v8.3
