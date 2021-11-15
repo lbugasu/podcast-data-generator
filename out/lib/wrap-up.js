@@ -16,7 +16,7 @@ async function getDirectories(sourceDir) {
  * Combine and place the files in the podcasts folder
  */
 async function wrapUp() {
-    const sourceDir = path_1.default.resolve(process.cwd(), 'tmp');
+    const sourceDir = path_1.default.resolve(process.cwd(), 'temp');
     const folderNames = await getDirectories(sourceDir);
     const target = path_1.default.resolve(process.cwd(), 'podcasts');
     /* For all the files in each directory,
@@ -25,7 +25,7 @@ async function wrapUp() {
         const source = path_1.default.resolve(sourceDir, folderName);
         await (0, ncp_1.ncp)(source, target, (err) => {
             if (err) {
-                console.error(err.message);
+                console.error('Error copying things in folder:: ', err.message);
             }
         });
     }));
