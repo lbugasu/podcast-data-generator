@@ -5,7 +5,7 @@ name: tasks
       - dist
 jobs:
   prepare:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -20,8 +20,9 @@ jobs:
           git commit -m "Create temp folder"
           git push origin dist
   group-0:
-    runs-on: ubuntu-latest
-    needs: prepare
+    runs-on: macos-latest
+    needs:
+      - prepare
     strategy:
       matrix:
         node-version:
@@ -48,7 +49,7 @@ jobs:
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-0
-          node --max-old-space-size=6144 out/lib/ner.js 0 15 0
+          node --max-old-space-size=10240 out/lib/ner.js 0 60 0
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-0
         uses: actions/cache@v2
@@ -63,8 +64,10 @@ jobs:
           git commit -m "updated podcast group-0"
           git push origin dist
   group-1:
-    runs-on: ubuntu-latest
-    needs: prepare
+    runs-on: macos-latest
+    needs:
+      - prepare
+      - group-0
     strategy:
       matrix:
         node-version:
@@ -91,7 +94,7 @@ jobs:
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-1
-          node --max-old-space-size=6144 out/lib/ner.js 15 30 1
+          node --max-old-space-size=10240 out/lib/ner.js 60 120 1
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-1
         uses: actions/cache@v2
@@ -106,8 +109,11 @@ jobs:
           git commit -m "updated podcast group-1"
           git push origin dist
   group-2:
-    runs-on: ubuntu-latest
-    needs: prepare
+    runs-on: macos-latest
+    needs:
+      - prepare
+      - group-0
+      - group-1
     strategy:
       matrix:
         node-version:
@@ -134,7 +140,7 @@ jobs:
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-2
-          node --max-old-space-size=6144 out/lib/ner.js 30 45 2
+          node --max-old-space-size=10240 out/lib/ner.js 120 180 2
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-2
         uses: actions/cache@v2
@@ -149,8 +155,12 @@ jobs:
           git commit -m "updated podcast group-2"
           git push origin dist
   group-3:
-    runs-on: ubuntu-latest
-    needs: prepare
+    runs-on: macos-latest
+    needs:
+      - prepare
+      - group-0
+      - group-1
+      - group-2
     strategy:
       matrix:
         node-version:
@@ -177,7 +187,7 @@ jobs:
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-3
-          node --max-old-space-size=6144 out/lib/ner.js 45 60 3
+          node --max-old-space-size=10240 out/lib/ner.js 180 240 3
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-3
         uses: actions/cache@v2
@@ -192,8 +202,13 @@ jobs:
           git commit -m "updated podcast group-3"
           git push origin dist
   group-4:
-    runs-on: ubuntu-latest
-    needs: prepare
+    runs-on: macos-latest
+    needs:
+      - prepare
+      - group-0
+      - group-1
+      - group-2
+      - group-3
     strategy:
       matrix:
         node-version:
@@ -220,7 +235,7 @@ jobs:
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-4
-          node --max-old-space-size=6144 out/lib/ner.js 60 75 4
+          node --max-old-space-size=10240 out/lib/ner.js 240 304 4
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-4
         uses: actions/cache@v2
@@ -234,651 +249,6 @@ jobs:
           git add temp/podcasts_palettes_ner-4
           git commit -m "updated podcast group-4"
           git push origin dist
-  group-5:
-    runs-on: ubuntu-latest
-    needs: prepare
-    strategy:
-      matrix:
-        node-version:
-          - 14.x
-    steps:
-      - name: Checkout 🧞
-        uses: actions/checkout@v2
-      - name: Download & Cache Stanford CoreNLP 🏋️
-        run: >
-          wget -P tmp
-          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-
-          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
-      - uses: oleksiyrudenko/gha-git-credentials@v2-latest
-        with:
-          token: ${{ secrets.POD_DATA_GEN }}
-      - name: Install Dependencies
-        if: steps.node-cache.outputs.cache-hit != 'true'
-        run: |
-          npm install
-          npx tsc
-          mkdir temp
-          touch temp/something.txt
-      - name: Process w/ Name Entity Recognition 🤖
-        run: |
-          mkdir temp/podcasts_palettes_ner-5
-          node --max-old-space-size=6144 out/lib/ner.js 75 90 5
-      - name: Cache Output of the Job
-        id: podcasts_palettes_ner-5
-        uses: actions/cache@v2
-        with:
-          path: temp/podcasts_palettes_ner-5
-          key: podcasts_palettes_ner-5
-      - name: commit & Push changes 💾
-        run: |
-          # Stage the file, commit and push
-          git pull
-          git add temp/podcasts_palettes_ner-5
-          git commit -m "updated podcast group-5"
-          git push origin dist
-  group-6:
-    runs-on: ubuntu-latest
-    needs: prepare
-    strategy:
-      matrix:
-        node-version:
-          - 14.x
-    steps:
-      - name: Checkout 🧞
-        uses: actions/checkout@v2
-      - name: Download & Cache Stanford CoreNLP 🏋️
-        run: >
-          wget -P tmp
-          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-
-          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
-      - uses: oleksiyrudenko/gha-git-credentials@v2-latest
-        with:
-          token: ${{ secrets.POD_DATA_GEN }}
-      - name: Install Dependencies
-        if: steps.node-cache.outputs.cache-hit != 'true'
-        run: |
-          npm install
-          npx tsc
-          mkdir temp
-          touch temp/something.txt
-      - name: Process w/ Name Entity Recognition 🤖
-        run: |
-          mkdir temp/podcasts_palettes_ner-6
-          node --max-old-space-size=6144 out/lib/ner.js 90 105 6
-      - name: Cache Output of the Job
-        id: podcasts_palettes_ner-6
-        uses: actions/cache@v2
-        with:
-          path: temp/podcasts_palettes_ner-6
-          key: podcasts_palettes_ner-6
-      - name: commit & Push changes 💾
-        run: |
-          # Stage the file, commit and push
-          git pull
-          git add temp/podcasts_palettes_ner-6
-          git commit -m "updated podcast group-6"
-          git push origin dist
-  group-7:
-    runs-on: ubuntu-latest
-    needs: prepare
-    strategy:
-      matrix:
-        node-version:
-          - 14.x
-    steps:
-      - name: Checkout 🧞
-        uses: actions/checkout@v2
-      - name: Download & Cache Stanford CoreNLP 🏋️
-        run: >
-          wget -P tmp
-          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-
-          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
-      - uses: oleksiyrudenko/gha-git-credentials@v2-latest
-        with:
-          token: ${{ secrets.POD_DATA_GEN }}
-      - name: Install Dependencies
-        if: steps.node-cache.outputs.cache-hit != 'true'
-        run: |
-          npm install
-          npx tsc
-          mkdir temp
-          touch temp/something.txt
-      - name: Process w/ Name Entity Recognition 🤖
-        run: |
-          mkdir temp/podcasts_palettes_ner-7
-          node --max-old-space-size=6144 out/lib/ner.js 105 120 7
-      - name: Cache Output of the Job
-        id: podcasts_palettes_ner-7
-        uses: actions/cache@v2
-        with:
-          path: temp/podcasts_palettes_ner-7
-          key: podcasts_palettes_ner-7
-      - name: commit & Push changes 💾
-        run: |
-          # Stage the file, commit and push
-          git pull
-          git add temp/podcasts_palettes_ner-7
-          git commit -m "updated podcast group-7"
-          git push origin dist
-  group-8:
-    runs-on: ubuntu-latest
-    needs: prepare
-    strategy:
-      matrix:
-        node-version:
-          - 14.x
-    steps:
-      - name: Checkout 🧞
-        uses: actions/checkout@v2
-      - name: Download & Cache Stanford CoreNLP 🏋️
-        run: >
-          wget -P tmp
-          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-
-          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
-      - uses: oleksiyrudenko/gha-git-credentials@v2-latest
-        with:
-          token: ${{ secrets.POD_DATA_GEN }}
-      - name: Install Dependencies
-        if: steps.node-cache.outputs.cache-hit != 'true'
-        run: |
-          npm install
-          npx tsc
-          mkdir temp
-          touch temp/something.txt
-      - name: Process w/ Name Entity Recognition 🤖
-        run: |
-          mkdir temp/podcasts_palettes_ner-8
-          node --max-old-space-size=6144 out/lib/ner.js 120 135 8
-      - name: Cache Output of the Job
-        id: podcasts_palettes_ner-8
-        uses: actions/cache@v2
-        with:
-          path: temp/podcasts_palettes_ner-8
-          key: podcasts_palettes_ner-8
-      - name: commit & Push changes 💾
-        run: |
-          # Stage the file, commit and push
-          git pull
-          git add temp/podcasts_palettes_ner-8
-          git commit -m "updated podcast group-8"
-          git push origin dist
-  group-9:
-    runs-on: ubuntu-latest
-    needs: prepare
-    strategy:
-      matrix:
-        node-version:
-          - 14.x
-    steps:
-      - name: Checkout 🧞
-        uses: actions/checkout@v2
-      - name: Download & Cache Stanford CoreNLP 🏋️
-        run: >
-          wget -P tmp
-          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-
-          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
-      - uses: oleksiyrudenko/gha-git-credentials@v2-latest
-        with:
-          token: ${{ secrets.POD_DATA_GEN }}
-      - name: Install Dependencies
-        if: steps.node-cache.outputs.cache-hit != 'true'
-        run: |
-          npm install
-          npx tsc
-          mkdir temp
-          touch temp/something.txt
-      - name: Process w/ Name Entity Recognition 🤖
-        run: |
-          mkdir temp/podcasts_palettes_ner-9
-          node --max-old-space-size=6144 out/lib/ner.js 135 150 9
-      - name: Cache Output of the Job
-        id: podcasts_palettes_ner-9
-        uses: actions/cache@v2
-        with:
-          path: temp/podcasts_palettes_ner-9
-          key: podcasts_palettes_ner-9
-      - name: commit & Push changes 💾
-        run: |
-          # Stage the file, commit and push
-          git pull
-          git add temp/podcasts_palettes_ner-9
-          git commit -m "updated podcast group-9"
-          git push origin dist
-  group-10:
-    runs-on: ubuntu-latest
-    needs: prepare
-    strategy:
-      matrix:
-        node-version:
-          - 14.x
-    steps:
-      - name: Checkout 🧞
-        uses: actions/checkout@v2
-      - name: Download & Cache Stanford CoreNLP 🏋️
-        run: >
-          wget -P tmp
-          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-
-          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
-      - uses: oleksiyrudenko/gha-git-credentials@v2-latest
-        with:
-          token: ${{ secrets.POD_DATA_GEN }}
-      - name: Install Dependencies
-        if: steps.node-cache.outputs.cache-hit != 'true'
-        run: |
-          npm install
-          npx tsc
-          mkdir temp
-          touch temp/something.txt
-      - name: Process w/ Name Entity Recognition 🤖
-        run: |
-          mkdir temp/podcasts_palettes_ner-10
-          node --max-old-space-size=6144 out/lib/ner.js 150 165 10
-      - name: Cache Output of the Job
-        id: podcasts_palettes_ner-10
-        uses: actions/cache@v2
-        with:
-          path: temp/podcasts_palettes_ner-10
-          key: podcasts_palettes_ner-10
-      - name: commit & Push changes 💾
-        run: |
-          # Stage the file, commit and push
-          git pull
-          git add temp/podcasts_palettes_ner-10
-          git commit -m "updated podcast group-10"
-          git push origin dist
-  group-11:
-    runs-on: ubuntu-latest
-    needs: prepare
-    strategy:
-      matrix:
-        node-version:
-          - 14.x
-    steps:
-      - name: Checkout 🧞
-        uses: actions/checkout@v2
-      - name: Download & Cache Stanford CoreNLP 🏋️
-        run: >
-          wget -P tmp
-          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-
-          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
-      - uses: oleksiyrudenko/gha-git-credentials@v2-latest
-        with:
-          token: ${{ secrets.POD_DATA_GEN }}
-      - name: Install Dependencies
-        if: steps.node-cache.outputs.cache-hit != 'true'
-        run: |
-          npm install
-          npx tsc
-          mkdir temp
-          touch temp/something.txt
-      - name: Process w/ Name Entity Recognition 🤖
-        run: |
-          mkdir temp/podcasts_palettes_ner-11
-          node --max-old-space-size=6144 out/lib/ner.js 165 180 11
-      - name: Cache Output of the Job
-        id: podcasts_palettes_ner-11
-        uses: actions/cache@v2
-        with:
-          path: temp/podcasts_palettes_ner-11
-          key: podcasts_palettes_ner-11
-      - name: commit & Push changes 💾
-        run: |
-          # Stage the file, commit and push
-          git pull
-          git add temp/podcasts_palettes_ner-11
-          git commit -m "updated podcast group-11"
-          git push origin dist
-  group-12:
-    runs-on: ubuntu-latest
-    needs: prepare
-    strategy:
-      matrix:
-        node-version:
-          - 14.x
-    steps:
-      - name: Checkout 🧞
-        uses: actions/checkout@v2
-      - name: Download & Cache Stanford CoreNLP 🏋️
-        run: >
-          wget -P tmp
-          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-
-          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
-      - uses: oleksiyrudenko/gha-git-credentials@v2-latest
-        with:
-          token: ${{ secrets.POD_DATA_GEN }}
-      - name: Install Dependencies
-        if: steps.node-cache.outputs.cache-hit != 'true'
-        run: |
-          npm install
-          npx tsc
-          mkdir temp
-          touch temp/something.txt
-      - name: Process w/ Name Entity Recognition 🤖
-        run: |
-          mkdir temp/podcasts_palettes_ner-12
-          node --max-old-space-size=6144 out/lib/ner.js 180 195 12
-      - name: Cache Output of the Job
-        id: podcasts_palettes_ner-12
-        uses: actions/cache@v2
-        with:
-          path: temp/podcasts_palettes_ner-12
-          key: podcasts_palettes_ner-12
-      - name: commit & Push changes 💾
-        run: |
-          # Stage the file, commit and push
-          git pull
-          git add temp/podcasts_palettes_ner-12
-          git commit -m "updated podcast group-12"
-          git push origin dist
-  group-13:
-    runs-on: ubuntu-latest
-    needs: prepare
-    strategy:
-      matrix:
-        node-version:
-          - 14.x
-    steps:
-      - name: Checkout 🧞
-        uses: actions/checkout@v2
-      - name: Download & Cache Stanford CoreNLP 🏋️
-        run: >
-          wget -P tmp
-          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-
-          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
-      - uses: oleksiyrudenko/gha-git-credentials@v2-latest
-        with:
-          token: ${{ secrets.POD_DATA_GEN }}
-      - name: Install Dependencies
-        if: steps.node-cache.outputs.cache-hit != 'true'
-        run: |
-          npm install
-          npx tsc
-          mkdir temp
-          touch temp/something.txt
-      - name: Process w/ Name Entity Recognition 🤖
-        run: |
-          mkdir temp/podcasts_palettes_ner-13
-          node --max-old-space-size=6144 out/lib/ner.js 195 210 13
-      - name: Cache Output of the Job
-        id: podcasts_palettes_ner-13
-        uses: actions/cache@v2
-        with:
-          path: temp/podcasts_palettes_ner-13
-          key: podcasts_palettes_ner-13
-      - name: commit & Push changes 💾
-        run: |
-          # Stage the file, commit and push
-          git pull
-          git add temp/podcasts_palettes_ner-13
-          git commit -m "updated podcast group-13"
-          git push origin dist
-  group-14:
-    runs-on: ubuntu-latest
-    needs: prepare
-    strategy:
-      matrix:
-        node-version:
-          - 14.x
-    steps:
-      - name: Checkout 🧞
-        uses: actions/checkout@v2
-      - name: Download & Cache Stanford CoreNLP 🏋️
-        run: >
-          wget -P tmp
-          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-
-          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
-      - uses: oleksiyrudenko/gha-git-credentials@v2-latest
-        with:
-          token: ${{ secrets.POD_DATA_GEN }}
-      - name: Install Dependencies
-        if: steps.node-cache.outputs.cache-hit != 'true'
-        run: |
-          npm install
-          npx tsc
-          mkdir temp
-          touch temp/something.txt
-      - name: Process w/ Name Entity Recognition 🤖
-        run: |
-          mkdir temp/podcasts_palettes_ner-14
-          node --max-old-space-size=6144 out/lib/ner.js 210 225 14
-      - name: Cache Output of the Job
-        id: podcasts_palettes_ner-14
-        uses: actions/cache@v2
-        with:
-          path: temp/podcasts_palettes_ner-14
-          key: podcasts_palettes_ner-14
-      - name: commit & Push changes 💾
-        run: |
-          # Stage the file, commit and push
-          git pull
-          git add temp/podcasts_palettes_ner-14
-          git commit -m "updated podcast group-14"
-          git push origin dist
-  group-15:
-    runs-on: ubuntu-latest
-    needs: prepare
-    strategy:
-      matrix:
-        node-version:
-          - 14.x
-    steps:
-      - name: Checkout 🧞
-        uses: actions/checkout@v2
-      - name: Download & Cache Stanford CoreNLP 🏋️
-        run: >
-          wget -P tmp
-          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-
-          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
-      - uses: oleksiyrudenko/gha-git-credentials@v2-latest
-        with:
-          token: ${{ secrets.POD_DATA_GEN }}
-      - name: Install Dependencies
-        if: steps.node-cache.outputs.cache-hit != 'true'
-        run: |
-          npm install
-          npx tsc
-          mkdir temp
-          touch temp/something.txt
-      - name: Process w/ Name Entity Recognition 🤖
-        run: |
-          mkdir temp/podcasts_palettes_ner-15
-          node --max-old-space-size=6144 out/lib/ner.js 225 240 15
-      - name: Cache Output of the Job
-        id: podcasts_palettes_ner-15
-        uses: actions/cache@v2
-        with:
-          path: temp/podcasts_palettes_ner-15
-          key: podcasts_palettes_ner-15
-      - name: commit & Push changes 💾
-        run: |
-          # Stage the file, commit and push
-          git pull
-          git add temp/podcasts_palettes_ner-15
-          git commit -m "updated podcast group-15"
-          git push origin dist
-  group-16:
-    runs-on: ubuntu-latest
-    needs: prepare
-    strategy:
-      matrix:
-        node-version:
-          - 14.x
-    steps:
-      - name: Checkout 🧞
-        uses: actions/checkout@v2
-      - name: Download & Cache Stanford CoreNLP 🏋️
-        run: >
-          wget -P tmp
-          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-
-          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
-      - uses: oleksiyrudenko/gha-git-credentials@v2-latest
-        with:
-          token: ${{ secrets.POD_DATA_GEN }}
-      - name: Install Dependencies
-        if: steps.node-cache.outputs.cache-hit != 'true'
-        run: |
-          npm install
-          npx tsc
-          mkdir temp
-          touch temp/something.txt
-      - name: Process w/ Name Entity Recognition 🤖
-        run: |
-          mkdir temp/podcasts_palettes_ner-16
-          node --max-old-space-size=6144 out/lib/ner.js 240 255 16
-      - name: Cache Output of the Job
-        id: podcasts_palettes_ner-16
-        uses: actions/cache@v2
-        with:
-          path: temp/podcasts_palettes_ner-16
-          key: podcasts_palettes_ner-16
-      - name: commit & Push changes 💾
-        run: |
-          # Stage the file, commit and push
-          git pull
-          git add temp/podcasts_palettes_ner-16
-          git commit -m "updated podcast group-16"
-          git push origin dist
-  group-17:
-    runs-on: ubuntu-latest
-    needs: prepare
-    strategy:
-      matrix:
-        node-version:
-          - 14.x
-    steps:
-      - name: Checkout 🧞
-        uses: actions/checkout@v2
-      - name: Download & Cache Stanford CoreNLP 🏋️
-        run: >
-          wget -P tmp
-          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-
-          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
-      - uses: oleksiyrudenko/gha-git-credentials@v2-latest
-        with:
-          token: ${{ secrets.POD_DATA_GEN }}
-      - name: Install Dependencies
-        if: steps.node-cache.outputs.cache-hit != 'true'
-        run: |
-          npm install
-          npx tsc
-          mkdir temp
-          touch temp/something.txt
-      - name: Process w/ Name Entity Recognition 🤖
-        run: |
-          mkdir temp/podcasts_palettes_ner-17
-          node --max-old-space-size=6144 out/lib/ner.js 255 270 17
-      - name: Cache Output of the Job
-        id: podcasts_palettes_ner-17
-        uses: actions/cache@v2
-        with:
-          path: temp/podcasts_palettes_ner-17
-          key: podcasts_palettes_ner-17
-      - name: commit & Push changes 💾
-        run: |
-          # Stage the file, commit and push
-          git pull
-          git add temp/podcasts_palettes_ner-17
-          git commit -m "updated podcast group-17"
-          git push origin dist
-  group-18:
-    runs-on: ubuntu-latest
-    needs: prepare
-    strategy:
-      matrix:
-        node-version:
-          - 14.x
-    steps:
-      - name: Checkout 🧞
-        uses: actions/checkout@v2
-      - name: Download & Cache Stanford CoreNLP 🏋️
-        run: >
-          wget -P tmp
-          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-
-          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
-      - uses: oleksiyrudenko/gha-git-credentials@v2-latest
-        with:
-          token: ${{ secrets.POD_DATA_GEN }}
-      - name: Install Dependencies
-        if: steps.node-cache.outputs.cache-hit != 'true'
-        run: |
-          npm install
-          npx tsc
-          mkdir temp
-          touch temp/something.txt
-      - name: Process w/ Name Entity Recognition 🤖
-        run: |
-          mkdir temp/podcasts_palettes_ner-18
-          node --max-old-space-size=6144 out/lib/ner.js 270 285 18
-      - name: Cache Output of the Job
-        id: podcasts_palettes_ner-18
-        uses: actions/cache@v2
-        with:
-          path: temp/podcasts_palettes_ner-18
-          key: podcasts_palettes_ner-18
-      - name: commit & Push changes 💾
-        run: |
-          # Stage the file, commit and push
-          git pull
-          git add temp/podcasts_palettes_ner-18
-          git commit -m "updated podcast group-18"
-          git push origin dist
-  group-19:
-    runs-on: ubuntu-latest
-    needs: prepare
-    strategy:
-      matrix:
-        node-version:
-          - 14.x
-    steps:
-      - name: Checkout 🧞
-        uses: actions/checkout@v2
-      - name: Download & Cache Stanford CoreNLP 🏋️
-        run: >
-          wget -P tmp
-          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-
-          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
-      - uses: oleksiyrudenko/gha-git-credentials@v2-latest
-        with:
-          token: ${{ secrets.POD_DATA_GEN }}
-      - name: Install Dependencies
-        if: steps.node-cache.outputs.cache-hit != 'true'
-        run: |
-          npm install
-          npx tsc
-          mkdir temp
-          touch temp/something.txt
-      - name: Process w/ Name Entity Recognition 🤖
-        run: |
-          mkdir temp/podcasts_palettes_ner-19
-          node --max-old-space-size=6144 out/lib/ner.js 285 304 19
-      - name: Cache Output of the Job
-        id: podcasts_palettes_ner-19
-        uses: actions/cache@v2
-        with:
-          path: temp/podcasts_palettes_ner-19
-          key: podcasts_palettes_ner-19
-      - name: commit & Push changes 💾
-        run: |
-          # Stage the file, commit and push
-          git pull
-          git add temp/podcasts_palettes_ner-19
-          git commit -m "updated podcast group-19"
-          git push origin dist
   wrap-up:
     needs:
       - group-0
@@ -886,22 +256,7 @@ jobs:
       - group-2
       - group-3
       - group-4
-      - group-5
-      - group-6
-      - group-7
-      - group-8
-      - group-9
-      - group-10
-      - group-11
-      - group-12
-      - group-13
-      - group-14
-      - group-15
-      - group-16
-      - group-17
-      - group-18
-      - group-19
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v2.3.1
