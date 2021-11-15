@@ -1,4 +1,4 @@
-runs-on: ubuntu-latest
+runs-on: macos-latest
 needs: prepare
 strategy:
   matrix:
@@ -23,7 +23,7 @@ steps:
   - name: 'Process w/ Name Entity Recognition 🤖'
     run: |
       mkdir temp/podcasts_palettes_ner-
-      node --max-old-space-size=6144 out/lib/ner.js
+      node --max-old-space-size=10240 out/lib/ner.js
   - name: Cache Output of the Job
     id: podcasts_palettes_ner-
     uses: actions/cache@v2
