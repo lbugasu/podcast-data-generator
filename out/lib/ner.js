@@ -39,7 +39,7 @@ function generateNamedEntities(podcasts) {
         const parsedRssFeed = await ner(JSON.parse(podcast))
             .catch((error) => console.log('Error: ', error.message));
         // if (parsedRssFeed) {
-        writeToFile(parsedRssFeed, (0, slug_1.default)(parsedRssFeed.title), `temp/podcasts_palettes_ner_${index}`, (i / podcasts.length));
+        writeToFile(parsedRssFeed, (0, slug_1.default)(parsedRssFeed.title), `temp/podcasts_palettes_ner-${index}`, (i / podcasts.length));
         // }
         console.log(`Parsing Json Feeds: ${(((i + 1) / podcasts.length) * 100).toFixed(2)}%`);
         return parsedRssFeed;
