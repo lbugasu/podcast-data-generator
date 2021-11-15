@@ -4,7 +4,7 @@ Read from a folder and generate Named entities
 */
 import fs from 'fs'
 import slug from "slug"
-import { findNamedEntities, writeToFile } from "./helpers"
+import { findNamedEntities, logError } from "./helpers"
 
 
 // Command line arguments
@@ -15,19 +15,22 @@ const index = +commandLineArgs[4]
 
 
 async function ner(podcast: any): Promise<any>{
+  console.log(podcast['title'])
+  console.log(podcast['description'])
   const entities = await findNamedEntities(podcast['description'])
-  let episodesWithEntities: any = []
-  if (podcast.items) {
-    episodesWithEntities = await Promise.all(
-    podcast?.items?.map(async (episode: any) => {
-        const description = (episode['content'] ?? '')
-        return { ...episode, entities: await findNamedEntities(description) }
-      })
-    )
-  }
+  // let episodesWithEntities: any = []
+  // if (podcast.items) {
+  //   episodesWithEntities = await Promise.all(
+  //   podcast?.items?.map(async (episode: any) => {
+  //       const description = (episode['content'] ?? '')
+  //       return { ...episode, entities: await findNamedEntities(description) }
+  //     })
+  //   )
+  // }
+  console.log(entities)
   podcast.entities = entities
-  delete podcast.items
-  podcast.episodes = episodesWithEntities ?? podcast.items
+  // delete podcast.items
+  // podcast.episodes = episodesWithEntities ?? podcast.items
   return podcast
 }
 
@@ -35,12 +38,12 @@ async function ner(podcast: any): Promise<any>{
 function generateNamedEntities(podcasts: any[]): Promise<boolean> {
   const pdcsts = Promise.all(podcasts.slice(startIndex, endIndex).map(async (podcast, i) => {
 
-    const parsedRssFeed: any = await ner(podcast)
-      .catch((error: any) => console.log('Error: '))
+    const parsedRssFeed: any = await ner(JSON.parse(podcast))
+      .catch((error: any) => console.log('Error: ', error.message))
 
-    if (parsedRssFeed) {
+    // if (parsedRssFeed) {
       writeToFile(parsedRssFeed, slug(parsedRssFeed.title), `temp/podcasts_palettes_ner_${index}`, (i/podcasts.length))
-    }
+    // }
     console.log(`Parsing Json Feeds: ${ (((i+1)/podcasts.length)*100).toFixed(2)}%`)
     return parsedRssFeed
   }))
@@ -49,18 +52,37 @@ function generateNamedEntities(podcasts: any[]): Promise<boolean> {
   })
 }
 
-const folderName = path.resolve(process.cwd(), 'podcasts_palettes')
-
 // Read all the files from the folder
+function getFile(filePath: string) {
+    return fs.readFileSync(filePath, 'utf8')
+}
+
+function writeToFile(podcast: any, fileName?: string, folderName?: string,  total?: number) {
+  const folder = process.cwd() + `\/${folderName}`
+  try {
+    fs.writeFileSync(`${folder}/${fileName}.json`, JSON.stringify(podcast, null, 4), 'utf8')
+    if(total) console.log(`done ${(total * 100).toFixed(2)}% - ${fileName}.json`)
+  } catch (error) {
+    logError(podcast, error)
+  }
+
+}
+const rootFolderPath = process.cwd()
+const folderName = path.join(rootFolderPath, 'podcasts_palettes')
+
 
 fs.readdir(folderName, function (err, files) {
   //handling error
   if (err) {
       return console.log('Unable to scan directory: ' + err);
-  } 
+  }
+  const podcasts: any[]= []
   //listing all files using forEach
-  files.forEach(function (file) {
+  files.forEach(function (fileName) {
       // Do whatever you want to do with the file
-      console.log(file); 
+    const filePath = (rootFolderPath+ '/podcasts_palettes/'+ fileName)
+    podcasts.push(getFile(filePath))
   });
+
+  generateNamedEntities(podcasts)
 });
