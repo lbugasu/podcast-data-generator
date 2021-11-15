@@ -16,22 +16,22 @@ const startIndex = +commandLineArgs[2];
 const endIndex = +commandLineArgs[3];
 const index = +commandLineArgs[4];
 async function ner(podcast) {
+    var _a;
     console.log(podcast['title']);
     console.log(podcast['description']);
     const entities = await (0, helpers_1.findNamedEntities)(podcast['description']);
-    // let episodesWithEntities: any = []
-    // if (podcast.items) {
-    //   episodesWithEntities = await Promise.all(
-    //   podcast?.items?.map(async (episode: any) => {
-    //       const description = (episode['content'] ?? '')
-    //       return { ...episode, entities: await findNamedEntities(description) }
-    //     })
-    //   )
-    // }
+    let episodesWithEntities = [];
+    if (podcast.items) {
+        episodesWithEntities = await Promise.all((_a = podcast === null || podcast === void 0 ? void 0 : podcast.items) === null || _a === void 0 ? void 0 : _a.map(async (episode) => {
+            var _a;
+            const description = ((_a = episode['content']) !== null && _a !== void 0 ? _a : '');
+            return Object.assign(Object.assign({}, episode), { entities: await (0, helpers_1.findNamedEntities)(description) });
+        }));
+    }
     console.log(entities);
     podcast.entities = entities;
-    // delete podcast.items
-    // podcast.episodes = episodesWithEntities ?? podcast.items
+    delete podcast.items;
+    podcast.episodes = episodesWithEntities !== null && episodesWithEntities !== void 0 ? episodesWithEntities : podcast.items;
     return podcast;
 }
 function generateNamedEntities(podcasts) {
