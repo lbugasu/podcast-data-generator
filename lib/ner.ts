@@ -15,6 +15,8 @@ const index = +commandLineArgs[4]
 
 
 async function ner(podcast: any): Promise<any>{
+  console.log(podcast['title'])
+  console.log(podcast['description'])
   const entities = await findNamedEntities(podcast['description'])
   // let episodesWithEntities: any = []
   // if (podcast.items) {
@@ -25,6 +27,7 @@ async function ner(podcast: any): Promise<any>{
   //     })
   //   )
   // }
+  console.log(entities)
   podcast.entities = entities
   // delete podcast.items
   // podcast.episodes = episodesWithEntities ?? podcast.items
@@ -38,9 +41,9 @@ function generateNamedEntities(podcasts: any[]): Promise<boolean> {
     const parsedRssFeed: any = await ner(JSON.parse(podcast))
       .catch((error: any) => console.log('Error: ', error.message))
 
-    if (parsedRssFeed) {
+    // if (parsedRssFeed) {
       writeToFile(parsedRssFeed, slug(parsedRssFeed.title), `temp/podcasts_palettes_ner_${index}`, (i/podcasts.length))
-    }
+    // }
     console.log(`Parsing Json Feeds: ${ (((i+1)/podcasts.length)*100).toFixed(2)}%`)
     return parsedRssFeed
   }))
@@ -55,8 +58,10 @@ function getFile(filePath: string) {
 }
 
 function writeToFile(podcast: any, fileName?: string, folderName?: string,  total?: number) {
+  const folder = process.cwd() + `\/${folderName}`
+  console.log(`Writing to file: ${folder}\/${fileName}.json`)
   try {
-    fs.writeFileSync(`${folderName}\/${fileName}.json`, JSON.stringify(podcast, null, 4), 'utf8')
+    fs.writeFileSync(`${folder}/${fileName}.json`, JSON.stringify(podcast, null, 4), 'utf8')
     if(total) console.log(`done ${(total * 100).toFixed(2)}% - ${fileName}.json`)
   } catch (error: any) {
     console.log('Error: ',error.message)

@@ -16,6 +16,8 @@ const startIndex = +commandLineArgs[2];
 const endIndex = +commandLineArgs[3];
 const index = +commandLineArgs[4];
 async function ner(podcast) {
+    console.log(podcast['title']);
+    console.log(podcast['description']);
     const entities = await (0, helpers_1.findNamedEntities)(podcast['description']);
     // let episodesWithEntities: any = []
     // if (podcast.items) {
@@ -26,6 +28,7 @@ async function ner(podcast) {
     //     })
     //   )
     // }
+    console.log(entities);
     podcast.entities = entities;
     // delete podcast.items
     // podcast.episodes = episodesWithEntities ?? podcast.items
@@ -35,9 +38,9 @@ function generateNamedEntities(podcasts) {
     const pdcsts = Promise.all(podcasts.slice(startIndex, endIndex).map(async (podcast, i) => {
         const parsedRssFeed = await ner(JSON.parse(podcast))
             .catch((error) => console.log('Error: ', error.message));
-        if (parsedRssFeed) {
-            writeToFile(parsedRssFeed, (0, slug_1.default)(parsedRssFeed.title), `temp/podcasts_palettes_ner_${index}`, (i / podcasts.length));
-        }
+        // if (parsedRssFeed) {
+        writeToFile(parsedRssFeed, (0, slug_1.default)(parsedRssFeed.title), `temp/podcasts_palettes_ner_${index}`, (i / podcasts.length));
+        // }
         console.log(`Parsing Json Feeds: ${(((i + 1) / podcasts.length) * 100).toFixed(2)}%`);
         return parsedRssFeed;
     }));
@@ -50,8 +53,10 @@ function getFile(filePath) {
     return fs_1.default.readFileSync(filePath, 'utf8');
 }
 function writeToFile(podcast, fileName, folderName, total) {
+    const folder = process.cwd() + `\/${folderName}`;
+    console.log(`Writing to file: ${folder}\/${fileName}.json`);
     try {
-        fs_1.default.writeFileSync(`${folderName}\/${fileName}.json`, JSON.stringify(podcast, null, 4), 'utf8');
+        fs_1.default.writeFileSync(`${folder}/${fileName}.json`, JSON.stringify(podcast, null, 4), 'utf8');
         if (total)
             console.log(`done ${(total * 100).toFixed(2)}% - ${fileName}.json`);
     }
