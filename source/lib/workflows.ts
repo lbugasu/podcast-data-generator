@@ -81,7 +81,6 @@ class JobCreator {
   }
   createJob(jobIndex: number, startIndex: number, endIndex: number, previousJobs: string[]) {
     const _job = cloneDeep(this.#template)
-    console.log(_job['needs'])
     _job['needs'] = [_job['needs'], ...previousJobs]
     const runSteps = _job['steps'][4]['run'].split('\n')
     const createFolder = `${runSteps[0]}${jobIndex}`
