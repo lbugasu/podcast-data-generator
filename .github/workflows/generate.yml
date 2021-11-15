@@ -100,7 +100,7 @@ jobs:
           cp package-lock.json dist/package-lock.json
           cp LICENSE.txt dist/LICENSE.txt
           cp docs/dataReadMe.md dist/ReadMe.md
-          echo "node_modules\\ntmp" > dist/.gitignore
+          cp docs/.gitignore dist/.gitignore
           mkdir dist/.github
           mkdir dist/.github/workflows
           cp scripts/templates/release.yml dist/.github/workflows/release.yml
