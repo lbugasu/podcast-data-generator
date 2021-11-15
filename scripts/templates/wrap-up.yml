@@ -7,29 +7,34 @@ steps:
     uses: actions/setup-node@v2
     with:
       node-version: "14"
+  - uses: oleksiyrudenko/gha-git-credentials@v2-latest
+    with:
+      token: '${{ secrets.POD_DATA_GEN }}'
+  - name: Pull Changes 💾
+    run: git pull
   - name: prepare
     run: |
-      mkdir out
+      mkdir dist
       mkdir podcasts
-      mkdir out/.github
-      mkdir out/.github/workflows
-      cp LICENSE.txt out/LICENSE.txt
-      cp ReadMe.md out/ReadMe.md
-      node out/lib/wrap-up.js
-      cp -r podcasts out/podcasts
-      cp dist/.github/workflows/release.yml out/.github/workflows/release.yml
+      mkdir dist/.github
+      mkdir dist/.github/workflows
+      cp LICENSE.txt dist/LICENSE.txt
+      cp ReadMe.md dist/ReadMe.md
+      node dist/lib/wrap-up.js
+      cp -r podcasts dist/podcasts
+      cp dist/.github/workflows/release.yml dist/.github/workflows/release.yml
       rm -rf temp
   - name: Verify Changed files 🐒
     uses: tj-actions/verify-changed-files@v8.3
     id: verify-changed-files
     with:
       files: |
-        out
+        dist
   - name: 'Deploy 💾'
     if: steps.verify-changed-files.outputs.files_changed == 'true'
     uses: s0/git-publish-subdir-action@develop
     env:
       REPO: self
       BRANCH: release
-      FOLDER: out
+      FOLDER: dist
       GITHUB_TOKEN: ${{ secrets.POD_DATA_GEN }}
