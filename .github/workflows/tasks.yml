@@ -256,7 +256,7 @@ jobs:
       - group-2
       - group-3
       - group-4
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v2.3.1
