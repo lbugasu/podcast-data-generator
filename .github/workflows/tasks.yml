@@ -58,8 +58,9 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_palettes_ner-0
-          git commit -m "updated podcast group-0"
+          git pull0
+          git add temp/podcasts_palettes_ner-0"
+          git commit -m "updated podcast group-
           git push origin dist
   group-1:
     runs-on: ubuntu-latest
@@ -100,8 +101,9 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_palettes_ner-1
-          git commit -m "updated podcast group-1"
+          git pull1
+          git add temp/podcasts_palettes_ner-1"
+          git commit -m "updated podcast group-
           git push origin dist
   group-2:
     runs-on: ubuntu-latest
@@ -142,8 +144,9 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_palettes_ner-2
-          git commit -m "updated podcast group-2"
+          git pull2
+          git add temp/podcasts_palettes_ner-2"
+          git commit -m "updated podcast group-
           git push origin dist
   group-3:
     runs-on: ubuntu-latest
@@ -184,8 +187,9 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_palettes_ner-3
-          git commit -m "updated podcast group-3"
+          git pull3
+          git add temp/podcasts_palettes_ner-3"
+          git commit -m "updated podcast group-
           git push origin dist
   group-4:
     runs-on: ubuntu-latest
@@ -226,8 +230,9 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_palettes_ner-4
-          git commit -m "updated podcast group-4"
+          git pull4
+          git add temp/podcasts_palettes_ner-4"
+          git commit -m "updated podcast group-
           git push origin dist
   group-5:
     runs-on: ubuntu-latest
@@ -268,8 +273,9 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_palettes_ner-5
-          git commit -m "updated podcast group-5"
+          git pull5
+          git add temp/podcasts_palettes_ner-5"
+          git commit -m "updated podcast group-
           git push origin dist
   group-6:
     runs-on: ubuntu-latest
@@ -310,8 +316,9 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_palettes_ner-6
-          git commit -m "updated podcast group-6"
+          git pull6
+          git add temp/podcasts_palettes_ner-6"
+          git commit -m "updated podcast group-
           git push origin dist
   group-7:
     runs-on: ubuntu-latest
@@ -352,8 +359,9 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_palettes_ner-7
-          git commit -m "updated podcast group-7"
+          git pull7
+          git add temp/podcasts_palettes_ner-7"
+          git commit -m "updated podcast group-
           git push origin dist
   group-8:
     runs-on: ubuntu-latest
@@ -394,8 +402,9 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_palettes_ner-8
-          git commit -m "updated podcast group-8"
+          git pull8
+          git add temp/podcasts_palettes_ner-8"
+          git commit -m "updated podcast group-
           git push origin dist
   group-9:
     runs-on: ubuntu-latest
@@ -436,8 +445,9 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_palettes_ner-9
-          git commit -m "updated podcast group-9"
+          git pull9
+          git add temp/podcasts_palettes_ner-9"
+          git commit -m "updated podcast group-
           git push origin dist
   group-10:
     runs-on: ubuntu-latest
@@ -478,8 +488,9 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_palettes_ner-10
-          git commit -m "updated podcast group-10"
+          git pull10
+          git add temp/podcasts_palettes_ner-10"
+          git commit -m "updated podcast group-
           git push origin dist
   group-11:
     runs-on: ubuntu-latest
@@ -520,8 +531,9 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_palettes_ner-11
-          git commit -m "updated podcast group-11"
+          git pull11
+          git add temp/podcasts_palettes_ner-11"
+          git commit -m "updated podcast group-
           git push origin dist
   group-12:
     runs-on: ubuntu-latest
@@ -562,8 +574,9 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_palettes_ner-12
-          git commit -m "updated podcast group-12"
+          git pull12
+          git add temp/podcasts_palettes_ner-12"
+          git commit -m "updated podcast group-
           git push origin dist
   group-13:
     runs-on: ubuntu-latest
@@ -604,8 +617,9 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_palettes_ner-13
-          git commit -m "updated podcast group-13"
+          git pull13
+          git add temp/podcasts_palettes_ner-13"
+          git commit -m "updated podcast group-
           git push origin dist
   group-14:
     runs-on: ubuntu-latest
@@ -646,8 +660,9 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_palettes_ner-14
-          git commit -m "updated podcast group-14"
+          git pull14
+          git add temp/podcasts_palettes_ner-14"
+          git commit -m "updated podcast group-
           git push origin dist
   group-15:
     runs-on: ubuntu-latest
@@ -688,8 +703,9 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_palettes_ner-15
-          git commit -m "updated podcast group-15"
+          git pull15
+          git add temp/podcasts_palettes_ner-15"
+          git commit -m "updated podcast group-
           git push origin dist
   group-16:
     runs-on: ubuntu-latest
@@ -730,8 +746,9 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_palettes_ner-16
-          git commit -m "updated podcast group-16"
+          git pull16
+          git add temp/podcasts_palettes_ner-16"
+          git commit -m "updated podcast group-
           git push origin dist
   group-17:
     runs-on: ubuntu-latest
@@ -772,8 +789,9 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_palettes_ner-17
-          git commit -m "updated podcast group-17"
+          git pull17
+          git add temp/podcasts_palettes_ner-17"
+          git commit -m "updated podcast group-
           git push origin dist
   group-18:
     runs-on: ubuntu-latest
@@ -814,8 +832,9 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_palettes_ner-18
-          git commit -m "updated podcast group-18"
+          git pull18
+          git add temp/podcasts_palettes_ner-18"
+          git commit -m "updated podcast group-
           git push origin dist
   group-19:
     runs-on: ubuntu-latest
@@ -856,8 +875,9 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add temp/podcasts_palettes_ner-19
-          git commit -m "updated podcast group-19"
+          git pull19
+          git add temp/podcasts_palettes_ner-19"
+          git commit -m "updated podcast group-
           git push origin dist
   wrap-up:
     needs:
