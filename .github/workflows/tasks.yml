@@ -271,6 +271,8 @@ jobs:
         run: git pull
       - name: prepare
         run: |
+          npm install
+          npx tsc
           mkdir dist
           mkdir podcasts
           mkdir dist/.github
