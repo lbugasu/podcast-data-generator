@@ -35,8 +35,6 @@ jobs:
           "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
 
           unzip tmp/stanford-ner-4.2.0.zip -d tmp/
-          echo "\ntmp" >> .gitignore
-
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: ${{ secrets.POD_DATA_GEN }}
@@ -72,6 +70,12 @@ jobs:
     steps:
       - name: Checkout 🧞
         uses: actions/checkout@v2
+      - name: Download & Cache Stanford CoreNLP 🏋️
+        run: >
+          wget -P tmp
+          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: ${{ secrets.POD_DATA_GEN }}
@@ -94,7 +98,7 @@ jobs:
       - name: commit & Push changes 💾
         run: |
           # Stage the file, commit and push
-          git add .
+          git add temp/podcasts_palettes_ner-1
           git commit -m "updated podcast group-1"
           git push origin dist
   group-2:
@@ -107,6 +111,12 @@ jobs:
     steps:
       - name: Checkout 🧞
         uses: actions/checkout@v2
+      - name: Download & Cache Stanford CoreNLP 🏋️
+        run: >
+          wget -P tmp
+          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: ${{ secrets.POD_DATA_GEN }}
@@ -142,6 +152,12 @@ jobs:
     steps:
       - name: Checkout 🧞
         uses: actions/checkout@v2
+      - name: Download & Cache Stanford CoreNLP 🏋️
+        run: >
+          wget -P tmp
+          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: ${{ secrets.POD_DATA_GEN }}
@@ -177,6 +193,12 @@ jobs:
     steps:
       - name: Checkout 🧞
         uses: actions/checkout@v2
+      - name: Download & Cache Stanford CoreNLP 🏋️
+        run: >
+          wget -P tmp
+          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: ${{ secrets.POD_DATA_GEN }}
@@ -212,6 +234,12 @@ jobs:
     steps:
       - name: Checkout 🧞
         uses: actions/checkout@v2
+      - name: Download & Cache Stanford CoreNLP 🏋️
+        run: >
+          wget -P tmp
+          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: ${{ secrets.POD_DATA_GEN }}
@@ -247,6 +275,12 @@ jobs:
     steps:
       - name: Checkout 🧞
         uses: actions/checkout@v2
+      - name: Download & Cache Stanford CoreNLP 🏋️
+        run: >
+          wget -P tmp
+          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: ${{ secrets.POD_DATA_GEN }}
@@ -282,6 +316,12 @@ jobs:
     steps:
       - name: Checkout 🧞
         uses: actions/checkout@v2
+      - name: Download & Cache Stanford CoreNLP 🏋️
+        run: >
+          wget -P tmp
+          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: ${{ secrets.POD_DATA_GEN }}
@@ -317,6 +357,12 @@ jobs:
     steps:
       - name: Checkout 🧞
         uses: actions/checkout@v2
+      - name: Download & Cache Stanford CoreNLP 🏋️
+        run: >
+          wget -P tmp
+          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: ${{ secrets.POD_DATA_GEN }}
@@ -352,6 +398,12 @@ jobs:
     steps:
       - name: Checkout 🧞
         uses: actions/checkout@v2
+      - name: Download & Cache Stanford CoreNLP 🏋️
+        run: >
+          wget -P tmp
+          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: ${{ secrets.POD_DATA_GEN }}
@@ -387,6 +439,12 @@ jobs:
     steps:
       - name: Checkout 🧞
         uses: actions/checkout@v2
+      - name: Download & Cache Stanford CoreNLP 🏋️
+        run: >
+          wget -P tmp
+          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: ${{ secrets.POD_DATA_GEN }}
@@ -422,6 +480,12 @@ jobs:
     steps:
       - name: Checkout 🧞
         uses: actions/checkout@v2
+      - name: Download & Cache Stanford CoreNLP 🏋️
+        run: >
+          wget -P tmp
+          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: ${{ secrets.POD_DATA_GEN }}
@@ -457,6 +521,12 @@ jobs:
     steps:
       - name: Checkout 🧞
         uses: actions/checkout@v2
+      - name: Download & Cache Stanford CoreNLP 🏋️
+        run: >
+          wget -P tmp
+          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: ${{ secrets.POD_DATA_GEN }}
@@ -492,6 +562,12 @@ jobs:
     steps:
       - name: Checkout 🧞
         uses: actions/checkout@v2
+      - name: Download & Cache Stanford CoreNLP 🏋️
+        run: >
+          wget -P tmp
+          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: ${{ secrets.POD_DATA_GEN }}
@@ -527,6 +603,12 @@ jobs:
     steps:
       - name: Checkout 🧞
         uses: actions/checkout@v2
+      - name: Download & Cache Stanford CoreNLP 🏋️
+        run: >
+          wget -P tmp
+          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: ${{ secrets.POD_DATA_GEN }}
@@ -562,6 +644,12 @@ jobs:
     steps:
       - name: Checkout 🧞
         uses: actions/checkout@v2
+      - name: Download & Cache Stanford CoreNLP 🏋️
+        run: >
+          wget -P tmp
+          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: ${{ secrets.POD_DATA_GEN }}
@@ -597,6 +685,12 @@ jobs:
     steps:
       - name: Checkout 🧞
         uses: actions/checkout@v2
+      - name: Download & Cache Stanford CoreNLP 🏋️
+        run: >
+          wget -P tmp
+          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: ${{ secrets.POD_DATA_GEN }}
@@ -632,6 +726,12 @@ jobs:
     steps:
       - name: Checkout 🧞
         uses: actions/checkout@v2
+      - name: Download & Cache Stanford CoreNLP 🏋️
+        run: >
+          wget -P tmp
+          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: ${{ secrets.POD_DATA_GEN }}
@@ -667,6 +767,12 @@ jobs:
     steps:
       - name: Checkout 🧞
         uses: actions/checkout@v2
+      - name: Download & Cache Stanford CoreNLP 🏋️
+        run: >
+          wget -P tmp
+          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: ${{ secrets.POD_DATA_GEN }}
@@ -702,6 +808,12 @@ jobs:
     steps:
       - name: Checkout 🧞
         uses: actions/checkout@v2
+      - name: Download & Cache Stanford CoreNLP 🏋️
+        run: >
+          wget -P tmp
+          "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: ${{ secrets.POD_DATA_GEN }}
