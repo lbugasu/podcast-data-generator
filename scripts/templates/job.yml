@@ -33,6 +33,7 @@ steps:
   - name: commit & Push changes 💾
     run: |
       # Stage the file, commit and push
+      git pull
       git add temp/podcasts_palettes_ner-
       git commit -m "updated podcast group-
       git push origin dist
