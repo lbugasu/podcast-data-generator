@@ -19,6 +19,7 @@ steps:
       npm install
       npx tsc
       mkdir temp
+      touch temp/something.txt
   - name: 'Process w/ Name Entity Recognition 🤖'
     run: |
       mkdir temp/podcasts_palettes_ner-
