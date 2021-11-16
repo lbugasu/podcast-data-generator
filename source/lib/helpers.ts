@@ -4,11 +4,13 @@ import NerPromise, { Entity } from 'ner-promise'
 import { opmlToJSON } from 'opml-to-json'
 import Parser from 'rss-parser'
 import { Podcast } from './../models/index';
+import { EntityRecognizer } from 'core-nlp-ner';
 
 const parser = new Parser()
-const nerParser = new NerPromise({
-  install_path: 'tmp/stanford-ner-2020-11-17'
+const nerParser = new EntityRecognizer({
+  installPath: 'tmp/stanford-ner-2020-11-17'
 })
+
 
 async function getRssFeedsFromOPML(filePath: string): Promise<any[]> {
   const opmlContent = fs.readFileSync(filePath, 'utf8')
@@ -28,7 +30,7 @@ async function findNamedEntities(text?: string): Promise<any> {
   if (text) {
     let entities = {}
     try {
-      entities = await nerParser.process(text) as any
+      entities = await nerParser.processAsync(text) as any
     } catch (error) {
       return entities
     }
