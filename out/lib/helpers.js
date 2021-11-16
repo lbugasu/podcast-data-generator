@@ -6,12 +6,12 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.logError = exports.parseRssXMLString = exports.prepare = exports.writeToFile = exports.getDataFromXMLString = exports.findNamedEntities = exports.getRssFeedsFromOPML = exports.getFile = exports.getFilesInFolder = void 0;
 /* Imports */
 const fs_1 = __importDefault(require("fs"));
-const ner_promise_1 = __importDefault(require("ner-promise"));
 const opml_to_json_1 = require("opml-to-json");
 const rss_parser_1 = __importDefault(require("rss-parser"));
+const core_nlp_ner_1 = require("core-nlp-ner");
 const parser = new rss_parser_1.default();
-const nerParser = new ner_promise_1.default({
-    install_path: 'tmp/stanford-ner-2020-11-17'
+const nerParser = new core_nlp_ner_1.EntityRecognizer({
+    installPath: 'tmp/stanford-ner-2020-11-17'
 });
 async function getRssFeedsFromOPML(filePath) {
     const opmlContent = fs_1.default.readFileSync(filePath, 'utf8');
@@ -30,7 +30,7 @@ async function findNamedEntities(text) {
     if (text) {
         let entities = {};
         try {
-            entities = await nerParser.process(text);
+            entities = await nerParser.processAsync(text);
         }
         catch (error) {
             return entities;
