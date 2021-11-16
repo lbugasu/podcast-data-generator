@@ -18,19 +18,19 @@ async function ner(podcast: any): Promise<any>{
   console.log(podcast['title'])
   console.log(podcast['description'])
   const entities = await findNamedEntities(podcast['description'])
-  let episodesWithEntities: any = []
-  if (podcast.items) {
-    episodesWithEntities = await Promise.all(
-    podcast?.items?.map(async (episode: any) => {
-        const description = (episode['content'] ?? '')
-        return { ...episode, entities: await findNamedEntities(description) }
-      })
-    )
-  }
-  console.log(entities)
+//   let episodesWithEntities: any = []
+//   if (podcast.items) {
+//     episodesWithEntities = await Promise.all(
+//     podcast?.items?.map(async (episode: any) => {
+//         const description = (episode['content'] ?? '')
+//         return { ...episode, entities: await findNamedEntities(description) }
+//       })
+//     )
+//   }
+//   console.log(entities)
   podcast.entities = entities
-  delete podcast.items
-  podcast.episodes = episodesWithEntities ?? podcast.items
+//   delete podcast.items
+//   podcast.episodes = episodesWithEntities ?? podcast.items
   return podcast
 }
 
