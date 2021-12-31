@@ -11,7 +11,7 @@ Download the latest release and unzip. All the data is in JSON format.
 
 ## Terms Used
 
-- [OPML](http://opml.org/) - is, 'a popular XML format used to store and exchange outlines with attributes' (Opml.org).\
+- [OPML](http://opml.org/) - is, 'a popular XML format used to store and exchange outlines with attributes' (Opml.org).
 - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) - commonly termed as simply NLP - is the field that encompasses analyzing and extracting meaning from text-based data.
 - [Named Entity Recognition](https://en.wikipedia.org/wiki/Named-entity_recognition) - is a process of extracting 'topics'(named entities) such as Names, People, Organizations from text - it is a sub-field of NLP.
 
