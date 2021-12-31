@@ -41,7 +41,7 @@ jobs:
           npm install
           pip3 install -r requirements.txt
       - name: Build
-        run: npm build
+        run: npm run build
       - name: 'Download & Cache Stanford CoreNLP 🏋️'
         run: |
           wget -P tmp "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
