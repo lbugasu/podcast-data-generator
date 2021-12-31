@@ -5,7 +5,7 @@
     "image": {
         "link": "https://amendedpodcast.com/",
         "title": "Amended",
-        "url": "https://megaphone.imgix.net/podcasts/b26ca17e-d03b-11ea-a7c7-b3d447b63785/image/uploads_2F1596121067840-rlmi3mtfmgi-33f93ce074999a9f9f8e320a293b95e2_2FAMENDED.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        "url": "https://images.megaphone.fm/jf85X39CR6cQo78MTlHdkjXD8KXwdiw5AdYmG39oj1M/plain/s3://megaphone-prod/podcasts/b26ca17e-d03b-11ea-a7c7-b3d447b63785/image/uploads_2F1596121067840-rlmi3mtfmgi-33f93ce074999a9f9f8e320a293b95e2_2FAMENDED.png"
     },
     "items": [
         {
@@ -298,7 +298,7 @@
             }
         ],
         "explicit": "no",
-        "image": "https://megaphone.imgix.net/podcasts/b26ca17e-d03b-11ea-a7c7-b3d447b63785/image/uploads_2F1596121067840-rlmi3mtfmgi-33f93ce074999a9f9f8e320a293b95e2_2FAMENDED.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "image": "https://images.megaphone.fm/jf85X39CR6cQo78MTlHdkjXD8KXwdiw5AdYmG39oj1M/plain/s3://megaphone-prod/podcasts/b26ca17e-d03b-11ea-a7c7-b3d447b63785/image/uploads_2F1596121067840-rlmi3mtfmgi-33f93ce074999a9f9f8e320a293b95e2_2FAMENDED.png",
         "owner": {
             "email": "amended@humanitiesny.org",
             "name": "Humanities New York"
@@ -312,12 +312,12 @@
         "self": "https://feeds.megaphone.fm/amended"
     },
     "palette": [
-        "2F676D",
+        "30676D",
         "F1E4D6",
         "C7402D",
-        "C89062",
-        "90A29E",
-        "649C9C"
+        "C78F62",
+        "8EA09B",
+        "629C9C"
     ],
     "title": "Amended"
 }
