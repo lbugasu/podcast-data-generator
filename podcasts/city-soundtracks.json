@@ -5,7 +5,7 @@
     "image": {
         "link": "https://cms.megaphone.fm/channel/citysoundtracks",
         "title": "City Soundtracks",
-        "url": "https://images.megaphone.fm/xXD6Y0SbHjphQxpFCP0RMKLM6cquPJx85A4aJufSgDQ/plain/s3://megaphone-prod/podcasts/c3710f26-e8ba-11e6-bffe-f70b56b2f38c/image/uploads_2F1487633278097-ltcw6idprl9yipnx-94adfa75610c3173c57648eedbfc9c85_2FLogo_GPM_CitySoundtracks_170209_3000px.png"
+        "url": "https://megaphone.imgix.net/podcasts/c3710f26-e8ba-11e6-bffe-f70b56b2f38c/image/uploads_2F1487633278097-ltcw6idprl9yipnx-94adfa75610c3173c57648eedbfc9c85_2FLogo_GPM_CitySoundtracks_170209_3000px.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     },
     "items": [
         {
@@ -96,7 +96,7 @@
             }
         ],
         "explicit": "no",
-        "image": "https://images.megaphone.fm/xXD6Y0SbHjphQxpFCP0RMKLM6cquPJx85A4aJufSgDQ/plain/s3://megaphone-prod/podcasts/c3710f26-e8ba-11e6-bffe-f70b56b2f38c/image/uploads_2F1487633278097-ltcw6idprl9yipnx-94adfa75610c3173c57648eedbfc9c85_2FLogo_GPM_CitySoundtracks_170209_3000px.png",
+        "image": "https://megaphone.imgix.net/podcasts/c3710f26-e8ba-11e6-bffe-f70b56b2f38c/image/uploads_2F1487633278097-ltcw6idprl9yipnx-94adfa75610c3173c57648eedbfc9c85_2FLogo_GPM_CitySoundtracks_170209_3000px.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
         "owner": {
             "email": "kat@imprintprojects.com",
             "name": "Google Play Music"
@@ -111,11 +111,11 @@
     },
     "palette": [
         "FBBC2C",
-        "DBE7F2",
-        "FBE374",
+        "E2EAEF",
         "FBD34C",
-        "FCDC59",
-        "FC9404"
+        "FBE373",
+        "FB9305",
+        "FCE45C"
     ],
     "title": "City Soundtracks",
     "entities": {

@@ -1,6 +1,6 @@
 {
-    "copyright": "Copyright 2021 CodeNewbie",
-    "description": "Stories and interviews from people on their coding journey.",
+    "copyright": "Copyright 2022 CodeNewbie",
+    "description": "The CodeNewbie podcast was born from CodeNewbie, an organization which fosters a supportive, international community of people learning to code. Each season, host Saron Yitbarek delivers stories and interviews from people of diverse backgrounds and expertise about their coding journeys, as well as beginner friendly discussions about the tech you should know about.",
     "feedUrl": "http://feeds.codenewbie.org/cnpodcast.xml",
     "generator": "https://wordpress.org/?v=4.6",
     "image": {
@@ -7624,10 +7624,10 @@
             "name": "CodeNewbie"
         },
         "subtitle": "CodeNewbie hosted by CodeNewbie",
-        "summary": "Stories and interviews from people on their coding journey."
+        "summary": "The CodeNewbie podcast was born from CodeNewbie, an organization which fosters a supportive, international community of people learning to code. Each season, host Saron Yitbarek delivers stories and interviews from people of diverse backgrounds and expertise about their coding journeys, as well as beginner friendly discussions about the tech you should know about."
     },
     "language": "en-US",
-    "lastBuildDate": "Mon, 27 Dec 2021 04:00:24 -0500",
+    "lastBuildDate": "Thu, 20 Jan 2022 14:54:15 -0500",
     "link": "http://www.codenewbie.org/podcast",
     "managingEditor": "hello@codenewbie.org (CodeNewbie)",
     "paginationLinks": {
@@ -7642,5 +7642,9 @@
         "C4EC83"
     ],
     "title": "CodeNewbie",
-    "entities": {}
+    "entities": {
+        "PERSON": [
+            "Saron Yitbarek"
+        ]
+    }
 }

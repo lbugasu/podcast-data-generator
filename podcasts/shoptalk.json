@@ -2,13 +2,92 @@
     "copyright": "© 2021 ShopTalk",
     "description": "A live podcast about front end web design and UX.",
     "feedUrl": "https://shoptalkshow.com/feed/podcast",
-    "generator": "https://wordpress.org/?v=5.8.2",
+    "generator": "https://wordpress.org/?v=5.8.3",
     "image": {
         "link": "https://shoptalkshow.com/",
         "title": "ShopTalk",
         "url": "https://shoptalkshow.com/wp-content/uploads/2021/02/artwork.png"
     },
     "items": [
+        {
+            "content": "Chris and Dave are speaking at An Event Apart Seattle - you should come! We've got some COVID updates, Chris' Git journey, issues with Git Hooks, Commit Lint, take a look at Parcel CSS, and pick some fav things.",
+            "content:encoded": "Chris and Dave are speaking at An Event Apart Seattle - you should come! We've got some COVID updates, Chris' Git journey, issues with Git Hooks, Commit Lint, take a look at Parcel CSS, and pick some fav things.",
+            "content:encodedSnippet": "Chris and Dave are speaking at An Event Apart Seattle - you should come! We've got some COVID updates, Chris' Git journey, issues with Git Hooks, Commit Lint, take a look at Parcel CSS, and pick some fav things.",
+            "contentSnippet": "Chris and Dave are speaking at An Event Apart Seattle - you should come! We've got some COVID updates, Chris' Git journey, issues with Git Hooks, Commit Lint, take a look at Parcel CSS, and pick some fav things.",
+            "creator": "ShopTalk",
+            "dc:creator": "ShopTalk",
+            "enclosure": {
+                "length": "44049862",
+                "type": "audio/mpeg",
+                "url": "https://shoptalkshow.com/podcast-download/5520/498.mp3"
+            },
+            "guid": "https://shoptalkshow.com/?p=5520",
+            "isoDate": "2022-01-17T14:00:00.000Z",
+            "itunes": {
+                "author": "ShopTalk",
+                "duration": "01:00:49",
+                "explicit": "clean",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2020/05/chris-and-dave_otspfa.jpg?fit=1065%2C804&ssl=1",
+                "keywords": "Git,healthy picks,hooks,parcel css",
+                "subtitle": "Chris and Dave are speaking at An Event Apart Seattle - you should come! Weve got some COVID updates, Chris Git journey, issues with Git Hooks, Commit Lint, take a look at Parcel CSS, and pick some fav things.",
+                "summary": "Chris and Dave are speaking at An Event Apart Seattle - you should come! We've got some COVID updates, Chris' Git journey, issues with Git Hooks, Commit Lint, take a look at Parcel CSS, and pick some fav things."
+            },
+            "link": "https://shoptalkshow.com/498/",
+            "pubDate": "Mon, 17 Jan 2022 14:00:00 +0000",
+            "title": "498: Prepping for 500, Git Journey, Git Hooks, Parcel CSS, and some Healthy Picks"
+        },
+        {
+            "content": "We're talking with Thomas Steiner of Google's Project Fugu about native apps or web apps. What is Project Fugu? Hardware limitations or requirements for using game controllers on the web. Working with new hardware API's. Reasons to choose a native app. As well as Thomas' SVG web app he's built.",
+            "content:encoded": "We're talking with Thomas Steiner of Google's Project Fugu about native apps or web apps. What is Project Fugu? Hardware limitations or requirements for using game controllers on the web. Working with new hardware API's. Reasons to choose a native app. As well as Thomas' SVG web app he's built.",
+            "content:encodedSnippet": "We're talking with Thomas Steiner of Google's Project Fugu about native apps or web apps. What is Project Fugu? Hardware limitations or requirements for using game controllers on the web. Working with new hardware API's. Reasons to choose a native app. As well as Thomas' SVG web app he's built.",
+            "contentSnippet": "We're talking with Thomas Steiner of Google's Project Fugu about native apps or web apps. What is Project Fugu? Hardware limitations or requirements for using game controllers on the web. Working with new hardware API's. Reasons to choose a native app. As well as Thomas' SVG web app he's built.",
+            "creator": "ShopTalk",
+            "dc:creator": "ShopTalk",
+            "enclosure": {
+                "length": "52081065",
+                "type": "audio/mpeg",
+                "url": "https://shoptalkshow.com/podcast-download/5496/497.mp3"
+            },
+            "guid": "https://shoptalkshow.com/?p=5496",
+            "isoDate": "2022-01-10T13:55:34.000Z",
+            "itunes": {
+                "author": "ShopTalk",
+                "duration": "01:11:59",
+                "explicit": "clean",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2020/05/chris-and-dave_otspfa.jpg?fit=1065%2C804&ssl=1",
+                "subtitle": "Were talking with Thomas Steiner of Googles Project Fugu about native apps or web apps. What is Project Fugu? Hardware limitations or requirements for using game controllers on the web. Working with new hardware APIs. Reasons to choose a native app. As w",
+                "summary": "We're talking with Thomas Steiner of Google's Project Fugu about native apps or web apps. What is Project Fugu? Hardware limitations or requirements for using game controllers on the web. Working with new hardware API's. Reasons to choose a native app. As well as Thomas' SVG web app he's built."
+            },
+            "link": "https://shoptalkshow.com/497/",
+            "pubDate": "Mon, 10 Jan 2022 13:55:34 +0000",
+            "title": "497: The State of Native Apps and Web Apps in 2022 with Thomas Steiner"
+        },
+        {
+            "content": "We're talking about our predictions for web tech in 2022: Container queries, web3, React, HTML elements, CSS compatibility, utility frameworks, designer and developer tooling, multiple frameworks, and more episodes of ShopTalk Show!",
+            "content:encoded": "We're talking about our predictions for web tech in 2022: Container queries, web3, React, HTML elements, CSS compatibility, utility frameworks, designer and developer tooling, multiple frameworks, and more episodes of ShopTalk Show!",
+            "content:encodedSnippet": "We're talking about our predictions for web tech in 2022: Container queries, web3, React, HTML elements, CSS compatibility, utility frameworks, designer and developer tooling, multiple frameworks, and more episodes of ShopTalk Show!",
+            "contentSnippet": "We're talking about our predictions for web tech in 2022: Container queries, web3, React, HTML elements, CSS compatibility, utility frameworks, designer and developer tooling, multiple frameworks, and more episodes of ShopTalk Show!",
+            "creator": "ShopTalk",
+            "dc:creator": "ShopTalk",
+            "enclosure": {
+                "length": "35052238",
+                "type": "audio/mpeg",
+                "url": "https://shoptalkshow.com/podcast-download/5463/496.mp3"
+            },
+            "guid": "https://shoptalkshow.com/?p=5463",
+            "isoDate": "2022-01-03T15:15:26.000Z",
+            "itunes": {
+                "author": "ShopTalk",
+                "duration": "00:48:20",
+                "explicit": "clean",
+                "keywords": "predictions,React,tooling,web3",
+                "subtitle": "Were talking about our predictions for web tech in 2022: Container queries, web3, React, HTML elements, CSS compatibility, utility frameworks, designer and developer tooling, multiple frameworks, and more episodes of ShopTalk Show!",
+                "summary": "We're talking about our predictions for web tech in 2022: Container queries, web3, React, HTML elements, CSS compatibility, utility frameworks, designer and developer tooling, multiple frameworks, and more episodes of ShopTalk Show!"
+            },
+            "link": "https://shoptalkshow.com/496/",
+            "pubDate": "Mon, 03 Jan 2022 15:15:26 +0000",
+            "title": "496: 2022 Predictions"
+        },
         {
             "content": "Chris can't remember how to get his snow blower working, and Dave can't remember how to use Docker. We're also talking CSS Reset, nuking margin, one thing you can do to make your website better, getting rid of 3rd party Javascript, testing your product on a craptop, and defensive CSS.",
             "content:encoded": "Chris can't remember how to get his snow blower working, and Dave can't remember how to use Docker. We're also talking CSS Reset, nuking margin, one thing you can do to make your website better, getting rid of 3rd party Javascript, testing your product on a craptop, and defensive CSS.",
@@ -403,7 +482,7 @@
                 "author": "ShopTalk",
                 "duration": "00:52:14",
                 "explicit": "clean",
-                "image": "https://i1.wp.com/shoptalkshow.com/wp-content/uploads/2021/09/CleanShot-2021-09-14-at-10.02.48@2x.png?fit=1136%2C538&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2021/09/CleanShot-2021-09-14-at-10.02.48@2x.png?fit=1136%2C538&ssl=1",
                 "subtitle": "Crossover! Your favorite web dev podcasts join forces for a super collab that’ll knock you frontend off! Amelia joins Chris Coyier and Dave Rupert from ShopTalk Show while Divya teams up with Wes Bos &#038; Scott Tolinski from Syntax. Let the FEUDing beg",
                 "summary": "Crossover! Your favorite web dev podcasts join forces for a super collab that’ll knock you frontend off! Amelia joins Chris Coyier and Dave Rupert from ShopTalk Show while Divya teams up with Wes Bos &#038; Scott Tolinski from Syntax. Let the FEUDing begin!"
             },
@@ -563,7 +642,7 @@
                 "author": "ShopTalk",
                 "duration": "00:53:33",
                 "explicit": "clean",
-                "image": "https://i2.wp.com/shoptalkshow.com/wp-content/uploads/2021/08/Ben-Hong.jpeg?fit=400%2C400&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2021/08/Ben-Hong.jpeg?fit=400%2C400&ssl=1",
                 "keywords": "nuxt,petite vue,vue,vuepress",
                 "subtitle": "Ben Hong talks with us about Vue 2 vs Vue 3, Nuxt, VuePress, GridSome, Petite Vue, Headless Shopify + Netlify, is static hosting the right term these days, and whats up with Nuxt 3?",
                 "summary": "Ben Hong talks with us about Vue 2 vs Vue 3, Nuxt, VuePress, GridSome, Petite Vue, Headless Shopify + Netlify, is static hosting the right term these days, and what's up with Nuxt 3?"
@@ -617,7 +696,7 @@
                 "author": "ShopTalk",
                 "duration": "01:00:04",
                 "explicit": "clean",
-                "image": "https://i2.wp.com/shoptalkshow.com/wp-content/uploads/2021/07/Ian-Frost.jpeg?fit=827%2C827&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2021/07/Ian-Frost.jpeg?fit=827%2C827&ssl=1",
                 "keywords": "Bootcamps,Career Advice,CSS,HTML,Javascript,training",
                 "subtitle": "Were chatting with Ian Frost who swapped out his meteorologist career to become a web developer alongside his brother Brad Frost. We talk about getting started learning HTML / CSS, and then Javscript, writing code as a team, navigating the front and back",
                 "summary": "We're chatting with Ian Frost who swapped out his meteorologist career to become a web developer alongside his brother Brad Frost. We talk about getting started learning HTML / CSS, and then Javscript, writing code as a team, navigating the front and back end in 2021, dictating tech stacks to clients, and dealing with turnover and tech changes with clients."
@@ -857,7 +936,7 @@
                 "author": "ShopTalk",
                 "duration": "00:59:07",
                 "explicit": "clean",
-                "image": "https://i2.wp.com/shoptalkshow.com/wp-content/uploads/2019/06/Jason.jpg?fit=400%2C400&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2019/06/Jason.jpg?fit=400%2C400&ssl=1",
                 "keywords": "distributed persistent rendering,jamstack,netlify,React",
                 "subtitle": "Jason Lengstorf and Phil Hawksworth chat about the current state of the Jamstack including React + Jamstack, Distributed Persistent Rendering, building for ease of use, dealing with minor changes and caching, whether Jamstack needs to do all things, and ",
                 "summary": "Jason Lengstorf and Phil Hawksworth chat about the current state of the Jamstack including React + Jamstack, Distributed Persistent Rendering, building for ease of use, dealing with minor changes and caching, whether Jamstack needs to do all things, and a big new Netlify features announced!"
@@ -911,7 +990,7 @@
                 "author": "ShopTalk",
                 "duration": "01:04:13",
                 "explicit": "clean",
-                "image": "https://i1.wp.com/shoptalkshow.com/wp-content/uploads/2021/05/An-Event-Apart.jpg?fit=1800%2C1063&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2021/05/An-Event-Apart.jpg?fit=1800%2C1063&ssl=1",
                 "keywords": "An Event Apart,live",
                 "subtitle": "Dave and Chris talked at An Event Apart Spring Summit 2021 on the good and bad of the web. They talked about CSS, framework knowledge, more CSS, PWAs for projects, service workers, the language of tooling, and web performance.",
                 "summary": "Dave and Chris talked at An Event Apart Spring Summit 2021 on the good and bad of the web. They talked about CSS, framework knowledge, more CSS, PWA's for projects, service workers, the language of tooling, and web performance."
@@ -1019,7 +1098,7 @@
                 "author": "ShopTalk",
                 "duration": "00:54:38",
                 "explicit": "clean",
-                "image": "https://i1.wp.com/shoptalkshow.com/wp-content/uploads/2021/04/Emma-Bostian.jpeg?fit=400%2C400&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2021/04/Emma-Bostian.jpeg?fit=400%2C400&ssl=1",
                 "keywords": "applying for a job,books,Interviews",
                 "subtitle": "Special guest Emma Bostian is on to talk about her new book, De-coding the Technical Interview, that will help you never bomb a technical job interview again. How to answer technical questions you dont know, looking for red flags when applying, infinite ",
                 "summary": "Special guest Emma Bostian is on to talk about her new book, De-coding the Technical Interview, that will help you never bomb a technical job interview again. How to answer technical questions you don't know, looking for red flags when applying, infinite scrolling question, and how to not be a schlub when applying for a new job."
@@ -1798,7 +1877,7 @@
                 "author": "ShopTalk",
                 "duration": "00:58:22",
                 "explicit": "clean",
-                "image": "https://i2.wp.com/shoptalkshow.com/wp-content/uploads/2020/09/David-Dylan-Thomas.jpg?fit=400%2C400&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2020/09/David-Dylan-Thomas.jpg?fit=400%2C400&ssl=1",
                 "subtitle": "David Dylan Thomas stops by to talk about his new book, Design for Cognitive Bias, recently published by A Book Apart. We talk about the illusion of control, confirmation bias, capitalism as a bias, culture fit, bias blindspots, the myth of the self-made",
                 "summary": "David Dylan Thomas stops by to talk about his new book, Design for Cognitive Bias, recently published by A Book Apart. We talk about the illusion of control, confirmation bias, capitalism as a bias, culture fit, bias blindspots, the myth of the self-made man, move fast and break things, dark patterns, and what can we takeaway from learning about bias?"
             },
@@ -1904,7 +1983,7 @@
                 "author": "ShopTalk",
                 "duration": "00:55:25",
                 "explicit": "clean",
-                "image": "https://i2.wp.com/shoptalkshow.com/wp-content/uploads/2020/03/default-graphic.png?fit=552%2C552&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2020/03/default-graphic.png?fit=552%2C552&ssl=1",
                 "keywords": "SVG,tailwind,Web Components,web workers",
                 "subtitle": "Were talking about health, Tailwind CSS, getting overwhelmed with where to start on a project, some follow up on SVG sizes and web components, and why isnt there a bigger focus on web workers?",
                 "summary": "We're talking about health, Tailwind CSS, getting overwhelmed with where to start on a project, some follow up on SVG sizes and web components, and why isn't there a bigger focus on web workers?"
@@ -2093,7 +2172,7 @@
                 "author": "ShopTalk",
                 "duration": "01:06:45",
                 "explicit": "clean",
-                "image": "https://i1.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
                 "keywords": "audio,burnout,CSS,developer experience,dx,shadow dom,Twitter",
                 "subtitle": "Show DescriptionWe read some blogs and have some questions of our own: LH vs RLH? What about styling the shadow DOM with CSS shadow parts? Should you focus your work on whats loaded in your brain already? What is the Developer Experience? RUM and making ",
                 "summary": "Show DescriptionWe read some blogs and have some questions of our own: LH vs RLH? What about styling the shadow DOM with CSS shadow parts? Should you focus your work on what's loaded in your brain already? What is the Developer Experience? RUM and making decisions with or without data. Listen on Website &#8594;Links Webplatform [&#8230;]"
@@ -2120,7 +2199,7 @@
                 "author": "ShopTalk",
                 "duration": "00:59:46",
                 "explicit": "clean",
-                "image": "https://i1.wp.com/shoptalkshow.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-11-at-8.55.55-PM.png?fit=1626%2C1168&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-11-at-8.55.55-PM.png?fit=1626%2C1168&ssl=1",
                 "keywords": "eleventy,Github,jamstack,Jekyll,microsoft,perf,rss",
                 "subtitle": "Were talking RSS feeds, Gemstone 4, MMO games, DnD, Jekyll vs Eleventy performance, email newsletters, Github and Microsoft, and strategies for dealing with Jamstack page jank.",
                 "summary": "We're talking RSS feeds, Gemstone 4, MMO games, DnD, Jekyll vs Eleventy performance, email newsletters, Github and Microsoft, and strategies for dealing with Jamstack page jank."
@@ -2174,7 +2253,7 @@
                 "author": "ShopTalk",
                 "duration": "01:14:06",
                 "explicit": "clean",
-                "image": "https://i2.wp.com/shoptalkshow.com/wp-content/uploads/2019/10/Jen-Simmons-2019.jpg?fit=400%2C400&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2019/10/Jen-Simmons-2019.jpg?fit=400%2C400&ssl=1",
                 "keywords": "aspect ratio,browsers,CSS",
                 "subtitle": "Jen Simmons is back on the show to talk with us about her new HTML Essentials course, CSS Aspect Ratio, rendering engines vs browsers, and a big announcement from her personally!",
                 "summary": "Jen Simmons is back on the show to talk with us about her new HTML Essentials course, CSS Aspect Ratio, rendering engines vs browsers, and a big announcement from her personally!"
@@ -2228,7 +2307,7 @@
                 "author": "ShopTalk",
                 "duration": "01:06:05",
                 "explicit": "clean",
-                "image": "https://i2.wp.com/shoptalkshow.com/wp-content/uploads/2020/05/gerry_mcgovern_cafe.jpg?fit=1766%2C1060&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2020/05/gerry_mcgovern_cafe.jpg?fit=1766%2C1060&ssl=1",
                 "keywords": "energy,maintenance,waste",
                 "subtitle": "Gerry McGovern talks with us about the amount of energy used sending the bits and bytes around the internet, the cost of storage, new phones vs old phones, the scale of data, and how do we adjust our process and culture to make changes?",
                 "summary": "Gerry McGovern talks with us about the amount of energy used sending the bits and bytes around the internet, the cost of storage, new phones vs old phones, the scale of data, and how do we adjust our process and culture to make changes?"
@@ -2255,7 +2334,7 @@
                 "author": "ShopTalk",
                 "duration": "01:09:39",
                 "explicit": "clean",
-                "image": "https://i2.wp.com/shoptalkshow.com/wp-content/uploads/2020/05/Tom_Preston-Werner.jpg?fit=1212%2C960&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2020/05/Tom_Preston-Werner.jpg?fit=1212%2C960&ssl=1",
                 "keywords": "Javascript,redwoodjs",
                 "subtitle": "Tom Preston-Werner joins the show to talk about his latest project, RedwoodJS, and the decisions made about how it works, public APIs, how tied to Netlify RedwoodJS is, and why theyre using Prisma.",
                 "summary": "Tom Preston-Werner joins the show to talk about his latest project, RedwoodJS, and the decisions made about how it works, public APIs, how tied to Netlify RedwoodJS is, and why they're using Prisma."
@@ -2309,7 +2388,7 @@
                 "author": "ShopTalk",
                 "duration": "00:58:04",
                 "explicit": "clean",
-                "image": "https://i2.wp.com/shoptalkshow.com/wp-content/uploads/2020/04/Blaine.png?fit=400%2C400&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2020/04/Blaine.png?fit=400%2C400&ssl=1",
                 "keywords": "developer",
                 "subtitle": "Show DescriptionWere chatting with Blaine Bublitz, lead at the Gulpjs open source project, about what Gulp is, the lack of money in open source, SVG and Gulp, handling dependencies in Gulp, and what the future of Gulp looks like. Listen on Website &#8594",
                 "summary": "Show DescriptionWe're chatting with Blaine Bublitz, lead at the Gulpjs open source project, about what Gulp is, the lack of money in open source, SVG and Gulp, handling dependencies in Gulp, and what the future of Gulp looks like. Listen on Website &#8594;GuestsBlaine BublitzGuest's Main URL • Guest's TwitterMaintainer Relations, Gulpjs lead. Links Gulp.js Tidelift [&#8230;]"
@@ -2390,7 +2469,7 @@
                 "author": "ShopTalk",
                 "duration": "01:03:15",
                 "explicit": "clean",
-                "image": "https://i1.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
                 "keywords": "browsers,container queries,CSS",
                 "subtitle": "Show DescriptionBrian Kardell talks with us about how new features get into browsers and the fun and challenging journey it takes to get there. Listen on Website &#8594;GuestsBrian KardellGuests Main URL • Guests TwitterDeveloper Advocate at Igalia &#124",
                 "summary": "Show DescriptionBrian Kardell talks with us about how new features get into browsers and the fun and challenging journey it takes to get there. Listen on Website &#8594;GuestsBrian KardellGuest's Main URL • Guest's TwitterDeveloper Advocate at Igalia &#124; Co-author Extensible Web Manifesto &#124; Standards Dude (Open JSF AC) Links ShopTalk Show 306: Debugging CSS with [&#8230;]"
@@ -2417,7 +2496,7 @@
                 "author": "ShopTalk",
                 "duration": "00:59:40",
                 "explicit": "clean",
-                "image": "https://i2.wp.com/shoptalkshow.com/wp-content/uploads/2020/03/divya.jpg?fit=400%2C400&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2020/03/divya.jpg?fit=400%2C400&ssl=1",
                 "keywords": "eleventy,jamstack,netlifiy,spa,ssr,Wordpress",
                 "subtitle": "Show DescriptionDivya Tagtachian stops by the ShopTalk studios to answer questions about Jamstack and Netlify. Whats open authoring? Can a SPA be Jamstack? Can a site be too large for Jamstack? Is SSR the same thing as Jamstack? Whats happening with Word",
                 "summary": "Show DescriptionDivya Tagtachian stops by the ShopTalk studios to answer questions about Jamstack and Netlify. What's open authoring? Can a SPA be Jamstack? Can a site be too large for Jamstack? Is SSR the same thing as Jamstack? What's happening with WordPress and Jamstack? Listen on Website &#8594;GuestsDivya TagtachianGuest's Main URL • Guest's TwitterCurrently a [&#8230;]"
@@ -2444,7 +2523,7 @@
                 "author": "ShopTalk",
                 "duration": "00:58:54",
                 "explicit": "clean",
-                "image": "https://i1.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
                 "keywords": "culture,Design",
                 "subtitle": "Show DescriptionSeneongo Akpem talks with us about his new book, Cross-Cultural Design, and how building websites for people all over the world and from different cultures can be done better. Listen on Website &#8594;Guests Senongo AkpemGuests Main URL •",
                 "summary": "Show DescriptionSeneongo Akpem talks with us about his new book, Cross-Cultural Design, and how building websites for people all over the world and from different cultures can be done better. Listen on Website &#8594;Guests Senongo AkpemGuest's Main URL • Guest's TwitterA designer and creative director in New York City, with over 15 years experience delivering [&#8230;]"
@@ -2471,7 +2550,7 @@
                 "author": "ShopTalk",
                 "duration": "01:10:00",
                 "explicit": "clean",
-                "image": "https://i1.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
                 "keywords": "aws,aws lambda,Rails",
                 "subtitle": "Show DescriptionBrian Leroux chats with us about building modern web apps using Begin and other cloud services like it including a deep dive on AWS Lambda. Listen on Website &#8594;GuestsBrian LeRouxGuests Main URL • Guests TwitterCofounder @begin, Hacki",
                 "summary": "Show DescriptionBrian Leroux chats with us about building modern web apps using Begin and other cloud services like it including a deep dive on AWS Lambda. Listen on Website &#8594;GuestsBrian LeRouxGuest's Main URL • Guest's TwitterCofounder @begin, Hacking on http://arc.codes, AWS serverless heros. Links Begin / Learn.Begin.com Brian on GitHub Heroku Linode Netlify CodePen Stackbit [&#8230;]"
@@ -2498,7 +2577,7 @@
                 "author": "ShopTalk",
                 "duration": "01:07:57",
                 "explicit": "clean",
-                "image": "https://i1.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
                 "keywords": "ascii,website,Wordpress",
                 "subtitle": "Show DescriptionWere talking the redesign of The ShopTalk Show website, including some of the issues and technical challenges we faced designing a podcast website for 2020. Listen on Website &#8594;Links Derek Featherstone Dave’s GitHub TimeJump Logitech",
                 "summary": "Show DescriptionWe're talking the redesign of The ShopTalk Show website, including some of the issues and technical challenges we faced designing a podcast website for 2020. Listen on Website &#8594;Links Derek Featherstone Dave’s GitHub TimeJump Logitech MX Master 3 VueConf ErgoDox Keyboards SponsorsWooCommerceIf you'd like to sell CBD products on your WordPress/WooCommerce site, you can! [&#8230;]"
@@ -2525,7 +2604,7 @@
                 "author": "ShopTalk",
                 "duration": "01:06:22",
                 "explicit": "clean",
-                "image": "https://i1.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
                 "keywords": "foldable phone,HTML,rss",
                 "subtitle": "Show DescriptionWere pontificating on foldable phones and what that means for the web, automating and finding things we like with RSS, talking about a new CodePen feature, and trying to figure out SEO. Listen on Website &#8594;Links Spanning CSS Polyfill",
                 "summary": "Show DescriptionWe're pontificating on foldable phones and what that means for the web, automating and finding things we like with RSS, talking about a new CodePen feature, and trying to figure out SEO. Listen on Website &#8594;Links Spanning CSS Polyfill NetNewsWire Feedbin Marvel Unlimited CSS Tricks: Pages for Likes Who you follow on CodePen Get [&#8230;]"
@@ -2552,7 +2631,7 @@
                 "author": "ShopTalk",
                 "duration": "01:10:47",
                 "explicit": "clean",
-                "image": "https://i1.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
                 "keywords": "browsers,Chrome,edge,firefox",
                 "subtitle": "Show DescriptionJen Simmons &#38; Adam Argyle stop by to continue our conversations about where browsers are at, and whats coming up for browsers - specifically Firefox &#38; Chrome. Listen on Website &#8594;GuestsJen SimmonsGuests Main URL • Guests Twit",
                 "summary": "Show DescriptionJen Simmons &#38; Adam Argyle stop by to continue our conversations about where browsers are at, and what's coming up for browsers - specifically Firefox &#38; Chrome. Listen on Website &#8594;GuestsJen SimmonsGuest's Main URL • Guest's TwitterDesigner and Developer Advocate at Mozilla fighting for the health of the web. Member of CSS Working Group. [&#8230;]"
@@ -2579,7 +2658,7 @@
                 "author": "ShopTalk",
                 "duration": "01:00:14",
                 "explicit": "clean",
-                "image": "https://i1.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
                 "keywords": "Chrome,CSS,css4,forms,HTML",
                 "subtitle": "Show DescriptionChris and Dave talk hot browser drama, CSS4 ideas and thoughts, moving HTML &#38; CSS forward, and lazy loading - and a whole lot more! Listen on Website &#8594;Links Chrome update 1Password Why Javascript is Eating HTML SponsorsAn Event ",
                 "summary": "Show DescriptionChris and Dave talk hot browser drama, CSS4 ideas and thoughts, moving HTML &#38; CSS forward, and lazy loading - and a whole lot more! Listen on Website &#8594;Links Chrome update 1Password Why Javascript is Eating HTML SponsorsAn Event ApartThe web design conference for UX &#038; front-end experts. Three days of design, code, and [&#8230;]"
@@ -2606,7 +2685,7 @@
                 "author": "ShopTalk",
                 "duration": "01:05:14",
                 "explicit": "clean",
-                "image": "https://i1.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
                 "keywords": "browsers,CSS,HTML",
                 "subtitle": "Show DescriptionEric Meyer joins us to talk about An Event Aparts 2020 season, subgrid shipping, the rumored rewrite of Chromes engine, where HTML and CSS are headed, browser development, developing for giant screens and giant browser windows, and whatev",
                 "summary": "Show DescriptionEric Meyer joins us to talk about An Event Apart's 2020 season, subgrid shipping, the rumored rewrite of Chrome's engine, where HTML and CSS are headed, browser development, developing for giant screens and giant browser windows, and whatever happened to CSS 3? Listen on Website &#8594;GuestsEric MeyerGuest's Main URL • Guest's TwitterEric A. Meyer [&#8230;]"
@@ -2614,85 +2693,6 @@
             "link": "https://shoptalkshow.com/398/",
             "pubDate": "Mon, 10 Feb 2020 15:00:36 +0000",
             "title": "398: An Event Apart, Subgrid, Grid, Chrome engine, & more with Eric Meyer"
-        },
-        {
-            "content": "Show DescriptionChris &#38; Dave give an update on the website redesign project and then dive into your question: What kind of gear should you ask for from a new job? How do you fix a hardcoded issue in a project? And how is life using IntelliJ? Listen on Website &#8594;Links Apollo GraphQL Without Javascript Alpine [&#8230;]",
-            "content:encoded": "Show DescriptionChris &#38; Dave give an update on the website redesign project and then dive into your question: What kind of gear should you ask for from a new job? How do you fix a hardcoded issue in a project? And how is life using IntelliJ? Listen on Website &#8594;Links Apollo GraphQL Without Javascript Alpine [&#8230;]",
-            "content:encodedSnippet": "Show DescriptionChris & Dave give an update on the website redesign project and then dive into your question: What kind of gear should you ask for from a new job? How do you fix a hardcoded issue in a project? And how is life using IntelliJ? Listen on Website →Links Apollo GraphQL Without Javascript Alpine […]",
-            "contentSnippet": "Show DescriptionChris & Dave give an update on the website redesign project and then dive into your question: What kind of gear should you ask for from a new job? How do you fix a hardcoded issue in a project? And how is life using IntelliJ? Listen on Website →Links Apollo GraphQL Without Javascript Alpine […]",
-            "creator": "ShopTalk",
-            "dc:creator": "ShopTalk",
-            "enclosure": {
-                "length": "39808460",
-                "type": "audio/mpeg",
-                "url": "https://shoptalkshow.com/podcast-download/2777/397.mp3"
-            },
-            "guid": "https://shoptalkshow.com/?p=2777",
-            "isoDate": "2020-02-03T15:00:08.000Z",
-            "itunes": {
-                "author": "ShopTalk",
-                "duration": "00:55:00",
-                "explicit": "clean",
-                "image": "https://i1.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
-                "keywords": "editor,intellij,nova,shoptalk show,website",
-                "subtitle": "Show DescriptionChris &#38; Dave give an update on the website redesign project and then dive into your question: What kind of gear should you ask for from a new job? How do you fix a hardcoded issue in a project? And how is life using IntelliJ? Listen o",
-                "summary": "Show DescriptionChris &#38; Dave give an update on the website redesign project and then dive into your question: What kind of gear should you ask for from a new job? How do you fix a hardcoded issue in a project? And how is life using IntelliJ? Listen on Website &#8594;Links Apollo GraphQL Without Javascript Alpine [&#8230;]"
-            },
-            "link": "https://shoptalkshow.com/397/",
-            "pubDate": "Mon, 03 Feb 2020 15:00:08 +0000",
-            "title": "397: Fixing Hardcoded Issues, Tooling for your Job, and Picking an Editor for a Job"
-        },
-        {
-            "content": "Show DescriptionChris &#38; Dave talk about Edge going Chrome, a bit of follow up from last episode about Virtual Machines, thoughts on designing a website to last, a question about Rails plus React, and a question about how to move from CoffeeScript to something current. Listen on Website &#8594;Links Goodreads: The Wizard and the Prophet [&#8230;]",
-            "content:encoded": "Show DescriptionChris &#38; Dave talk about Edge going Chrome, a bit of follow up from last episode about Virtual Machines, thoughts on designing a website to last, a question about Rails plus React, and a question about how to move from CoffeeScript to something current. Listen on Website &#8594;Links Goodreads: The Wizard and the Prophet [&#8230;]",
-            "content:encodedSnippet": "Show DescriptionChris & Dave talk about Edge going Chrome, a bit of follow up from last episode about Virtual Machines, thoughts on designing a website to last, a question about Rails plus React, and a question about how to move from CoffeeScript to something current. Listen on Website →Links Goodreads: The Wizard and the Prophet […]",
-            "contentSnippet": "Show DescriptionChris & Dave talk about Edge going Chrome, a bit of follow up from last episode about Virtual Machines, thoughts on designing a website to last, a question about Rails plus React, and a question about how to move from CoffeeScript to something current. Listen on Website →Links Goodreads: The Wizard and the Prophet […]",
-            "creator": "ShopTalk",
-            "dc:creator": "ShopTalk",
-            "enclosure": {
-                "length": "45366217",
-                "type": "audio/mpeg",
-                "url": "https://shoptalkshow.com/podcast-download/2756/396.mp3"
-            },
-            "guid": "https://shoptalkshow.com/?p=2756",
-            "isoDate": "2020-01-27T17:10:02.000Z",
-            "itunes": {
-                "author": "ShopTalk",
-                "duration": "01:02:06",
-                "explicit": "clean",
-                "image": "https://i1.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
-                "subtitle": "Show DescriptionChris &#38; Dave talk about Edge going Chrome, a bit of follow up from last episode about Virtual Machines, thoughts on designing a website to last, a question about Rails plus React, and a question about how to move from CoffeeScript to ",
-                "summary": "Show DescriptionChris &#38; Dave talk about Edge going Chrome, a bit of follow up from last episode about Virtual Machines, thoughts on designing a website to last, a question about Rails plus React, and a question about how to move from CoffeeScript to something current. Listen on Website &#8594;Links Goodreads: The Wizard and the Prophet [&#8230;]"
-            },
-            "link": "https://shoptalkshow.com/396/",
-            "pubDate": "Mon, 27 Jan 2020 17:10:02 +0000",
-            "title": "396: Edge Goes Chrome, Edge VM’s, and Designing a Website to Last"
-        },
-        {
-            "content": "Show DescriptionWe're talking AI and machine learning taking over, and then answering your questions on: registering a domain name, document outlining in HTML, colleges still teaching Flash, should we eject or not, enqueuing React in WordPress, and saying hyphenated domain names out loud. Listen on Website &#8594;Links Firebase BendJS Stadia Aside Quest Halt and Catch [&#8230;]",
-            "content:encoded": "Show DescriptionWe're talking AI and machine learning taking over, and then answering your questions on: registering a domain name, document outlining in HTML, colleges still teaching Flash, should we eject or not, enqueuing React in WordPress, and saying hyphenated domain names out loud. Listen on Website &#8594;Links Firebase BendJS Stadia Aside Quest Halt and Catch [&#8230;]",
-            "content:encodedSnippet": "Show DescriptionWe're talking AI and machine learning taking over, and then answering your questions on: registering a domain name, document outlining in HTML, colleges still teaching Flash, should we eject or not, enqueuing React in WordPress, and saying hyphenated domain names out loud. Listen on Website →Links Firebase BendJS Stadia Aside Quest Halt and Catch […]",
-            "contentSnippet": "Show DescriptionWe're talking AI and machine learning taking over, and then answering your questions on: registering a domain name, document outlining in HTML, colleges still teaching Flash, should we eject or not, enqueuing React in WordPress, and saying hyphenated domain names out loud. Listen on Website →Links Firebase BendJS Stadia Aside Quest Halt and Catch […]",
-            "creator": "ShopTalk",
-            "dc:creator": "ShopTalk",
-            "enclosure": {
-                "length": "45042340",
-                "type": "audio/mpeg",
-                "url": "https://shoptalkshow.com/podcast-download/2734/395.mp3"
-            },
-            "guid": "https://shoptalkshow.com/?p=2734",
-            "isoDate": "2020-01-20T14:00:57.000Z",
-            "itunes": {
-                "author": "ShopTalk",
-                "duration": "01:01:35",
-                "explicit": "clean",
-                "image": "https://i1.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
-                "subtitle": "Show DescriptionWere talking AI and machine learning taking over, and then answering your questions on: registering a domain name, document outlining in HTML, colleges still teaching Flash, should we eject or not, enqueuing React in WordPress, and saying",
-                "summary": "Show DescriptionWe're talking AI and machine learning taking over, and then answering your questions on: registering a domain name, document outlining in HTML, colleges still teaching Flash, should we eject or not, enqueuing React in WordPress, and saying hyphenated domain names out loud. Listen on Website &#8594;Links Firebase BendJS Stadia Aside Quest Halt and Catch [&#8230;]"
-            },
-            "link": "https://shoptalkshow.com/395/",
-            "pubDate": "Mon, 20 Jan 2020 14:00:57 +0000",
-            "title": "395: 2020 Don’t Eject!"
         }
     ],
     "itunes": {
@@ -2707,7 +2707,7 @@
         "summary": ""
     },
     "language": "en-US",
-    "lastBuildDate": "Wed, 29 Dec 2021 01:30:53 +0000",
+    "lastBuildDate": "Wed, 19 Jan 2022 18:20:54 +0000",
     "link": "https://shoptalkshow.com/",
     "paginationLinks": {
         "self": "https://shoptalkshow.com/feed/podcast"
