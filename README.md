@@ -29,7 +29,7 @@ You can extract data from your own OPML File and create your own dataset.
 - Analyze common patterns and wordings surrounding certain topics
 
 ### App Development
-- Use podcast data as a mock data for an application
+- Use podcast data as a mock data for an application. Demo App can be found [here](https://onthistopic.web.app/).
 - Utilize color palette information to add visual elements to the application such as styling and theme as well as personalization
 
 <hr/>
