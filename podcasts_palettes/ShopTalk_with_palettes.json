@@ -2,13 +2,93 @@
     "copyright": "\u00a9 2021 ShopTalk",
     "description": "A live podcast about front end web design and UX.",
     "feedUrl": "https://shoptalkshow.com/feed/podcast",
-    "generator": "https://wordpress.org/?v=5.8.3",
+    "generator": "https://wordpress.org/?v=5.9.1",
     "image": {
         "link": "https://shoptalkshow.com/",
         "title": "ShopTalk",
         "url": "https://shoptalkshow.com/wp-content/uploads/2021/02/artwork.png"
     },
     "items": [
+        {
+            "content": "Jim Nielsen stops by to talk about blogging, writing a book on app icons, how he archives his part of the web, whether browsers are evergreen, future vs backwards proofing, color, and images on the web.",
+            "content:encoded": "Jim Nielsen stops by to talk about blogging, writing a book on app icons, how he archives his part of the web, whether browsers are evergreen, future vs backwards proofing, color, and images on the web.",
+            "content:encodedSnippet": "Jim Nielsen stops by to talk about blogging, writing a book on app icons, how he archives his part of the web, whether browsers are evergreen, future vs backwards proofing, color, and images on the web.",
+            "contentSnippet": "Jim Nielsen stops by to talk about blogging, writing a book on app icons, how he archives his part of the web, whether browsers are evergreen, future vs backwards proofing, color, and images on the web.",
+            "creator": "ShopTalk",
+            "dc:creator": "ShopTalk",
+            "enclosure": {
+                "length": "49447042",
+                "type": "audio/mpeg",
+                "url": "https://shoptalkshow.com/podcast-download/5670/504.mp3"
+            },
+            "guid": "https://shoptalkshow.com/?p=5670",
+            "isoDate": "2022-02-28T14:02:28.000Z",
+            "itunes": {
+                "author": "ShopTalk",
+                "duration": "01:08:19",
+                "explicit": "clean",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2022/02/Jim-Nielson.jpeg?fit=400%2C400&ssl=1",
+                "keywords": "books,color,Icons,Images,webp",
+                "subtitle": "Jim Nielsen stops by to talk about blogging, writing a book on app icons, how he archives his part of the web, whether browsers are evergreen, future vs backwards proofing, color, and images on the web.",
+                "summary": "Jim Nielsen stops by to talk about blogging, writing a book on app icons, how he archives his part of the web, whether browsers are evergreen, future vs backwards proofing, color, and images on the web."
+            },
+            "link": "https://shoptalkshow.com/504/",
+            "pubDate": "Mon, 28 Feb 2022 14:02:28 +0000",
+            "title": "504: Jim Nielsen Blogging, App Icons, Color, and Images"
+        },
+        {
+            "content": "We check in with Pull Request Issues guy, should you check in Node dependencies, how to pick technology to learn, and what does Nuxt or Vue do for PropTypes?",
+            "content:encoded": "We check in with Pull Request Issues guy, should you check in Node dependencies, how to pick technology to learn, and what does Nuxt or Vue do for PropTypes?",
+            "content:encodedSnippet": "We check in with Pull Request Issues guy, should you check in Node dependencies, how to pick technology to learn, and what does Nuxt or Vue do for PropTypes?",
+            "contentSnippet": "We check in with Pull Request Issues guy, should you check in Node dependencies, how to pick technology to learn, and what does Nuxt or Vue do for PropTypes?",
+            "creator": "ShopTalk",
+            "dc:creator": "ShopTalk",
+            "enclosure": {
+                "length": "39227386",
+                "type": "audio/mpeg",
+                "url": "https://shoptalkshow.com/podcast-download/5653/503.mp3"
+            },
+            "guid": "https://shoptalkshow.com/?p=5653",
+            "isoDate": "2022-02-21T15:37:56.000Z",
+            "itunes": {
+                "author": "ShopTalk",
+                "duration": "00:54:07",
+                "explicit": "clean",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2020/05/chris-and-dave_otspfa.jpg?fit=1065%2C804&ssl=1",
+                "subtitle": "We check in with Pull Request Issues guy, should you check in Node dependencies, how to pick technology to learn, and what does Nuxt or Vue do for PropTypes?",
+                "summary": "We check in with Pull Request Issues guy, should you check in Node dependencies, how to pick technology to learn, and what does Nuxt or Vue do for PropTypes?"
+            },
+            "link": "https://shoptalkshow.com/503/",
+            "pubDate": "Mon, 21 Feb 2022 15:37:56 +0000",
+            "title": "503: Pull Request Issues, Checking in Node Dependencies, Nuxt and PropTypes, and Less Decomposing"
+        },
+        {
+            "content": "We're talking Safari drama, wondering why Apple won't support other browsers on mobile, some solutions to writing in VS Code, and solving problems in isolation.",
+            "content:encoded": "We're talking Safari drama, wondering why Apple won't support other browsers on mobile, some solutions to writing in VS Code, and solving problems in isolation.",
+            "content:encodedSnippet": "We're talking Safari drama, wondering why Apple won't support other browsers on mobile, some solutions to writing in VS Code, and solving problems in isolation.",
+            "contentSnippet": "We're talking Safari drama, wondering why Apple won't support other browsers on mobile, some solutions to writing in VS Code, and solving problems in isolation.",
+            "creator": "ShopTalk",
+            "dc:creator": "ShopTalk",
+            "enclosure": {
+                "length": "38907099",
+                "type": "audio/mpeg",
+                "url": "https://shoptalkshow.com/podcast-download/5637/502.mp3"
+            },
+            "guid": "https://shoptalkshow.com/?p=5637",
+            "isoDate": "2022-02-14T14:01:08.000Z",
+            "itunes": {
+                "author": "ShopTalk",
+                "duration": "00:53:41",
+                "explicit": "clean",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2020/05/chris-and-dave_otspfa.jpg?fit=1065%2C804&ssl=1",
+                "keywords": "apple,browsers,notion,Safari",
+                "subtitle": "Were talking Safari drama, wondering why Apple wont support other browsers on mobile, some solutions to writing in VS Code, and solving problems in isolation.",
+                "summary": "We're talking Safari drama, wondering why Apple won't support other browsers on mobile, some solutions to writing in VS Code, and solving problems in isolation."
+            },
+            "link": "https://shoptalkshow.com/502/",
+            "pubDate": "Mon, 14 Feb 2022 14:01:08 +0000",
+            "title": "502: Text Select in Notion, Safari Hot Drama, Writing in VS Code, and Other Browsers on Mobile Safari"
+        },
         {
             "content": "We're comparing our 'fits, deleting Twitter, and lurking in Discords. And wondering about how much customization you should have over an app's UI? Do you expect it? Is taking ownership of Babel transform a smart thing to do? What are design tokens really? And how do we get to cyber pink?",
             "content:encoded": "We're comparing our 'fits, deleting Twitter, and lurking in Discords. And wondering about how much customization you should have over an app's UI? Do you expect it? Is taking ownership of Babel transform a smart thing to do? What are design tokens really? And how do we get to cyber pink?",
@@ -2611,87 +2691,6 @@
             "link": "https://shoptalkshow.com/405/",
             "pubDate": "Mon, 23 Mar 2020 14:00:00 +0000",
             "title": "405: Cross-Cultural Design with Senongo Akpem"
-        },
-        {
-            "content": "Show DescriptionBrian Leroux chats with us about building modern web apps using Begin and other cloud services like it including a deep dive on AWS Lambda. Listen on Website &#8594;GuestsBrian LeRouxGuest's Main URL \u2022 Guest's TwitterCofounder @begin, Hacking on http://arc.codes, AWS serverless heros. Links Begin / Learn.Begin.com Brian on GitHub Heroku Linode Netlify CodePen Stackbit [&#8230;]",
-            "content:encoded": "Show DescriptionBrian Leroux chats with us about building modern web apps using Begin and other cloud services like it including a deep dive on AWS Lambda. Listen on Website &#8594;GuestsBrian LeRouxGuest's Main URL \u2022 Guest's TwitterCofounder @begin, Hacking on http://arc.codes, AWS serverless heros. Links Begin / Learn.Begin.com Brian on GitHub Heroku Linode Netlify CodePen Stackbit [&#8230;]",
-            "content:encodedSnippet": "Show DescriptionBrian Leroux chats with us about building modern web apps using Begin and other cloud services like it including a deep dive on AWS Lambda. Listen on Website \u2192GuestsBrian LeRouxGuest's Main URL \u2022 Guest's TwitterCofounder @begin, Hacking on http://arc.codes, AWS serverless heros. Links Begin / Learn.Begin.com Brian on GitHub Heroku Linode Netlify CodePen Stackbit [\u2026]",
-            "contentSnippet": "Show DescriptionBrian Leroux chats with us about building modern web apps using Begin and other cloud services like it including a deep dive on AWS Lambda. Listen on Website \u2192GuestsBrian LeRouxGuest's Main URL \u2022 Guest's TwitterCofounder @begin, Hacking on http://arc.codes, AWS serverless heros. Links Begin / Learn.Begin.com Brian on GitHub Heroku Linode Netlify CodePen Stackbit [\u2026]",
-            "creator": "ShopTalk",
-            "dc:creator": "ShopTalk",
-            "enclosure": {
-                "length": "50417667",
-                "type": "audio/mpeg",
-                "url": "https://shoptalkshow.com/podcast-download/3187/403.mp3"
-            },
-            "guid": "https://shoptalkshow.com/?p=3187",
-            "isoDate": "2020-03-16T18:23:03.000Z",
-            "itunes": {
-                "author": "ShopTalk",
-                "duration": "01:10:00",
-                "explicit": "clean",
-                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
-                "keywords": "aws,aws lambda,Rails",
-                "subtitle": "Show DescriptionBrian Leroux chats with us about building modern web apps using Begin and other cloud services like it including a deep dive on AWS Lambda. Listen on Website &#8594;GuestsBrian LeRouxGuests Main URL \u2022 Guests TwitterCofounder @begin, Hacki",
-                "summary": "Show DescriptionBrian Leroux chats with us about building modern web apps using Begin and other cloud services like it including a deep dive on AWS Lambda. Listen on Website &#8594;GuestsBrian LeRouxGuest's Main URL \u2022 Guest's TwitterCofounder @begin, Hacking on http://arc.codes, AWS serverless heros. Links Begin / Learn.Begin.com Brian on GitHub Heroku Linode Netlify CodePen Stackbit [&#8230;]"
-            },
-            "link": "https://shoptalkshow.com/403/",
-            "pubDate": "Mon, 16 Mar 2020 18:23:03 +0000",
-            "title": "403: Serverless Architecture at Begin with Brian Leroux"
-        },
-        {
-            "content": "Show DescriptionWe're talking the redesign of The ShopTalk Show website, including some of the issues and technical challenges we faced designing a podcast website for 2020. Listen on Website &#8594;Links Derek Featherstone Dave\u2019s GitHub TimeJump Logitech MX Master 3 VueConf ErgoDox Keyboards SponsorsWooCommerceIf you'd like to sell CBD products on your WordPress/WooCommerce site, you can! [&#8230;]",
-            "content:encoded": "Show DescriptionWe're talking the redesign of The ShopTalk Show website, including some of the issues and technical challenges we faced designing a podcast website for 2020. Listen on Website &#8594;Links Derek Featherstone Dave\u2019s GitHub TimeJump Logitech MX Master 3 VueConf ErgoDox Keyboards SponsorsWooCommerceIf you'd like to sell CBD products on your WordPress/WooCommerce site, you can! [&#8230;]",
-            "content:encodedSnippet": "Show DescriptionWe're talking the redesign of The ShopTalk Show website, including some of the issues and technical challenges we faced designing a podcast website for 2020. Listen on Website \u2192Links Derek Featherstone Dave\u2019s GitHub TimeJump Logitech MX Master 3 VueConf ErgoDox Keyboards SponsorsWooCommerceIf you'd like to sell CBD products on your WordPress/WooCommerce site, you can! [\u2026]",
-            "contentSnippet": "Show DescriptionWe're talking the redesign of The ShopTalk Show website, including some of the issues and technical challenges we faced designing a podcast website for 2020. Listen on Website \u2192Links Derek Featherstone Dave\u2019s GitHub TimeJump Logitech MX Master 3 VueConf ErgoDox Keyboards SponsorsWooCommerceIf you'd like to sell CBD products on your WordPress/WooCommerce site, you can! [\u2026]",
-            "creator": "ShopTalk",
-            "dc:creator": "ShopTalk",
-            "enclosure": {
-                "length": "49179227",
-                "type": "audio/mpeg",
-                "url": "https://shoptalkshow.com/podcast-download/3042/402.mp3"
-            },
-            "guid": "https://shoptalkshow.com/?p=3042",
-            "isoDate": "2020-03-09T15:24:29.000Z",
-            "itunes": {
-                "author": "ShopTalk",
-                "duration": "01:07:57",
-                "explicit": "clean",
-                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
-                "keywords": "ascii,website,Wordpress",
-                "subtitle": "Show DescriptionWere talking the redesign of The ShopTalk Show website, including some of the issues and technical challenges we faced designing a podcast website for 2020. Listen on Website &#8594;Links Derek Featherstone Dave\u2019s GitHub TimeJump Logitech",
-                "summary": "Show DescriptionWe're talking the redesign of The ShopTalk Show website, including some of the issues and technical challenges we faced designing a podcast website for 2020. Listen on Website &#8594;Links Derek Featherstone Dave\u2019s GitHub TimeJump Logitech MX Master 3 VueConf ErgoDox Keyboards SponsorsWooCommerceIf you'd like to sell CBD products on your WordPress/WooCommerce site, you can! [&#8230;]"
-            },
-            "link": "https://shoptalkshow.com/402/",
-            "pubDate": "Mon, 09 Mar 2020 15:24:29 +0000",
-            "title": "402: New Website!"
-        },
-        {
-            "content": "Show DescriptionWe're pontificating on foldable phones and what that means for the web, automating and finding things we like with RSS, talking about a new CodePen feature, and trying to figure out SEO. Listen on Website &#8594;Links Spanning CSS Polyfill NetNewsWire Feedbin Marvel Unlimited CSS Tricks: Pages for Likes Who you follow on CodePen Get [&#8230;]",
-            "content:encoded": "Show DescriptionWe're pontificating on foldable phones and what that means for the web, automating and finding things we like with RSS, talking about a new CodePen feature, and trying to figure out SEO. Listen on Website &#8594;Links Spanning CSS Polyfill NetNewsWire Feedbin Marvel Unlimited CSS Tricks: Pages for Likes Who you follow on CodePen Get [&#8230;]",
-            "content:encodedSnippet": "Show DescriptionWe're pontificating on foldable phones and what that means for the web, automating and finding things we like with RSS, talking about a new CodePen feature, and trying to figure out SEO. Listen on Website \u2192Links Spanning CSS Polyfill NetNewsWire Feedbin Marvel Unlimited CSS Tricks: Pages for Likes Who you follow on CodePen Get [\u2026]",
-            "contentSnippet": "Show DescriptionWe're pontificating on foldable phones and what that means for the web, automating and finding things we like with RSS, talking about a new CodePen feature, and trying to figure out SEO. Listen on Website \u2192Links Spanning CSS Polyfill NetNewsWire Feedbin Marvel Unlimited CSS Tricks: Pages for Likes Who you follow on CodePen Get [\u2026]",
-            "creator": "ShopTalk",
-            "dc:creator": "ShopTalk",
-            "enclosure": {
-                "length": "48481763",
-                "type": "audio/mpeg",
-                "url": "https://shoptalkshow.com/podcast-download/2869/401.mp3"
-            },
-            "guid": "https://shoptalkshow.com/?p=2869",
-            "isoDate": "2020-03-02T15:00:00.000Z",
-            "itunes": {
-                "author": "ShopTalk",
-                "duration": "01:06:22",
-                "explicit": "clean",
-                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
-                "keywords": "foldable phone,HTML,rss",
-                "subtitle": "Show DescriptionWere pontificating on foldable phones and what that means for the web, automating and finding things we like with RSS, talking about a new CodePen feature, and trying to figure out SEO. Listen on Website &#8594;Links Spanning CSS Polyfill",
-                "summary": "Show DescriptionWe're pontificating on foldable phones and what that means for the web, automating and finding things we like with RSS, talking about a new CodePen feature, and trying to figure out SEO. Listen on Website &#8594;Links Spanning CSS Polyfill NetNewsWire Feedbin Marvel Unlimited CSS Tricks: Pages for Likes Who you follow on CodePen Get [&#8230;]"
-            },
-            "link": "https://shoptalkshow.com/401/",
-            "pubDate": "Mon, 02 Mar 2020 15:00:00 +0000",
-            "title": "401: Dreaming About Foldable Phones, RSS, and SEO"
         }
     ],
     "itunes": {
@@ -2706,7 +2705,7 @@
         "summary": ""
     },
     "language": "en-US",
-    "lastBuildDate": "Mon, 07 Feb 2022 18:33:51 +0000",
+    "lastBuildDate": "Sat, 05 Mar 2022 16:05:20 +0000",
     "link": "https://shoptalkshow.com/",
     "paginationLinks": {
         "self": "https://shoptalkshow.com/feed/podcast"
