@@ -2,13 +2,66 @@
     "copyright": "\u00a9 2021 ShopTalk",
     "description": "A live podcast about front end web design and UX.",
     "feedUrl": "https://shoptalkshow.com/feed/podcast",
-    "generator": "https://wordpress.org/?v=5.9.1",
+    "generator": "https://wordpress.org/?v=5.9.2",
     "image": {
         "link": "https://shoptalkshow.com/",
         "title": "ShopTalk",
         "url": "https://shoptalkshow.com/wp-content/uploads/2021/02/artwork.png"
     },
     "items": [
+        {
+            "content": "We're talking Dave's 15m fix vs 30 day fix article, experiences with Prisma and Terraform, Edge becoming more popular than Safari, microbetting, and Kirby CMS.",
+            "content:encoded": "We're talking Dave's 15m fix vs 30 day fix article, experiences with Prisma and Terraform, Edge becoming more popular than Safari, microbetting, and Kirby CMS.",
+            "content:encodedSnippet": "We're talking Dave's 15m fix vs 30 day fix article, experiences with Prisma and Terraform, Edge becoming more popular than Safari, microbetting, and Kirby CMS.",
+            "contentSnippet": "We're talking Dave's 15m fix vs 30 day fix article, experiences with Prisma and Terraform, Edge becoming more popular than Safari, microbetting, and Kirby CMS.",
+            "creator": "ShopTalk",
+            "dc:creator": "ShopTalk",
+            "enclosure": {
+                "length": "34836465",
+                "type": "audio/mpeg",
+                "url": "https://shoptalkshow.com/podcast-download/5727/506.mp3"
+            },
+            "guid": "https://shoptalkshow.com/?p=5727",
+            "isoDate": "2022-03-14T10:30:46.000Z",
+            "itunes": {
+                "author": "ShopTalk",
+                "duration": "00:48:02",
+                "explicit": "clean",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2013/06/shoptalkcutouts.jpeg?fit=612%2C612&ssl=1",
+                "subtitle": "Were talking Daves 15m fix vs 30 day fix article, experiences with Prisma and Terraform, Edge becoming more popular than Safari, microbetting, and Kirby CMS.",
+                "summary": "We're talking Dave's 15m fix vs 30 day fix article, experiences with Prisma and Terraform, Edge becoming more popular than Safari, microbetting, and Kirby CMS."
+            },
+            "link": "https://shoptalkshow.com/506/",
+            "pubDate": "Mon, 14 Mar 2022 10:30:46 +0000",
+            "title": "506: 15m vs 30 Day Fix, Using Prisma, Infrastructure as Code, and Kirby CMS"
+        },
+        {
+            "content": "A bit of follow up from last episode on passing props, Node shipped fetch, intentional digital rot on the web, and how hard could it be to make CodePen a PWA?",
+            "content:encoded": "A bit of follow up from last episode on passing props, Node shipped fetch, intentional digital rot on the web, and how hard could it be to make CodePen a PWA?",
+            "content:encodedSnippet": "A bit of follow up from last episode on passing props, Node shipped fetch, intentional digital rot on the web, and how hard could it be to make CodePen a PWA?",
+            "contentSnippet": "A bit of follow up from last episode on passing props, Node shipped fetch, intentional digital rot on the web, and how hard could it be to make CodePen a PWA?",
+            "creator": "ShopTalk",
+            "dc:creator": "ShopTalk",
+            "enclosure": {
+                "length": "37825415",
+                "type": "audio/mpeg",
+                "url": "https://shoptalkshow.com/podcast-download/5703/505.mp3"
+            },
+            "guid": "https://shoptalkshow.com/?p=5703",
+            "isoDate": "2022-03-07T14:02:43.000Z",
+            "itunes": {
+                "author": "ShopTalk",
+                "duration": "00:52:11",
+                "explicit": "clean",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2020/05/chris-and-dave_otspfa.jpg?fit=1065%2C804&ssl=1",
+                "keywords": "jest,node,props,vr",
+                "subtitle": "A bit of follow up from last episode on passing props, Node shipped fetch, intentional digital rot on the web, and how hard could it be to make CodePen a PWA?",
+                "summary": "A bit of follow up from last episode on passing props, Node shipped fetch, intentional digital rot on the web, and how hard could it be to make CodePen a PWA?"
+            },
+            "link": "https://shoptalkshow.com/505/",
+            "pubDate": "Mon, 07 Mar 2022 14:02:43 +0000",
+            "title": "505: Passing Props, Node Shipped Fetch, Digital Rot, and Making CodePen a PWA?"
+        },
         {
             "content": "Jim Nielsen stops by to talk about blogging, writing a book on app icons, how he archives his part of the web, whether browsers are evergreen, future vs backwards proofing, color, and images on the web.",
             "content:encoded": "Jim Nielsen stops by to talk about blogging, writing a book on app icons, how he archives his part of the web, whether browsers are evergreen, future vs backwards proofing, color, and images on the web.",
@@ -2637,60 +2690,6 @@
             "link": "https://shoptalkshow.com/407/",
             "pubDate": "Mon, 06 Apr 2020 17:41:14 +0000",
             "title": "407: Building Browser Features with Brian Kardell"
-        },
-        {
-            "content": "Show DescriptionDivya Tagtachian stops by the ShopTalk studios to answer questions about Jamstack and Netlify. What's open authoring? Can a SPA be Jamstack? Can a site be too large for Jamstack? Is SSR the same thing as Jamstack? What's happening with WordPress and Jamstack? Listen on Website &#8594;GuestsDivya TagtachianGuest's Main URL \u2022 Guest's TwitterCurrently a [&#8230;]",
-            "content:encoded": "Show DescriptionDivya Tagtachian stops by the ShopTalk studios to answer questions about Jamstack and Netlify. What's open authoring? Can a SPA be Jamstack? Can a site be too large for Jamstack? Is SSR the same thing as Jamstack? What's happening with WordPress and Jamstack? Listen on Website &#8594;GuestsDivya TagtachianGuest's Main URL \u2022 Guest's TwitterCurrently a [&#8230;]",
-            "content:encodedSnippet": "Show DescriptionDivya Tagtachian stops by the ShopTalk studios to answer questions about Jamstack and Netlify. What's open authoring? Can a SPA be Jamstack? Can a site be too large for Jamstack? Is SSR the same thing as Jamstack? What's happening with WordPress and Jamstack? Listen on Website \u2192GuestsDivya TagtachianGuest's Main URL \u2022 Guest's TwitterCurrently a [\u2026]",
-            "contentSnippet": "Show DescriptionDivya Tagtachian stops by the ShopTalk studios to answer questions about Jamstack and Netlify. What's open authoring? Can a SPA be Jamstack? Can a site be too large for Jamstack? Is SSR the same thing as Jamstack? What's happening with WordPress and Jamstack? Listen on Website \u2192GuestsDivya TagtachianGuest's Main URL \u2022 Guest's TwitterCurrently a [\u2026]",
-            "creator": "ShopTalk",
-            "dc:creator": "ShopTalk",
-            "enclosure": {
-                "length": "43473339",
-                "type": "audio/mpeg",
-                "url": "https://shoptalkshow.com/podcast-download/3418/406.mp3"
-            },
-            "guid": "https://shoptalkshow.com/?p=3418",
-            "isoDate": "2020-03-30T14:00:00.000Z",
-            "itunes": {
-                "author": "ShopTalk",
-                "duration": "00:59:40",
-                "explicit": "clean",
-                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2020/03/divya.jpg?fit=400%2C400&ssl=1",
-                "keywords": "eleventy,jamstack,netlifiy,spa,ssr,Wordpress",
-                "subtitle": "Show DescriptionDivya Tagtachian stops by the ShopTalk studios to answer questions about Jamstack and Netlify. Whats open authoring? Can a SPA be Jamstack? Can a site be too large for Jamstack? Is SSR the same thing as Jamstack? Whats happening with Word",
-                "summary": "Show DescriptionDivya Tagtachian stops by the ShopTalk studios to answer questions about Jamstack and Netlify. What's open authoring? Can a SPA be Jamstack? Can a site be too large for Jamstack? Is SSR the same thing as Jamstack? What's happening with WordPress and Jamstack? Listen on Website &#8594;GuestsDivya TagtachianGuest's Main URL \u2022 Guest's TwitterCurrently a [&#8230;]"
-            },
-            "link": "https://shoptalkshow.com/406/",
-            "pubDate": "Mon, 30 Mar 2020 14:00:00 +0000",
-            "title": "406: Jamstack with Divya Tagtachian"
-        },
-        {
-            "content": "Show DescriptionSeneongo Akpem talks with us about his new book, Cross-Cultural Design, and how building websites for people all over the world and from different cultures can be done better. Listen on Website &#8594;Guests Senongo AkpemGuest's Main URL \u2022 Guest's TwitterA designer and creative director in New York City, with over 15 years experience delivering [&#8230;]",
-            "content:encoded": "Show DescriptionSeneongo Akpem talks with us about his new book, Cross-Cultural Design, and how building websites for people all over the world and from different cultures can be done better. Listen on Website &#8594;Guests Senongo AkpemGuest's Main URL \u2022 Guest's TwitterA designer and creative director in New York City, with over 15 years experience delivering [&#8230;]",
-            "content:encodedSnippet": "Show DescriptionSeneongo Akpem talks with us about his new book, Cross-Cultural Design, and how building websites for people all over the world and from different cultures can be done better. Listen on Website \u2192Guests Senongo AkpemGuest's Main URL \u2022 Guest's TwitterA designer and creative director in New York City, with over 15 years experience delivering [\u2026]",
-            "contentSnippet": "Show DescriptionSeneongo Akpem talks with us about his new book, Cross-Cultural Design, and how building websites for people all over the world and from different cultures can be done better. Listen on Website \u2192Guests Senongo AkpemGuest's Main URL \u2022 Guest's TwitterA designer and creative director in New York City, with over 15 years experience delivering [\u2026]",
-            "creator": "ShopTalk",
-            "dc:creator": "ShopTalk",
-            "enclosure": {
-                "length": "42784418",
-                "type": "audio/mpeg",
-                "url": "https://shoptalkshow.com/podcast-download/3392/405.mp3"
-            },
-            "guid": "https://shoptalkshow.com/?p=3392",
-            "isoDate": "2020-03-23T14:00:00.000Z",
-            "itunes": {
-                "author": "ShopTalk",
-                "duration": "00:58:54",
-                "explicit": "clean",
-                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
-                "keywords": "culture,Design",
-                "subtitle": "Show DescriptionSeneongo Akpem talks with us about his new book, Cross-Cultural Design, and how building websites for people all over the world and from different cultures can be done better. Listen on Website &#8594;Guests Senongo AkpemGuests Main URL \u2022",
-                "summary": "Show DescriptionSeneongo Akpem talks with us about his new book, Cross-Cultural Design, and how building websites for people all over the world and from different cultures can be done better. Listen on Website &#8594;Guests Senongo AkpemGuest's Main URL \u2022 Guest's TwitterA designer and creative director in New York City, with over 15 years experience delivering [&#8230;]"
-            },
-            "link": "https://shoptalkshow.com/405/",
-            "pubDate": "Mon, 23 Mar 2020 14:00:00 +0000",
-            "title": "405: Cross-Cultural Design with Senongo Akpem"
         }
     ],
     "itunes": {
@@ -2705,7 +2704,7 @@
         "summary": ""
     },
     "language": "en-US",
-    "lastBuildDate": "Sat, 05 Mar 2022 16:05:20 +0000",
+    "lastBuildDate": "Wed, 16 Mar 2022 00:39:29 +0000",
     "link": "https://shoptalkshow.com/",
     "paginationLinks": {
         "self": "https://shoptalkshow.com/feed/podcast"
