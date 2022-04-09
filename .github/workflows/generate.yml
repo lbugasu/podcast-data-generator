@@ -42,17 +42,18 @@ jobs:
           pip3 install -r requirements.txt
       - name: Build
         run: npm run build
-      - name: 'Download & Cache Stanford CoreNLP 🏋️'
-        run: |
-          wget -P tmp "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
-      - name: ' Cache🪨'
+      - name: 'Load Stanford Core NLP Cache🪨'
         uses: actions/cache@v2
         env:
           cache-name: core-nlp
         with:
           path: ~/.tmp/stanford-ner-2020-11-17
           key: ${{ runner.os }}-{{ hashFiles('**lockfiles') }}-stanford-core-nlp
+      - name: 'Download Stanford CoreNLP 🏋️'
+        run: |
+          wget -P tmp "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
+          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
+
 
   generate:
     needs: cache-artifacts
