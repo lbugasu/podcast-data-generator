@@ -2,13 +2,92 @@
     "copyright": "\u00a9 2021 ShopTalk",
     "description": "A live podcast about front end web design and UX.",
     "feedUrl": "https://shoptalkshow.com/feed/podcast",
-    "generator": "https://wordpress.org/?v=5.9.2",
+    "generator": "https://wordpress.org/?v=5.9.3",
     "image": {
         "link": "https://shoptalkshow.com/",
         "title": "ShopTalk",
         "url": "https://shoptalkshow.com/wp-content/uploads/2021/02/artwork.png"
     },
     "items": [
+        {
+            "content": "Dave might try no coffee, Safari inert follow-up, Dialog element, Safari Tech preview with subgrid, can we put JSX in the browser? React 18 has dropped. What about font streaming? Smashing Conf is coming to Austin, and Mexican travel tips with Chris.",
+            "content:encoded": "Dave might try no coffee, Safari inert follow-up, Dialog element, Safari Tech preview with subgrid, can we put JSX in the browser? React 18 has dropped. What about font streaming? Smashing Conf is coming to Austin, and Mexican travel tips with Chris.",
+            "content:encodedSnippet": "Dave might try no coffee, Safari inert follow-up, Dialog element, Safari Tech preview with subgrid, can we put JSX in the browser? React 18 has dropped. What about font streaming? Smashing Conf is coming to Austin, and Mexican travel tips with Chris.",
+            "contentSnippet": "Dave might try no coffee, Safari inert follow-up, Dialog element, Safari Tech preview with subgrid, can we put JSX in the browser? React 18 has dropped. What about font streaming? Smashing Conf is coming to Austin, and Mexican travel tips with Chris.",
+            "creator": "ShopTalk",
+            "dc:creator": "ShopTalk",
+            "enclosure": {
+                "length": "41093192",
+                "type": "audio/mpeg",
+                "url": "https://shoptalkshow.com/podcast-download/5781/509.mp3"
+            },
+            "guid": "https://shoptalkshow.com/?p=5781",
+            "isoDate": "2022-04-04T09:00:38.000Z",
+            "itunes": {
+                "author": "ShopTalk",
+                "duration": "00:56:43",
+                "explicit": "clean",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
+                "keywords": "Cloudflare,CSS,dialog,Mexico,Safari",
+                "subtitle": "Dave might try no coffee, Safari inert follow-up, Dialog element, Safari Tech preview with subgrid, can we put JSX in the browser? React 18 has dropped. What about font streaming? Smashing Conf is coming to Austin, and Mexican travel tips with Chris.",
+                "summary": "Dave might try no coffee, Safari inert follow-up, Dialog element, Safari Tech preview with subgrid, can we put JSX in the browser? React 18 has dropped. What about font streaming? Smashing Conf is coming to Austin, and Mexican travel tips with Chris."
+            },
+            "link": "https://shoptalkshow.com/509/",
+            "pubDate": "Mon, 04 Apr 2022 09:00:38 +0000",
+            "title": "509: No Coffee, Inert Follow-up, Dialog Element, JSX in the Browser, and Mexican Travel Tips with Chris"
+        },
+        {
+            "content": "Dave has questions about CSS Tricks sale to Digital Ocean, what's involved in selling a blog in 2022, the tech behind CSS Tricks, liberal coding to accept more than you anticipate, hidden attributes in HTML, and Inert in Safari 15.4.",
+            "content:encoded": "Dave has questions about CSS Tricks sale to Digital Ocean, what's involved in selling a blog in 2022, the tech behind CSS Tricks, liberal coding to accept more than you anticipate, hidden attributes in HTML, and Inert in Safari 15.4.",
+            "content:encodedSnippet": "Dave has questions about CSS Tricks sale to Digital Ocean, what's involved in selling a blog in 2022, the tech behind CSS Tricks, liberal coding to accept more than you anticipate, hidden attributes in HTML, and Inert in Safari 15.4.",
+            "contentSnippet": "Dave has questions about CSS Tricks sale to Digital Ocean, what's involved in selling a blog in 2022, the tech behind CSS Tricks, liberal coding to accept more than you anticipate, hidden attributes in HTML, and Inert in Safari 15.4.",
+            "creator": "ShopTalk",
+            "dc:creator": "ShopTalk",
+            "enclosure": {
+                "length": "40727807",
+                "type": "audio/mpeg",
+                "url": "https://shoptalkshow.com/podcast-download/5764/508.mp3"
+            },
+            "guid": "https://shoptalkshow.com/?p=5764",
+            "isoDate": "2022-03-28T16:02:50.000Z",
+            "itunes": {
+                "author": "ShopTalk",
+                "duration": "00:56:13",
+                "explicit": "clean",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2013/06/shoptalkcutouts.jpeg?fit=612%2C612&ssl=1",
+                "keywords": "Blogging,css tricks,Safari,selling",
+                "subtitle": "Dave has questions about CSS Tricks sale to Digital Ocean, whats involved in selling a blog in 2022, the tech behind CSS Tricks, liberal coding to accept more than you anticipate, hidden attributes in HTML, and Inert in Safari 15.4.",
+                "summary": "Dave has questions about CSS Tricks sale to Digital Ocean, what's involved in selling a blog in 2022, the tech behind CSS Tricks, liberal coding to accept more than you anticipate, hidden attributes in HTML, and Inert in Safari 15.4."
+            },
+            "link": "https://shoptalkshow.com/508/",
+            "pubDate": "Mon, 28 Mar 2022 16:02:50 +0000",
+            "title": "508: Sold Any Blogs Lately?"
+        },
+        {
+            "content": "Do you even metaverse? Dave's got GitHub issues, building in 3D for the web, and should you always write in plain text files?",
+            "content:encoded": "Do you even metaverse? Dave's got GitHub issues, building in 3D for the web, and should you always write in plain text files?",
+            "content:encodedSnippet": "Do you even metaverse? Dave's got GitHub issues, building in 3D for the web, and should you always write in plain text files?",
+            "contentSnippet": "Do you even metaverse? Dave's got GitHub issues, building in 3D for the web, and should you always write in plain text files?",
+            "creator": "ShopTalk",
+            "dc:creator": "ShopTalk",
+            "enclosure": {
+                "length": "40266779",
+                "type": "audio/mpeg",
+                "url": "https://shoptalkshow.com/podcast-download/5747/507.mp3"
+            },
+            "guid": "https://shoptalkshow.com/?p=5747",
+            "isoDate": "2022-03-21T09:00:39.000Z",
+            "itunes": {
+                "author": "ShopTalk",
+                "duration": "00:55:35",
+                "explicit": "clean",
+                "subtitle": "Do you even metaverse? Daves got GitHub issues, building in 3D for the web, and should you always write in plain text files?",
+                "summary": "Do you even metaverse? Dave's got GitHub issues, building in 3D for the web, and should you always write in plain text files?"
+            },
+            "link": "https://shoptalkshow.com/507/",
+            "pubDate": "Mon, 21 Mar 2022 09:00:39 +0000",
+            "title": "507: To Do Tree, TypeScript and JavaScript, RSS Favs, PWA-holes, and Sound Notifications"
+        },
         {
             "content": "We're talking Dave's 15m fix vs 30 day fix article, experiences with Prisma and Terraform, Edge becoming more popular than Safari, microbetting, and Kirby CMS.",
             "content:encoded": "We're talking Dave's 15m fix vs 30 day fix article, experiences with Prisma and Terraform, Edge becoming more popular than Safari, microbetting, and Kirby CMS.",
@@ -2609,87 +2688,6 @@
             "link": "https://shoptalkshow.com/410/",
             "pubDate": "Mon, 27 Apr 2020 15:00:00 +0000",
             "title": "410: Gulp with Blaine Bublitz"
-        },
-        {
-            "content": "Show DescriptionSuz Hinton stops by to talk about what it's like to work at Stripe, how businesses should consider storing billing data, her live stream coding journey, and building and coding digital devices like the Arduino. Listen on Website &#8594;GuestsSuz HintonGuest's Main URL \u2022 Guest's TwitterSoftware developer at Stripe, open source hardware + IoT, coding [&#8230;]",
-            "content:encoded": "Show DescriptionSuz Hinton stops by to talk about what it's like to work at Stripe, how businesses should consider storing billing data, her live stream coding journey, and building and coding digital devices like the Arduino. Listen on Website &#8594;GuestsSuz HintonGuest's Main URL \u2022 Guest's TwitterSoftware developer at Stripe, open source hardware + IoT, coding [&#8230;]",
-            "content:encodedSnippet": "Show DescriptionSuz Hinton stops by to talk about what it's like to work at Stripe, how businesses should consider storing billing data, her live stream coding journey, and building and coding digital devices like the Arduino. Listen on Website \u2192GuestsSuz HintonGuest's Main URL \u2022 Guest's TwitterSoftware developer at Stripe, open source hardware + IoT, coding [\u2026]",
-            "contentSnippet": "Show DescriptionSuz Hinton stops by to talk about what it's like to work at Stripe, how businesses should consider storing billing data, her live stream coding journey, and building and coding digital devices like the Arduino. Listen on Website \u2192GuestsSuz HintonGuest's Main URL \u2022 Guest's TwitterSoftware developer at Stripe, open source hardware + IoT, coding [\u2026]",
-            "creator": "ShopTalk",
-            "dc:creator": "ShopTalk",
-            "enclosure": {
-                "length": "38420020",
-                "type": "audio/mpeg",
-                "url": "https://shoptalkshow.com/podcast-download/3528/409.mp3"
-            },
-            "guid": "https://shoptalkshow.com/?p=3528",
-            "isoDate": "2020-04-20T14:00:00.000Z",
-            "itunes": {
-                "author": "ShopTalk",
-                "duration": "00:53:18",
-                "explicit": "clean",
-                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2020/04/Suz-Hinton.jpg?fit=400%2C400&ssl=1",
-                "keywords": "Arduino,Developers,live streaming,paypal,streaming,stripe,twitch",
-                "subtitle": "Show DescriptionSuz Hinton stops by to talk about what its like to work at Stripe, how businesses should consider storing billing data, her live stream coding journey, and building and coding digital devices like the Arduino. Listen on Website &#8594;Gue",
-                "summary": "Show DescriptionSuz Hinton stops by to talk about what it's like to work at Stripe, how businesses should consider storing billing data, her live stream coding journey, and building and coding digital devices like the Arduino. Listen on Website &#8594;GuestsSuz HintonGuest's Main URL \u2022 Guest's TwitterSoftware developer at Stripe, open source hardware + IoT, coding [&#8230;]"
-            },
-            "link": "https://shoptalkshow.com/409/",
-            "pubDate": "Mon, 20 Apr 2020 14:00:00 +0000",
-            "title": "409: Stripe & Streaming with Suz Hinton"
-        },
-        {
-            "content": "Show DescriptionMarc Grabanski is the CEO and UI Developer at Frontend Masters. He talks with us about what Frontend Masters is, who it's for, how they decide what to teach, what's coming up, and the question everyone asks: what do I learn next? Listen on Website &#8594;GuestsMarc GrabanskiGuest's Main URL \u2022 Guest's TwitterHelping developers gain [&#8230;]",
-            "content:encoded": "Show DescriptionMarc Grabanski is the CEO and UI Developer at Frontend Masters. He talks with us about what Frontend Masters is, who it's for, how they decide what to teach, what's coming up, and the question everyone asks: what do I learn next? Listen on Website &#8594;GuestsMarc GrabanskiGuest's Main URL \u2022 Guest's TwitterHelping developers gain [&#8230;]",
-            "content:encodedSnippet": "Show DescriptionMarc Grabanski is the CEO and UI Developer at Frontend Masters. He talks with us about what Frontend Masters is, who it's for, how they decide what to teach, what's coming up, and the question everyone asks: what do I learn next? Listen on Website \u2192GuestsMarc GrabanskiGuest's Main URL \u2022 Guest's TwitterHelping developers gain [\u2026]",
-            "contentSnippet": "Show DescriptionMarc Grabanski is the CEO and UI Developer at Frontend Masters. He talks with us about what Frontend Masters is, who it's for, how they decide what to teach, what's coming up, and the question everyone asks: what do I learn next? Listen on Website \u2192GuestsMarc GrabanskiGuest's Main URL \u2022 Guest's TwitterHelping developers gain [\u2026]",
-            "creator": "ShopTalk",
-            "dc:creator": "ShopTalk",
-            "enclosure": {
-                "length": "46423443",
-                "type": "audio/mpeg",
-                "url": "https://shoptalkshow.com/podcast-download/3496/408.mp3"
-            },
-            "guid": "https://shoptalkshow.com/?p=3496",
-            "isoDate": "2020-04-13T14:00:00.000Z",
-            "itunes": {
-                "author": "ShopTalk",
-                "duration": "01:03:56",
-                "explicit": "clean",
-                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2020/04/Marc-Grabanski.jpg?fit=400%2C400&ssl=1",
-                "keywords": "Education,frontend masters,learning",
-                "subtitle": "Show DescriptionMarc Grabanski is the CEO and UI Developer at Frontend Masters. He talks with us about what Frontend Masters is, who its for, how they decide what to teach, whats coming up, and the question everyone asks: what do I learn next? Listen on ",
-                "summary": "Show DescriptionMarc Grabanski is the CEO and UI Developer at Frontend Masters. He talks with us about what Frontend Masters is, who it's for, how they decide what to teach, what's coming up, and the question everyone asks: what do I learn next? Listen on Website &#8594;GuestsMarc GrabanskiGuest's Main URL \u2022 Guest's TwitterHelping developers gain [&#8230;]"
-            },
-            "link": "https://shoptalkshow.com/408/",
-            "pubDate": "Mon, 13 Apr 2020 14:00:00 +0000",
-            "title": "408: Frontend Masterery With Marc Grabanski"
-        },
-        {
-            "content": "Show DescriptionBrian Kardell talks with us about how new features get into browsers and the fun and challenging journey it takes to get there. Listen on Website &#8594;GuestsBrian KardellGuest's Main URL \u2022 Guest's TwitterDeveloper Advocate at Igalia &#124; Co-author Extensible Web Manifesto &#124; Standards Dude (Open JSF AC) Links ShopTalk Show 306: Debugging CSS with [&#8230;]",
-            "content:encoded": "Show DescriptionBrian Kardell talks with us about how new features get into browsers and the fun and challenging journey it takes to get there. Listen on Website &#8594;GuestsBrian KardellGuest's Main URL \u2022 Guest's TwitterDeveloper Advocate at Igalia &#124; Co-author Extensible Web Manifesto &#124; Standards Dude (Open JSF AC) Links ShopTalk Show 306: Debugging CSS with [&#8230;]",
-            "content:encodedSnippet": "Show DescriptionBrian Kardell talks with us about how new features get into browsers and the fun and challenging journey it takes to get there. Listen on Website \u2192GuestsBrian KardellGuest's Main URL \u2022 Guest's TwitterDeveloper Advocate at Igalia | Co-author Extensible Web Manifesto | Standards Dude (Open JSF AC) Links ShopTalk Show 306: Debugging CSS with [\u2026]",
-            "contentSnippet": "Show DescriptionBrian Kardell talks with us about how new features get into browsers and the fun and challenging journey it takes to get there. Listen on Website \u2192GuestsBrian KardellGuest's Main URL \u2022 Guest's TwitterDeveloper Advocate at Igalia | Co-author Extensible Web Manifesto | Standards Dude (Open JSF AC) Links ShopTalk Show 306: Debugging CSS with [\u2026]",
-            "creator": "ShopTalk",
-            "dc:creator": "ShopTalk",
-            "enclosure": {
-                "length": "45557524",
-                "type": "audio/mpeg",
-                "url": "https://shoptalkshow.com/podcast-download/3458/407.mp3"
-            },
-            "guid": "https://shoptalkshow.com/?p=3458",
-            "isoDate": "2020-04-06T17:41:14.000Z",
-            "itunes": {
-                "author": "ShopTalk",
-                "duration": "01:03:15",
-                "explicit": "clean",
-                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
-                "keywords": "browsers,container queries,CSS",
-                "subtitle": "Show DescriptionBrian Kardell talks with us about how new features get into browsers and the fun and challenging journey it takes to get there. Listen on Website &#8594;GuestsBrian KardellGuests Main URL \u2022 Guests TwitterDeveloper Advocate at Igalia &#124",
-                "summary": "Show DescriptionBrian Kardell talks with us about how new features get into browsers and the fun and challenging journey it takes to get there. Listen on Website &#8594;GuestsBrian KardellGuest's Main URL \u2022 Guest's TwitterDeveloper Advocate at Igalia &#124; Co-author Extensible Web Manifesto &#124; Standards Dude (Open JSF AC) Links ShopTalk Show 306: Debugging CSS with [&#8230;]"
-            },
-            "link": "https://shoptalkshow.com/407/",
-            "pubDate": "Mon, 06 Apr 2020 17:41:14 +0000",
-            "title": "407: Building Browser Features with Brian Kardell"
         }
     ],
     "itunes": {
@@ -2704,7 +2702,7 @@
         "summary": ""
     },
     "language": "en-US",
-    "lastBuildDate": "Wed, 16 Mar 2022 00:39:29 +0000",
+    "lastBuildDate": "Mon, 04 Apr 2022 09:00:38 +0000",
     "link": "https://shoptalkshow.com/",
     "paginationLinks": {
         "self": "https://shoptalkshow.com/feed/podcast"
