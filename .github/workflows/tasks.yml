@@ -235,7 +235,7 @@ jobs:
       - name: Process w/ Name Entity Recognition 🤖
         run: |
           mkdir temp/podcasts_palettes_ner-4
-          node --max-old-space-size=10240 out/lib/ner.js 276 345 4
+          node --max-old-space-size=10240 out/lib/ner.js 276 346 4
       - name: Cache Output of the Job
         id: podcasts_palettes_ner-4
         uses: actions/cache@v2
@@ -296,4 +296,4 @@ jobs:
           REPO: self
           BRANCH: release
           FOLDER: dist
-          GITHUB_TOKEN: ${{ secrets.POD_DATA_GEN }}
+          GITHUB_TOKEN: ${{ secrets.PODCAST_DATA_LAB }}
