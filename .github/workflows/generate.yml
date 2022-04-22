@@ -7,7 +7,7 @@ on:
 permissions: write-all
 
 jobs:
-  cache-artifacts:
+  generate-podcast-data:
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -36,39 +36,6 @@ jobs:
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
-      - name: Install Dependencies
-        run: |
-          npm install
-          pip3 install -r requirements.txt
-      - name: Build
-        run: npm run build
-      - name: 'Load Stanford Core NLP Cache🪨'
-        uses: actions/cache@v2
-        env:
-          cache-name: core-nlp
-        with:
-          path: ~/.tmp/stanford-ner-2020-11-17
-          key: ${{ runner.os }}-{{ hashFiles('**lockfiles') }}-stanford-core-nlp
-      - name: 'Download Stanford CoreNLP 🏋️'
-        run: |
-          wget -P tmp "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
-
-
-  generate:
-    needs: cache-artifacts
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [14.x]
-    steps:
-      - name: 'Checkout 🧞'
-        uses: actions/checkout@v2
-      - name: 'Download Stanford CoreNLP 🏋️'
-        if: steps.core-nlp.outputs.cache-hit != 'true'
-        run: |
-          wget -P tmp "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"
-          unzip tmp/stanford-ner-4.2.0.zip -d tmp/
       - name: 'Install npm dependencies 🪨'
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
