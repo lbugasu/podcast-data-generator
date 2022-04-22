@@ -1,5 +1,6 @@
 import path from 'path'
 import slug from 'slug'
+import fs from 'fs'
 
 import { findNamedEntities, getDataFromXMLString, getFile, getFilesInFolder, getRssFeedsFromOPML, PodcastFeedData, prepare, writeToFile } from './lib/helpers'
 import { Podcast } from './models'
@@ -8,6 +9,9 @@ const opmlFilePath = path.resolve(process.cwd(), './data/podcasts_opml.xml')
 
 async function downloadFeeds(): Promise<(PodcastFeedData | void)[]> {
   const feeds = await getRssFeedsFromOPML(opmlFilePath)
+  const rssUrls = feeds.map(({xmlUrl}) => xmlUrl).join('\n')
+  fs.writeFileSync(process.cwd() + 'dist/rssUrls.txt', rssUrls, 'utf8')
+
   const podcasts =  Promise.all(
     feeds.map(async (feed: any, i: number) => {
     console.log(`Downloading Feeds: ${ (((i+1)/feeds.length)*100).toFixed(2)}%`)

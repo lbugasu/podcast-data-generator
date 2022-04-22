@@ -21,6 +21,7 @@ steps:
       mkdir dist/.github
       mkdir dist/.github/workflows
       cp LICENSE.txt dist/LICENSE.txt
+      cp rssUrls.txt dist/rssUrls.txt
       cp ReadMe.md dist/ReadMe.md
       node out/lib/wrap-up.js
       cp -r podcasts dist/podcasts
