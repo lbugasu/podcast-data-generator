@@ -79,6 +79,7 @@ jobs:
         run : npx tsc
       - name: 'Prepare 🧑‍🍳'
         run: |
+          mkdir dist
           mkdir tmp/dist
           mkdir tmp/dist/podcasts
           mkdir tmp/dist/podcasts_palettes
@@ -91,21 +92,12 @@ jobs:
       - name: 'Generate Palette 🎨'
         run : |
           python3 scripts/generate.py
-          cp -r source dist
-          cp -r out/ dist/out
-          cp -r typings dist
-          cp -r scripts dist
           cp -r tmp/dist/podcasts_palettes dist/podcasts_palettes
-          cp tsconfig.json dist/tsconfig.json
-          cp package.json dist/package.json
-          cp package-lock.json dist/package-lock.json
           cp LICENSE.txt dist/LICENSE.txt
           cp docs/dataReadMe.md dist/ReadMe.md
-          cp docs/.gitignore dist/.gitignore
           mkdir dist/.github
           mkdir dist/.github/workflows
           cp scripts/templates/release.yml dist/.github/workflows/release.yml
-          cp tmp/tasks.yml dist/.github/workflows/tasks.yml
       - name: Verify Changed files 🐒
         uses: tj-actions/verify-changed-files@v8.3
         id: verify-changed-files
@@ -117,6 +109,6 @@ jobs:
         uses: s0/git-publish-subdir-action@develop
         env:
           REPO: self
-          BRANCH: dist
+          BRANCH: release
           FOLDER: dist
           GITHUB_TOKEN: ${{ secrets.POD_DATA_GEN }}

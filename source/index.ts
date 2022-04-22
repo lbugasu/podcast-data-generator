@@ -9,7 +9,7 @@ const opmlFilePath = path.resolve(process.cwd(), './data/podcasts_opml.xml')
 
 async function downloadFeeds(): Promise<(PodcastFeedData | void)[]> {
   const feeds = await getRssFeedsFromOPML(opmlFilePath)
-  const rssUrls = feeds.map(({xmlUrl}) => xmlUrl).join('\n')
+  const rssUrls = feeds.map(({xmlurl}) => xmlurl).join('\n')
   fs.writeFileSync(process.cwd() + '/dist/rssUrls.txt', rssUrls, 'utf8')
 
   const podcasts =  Promise.all(
