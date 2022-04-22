@@ -27,7 +27,8 @@ jobs:
           prerelease: true
           title: "Generate Assets"
           files: |
-            podcasts
+            podcasts_palettes
             ReadMe.md
             LICENSE.txt
+            rssUrls.txt
             
