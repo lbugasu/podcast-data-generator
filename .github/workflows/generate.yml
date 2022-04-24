@@ -80,3 +80,10 @@ jobs:
           BRANCH: release
           FOLDER: dist
           GITHUB_TOKEN: ${{ secrets.POD_DATA_GEN }}
+      - name: Generate named entities 🚀
+        uses: mvasigh/dispatch-action@main
+        with:
+          token: ${{ secrets.PODCAST_DATA_LAB }}
+          repo: entity-extraction
+          owner: podcast-data-lab
+          event_type: extract_named_entities
