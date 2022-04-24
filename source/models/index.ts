@@ -1,4 +1,4 @@
-import { Output } from "rss-parser";
+import { Output } from 'rss-parser'
 
 export type Podcast = {
   [key: string]: any
