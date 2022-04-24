@@ -48,6 +48,7 @@ jobs:
         run: |
           mkdir dist
           touch dist/rssUrls.txt
+          mkdir tmp
           mkdir tmp/dist
           touch tmp/dist/logs.md
           mkdir tmp/dist/podcasts
