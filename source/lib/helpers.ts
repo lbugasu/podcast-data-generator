@@ -1,10 +1,11 @@
 /* Imports */
 import fs from 'fs'
-import NerPromise, { Entity } from 'ner-promise'
 import { opmlToJSON } from 'opml-to-json'
 import Parser from 'rss-parser'
-import { Podcast } from './../models/index';
 import { EntityRecognizer } from 'core-nlp-ner';
+const fetch = require( 'node-fetch')
+import {Object as JSONObject} from 'json-typescript';
+import {parseString} from 'xml2js';
 
 const parser = new Parser()
 const nerParser = new EntityRecognizer({
@@ -39,11 +40,32 @@ async function findNamedEntities(text?: string): Promise<any> {
   else return {}
 }
 
-export type PodcastFeedData = {feed: Podcast, rssUrl: string}
+export type PodcastFeedData = {feed: {[index: string]: any}}
+/** 
+ * Returns the XML Data of the podcast feed
+ */
+async function getXMLTextData(url: string){
+  return fetch(url).then((res: any) => res.text())
+}
+
+async function parseXMLText(xmlString: string): Promise<JSONObject> {
+  return new Promise((resolve, reject) => {
+    parseString(xmlString, (err, result) => {
+      if (err) reject(err)
+      resolve(result)
+    })
+  })
+}
 
 async function getDataFromXMLString(rssUrl: string): Promise<PodcastFeedData> {
   const feed = await parseRssFeed(rssUrl)
-  return { feed: feed, rssUrl: rssUrl }
+  return { feed: feed}
+}
+
+async function getDataFromXMLString2(rssUrl: string): Promise<PodcastFeedData> {
+  const xmlString = await getXMLTextData(rssUrl)
+  const feed = await parseXMLText(xmlString)
+  return { feed: feed }
 }
 
 function prepare() {
@@ -68,7 +90,7 @@ function writeToFile(podcast: any, fileName?: string, folderName?: string,  tota
   const folder = process.cwd() + `\/tmp\/dist/${folderName}`
   try {
     fs.writeFileSync(`${folder}/${fileName}.json`, JSON.stringify(podcast, null, 4), 'utf8')
-    if(total) console.log(`done ${(total * 100).toFixed(2)}% - ${fileName}.json`)
+    if(total) console.log(`Written to ${fileName}.json ::: Progress ~ ${(total * 100).toFixed(2)}%`)
   } catch (error) {
     logError(podcast, error)
   }
@@ -83,4 +105,4 @@ export function getFile(filePath: string) {
   return fs.readFileSync(process.cwd() + `\/tmp\/dist/${filePath}`, 'utf8')
 }
 
-export { getRssFeedsFromOPML, findNamedEntities, getDataFromXMLString, writeToFile, prepare, parseRssXMLString, logError }
+export { getRssFeedsFromOPML, findNamedEntities, getDataFromXMLString, getDataFromXMLString2, writeToFile, prepare, parseRssXMLString, logError }

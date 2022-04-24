@@ -32,6 +32,7 @@
     "js-yaml": "^4.1.0",
     "lodash": "^4.17.21",
     "ncp": "^2.0.0",
+    "node-fetch": "^2.6.1",
     "opml-to-json": "^1.0.1",
     "path": "^0.12.7",
     "podcast-feed-parser": "^1.0.4",
@@ -39,15 +40,18 @@
     "rss-url-parser": "^2.2.2",
     "slug": "^5.1.0",
     "striptags": "^3.2.0",
-    "typescript": "^4.4.4"
+    "typescript": "^4.4.4",
+    "xml2js": "^0.4.23"
   },
   "devDependencies": {
     "@types/jest": "^27.0.2",
     "@types/node": "^16.11.7",
     "@types/slug": "^5.0.2",
+    "@types/xml2js": "^0.4.11",
     "concurrently": "^6.3.0",
     "eslint": "^8.2.0",
     "eslint-plugin-json": "^3.1.0",
+    "json-typescript": "^1.1.2",
     "nodemon": "^2.0.15",
     "prettier": "^2.4.1"
   }

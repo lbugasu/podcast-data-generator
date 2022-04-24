@@ -47,7 +47,9 @@ jobs:
       - name: 'Prepare 🧑‍🍳'
         run: |
           mkdir dist
+          touch dist/rssUrls.txt
           mkdir tmp/dist
+          touch tmp/dist/logs.md
           mkdir tmp/dist/podcasts
           mkdir tmp/dist/podcasts_palettes
           mkdir tmp/dist/.github

@@ -63,7 +63,7 @@ for index, podcastFile in enumerate(podcastFileNames):
       palette = generate_color_palette(podcast['image'])
     podcast['palette'] = palette
 
-    filepath = dist_directory + '/podcasts_palettes/' + podcast['title']+ '_with_palettes.json'
+    filepath = dist_directory + '/podcasts_palettes/' + podcastFile[:-5]+ '_with_palettes.json'
 
     with open(filepath,'w') as outputFile:
       outputFile.write(simplejson.dumps(podcast, indent=4, sort_keys=True))

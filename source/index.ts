@@ -2,25 +2,27 @@ import path from 'path'
 import slug from 'slug'
 import fs from 'fs'
 
-import { findNamedEntities, getDataFromXMLString, getFile, getFilesInFolder, getRssFeedsFromOPML, PodcastFeedData, prepare, writeToFile } from './lib/helpers'
-import { Podcast } from './models'
+import { getDataFromXMLString, getRssFeedsFromOPML, PodcastFeedData, prepare, writeToFile } from './lib/helpers'
 
 const opmlFilePath = path.resolve(process.cwd(), './data/podcasts_opml.xml')
 
 async function downloadFeeds(): Promise<(PodcastFeedData | void)[]> {
-  const feeds = await getRssFeedsFromOPML(opmlFilePath)
+  const feeds = await (await getRssFeedsFromOPML(opmlFilePath))
   const rssUrls = feeds.map(({xmlurl}) => xmlurl).join('\n')
   fs.writeFileSync(process.cwd() + '/dist/rssUrls.txt', rssUrls, 'utf8')
 
   const podcasts =  Promise.all(
     feeds.map(async (feed: any, i: number) => {
-    console.log(`Downloading Feeds: ${ (((i+1)/feeds.length)*100).toFixed(2)}%`)
       return getDataFromXMLString(feed.xmlurl)
         .catch((error: any) => {
           console.log(`error parsing rss feed- ${i}: `, error.message)
+        }).then(res=>{
+          console.log(`Downloaded Feed: ${feed.xmlurl}. ::: Progress ~ ${ (((i+1)/feeds.length)*100).toFixed(2)}%`)
+          return res
         })
     })
   )
+  // Remove undefined values
   return (await podcasts).filter((podcast: any) => podcast)
 }
 
@@ -36,7 +38,7 @@ const _pods = []
 function saveFeedsToFolder(podData: any[]) {
   podData.filter((pod) => !!pod).forEach((pod: PodcastFeedData, i) => {
     _pods.push(pod.feed)
-    writeToFile(pod.feed, slug(pod.rssUrl), 'podcasts', ((i+1)/podData.length))
+    writeToFile(pod.feed, slug(pod.feed.title), 'podcasts', ((i+1)/podData.length))
   })
   return Promise.resolve(true)
 }
