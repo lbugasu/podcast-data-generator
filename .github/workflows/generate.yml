@@ -92,11 +92,3 @@ jobs:
           BRANCH: release
           FOLDER: dist
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate named entities 🚀
-        uses: peter-evans/repository-dispatch@v2
-        with:
-          token: ${{ secrets.PODCAST_DATA_LAB }}
-          repository: podcast-data-lab/entity-extraction
-          event-type: extract_named_entities
-          client-payload: '{}'
