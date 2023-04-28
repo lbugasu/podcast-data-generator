@@ -5,7 +5,7 @@ strategy:
     node-version: [16.x]
 steps:
   - name: 'Checkout 🧞'
-    uses: actions/checkout@3
+    uses: actions/checkout@v3
   - name: 'Download & Cache Stanford CoreNLP 🏋️'
     run: |
       wget -P tmp "https://downloads.cs.stanford.edu/nlp/software/stanford-ner-4.2.0.zip"

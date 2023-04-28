@@ -5,7 +5,7 @@ permissions:
   actions: 'read'
 steps:
   - name: Checkout 🛎️
-    uses: actions/checkout@3
+    uses: actions/checkout@v3
   - name: Use Node v14
     uses: actions/setup-node@v2
     with:
