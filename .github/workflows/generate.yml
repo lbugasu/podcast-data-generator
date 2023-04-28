@@ -6,7 +6,7 @@ on:
   # Run on cron - every week
   schedule:
     - cron: "0 0 * * 0"
-    
+
 permissions: write-all
 
 jobs:
@@ -97,6 +97,6 @@ jobs:
         uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.PODCAST_DATA_LAB }}
-          repo: entity-extraction
-          owner: podcast-data-lab
-          event_type: extract_named_entities
+          repository: podcast-data-lab/entity-extraction
+          event-type: extract_named_entities
+          client-payload: '{}'
