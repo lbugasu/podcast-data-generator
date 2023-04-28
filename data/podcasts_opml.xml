@@ -1,377 +1,495 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <opml version="1.0">
-  <head>
-    <title>Pocket Casts Feeds</title>
-  </head>
-  <body>
-    <outline text="feeds">
-      <outline type="rss" text="Overheard at National Geographic" xmlUrl="https://feeds.megaphone.fm/ESP6921732651" />
-      <outline type="rss" text="Freakonomics Radio" xmlUrl="https://feeds.simplecast.com/Y8lFbOT4" />
-      <outline type="rss" text="The Lazarus Heist" xmlUrl="https://podcasts.files.bbci.co.uk/w13xtvg9.rss" />
-      <outline type="rss" text="Hidden Streams" xmlUrl="https://streamsofmercy.libsyn.com/rss" />
-      <outline type="rss" text="How to Survive the End of the World" xmlUrl="https://anchor.fm/s/1d2e26fc/podcast/rss" />
-      <outline type="rss" text="David Guzik - Enduring Word" xmlUrl="https://www.enduringword.com/guzik_podcast.xml" />
-      <outline type="rss" text="Curious Psalms" xmlUrl="https://anchor.fm/s/6162efec/podcast/rss" />
-      <outline type="rss" text="Revisionist History" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0d4cc74d-fff7-4b89-8818-ae32006cd7f0/podcast.rss" />
-      <outline type="rss" text="Sugar Calling" xmlUrl="https://feeds.simplecast.com/ifgXuqVs" />
-      <outline type="rss" text="Kind World" xmlUrl="https://rss.wbur.org/kindworld/podcast" />
-      <outline type="rss" text="Sway" xmlUrl="https://feeds.simplecast.com/l2i9YnTd" />
-      <outline type="rss" text="This Is Dating" xmlUrl="https://feed.thisisdatingpodcast.com" />
-      <outline type="rss" text="Backstage Pass with Eric Vetro" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/64dae79e-9e31-421a-a9c3-ae390037613b/c5d73fc3-180d-49a7-bf6d-ae3900376149/podcast.rss" />
-      <outline type="rss" text="The Chai" xmlUrl="https://www.spreaker.com/show/2888374/episodes/feed" />
-      <outline type="rss" text="Radiolab" xmlUrl="http://feeds.wnyc.org/radiolab" />
-      <outline type="rss" text="Solid Joys Daily Devotional" xmlUrl="https://feed.desiringgod.org/solid-joys-audio.rss" />
-      <outline type="rss" text="Bookable" xmlUrl="https://feeds.megaphone.fm/TPG9940084020" />
-      <outline type="rss" text="The Freakonomics Radio Book Club" xmlUrl="https://feeds.simplecast.com/KB3PwEoc" />
-      <outline type="rss" text="Kenyan Plug" xmlUrl="https://anchor.fm/s/3bd3424/podcast/rss" />
-      <outline type="rss" text="Unlocking Us with Brené Brown" xmlUrl="https://feeds.megaphone.fm/unlocking-us" />
-      <outline type="rss" text="Marketplace" xmlUrl="https://www.marketplace.org/feed/podcast/marketplace" />
-      <outline type="rss" text="Planet Money" xmlUrl="https://feeds.npr.org/510289/podcast.xml" />
-      <outline type="rss" text="Counter Programming with Shira &amp; Arielle" xmlUrl="https://feeds.buzzsprout.com/977527.rss" />
-      <outline type="rss" text="Rule Breaker Investing" xmlUrl="https://rulebreakerinvesting.libsyn.com/rss" />
-      <outline type="rss" text="Checking In" xmlUrl="https://feeds.megaphone.fm/self-checking-in" />
-      <outline type="rss" text="Nice White Parents" xmlUrl="https://feeds.simplecast.com/Z4wHC1c2" />
-      <outline type="rss" text="Motley Fool Money" xmlUrl="http://feeds2.feedburner.com/MotleyFoolMoney" />
-      <outline type="rss" text="Business Daily" xmlUrl="https://podcasts.files.bbci.co.uk/p002vsxs.rss" />
-      <outline type="rss" text="Moonrise" xmlUrl="https://podcast.posttv.com/itunes/moonrise.xml" />
-      <outline type="rss" text="The Allusionist" xmlUrl="https://www.omnycontent.com/d/playlist/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/e7e10a67-651c-4ddf-9c47-acb70155651d/podcast.rss" />
-      <outline type="rss" text="Gameplay" xmlUrl="https://feeds.lawson.media/gameplay/" />
-      <outline type="rss" text="Deeper Sounds Of Nairobi" xmlUrl="https://www.jackrooster.com/podcasts/podcast.xml" />
-      <outline type="rss" text="The Experiment" xmlUrl="http://feeds.wnyc.org/experiment_podcast" />
-      <outline type="rss" text="Never Before with Janet Mock" xmlUrl="http://feeds.megaphone.fm/never-before-janet-mock" />
-      <outline type="rss" text="The ReadME Podcast" xmlUrl="https://anchor.fm/s/5a87b0f4/podcast/rss" />
-      <outline type="rss" text="TED Talks Daily" xmlUrl="http://feeds.feedburner.com/TEDTalks_audio" />
-      <outline type="rss" text="Post Reports" xmlUrl="https://podcast.posttv.com/itunes/post-reports.xml" />
-      <outline type="rss" text="Amended" xmlUrl="https://feeds.megaphone.fm/amended" />
-      <outline type="rss" text="Daily Tech News Show" xmlUrl="http://feeds.feedburner.com/DailyTechNewsShow" />
-      <outline type="rss" text="Le goût de M" xmlUrl="https://feeds.acast.com/public/shows/303a9748-2276-4def-a045-243699bf8f94" />
-      <outline type="rss" text="Power of Why with Naomi Haile" xmlUrl="https://anchor.fm/s/8523534/podcast/rss" />
-      <outline type="rss" text="This Movie Changed Me" xmlUrl="https://feeds.simplecast.com/nULeSwXi" />
-      <outline type="rss" text="Modern Love" xmlUrl="https://feeds.simplecast.com/0N8Hs1MH" />
-      <outline type="rss" text="Founders Talk: Startups &amp; Leadership" xmlUrl="https://changelog.com/founderstalk/feed" />
-      <outline type="rss" text="Legally Clueless" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:606155154/sounds.rss" />
-      <outline type="rss" text="Asian Enough" xmlUrl="https://feeds.simplecast.com/YRufX83I" />
-      <outline type="rss" text="A History of Coffee" xmlUrl="https://www.spreaker.com/show/4789731/episodes/feed" />
-      <outline type="rss" text="The Porch" xmlUrl="https://media.watermark.org/podcasts/porch-audio.xml" />
-      <outline type="rss" text="The Story Collider" xmlUrl="https://feeds.megaphone.fm/PPY3354214689" />
-      <outline type="rss" text="The Stack Overflow Podcast" xmlUrl="https://stackoverflow.blog/podcasts/?feed=podcast" />
-      <outline type="rss" text="The Work in Progress Podcast" xmlUrl="https://feeds.transistor.fm/work-in-progress" />
-      <outline type="rss" text="Short Wave" xmlUrl="https://feeds.npr.org/510351/podcast.xml" />
-      <outline type="rss" text="Anything For Selena" xmlUrl="https://rss.wbur.org/anythingforselena/podcast" />
-      <outline type="rss" text="Once Upon a Time… In the Valley" xmlUrl="https://feeds.megaphone.fm/in-the-valley" />
-      <outline type="rss" text="Last Known Position" xmlUrl="https://feeds.megaphone.fm/QCD5848091261" />
-      <outline type="rss" text="The Mics Are Open" xmlUrl="https://anchor.fm/s/d5ebd7c/podcast/rss" />
-      <outline type="rss" text="The Book of Hebrews – Enduring Word Media Server" xmlUrl="http://feeds.feedburner.com/enduringword_hebrews" />
-      <outline type="rss" text="Rabbit Hole" xmlUrl="https://feeds.simplecast.com/oCXij9l2" />
-      <outline type="rss" text="Stitch Please" xmlUrl="https://feeds.simplecast.com/fBCx89Zx" />
-      <outline type="rss" text="As We Work" xmlUrl="https://video-api.wsj.com/podcast/rss/wsj/as-we-work?partner=itunes" />
-      <outline type="rss" text="Syntax - Tasty Web Development Treats" xmlUrl="https://feed.syntax.fm/rss" />
-      <outline type="rss" text="Stuff The British Stole" xmlUrl="https://rss.whooshkaa.com/rss/podcast/id/13435" />
-      <outline type="rss" text="Here Be Monsters" xmlUrl="https://www.hbmpodcast.com/podcast?format=rss" />
-      <outline type="rss" text="The Calling" xmlUrl="https://feeds.megaphone.fm/CHRTDY4335196340" />
-      <outline type="rss" text="Archives d'Afrique" xmlUrl="https://www.rfi.fr/fr/podcasts/archives-afrique/podcast" />
-      <outline type="rss" text="World's Greatest Con" xmlUrl="https://feeds.fireside.fm/worldsgreatestcon/rss" />
-      <outline type="rss" text="Cultures monde" xmlUrl="https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11701.xml" />
-      <outline type="rss" text="Articles of Interest" xmlUrl="http://feeds.99percentinvisible.org/articlesofinterestpodcast" />
-      <outline type="rss" text="Brainwashed" xmlUrl="https://www.cbc.ca/podcasting/includes/brainwashed.xml" />
-      <outline type="rss" text="CodeNewbie" xmlUrl="http://feeds.codenewbie.org/cnpodcast.xml" />
-      <outline type="rss" text="Transformation Church" xmlUrl="https://www.spreaker.com/show/4996262/episodes/feed" />
-      <outline type="rss" text="This American Life" xmlUrl="http://feed.thisamericanlife.org/talpodcast" />
-      <outline type="rss" text="Weekend" xmlUrl="https://www.theguardian.com/lifeandstyle/series/weekend/podcast.xml" />
-      <outline type="rss" text="The Moth" xmlUrl="http://feeds.feedburner.com/themothpodcast" />
-      <outline type="rss" text="In God We Lust" xmlUrl="https://rss.art19.com/in-god-we-lust" />
-      <outline type="rss" text="Wind of Change" xmlUrl="https://feeds.megaphone.fm/wind-of-change-wide" />
-      <outline type="rss" text="How to Build a Happy Life" xmlUrl="https://feeds.megaphone.fm/howto" />
-      <outline type="rss" text="The Stoop" xmlUrl="https://feed.thestoop.org/" />
-      <outline type="rss" text="Africa Daily" xmlUrl="https://podcasts.files.bbci.co.uk/p0925ydp.rss" />
-      <outline type="rss" text="Girl In Space" xmlUrl="https://girlinspace.libsyn.com/rss" />
-      <outline type="rss" text="Compass Fellowship Church" xmlUrl="https://feed.podbean.com/compassfellowshipchurch/feed.xml" />
-      <outline type="rss" text="Bite Size Biographies" xmlUrl="https://bitesizebiographies.com/feed/podcast/" />
-      <outline type="rss" text="Thirty Minutes with The Perrys" xmlUrl="https://feeds.simplecast.com/wZpv0WKy" />
-      <outline type="rss" text="On Being with Krista Tippett" xmlUrl="https://feeds.simplecast.com/AuAxH_Bf" />
-      <outline type="rss" text="The Open Ears Project" xmlUrl="http://feeds.wnyc.org/open-ears-project" />
-      <outline type="rss" text="The Comb" xmlUrl="https://podcasts.files.bbci.co.uk/w13xtv78.rss" />
-      <outline type="rss" text="The Assault on America" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/89638e73-4ece-4b92-a498-ae3c00026c70/185c74e1-30a9-4792-afc7-ae3c00026c7a/podcast.rss" />
-      <outline type="rss" text="Thinking Fellows" xmlUrl="https://thinkingfellows.libsyn.com/rss" />
-      <outline type="rss" text="Flights &amp; Feelings" xmlUrl="https://feeds.acast.com/public/shows/7230d9a6-ae9f-5c70-a785-07feff04e988" />
-      <outline type="rss" text="Secret Sauce" xmlUrl="https://rss.art19.com/secret-sauce" />
-      <outline type="rss" text="Ideas" xmlUrl="https://www.cbc.ca/podcasting/includes/ideas.xml" />
-      <outline type="rss" text="The Breakdown with Shaun King" xmlUrl="https://audioboom.com/channels/5030707.rss" />
-      <outline type="rss" text="The Journal." xmlUrl="https://video-api.wsj.com/podcast/rss/wsj/the-journal" />
-      <outline type="rss" text="Sideways" xmlUrl="https://podcasts.files.bbci.co.uk/m000s2kt.rss" />
-      <outline type="rss" text="Together Apart" xmlUrl="https://feeds.simplecast.com/_W7F21T0" />
-      <outline type="rss" text="It Was Said" xmlUrl="https://feeds.megaphone.fm/it-was-said" />
-      <outline type="rss" text="Jesus and Jollof" xmlUrl="https://feeds.simplecast.com/6RlM7SVZ" />
-      <outline type="rss" text="The Book of Jeremiah – Enduring Word Media Server" xmlUrl="http://feeds.feedburner.com/enduringword_jeremiah" />
-      <outline type="rss" text="So You Wanna Be President? with Chris Matthews" xmlUrl="https://podcastfeeds.nbcnews.com/so-you-wanna-be-president" />
-      <outline type="rss" text="Love and Radio" xmlUrl="http://feeds.feedburner.com/loveplusradio" />
-      <outline type="rss" text="For You Radio" xmlUrl="https://foryouradio.libsyn.com/rss" />
-      <outline type="rss" text="You Should Write A Book About That" xmlUrl="https://anchor.fm/s/cdf6c20/podcast/rss" />
-      <outline type="rss" text="Beautifully Spoken" xmlUrl="https://anchor.fm/s/4b4630c/podcast/rss" />
-      <outline type="rss" text="Young African Entrepreneur" xmlUrl="https://feed.podbean.com/victoriad/feed.xml" />
-      <outline type="rss" text="The Joy of Why" xmlUrl="https://api.quantamagazine.org/feed/the-joy-of-why" />
-      <outline type="rss" text="TGC Podcast" xmlUrl="https://feeds.simplecast.com/96_xs9dX" />
-      <outline type="rss" text="Quick to Listen" xmlUrl="https://feeds.megaphone.fm/CHRTDY4526201714" />
-      <outline type="rss" text="No Stupid Questions" xmlUrl="https://feeds.simplecast.com/dfh_verV" />
-      <outline type="rss" text="The Shadows" xmlUrl="https://www.cbc.ca/podcasting/includes/theshadows.xml" />
-      <outline type="rss" text="Wild Wild Tech" xmlUrl="https://feeds.megaphone.fm/wildwildtech" />
-      <outline type="rss" text="Web Rush" xmlUrl="https://feeds.simplecast.com/tOjNXec5" />
-      <outline type="rss" text="The Accidental Activist" xmlUrl="https://feeds.simplecast.com/Kl9WXhg1" />
-      <outline type="rss" text="No Country For Young Women" xmlUrl="https://podcasts.files.bbci.co.uk/p063zy3c.rss" />
-      <outline type="rss" text="The Take" xmlUrl="https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/09af2160-238f-48b2-b20b-ad4b00ebd8e7/b86dddc1-67a5-41c2-a13c-ad4b00ebd8f5/podcast.rss" />
-      <outline type="rss" text="RZIM: Let My People Think Broadcasts" xmlUrl="https://rzim.org/let-my-people-think-broadcasts/feed/" />
-      <outline type="rss" text="Poetry Unbound" xmlUrl="https://feeds.simplecast.com/p9JRgDEG" />
-      <outline type="rss" text="Invisibilia" xmlUrl="https://feeds.npr.org/510307/podcast.xml" />
-      <outline type="rss" text="Conversations" xmlUrl="http://www.abc.net.au/radio/programs/conversations/feed/7711104/podcast.xml" />
-      <outline type="rss" text="Modern Finance" xmlUrl="https://feeds.megaphone.fm/mofi" />
-      <outline type="rss" text="Red Web" xmlUrl="https://feeds.megaphone.fm/redweb" />
-      <outline type="rss" text="#GoodMuslimBadMuslim" xmlUrl="https://audioboom.com/channels/4050594.rss" />
-      <outline type="rss" text="Oprah’s Master Class: The Podcast" xmlUrl="https://feeds.simplecast.com/WEWHoI1o" />
-      <outline type="rss" text="Truth Be Told with Tonya Mosley" xmlUrl="https://feeds.megaphone.fm/KQINC6164199024" />
-      <outline type="rss" text="Oprahdemics" xmlUrl="https://podcast.oprahdemics.com" />
-      <outline type="rss" text="Boomtown" xmlUrl="https://feeds.megaphone.fm/boomtown" />
-      <outline type="rss" text="Welcome to LA" xmlUrl="https://www.kcrw.com/culture/shows/welcome-to-la/rss.xml" />
-      <outline type="rss" text="Newscast" xmlUrl="https://podcasts.files.bbci.co.uk/p05299nl.rss" />
-      <outline type="rss" text="HBR IdeaCast" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/ideacast" />
-      <outline type="rss" text="Ghost Church by Jamie Loftus" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/fc43d471-035b-486d-b97d-ae780151c077/podcast.rss" />
-      <outline type="rss" text="The Indicator from Planet Money" xmlUrl="https://feeds.npr.org/510325/podcast.xml" />
-      <outline type="rss" text="Command Line Heroes" xmlUrl="https://feeds.pacific-content.com/commandlineheroes" />
-      <outline type="rss" text="The Dispatch Podcast" xmlUrl="https://feeds.simplecast.com/aV4aDI05" />
-      <outline type="rss" text="Life with the Lindseys" xmlUrl="https://www.spreaker.com/show/4483509/episodes/feed" />
-      <outline type="rss" text="ShopTalk" xmlUrl="https://shoptalkshow.com/feed/podcast" />
-      <outline type="rss" text="WHOA That's Good Podcast" xmlUrl="https://feeds.megaphone.fm/LEW1514366617" />
-      <outline type="rss" text="They &amp; Us" xmlUrl="https://www.cbc.ca/podcasting/includes/theyus.xml" />
-      <outline type="rss" text="The Signal" xmlUrl="https://www.abc.net.au/radio/programs/abc-news-daily/feed/9443166/podcast.xml" />
-      <outline type="rss" text="The NFX Podcast" xmlUrl="https://feeds.simplecast.com/uSa3prhz" />
-      <outline type="rss" text="Dissect" xmlUrl="https://feeds.megaphone.fm/dissectwide" />
-      <outline type="rss" text="Book Dreams" xmlUrl="https://feeds.megaphone.fm/TPG7042109299" />
-      <outline type="rss" text="Growing up with gal-dem" xmlUrl="https://feeds.acast.com/public/shows/e5ebb613-16bc-4f66-b08f-208d1445e561" />
-      <outline type="rss" text="Commencement: Speeches For The Class of 2020" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/aa55b678-5a37-4994-990d-ae390045e3b2/9220f664-aed3-4629-9ec1-ae390045e3d2/podcast.rss" />
-      <outline type="rss" text="The Incomparable Radio Theater" xmlUrl="https://feeds.theincomparable.com/radio" />
-      <outline type="rss" text="StartUp Podcast" xmlUrl="http://feeds.hearstartup.com/hearstartup" />
-      <outline type="rss" text="Reply All" xmlUrl="https://feeds.megaphone.fm/replyall" />
-      <outline type="rss" text="Church of the City New York" xmlUrl="https://cotcnyc.libsyn.com/rss" />
-      <outline type="rss" text="Knowing Faith" xmlUrl="https://feeds.simplecast.com/V2lHo6VQ" />
-      <outline type="rss" text="Wireframe" xmlUrl="https://feeds.pacific-content.com/wireframe" />
-      <outline type="rss" text="The Inquiry" xmlUrl="https://podcasts.files.bbci.co.uk/p029399x.rss" />
-      <outline type="rss" text="Curveball" xmlUrl="https://feeds.megaphone.fm/curveball" />
-      <outline type="rss" text="Jesus Culture Podcast" xmlUrl="https://jesusculture.com/podcasts/jesus-culture-podcast/" />
-      <outline type="rss" text="Ship It! DevOps, Infra, Cloud Native" xmlUrl="https://changelog.com/shipit/feed" />
-      <outline type="rss" text="StoryCorps" xmlUrl="https://feeds.npr.org/510200/podcast.xml" />
-      <outline type="rss" text="You Must Remember This" xmlUrl="https://feeds.megaphone.fm/YMRT7068253588" />
-      <outline type="rss" text="Psalm 119 – Enduring Word Media Server" xmlUrl="http://feeds.feedburner.com/enduringword_psalm-119" />
-      <outline type="rss" text="After Hate" xmlUrl="https://www.afterhate.fr/feed/podcast" />
-      <outline type="rss" text="Doughboys" xmlUrl="https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/bb15eb7d-0e1d-4fe0-b333-ad8e00138f1d/5f63c2d0-6c12-4e4a-8457-ad8e00138f26/podcast.rss" />
-      <outline type="rss" text="Life Kit" xmlUrl="https://feeds.npr.org/510338/podcast.xml" />
-      <outline type="rss" text="Radiotopia Presents: Blind Guy Travels" xmlUrl="Http://feeds.radiotopia.fm/radiotopia-showcase" />
-      <outline type="rss" text="It's Been a Minute with Sam Sanders" xmlUrl="https://feeds.npr.org/510317/podcast.xml" />
-      <outline type="rss" text="Code Switch" xmlUrl="https://feeds.npr.org/510312/podcast.xml" />
-      <outline type="rss" text="Helga" xmlUrl="http://feeds.wqxr.org/wqxr-helga" />
-      <outline type="rss" text="The Argument" xmlUrl="https://feeds.simplecast.com/2xzUiHxw" />
-      <outline type="rss" text="Against the Rules with Michael Lewis" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f4e26994-3ddb-4ec7-b855-ae32006cd5de/ea4fae0c-3282-4cfd-b315-ae32006cd5ec/podcast.rss" />
-      <outline type="rss" text="Short Stuff" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/569ec03c-af6e-40b4-8b07-ae2e0154715a/fe768741-983b-452f-896f-ae2e01547168/podcast.rss" />
-      <outline type="rss" text="The Slowdown" xmlUrl="https://feeds.publicradio.org/public_feeds/the-slowdown/itunes/rss.rss" />
-      <outline type="rss" text="Waveform: The MKBHD Podcast" xmlUrl="https://feeds.megaphone.fm/STU4418364045" />
-      <outline type="rss" text="Barron's Streetwise" xmlUrl="https://video-api.barrons.com/podcast/rss/barrons/streetwise?partner=itunes" />
-      <outline type="rss" text="The 11th" xmlUrl="https://feeds.megaphone.fm/CAD7328326861" />
-      <outline type="rss" text="Today, Explained" xmlUrl="https://feeds.megaphone.fm/VMP5705694065" />
-      <outline type="rss" text="Sunstorm with Alicia Garza &amp; Ai-jen Poo" xmlUrl="https://rss.art19.com/sunstorm" />
-      <outline type="rss" text="One Click" xmlUrl="https://feeds.megaphone.fm/one-click" />
-      <outline type="rss" text="JS Party: JavaScript, CSS, Web Development" xmlUrl="https://changelog.com/jsparty/feed" />
-      <outline type="rss" text="Will Be Wild" xmlUrl="https://rss.art19.com/will-be-wild" />
-      <outline type="rss" text="Run, Bambi, Run" xmlUrl="https://rss.art19.com/run-bambi-run" />
-      <outline type="rss" text="EFF's How to Fix the Internet" xmlUrl="https://feeds.eff.org/howtofixtheinternet" />
-      <outline type="rss" text="The Michelle Obama Podcast" xmlUrl="https://feeds.megaphone.fm/tmopwide" />
-      <outline type="rss" text="Wording is Hard" xmlUrl="https://audioboom.com/channels/5022513.rss" />
-      <outline type="rss" text="Developer Tea" xmlUrl="https://feeds.simplecast.com/dLRotFGk" />
-      <outline type="rss" text="Up First" xmlUrl="https://feeds.npr.org/510318/podcast.xml" />
-      <outline type="rss" text="Sudhir Breaks the Internet" xmlUrl="https://feeds.simplecast.com/4BT6w4BF" />
-      <outline type="rss" text="90s Court" xmlUrl="https://anchor.fm/s/cdff3ac/podcast/rss" />
-      <outline type="rss" text="The Rise and Fall of Mars Hill" xmlUrl="https://feeds.megaphone.fm/riseandfall" />
-      <outline type="rss" text="Shipworm" xmlUrl="https://feeds.megaphone.fm/shipworm" />
-      <outline type="rss" text="The Angular Plus Show" xmlUrl="https://www.spreaker.com/show/4175221/episodes/feed" />
-      <outline type="rss" text="Me, Myself, and AI" xmlUrl="https://feeds.megaphone.fm/TPG7603691495" />
-      <outline type="rss" text="Cautionary Tales" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/podcast.rss" />
-      <outline type="rss" text="Mayim Bialik's Breakdown" xmlUrl="https://feeds.simplecast.com/nrh9UCNg" />
-      <outline type="rss" text="Fire Escape Cast" xmlUrl="https://www.spreaker.com/show/5008213/episodes/feed" />
-      <outline type="rss" text="Commonplace: Conversations with Poets (and Other People)" xmlUrl="https://www.commonpodcast.com/home?format=rss" />
-      <outline type="rss" text="The Passion Podcast" xmlUrl="https://feeds.simplecast.com/oXlUkqM2" />
-      <outline type="rss" text="Spectacular Failures" xmlUrl="https://feeds.publicradio.org/public_feeds/spectacular-failures/itunes/rss.rss" />
-      <outline type="rss" text="Family Style Theology" xmlUrl="https://familystyletheology.libsyn.com/rss" />
-      <outline type="rss" text="Passion City Church Podcast" xmlUrl="https://feeds.simplecast.com/qWywfxal" />
-      <outline type="rss" text="All Angular Podcasts by Devchat.tv" xmlUrl="https://feeds.feedwrench.com/AdventuresInAngular.rss" />
-      <outline type="rss" text="Timothy Keller Sermons Podcast by Gospel in Life" xmlUrl="https://podcast.gospelinlife.com/feed.xml" />
-      <outline type="rss" text="single-threaded: a software developer podcast" xmlUrl="https://anchor.fm/s/429f1e8c/podcast/rss" />
-      <outline type="rss" text="Weekend Edition Sunday" xmlUrl="http://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml" />
-      <outline type="rss" text="The Changelog: Software Dev &amp; Open Source" xmlUrl="https://changelog.com/podcast/feed" />
-      <outline type="rss" text="The Stuff of Life" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/167d921a-88fa-44b7-be25-ae320081d84f/f7737e73-4d14-4f69-aa64-ae320081d85d/podcast.rss" />
-      <outline type="rss" text="Ordinary Equality" xmlUrl="https://feeds.simplecast.com/4AugxpDY" />
-      <outline type="rss" text="What It Takes" xmlUrl="https://feeds.simplecast.com/f2A9Wes_" />
-      <outline type="rss" text="Reveal" xmlUrl="http://feeds.revealradio.org/revealpodcast" />
-      <outline type="rss" text="This Is Uncomfortable" xmlUrl="https://www.marketplace.org/feed/podcast/this-is-uncomfortable-reema-khrais" />
-      <outline type="rss" text="La Poudre" xmlUrl="https://anchor.fm/s/6a2cdc64/podcast/rss" />
-      <outline type="rss" text="The Bomb" xmlUrl="https://podcasts.files.bbci.co.uk/p08llv8n.rss" />
-      <outline type="rss" text="NPR Music" xmlUrl="https://podsync.net/EKTxJB4f8" />
-      <outline type="rss" text="The Happiness Lab with Dr. Laurie Santos" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/d623ef0b-3fee-4c26-b815-ae32006cd739/podcast.rss" />
-      <outline type="rss" text="Cultivated: A podcast about faith and work" xmlUrl="https://feeds.megaphone.fm/cultivated" />
-      <outline type="rss" text="Pleasure Studies" xmlUrl="https://feeds.acast.com/public/shows/6a906e42-17ac-45e6-a20e-e8c188c70a96" />
-      <outline type="rss" text="Literary Friction" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:47550828/sounds.rss" />
-      <outline type="rss" text="Blank Check with Griffin &amp; David" xmlUrl="https://audioboom.com/channels/4278829.rss" />
-      <outline type="rss" text="Pindrop" xmlUrl="https://feeds.feedburner.com/TED_Pindrop" />
-      <outline type="rss" text="Borderline Salty" xmlUrl="https://feeds.megaphone.fm/CAD5656987473" />
-      <outline type="rss" text="City Soundtracks" xmlUrl="http://feeds.megaphone.fm/citysoundtracks" />
-      <outline type="rss" text="This Day In Esoteric Political History" xmlUrl="https://thisday.feed.electionhistory.show/" />
-      <outline type="rss" text="Love Me" xmlUrl="https://www.cbc.ca/podcasting/includes/loveme.xml" />
-      <outline type="rss" text="The Carey Nieuwhof Leadership Podcast: Lead Like Never Before" xmlUrl="https://feeds.feedblitz.com/cnlpodcast" />
-      <outline type="rss" text="Gamechangers from The Economist" xmlUrl="https://rss.acast.com/gamechangers" />
-      <outline type="rss" text="Go Off, Sis" xmlUrl="https://feeds.acast.com/public/shows/712e2384-456b-5180-afea-491257585a5e" />
-      <outline type="rss" text="Space" xmlUrl="https://podcasts.files.bbci.co.uk/p03bv899.rss" />
-      <outline type="rss" text="Mood Ring" xmlUrl="https://feeds.publicradio.org/public_feeds/mood-ring/itunes/rss.rss" />
-      <outline type="rss" text="More or Less: Behind the Stats" xmlUrl="https://podcasts.files.bbci.co.uk/p02nrss1.rss" />
-      <outline type="rss" text="The Book of Ephesians – Enduring Word Media Server" xmlUrl="http://feeds.feedburner.com/enduringword_ephesians" />
-      <outline type="rss" text="Radio Motherboard" xmlUrl="https://feeds.acast.com/public/shows/a10fcc2c-a93b-449a-a211-94a799c8c618" />
-      <outline type="rss" text="Fresh Air" xmlUrl="https://feeds.npr.org/381444908/podcast.xml" />
-      <outline type="rss" text="How I Built This with Guy Raz" xmlUrl="https://rss.art19.com/how-i-built-this" />
-      <outline type="rss" text="The Book of Galatians – Enduring Word Media Server" xmlUrl="http://feeds.feedburner.com/enduringword_galatians" />
-      <outline type="rss" text="The Missionary" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/f7dd9252-9385-4e4a-ae7a-ae320081dd70/podcast.rss" />
-      <outline type="rss" text="Reckonings" xmlUrl="https://reckonings.libsyn.com/rss" />
-      <outline type="rss" text="The Shadow" xmlUrl="https://feeds.redcircle.com/356bacce-11f3-40e2-ba8f-2d493a541491" />
-      <outline type="rss" text="What's Your Problem?" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/32c25e85-1667-4acb-99fd-ae3c0021f33e/beacef48-19d2-4f52-b9e8-ae3c0021f347/podcast.rss" />
-      <outline type="rss" text="The Documentary Podcast" xmlUrl="https://podcasts.files.bbci.co.uk/p02nq0lx.rss" />
-      <outline type="rss" text="Digital Planet" xmlUrl="https://podcasts.files.bbci.co.uk/p002w6r2.rss" />
-      <outline type="rss" text="JavaScript Jabber" xmlUrl="https://feeds.feedwrench.com/js-jabber.rss" />
-      <outline type="rss" text="Modern Web" xmlUrl="https://modernweb.podbean.com/feed.xml" />
-      <outline type="rss" text="A Slight Change of Plans" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/d548f2c1-d522-4aa8-9ff3-ae3900375d41/podcast.rss" />
-      <outline type="rss" text="The Pineapple Project" xmlUrl="https://rss.whooshkaa.com/rss/podcast/id/13352" />
-      <outline type="rss" text="The Heart" xmlUrl="http://feeds.theheartradio.org/TheHeartRadio" />
-      <outline type="rss" text="Soft Skills Engineering" xmlUrl="https://softskills.audio/feed.xml" />
-      <outline type="rss" text="Radiolab Presents: More Perfect" xmlUrl="http://feeds.wnyc.org/moreperfect" />
-      <outline type="rss" text="From Now" xmlUrl="https://feeds.megaphone.fm/QCD7924418919" />
-      <outline type="rss" text="The Good News Podcast" xmlUrl="https://feeds.transistor.fm/the-good-news-podcast" />
-      <outline type="rss" text="Day X" xmlUrl="https://feeds.simplecast.com/YOHn4x_S" />
-      <outline type="rss" text="hey, girl." xmlUrl="https://feeds.megaphone.fm/heygirl" />
-      <outline type="rss" text="The WAN Show" xmlUrl="https://anchor.fm/s/3cbbb3b8/podcast/rss" />
-      <outline type="rss" text="Concordance des temps" xmlUrl="https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_16278.xml" />
-      <outline type="rss" text="The Missing Cryptoqueen" xmlUrl="https://podcasts.files.bbci.co.uk/p07nkd84.rss" />
-      <outline type="rss" text="React Podcast" xmlUrl="https://feeds.simplecast.com/JoR28o79" />
-      <outline type="rss" text="Deliver Us From Ervil" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/2c904ce8-4a15-453a-bde3-ae7d0114315f/podcast.rss" />
-      <outline type="rss" text="We Have the Receipts" xmlUrl="https://www.omnycontent.com/d/playlist/9b7dacdf-a925-4f95-84dc-ac46003451ff/8065bfd4-1e74-4f97-a2de-ae46001c9693/4dd49c72-1f7a-4554-9ebc-ae46001dfa93/podcast.rss" />
-      <outline type="rss" text="S-Town" xmlUrl="https://feeds.simplecast.com/CpvnpIaj" />
-      <outline type="rss" text="Balanced Black Girl" xmlUrl="https://feeds.redcircle.com/dbe6a9c1-8fa2-4356-ae8b-7178882ef918" />
-      <outline type="rss" text="Benjamen Walker's Theory of Everything" xmlUrl="http://feeds.prx.org/toe" />
-      <outline type="rss" text="Freely Given" xmlUrl="https://freelygiven.libsyn.com/rss" />
-      <outline type="rss" text="Life Kit: Health" xmlUrl="https://feeds.npr.org/510340/podcast.xml" />
-      <outline type="rss" text="music" xmlUrl="https://anchor.fm/s/fb9b798/podcast/rss" />
-      <outline type="rss" text="The Anthropocene Reviewed" xmlUrl="https://feeds.simplecast.com/p7S4nr_h" />
-      <outline type="rss" text="Throughline" xmlUrl="https://feeds.npr.org/510333/podcast.xml" />
-      <outline type="rss" text="Stuff You Should Know" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss" />
-      <outline type="rss" text="The Daily" xmlUrl="https://feeds.simplecast.com/54nAGcIl" />
-      <outline type="rss" text="Industry Focus" xmlUrl="https://wherethemoneyis.libsyn.com/rss" />
-      <outline type="rss" text="Wazi" xmlUrl="https://anchor.fm/s/2cb29e28/podcast/rss" />
-      <outline type="rss" text="What Happened to Sandy Beal" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/1e82a1b2-d538-4171-a90d-ae4b01034271/21f38b3a-e970-40c3-8170-ae4b0105a8ea/podcast.rss" />
-      <outline type="rss" text="Kuper Island" xmlUrl="https://www.cbc.ca/podcasting/includes/kuperisland.xml" />
-      <outline type="rss" text="COMPRESSEDfm" xmlUrl="https://feeds.simplecast.com/hq7M2S7s" />
-      <outline type="rss" text="There Are No Girls on the Internet" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/ad016d13-045e-48f3-9aa5-ae280172b27d/34cc8d15-19f1-45d8-a158-ae280172b294/podcast.rss" />
-      <outline type="rss" text="Table Manners with Jessie Ware" xmlUrl="https://feeds.acast.com/public/shows/4d1603d1-3c56-4f4d-a5b3-7611f87011a9" />
-      <outline type="rss" text="99% Invisible" xmlUrl="https://feeds.simplecast.com/BqbsxVfO" />
-      <outline type="rss" text="Making" xmlUrl="https://wbez-rss.streamguys1.com/making/making.xml" />
-      <outline type="rss" text="We Share The Same Sky" xmlUrl="https://podcast.sharethesamesky.com" />
-      <outline type="rss" text="WSJ What’s News" xmlUrl="https://video-api.wsj.com/podcast/rss/wsj/whats-news" />
-      <outline type="rss" text="Ochenta Stories" xmlUrl="https://www.spreaker.com/show/4339618/episodes/feed" />
-      <outline type="rss" text="Dear Sugars" xmlUrl="https://rss.wbur.org/dearsugar/podcast" />
-      <outline type="rss" text="Hidden Brain" xmlUrl="https://feeds.simplecast.com/kwWc0lhf" />
-      <outline type="rss" text="Serial" xmlUrl="https://feeds.simplecast.com/xl36XBC2" />
-      <outline type="rss" text="The Craft" xmlUrl="https://1517sthecraft.libsyn.com/rss" />
-      <outline type="rss" text="Foundering" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/eb445b2f-243f-4db6-9062-ae2b0012ff27/17082071-db1a-4132-8640-ae2b0012ff3a/podcast.rss" />
-      <outline type="rss" text="Chini ya Maji Media" xmlUrl="https://anchor.fm/s/7267abc/podcast/rss" />
-      <outline type="rss" text="All the Hacks" xmlUrl="https://feeds.simplecast.com/JDkMQxK_" />
-      <outline type="rss" text="DeepMind: The Podcast" xmlUrl="https://feeds.simplecast.com/JT6pbPkg" />
-      <outline type="rss" text="Get WIRED" xmlUrl="https://feeds.megaphone.fm/get-wired" />
-      <outline type="rss" text="Angular Rocks" xmlUrl="https://feeds.transistor.fm/angularrocks" />
-      <outline type="rss" text="Scamfluencers" xmlUrl="https://rss.art19.com/scamfluencers" />
-      <outline type="rss" text="Living and Effective" xmlUrl="https://feeds.megaphone.fm/CHRTDY4013563303" />
-      <outline type="rss" text="Let the Bird Fly!" xmlUrl="https://www.letthebirdfly.com/feed/podcast" />
-      <outline type="rss" text="Ufahamu Africa" xmlUrl="https://ufahamuafrica.com/category/podcast/feed/" />
-      <outline type="rss" text="Deep Reckonings" xmlUrl="https://feeds.transistor.fm/deep-reckonings" />
-      <outline type="rss" text="The Gift of Forgiveness" xmlUrl="https://feeds.simplecast.com/QfCqMOIZ" />
-      <outline type="rss" text="Angular Air" xmlUrl="https://anchor.fm/s/166001ec/podcast/rss" />
-      <outline type="rss" text="Source Material" xmlUrl="https://feeds.acast.com/public/shows/bde4ba03-94fd-432c-bd5f-800ae606cb91" />
-      <outline type="rss" text="Ten Percent Happier with Dan Harris" xmlUrl="https://rss.art19.com/ten-percent-happier" />
-      <outline type="rss" text="HEAL" xmlUrl="https://anchor.fm/s/43789b8/podcast/rss" />
-      <outline type="rss" text="Play Retro Show" xmlUrl="http://feeds.frogpants.com/playretro_feed.xml" />
-      <outline type="rss" text="Not Lost" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/52ba07f6-e223-4902-8468-ae77011f91e4/76573528-e53d-4235-901b-ae77011f91fc/podcast.rss" />
-      <outline type="rss" text="Dear HBR:" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/dear-hbr" />
-      <outline type="rss" text="Here’s the Deal" xmlUrl="https://feeds.buzzsprout.com/961768.rss" />
-      <outline type="rss" text="Crypto Island" xmlUrl="https://anchor.fm/s/8a05e74c/podcast/rss" />
-      <outline type="rss" text="Becoming Wise" xmlUrl="https://feeds.simplecast.com/SSxCiipC" />
-      <outline type="rss" text="Life.Church with Craig Groeschel" xmlUrl="https://feeds.simplecast.com/mnjhoO1E" />
-      <outline type="rss" text="White Lies" xmlUrl="https://feeds.npr.org/510343/podcast.xml" />
-      <outline type="rss" text="The Daily Show With Trevor Noah: Ears Edition" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e5e49f91-be9b-42f1-a426-ae3c00026e8b/04b51c34-8028-49a3-b42f-ae3c00026e95/podcast.rss" />
-      <outline type="rss" text="My Angular Story" xmlUrl="https://myangularstory.com/rss" />
-      <outline type="rss" text="Friday Night Comedy from BBC Radio 4" xmlUrl="https://podcasts.files.bbci.co.uk/p02pc9pj.rss" />
-      <outline type="rss" text="Death, Sex &amp; Money" xmlUrl="http://feeds.feedburner.com/deathsexmoney" />
-      <outline type="rss" text="The Trojan Horse Affair" xmlUrl="https://feeds.simplecast.com/B9KgArY4" />
-      <outline type="rss" text="The Wild with Chris Morgan" xmlUrl="http://www.kuow.org/feeds/podcasts/thewild/podcasts/rss.xml" />
-      <outline type="rss" text="This Sounds Serious" xmlUrl="https://feeds.simplecast.com/f4SRmbbd" />
-      <outline type="rss" text="The Hackers" xmlUrl="https://podcasts.files.bbci.co.uk/m0012fjk.rss" />
-      <outline type="rss" text="The NPR Politics Podcast" xmlUrl="https://feeds.npr.org/510310/podcast.xml" />
-      <outline type="rss" text="Blood River" xmlUrl="http://feeds.bloomberg.fm/BLM7858397708" />
-      <outline type="rss" text="The Passion Economy" xmlUrl="https://feeds.megaphone.fm/passioneconomy" />
-      <outline type="rss" text="Korean American Perspectives" xmlUrl="https://feed.podbean.com/councilka/feed.xml" />
-      <outline type="rss" text="Africa Today" xmlUrl="https://podcasts.files.bbci.co.uk/p02nrtyw.rss" />
-      <outline type="rss" text="The Art of Manliness" xmlUrl="https://feeds.simplecast.com/azy33G8_" />
-      <outline type="rss" text="Millennial" xmlUrl="http://feeds.millennialpodcast.org/millennialpodcast" />
-      <outline type="rss" text="Brain on Nature" xmlUrl="https://feeds.acast.com/public/shows/55711c80-a745-563d-aef5-249fb359f800" />
-      <outline type="rss" text="Changelog Master Feed" xmlUrl="https://changelog.com/master/feed" />
-      <outline type="rss" text="1619" xmlUrl="https://feeds.simplecast.com/6HzeyO6b" />
-      <outline type="rss" text="State of Ukraine" xmlUrl="https://feeds.npr.org/510366/podcast.xml" />
-      <outline type="rss" text="Surviving Nairobi" xmlUrl="https://anchor.fm/s/b5724b0/podcast/rss" />
-      <outline type="rss" text="Inside the Strategy Room" xmlUrl="https://podcasts.mckinsey.com/fp/insidethestrategyroom_itunes" />
-      <outline type="rss" text="Marketplace Tech" xmlUrl="https://www.marketplace.org/feed/podcast/marketplace-tech" />
-      <outline type="rss" text="The Afro Existing Podcast" xmlUrl="https://anchor.fm/s/1c6e5840/podcast/rss" />
-      <outline type="rss" text="Big Ideas" xmlUrl="https://www.abc.net.au/radionational/feed/2883098/podcast.xml" />
-      <outline type="rss" text="Lusus" xmlUrl="https://podcasts.files.bbci.co.uk/m00176y7.rss" />
-      <outline type="rss" text="Gospelbound" xmlUrl="https://feeds.simplecast.com/FSKZVjpz" />
-      <outline type="rss" text="Resettled" xmlUrl="https://feeds.megaphone.fm/resettled" />
-      <outline type="rss" text="StarTalk Radio" xmlUrl="https://feeds.simplecast.com/4T39_jAj" />
-      <outline type="rss" text="Learning Lots" xmlUrl="https://feeds.simplecast.com/KbFbigDM" />
-      <outline type="rss" text="Studio404" xmlUrl="https://feeds.acast.com/public/shows/a48d37f4-ed25-53ca-823f-303e2543b0f5" />
-      <outline type="rss" text="Unveiling Mercy" xmlUrl="https://unveilingmercy.libsyn.com/rss" />
-      <outline type="rss" text="Hit Parade | Music History and Music Trivia" xmlUrl="http://feeds.megaphone.fm/hitparade" />
-      <outline type="rss" text="Adventures in Angular" xmlUrl="https://adventuresinangular.com/rss" />
-      <outline type="rss" text="BibleProject" xmlUrl="https://feeds.simplecast.com/3NVmUWZO" />
-      <outline type="rss" text="Daigle Bites" xmlUrl="https://rss.art19.com/daigle-bites" />
-      <outline type="rss" text="How's Work? with Esther Perel" xmlUrl="https://feeds.megaphone.fm/ep-hw" />
-      <outline type="rss" text="Games and Feelings" xmlUrl="https://feeds.libsyn.com/413141/rss" />
-      <outline type="rss" text="CYBER" xmlUrl="https://feeds.acast.com/public/shows/6dab3ca4-41f5-4fd4-bba6-224ab53f5113" />
-      <outline type="rss" text="Ukrainecast" xmlUrl="https://podcasts.files.bbci.co.uk/p0bqztzm.rss" />
-      <outline type="rss" text="Elevation with Steven Furtick" xmlUrl="http://feeds.feedburner.com/ElevationChurchCharlotte" />
-      <outline type="rss" text="In Our Time" xmlUrl="https://podcasts.files.bbci.co.uk/b006qykl.rss" />
-      <outline type="rss" text="Advice For And From The Future" xmlUrl="https://feeds.megaphone.fm/advice4futureu" />
-      <outline type="rss" text="Creative Elements" xmlUrl="https://feeds.megaphone.fm/TPG4024225475" />
-      <outline type="rss" text="Today in Focus" xmlUrl="https://www.theguardian.com/news/series/todayinfocus/podcast.xml" />
-      <outline type="rss" text="TEDx SHORTS" xmlUrl="http://feeds.feedburner.com/TEDxSHORTS" />
-      <outline type="rss" text="Les odyssées" xmlUrl="https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20108.xml" />
-      <outline type="rss" text="Beyond Belief" xmlUrl="https://feeds.simplecast.com/6R92DCzQ" />
-      <outline type="rss" text="The Improvement Association" xmlUrl="https://feeds.simplecast.com/zG20qvRw" />
-      <outline type="rss" text="No Denying It" xmlUrl="https://news.un.org/feed/subscribe/en/audio-product/no-denying-it/audio-rss.xml?17Jan2022" />
-      <outline type="rss" text="Presidential" xmlUrl="http://podcast.posttv.com/itunes-5682a6c9e4b0d623714f2a3b.xml" />
-      <outline type="rss" text="This is Love" xmlUrl="https://feeds.megaphone.fm/VMP8871377602" />
-      <outline type="rss" text="Everything is Alive" xmlUrl="http://feeds.everythingisalive.com/everythingisalive" />
-      <outline type="rss" text="Julie: The Unwinding of the Miracle" xmlUrl="https://feeds.megaphone.fm/julie" />
-      <outline type="rss" text="Africa Past &amp; Present » Podcast Feed" xmlUrl="https://afripod.aodl.org/podcast.xml" />
-      <outline type="rss" text="Kiffe ta race" xmlUrl="https://feeds.acast.com/public/shows/c3ac5257-51e6-4ac7-8c55-16d8e61d4e4b" />
-      <outline type="rss" text="This Is Actually Happening" xmlUrl="https://rss.art19.com/this-is-actually-happening-podcast" />
-      <outline type="rss" text="TED Radio Hour" xmlUrl="https://feeds.npr.org/510298/podcast.xml" />
-      <outline type="rss" text="Where Should We Begin? with Esther Perel" xmlUrl="https://feeds.megaphone.fm/ep-wswb" />
-      <outline type="rss" text="Choses à Savoir" xmlUrl="https://feeds.megaphone.fm/FODL6708992465" />
-      <outline type="rss" text="Kenyan Girl Chronicles" xmlUrl="https://anchor.fm/s/1fa6f634/podcast/rss" />
-      <outline type="rss" text="Port of Entry" xmlUrl="https://feeds.kpbs.org/port-of-entry" />
-      <outline type="rss" text="NEXT STOP" xmlUrl="https://feeds.megaphone.fm/nextstop" />
-      <outline type="rss" text="Ask Pastor John" xmlUrl="https://feed.desiringgod.org/ask-pastor-john.rss" />
-      <outline type="rss" text="DevNews" xmlUrl="http://feeds.codenewbie.org/devnews_podcast.xml" />
-      <outline type="rss" text="Otherwise?" xmlUrl="https://otherwisepodcast.libsyn.com/rss" />
-      <outline type="rss" text="The Book of Isaiah – Enduring Word Media Server" xmlUrl="http://feeds.feedburner.com/enduringword_isaiah" />
-    </outline>
-  </body>
+	<head>
+		<title>Pocket Casts Feeds</title>
+	</head>
+	<body>
+		<outline text="feeds">
+			<outline type="rss" text="The Stack Overflow Podcast" xmlUrl="https://stackoverflow.blog/podcasts/?feed=podcast" />
+			<outline text="The Book of Isaiah – Enduring Word Media Server" type="rss" xmlUrl="https://feeds.feedburner.com/enduringword_isaiah" />
+			<outline xmlUrl="https://feed.syntax.fm/rss" type="rss" text="Syntax - Tasty Web Development Treats" />
+			<outline text="The Book of Jeremiah – Enduring Word Media Server" type="rss" xmlUrl="https://feeds.feedburner.com/enduringword_jeremiah" />
+			<outline text="Psalm 119 – Enduring Word Media Server" type="rss" xmlUrl="https://feeds.feedburner.com/enduringword_psalm-119" />
+			<outline xmlUrl="https://changelog.com/master/feed" type="rss" text="Changelog Master Feed" />
+			<outline xmlUrl="https://www.enduringword.com/guzik_podcast.xml" type="rss" text="David Guzik - Enduring Word" />
+			<outline xmlUrl="https://rss.art19.com/love-and-radio" text="Love and Radio" type="rss" />
+			<outline type="rss" xmlUrl="https://changelog.com/podcast/feed" text="The Changelog: Software Development, Open Source" />
+			<outline xmlUrl="https://laudebugs.github.io/jack-rooster-dson/dson.xml" type="rss" text="Deeper Sounds of Nairobi" />
+			<outline xmlUrl="https://feeds.feedburner.com/enduringword_hebrews" text="The Book of Hebrews – Enduring Word Media Server" type="rss" />
+			<outline type="rss" text="DevNews" xmlUrl="http://feeds.codenewbie.org/devnews_podcast.xml" />
+			<outline type="rss" xmlUrl="https://feeds.feedburner.com/enduringword_ephesians" text="The Book of Ephesians – Enduring Word Media Server" />
+			<outline type="rss" xmlUrl="https://rss.art19.com/the-secrets-hotline" text="The Secrets Hotline" />
+			<outline type="rss" text="JS Party: JavaScript, CSS, Web Development" xmlUrl="https://changelog.com/jsparty/feed" />
+			<outline xmlUrl="https://feeds.simplecast.com/AuAxH_Bf" type="rss" text="On Being with Krista Tippett" />
+			<outline xmlUrl="https://feeds.simplecast.com/dLRotFGk" type="rss" text="Developer Tea" />
+			<outline type="rss" xmlUrl="https://feeds.feedburner.com/enduringword_galatians" text="The Book of Galatians – Enduring Word Media Server" />
+			<outline xmlUrl="https://feeds.feedburner.com/enduringword_revelation" text="The Book of Revelation – Enduring Word Media Server" type="rss" />
+			<outline text="Love Me" xmlUrl="https://www.cbc.ca/podcasting/includes/loveme.xml" type="rss" />
+			<outline text="CodeNewbie" xmlUrl="http://feeds.codenewbie.org/cnpodcast.xml" type="rss" />
+			<outline xmlUrl="https://adventuresinangular.com/rss" text="Adventures in Angular" type="rss" />
+			<outline text="Modern Love" type="rss" xmlUrl="https://feeds.simplecast.com/0N8Hs1MH" />
+			<outline text="The Gospel of John – Enduring Word Media Server" type="rss" xmlUrl="https://feeds.feedburner.com/enduringword_john" />
+			<outline text="The Gospel of Matthew – Enduring Word Media Server" xmlUrl="https://feeds.feedburner.com/enduringword_matthew" type="rss" />
+			<outline xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/coaching-real-leaders" type="rss" text="Coaching Real Leaders" />
+			<outline type="rss" text="The Moth" xmlUrl="https://feeds.feedburner.com/themothpodcast" />
+			<outline type="rss" text="The Angular Plus Show" xmlUrl="https://www.spreaker.com/show/4175221/episodes/feed" />
+			<outline type="rss" text="Angular Rocks" xmlUrl="https://feeds.transistor.fm/angularrocks" />
+			<outline type="rss" text="The Gospel of Mark – Enduring Word Media Server" xmlUrl="https://feeds.feedburner.com/enduringword_mark" />
+			<outline type="rss" text="The NPR Politics Podcast" xmlUrl="https://feeds.npr.org/510310/podcast.xml" />
+			<outline type="rss" xmlUrl="https://softskills.audio/feed.xml" text="Soft Skills Engineering" />
+			<outline type="rss" text="The Book of Romans – Enduring Word Media Server" xmlUrl="https://feeds.feedburner.com/enduringword_romans" />
+			<outline xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0d4cc74d-fff7-4b89-8818-ae32006cd7f0/podcast.rss" type="rss" text="Revisionist History" />
+			<outline text="The Book of Judges – Enduring Word Media Server" xmlUrl="https://feeds.feedburner.com/enduringword_judges" type="rss" />
+			<outline type="rss" xmlUrl="https://topenddevs.com/podcasts/javascript-jabber/rss" text="JavaScript Jabber" />
+			<outline xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/167d921a-88fa-44b7-be25-ae320081d84f/f7737e73-4d14-4f69-aa64-ae320081d85d/podcast.rss" type="rss" text="The Stuff of Life" />
+			<outline type="rss" text="Surviving Nairobi" xmlUrl="https://anchor.fm/s/b5724b0/podcast/rss" />
+			<outline type="rss" text="Ship It! SRE, Platform Engineering, DevOps" xmlUrl="https://changelog.com/shipit/feed" />
+			<outline type="rss" xmlUrl="https://feeds.feedburner.com/enduringword_job" text="The Book of Job – Enduring Word Media Server" />
+			<outline type="rss" text="The Book of 1 Corinthians – Enduring Word Media Server" xmlUrl="https://feeds.feedburner.com/enduringword_1-corinthians" />
+			<outline type="rss" text="COMPRESSEDfm" xmlUrl="https://feeds.simplecast.com/hq7M2S7s" />
+			<outline text="#GoodMuslimBadMuslim" xmlUrl="https://audioboom.com/channels/4050594.rss" type="rss" />
+			<outline xmlUrl="https://feeds.feedburner.com/enduringword_luke" type="rss" text="The Gospel of Luke – Enduring Word Media Server" />
+			<outline xmlUrl="https://feeds.simplecast.com/JoR28o79" type="rss" text="React Podcast" />
+			<outline xmlUrl="https://cotcnyc.libsyn.com/rss" text="Church of the City New York" type="rss" />
+			<outline text="Invisibilia" type="rss" xmlUrl="https://feeds.npr.org/510307/podcast.xml" />
+			<outline xmlUrl="https://changelog.com/brainscience/feed" type="rss" text="Brain Science: Neuroscience, Behavior" />
+			<outline text="The Book of Ecclesiastes – Enduring Word Media Server" xmlUrl="https://feeds.feedburner.com/enduringword_ecclesiastes" type="rss" />
+			<outline text="Passion + Purpose Podcast" xmlUrl="https://feeds.simplecast.com/oXlUkqM2" type="rss" />
+			<outline xmlUrl="https://changelog.com/gotime/feed" type="rss" text="Go Time: Golang, Software Engineering" />
+			<outline type="rss" text="The Book of 1 Samuel – Enduring Word Media Server" xmlUrl="https://feeds.feedburner.com/enduringword_1-samuel" />
+			<outline type="rss" text="The Book of James – Enduring Word Media Server" xmlUrl="https://feeds.feedburner.com/enduringword_james" />
+			<outline xmlUrl="https://changelog.com/founderstalk/feed" text="Founders Talk: Startups, CEOs, Leadership" type="rss" />
+			<outline type="rss" text="The Shadows" xmlUrl="https://www.cbc.ca/podcasting/includes/theshadows.xml" />
+			<outline text="Against the Rules with Michael Lewis" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f4e26994-3ddb-4ec7-b855-ae32006cd5de/ea4fae0c-3282-4cfd-b315-ae32006cd5ec/podcast.rss" type="rss" />
+			<outline text="single-threaded: a software developer podcast" type="rss" xmlUrl="https://anchor.fm/s/429f1e8c/podcast/rss" />
+			<outline text="The Book of 2 Thessalonians – Enduring Word Media Server" type="rss" xmlUrl="https://feeds.feedburner.com/enduringword_2-thessalonians" />
+			<outline text="The Book of 2 Timothy – Enduring Word Media Server" type="rss" xmlUrl="https://feeds.feedburner.com/enduringword_2-timothy" />
+			<outline text="The Daily" type="rss" xmlUrl="https://feeds.simplecast.com/54nAGcIl" />
+			<outline text="Practical AI: Machine Learning, Data Science" xmlUrl="https://changelog.com/practicalai/feed" type="rss" />
+			<outline type="rss" text="The Book of Daniel – Enduring Word Media Server" xmlUrl="https://feeds.feedburner.com/enduringword_daniel" />
+			<outline type="rss" text="HTTP 203" xmlUrl="https://feeds.feedburner.com/Http203Podcast" />
+			<outline type="rss" text="Dear Sugars" xmlUrl="https://rss.wbur.org/dearsugar/podcast" />
+			<outline xmlUrl="https://feeds.megaphone.fm/dissectwide" type="rss" text="Dissect" />
+			<outline type="rss" text="The Book of Ruth – Enduring Word Media Server" xmlUrl="https://feeds.feedburner.com/enduringword_ruth" />
+			<outline xmlUrl="https://shoptalkshow.com/feed/podcast" type="rss" text="ShopTalk" />
+			<outline text="Full Stack Radio" type="rss" xmlUrl="https://feeds.transistor.fm/full-stack-radio" />
+			<outline xmlUrl="https://feeds.feedburner.com/enduringword_exodus" text="The Book of Exodus – Enduring Word Media Server" type="rss" />
+			<outline text="Hidden Brain" type="rss" xmlUrl="https://feeds.simplecast.com/kwWc0lhf" />
+			<outline xmlUrl="http://feeds.feedburner.com/moreperfect" type="rss" text="Radiolab Presents: More Perfect" />
+			<outline text="Jamstack Radio" type="rss" xmlUrl="https://www.heavybit.com/category/library/podcasts/jamstack-radio/feed/feed.rss" />
+			<outline type="rss" text="The Book of 2 Corinthians – Enduring Word Media Server" xmlUrl="https://feeds.feedburner.com/enduringword_2-corinthians" />
+			<outline text="FRICTION with Bob Sutton" xmlUrl="https://rss.art19.com/friction-with-bob-sutton" type="rss" />
+			<outline text="Timothy Keller Sermons Podcast by Gospel in Life" type="rss" xmlUrl="https://podcast.gospelinlife.com/feed.xml" />
+			<outline text="The Book of 1 John – Enduring Word Media Server" type="rss" xmlUrl="https://feeds.feedburner.com/enduringword_1-john" />
+			<outline text="Pleasure Studies" xmlUrl="https://feeds.acast.com/public/shows/6a906e42-17ac-45e6-a20e-e8c188c70a96" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.feedburner.com/enduringword_2-samuel" text="The Book of 2 Samuel – Enduring Word Media Server" />
+			<outline type="rss" text="Whiskey Web and Whatnot" xmlUrl="https://feeds.megaphone.fm/PODRYL5396410253" />
+			<outline text="Radiolab" xmlUrl="https://feeds.feedburner.com/radiolab" type="rss" />
+			<outline text="Front End Happy Hour" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:206137365/sounds.rss" />
+			<outline text="S-Town" xmlUrl="https://feeds.simplecast.com/CpvnpIaj" type="rss" />
+			<outline text="The Book of 2 Kings – Enduring Word Media Server" xmlUrl="http://feeds.feedburner.com/enduringword_2-kings" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.simplecast.com/xl36XBC2" text="Serial" />
+			<outline type="rss" text="The Song of Solomon – Enduring Word Media Server" xmlUrl="https://feeds.feedburner.com/enduringword_song_of_solomon" />
+			<outline type="rss" xmlUrl="https://feeds.feedburner.com/enduringword_1-kings" text="The Book of 1 Kings – Enduring Word Media Server" />
+			<outline xmlUrl="https://feeds.publicradio.org/public_feeds/spectacular-failures/itunes/rss.rss" type="rss" text="Spectacular Failures" />
+			<outline text="Stuff You Should Know" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss" type="rss" />
+			<outline text="The Book of Philippians – Enduring Word Media Server" xmlUrl="https://feeds.feedburner.com/enduringword_philippians" type="rss" />
+			<outline type="rss" text="TED Radio Hour" xmlUrl="https://feeds.npr.org/510298/podcast.xml" />
+			<outline xmlUrl="https://feeds.feedburner.com/enduringword_1-timothy" type="rss" text="The Book of 1 Timothy – Enduring Word Media Server" />
+			<outline xmlUrl="https://feeds.npr.org/510318/podcast.xml" text="Up First" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.feedburner.com/enduringword_acts" text="The Book of Acts – Enduring Word Media Server" />
+			<outline text="The Book of Philemon – Enduring Word Media Server" xmlUrl="https://feeds.feedburner.com/enduringword_philemon" type="rss" />
+			<outline type="rss" text="What It Takes" xmlUrl="https://feeds.simplecast.com/f2A9Wes_" />
+			<outline type="rss" xmlUrl="https://feeds.simplecast.com/BqbsxVfO" text="99% Invisible" />
+			<outline type="rss" xmlUrl="https://feeds.feedburner.com/enduringword_1-thessalonians" text="The Book of 1 Thessalonians – Enduring Word Media Server" />
+			<outline xmlUrl="https://www.omnycontent.com/d/playlist/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/e7e10a67-651c-4ddf-9c47-acb70155651d/podcast.rss" type="rss" text="The Allusionist" />
+			<outline xmlUrl="https://podcasts.files.bbci.co.uk/p02nq0lx.rss" text="The Documentary Podcast" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.simplecast.com/Y8lFbOT4" text="Freakonomics Radio" />
+			<outline text="Kind World" type="rss" xmlUrl="https://rss.wbur.org/kindworld/podcast" />
+			<outline type="rss" text="Reply All" xmlUrl="https://feeds.megaphone.fm/replyall" />
+			<outline type="rss" text="StarTalk Radio" xmlUrl="https://feeds.simplecast.com/4T39_jAj" />
+			<outline type="rss" text="This American Life" xmlUrl="http://feed.thisamericanlife.org/talpodcast" />
+			<outline xmlUrl="https://feeds.npr.org/510289/podcast.xml" type="rss" text="Planet Money" />
+			<outline xmlUrl="https://podcasts.files.bbci.co.uk/p03bv899.rss" type="rss" text="Space" />
+			<outline xmlUrl="https://feeds.simplecast.com/mnjhoO1E" text="Life.Church with Craig Groeschel" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.simplecast.com/96_xs9dX" text="TGC Podcast" />
+			<outline type="rss" text="Elevation with Steven Furtick" xmlUrl="https://anchor.fm/s/214425fc/podcast/rss" />
+			<outline text="Fresh Air" type="rss" xmlUrl="https://feeds.npr.org/381444908/podcast.xml" />
+			<outline type="rss" text="Unlocking Us with Brené Brown" xmlUrl="https://feeds.megaphone.fm/unlocking-us" />
+			<outline type="rss" text="HEAL" xmlUrl="https://anchor.fm/s/43789b8/podcast/rss" />
+			<outline text="Julie: The Unwinding of the Miracle" xmlUrl="https://feeds.megaphone.fm/julie" type="rss" />
+			<outline xmlUrl="https://feeds.publicradio.org/public_feeds/truth-be-told/rss/rss.rss" type="rss" text="Truth Be Told with Tonya Mosley" />
+			<outline type="rss" text="Africa Past &amp; Present » Afripod" xmlUrl="https://afripod.aodl.org/podcast.xml" />
+			<outline type="rss" text="Africa Today" xmlUrl="https://podcasts.files.bbci.co.uk/p02nrtyw.rss" />
+			<outline type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p029399x.rss" text="The Inquiry" />
+			<outline type="rss" xmlUrl="https://feeds.feedburner.com/everythingisalive" text="Everything is Alive" />
+			<outline type="rss" xmlUrl="http://feeds.millennialpodcast.org/millennialpodcast" text="Millennial" />
+			<outline type="rss" xmlUrl="https://feeds.feedburner.com/radiotopia-showcase" text="Radiotopia Presents: My Mother Made Me" />
+			<outline xmlUrl="https://feeds.megaphone.fm/VMP8871377602" type="rss" text="This is Love" />
+			<outline text="Never Before with Janet Mock" type="rss" xmlUrl="http://feeds.megaphone.fm/never-before-janet-mock" />
+			<outline type="rss" text="Ask Pastor John" xmlUrl="https://feed.desiringgod.org/ask-pastor-john.rss" />
+			<outline xmlUrl="https://feeds.simplecast.com/3NVmUWZO" type="rss" text="BibleProject" />
+			<outline text="Bookable" type="rss" xmlUrl="https://feeds.megaphone.fm/TPG9940084020" />
+			<outline type="rss" text="The Stoop" xmlUrl="https://feed.thestoop.org/" />
+			<outline xmlUrl="https://www.spreaker.com/show/4996262/episodes/feed" text="Transformation Church" type="rss" />
+			<outline xmlUrl="https://feeds.feedblitz.com/cnlpodcast" type="rss" text="The Carey Nieuwhof Leadership Podcast: Lead Like Never Before" />
+			<outline type="rss" text="Oprah’s Master Class: The Podcast" xmlUrl="https://feeds.simplecast.com/WEWHoI1o" />
+			<outline type="rss" text="The Indicator from Planet Money" xmlUrl="https://feeds.npr.org/510325/podcast.xml" />
+			<outline text="Becoming Wise" xmlUrl="https://feeds.simplecast.com/SSxCiipC" type="rss" />
+			<outline type="rss" text="The Heart" xmlUrl="http://feeds.theheartradio.org/TheHeartRadio" />
+			<outline type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/podcast.rss" text="Cautionary Tales with Tim Harford" />
+			<outline xmlUrl="https://rss.art19.com/sunstorm" text="Sunstorm with Alicia Garza &amp; Ai-jen Poo" type="rss" />
+			<outline text="In Our Time" xmlUrl="https://podcasts.files.bbci.co.uk/b006qykl.rss" type="rss" />
+			<outline xmlUrl="https://wbez-rss.streamguys1.com/making/making.xml" type="rss" text="Making" />
+			<outline xmlUrl="https://www.hbmpodcast.com/podcast?format=rss" type="rss" text="Here Be Monsters" />
+			<outline type="rss" xmlUrl="https://feeds.simplecast.com/6RlM7SVZ" text="Jesus and Jollof" />
+			<outline text="Jesus Culture Podcast" type="rss" xmlUrl="https://jesusculture.com/podcasts/jesus-culture-podcast/" />
+			<outline xmlUrl="https://feeds.simplecast.com/YRufX83I" type="rss" text="Asian Enough" />
+			<outline xmlUrl="https://feeds.simplecast.com/ifgXuqVs" text="Sugar Calling" type="rss" />
+			<outline type="rss" xmlUrl="https://anchor.fm/s/4b4630c/podcast/rss" text="Beautifully Spoken" />
+			<outline type="rss" text="Big Ideas" xmlUrl="https://www.abc.net.au/feeds/2883098/podcast.xml" />
+			<outline type="rss" text="StoryCorps" xmlUrl="https://feeds.npr.org/510200/podcast.xml" />
+			<outline text="How&apos;s Work? with Esther Perel" xmlUrl="https://feeds.megaphone.fm/ep-hw" type="rss" />
+			<outline text="Where Should We Begin? with Esther Perel" xmlUrl="https://feeds.megaphone.fm/ep-wswb" type="rss" />
+			<outline xmlUrl="https://feeds.simplecast.com/_W7F21T0" text="Together Apart" type="rss" />
+			<outline text="After Hate" xmlUrl="https://www.afterhate.fr/feed/podcast/" type="rss" />
+			<outline text="How I Built This with Guy Raz" xmlUrl="https://rss.art19.com/how-i-built-this" type="rss" />
+			<outline text="Kiffe ta race" type="rss" xmlUrl="https://feeds.acast.com/public/shows/c3ac5257-51e6-4ac7-8c55-16d8e61d4e4b" />
+			<outline xmlUrl="https://feeds.acast.com/public/shows/a48d37f4-ed25-53ca-823f-303e2543b0f5" type="rss" text="Studio404" />
+			<outline type="rss" xmlUrl="https://feeds.simplecast.com/azy33G8_" text="The Art of Manliness" />
+			<outline xmlUrl="https://feeds.npr.org/510340/podcast.xml" type="rss" text="Life Kit: Health" />
+			<outline type="rss" text="Moonrise" xmlUrl="https://podcast.posttv.com/itunes/moonrise.xml" />
+			<outline type="rss" text="NEXT STOP" xmlUrl="https://feeds.megaphone.fm/nextstop" />
+			<outline text="Rabbit Hole" xmlUrl="https://feeds.simplecast.com/oCXij9l2" type="rss" />
+			<outline text="The Happiness Lab with Dr. Laurie Santos" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/96c5c41e-0bc8-4661-b184-ae32006cd726/d623ef0b-3fee-4c26-b815-ae32006cd739/podcast.rss" type="rss" />
+			<outline xmlUrl="https://feeds.acast.com/public/shows/55711c80-a745-563d-aef5-249fb359f800" text="Brain on Nature" type="rss" />
+			<outline xmlUrl="https://feeds.acast.com/public/shows/63340d09e42f280013b81e2f" type="rss" text="Ochenta Stories" />
+			<outline text="Solid Joys Daily Devotional" xmlUrl="https://feed.desiringgod.org/solid-joys-audio.rss" type="rss" />
+			<outline text="Commencement: Speeches For The Class of 2021" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/aa55b678-5a37-4994-990d-ae390045e3b2/9220f664-aed3-4629-9ec1-ae390045e3d2/podcast.rss" type="rss" />
+			<outline text="1619" xmlUrl="https://feeds.simplecast.com/6HzeyO6b" type="rss" />
+			<outline type="rss" text="Wind of Change" xmlUrl="https://feeds.megaphone.fm/wind-of-change-wide" />
+			<outline type="rss" text="Articles of Interest" xmlUrl="http://feeds.99percentinvisible.org/articlesofinterestpodcast" />
+			<outline type="rss" text="The Anthropocene Reviewed" xmlUrl="https://feeds.simplecast.com/p7S4nr_h" />
+			<outline type="rss" text="Presidential" xmlUrl="http://podcast.posttv.com/itunes-5682a6c9e4b0d623714f2a3b.xml" />
+			<outline type="rss" text="So You Wanna Be President? with Chris Matthews" xmlUrl="https://podcastfeeds.nbcnews.com/so-you-wanna-be-president" />
+			<outline xmlUrl="https://feeds.feedburner.com/deathsexmoney" type="rss" text="Death, Sex &amp; Money" />
+			<outline type="rss" text="Cultures monde" xmlUrl="https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_11701.xml" />
+			<outline xmlUrl="https://feeds.megaphone.fm/FODL6708992465" type="rss" text="Choses à Savoir" />
+			<outline type="rss" xmlUrl="https://anchor.fm/s/6a2cdc64/podcast/rss" text="La Poudre" />
+			<outline type="rss" text="Wazi" xmlUrl="https://anchor.fm/s/2cb29e28/podcast/rss" />
+			<outline type="rss" text="Kenyan Plug" xmlUrl="https://anchor.fm/s/3bd3424/podcast/rss" />
+			<outline xmlUrl="https://feeds.acast.com/public/shows/303a9748-2276-4def-a045-243699bf8f94" type="rss" text="Le goût de M" />
+			<outline text="Les odyssées" xmlUrl="https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_20108.xml" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.feedburner.com/TEDxSHORTS" text="TEDx SHORTS" />
+			<outline type="rss" text="Otherwise?" xmlUrl="https://otherwisepodcast.libsyn.com/rss" />
+			<outline xmlUrl="http://feeds.revealradio.org/revealpodcast" text="Reveal" type="rss" />
+			<outline type="rss" text="Throughline" xmlUrl="https://feeds.npr.org/510333/podcast.xml" />
+			<outline xmlUrl="https://feeds.feedburner.com/TED_Pindrop" text="Far Flung with Saleem Reshamwala" type="rss" />
+			<outline xmlUrl="https://feeds.npr.org/510343/podcast.xml" text="White Lies" type="rss" />
+			<outline text="Ufahamu Africa" type="rss" xmlUrl="https://ufahamuafrica.com/category/podcast/feed/" />
+			<outline xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/569ec03c-af6e-40b4-8b07-ae2e0154715a/fe768741-983b-452f-896f-ae2e01547168/podcast.rss" type="rss" text="Short Stuff" />
+			<outline text="We Share The Same Sky" xmlUrl="https://podcast.sharethesamesky.com" type="rss" />
+			<outline xmlUrl="https://anchor.fm/s/7267abc/podcast/rss" type="rss" text="Chini ya Maji Media" />
+			<outline text="Young African Entrepreneur" xmlUrl="https://feed.podbean.com/victoriad/feed.xml" type="rss" />
+			<outline xmlUrl="https://feeds.acast.com/public/shows/712e2384-456b-5180-afea-491257585a5e" text="Go Off, Sis" type="rss" />
+			<outline xmlUrl="https://feeds.acast.com/public/shows/4d1603d1-3c56-4f4d-a5b3-7611f87011a9" type="rss" text="Table Manners with Jessie and Lennie Ware" />
+			<outline text="Dear HBR:" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/dear-hbr" type="rss" />
+			<outline type="rss" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/ideacast" text="HBR IdeaCast" />
+			<outline xmlUrl="https://feeds.feedburner.com/TEDTalks_audio" type="rss" text="TED Talks Daily" />
+			<outline type="rss" text="Waveform: The MKBHD Podcast" xmlUrl="https://feeds.megaphone.fm/STU4418364045" />
+			<outline text="Foundering" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/eb445b2f-243f-4db6-9062-ae2b0012ff27/17082071-db1a-4132-8640-ae2b0012ff3a/podcast.rss" />
+			<outline type="rss" xmlUrl="https://feeds.simplecast.com/nULeSwXi" text="This Movie Changed Me" />
+			<outline xmlUrl="https://feeds.npr.org/510351/podcast.xml" text="Short Wave" type="rss" />
+			<outline text="Boomtown" type="rss" xmlUrl="https://feeds.megaphone.fm/boomtown" />
+			<outline type="rss" text="The Pineapple Project" xmlUrl="https://rss.whooshkaa.com/rss/podcast/id/13352" />
+			<outline xmlUrl="https://feeds.kpbs.org/port-of-entry" type="rss" text="Port of Entry" />
+			<outline type="rss" text="Power of Why with Naomi Haile" xmlUrl="https://anchor.fm/s/8523534/podcast/rss" />
+			<outline xmlUrl="https://feeds.simplecast.com/f4SRmbbd" text="This Sounds Serious" type="rss" />
+			<outline type="rss" text="You Should Write A Book About That™" xmlUrl="https://api.substack.com/feed/podcast/1110617.rss" />
+			<outline text="90s Court" xmlUrl="https://anchor.fm/s/cdff3ac/podcast/rss" type="rss" />
+			<outline text="Counter Programming with Shira &amp; Arielle" type="rss" xmlUrl="https://feeds.buzzsprout.com/977527.rss" />
+			<outline text="The Missionary" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/f7dd9252-9385-4e4a-ae7a-ae320081dd70/podcast.rss" />
+			<outline type="rss" text="The Passion Economy" xmlUrl="https://feeds.megaphone.fm/passioneconomy" />
+			<outline type="rss" xmlUrl="https://rss.art19.com/ten-percent-happier" text="Ten Percent Happier with Dan Harris" />
+			<outline text="There Are No Girls on the Internet" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/ad016d13-045e-48f3-9aa5-ae280172b27d/34cc8d15-19f1-45d8-a158-ae280172b294/podcast.rss" type="rss" />
+			<outline xmlUrl="http://feeds.bloomberg.fm/BLM7858397708" type="rss" text="Blood River" />
+			<outline text="The Comb" xmlUrl="https://podcasts.files.bbci.co.uk/w13xtv78.rss" type="rss" />
+			<outline text="Helga" xmlUrl="http://feeds.wqxr.org/wqxr-helga" type="rss" />
+			<outline xmlUrl="https://feeds.feedburner.com/open-ears-project" type="rss" text="The Open Ears Project" />
+			<outline xmlUrl="https://rss.art19.com/this-is-actually-happening-podcast" type="rss" text="This Is Actually Happening" />
+			<outline type="rss" text="Get WIRED" xmlUrl="https://feeds.megaphone.fm/get-wired" />
+			<outline text="Poetry Unbound" type="rss" xmlUrl="https://feeds.simplecast.com/p9JRgDEG" />
+			<outline xmlUrl="https://feeds.simplecast.com/qWywfxal" type="rss" text="Passion City Church Podcast" />
+			<outline type="rss" text="They &amp; Us" xmlUrl="https://www.cbc.ca/podcasting/includes/theyus.xml" />
+			<outline text="Red Web" xmlUrl="https://feeds.megaphone.fm/redweb" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.pacific-content.com/wireframe" text="Wireframe" />
+			<outline xmlUrl="https://feeds.simplecast.com/Z4wHC1c2" type="rss" text="Nice White Parents" />
+			<outline xmlUrl="https://feeds.publicradio.org/public_feeds/the-slowdown/itunes/rss.rss" type="rss" text="The Slowdown" />
+			<outline type="rss" text="Benjamen Walker&apos;s Theory of Everything" xmlUrl="https://feeds.feedburner.com/TOE" />
+			<outline text="Kenyan Girl Chronicles" xmlUrl="https://anchor.fm/s/1fa6f634/podcast/rss" type="rss" />
+			<outline xmlUrl="https://feeds.megaphone.fm/wildwildtech" type="rss" text="Wild Wild Tech" />
+			<outline type="rss" xmlUrl="https://feeds.simplecast.com/dfh_verV" text="No Stupid Questions" />
+			<outline type="rss" text="Korean American Perspectives" xmlUrl="https://feed.podbean.com/councilka/feed.xml" />
+			<outline type="rss" xmlUrl="https://feeds.megaphone.fm/it-was-said" text="It Was Said" />
+			<outline type="rss" text="The Breakdown with Shaun King" xmlUrl="https://feeds.megaphone.fm/TNS4456449653" />
+			<outline type="rss" text="The Gift of Forgiveness" xmlUrl="https://feeds.simplecast.com/QfCqMOIZ" />
+			<outline text="Digital Planet" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p002w6r2.rss" />
+			<outline xmlUrl="https://www.cbc.ca/podcasting/includes/brainwashed.xml" text="Brainwashed" type="rss" />
+			<outline type="rss" text="The Michelle Obama Podcast" xmlUrl="https://feeds.megaphone.fm/tmopwide" />
+			<outline text="Sway" xmlUrl="https://feeds.simplecast.com/l2i9YnTd" type="rss" />
+			<outline xmlUrl="https://feeds.lawson.media/gameplay/" text="Gameplay" type="rss" />
+			<outline text="The Afro Existing Podcast" type="rss" xmlUrl="https://anchor.fm/s/1c6e5840/podcast/rss" />
+			<outline text="Thirty Minutes with The Perrys" type="rss" xmlUrl="https://feeds.simplecast.com/wZpv0WKy" />
+			<outline xmlUrl="https://www.omnycontent.com/d/playlist/fa326977-3de5-4283-9b8b-af3500c58607/15a0350e-9933-4ad3-b43a-af460017902d/f000c9fd-f69a-4ba0-8016-af460017903f/podcast.rss" text="Curveball" type="rss" />
+			<outline xmlUrl="https://feeds.eff.org/howtofixtheinternet" type="rss" text="How to Fix the Internet" />
+			<outline text="Stuff The British Stole" type="rss" xmlUrl="https://rss.whooshkaa.com/rss/podcast/id/13435" />
+			<outline type="rss" text="This Is Life with Heather &amp; Cornelius" xmlUrl="https://www.spreaker.com/show/4483509/episodes/feed" />
+			<outline type="rss" text="Anything For Selena" xmlUrl="https://rss.wbur.org/anythingforselena/podcast" />
+			<outline xmlUrl="https://feeds.npr.org/510338/podcast.xml" text="Life Kit" type="rss" />
+			<outline xmlUrl="https://podcast.posttv.com/itunes/post-reports.xml" type="rss" text="Post Reports" />
+			<outline type="rss" xmlUrl="https://video-api.wsj.com/podcast/rss/wsj/whats-news" text="WSJ What’s News" />
+			<outline xmlUrl="https://video-api.wsj.com/podcast/rss/wsj/the-journal" type="rss" text="The Journal." />
+			<outline text="From Now" type="rss" xmlUrl="https://feeds.megaphone.fm/QCD7924418919" />
+			<outline type="rss" text="Checking In" xmlUrl="https://feeds.megaphone.fm/self-checking-in" />
+			<outline type="rss" text="Mayim Bialik&apos;s Breakdown" xmlUrl="https://feeds.simplecast.com/nrh9UCNg" />
+			<outline type="rss" text="Africa Daily" xmlUrl="https://podcasts.files.bbci.co.uk/p0925ydp.rss" />
+			<outline xmlUrl="https://feeds.simplecast.com/FSKZVjpz" text="Gospelbound" type="rss" />
+			<outline type="rss" xmlUrl="https://www.marketplace.org/feed/podcast/marketplace" text="Marketplace" />
+			<outline text="How to Survive the End of the World" xmlUrl="https://anchor.fm/s/1d2e26fc/podcast/rss" type="rss" />
+			<outline xmlUrl="https://podcasts.files.bbci.co.uk/m000s2kt.rss" type="rss" text="Sideways" />
+			<outline type="rss" text="Modern Finance" xmlUrl="https://feeds.megaphone.fm/mofi" />
+			<outline text="The Dispatch Podcast" xmlUrl="https://feeds.megaphone.fm/DISPME9513417677" type="rss" />
+			<outline xmlUrl="https://1517sthecraft.libsyn.com/rss" text="The Craft" type="rss" />
+			<outline type="rss" text="Family Style Theology" xmlUrl="https://familystyletheology.libsyn.com/rss" />
+			<outline type="rss" text="For You Radio" xmlUrl="https://foryouradio.libsyn.com/rss" />
+			<outline xmlUrl="https://freelygiven.libsyn.com/rss" text="Freely Given" type="rss" />
+			<outline type="rss" text="Hidden Streams" xmlUrl="https://streamsofmercy.libsyn.com/rss" />
+			<outline type="rss" xmlUrl="https://www.letthebirdfly.com/feed/podcast" text="Let the Bird Fly!" />
+			<outline type="rss" text="Unveiling Mercy" xmlUrl="https://unveilingmercy.libsyn.com/rss" />
+			<outline xmlUrl="https://www.abc.net.au/feeds/9443166/podcast.xml" type="rss" text="ABC News Daily" />
+			<outline xmlUrl="https://feeds.feedburner.com/DailyTechNewsShow" type="rss" text="Daily Tech News Show" />
+			<outline text="In God We Lust" type="rss" xmlUrl="https://rss.art19.com/in-god-we-lust" />
+			<outline text="The Lazarus Heist" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/w13xtvg9.rss" />
+			<outline text="Ordinary Equality" xmlUrl="https://feeds.simplecast.com/4AugxpDY" type="rss" />
+			<outline text="Stitch Please" type="rss" xmlUrl="https://feeds.simplecast.com/fBCx89Zx" />
+			<outline type="rss" xmlUrl="https://anchor.fm/s/6162efec/podcast/rss" text="Curious Psalms" />
+			<outline type="rss" text="The Improvement Association" xmlUrl="https://feeds.simplecast.com/zG20qvRw" />
+			<outline type="rss" text="THE HEY GIRL PODCAST" xmlUrl="https://feeds.megaphone.fm/heygirl" />
+			<outline xmlUrl="https://feeds.megaphone.fm/shipworm" text="Shipworm" type="rss" />
+			<outline type="rss" xmlUrl="https://www.spreaker.com/show/5008213/episodes/feed" text="Fire Escape Cast" />
+			<outline text="Sudhir Breaks the Internet" xmlUrl="https://feeds.simplecast.com/4BT6w4BF" type="rss" />
+			<outline type="rss" text="The WAN Show" xmlUrl="https://anchor.fm/s/3cbbb3b8/podcast/rss" />
+			<outline xmlUrl="https://feeds.simplecast.com/tOjNXec5" type="rss" text="Web Rush" />
+			<outline xmlUrl="https://feed.podbean.com/modernweb/feed.xml" type="rss" text="Modern Web" />
+			<outline text="Deep Reckonings" xmlUrl="https://feeds.transistor.fm/deep-reckonings" type="rss" />
+			<outline text="Reckonings" type="rss" xmlUrl="https://reckonings.libsyn.com/rss" />
+			<outline text="A Slight Change of Plans" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/d548f2c1-d522-4aa8-9ff3-ae3900375d41/podcast.rss" type="rss" />
+			<outline text="All the Hacks" xmlUrl="https://feeds.megaphone.fm/ATHLLC4474951365" type="rss" />
+			<outline xmlUrl="https://feeds.simplecast.com/YOHn4x_S" text="Day X" type="rss" />
+			<outline xmlUrl="https://feeds.theincomparable.com/radio" text="The Incomparable Radio Theater" type="rss" />
+			<outline type="rss" text="One Click" xmlUrl="https://feeds.acast.com/public/shows/62f65f3ee0eb6500158a6320" />
+			<outline type="rss" text="CYBER" xmlUrl="https://feeds.acast.com/public/shows/6dab3ca4-41f5-4fd4-bba6-224ab53f5113" />
+			<outline type="rss" xmlUrl="https://feeds.acast.com/public/shows/a10fcc2c-a93b-449a-a211-94a799c8c618" text="Radio Motherboard" />
+			<outline type="rss" text="The Freakonomics Radio Book Club" xmlUrl="https://feeds.simplecast.com/KB3PwEoc" />
+			<outline type="rss" xmlUrl="https://rulebreakerinvesting.libsyn.com/rss" text="Rule Breaker Investing" />
+			<outline text="Gamechangers from The Economist" type="rss" xmlUrl="https://feeds.acast.com/public/shows/bb7c5a84-b3ab-4912-950b-ded7a7f6fc17" />
+			<outline xmlUrl="https://feeds.simplecast.com/ioCY0vfY" type="rss" text="The ReadME Podcast" />
+			<outline xmlUrl="https://video-api.barrons.com/podcast/rss/barrons/streetwise?partner=itunes" type="rss" text="Barron&apos;s Streetwise" />
+			<outline text="The Take" xmlUrl="https://www.omnycontent.com/d/playlist/9c074afa-3313-47e8-b802-a9f900789975/09af2160-238f-48b2-b20b-ad4b00ebd8e7/b86dddc1-67a5-41c2-a13c-ad4b00ebd8f5/podcast.rss" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.simplecast.com/2xzUiHxw" text="The Argument" />
+			<outline type="rss" text="The Good News Podcast" xmlUrl="https://feeds.transistor.fm/the-good-news-podcast" />
+			<outline xmlUrl="https://feeds.megaphone.fm/CHRTDY4335196340" text="The Calling" type="rss" />
+			<outline xmlUrl="https://feeds.megaphone.fm/cultivated" text="Cultivated: A podcast about faith and work" type="rss" />
+			<outline xmlUrl="https://feeds.megaphone.fm/CHRTDY4013563303" text="Living and Effective" type="rss" />
+			<outline xmlUrl="https://feeds.megaphone.fm/riseandfall" text="The Rise and Fall of Mars Hill" type="rss" />
+			<outline type="rss" text="Quick to Listen" xmlUrl="https://feeds.megaphone.fm/CHRTDY4526201714" />
+			<outline type="rss" text="Inside the Strategy Room" xmlUrl="https://www.omnycontent.com/d/playlist/708664bd-6843-4623-8066-aede00ce0c8a/a7ee33f2-d500-4226-b99c-af04013945d6/36587f70-89f9-4631-ac19-af04013945e0/podcast.rss" />
+			<outline type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p02nrss1.rss" text="More or Less: Behind the Stats" />
+			<outline type="rss" text="Newscast" xmlUrl="https://podcasts.files.bbci.co.uk/p05299nl.rss" />
+			<outline xmlUrl="https://www.theguardian.com/news/series/todayinfocus/podcast.xml" text="Today in Focus" type="rss" />
+			<outline xmlUrl="https://feeds.megaphone.fm/CAD7328326861" type="rss" text="The 11th" />
+			<outline text="Overheard at National Geographic" xmlUrl="https://feeds.megaphone.fm/ESP6921732651" type="rss" />
+			<outline xmlUrl="https://www.marketplace.org/feed/podcast/this-is-uncomfortable-reema-khrais" type="rss" text="This Is Uncomfortable" />
+			<outline xmlUrl="http://feeds.megaphone.fm/hitparade" type="rss" text="Hit Parade | Music History and Music Trivia" />
+			<outline text="The Assault on America" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/89638e73-4ece-4b92-a498-ae3c00026c70/185c74e1-30a9-4792-afc7-ae3c00026c7a/podcast.rss" type="rss" />
+			<outline text="Command Line Heroes" xmlUrl="https://feeds.pacific-content.com/commandlineheroes" type="rss" />
+			<outline xmlUrl="https://feeds.simplecast.com/JT6pbPkg" text="DeepMind: The Podcast" type="rss" />
+			<outline xmlUrl="https://feeds.feedburner.com/experiment_podcast" text="The Experiment" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.megaphone.fm/QCD5848091261" text="Last Known Position" />
+			<outline type="rss" text="Marketplace Tech" xmlUrl="https://www.marketplace.org/feed/podcast/marketplace-tech" />
+			<outline text="Me, Myself, and AI" xmlUrl="https://feeds.megaphone.fm/TPG7603691495" type="rss" />
+			<outline text="Motley Fool Money" xmlUrl="http://feeds2.feedburner.com/MotleyFoolMoney" type="rss" />
+			<outline type="rss" text="Play Retro Show" xmlUrl="https://feeds.megaphone.fm/FGTL1808117415" />
+			<outline type="rss" text="This Is Dating" xmlUrl="https://feed.thisisdatingpodcast.com" />
+			<outline xmlUrl="https://feeds.megaphone.fm/VMP5705694065" type="rss" text="Today, Explained" />
+			<outline type="rss" text="The Trojan Horse Affair" xmlUrl="https://feeds.simplecast.com/B9KgArY4" />
+			<outline type="rss" text="Ukrainecast" xmlUrl="https://podcasts.files.bbci.co.uk/p0bqztzm.rss" />
+			<outline xmlUrl="https://feeds.megaphone.fm/NETFLIX8252003295" type="rss" text="We Have the Receipts" />
+			<outline xmlUrl="https://www.theguardian.com/lifeandstyle/series/weekend/podcast.xml" type="rss" text="Weekend" />
+			<outline type="rss" text="What Happened To Sandy Beal" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/1e82a1b2-d538-4171-a90d-ae4b01034271/21f38b3a-e970-40c3-8170-ae4b0105a8ea/podcast.rss" />
+			<outline type="rss" text="What&apos;s Your Problem?" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/32c25e85-1667-4acb-99fd-ae3c0021f33e/beacef48-19d2-4f52-b9e8-ae3c0021f347/podcast.rss" />
+			<outline type="rss" xmlUrl="https://podcast.oprahdemics.com" text="Oprahdemics" />
+			<outline text="The Shadow" xmlUrl="https://feeds.redcircle.com/356bacce-11f3-40e2-ba8f-2d493a541491" type="rss" />
+			<outline xmlUrl="https://feeds.megaphone.fm/CAD5656987473" type="rss" text="Borderline Salty" />
+			<outline text="The Accidental Activist" type="rss" xmlUrl="https://feeds.simplecast.com/Kl9WXhg1" />
+			<outline type="rss" text="As We Work" xmlUrl="https://video-api.wsj.com/podcast/rss/wsj/as-we-work?partner=itunes" />
+			<outline xmlUrl="https://anchor.fm/s/8a05e74c/podcast/rss" type="rss" text="Crypto Island" />
+			<outline text="Ghost Church by Jamie Loftus" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/fc43d471-035b-486d-b97d-ae780151c077/podcast.rss" type="rss" />
+			<outline text="Scamfluencers" xmlUrl="https://rss.art19.com/scamfluencers" type="rss" />
+			<outline text="Will Be Wild" xmlUrl="https://rss.art19.com/will-be-wild" type="rss" />
+			<outline text="Friday Night Comedy from BBC Radio 4" xmlUrl="https://podcasts.files.bbci.co.uk/p02pc9pj.rss" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.publicradio.org/public_feeds/mood-ring/itunes/rss.rss" text="Mood Ring" />
+			<outline xmlUrl="https://feeds.acast.com/public/shows/630fb274cbfa130012217d46" type="rss" text="World&apos;s Greatest Con" />
+			<outline text="A History of Coffee" xmlUrl="https://www.spreaker.com/show/4789731/episodes/feed" type="rss" />
+			<outline xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/52ba07f6-e223-4902-8468-ae77011f91e4/76573528-e53d-4235-901b-ae77011f91fc/podcast.rss" text="Not Lost" type="rss" />
+			<outline text="The Wild with Chris Morgan" type="rss" xmlUrl="http://www.kuow.org/feeds/podcasts/thewild/podcasts/rss.xml" />
+			<outline xmlUrl="https://podcasts.files.bbci.co.uk/m00176y7.rss" type="rss" text="Lusus" />
+			<outline type="rss" text="The Missing Cryptoqueen" xmlUrl="https://podcasts.files.bbci.co.uk/p07nkd84.rss" />
+			<outline xmlUrl="https://www.cbc.ca/podcasting/includes/kuperisland.xml" type="rss" text="Kuper Island" />
+			<outline type="rss" text="Deliver Us From Ervil" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/2c904ce8-4a15-453a-bde3-ae7d0114315f/podcast.rss" />
+			<outline xmlUrl="https://feeds.libsyn.com/413141/rss" type="rss" text="Games and Feelings" />
+			<outline text="The Joy of Why" type="rss" xmlUrl="https://api.quantamagazine.org/feed/the-joy-of-why" />
+			<outline xmlUrl="https://rss.art19.com/think-fast-talk-smart" text="Think Fast, Talk Smart: Communication Techniques" type="rss" />
+			<outline text="Stadio: A Football Podcast" xmlUrl="https://feeds.megaphone.fm/ringer-fc" type="rss" />
+			<outline type="rss" text="Arseblog - the Arsecasts, Arsenal podcasts" xmlUrl="https://feeds.acast.com/public/shows/a1a58121-6fb4-43cf-8156-8d6df6fc312f" />
+			<outline text="The ArsenalVision Podcast - Arsenal FC" xmlUrl="https://feeds.megaphone.fm/BLU7218721056" type="rss" />
+			<outline text="The Athletic Football Podcast" type="rss" xmlUrl="https://feeds.megaphone.fm/tamc1979001859" />
+			<outline type="rss" text="The Athletic FPL Podcast" xmlUrl="https://feeds.megaphone.fm/tamc3786304751" />
+			<outline text="The Athletic NBA Show" xmlUrl="https://feeds.megaphone.fm/tamc5086615300" type="rss" />
+			<outline xmlUrl="https://anchor.fm/s/86e1204/podcast/rss" type="rss" text="Beyond the Screenplay" />
+			<outline xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a9e6d5b7-e249-4864-8df6-ae3101445992/d8c78a4a-d159-425e-bdf6-ae31014459b8/podcast.rss" text="Flashback: History&apos;s Unintended Consequences" type="rss" />
+			<outline xmlUrl="https://anchor.fm/s/2692eae8/podcast/rss" type="rss" text="FML FPL - Fantasy Premier League Podcast" />
+			<outline text="Land of the Giants" type="rss" xmlUrl="https://feeds.megaphone.fm/landofthegiants" />
+			<outline type="rss" text="Nice Try!" xmlUrl="https://feeds.megaphone.fm/nicetry" />
+			<outline text="Recode Media" xmlUrl="https://feeds.megaphone.fm/recodemedia" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.megaphone.fm/sciencevs" text="Science Vs" />
+			<outline text="Tifo Football Podcast" type="rss" xmlUrl="https://feeds.megaphone.fm/tamc3533486765" />
+			<outline type="rss" xmlUrl="https://feeds.megaphone.fm/vergecast" text="The Vergecast" />
+			<outline text="The Weeds" xmlUrl="https://feeds.megaphone.fm/theweeds" type="rss" />
+			<outline type="rss" text="Rough Translation" xmlUrl="https://feeds.npr.org/510324/podcast.xml" />
+			<outline text="Listening In" xmlUrl="https://feeds.megaphone.fm/listeningin" type="rss" />
+			<outline text="Love Thy Neighbor: Four Days in Crown Heights That Changed New York" type="rss" xmlUrl="https://feeds.megaphone.fm/CAD1778234482" />
+			<outline xmlUrl="http://feeds.megaphone.fm/20k" type="rss" text="Twenty Thousand Hertz" />
+			<outline xmlUrl="https://albertmohler.com/category/the-briefing/feed?utm_medium=referral&amp;utm_source=itunes&amp;utm_campaign=the_briefing" type="rss" text="The Briefing - AlbertMohler.com" />
+			<outline text="Numbers by Barron&apos;s" type="rss" xmlUrl="https://video-api.barrons.com/podcast/rss/barrons/numbers-by-barrons?partner=itunes" />
+			<outline type="rss" xmlUrl="https://anchor.fm/s/6e51554/podcast/rss" text="Where Ya From?" />
+			<outline type="rss" text="Intelligence Squared" xmlUrl="https://feeds.megaphone.fm/NSR6363847171" />
+			<outline type="rss" text="Intelligence Squared U.S. Debates" xmlUrl="https://feeds.megaphone.fm/PNP1207584390" />
+			<outline xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:215740450/sounds.rss" text="The InfoQ Podcast" type="rss" />
+			<outline text="Circle Round" type="rss" xmlUrl="https://rss.wbur.org/circleround/podcast" />
+			<outline type="rss" xmlUrl="https://anchor.fm/s/92fde84/podcast/rss" text="Sisi Watatu Podcast" />
+			<outline type="rss" text="The Ancients" xmlUrl="https://feeds.acast.com/public/shows/f2925f7a-eb08-471a-9958-387cb5ee6353" />
+			<outline text="Origin Story" xmlUrl="https://feeds.megaphone.fm/originstory" type="rss" />
+			<outline xmlUrl="https://anchor.fm/s/b26a040c/podcast/rss" text="Jordan Peterson Archive" type="rss" />
+			<outline xmlUrl="https://feeds.simplecast.com/FLqOPHE4" type="rss" text="Curious State" />
+			<outline type="rss" xmlUrl="https://feeds.megaphone.fm/INBROAD1376892577" text="Podcast and Chill with MacG" />
+			<outline text="The Tim Ferriss Show" type="rss" xmlUrl="https://rss.art19.com/tim-ferriss-show" />
+			<outline type="rss" text="The Ezra Klein Show" xmlUrl="https://feeds.simplecast.com/82FI35Px" />
+			<outline xmlUrl="https://allinchamathjason.libsyn.com/rss" type="rss" text="All-In with Chamath, Jason, Sacks &amp; Friedberg" />
+			<outline text="WTF with Marc Maron Podcast" xmlUrl="https://access.acast.com/rss/62a222737c02140013aa4c03/" type="rss" />
+			<outline text="Standard Deviations with Dr. Daniel Crosby" xmlUrl="https://feeds.simplecast.com/XnV_1Ojp" type="rss" />
+			<outline text="North Star Podcast" type="rss" xmlUrl="http://perell.libsyn.com/rss" />
+			<outline xmlUrl="https://feeds.megaphone.fm/counter-pressed" type="rss" text="Counter Pressed with Flo Lloyd-Hughes and Friends" />
+			<outline text="Burnout with Connor Franta" xmlUrl="https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/06046b7b-1c27-41f9-b08e-ae7e0145985a/podcast.rss" type="rss" />
+			<outline xmlUrl="https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/1b64f028-8da9-4f34-9bb7-aea201149fa0/40670094-34fb-4b63-acb5-aea2011c7ac4/podcast.rss" type="rss" text="The Wire at 20" />
+			<outline text="Hot Money: Who Rules Porn?" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/0f0d9558-3e6e-4af7-971b-ae860127535c/podcast.rss" type="rss" />
+			<outline xmlUrl="https://feeds.simplecast.com/ksGYZ_Z3" type="rss" text="First Person" />
+			<outline type="rss" xmlUrl="https://anchor.fm/s/259c69d4/podcast/rss" text="That Sounds Fun with Annie F. Downs" />
+			<outline xmlUrl="https://podcasts.files.bbci.co.uk/p02s5rx7.rss" text="Lives Less Ordinary" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.simplecast.com/rzXeu9UA" text="Driving the Green Book" />
+			<outline xmlUrl="https://feeds.megaphone.fm/LM6964003519" type="rss" text="The Midnight Miracle" />
+			<outline type="rss" xmlUrl="https://feeds.megaphone.fm/founders-journal" text="Founder&apos;s Journal" />
+			<outline text="Legacy of Speed" type="rss" xmlUrl="https://feeds.megaphone.fm/legacyofspeed" />
+			<outline xmlUrl="https://rss.art19.com/the-problem-with-jon-stewart" text="The Problem With Jon Stewart" type="rss" />
+			<outline type="rss" text="Unexplainable" xmlUrl="https://feeds.megaphone.fm/VMP9331026707" />
+			<outline type="rss" text="History is US" xmlUrl="https://feeds.megaphone.fm/history-is-us" />
+			<outline type="rss" text="The Knowledge Project with Shane Parrish" xmlUrl="https://theknowledgeproject.libsyn.com/rss" />
+			<outline text="Codebreaker, by Marketplace and Tech Insider" xmlUrl="https://www.marketplace.org/feed/podcast/codebreaker-by-marketplace-and-tech-insider" type="rss" />
+			<outline type="rss" text="Unexplainable" xmlUrl="https://anchor.fm/s/1c8833c8/podcast/rss" />
+			<outline xmlUrl="https://feeds.simplecast.com/U1oFUzZu" text="Significant Others" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.megaphone.fm/inmachineswetrust" text="In Machines We Trust" />
+			<outline xmlUrl="https://feeds.megaphone.fm/CYBW9338304051" type="rss" text="Click Here" />
+			<outline type="rss" xmlUrl="https://feeds.twit.tv/twit.xml" text="This Week in Tech (Audio)" />
+			<outline text="Sorry About The Kid" xmlUrl="https://www.cbc.ca/podcasting/includes/sorryaboutthekid.xml" type="rss" />
+			<outline xmlUrl="https://podcasts.files.bbci.co.uk/p07h19zz.rss" type="rss" text="Americast" />
+			<outline xmlUrl="https://feeds.pacific-content.com/aheadofitstime" type="rss" text="Ahead of Its Time" />
+			<outline type="rss" text="Hanselminutes with Scott Hanselman" xmlUrl="https://feeds.simplecast.com/gvtxUiIf" />
+			<outline xmlUrl="http://feeds.megaphone.fm/citysoundtracks" type="rss" text="City Soundtracks" />
+			<outline text="Wording is Hard" type="rss" xmlUrl="https://audioboom.com/channels/5022513.rss" />
+			<outline type="rss" text="BrainStuff" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/91c26f87-aa4e-4e61-816b-ae320005be01/5ca66d21-7139-45ee-8d4e-ae320005be14/podcast.rss" />
+			<outline text="Literary Friction" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:47550828/sounds.rss" type="rss" />
+			<outline text="Concordance des temps" xmlUrl="https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_16278.xml" type="rss" />
+			<outline text="Run, Bambi, Run" xmlUrl="https://rss.art19.com/run-bambi-run" type="rss" />
+			<outline xmlUrl="https://feeds.megaphone.fm/TPG4024225475" text="Creative Elements" type="rss" />
+			<outline type="rss" xmlUrl="https://www.rfi.fr/fr/podcasts/archives-afrique/podcast" text="Archives d&apos;Afrique" />
+			<outline xmlUrl="https://feeds.megaphone.fm/in-the-valley" type="rss" text="Once Upon a Time… at Bennington College" />
+			<outline type="rss" xmlUrl="https://anchor.fm/s/fb9b798/podcast/rss" text="music" />
+			<outline text="Code Switch" type="rss" xmlUrl="https://feeds.npr.org/510312/podcast.xml" />
+			<outline text="It&apos;s Been a Minute" type="rss" xmlUrl="https://feeds.npr.org/510317/podcast.xml" />
+			<outline type="rss" text="No Denying It" xmlUrl="https://news.un.org/en/audio-product/no-denying-it/audio-rss.xml?12Apr2022" />
+			<outline text="StartUp Podcast" type="rss" xmlUrl="http://feeds.hearstartup.com/hearstartup" />
+			<outline type="rss" text="Jocko Podcast" xmlUrl="https://feeds.redcircle.com/64a89f88-a245-4098-8d8d-496325ec4f74" />
+			<outline text="Nested Folders" xmlUrl="https://nestedfolderspodcast.com/feed/podcast/" type="rss" />
+			<outline xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/64dae79e-9e31-421a-a9c3-ae390037613b/c5d73fc3-180d-49a7-bf6d-ae3900376149/podcast.rss" type="rss" text="Backstage Pass with Eric Vetro" />
+			<outline type="rss" text="The Bomb" xmlUrl="https://podcasts.files.bbci.co.uk/p08llv8n.rss" />
+			<outline xmlUrl="https://feeds.megaphone.fm/TPG7042109299" type="rss" text="Book Dreams" />
+			<outline type="rss" text="Ideas" xmlUrl="https://www.cbc.ca/podcasting/includes/ideas.xml" />
+			<outline text="NPR Music" type="rss" xmlUrl="https://podsync.net/EKTxJB4f8" />
+			<outline xmlUrl="https://podcasts.files.bbci.co.uk/p002vsxs.rss" text="Business Daily" type="rss" />
+			<outline xmlUrl="https://feeds.megaphone.fm/PPY3354214689" text="The Story Collider" type="rss" />
+			<outline xmlUrl="https://www.spreaker.com/show/2888374/episodes/feed" text="The Chai" type="rss" />
+			<outline text="Commonplace: Conversations with Poets (and Other People)" type="rss" xmlUrl="https://www.commonpodcast.com/home?format=rss" />
+			<outline text="State of Ukraine" type="rss" xmlUrl="https://feeds.npr.org/510366/podcast.xml" />
+			<outline type="rss" text="Thinking Fellows" xmlUrl="https://thinkingfellows.libsyn.com/rss" />
+			<outline type="rss" text="Here’s the Deal" xmlUrl="https://feeds.buzzsprout.com/961768.rss" />
+			<outline type="rss" text="Source Material" xmlUrl="https://feeds.acast.com/public/shows/bde4ba03-94fd-432c-bd5f-800ae606cb91" />
+			<outline text="The Hackers" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/m0012fjk.rss" />
+			<outline type="rss" text="Building with Rust" xmlUrl="https://anchor.fm/s/4928bbdc/podcast/rss" />
+			<outline type="rss" xmlUrl="https://feeds.megaphone.fm/resettled" text="Resettled" />
+			<outline type="rss" xmlUrl="http://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml" text="Weekend Edition Sunday" />
+			<outline type="rss" xmlUrl="https://rss.art19.com/secret-sauce" text="Secret Sauce" />
+			<outline text="Conversations" xmlUrl="https://www.abc.net.au/feeds/7711104/podcast.xml" type="rss" />
+			<outline type="rss" text="The Rest Is History" xmlUrl="https://feeds.acast.com/public/shows/031c2dcb-c66c-42b5-819e-2452031fe4f9" />
+			<outline type="rss" text="Nipe Story" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:363233096/sounds.rss" />
+			<outline text="The Basement with Tim Ross" type="rss" xmlUrl="https://anchor.fm/s/a3ad976c/podcast/rss" />
+			<outline text="All In" xmlUrl="https://www.omnycontent.com/d/playlist/61af0f78-644a-4500-9792-a89500ea78e5/f0ffaf64-dfca-43bb-9a63-a9760057dd01/a1c97d1e-d4d7-4a11-82d0-a976005836e5/podcast.rss" type="rss" />
+			<outline xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:701904452/sounds.rss" type="rss" text="Southside Rabbi" />
+			<outline xmlUrl="https://anchor.fm/s/23b83bd4/podcast/rss" text="Basecamp: Into The Dark" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.transistor.fm/radiospectrum" text="Fixing the Future" />
+			<outline text="WSJ’s The Future of Everything" xmlUrl="https://video-api.wsj.com/podcast/rss/wsj/wsj-the-future-of-everything" type="rss" />
+			<outline xmlUrl="https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/746fc97b-db2e-4fef-919f-ab850163e13d/8264c1d0-8a91-4e78-827f-ab850163e14b/podcast.rss" type="rss" text="Root of Evil: The True Story of the Hodel Family and the Black Dahlia" />
+			<outline xmlUrl="https://feeds.acast.com/public/shows/619510c78ceb6c00129a2806" type="rss" text="My Unlived Life" />
+			<outline type="rss" text="Other: Mixed Race in America" xmlUrl="http://podcast.posttv.com/itunes-58f136e5e4b058d61ff66b15.xml" />
+			<outline type="rss" xmlUrl="https://www.theguardian.com/society/series/canitellyouasecret/podcast.xml" text="Can I tell you a secret?" />
+			<outline text="Til This Day with Radio Rahim" xmlUrl="https://feeds.megaphone.fm/LM7715796050" type="rss" />
+			<outline type="rss" text="School Colors" xmlUrl="https://feeds.simplecast.com/WdWJSnNK" />
+			<outline xmlUrl="http://feeds.megaphone.fm/watergate" type="rss" text="Slow Burn" />
+			<outline type="rss" text="Bone Valley" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2b18f6f0-09c0-471e-b663-aeed010410fa/da6eda02-def2-4de4-a1c2-aeed010456a1/podcast.rss" />
+			<outline type="rss" text="This Week in Startups" xmlUrl="https://anchor.fm/s/7c624c84/podcast/rss" />
+			<outline type="rss" text="Learning Lots" xmlUrl="https://feeds.simplecast.com/KbFbigDM" />
+			<outline xmlUrl="https://askntwrightanything.podbean.com/feed.xml" text="Ask NT Wright Anything" type="rss" />
+			<outline xmlUrl="https://feeds.megaphone.fm/HS2300184645" type="rss" text="My First Million" />
+			<outline text="The Holy Post" type="rss" xmlUrl="https://thephilvischerpodcast.libsyn.com/rss" />
+			<outline type="rss" text="Armchair Expert Experts" xmlUrl="https://feeds.buzzsprout.com/383086.rss" />
+			<outline xmlUrl="https://feeds.simplecast.com/lVrQWJ__" type="rss" text="Let&apos;s Talk" />
+			<outline xmlUrl="https://feeds.captivate.fm/aboard/" type="rss" text="The Aboard Podcast" />
+			<outline type="rss" text="Kuza" xmlUrl="https://www.spreaker.com/show/3674993/episodes/feed" />
+			<outline xmlUrl="https://feeds.megaphone.fm/possible" type="rss" text="Possible" />
+			<outline xmlUrl="https://anchor.fm/s/5b849b0c/podcast/rss" text="Essentially Speaking" type="rss" />
+			<outline xmlUrl="https://www.cbc.ca/podcasting/includes/commotion.xml" text="Commotion with Elamin Abdelmahmoud" type="rss" />
+			<outline type="rss" xmlUrl="https://rss.art19.com/daigle-bites" text="Daigle Bites" />
+			<outline type="rss" text="Knowing Faith" xmlUrl="https://feeds.simplecast.com/V2lHo6VQ" />
+			<outline xmlUrl="https://media.watermark.org/podcasts/porch-audio.xml" type="rss" text="The Porch" />
+			<outline xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:246829364/sounds.rss" text="ycombinator" type="rss" />
+			<outline text="CTRL SHIFT!" type="rss" xmlUrl="https://feeds.libsyn.com/427367/rss" />
+			<outline xmlUrl="https://feeds.transistor.fm/work-in-progress" text="The Work in Progress Podcast" type="rss" />
+			<outline xmlUrl="https://feeds.megaphone.fm/LEW1514366617" text="WHOA That&apos;s Good Podcast" type="rss" />
+			<outline type="rss" xmlUrl="https://rzim.org/let-my-people-think-broadcasts/feed/" text="RZIM: Let My People Think Broadcasts" />
+			<outline type="rss" xmlUrl="https://feeds.transistor.fm/rework" text="Rework" />
+			<outline text="Flights &amp; Feelings" type="rss" xmlUrl="https://feeds.acast.com/public/shows/7230d9a6-ae9f-5c70-a785-07feff04e988" />
+			<outline text="How to Build a Happy Life" type="rss" xmlUrl="https://feeds.megaphone.fm/howto" />
+			<outline text="The NFX Podcast" xmlUrl="https://feeds.simplecast.com/uSa3prhz" type="rss" />
+			<outline type="rss" text="a16z Podcast" xmlUrl="https://feeds.simplecast.com/JGE3yC0V" />
+		</outline>
+	</body>
 </opml>
