@@ -6,12 +6,15 @@ on:
 jobs:
   prepare:
     runs-on: macos-latest
+    permissions:
+      contents: 'write'
+      actions: 'read'
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@latest
       - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
-          token: '${{ secrets.POD_DATA_GEN }}'
+          token: '${{ secrets.GITHUB_TOKEN }}'
       - name: prep
         run: |
           mkdir temp

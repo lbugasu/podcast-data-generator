@@ -27,13 +27,6 @@ async function downloadFeeds(): Promise<(PodcastFeedData | void)[]> {
   return (await podcasts).filter((podcast: any) => podcast)
 }
 
-function write(podcasts: any[]) {
-  podcasts.forEach((podcast, i) => {
-    if (!podcast) return
-    writeToFile(podcast, podcast.title, 'podcasts', (i + 1) / podcasts.length)
-  })
-}
-
 const _pods = []
 function saveFeedsToFolder(podData: any[]) {
   podData

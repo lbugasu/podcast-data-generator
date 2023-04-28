@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [14.x]
+        node-version: [16.x]
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@latest
 
       - name: Cache node modules
         uses: actions/cache@v2
@@ -27,6 +27,7 @@ jobs:
             ${{ runner.os }}-build-${{ env.cache-name }}-
             ${{ runner.os }}-build-
             ${{ runner.os }}-
+
       - uses: actions/cache@v2
         env:
           cache-name: python-cache
@@ -36,14 +37,18 @@ jobs:
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
+
       - name: 'Install npm dependencies 🪨'
         if: steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
+
       - name: 'Install python deps 🐍'
         if: steps.python-cache.outputs.cache-hit != 'true'
         run: pip3 install -r requirements.txt
+
       - name: 'compile 🏗️'
         run: npx tsc
+
       - name: 'Prepare 🧑‍🍳'
         run: |
           mkdir dist
@@ -55,8 +60,10 @@ jobs:
           mkdir tmp/dist/podcasts_palettes
           mkdir tmp/dist/.github
           mkdir tmp/dist/.github/workflows
+
       - name: 'Generate Files 🤖'
         run: node --max-old-space-size=8192 out/index.js
+
       - name: 'Generate Palette 🎨'
         run: |
           python3 scripts/generate.py
@@ -66,12 +73,14 @@ jobs:
           mkdir dist/.github
           mkdir dist/.github/workflows
           cp scripts/templates/release.yml dist/.github/workflows/release.yml
+
       - name: Verify Changed files 🐒
         uses: tj-actions/verify-changed-files@v8.3
         id: verify-changed-files
         with:
           files: |
             dist
+
       - name: 'Deploy 💾'
         if: steps.verify-changed-files.outputs.files_changed == 'true'
         uses: s0/git-publish-subdir-action@develop
@@ -79,7 +88,8 @@ jobs:
           REPO: self
           BRANCH: release
           FOLDER: dist
-          GITHUB_TOKEN: ${{ secrets.POD_DATA_GEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate named entities 🚀
         uses: mvasigh/dispatch-action@main
         with:
