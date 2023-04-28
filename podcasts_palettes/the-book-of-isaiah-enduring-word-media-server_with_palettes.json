@@ -1,7 +1,8 @@
 {
     "copyright": "Enduring Word 2018",
     "description": "Audio and Video Server For Enduring Word",
-    "generator": "https://wordpress.org/?v=5.0.16",
+    "feedUrl": "https://media.enduringword.com/podcasts/isaiah/feed/",
+    "generator": "https://wordpress.org/?v=5.0.18",
     "items": [
         {
             "categories": [
@@ -1097,8 +1098,11 @@
         "summary": "Pastor David Guzik preaches through the Old Testament, the Book of Isaiah."
     },
     "language": "en-US",
-    "lastBuildDate": "Sat, 16 Feb 2019 06:16:54 +0000",
+    "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
     "link": "https://media.enduringword.com",
+    "paginationLinks": {
+        "self": "https://media.enduringword.com/podcasts/isaiah/feed/"
+    },
     "palette": [],
     "title": "The Book of Isaiah \u2013 Enduring Word Media Server"
 }

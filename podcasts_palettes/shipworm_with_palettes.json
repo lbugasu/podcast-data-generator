@@ -5,7 +5,7 @@
     "image": {
         "link": "https://twoupproductions.com/shipworm",
         "title": "Shipworm",
-        "url": "https://megaphone.imgix.net/podcasts/43b2ac10-9629-11eb-84f7-ab1afa62c0bf/image/Shipworm-Cover-FINAL.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        "url": "https://megaphone.imgix.net/podcasts/43b2ac10-9629-11eb-84f7-ab1afa62c0bf/image/Shipworm-Cover-FINAL.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     },
     "items": [
         {
@@ -23,8 +23,9 @@
             "itunes": {
                 "author": "Two-Up",
                 "duration": "7197",
+                "episodeType": "full",
                 "explicit": "no",
-                "image": "https://megaphone.imgix.net/podcasts/f636be44-a2e0-11eb-b5fd-1bc950ec75a3/image/Shipworm-Cover-FINAL.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "image": "https://megaphone.imgix.net/podcasts/f636be44-a2e0-11eb-b5fd-1bc950ec75a3/image/Shipworm-Cover-FINAL.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "A feature-length thriller. ",
                 "summary": "In this first of its kind feature-length audio movie, Wallace Conway wakes up to find he\u2019s been implanted with an untraceable earpiece while sleeping. So long as he does everything the voice on the other end tells him, he and his family will live.\n\nShipworm is the fourth podcast from Two-Up, the studio known for breaking ground in fiction (Limetown), musical (36 Questions), and documentary podcasts (The Wilderness).\n\nShipworm stars Broadway luminaries Quentin Earl Darrington and Miriam Silverman, and is available for free on podcast platforms everywhere.\n\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
             },
@@ -47,6 +48,7 @@
             "itunes": {
                 "author": "Two-Up",
                 "duration": "133",
+                "episodeType": "trailer",
                 "explicit": "no",
                 "subtitle": "Shipworm premieres on April 26",
                 "summary": "In this first of its kind feature-length audio movie, Wallace Conway wakes up to find he\u2019s been implanted with an untraceable earpiece while sleeping. So long as he does everything the voice on the other end tells him, he and his family will live.\nWritten by Zack Akers and produced by Skip Bronkie, Shipworm is the fourth podcast from Two-Up, the studio known for breaking ground in fiction (Limetown), musical (36 Questions), and documentary podcasts (The Wilderness).\nShipworm stars Broadway luminaries Quentin Earl Darrington and Miriam Silverman, and is coming to podcast platforms everywhere on April 26, 2021.\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
@@ -72,7 +74,7 @@
             }
         ],
         "explicit": "no",
-        "image": "https://megaphone.imgix.net/podcasts/43b2ac10-9629-11eb-84f7-ab1afa62c0bf/image/Shipworm-Cover-FINAL.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "image": "https://megaphone.imgix.net/podcasts/43b2ac10-9629-11eb-84f7-ab1afa62c0bf/image/Shipworm-Cover-FINAL.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
         "owner": {
             "email": "hello@twoupproductions.com",
             "name": "Two-Up"

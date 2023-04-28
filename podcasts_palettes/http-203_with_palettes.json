@@ -1,0 +1,1367 @@
+{
+    "copyright": "2021 \u00a9 Google Chrome Developers",
+    "description": "Surma and Jake talk about whatever's going on in the world of web development.",
+    "docs": "https://developers.google.com/web/shows/http203/podcast/",
+    "feedUrl": "https://http203.libsyn.com/rss",
+    "generator": "Libsyn WebEngine 2.0",
+    "image": {
+        "link": "https://developers.google.com/web/shows/http203/podcast/",
+        "title": "HTTP 203",
+        "url": "https://ssl-static.libsyn.com/p/assets/4/0/a/0/40a057340c51398b/HTTP_Podcast_Episodes_thumb_v2_1.png"
+    },
+    "items": [
+        {
+            "content": "<p><span style=\"font-weight: 400;\">In this episode:</span></p> <p><span style=\"font-weight: 400;\">- Surma changed jobs.</span></p> <p><span style=\"font-weight: 400;\">- The Shopify interview process.</span></p> <p><span style=\"font-weight: 400;\">- Pair programming vs pair problem solving.</span></p> <p><span style=\"font-weight: 400;\">- Surma's also doing bits of work for Deno.</span></p> <p><span style=\"font-weight: 400;\">- The complexities of testing image codecs.</span></p> <p><span style=\"font-weight: 400;\">- Jake forgot to tell Ada how HTTP 203 filming ends, so it almost never did.</span></p> <p><span style=\"font-weight: 400;\">- Keeping animations fast but simple for page transitions.</span></p> <p><br /> <span style=\"font-weight: 400;\">Transcript:</span> <a href= \"https://goo.gle/3ns4TTK\"><span style= \"font-weight: 400;\">https://goo.gle/3ns4TTK</span></a></p>",
+            "content:encoded": "<p>In this episode:</p> <p>- Surma changed jobs.</p> <p>- The Shopify interview process.</p> <p>- Pair programming vs pair problem solving.</p> <p>- Surma's also doing bits of work for Deno.</p> <p>- The complexities of testing image codecs.</p> <p>- Jake forgot to tell Ada how HTTP 203 filming ends, so it almost never did.</p> <p>- Keeping animations fast but simple for page transitions.</p> <p> Transcript: <a href= \"https://goo.gle/3ns4TTK\">https://goo.gle/3ns4TTK</a></p>",
+            "content:encodedSnippet": "In this episode:\n - Surma changed jobs.\n - The Shopify interview process.\n - Pair programming vs pair problem solving.\n - Surma's also doing bits of work for Deno.\n - The complexities of testing image codecs.\n - Jake forgot to tell Ada how HTTP 203 filming ends, so it almost never did.\n - Keeping animations fast but simple for page transitions.\n  Transcript: https://goo.gle/3ns4TTK",
+            "contentSnippet": "In this episode:\n - Surma changed jobs.\n - The Shopify interview process.\n - Pair programming vs pair problem solving.\n - Surma's also doing bits of work for Deno.\n - The complexities of testing image codecs.\n - Jake forgot to tell Ada how HTTP 203 filming ends, so it almost never did.\n - Keeping animations fast but simple for page transitions.\n \n Transcript: https://goo.gle/3ns4TTK",
+            "enclosure": {
+                "length": "55652045",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/HTT_P012_v3.mp3?dest-id=1969313"
+            },
+            "guid": "587ffbbd-88b5-437a-9589-f087d6f66618",
+            "isoDate": "2022-06-29T16:58:48.000Z",
+            "itunes": {
+                "author": "Google",
+                "duration": "57:56",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/4/0/a/0/40a057340c51398b/HTTP_Podcast_Episodes_thumb_v2_1.png",
+                "keywords": "Google,developer,developers,googlechrome,jakearchibald,surma,googlechromedevelopers,http203,http203podcast",
+                "subtitle": "Also testing image codecs, and how episodes of HTTP 203 end"
+            },
+            "link": "http://http203.libsyn.com/changing-jobs-deno-and-optimizing-animations",
+            "pubDate": "Wed, 29 Jun 2022 16:58:48 +0000",
+            "title": "Changing jobs, Deno, and optimizing animations"
+        },
+        {
+            "content": "<p><span style=\"font-weight: 400;\">Transcript -</span> <a href= \"https://goo.gle/3wZTwWS\"><span style= \"font-weight: 400;\">https://goo.gle/3wZTwWS</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Surma's talk about brain-click -</span> <a href=\"https://goo.gle/3oYED3R\"><span style= \"font-weight: 400;\">https://goo.gle/3oYED3R</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Is Chrome removing view-source? (no)</span></p> <p><span style=\"font-weight: 400;\">Studio lighting -</span> <a href=\"https://goo.gle/3oAvQVo\"><span style= \"font-weight: 400;\">https://goo.gle/3oAvQVo</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Jake's Twitter thread about view-source -</span> <a href=\"https://goo.gle/3kQHV7L\"><span style= \"font-weight: 400;\">https://goo.gle/3kQHV7L</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Bathroom designs</span></p> <p><span style=\"font-weight: 400;\">The HTTP203 episode on Deno -</span> <a href=\"https://goo.gle/3CsAee8\"><span style= \"font-weight: 400;\">https://goo.gle/3CsAee8</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Jake's CORS article -</span> <a href=\"https://goo.gle/3x1lrWo\"><span style= \"font-weight: 400;\">https://goo.gle/3x1lrWo</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Deno deploy -</span> <a href= \"https://goo.gle/3Cv45lZ\"><span style= \"font-weight: 400;\">https://goo.gle/3Cv45lZ</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">The little Deno server Jake wrote -</span> <a href=\"https://goo.gle/30A2Zsw\"><span style= \"font-weight: 400;\">https://goo.gle/30A2Zsw</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Jake's wikipedia search thing -</span> <a href=\"https://goo.gle/3CzarAJ\"><span style= \"font-weight: 400;\">https://goo.gle/3CzarAJ</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Color spaces and dithering</span></p> <p><span style=\"font-weight: 400;\">Surma's article on dithering -</span> <a href=\"https://goo.gle/3FsyH9B\"><span style= \"font-weight: 400;\">https://goo.gle/3FsyH9B</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Tom Scott's video on the Pulfrich Effect -</span> <a href= \"https://goo.gle/3nre4EM\"><span style= \"font-weight: 400;\">https://goo.gle/3nre4EM</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Shared element transitions -</span> <a href=\"https://goo.gle/3FwtGNA\"><span style= \"font-weight: 400;\">https://goo.gle/3FwtGNA</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">CSS cross-fade function -</span> <a href=\"https://goo.gle/2YZfltc\"><span style= \"font-weight: 400;\">https://goo.gle/2YZfltc</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Compositing on the web -</span> <a href=\"https://goo.gle/30xqe5Y\"><span style= \"font-weight: 400;\">https://goo.gle/30xqe5Y</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Michael Caine trying to do an American accent -</span> <a href= \"https://goo.gle/3Fus0Uw\"><span style= \"font-weight: 400;\">https://goo.gle/3Fus0Uw</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p>\u00a0</p> <p><span style=\"font-weight: 400;\">Catch videos from the HTTP 203 series \u2192</span> <a href=\"http://goo.gle/HTTP203\"><span style= \"font-weight: 400;\">http://goo.gle/HTTP203</span></a><span style= \"font-weight: 400;\">\u00a0\u00a0</span></p> <p><span style=\"font-weight: 400;\">Subscribe to Google Chrome Developers \u2192</span> <a href= \"https://goo.gle/ChromeDevs\"><span style= \"font-weight: 400;\">https://goo.gle/ChromeDevs</span></a></p>",
+            "content:encoded": "<p>Transcript - <a href= \"https://goo.gle/3wZTwWS\">https://goo.gle/3wZTwWS</a>\u00a0</p> <p>Surma's talk about brain-click - <a href=\"https://goo.gle/3oYED3R\">https://goo.gle/3oYED3R</a>\u00a0</p> <p>Is Chrome removing view-source? (no)</p> <p>Studio lighting - <a href=\"https://goo.gle/3oAvQVo\">https://goo.gle/3oAvQVo</a>\u00a0</p> <p>Jake's Twitter thread about view-source - <a href=\"https://goo.gle/3kQHV7L\">https://goo.gle/3kQHV7L</a>\u00a0</p> <p>Bathroom designs</p> <p>The HTTP203 episode on Deno - <a href=\"https://goo.gle/3CsAee8\">https://goo.gle/3CsAee8</a>\u00a0</p> <p>Jake's CORS article - <a href=\"https://goo.gle/3x1lrWo\">https://goo.gle/3x1lrWo</a>\u00a0</p> <p>Deno deploy - <a href= \"https://goo.gle/3Cv45lZ\">https://goo.gle/3Cv45lZ</a>\u00a0</p> <p>The little Deno server Jake wrote - <a href=\"https://goo.gle/30A2Zsw\">https://goo.gle/30A2Zsw</a>\u00a0</p> <p>Jake's wikipedia search thing - <a href=\"https://goo.gle/3CzarAJ\">https://goo.gle/3CzarAJ</a>\u00a0</p> <p>Color spaces and dithering</p> <p>Surma's article on dithering - <a href=\"https://goo.gle/3FsyH9B\">https://goo.gle/3FsyH9B</a>\u00a0</p> <p>Tom Scott's video on the Pulfrich Effect - <a href= \"https://goo.gle/3nre4EM\">https://goo.gle/3nre4EM</a>\u00a0</p> <p>Shared element transitions - <a href=\"https://goo.gle/3FwtGNA\">https://goo.gle/3FwtGNA</a>\u00a0</p> <p>CSS cross-fade function - <a href=\"https://goo.gle/2YZfltc\">https://goo.gle/2YZfltc</a>\u00a0</p> <p>Compositing on the web - <a href=\"https://goo.gle/30xqe5Y\">https://goo.gle/30xqe5Y</a>\u00a0</p> <p>Michael Caine trying to do an American accent - <a href= \"https://goo.gle/3Fus0Uw\">https://goo.gle/3Fus0Uw</a>\u00a0</p> <p>\u00a0</p> <p>Catch videos from the HTTP 203 series \u2192 <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a>\u00a0\u00a0</p> <p>Subscribe to Google Chrome Developers \u2192 <a href= \"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a></p>",
+            "content:encodedSnippet": "Transcript - https://goo.gle/3wZTwWS\u00a0\n Surma's talk about brain-click - https://goo.gle/3oYED3R\u00a0\n Is Chrome removing view-source? (no)\n Studio lighting - https://goo.gle/3oAvQVo\u00a0\n Jake's Twitter thread about view-source - https://goo.gle/3kQHV7L\u00a0\n Bathroom designs\n The HTTP203 episode on Deno - https://goo.gle/3CsAee8\u00a0\n Jake's CORS article - https://goo.gle/3x1lrWo\u00a0\n Deno deploy - https://goo.gle/3Cv45lZ\u00a0\n The little Deno server Jake wrote - https://goo.gle/30A2Zsw\u00a0\n Jake's wikipedia search thing - https://goo.gle/3CzarAJ\u00a0\n Color spaces and dithering\n Surma's article on dithering - https://goo.gle/3FsyH9B\u00a0\n Tom Scott's video on the Pulfrich Effect - https://goo.gle/3nre4EM\u00a0\n Shared element transitions - https://goo.gle/3FwtGNA\u00a0\n CSS cross-fade function - https://goo.gle/2YZfltc\u00a0\n Compositing on the web - https://goo.gle/30xqe5Y\u00a0\n Michael Caine trying to do an American accent - https://goo.gle/3Fus0Uw\u00a0\n \u00a0\n Catch videos from the HTTP 203 series \u2192 http://goo.gle/HTTP203\u00a0\u00a0\n Subscribe to Google Chrome Developers \u2192 https://goo.gle/ChromeDevs",
+            "contentSnippet": "Transcript - https://goo.gle/3wZTwWS\u00a0\n Surma's talk about brain-click - https://goo.gle/3oYED3R\u00a0\n Is Chrome removing view-source? (no)\n Studio lighting - https://goo.gle/3oAvQVo\u00a0\n Jake's Twitter thread about view-source - https://goo.gle/3kQHV7L\u00a0\n Bathroom designs\n The HTTP203 episode on Deno - https://goo.gle/3CsAee8\u00a0\n Jake's CORS article - https://goo.gle/3x1lrWo\u00a0\n Deno deploy - https://goo.gle/3Cv45lZ\u00a0\n The little Deno server Jake wrote - https://goo.gle/30A2Zsw\u00a0\n Jake's wikipedia search thing - https://goo.gle/3CzarAJ\u00a0\n Color spaces and dithering\n Surma's article on dithering - https://goo.gle/3FsyH9B\u00a0\n Tom Scott's video on the Pulfrich Effect - https://goo.gle/3nre4EM\u00a0\n Shared element transitions - https://goo.gle/3FwtGNA\u00a0\n CSS cross-fade function - https://goo.gle/2YZfltc\u00a0\n Compositing on the web - https://goo.gle/30xqe5Y\u00a0\n Michael Caine trying to do an American accent - https://goo.gle/3Fus0Uw\u00a0\n \u00a0\n Catch videos from the HTTP 203 series \u2192 http://goo.gle/HTTP203\u00a0\u00a0\n Subscribe to Google Chrome Developers \u2192 https://goo.gle/ChromeDevs",
+            "enclosure": {
+                "length": "40100928",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/podcast-nov.mp3?dest-id=1969313"
+            },
+            "guid": "87792528-b61d-4db1-8093-0554973ac594",
+            "isoDate": "2021-11-18T18:03:27.000Z",
+            "itunes": {
+                "author": "Google",
+                "duration": "56:06",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/4/0/a/0/40a057340c51398b/HTTP_Podcast_Episodes_thumb_v2_1.png",
+                "keywords": "Google,Chrome,googledevelopers,chromedevelopers,googlechromedevelopers,http203,googlechromedeveloper,chromedeveloper,googledeveloper",
+                "subtitle": "Transcript - \u00a0 Surma's talk about brain-click - \u00a0 Is Chrome removing view-source? (no) Studio lighting - \u00a0 Jake's Twitter thread about view-source - \u00a0 Bathroom designs The HTTP203 episode on Deno - \u00a0 Jake's CORS article -..."
+            },
+            "link": "https://traffic.libsyn.com/secure/http203/podcast-nov.mp3",
+            "pubDate": "Thu, 18 Nov 2021 18:03:27 +0000",
+            "title": "Deno, dithering, and bathrooms"
+        },
+        {
+            "content": "<p><span style=\"font-weight: 400;\">In this episode, Surma and Jake chat about:</span></p> <p>\u00a0</p> <ul> <li style=\"font-weight: 400;\" aria-level=\"1\"><span style= \"font-weight: 400;\">Transcript \u2192 <a href= \"https://goo.gle/2XHz1Rz\">https://goo.gle/2XHz1Rz</a>\u00a0</span></li> <li style=\"font-weight: 400;\" aria-level=\"1\"><span style= \"font-weight: 400;\">HTTP 203 on memory debugging \u2192</span> <a href= \"https://goo.gle/2VDXRAQ\"><span style= \"font-weight: 400;\">https://goo.gle/2VDXRAQ</span></a><span style= \"font-weight: 400;\">\u00a0</span></li> <li style=\"font-weight: 400;\" aria-level=\"1\"><span style= \"font-weight: 400;\">Box-sizing \u2192</span> <a href= \"https://goo.gle/3jDvH0R\"><span style= \"font-weight: 400;\">https://goo.gle/3jDvH0R</span></a><span style= \"font-weight: 400;\">\u00a0</span></li> <li style=\"font-weight: 400;\" aria-level=\"1\"><span style= \"font-weight: 400;\">IE5.5 box model \u2192</span> <a href= \"https://goo.gle/3izbY39\"><span style= \"font-weight: 400;\">https://goo.gle/3izbY39</span></a><span style= \"font-weight: 400;\">\u00a0</span></li> <li style=\"font-weight: 400;\" aria-level=\"1\"><span style= \"font-weight: 400;\">Tim Perry's article \u2192</span> <a href= \"https://goo.gle/3jFeWCx\"><span style= \"font-weight: 400;\">https://goo.gle/3jFeWCx</span></a><span style= \"font-weight: 400;\">\u00a0</span></li> <li style=\"font-weight: 400;\" aria-level=\"1\"><span style= \"font-weight: 400;\">IE double margin bug \u2192</span> <a href= \"https://goo.gle/3xzKWNi\"><span style= \"font-weight: 400;\">https://goo.gle/3xzKWNi</span></a><span style= \"font-weight: 400;\">\u00a0</span></li> <li style=\"font-weight: 400;\" aria-level=\"1\"><span style= \"font-weight: 400;\">IE duplicate characters bug \u2192</span> <a href= \"https://goo.gle/2U5M7X7\"><span style= \"font-weight: 400;\">https://goo.gle/2U5M7X7</span></a><span style= \"font-weight: 400;\">\u00a0</span></li> <li style=\"font-weight: 400;\" aria-level=\"1\"><span style= \"font-weight: 400;\">Dave Rupert's article \u2192</span> <a href= \"https://goo.gle/37CAI45\"><span style= \"font-weight: 400;\">https://goo.gle/37CAI45</span></a><span style= \"font-weight: 400;\">\u00a0</span></li> <li style=\"font-weight: 400;\" aria-level=\"1\"><span style= \"font-weight: 400;\">PROXX \u2192</span> <a href= \"https://goo.gle/3iAQbrQ\"><span style= \"font-weight: 400;\">https://goo.gle/3iAQbrQ</span></a><span style= \"font-weight: 400;\">\u00a0</span></li> <li style=\"font-weight: 400;\" aria-level=\"1\"><span style= \"font-weight: 400;\">Weird emails from browser testing services \u2192</span> <a href=\"https://goo.gle/3fKQazB\"><span style= \"font-weight: 400;\">https://goo.gle/3fKQazB</span></a><span style= \"font-weight: 400;\">\u00a0</span></li> </ul> <p>\u00a0</p> <p><span style=\"font-weight: 400;\">Catch videos from the HTTP 203 series \u2192</span> <a href=\"http://goo.gle/HTTP203\"><span style= \"font-weight: 400;\">http://goo.gle/HTTP203</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Subscribe to Google Chrome Developers \u2192</span> <a href= \"https://goo.gle/ChromeDevs\"><span style= \"font-weight: 400;\">https://goo.gle/ChromeDevs</span></a></p>",
+            "content:encoded": "<p>In this episode, Surma and Jake chat about:</p> <p>\u00a0</p> <ul> <li style=\"font-weight: 400;\" aria-level=\"1\">Transcript \u2192 <a href= \"https://goo.gle/2XHz1Rz\">https://goo.gle/2XHz1Rz</a>\u00a0</li> <li style=\"font-weight: 400;\" aria-level=\"1\">HTTP 203 on memory debugging \u2192 <a href= \"https://goo.gle/2VDXRAQ\">https://goo.gle/2VDXRAQ</a>\u00a0</li> <li style=\"font-weight: 400;\" aria-level=\"1\">Box-sizing \u2192 <a href= \"https://goo.gle/3jDvH0R\">https://goo.gle/3jDvH0R</a>\u00a0</li> <li style=\"font-weight: 400;\" aria-level=\"1\">IE5.5 box model \u2192 <a href= \"https://goo.gle/3izbY39\">https://goo.gle/3izbY39</a>\u00a0</li> <li style=\"font-weight: 400;\" aria-level=\"1\">Tim Perry's article \u2192 <a href= \"https://goo.gle/3jFeWCx\">https://goo.gle/3jFeWCx</a>\u00a0</li> <li style=\"font-weight: 400;\" aria-level=\"1\">IE double margin bug \u2192 <a href= \"https://goo.gle/3xzKWNi\">https://goo.gle/3xzKWNi</a>\u00a0</li> <li style=\"font-weight: 400;\" aria-level=\"1\">IE duplicate characters bug \u2192 <a href= \"https://goo.gle/2U5M7X7\">https://goo.gle/2U5M7X7</a>\u00a0</li> <li style=\"font-weight: 400;\" aria-level=\"1\">Dave Rupert's article \u2192 <a href= \"https://goo.gle/37CAI45\">https://goo.gle/37CAI45</a>\u00a0</li> <li style=\"font-weight: 400;\" aria-level=\"1\">PROXX \u2192 <a href= \"https://goo.gle/3iAQbrQ\">https://goo.gle/3iAQbrQ</a>\u00a0</li> <li style=\"font-weight: 400;\" aria-level=\"1\">Weird emails from browser testing services \u2192 <a href=\"https://goo.gle/3fKQazB\">https://goo.gle/3fKQazB</a>\u00a0</li> </ul> <p>\u00a0</p> <p>Catch videos from the HTTP 203 series \u2192 <a href=\"http://goo.gle/HTTP203\">http://goo.gle/HTTP203</a>\u00a0</p> <p>Subscribe to Google Chrome Developers \u2192 <a href= \"https://goo.gle/ChromeDevs\">https://goo.gle/ChromeDevs</a></p>",
+            "content:encodedSnippet": "In this episode, Surma and Jake chat about:\n \u00a0\n  \nTranscript \u2192 https://goo.gle/2XHz1Rz\u00a0\n HTTP 203 on memory debugging \u2192 https://goo.gle/2VDXRAQ\u00a0\n Box-sizing \u2192 https://goo.gle/3jDvH0R\u00a0\n IE5.5 box model \u2192 https://goo.gle/3izbY39\u00a0\n Tim Perry's article \u2192 https://goo.gle/3jFeWCx\u00a0\n IE double margin bug \u2192 https://goo.gle/3xzKWNi\u00a0\n IE duplicate characters bug \u2192 https://goo.gle/2U5M7X7\u00a0\n Dave Rupert's article \u2192 https://goo.gle/37CAI45\u00a0\n PROXX \u2192 https://goo.gle/3iAQbrQ\u00a0\n Weird emails from browser testing services \u2192 https://goo.gle/3fKQazB\u00a0\n  \n\u00a0 \nCatch videos from the HTTP 203 series \u2192 http://goo.gle/HTTP203\u00a0\n Subscribe to Google Chrome Developers \u2192 https://goo.gle/ChromeDevs",
+            "contentSnippet": "In this episode, Surma and Jake chat about:\n \u00a0\n  \nTranscript \u2192 https://goo.gle/2XHz1Rz\u00a0\n HTTP 203 on memory debugging \u2192 https://goo.gle/2VDXRAQ\u00a0\n Box-sizing \u2192 https://goo.gle/3jDvH0R\u00a0\n IE5.5 box model \u2192 https://goo.gle/3izbY39\u00a0\n Tim Perry's article \u2192 https://goo.gle/3jFeWCx\u00a0\n IE double margin bug \u2192 https://goo.gle/3xzKWNi\u00a0\n IE duplicate characters bug \u2192 https://goo.gle/2U5M7X7\u00a0\n Dave Rupert's article \u2192 https://goo.gle/37CAI45\u00a0\n PROXX \u2192 https://goo.gle/3iAQbrQ\u00a0\n Weird emails from browser testing services \u2192 https://goo.gle/3fKQazB\u00a0\n  \n\u00a0 \nCatch videos from the HTTP 203 series \u2192 http://goo.gle/HTTP203\u00a0\n Subscribe to Google Chrome Developers \u2192 https://goo.gle/ChromeDevs",
+            "enclosure": {
+                "length": "29374777",
+                "type": "audio/mp4",
+                "url": "https://traffic.libsyn.com/secure/http203/2021-aug-http-203-mixdown.m4a?dest-id=1969313"
+            },
+            "guid": "ae7ec14f-f863-4ba5-bf40-feef865ab72a",
+            "isoDate": "2021-08-10T15:01:12.000Z",
+            "itunes": {
+                "author": "Google",
+                "duration": "01:12:20",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/4/0/a/0/40a057340c51398b/HTTP_Podcast_Episodes_thumb_v2_1.png",
+                "keywords": "Google,chromedevelopers,http203,googlechromedevelopersgooglechrome",
+                "subtitle": "And lots of tangents"
+            },
+            "link": "https://traffic.libsyn.com/secure/http203/2021-aug-http-203-mixdown.m4a",
+            "pubDate": "Tue, 10 Aug 2021 15:01:12 +0000",
+            "title": "Is Safari the new IE?"
+        },
+        {
+            "content": "<p><span style=\"font-weight: 400;\">In this episode, Surma and Jake chat about:</span></p> <p>\u00a0</p> <p><span style=\"font-weight: 400;\">Jake's 100kAMA, pose questions here \u2192</span> <a href=\"https://goo.gle/3swYDKz\"><span style= \"font-weight: 400;\">https://goo.gle/3swYDKz</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Jake's 'bake-dancing' \u2192 <a href= \"https://goo.gle/3ajBFjx\">https://goo.gle/3ajBFjx</a>\u00a0</span></p> <p><span style=\"font-weight: 400;\">The wee scale</span></p> <p><span style=\"font-weight: 400;\">Hype trains</span></p> <p><span style=\"font-weight: 400;\">Esbuild \u2192 <a href= \"https://goo.gle/3go1Nhc\">https://goo.gle/3go1Nhc</a>\u00a0</span></p> <p><span style=\"font-weight: 400;\">Squoosh \u2192 <a href= \"https://squoosh.app/\">https://squoosh.app/</a>\u00a0</span></p> <p><span style=\"font-weight: 400;\">Surma's JPEG-XL art tool \u2192 <a href= \"https://goo.gle/3n1kCYT\">https://goo.gle/3n1kCYT</a>\u00a0</span></p> <p><span style=\"font-weight: 400;\">tooling.report \u2192 <a href= \"https://tooling.report/\">https://tooling.report/</a>\u00a0</span></p> <p><span style=\"font-weight: 400;\">JPEG-XL comparison \u2192 <a href= \"https://goo.gle/3x5hhN5\">https://goo.gle/3x5hhN5</a>\u00a0</span></p> <p><span style=\"font-weight: 400;\">JPEG-XL features</span></p> <p><span style=\"font-weight: 400;\">The quality of web images</span></p> <p><span style=\"font-weight: 400;\">React on initial HTML \u2192 <a href= \"https://goo.gle/3n3OwLZ\">https://goo.gle/3n3OwLZ</a>\u00a0</span></p> <p><span style=\"font-weight: 400;\">What does 'inline CSS' mean?</span></p> <p><span style=\"font-weight: 400;\">F1 website performance \u2192 <a href=\"https://goo.gle/3v8e6CB\">https://goo.gle/3v8e6CB</a>\u00a0</span></p> <p><span style=\"font-weight: 400;\">AVIF blur preview \u2192 <a href= \"https://goo.gle/3dsjk63\">https://goo.gle/3dsjk63</a>\u00a0</span></p> <p><span style=\"font-weight: 400;\">Progressive rendering \u2192 <a href= \"https://goo.gle/3ecNjOC\">https://goo.gle/3ecNjOC</a>\u00a0</span></p> <p><span style=\"font-weight: 400;\">Google I/O \u2192 <a href= \"https://goo.gle/32tCVwc\">https://goo.gle/32tCVwc</a></span></p>",
+            "content:encoded": "<p>In this episode, Surma and Jake chat about:</p> <p>\u00a0</p> <p>Jake's 100kAMA, pose questions here \u2192 <a href=\"https://goo.gle/3swYDKz\">https://goo.gle/3swYDKz</a>\u00a0</p> <p>Jake's 'bake-dancing' \u2192 <a href= \"https://goo.gle/3ajBFjx\">https://goo.gle/3ajBFjx</a>\u00a0</p> <p>The wee scale</p> <p>Hype trains</p> <p>Esbuild \u2192 <a href= \"https://goo.gle/3go1Nhc\">https://goo.gle/3go1Nhc</a>\u00a0</p> <p>Squoosh \u2192 <a href= \"https://squoosh.app/\">https://squoosh.app/</a>\u00a0</p> <p>Surma's JPEG-XL art tool \u2192 <a href= \"https://goo.gle/3n1kCYT\">https://goo.gle/3n1kCYT</a>\u00a0</p> <p>tooling.report \u2192 <a href= \"https://tooling.report/\">https://tooling.report/</a>\u00a0</p> <p>JPEG-XL comparison \u2192 <a href= \"https://goo.gle/3x5hhN5\">https://goo.gle/3x5hhN5</a>\u00a0</p> <p>JPEG-XL features</p> <p>The quality of web images</p> <p>React on initial HTML \u2192 <a href= \"https://goo.gle/3n3OwLZ\">https://goo.gle/3n3OwLZ</a>\u00a0</p> <p>What does 'inline CSS' mean?</p> <p>F1 website performance \u2192 <a href=\"https://goo.gle/3v8e6CB\">https://goo.gle/3v8e6CB</a>\u00a0</p> <p>AVIF blur preview \u2192 <a href= \"https://goo.gle/3dsjk63\">https://goo.gle/3dsjk63</a>\u00a0</p> <p>Progressive rendering \u2192 <a href= \"https://goo.gle/3ecNjOC\">https://goo.gle/3ecNjOC</a>\u00a0</p> <p>Google I/O \u2192 <a href= \"https://goo.gle/32tCVwc\">https://goo.gle/32tCVwc</a></p>",
+            "content:encodedSnippet": "In this episode, Surma and Jake chat about:\n \u00a0\n Jake's 100kAMA, pose questions here \u2192 https://goo.gle/3swYDKz\u00a0\n Jake's 'bake-dancing' \u2192 https://goo.gle/3ajBFjx\u00a0\n The wee scale\n Hype trains\n Esbuild \u2192 https://goo.gle/3go1Nhc\u00a0\n Squoosh \u2192 https://squoosh.app/\u00a0\n Surma's JPEG-XL art tool \u2192 https://goo.gle/3n1kCYT\u00a0\n tooling.report \u2192 https://tooling.report/\u00a0\n JPEG-XL comparison \u2192 https://goo.gle/3x5hhN5\u00a0\n JPEG-XL features\n The quality of web images\n React on initial HTML \u2192 https://goo.gle/3n3OwLZ\u00a0\n What does 'inline CSS' mean?\n F1 website performance \u2192 https://goo.gle/3v8e6CB\u00a0\n AVIF blur preview \u2192 https://goo.gle/3dsjk63\u00a0\n Progressive rendering \u2192 https://goo.gle/3ecNjOC\u00a0\n Google I/O \u2192 https://goo.gle/32tCVwc",
+            "contentSnippet": "In this episode, Surma and Jake chat about:\n \u00a0\n Jake's 100kAMA, pose questions here \u2192 https://goo.gle/3swYDKz\u00a0\n Jake's 'bake-dancing' \u2192 https://goo.gle/3ajBFjx\u00a0\n The wee scale\n Hype trains\n Esbuild \u2192 https://goo.gle/3go1Nhc\u00a0\n Squoosh \u2192 https://squoosh.app/\u00a0\n Surma's JPEG-XL art tool \u2192 https://goo.gle/3n1kCYT\u00a0\n tooling.report \u2192 https://tooling.report/\u00a0\n JPEG-XL comparison \u2192 https://goo.gle/3x5hhN5\u00a0\n JPEG-XL features\n The quality of web images\n React on initial HTML \u2192 https://goo.gle/3n3OwLZ\u00a0\n What does 'inline CSS' mean?\n F1 website performance \u2192 https://goo.gle/3v8e6CB\u00a0\n AVIF blur preview \u2192 https://goo.gle/3dsjk63\u00a0\n Progressive rendering \u2192 https://goo.gle/3ecNjOC\u00a0\n Google I/O \u2192 https://goo.gle/32tCVwc",
+            "enclosure": {
+                "length": "29551914",
+                "type": "audio/mp4",
+                "url": "https://traffic.libsyn.com/secure/http203/2021-apr-http-203-mixdown.m4a?dest-id=1969313"
+            },
+            "guid": "e0b1ae68-36a8-4134-83bb-dd84b8e6092b",
+            "isoDate": "2021-04-22T14:05:46.000Z",
+            "itunes": {
+                "author": "Google",
+                "duration": "01:12:45",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/4/0/a/0/40a057340c51398b/HTTP_Podcast_Episodes_thumb_v2_1.png",
+                "keywords": "Chrome,googlechrome,chromedevelopers,googlechromedevelopers,http203,jakeandsurma",
+                "subtitle": "Also image previews, performance, and WASM"
+            },
+            "link": "https://traffic.libsyn.com/secure/http203/2021-apr-http-203-mixdown.m4a",
+            "pubDate": "Thu, 22 Apr 2021 14:05:46 +0000",
+            "title": "When the hype train turns out to be a bus replacement service"
+        },
+        {
+            "content": "<p>In this episode of the top-10-most-popular-JavaScript podcast, Jake and Surma chat about:</p> <p>\u00a0</p> <p>Using our blogs to experiment with build systems.</p> <p>Jake's \u2192 <a href= \"http://goo.gle/3pi4sL5\">http://goo.gle/3pi4sL5</a></p> <p>Surma's \u2192 <a href= \"http://goo.gle/39dg8sK\">http://goo.gle/39dg8sK</a></p> <p>11ty \u2192 <a href= \"https://www.11ty.dev/\">https://www.11ty.dev/</a></p> <p>Jake's static build \u2192 <a href= \"http://goo.gle/2Mi7254\">http://goo.gle/2Mi7254</a></p> <p>Hydrated components in Jake's posts \u2192 <a href= \"http://goo.gle/3a0DOjt\">http://goo.gle/3a0DOjt</a></p> <p>And where those are processed \u2192 <a href= \"http://goo.gle/36c8qgB\">http://goo.gle/36c8qgB</a></p> <p>Surma's dithering post \u2192 <a href= \"http://goo.gle/3c8c8f2\">http://goo.gle/3c8c8f2</a></p> <p>\u00a0</p> <p>Cats and laser pens</p> <p>Dogs and teeth</p> <p>Improving the safety of Jedi training</p> <p>\u00a0</p> <p>The old _blank behaviour \u2192 <a href= \"http://goo.gle/3ojucoS\">http://goo.gle/3ojucoS</a></p> <p>The spec change \u2192 <a href= \"http://goo.gle/2YednBo\">http://goo.gle/2YednBo</a></p> <p>The browsing context \u2192 <a href= \"http://goo.gle/2M5R0vf\">http://goo.gle/2M5R0vf</a></p> <p>Cross-origin-opener-policy \u2192 <a href= \"http://goo.gle/2Mi7kZI\">http://goo.gle/2Mi7kZI</a></p> <p>window.open \u2192 <a href= \"http://goo.gle/3cfBPup\">http://goo.gle/3cfBPup</a></p> <p>Back/forward cache \u2192 <a href= \"https://web.dev/bfcache/\">https://web.dev/bfcache/</a></p> <p>\u00a0</p> <p>Old blocks proposal \u2192 <a href= \"http://goo.gle/2M4SeqL\">http://goo.gle/2M4SeqL</a></p> <p>New blocks proposal \u2192 <a href= \"http://goo.gle/2Yd7iVK\">http://goo.gle/2Yd7iVK</a></p> <p>\u00a0</p> <p>Lockdown dreams</p> <p>Lottery fail \u2192 <a href= \"https://goo.gle/2M1EgpA\">https://goo.gle/2M1EgpA</a></p>",
+            "content:encoded": "<p>In this episode of the top-10-most-popular-JavaScript podcast, Jake and Surma chat about:</p> <p>\u00a0</p> <p>Using our blogs to experiment with build systems.</p> <p>Jake's \u2192 <a href= \"http://goo.gle/3pi4sL5\">http://goo.gle/3pi4sL5</a></p> <p>Surma's \u2192 <a href= \"http://goo.gle/39dg8sK\">http://goo.gle/39dg8sK</a></p> <p>11ty \u2192 <a href= \"https://www.11ty.dev/\">https://www.11ty.dev/</a></p> <p>Jake's static build \u2192 <a href= \"http://goo.gle/2Mi7254\">http://goo.gle/2Mi7254</a></p> <p>Hydrated components in Jake's posts \u2192 <a href= \"http://goo.gle/3a0DOjt\">http://goo.gle/3a0DOjt</a></p> <p>And where those are processed \u2192 <a href= \"http://goo.gle/36c8qgB\">http://goo.gle/36c8qgB</a></p> <p>Surma's dithering post \u2192 <a href= \"http://goo.gle/3c8c8f2\">http://goo.gle/3c8c8f2</a></p> <p>\u00a0</p> <p>Cats and laser pens</p> <p>Dogs and teeth</p> <p>Improving the safety of Jedi training</p> <p>\u00a0</p> <p>The old _blank behaviour \u2192 <a href= \"http://goo.gle/3ojucoS\">http://goo.gle/3ojucoS</a></p> <p>The spec change \u2192 <a href= \"http://goo.gle/2YednBo\">http://goo.gle/2YednBo</a></p> <p>The browsing context \u2192 <a href= \"http://goo.gle/2M5R0vf\">http://goo.gle/2M5R0vf</a></p> <p>Cross-origin-opener-policy \u2192 <a href= \"http://goo.gle/2Mi7kZI\">http://goo.gle/2Mi7kZI</a></p> <p>window.open \u2192 <a href= \"http://goo.gle/3cfBPup\">http://goo.gle/3cfBPup</a></p> <p>Back/forward cache \u2192 <a href= \"https://web.dev/bfcache/\">https://web.dev/bfcache/</a></p> <p>\u00a0</p> <p>Old blocks proposal \u2192 <a href= \"http://goo.gle/2M4SeqL\">http://goo.gle/2M4SeqL</a></p> <p>New blocks proposal \u2192 <a href= \"http://goo.gle/2Yd7iVK\">http://goo.gle/2Yd7iVK</a></p> <p>\u00a0</p> <p>Lockdown dreams</p> <p>Lottery fail \u2192 <a href= \"https://goo.gle/2M1EgpA\">https://goo.gle/2M1EgpA</a></p>",
+            "content:encodedSnippet": "In this episode of the top-10-most-popular-JavaScript podcast, Jake and Surma chat about:\n \u00a0\n Using our blogs to experiment with build systems.\n Jake's \u2192 http://goo.gle/3pi4sL5\n Surma's \u2192 http://goo.gle/39dg8sK\n 11ty \u2192 https://www.11ty.dev/\n Jake's static build \u2192 http://goo.gle/2Mi7254\n Hydrated components in Jake's posts \u2192 http://goo.gle/3a0DOjt\n And where those are processed \u2192 http://goo.gle/36c8qgB\n Surma's dithering post \u2192 http://goo.gle/3c8c8f2\n \u00a0\n Cats and laser pens\n Dogs and teeth\n Improving the safety of Jedi training\n \u00a0\n The old _blank behaviour \u2192 http://goo.gle/3ojucoS\n The spec change \u2192 http://goo.gle/2YednBo\n The browsing context \u2192 http://goo.gle/2M5R0vf\n Cross-origin-opener-policy \u2192 http://goo.gle/2Mi7kZI\n window.open \u2192 http://goo.gle/3cfBPup\n Back/forward cache \u2192 https://web.dev/bfcache/\n \u00a0\n Old blocks proposal \u2192 http://goo.gle/2M4SeqL\n New blocks proposal \u2192 http://goo.gle/2Yd7iVK\n \u00a0\n Lockdown dreams\n Lottery fail \u2192 https://goo.gle/2M1EgpA",
+            "contentSnippet": "In this episode of the top-10-most-popular-JavaScript podcast, Jake and Surma chat about:\n \u00a0\n Using our blogs to experiment with build systems.\n Jake's \u2192 http://goo.gle/3pi4sL5\n Surma's \u2192 http://goo.gle/39dg8sK\n 11ty \u2192 https://www.11ty.dev/\n Jake's static build \u2192 http://goo.gle/2Mi7254\n Hydrated components in Jake's posts \u2192 http://goo.gle/3a0DOjt\n And where those are processed \u2192 http://goo.gle/36c8qgB\n Surma's dithering post \u2192 http://goo.gle/3c8c8f2\n \u00a0\n Cats and laser pens\n Dogs and teeth\n Improving the safety of Jedi training\n \u00a0\n The old _blank behaviour \u2192 http://goo.gle/3ojucoS\n The spec change \u2192 http://goo.gle/2YednBo\n The browsing context \u2192 http://goo.gle/2M5R0vf\n Cross-origin-opener-policy \u2192 http://goo.gle/2Mi7kZI\n window.open \u2192 http://goo.gle/3cfBPup\n Back/forward cache \u2192 https://web.dev/bfcache/\n \u00a0\n Old blocks proposal \u2192 http://goo.gle/2M4SeqL\n New blocks proposal \u2192 http://goo.gle/2Yd7iVK\n \u00a0\n Lockdown dreams\n Lottery fail \u2192 https://goo.gle/2M1EgpA",
+            "enclosure": {
+                "length": "22032728",
+                "type": "audio/mp4",
+                "url": "https://traffic.libsyn.com/secure/http203/HTT_P007.m4a?dest-id=1969313"
+            },
+            "guid": "39e89d6c-a003-4d20-97d8-1f948435ce63",
+            "isoDate": "2021-01-26T22:00:00.000Z",
+            "itunes": {
+                "author": "Google",
+                "duration": "54:13",
+                "episode": "7",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/4/0/a/0/40a057340c51398b/HTTP_Podcast_Episodes_thumb_v2_1.png",
+                "keywords": "Web,javascript,techpodcasts,Workers,coop,Chrome,developers,blocks,googlepodcast,11ty,chromepodcast,preact,buildtools,http203,crossoriginopenerpolicy",
+                "season": "1",
+                "subtitle": "Also, dog teeth, Jedi safety, and limescale"
+            },
+            "link": "https://traffic.libsyn.com/secure/http203/HTT_P007.m4a",
+            "pubDate": "Tue, 26 Jan 2021 22:00:00 +0000",
+            "title": "Blog build tools, JS blocks, and opener-policy"
+        },
+        {
+            "content": "<p><span style=\"font-weight: 400;\">- Jake messed up his recording, so it sounds like he literally phoned it in. He is very sorry.</span></p> <p><span style=\"font-weight: 400;\">- Where do you put clothes that are in active service?</span></p> <p><span style=\"font-weight: 400;\">- How the star system of hotels should work</span></p> <p><span style=\"font-weight: 400;\">- Jake hates Eastenders</span></p> <p><span style=\"font-weight: 400;\">- The <portal> element \u2192 https://goo.gle/3ihojWy</span></p> <p><span style=\"font-weight: 400;\">- The session history traversal bit of the spec \u2192 https://goo.gle/2DCnqcg</span></p> <p><span style=\"font-weight: 400;\">- Jake's writeup of how history behaves in browsers & spec proposal \u2192 https://goo.gle/33vrVQQ</span></p> <p><span style=\"font-weight: 400;\">- The back-forward page cache \u2192 https://goo.gle/30vE06K</span></p> <p><span style=\"font-weight: 400;\">- Moving an iframe \u2192 https://goo.gle/30Ae9L0</span></p> <p><span style=\"font-weight: 400;\">- COOP & COEP to get SharedArrayBuffer back \u2192 https://goo.gle/3kcAiqt</span></p> <p><span style=\"font-weight: 400;\">- To what degree does \"talent\" exist? Is talent simply practice? \u2192 https://goo.gle/2EXm9gG</span></p> <p><span style=\"font-weight: 400;\">- The social and economic advantages you need to become good at something</span></p> <p><span style=\"font-weight: 400;\">- Does piracy have a valid place in helping disadvantaged folks learn software?</span></p> <p><span style=\"font-weight: 400;\">- Different kinds of practice: Work, play, and deliberate practice.</span></p> <p><span style=\"font-weight: 400;\">- Informer by Snow \u2192 https://goo.gle/3kj1K60</span></p> <p><span style=\"font-weight: 400;\">- This great Informer tweet \u2192 https://goo.gle/3fAota2</span></p> <p><span style=\"font-weight: 400;\">- Jon Snow dancing \u2192 https://goo.gle/2DCqcOI</span></p> <p><span style=\"font-weight: 400;\">- The short version of HTTP203 \u2192 https://goo.gle/31ulRoW</span></p> <p><br /> <br /></p>",
+            "content:encoded": "<p>- Jake messed up his recording, so it sounds like he literally phoned it in. He is very sorry.</p> <p>- Where do you put clothes that are in active service?</p> <p>- How the star system of hotels should work</p> <p>- Jake hates Eastenders</p> <p>- The  element \u2192 https://goo.gle/3ihojWy</p> <p>- The session history traversal bit of the spec \u2192 https://goo.gle/2DCnqcg</p> <p>- Jake's writeup of how history behaves in browsers & spec proposal \u2192 https://goo.gle/33vrVQQ</p> <p>- The back-forward page cache \u2192 https://goo.gle/30vE06K</p> <p>- Moving an iframe \u2192 https://goo.gle/30Ae9L0</p> <p>- COOP & COEP to get SharedArrayBuffer back \u2192 https://goo.gle/3kcAiqt</p> <p>- To what degree does \"talent\" exist? Is talent simply practice? \u2192 https://goo.gle/2EXm9gG</p> <p>- The social and economic advantages you need to become good at something</p> <p>- Does piracy have a valid place in helping disadvantaged folks learn software?</p> <p>- Different kinds of practice: Work, play, and deliberate practice.</p> <p>- Informer by Snow \u2192 https://goo.gle/3kj1K60</p> <p>- This great Informer tweet \u2192 https://goo.gle/3fAota2</p> <p>- Jon Snow dancing \u2192 https://goo.gle/2DCqcOI</p> <p>- The short version of HTTP203 \u2192 https://goo.gle/31ulRoW</p> <p> </p>",
+            "content:encodedSnippet": "- Jake messed up his recording, so it sounds like he literally phoned it in. He is very sorry.\n - Where do you put clothes that are in active service?\n - How the star system of hotels should work\n - Jake hates Eastenders\n - The  element \u2192 https://goo.gle/3ihojWy\n - The session history traversal bit of the spec \u2192 https://goo.gle/2DCnqcg\n - Jake's writeup of how history behaves in browsers & spec proposal \u2192 https://goo.gle/33vrVQQ\n - The back-forward page cache \u2192 https://goo.gle/30vE06K\n - Moving an iframe \u2192 https://goo.gle/30Ae9L0\n - COOP & COEP to get SharedArrayBuffer back \u2192 https://goo.gle/3kcAiqt\n - To what degree does \"talent\" exist? Is talent simply practice? \u2192 https://goo.gle/2EXm9gG\n - The social and economic advantages you need to become good at something\n - Does piracy have a valid place in helping disadvantaged folks learn software?\n - Different kinds of practice: Work, play, and deliberate practice.\n - Informer by Snow \u2192 https://goo.gle/3kj1K60\n - This great Informer tweet \u2192 https://goo.gle/3fAota2\n - Jon Snow dancing \u2192 https://goo.gle/2DCqcOI\n - The short version of HTTP203 \u2192 https://goo.gle/31ulRoW",
+            "contentSnippet": "- Jake messed up his recording, so it sounds like he literally phoned it in. He is very sorry.\n - Where do you put clothes that are in active service?\n - How the star system of hotels should work\n - Jake hates Eastenders\n - The \n element \u2192 https://goo.gle/3ihojWy\n - The session history traversal bit of the spec \u2192 https://goo.gle/2DCnqcg\n - Jake's writeup of how history behaves in browsers & spec proposal \u2192 https://goo.gle/33vrVQQ\n - The back-forward page cache \u2192 https://goo.gle/30vE06K\n - Moving an iframe \u2192 https://goo.gle/30Ae9L0\n - COOP & COEP to get SharedArrayBuffer back \u2192 https://goo.gle/3kcAiqt\n - To what degree does \"talent\" exist? Is talent simply practice? \u2192 https://goo.gle/2EXm9gG\n - The social and economic advantages you need to become good at something\n - Does piracy have a valid place in helping disadvantaged folks learn software?\n - Different kinds of practice: Work, play, and deliberate practice.\n - Informer by Snow \u2192 https://goo.gle/3kj1K60\n - This great Informer tweet \u2192 https://goo.gle/3fAota2\n - Jon Snow dancing \u2192 https://goo.gle/2DCqcOI\n - The short version of HTTP203 \u2192 https://goo.gle/31ulRoW",
+            "enclosure": {
+                "length": "29638112",
+                "type": "audio/mp4",
+                "url": "https://traffic.libsyn.com/secure/http203/HTT_P006_v2.m4a?dest-id=1969313"
+            },
+            "guid": "e1c554d6-30cf-46b8-a4d8-4d66304e3f62",
+            "isoDate": "2020-08-10T17:00:00.000Z",
+            "itunes": {
+                "author": "Google",
+                "duration": "01:16:54",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/4/0/a/0/40a057340c51398b/HTTP_Podcast_Episodes_thumb_v2_1.png",
+                "keywords": "Web,javascript,techpodcasts,coop,Chrome,developers,browsers,newpodcasts,googlepodcast,chromepodcast,coopandcoep,movinganiframe,howhistorybehavesinbrowsers,historyinbrowsers,backforwardpagecache,coep,http203",
+                "subtitle": "Also, active clothing protocols, hotel ratings, and hair."
+            },
+            "link": "https://traffic.libsyn.com/secure/http203/HTT_P006_v2.m4a",
+            "pubDate": "Mon, 10 Aug 2020 17:00:00 +0000",
+            "title": "How does back/forward actually work, and does 'talent' even exist?"
+        },
+        {
+            "content": "<p><span style=\"font-weight: 400;\">- Surma\u2019s photo challenge:</span> <a href= \"https://www.instagram.com/p/CBTiwExnIe6/\"><span style= \"font-weight: 400;\">https://www.instagram.com/p/CBTiwExnIe6/</span></a></p> <p><span style=\"font-weight: 400;\">- https://web.dev/live happened!</span></p> <p><span style=\"font-weight: 400;\">- Jake's image compression talk \u2192</span> <a href=\"https://goo.gle/2NZ4erd\"><span style= \"font-weight: 400;\">https://goo.gle/2NZ4erd</span></a></p> <p><span style=\"font-weight: 400;\">- Jake & Jason write build plugins \u2192</span> <a href=\"https://goo.gle/2CajSNF\"><span style= \"font-weight: 400;\">https://goo.gle/2CajSNF</span></a></p> <p><span style=\"font-weight: 400;\">-</span> <a href= \"https://tooling.report\"><span style= \"font-weight: 400;\">https://tooling.report</span></a> <span style= \"font-weight: 400;\">goes live!</span></p> <p><span style=\"font-weight: 400;\">- webpack's weird behaviour with entry points \u2192 https://goo.gle/3iEQfVl</span></p> <p><span style=\"font-weight: 400;\">- Rollup's docs \u2192</span> <a href=\"https://rollupjs.org/\"><span style= \"font-weight: 400;\">https://rollupjs.org/</span></a></p> <p><span style=\"font-weight: 400;\">- Rollup's issues with hashing \u2192</span> <a href=\"https://goo.gle/3gC4rwS\"><span style= \"font-weight: 400;\">https://goo.gle/3gC4rwS</span></a></p> <p><span style=\"font-weight: 400;\">- Import maps \u2192</span> <a href= \"https://goo.gle/38CFfn8\"><span style= \"font-weight: 400;\">https://goo.gle/38CFfn8</span></a></p> <p><span style=\"font-weight: 400;\">- SystemJS import maps \u2192</span> <a href=\"https://goo.gle/31TAxA2\"><span style= \"font-weight: 400;\">https://goo.gle/31TAxA2</span></a></p> <p><span style=\"font-weight: 400;\">- Hash cascading \u2192</span> <a href=\"https://goo.gle/2VWXWwG\"><span style= \"font-weight: 400;\">https://goo.gle/2VWXWwG</span></a><span style= \"font-weight: 400;\">\u00a0</span></p>",
+            "content:encoded": "<p>- Surma\u2019s photo challenge: <a href= \"https://www.instagram.com/p/CBTiwExnIe6/\">https://www.instagram.com/p/CBTiwExnIe6/</a></p> <p>- https://web.dev/live happened!</p> <p>- Jake's image compression talk \u2192 <a href=\"https://goo.gle/2NZ4erd\">https://goo.gle/2NZ4erd</a></p> <p>- Jake & Jason write build plugins \u2192 <a href=\"https://goo.gle/2CajSNF\">https://goo.gle/2CajSNF</a></p> <p>- <a href= \"https://tooling.report\">https://tooling.report</a> goes live!</p> <p>- webpack's weird behaviour with entry points \u2192 https://goo.gle/3iEQfVl</p> <p>- Rollup's docs \u2192 <a href=\"https://rollupjs.org/\">https://rollupjs.org/</a></p> <p>- Rollup's issues with hashing \u2192 <a href=\"https://goo.gle/3gC4rwS\">https://goo.gle/3gC4rwS</a></p> <p>- Import maps \u2192 <a href= \"https://goo.gle/38CFfn8\">https://goo.gle/38CFfn8</a></p> <p>- SystemJS import maps \u2192 <a href=\"https://goo.gle/31TAxA2\">https://goo.gle/31TAxA2</a></p> <p>- Hash cascading \u2192 <a href=\"https://goo.gle/2VWXWwG\">https://goo.gle/2VWXWwG</a>\u00a0</p>",
+            "content:encodedSnippet": "- Surma\u2019s photo challenge: https://www.instagram.com/p/CBTiwExnIe6/\n - https://web.dev/live happened!\n - Jake's image compression talk \u2192 https://goo.gle/2NZ4erd\n - Jake & Jason write build plugins \u2192 https://goo.gle/2CajSNF\n - https://tooling.report goes live!\n - webpack's weird behaviour with entry points \u2192 https://goo.gle/3iEQfVl\n - Rollup's docs \u2192 https://rollupjs.org/\n - Rollup's issues with hashing \u2192 https://goo.gle/3gC4rwS\n - Import maps \u2192 https://goo.gle/38CFfn8\n - SystemJS import maps \u2192 https://goo.gle/31TAxA2\n - Hash cascading \u2192 https://goo.gle/2VWXWwG",
+            "contentSnippet": "- Surma\u2019s photo challenge: https://www.instagram.com/p/CBTiwExnIe6/\n - https://web.dev/live happened!\n - Jake's image compression talk \u2192 https://goo.gle/2NZ4erd\n - Jake & Jason write build plugins \u2192 https://goo.gle/2CajSNF\n - https://tooling.report goes live!\n - webpack's weird behaviour with entry points \u2192 https://goo.gle/3iEQfVl\n - Rollup's docs \u2192 https://rollupjs.org/\n - Rollup's issues with hashing \u2192 https://goo.gle/3gC4rwS\n - Import maps \u2192 https://goo.gle/38CFfn8\n - SystemJS import maps \u2192 https://goo.gle/31TAxA2\n - Hash cascading \u2192 https://goo.gle/2VWXWwG",
+            "enclosure": {
+                "length": "25102426",
+                "type": "audio/mp4",
+                "url": "https://traffic.libsyn.com/secure/http203/HTT_P005.m4a?dest-id=1969313"
+            },
+            "guid": "ac7160b4-9a7d-4bfe-a4ba-2df5eb4437fe",
+            "isoDate": "2020-07-09T17:00:00.000Z",
+            "itunes": {
+                "author": "Google",
+                "duration": "01:01:48",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/4/0/a/0/40a057340c51398b/HTTP_Podcast_Episodes_thumb_v2_1.png",
+                "keywords": "Web,performance,javascript,techpodcasts,Chrome,developers,js,rollup,parcel,webdev,newpodcasts,webpack,systemjs,googlepodcast,chromepodcast,buildtoolwritebuildplugins,webdevlive,importmaps,buildtools",
+                "subtitle": "The present and future of webpack, Rollup, and Parcel"
+            },
+            "link": "https://traffic.libsyn.com/secure/http203/HTT_P005.m4a",
+            "pubDate": "Thu, 09 Jul 2020 17:00:00 +0000",
+            "title": "The big build-tool bonanza"
+        },
+        {
+            "content": "<p><span style=\"font-weight: 400;\">- The Count from Sesame Street swearing \u2192</span> <a href=\"https://goo.gle/3ftsgqL\"><span style= \"font-weight: 400;\">https://goo.gle/3ftsgqL</span></a> <span style= \"font-weight: 400;\">(warning: silly/rude)</span></p> <p><span style=\"font-weight: 400;\">- Ofcom research into broadcast swearing \u2192</span> <a href=\"https://goo.gle/2A9xM1B\"><span style= \"font-weight: 400;\">https://goo.gle/2A9xM1B</span></a> <span style= \"font-weight: 400;\">(warning: lots of really bad language) (bigger warning: PDF)</span></p> <p><span style=\"font-weight: 400;\">- Banned word list read by a computer \u2192</span> <a href=\"https://goo.gle/2SNkgat\"><span style= \"font-weight: 400;\">https://goo.gle/2SNkgat</span></a> <span style= \"font-weight: 400;\">(warning: lots of really bad language)</span></p> <p>\u00a0</p> <p><span style=\"font-weight: 400;\">- Beat saber stretches \u2192</span> <a href=\"https://goo.gle/2Ac4gZf\"><span style= \"font-weight: 400;\">https://goo.gle/2Ac4gZf</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p>\u00a0</p> <p><span style=\"font-weight: 400;\">- Remy's question about text encoding \u2192</span> <a href=\"https://goo.gle/3bftse1\"><span style= \"font-weight: 400;\">https://goo.gle/3bftse1</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">- TextEncoder \u2192</span> <a href= \"https://goo.gle/2zlvBaE\"><span style= \"font-weight: 400;\">https://goo.gle/2zlvBaE</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">- TextDecoder \u2192</span> <a href= \"https://goo.gle/35K5Wou\"><span style= \"font-weight: 400;\">https://goo.gle/35K5Wou</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">- Streaming versions \u2192</span> <a href=\"https://goo.gle/2Wh4qHn\"><span style= \"font-weight: 400;\">https://goo.gle/2Wh4qHn</span></a><span style= \"font-weight: 400;\">\u00a0\u00a0</span></p> <p><span style=\"font-weight: 400;\">- Josh's joke encoding PR \u2192</span> <a href=\"https://goo.gle/2YK2316\"><span style= \"font-weight: 400;\">https://goo.gle/2YK2316</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">- atob \u2192</span> <a href= \"https://goo.gle/2YK2316\"><span style= \"font-weight: 400;\">https://goo.gle/2YK2316</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">- bota \u2192</span> <a href= \"https://goo.gle/2YKEuoP\"><span style= \"font-weight: 400;\">https://goo.gle/2YKEuoP</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">- Binary strings in JS \u2192</span> <a href=\"https://goo.gle/3ch7R68\"><span style= \"font-weight: 400;\">https://goo.gle/3ch7R68</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">- readAsBinaryString in FileReader \u2192</span> <a href=\"https://goo.gle/2Wdnoyz\"><span style= \"font-weight: 400;\">https://goo.gle/2Wdnoyz</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p>\u00a0</p> <p><span style=\"font-weight: 400;\">- DOMContentLoaded \u2192</span> <a href=\"https://goo.gle/3fon4EF\"><span style= \"font-weight: 400;\">https://goo.gle/3fon4EF</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">- defer and IE bugs \u2192</span> <a href=\"https://goo.gle/2WfOntj\"><span style= \"font-weight: 400;\">https://goo.gle/2WfOntj</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">- DOM ready in jQuery \u2192</span> <a href=\"https://goo.gle/3cdvnRN\"><span style= \"font-weight: 400;\">https://goo.gle/3cdvnRN</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">- readyState \u2192</span> <a href= \"https://goo.gle/2xJnHrf\"><span style= \"font-weight: 400;\">https://goo.gle/2xJnHrf</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">- doScroll trick \u2192</span> <a href=\"https://goo.gle/2WFuCtW\"><span style= \"font-weight: 400;\">https://goo.gle/2WFuCtW</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">- \"The end\" \u2192</span> <a href= \"https://goo.gle/3fw8CKz\"><span style= \"font-weight: 400;\">https://goo.gle/3fw8CKz</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><br /> <span style=\"font-weight: 400;\">See</span> <a href= \"https://goo.gle/HTTP203Podcast\"><span style= \"font-weight: 400;\">https://goo.gle/HTTP203Podcast</span></a> <span style=\"font-weight: 400;\">for other episodes.</span></p>",
+            "content:encoded": "<p>- The Count from Sesame Street swearing \u2192 <a href=\"https://goo.gle/3ftsgqL\">https://goo.gle/3ftsgqL</a> (warning: silly/rude)</p> <p>- Ofcom research into broadcast swearing \u2192 <a href=\"https://goo.gle/2A9xM1B\">https://goo.gle/2A9xM1B</a> (warning: lots of really bad language) (bigger warning: PDF)</p> <p>- Banned word list read by a computer \u2192 <a href=\"https://goo.gle/2SNkgat\">https://goo.gle/2SNkgat</a> (warning: lots of really bad language)</p> <p>\u00a0</p> <p>- Beat saber stretches \u2192 <a href=\"https://goo.gle/2Ac4gZf\">https://goo.gle/2Ac4gZf</a>\u00a0</p> <p>\u00a0</p> <p>- Remy's question about text encoding \u2192 <a href=\"https://goo.gle/3bftse1\">https://goo.gle/3bftse1</a>\u00a0</p> <p>- TextEncoder \u2192 <a href= \"https://goo.gle/2zlvBaE\">https://goo.gle/2zlvBaE</a>\u00a0</p> <p>- TextDecoder \u2192 <a href= \"https://goo.gle/35K5Wou\">https://goo.gle/35K5Wou</a>\u00a0</p> <p>- Streaming versions \u2192 <a href=\"https://goo.gle/2Wh4qHn\">https://goo.gle/2Wh4qHn</a>\u00a0\u00a0</p> <p>- Josh's joke encoding PR \u2192 <a href=\"https://goo.gle/2YK2316\">https://goo.gle/2YK2316</a>\u00a0</p> <p>- atob \u2192 <a href= \"https://goo.gle/2YK2316\">https://goo.gle/2YK2316</a>\u00a0</p> <p>- bota \u2192 <a href= \"https://goo.gle/2YKEuoP\">https://goo.gle/2YKEuoP</a>\u00a0</p> <p>- Binary strings in JS \u2192 <a href=\"https://goo.gle/3ch7R68\">https://goo.gle/3ch7R68</a>\u00a0</p> <p>- readAsBinaryString in FileReader \u2192 <a href=\"https://goo.gle/2Wdnoyz\">https://goo.gle/2Wdnoyz</a>\u00a0</p> <p>\u00a0</p> <p>- DOMContentLoaded \u2192 <a href=\"https://goo.gle/3fon4EF\">https://goo.gle/3fon4EF</a>\u00a0</p> <p>- defer and IE bugs \u2192 <a href=\"https://goo.gle/2WfOntj\">https://goo.gle/2WfOntj</a>\u00a0</p> <p>- DOM ready in jQuery \u2192 <a href=\"https://goo.gle/3cdvnRN\">https://goo.gle/3cdvnRN</a>\u00a0</p> <p>- readyState \u2192 <a href= \"https://goo.gle/2xJnHrf\">https://goo.gle/2xJnHrf</a>\u00a0</p> <p>- doScroll trick \u2192 <a href=\"https://goo.gle/2WFuCtW\">https://goo.gle/2WFuCtW</a>\u00a0</p> <p>- \"The end\" \u2192 <a href= \"https://goo.gle/3fw8CKz\">https://goo.gle/3fw8CKz</a>\u00a0</p> <p> See <a href= \"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a> for other episodes.</p>",
+            "content:encodedSnippet": "- The Count from Sesame Street swearing \u2192 https://goo.gle/3ftsgqL (warning: silly/rude)\n - Ofcom research into broadcast swearing \u2192 https://goo.gle/2A9xM1B (warning: lots of really bad language) (bigger warning: PDF)\n - Banned word list read by a computer \u2192 https://goo.gle/2SNkgat (warning: lots of really bad language)\n \u00a0\n - Beat saber stretches \u2192 https://goo.gle/2Ac4gZf\u00a0\n \u00a0\n - Remy's question about text encoding \u2192 https://goo.gle/3bftse1\u00a0\n - TextEncoder \u2192 https://goo.gle/2zlvBaE\u00a0\n - TextDecoder \u2192 https://goo.gle/35K5Wou\u00a0\n - Streaming versions \u2192 https://goo.gle/2Wh4qHn\u00a0\u00a0\n - Josh's joke encoding PR \u2192 https://goo.gle/2YK2316\u00a0\n - atob \u2192 https://goo.gle/2YK2316\u00a0\n - bota \u2192 https://goo.gle/2YKEuoP\u00a0\n - Binary strings in JS \u2192 https://goo.gle/3ch7R68\u00a0\n - readAsBinaryString in FileReader \u2192 https://goo.gle/2Wdnoyz\u00a0\n \u00a0\n - DOMContentLoaded \u2192 https://goo.gle/3fon4EF\u00a0\n - defer and IE bugs \u2192 https://goo.gle/2WfOntj\u00a0\n - DOM ready in jQuery \u2192 https://goo.gle/3cdvnRN\u00a0\n - readyState \u2192 https://goo.gle/2xJnHrf\u00a0\n - doScroll trick \u2192 https://goo.gle/2WFuCtW\u00a0\n - \"The end\" \u2192 https://goo.gle/3fw8CKz\u00a0\n  See https://goo.gle/HTTP203Podcast for other episodes.",
+            "contentSnippet": "- The Count from Sesame Street swearing \u2192 https://goo.gle/3ftsgqL (warning: silly/rude)\n - Ofcom research into broadcast swearing \u2192 https://goo.gle/2A9xM1B (warning: lots of really bad language) (bigger warning: PDF)\n - Banned word list read by a computer \u2192 https://goo.gle/2SNkgat (warning: lots of really bad language)\n \u00a0\n - Beat saber stretches \u2192 https://goo.gle/2Ac4gZf\u00a0\n \u00a0\n - Remy's question about text encoding \u2192 https://goo.gle/3bftse1\u00a0\n - TextEncoder \u2192 https://goo.gle/2zlvBaE\u00a0\n - TextDecoder \u2192 https://goo.gle/35K5Wou\u00a0\n - Streaming versions \u2192 https://goo.gle/2Wh4qHn\u00a0\u00a0\n - Josh's joke encoding PR \u2192 https://goo.gle/2YK2316\u00a0\n - atob \u2192 https://goo.gle/2YK2316\u00a0\n - bota \u2192 https://goo.gle/2YKEuoP\u00a0\n - Binary strings in JS \u2192 https://goo.gle/3ch7R68\u00a0\n - readAsBinaryString in FileReader \u2192 https://goo.gle/2Wdnoyz\u00a0\n \u00a0\n - DOMContentLoaded \u2192 https://goo.gle/3fon4EF\u00a0\n - defer and IE bugs \u2192 https://goo.gle/2WfOntj\u00a0\n - DOM ready in jQuery \u2192 https://goo.gle/3cdvnRN\u00a0\n - readyState \u2192 https://goo.gle/2xJnHrf\u00a0\n - doScroll trick \u2192 https://goo.gle/2WFuCtW\u00a0\n - \"The end\" \u2192 https://goo.gle/3fw8CKz\u00a0\n \n See https://goo.gle/HTTP203Podcast for other episodes.",
+            "enclosure": {
+                "length": "24743513",
+                "type": "audio/mp4",
+                "url": "https://traffic.libsyn.com/secure/http203/HTT_P004.m4a?dest-id=1969313"
+            },
+            "guid": "6ab1d691-18ba-4c2f-904e-653d62c3ebfa",
+            "isoDate": "2020-05-08T17:00:00.000Z",
+            "itunes": {
+                "author": "Google",
+                "duration": "01:01:00",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/4/0/a/0/40a057340c51398b/HTTP_Podcast_Episodes_thumb_v2_1.png",
+                "keywords": "Web,ready,development,javascript,jquery,text,techpodcasts,encoding,Chrome,developers,dom,Streams,decoding,newpodcasts,googlepodcast,chromepodcast",
+                "subtitle": "And how to be DOM-ready for anything."
+            },
+            "link": "https://traffic.libsyn.com/secure/http203/HTT_P004.m4a",
+            "pubDate": "Fri, 08 May 2020 17:00:00 +0000",
+            "title": "How to avoid getting UTF'd by text encodings"
+        },
+        {
+            "content": "<p><span style=\"font-weight: 400;\">Jake injured himself playing games.</span></p> <p><span style=\"font-weight: 400;\">Jake also has a stupid cat.</span></p> <p><span style=\"font-weight: 400;\">By the way, skip to 22 mins if you don't care about all that.</span></p> <p><span style=\"font-weight: 400;\">Writing a Countdown solver \u2192</span> <a href=\"https://goo.gle/2SkHtk2\"><span style= \"font-weight: 400;\">https://goo.gle/2SkHtk2</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Here's the game show \u2192</span> <a href=\"https://goo.gle/3bPo1DM\"><span style= \"font-weight: 400;\">https://goo.gle/3bPo1DM</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Here's the C++ solution \u2192</span> <a href=\"https://goo.gle/2VRzoFP\"><span style= \"font-weight: 400;\">https://goo.gle/2VRzoFP</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Jake's unappreciated audio blog post \u2192</span> <a href=\"https://goo.gle/2VNmOqZ\"><span style= \"font-weight: 400;\">https://goo.gle/2VNmOqZ</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">HTM (JSX alternative) \u2192</span> <a href=\"https://goo.gle/3cYr9x7\"><span style= \"font-weight: 400;\">https://goo.gle/3cYr9x7</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Preact hooks \u2192</span> <a href= \"https://goo.gle/3aMP15p\"><span style= \"font-weight: 400;\">https://goo.gle/3aMP15p</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">ComLink \u2192</span> <a href= \"https://goo.gle/2VLcr6V\"><span style= \"font-weight: 400;\">https://goo.gle/2VLcr6V</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Throwing non-errors.</span></p> <p><span style=\"font-weight: 400;\">Guide to promises \u2192</span> <a href=\"https://goo.gle/2VOuCc8\"><span style= \"font-weight: 400;\">https://goo.gle/2VOuCc8</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Gotchas with typeOf.</span></p> <p><span style=\"font-weight: 400;\">isNaN vs Number.isNaN.</span></p> <p>\u00a0</p> <p><span style=\"font-weight: 400;\">See</span> <a href= \"https://goo.gle/HTTP203Podcast\"><span style= \"font-weight: 400;\">https://goo.gle/HTTP203Podcast</span></a> <span style=\"font-weight: 400;\">for other episodes.</span></p>",
+            "content:encoded": "<p>Jake injured himself playing games.</p> <p>Jake also has a stupid cat.</p> <p>By the way, skip to 22 mins if you don't care about all that.</p> <p>Writing a Countdown solver \u2192 <a href=\"https://goo.gle/2SkHtk2\">https://goo.gle/2SkHtk2</a>\u00a0</p> <p>Here's the game show \u2192 <a href=\"https://goo.gle/3bPo1DM\">https://goo.gle/3bPo1DM</a>\u00a0</p> <p>Here's the C++ solution \u2192 <a href=\"https://goo.gle/2VRzoFP\">https://goo.gle/2VRzoFP</a>\u00a0</p> <p>Jake's unappreciated audio blog post \u2192 <a href=\"https://goo.gle/2VNmOqZ\">https://goo.gle/2VNmOqZ</a>\u00a0</p> <p>HTM (JSX alternative) \u2192 <a href=\"https://goo.gle/3cYr9x7\">https://goo.gle/3cYr9x7</a>\u00a0</p> <p>Preact hooks \u2192 <a href= \"https://goo.gle/3aMP15p\">https://goo.gle/3aMP15p</a>\u00a0</p> <p>ComLink \u2192 <a href= \"https://goo.gle/2VLcr6V\">https://goo.gle/2VLcr6V</a>\u00a0</p> <p>Throwing non-errors.</p> <p>Guide to promises \u2192 <a href=\"https://goo.gle/2VOuCc8\">https://goo.gle/2VOuCc8</a>\u00a0</p> <p>Gotchas with typeOf.</p> <p>isNaN vs Number.isNaN.</p> <p>\u00a0</p> <p>See <a href= \"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a> for other episodes.</p>",
+            "content:encodedSnippet": "Jake injured himself playing games.\n Jake also has a stupid cat.\n By the way, skip to 22 mins if you don't care about all that.\n Writing a Countdown solver \u2192 https://goo.gle/2SkHtk2\u00a0\n Here's the game show \u2192 https://goo.gle/3bPo1DM\u00a0\n Here's the C++ solution \u2192 https://goo.gle/2VRzoFP\u00a0\n Jake's unappreciated audio blog post \u2192 https://goo.gle/2VNmOqZ\u00a0\n HTM (JSX alternative) \u2192 https://goo.gle/3cYr9x7\u00a0\n Preact hooks \u2192 https://goo.gle/3aMP15p\u00a0\n ComLink \u2192 https://goo.gle/2VLcr6V\u00a0\n Throwing non-errors.\n Guide to promises \u2192 https://goo.gle/2VOuCc8\u00a0\n Gotchas with typeOf.\n isNaN vs Number.isNaN.\n \u00a0\n See https://goo.gle/HTTP203Podcast for other episodes.",
+            "contentSnippet": "Jake injured himself playing games.\n Jake also has a stupid cat.\n By the way, skip to 22 mins if you don't care about all that.\n Writing a Countdown solver \u2192 https://goo.gle/2SkHtk2\u00a0\n Here's the game show \u2192 https://goo.gle/3bPo1DM\u00a0\n Here's the C++ solution \u2192 https://goo.gle/2VRzoFP\u00a0\n Jake's unappreciated audio blog post \u2192 https://goo.gle/2VNmOqZ\u00a0\n HTM (JSX alternative) \u2192 https://goo.gle/3cYr9x7\u00a0\n Preact hooks \u2192 https://goo.gle/3aMP15p\u00a0\n ComLink \u2192 https://goo.gle/2VLcr6V\u00a0\n Throwing non-errors.\n Guide to promises \u2192 https://goo.gle/2VOuCc8\u00a0\n Gotchas with typeOf.\n isNaN vs Number.isNaN.\n \u00a0\n See https://goo.gle/HTTP203Podcast for other episodes.",
+            "enclosure": {
+                "length": "22359665",
+                "type": "audio/mp4",
+                "url": "https://traffic.libsyn.com/secure/http203/HTT_P003_mixdown.m4a?dest-id=1969313"
+            },
+            "guid": "ea55363c-b447-4fc9-bc38-00a7ac5ca9d4",
+            "isoDate": "2020-04-30T17:00:00.000Z",
+            "itunes": {
+                "author": "Google",
+                "duration": "55:09",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/2/2/5/d/225db21cef86209d/HTTP_Podcast_Episodes_thumb.jpg",
+                "keywords": "Web,Google,c,Chrome,techpodcast,htm,comlink,googlepodcast,chromepodcast,chromereleases,writingacountdownsolver,preacthooks",
+                "subtitle": "Plus cats, getting old, and Countdown"
+            },
+            "link": "https://traffic.libsyn.com/secure/http203/HTT_P003_mixdown.m4a",
+            "pubDate": "Thu, 30 Apr 2020 17:00:00 +0000",
+            "title": "Maths, hooks, and errors"
+        },
+        {
+            "content": "<p><span style=\"font-weight: 400;\">Phil and Jack from fishandscripts.com are still lingering around. We chat about:</span></p> <p><span style=\"font-weight: 400;\">Fustractions with punctuality.</span></p> <p><span style=\"font-weight: 400;\">Phil's time website \u2192</span> <a href=\"https://goo.gle/34Cb3pW\"><span style= \"font-weight: 400;\">https://goo.gle/34Cb3pW</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Frances on naming PWAs \u2192</span> <a href=\"https://goo.gle/3cgkfTu\"><span style= \"font-weight: 400;\">https://goo.gle/3cgkfTu</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Jen's new job.</span></p> <p><span style=\"font-weight: 400;\">Surma's WebXR experiment \u2192</span> <a href=\"https://goo.gle/3adpDp2\"><span style= \"font-weight: 400;\">https://goo.gle/3adpDp2</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Transferring data between workers and pages.</span></p> <p><span style=\"font-weight: 400;\">The DataView API \u2192</span> <a href=\"https://goo.gle/2ydWhd0\"><span style= \"font-weight: 400;\">https://goo.gle/2ydWhd0</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Buffer-backed objects \u2192</span> <a href=\"https://goo.gle/2REZitI\"><span style= \"font-weight: 400;\">https://goo.gle/2REZitI</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">JavaScript proxies \u2192</span> <a href=\"https://goo.gle/2K6TaWT\"><span style= \"font-weight: 400;\">https://goo.gle/2K6TaWT</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Mathias on JS internals, including holey arrays \u2192</span> <a href= \"https://goo.gle/2RGzu0d\"><span style= \"font-weight: 400;\">https://goo.gle/2RGzu0d</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">DX vs UX \u2192</span> <a href= \"https://goo.gle/2yhm9EO\"><span style= \"font-weight: 400;\">https://goo.gle/2yhm9EO</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Differences between dev and prod builds.</span></p> <p><span style=\"font-weight: 400;\">An epic quiz on HTTP status codes.</span></p> <p><span style=\"font-weight: 400;\">Desyncronised canvas \u2192</span> <a href=\"https://goo.gle/2yhm9EO\"><span style= \"font-weight: 400;\">https://goo.gle/2yhm9EO</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">pointerrawupdate \u2192</span> <a href=\"https://goo.gle/3adk5Ln\"><span style= \"font-weight: 400;\">https://goo.gle/3adk5Ln</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Jake's unloved pointer library \u2192</span> <a href=\"https://goo.gle/2XCUUPJ\"><span style= \"font-weight: 400;\">https://goo.gle/2XCUUPJ</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">getCoalescedEvents \u2192</span> <a href=\"https://goo.gle/2XEf104\"><span style= \"font-weight: 400;\">https://goo.gle/2XEf104</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p>\u00a0</p> <p><span style=\"font-weight: 400;\">See</span> <a href= \"https://goo.gle/HTTP203Podcast\"><span style= \"font-weight: 400;\">https://goo.gle/HTTP203Podcast</span></a> <span style=\"font-weight: 400;\">for other episodes.</span></p>",
+            "content:encoded": "<p>Phil and Jack from fishandscripts.com are still lingering around. We chat about:</p> <p>Fustractions with punctuality.</p> <p>Phil's time website \u2192 <a href=\"https://goo.gle/34Cb3pW\">https://goo.gle/34Cb3pW</a>\u00a0</p> <p>Frances on naming PWAs \u2192 <a href=\"https://goo.gle/3cgkfTu\">https://goo.gle/3cgkfTu</a>\u00a0</p> <p>Jen's new job.</p> <p>Surma's WebXR experiment \u2192 <a href=\"https://goo.gle/3adpDp2\">https://goo.gle/3adpDp2</a>\u00a0</p> <p>Transferring data between workers and pages.</p> <p>The DataView API \u2192 <a href=\"https://goo.gle/2ydWhd0\">https://goo.gle/2ydWhd0</a>\u00a0</p> <p>Buffer-backed objects \u2192 <a href=\"https://goo.gle/2REZitI\">https://goo.gle/2REZitI</a>\u00a0</p> <p>JavaScript proxies \u2192 <a href=\"https://goo.gle/2K6TaWT\">https://goo.gle/2K6TaWT</a>\u00a0</p> <p>Mathias on JS internals, including holey arrays \u2192 <a href= \"https://goo.gle/2RGzu0d\">https://goo.gle/2RGzu0d</a>\u00a0</p> <p>DX vs UX \u2192 <a href= \"https://goo.gle/2yhm9EO\">https://goo.gle/2yhm9EO</a>\u00a0</p> <p>Differences between dev and prod builds.</p> <p>An epic quiz on HTTP status codes.</p> <p>Desyncronised canvas \u2192 <a href=\"https://goo.gle/2yhm9EO\">https://goo.gle/2yhm9EO</a>\u00a0</p> <p>pointerrawupdate \u2192 <a href=\"https://goo.gle/3adk5Ln\">https://goo.gle/3adk5Ln</a>\u00a0</p> <p>Jake's unloved pointer library \u2192 <a href=\"https://goo.gle/2XCUUPJ\">https://goo.gle/2XCUUPJ</a>\u00a0</p> <p>getCoalescedEvents \u2192 <a href=\"https://goo.gle/2XEf104\">https://goo.gle/2XEf104</a>\u00a0</p> <p>\u00a0</p> <p>See <a href= \"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a> for other episodes.</p>",
+            "content:encodedSnippet": "Phil and Jack from fishandscripts.com are still lingering around. We chat about:\n Fustractions with punctuality.\n Phil's time website \u2192 https://goo.gle/34Cb3pW\u00a0\n Frances on naming PWAs \u2192 https://goo.gle/3cgkfTu\u00a0\n Jen's new job.\n Surma's WebXR experiment \u2192 https://goo.gle/3adpDp2\u00a0\n Transferring data between workers and pages.\n The DataView API \u2192 https://goo.gle/2ydWhd0\u00a0\n Buffer-backed objects \u2192 https://goo.gle/2REZitI\u00a0\n JavaScript proxies \u2192 https://goo.gle/2K6TaWT\u00a0\n Mathias on JS internals, including holey arrays \u2192 https://goo.gle/2RGzu0d\u00a0\n DX vs UX \u2192 https://goo.gle/2yhm9EO\u00a0\n Differences between dev and prod builds.\n An epic quiz on HTTP status codes.\n Desyncronised canvas \u2192 https://goo.gle/2yhm9EO\u00a0\n pointerrawupdate \u2192 https://goo.gle/3adk5Ln\u00a0\n Jake's unloved pointer library \u2192 https://goo.gle/2XCUUPJ\u00a0\n getCoalescedEvents \u2192 https://goo.gle/2XEf104\u00a0\n \u00a0\n See https://goo.gle/HTTP203Podcast for other episodes.",
+            "contentSnippet": "Phil and Jack from fishandscripts.com are still lingering around. We chat about:\n Fustractions with punctuality.\n Phil's time website \u2192 https://goo.gle/34Cb3pW\u00a0\n Frances on naming PWAs \u2192 https://goo.gle/3cgkfTu\u00a0\n Jen's new job.\n Surma's WebXR experiment \u2192 https://goo.gle/3adpDp2\u00a0\n Transferring data between workers and pages.\n The DataView API \u2192 https://goo.gle/2ydWhd0\u00a0\n Buffer-backed objects \u2192 https://goo.gle/2REZitI\u00a0\n JavaScript proxies \u2192 https://goo.gle/2K6TaWT\u00a0\n Mathias on JS internals, including holey arrays \u2192 https://goo.gle/2RGzu0d\u00a0\n DX vs UX \u2192 https://goo.gle/2yhm9EO\u00a0\n Differences between dev and prod builds.\n An epic quiz on HTTP status codes.\n Desyncronised canvas \u2192 https://goo.gle/2yhm9EO\u00a0\n pointerrawupdate \u2192 https://goo.gle/3adk5Ln\u00a0\n Jake's unloved pointer library \u2192 https://goo.gle/2XCUUPJ\u00a0\n getCoalescedEvents \u2192 https://goo.gle/2XEf104\u00a0\n \u00a0\n See https://goo.gle/HTTP203Podcast for other episodes.",
+            "enclosure": {
+                "length": "30803599",
+                "type": "audio/mp4",
+                "url": "https://traffic.libsyn.com/secure/http203/apps-sites-build-times.m4a?dest-id=1969313"
+            },
+            "guid": "23c2cb66-5297-4934-8318-183514f1869a",
+            "isoDate": "2020-04-15T16:30:20.000Z",
+            "itunes": {
+                "author": "Google",
+                "duration": "01:15:30",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/5/6/f/1/56f172df7bbb1ba1/HTTP_Podcast_Episodes_thumb_v2_2.png",
+                "keywords": "",
+                "subtitle": " And an epic status code quiz"
+            },
+            "link": "https://traffic.libsyn.com/secure/http203/apps-sites-build-times.m4a",
+            "pubDate": "Wed, 15 Apr 2020 16:30:20 +0000",
+            "title": "Apps vs sites, binary data, and build times"
+        },
+        {
+            "content": "<p><span style=\"font-weight: 400;\">We join the</span> <a href= \"https://fishandscripts.com/\"><span style= \"font-weight: 400;\">https://fishandscripts.com/</span></a> <span style=\"font-weight: 400;\">podcast and chat about:</span></p> <p><span style=\"font-weight: 400;\">Games we're playing to cope with lockdown:</span></p> <p><span style=\"font-weight: 400;\">Overcooked 2 \u2192</span> <a href= \"https://goo.gle/39NeHOU\"><span style= \"font-weight: 400;\">https://goo.gle/39NeHOU</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Snipperclips \u2192</span> <a href= \"https://goo.gle/2x2GZYt\"><span style= \"font-weight: 400;\">https://goo.gle/2x2GZYt</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Pikuniku \u2192</span> <a href= \"https://goo.gle/2UTf7Pt\"><span style= \"font-weight: 400;\">https://goo.gle/2UTf7Pt</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Play You Don\u2019t Know Jack \u2192</span> <a href=\"https://goo.gle/34wVJv3\"><span style= \"font-weight: 400;\">https://goo.gle/34wVJv3</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Knowledge is Power \u2192</span> <a href=\"https://goo.gle/39UiMk8\"><span style= \"font-weight: 400;\">https://goo.gle/39UiMk8</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">It\u2019s Quiz Time \u2192</span> <a href= \"https://goo.gle/3e7N7iA\"><span style= \"font-weight: 400;\">https://goo.gle/3e7N7iA</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">And Surma plays Zelda fast \u2192</span> <a href=\"https://goo.gle/2Rsoi7w\"><span style= \"font-weight: 400;\">https://goo.gle/2Rsoi7w</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p>\u00a0</p> <p><span style=\"font-weight: 400;\">Jake buys some chocolate</span></p> <p><span style=\"font-weight: 400;\">Phil joins a choir</span></p> <p><span style=\"font-weight: 400;\">requestStorageAccess \u2192</span> <a href=\"https://goo.gle/2yNFKwR\"><span style= \"font-weight: 400;\">https://goo.gle/2yNFKwR</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">The SameSite cookie change is rolled back \u2192</span> <a href=\"https://goo.gle/2UTYpzF\"><span style= \"font-weight: 400;\">https://goo.gle/2UTYpzF</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">Chrome releases are resumed \u2192</span> <a href=\"https://goo.gle/3e8Exjw\"><span style= \"font-weight: 400;\">https://goo.gle/3e8Exjw</span></a><span style= \"font-weight: 400;\">\u00a0</span></p> <p><span style=\"font-weight: 400;\">And we give Phil & Jack our quiz: NOT-or-NOT\u00a0</span></p> <p>\u00a0</p> <p><span style=\"font-weight: 400;\">See</span> <a href= \"https://goo.gle/HTTP203Podcast\"><span style= \"font-weight: 400;\">https://goo.gle/HTTP203Podcast</span></a> <span style=\"font-weight: 400;\">for more detailed show notes, including links.</span></p>",
+            "content:encoded": "<p>We join the <a href= \"https://fishandscripts.com/\">https://fishandscripts.com/</a> podcast and chat about:</p> <p>Games we're playing to cope with lockdown:</p> <p>Overcooked 2 \u2192 <a href= \"https://goo.gle/39NeHOU\">https://goo.gle/39NeHOU</a>\u00a0</p> <p>Snipperclips \u2192 <a href= \"https://goo.gle/2x2GZYt\">https://goo.gle/2x2GZYt</a>\u00a0</p> <p>Pikuniku \u2192 <a href= \"https://goo.gle/2UTf7Pt\">https://goo.gle/2UTf7Pt</a>\u00a0</p> <p>Play You Don\u2019t Know Jack \u2192 <a href=\"https://goo.gle/34wVJv3\">https://goo.gle/34wVJv3</a>\u00a0</p> <p>Knowledge is Power \u2192 <a href=\"https://goo.gle/39UiMk8\">https://goo.gle/39UiMk8</a>\u00a0</p> <p>It\u2019s Quiz Time \u2192 <a href= \"https://goo.gle/3e7N7iA\">https://goo.gle/3e7N7iA</a>\u00a0</p> <p>And Surma plays Zelda fast \u2192 <a href=\"https://goo.gle/2Rsoi7w\">https://goo.gle/2Rsoi7w</a>\u00a0</p> <p>\u00a0</p> <p>Jake buys some chocolate</p> <p>Phil joins a choir</p> <p>requestStorageAccess \u2192 <a href=\"https://goo.gle/2yNFKwR\">https://goo.gle/2yNFKwR</a>\u00a0</p> <p>The SameSite cookie change is rolled back \u2192 <a href=\"https://goo.gle/2UTYpzF\">https://goo.gle/2UTYpzF</a>\u00a0</p> <p>Chrome releases are resumed \u2192 <a href=\"https://goo.gle/3e8Exjw\">https://goo.gle/3e8Exjw</a>\u00a0</p> <p>And we give Phil & Jack our quiz: NOT-or-NOT\u00a0</p> <p>\u00a0</p> <p>See <a href= \"https://goo.gle/HTTP203Podcast\">https://goo.gle/HTTP203Podcast</a> for more detailed show notes, including links.</p>",
+            "content:encodedSnippet": "We join the https://fishandscripts.com/ podcast and chat about:\n Games we're playing to cope with lockdown:\n Overcooked 2 \u2192 https://goo.gle/39NeHOU\u00a0\n Snipperclips \u2192 https://goo.gle/2x2GZYt\u00a0\n Pikuniku \u2192 https://goo.gle/2UTf7Pt\u00a0\n Play You Don\u2019t Know Jack \u2192 https://goo.gle/34wVJv3\u00a0\n Knowledge is Power \u2192 https://goo.gle/39UiMk8\u00a0\n It\u2019s Quiz Time \u2192 https://goo.gle/3e7N7iA\u00a0\n And Surma plays Zelda fast \u2192 https://goo.gle/2Rsoi7w\u00a0\n \u00a0\n Jake buys some chocolate\n Phil joins a choir\n requestStorageAccess \u2192 https://goo.gle/2yNFKwR\u00a0\n The SameSite cookie change is rolled back \u2192 https://goo.gle/2UTYpzF\u00a0\n Chrome releases are resumed \u2192 https://goo.gle/3e8Exjw\u00a0\n And we give Phil & Jack our quiz: NOT-or-NOT\u00a0\n \u00a0\n See https://goo.gle/HTTP203Podcast for more detailed show notes, including links.",
+            "contentSnippet": "We join the https://fishandscripts.com/ podcast and chat about:\n Games we're playing to cope with lockdown:\n Overcooked 2 \u2192 https://goo.gle/39NeHOU\u00a0\n Snipperclips \u2192 https://goo.gle/2x2GZYt\u00a0\n Pikuniku \u2192 https://goo.gle/2UTf7Pt\u00a0\n Play You Don\u2019t Know Jack \u2192 https://goo.gle/34wVJv3\u00a0\n Knowledge is Power \u2192 https://goo.gle/39UiMk8\u00a0\n It\u2019s Quiz Time \u2192 https://goo.gle/3e7N7iA\u00a0\n And Surma plays Zelda fast \u2192 https://goo.gle/2Rsoi7w\u00a0\n \u00a0\n Jake buys some chocolate\n Phil joins a choir\n requestStorageAccess \u2192 https://goo.gle/2yNFKwR\u00a0\n The SameSite cookie change is rolled back \u2192 https://goo.gle/2UTYpzF\u00a0\n Chrome releases are resumed \u2192 https://goo.gle/3e8Exjw\u00a0\n And we give Phil & Jack our quiz: NOT-or-NOT\u00a0\n \u00a0\n See https://goo.gle/HTTP203Podcast for more detailed show notes, including links.",
+            "enclosure": {
+                "length": "41127053",
+                "type": "audio/mp4",
+                "url": "https://traffic.libsyn.com/secure/http203/http203-does-fish-and-scripts.m4a?dest-id=1969313"
+            },
+            "guid": "01e6b1a6-06f2-4ea7-84c1-2e7a93db963b",
+            "isoDate": "2020-04-09T17:00:00.000Z",
+            "itunes": {
+                "author": "Google",
+                "duration": "01:17:30",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/4/4/0/f/440fdecfbc101ff1/HTTP_Podcast_Episodes_thumb_v2.png",
+                "keywords": "Web,Google,gaming,Chrome,zelda,techpodcast,googlepodcast,chromepodcast,storagedevelopment,quizgames,requeststorageaccess,samesitecookiechange,chromereleases",
+                "subtitle": "Games, storage, & quizzes"
+            },
+            "link": "https://traffic.libsyn.com/secure/http203/http203-does-fish-and-scripts.m4a",
+            "pubDate": "Thu, 09 Apr 2020 17:00:00 +0000",
+            "title": "Fish & Scripts special!"
+        },
+        {
+            "content": "Also native filesystem, listener questions, and TMI.",
+            "content:encoded": "Also native filesystem, listener questions, and TMI.",
+            "content:encodedSnippet": "Also native filesystem, listener questions, and TMI.",
+            "contentSnippet": "Also native filesystem, listener questions, and TMI.",
+            "enclosure": {
+                "length": "30000087",
+                "type": "audio/mp4",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-29.m4a?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/vr-api-design-lockdown",
+            "isoDate": "2020-03-25T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "01:13:22",
+                "episode": "40",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/0/e/0/d/0e0d08169169948b/surma-and-jake-2.jpg",
+                "keywords": "",
+                "subtitle": "Also native filesystem, listener questions, and TMI."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/vr-api-design-lockdown",
+            "pubDate": "Wed, 25 Mar 2020 00:00:00 +0000",
+            "title": "VR, API design, and coping with lockdown"
+        },
+        {
+            "content": "Also performance, progressive enhancement, and hand-drying.",
+            "content:encoded": "Also performance, progressive enhancement, and hand-drying.",
+            "content:encodedSnippet": "Also performance, progressive enhancement, and hand-drying.",
+            "contentSnippet": "Also performance, progressive enhancement, and hand-drying.",
+            "enclosure": {
+                "length": "26956114",
+                "type": "audio/mp4",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-28.m4a?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/social-distance-ssr-patterns-and-bedtime-routines",
+            "isoDate": "2020-03-18T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "47:25",
+                "episode": "39",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/b/1/6/5/b1654a0b6c7d22f2/surma-and-jake-2.jpg",
+                "keywords": "",
+                "subtitle": "Also performance, progressive enhancement, and hand-drying."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/social-distance-ssr-patterns-and-bedtime-routines",
+            "pubDate": "Wed, 18 Mar 2020 00:00:00 +0000",
+            "title": "Social distance, SSR patterns, and bedtime routines"
+        },
+        {
+            "content": "Also, top fashion and career advice.",
+            "content:encoded": "Also, top fashion and career advice.",
+            "content:encodedSnippet": "Also, top fashion and career advice.",
+            "contentSnippet": "Also, top fashion and career advice.",
+            "enclosure": {
+                "length": "34218105",
+                "type": "audio/mp4",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-27.m4a?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/observables-board-games-and-artechulate",
+            "isoDate": "2020-01-22T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "01:00:27",
+                "episode": "38",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/7/f/f/c/7ffc3ad0c3636df5/surma-and-jake-2.jpg",
+                "keywords": "",
+                "subtitle": "Also, top fashion and career advice."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/observables-board-games-and-artechulate",
+            "pubDate": "Wed, 22 Jan 2020 00:00:00 +0000",
+            "title": "Observables, board games, and 'Artechulate'"
+        },
+        {
+            "content": "Also cache invalidation, server rendering, and learning curves.",
+            "content:encoded": "Also cache invalidation, server rendering, and learning curves.",
+            "content:encodedSnippet": "Also cache invalidation, server rendering, and learning curves.",
+            "contentSnippet": "Also cache invalidation, server rendering, and learning curves.",
+            "enclosure": {
+                "length": "37146673",
+                "type": "audio/mp4",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-26.m4a?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/takes-two-to-tangent",
+            "isoDate": "2019-12-20T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "01:07:04",
+                "episode": "37",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/8/d/f/7/8df730ee12ee72b0/surjiko-small.jpg",
+                "keywords": "",
+                "subtitle": "Also cache invalidation, server rendering, and learning curves."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/takes-two-to-tangent",
+            "pubDate": "Fri, 20 Dec 2019 00:00:00 +0000",
+            "title": "It takes two to tangent"
+        },
+        {
+            "content": "Also how do you do TODO?",
+            "content:encoded": "Also how do you do TODO?",
+            "content:encodedSnippet": "Also how do you do TODO?",
+            "contentSnippet": "Also how do you do TODO?",
+            "enclosure": {
+                "length": "38066136",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-25.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/stability-todos-and-census",
+            "isoDate": "2019-10-18T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "01:00:29",
+                "episode": "36",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/9/1/f/a/91fa99fdd12c8e5f/surma-and-jake-2.jpg",
+                "keywords": "",
+                "subtitle": "Also how do you do TODO?"
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/stability-todos-and-census",
+            "pubDate": "Fri, 18 Oct 2019 00:00:00 +0000",
+            "title": "Stability, TODOs, and the HTTP 203 census"
+        },
+        {
+            "content": "Also, font loading, feature phones, and webpack vs Rollup.",
+            "content:encoded": "Also, font loading, feature phones, and webpack vs Rollup.",
+            "content:encodedSnippet": "Also, font loading, feature phones, and webpack vs Rollup.",
+            "contentSnippet": "Also, font loading, feature phones, and webpack vs Rollup.",
+            "enclosure": {
+                "length": "37503124",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-24.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/block-drop-n-swap",
+            "isoDate": "2019-09-03T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "01:15:46",
+                "episode": "35",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/0/c/8/3/0c83a62dcba351f8/with-mariko.jpg",
+                "keywords": "",
+                "subtitle": "Also, font loading, feature phones, and webpack vs Rollup."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/block-drop-n-swap",
+            "pubDate": "Tue, 03 Sep 2019 00:00:00 +0000",
+            "title": "The block-drop-n-swap"
+        },
+        {
+            "content": "Also, PROXX, forms, and auto.",
+            "content:encoded": "Also, PROXX, forms, and auto.",
+            "content:encodedSnippet": "Also, PROXX, forms, and auto.",
+            "contentSnippet": "Also, PROXX, forms, and auto.",
+            "enclosure": {
+                "length": "34405700",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-23.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/edge-n-css-with-greg",
+            "isoDate": "2019-05-22T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "47:14",
+                "episode": "34",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/6/8/5/a/685a75ebcfe081e8/with-greg.jpg",
+                "keywords": "",
+                "subtitle": "Also, PROXX, forms, and auto."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/edge-n-css-with-greg",
+            "pubDate": "Wed, 22 May 2019 00:00:00 +0000",
+            "title": "Chatting Edge & CSS with Greg Whitworth"
+        },
+        {
+            "content": "Also camping, compositing, and building games.",
+            "content:encoded": "Also camping, compositing, and building games.",
+            "content:encodedSnippet": "Also camping, compositing, and building games.",
+            "contentSnippet": "Also camping, compositing, and building games.",
+            "enclosure": {
+                "length": "33946299",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-22.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/performance-trailers-dentistry",
+            "isoDate": "2019-05-02T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "01:05:40",
+                "episode": "33",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/9/6/d/7/96d7808e806ef07f/surma-and-jake-2.jpg",
+                "keywords": "",
+                "subtitle": "Also camping, compositing, and building games."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/performance-trailers-dentistry",
+            "pubDate": "Thu, 02 May 2019 00:00:00 +0000",
+            "title": "Performance, trailers, and dentistry mishaps"
+        },
+        {
+            "content": "Also clip-path, bread, and urinals again.",
+            "content:encoded": "Also clip-path, bread, and urinals again.",
+            "content:encodedSnippet": "Also clip-path, bread, and urinals again.",
+            "contentSnippet": "Also clip-path, bread, and urinals again.",
+            "enclosure": {
+                "length": "35766024",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-21.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/rotating-an-image-to-the-extreme",
+            "isoDate": "2019-02-21T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "01:07:53",
+                "episode": "32",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/2/9/9/1/299120b58e91da9b/surma-and-jake-2.jpg",
+                "keywords": "",
+                "subtitle": "Also clip-path, bread, and urinals again."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/rotating-an-image-to-the-extreme",
+            "pubDate": "Thu, 21 Feb 2019 00:00:00 +0000",
+            "title": "Rotating an image\u2026 TO THE EXTREME"
+        },
+        {
+            "content": "Also share target, shadow parts, and streams.",
+            "content:encoded": "Also share target, shadow parts, and streams.",
+            "content:encodedSnippet": "Also share target, shadow parts, and streams.",
+            "contentSnippet": "Also share target, shadow parts, and streams.",
+            "enclosure": {
+                "length": "42579108",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-20.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/when-laptops-go-bad-on-stage",
+            "isoDate": "2018-12-20T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "01:18:21",
+                "episode": "31",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/d/c/0/3/dc03975b8848622c/surma-and-jake-2.jpg",
+                "keywords": "",
+                "subtitle": "Also share target, shadow parts, and streams."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/when-laptops-go-bad-on-stage",
+            "pubDate": "Thu, 20 Dec 2018 00:00:00 +0000",
+            "title": "When laptops go bad\u2026 ON STAGE"
+        },
+        {
+            "content": "Also zombie optimizations and alphabets",
+            "content:encoded": "Also zombie optimizations and alphabets",
+            "content:encodedSnippet": "Also zombie optimizations and alphabets",
+            "contentSnippet": "Also zombie optimizations and alphabets",
+            "enclosure": {
+                "length": "34864351",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-19.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/stress-canvas-jam",
+            "isoDate": "2018-11-08T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "56:32",
+                "episode": "30",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/b/4/c/f/b4cf36a89236c7cb/surma-and-jake-2.jpg",
+                "keywords": "",
+                "subtitle": "Also zombie optimizations and alphabets"
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/stress-canvas-jam",
+            "pubDate": "Thu, 08 Nov 2018 00:00:00 +0000",
+            "title": "Stress, canvas, and jam"
+        },
+        {
+            "content": "Also page-lifecycle, WASM, and massages.",
+            "content:encoded": "Also page-lifecycle, WASM, and massages.",
+            "content:encodedSnippet": "Also page-lifecycle, WASM, and massages.",
+            "contentSnippet": "Also page-lifecycle, WASM, and massages.",
+            "enclosure": {
+                "length": "30291090",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-18.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/transform-transpile-urinal",
+            "isoDate": "2018-09-12T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "59:00",
+                "episode": "29",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/f/a/e/7/fae7aa851ec6c205/surma-and-jake-2.jpg",
+                "keywords": "",
+                "subtitle": "Also page-lifecycle, WASM, and massages."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/transform-transpile-urinal",
+            "pubDate": "Wed, 12 Sep 2018 00:00:00 +0000",
+            "title": "Transforming, transpiling, and urinaling"
+        },
+        {
+            "content": "Also spices, screen-touchers, and lasers.",
+            "content:encoded": "Also spices, screen-touchers, and lasers.",
+            "content:encodedSnippet": "Also spices, screen-touchers, and lasers.",
+            "contentSnippet": "Also spices, screen-touchers, and lasers.",
+            "enclosure": {
+                "length": "20954289",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-17.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/corb-cast-switch-face",
+            "isoDate": "2018-08-08T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "33:07",
+                "episode": "28",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/6/d/f/8/6df8c67c679d500b/jake-in-pain.jpg",
+                "keywords": "",
+                "subtitle": "Also spices, screen-touchers, and lasers."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/corb-cast-switch-face",
+            "pubDate": "Wed, 08 Aug 2018 00:00:00 +0000",
+            "title": "CORB, BroadcastChannel, and the resting Switch face"
+        },
+        {
+            "content": "Lighthouse and automation.",
+            "content:encoded": "Lighthouse and automation.",
+            "content:encodedSnippet": "Lighthouse and automation.",
+            "contentSnippet": "Lighthouse and automation.",
+            "enclosure": {
+                "length": "11299504",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/io-2018-v-eric.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/io-chats-v-eric",
+            "isoDate": "2018-08-02T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "18:18",
+                "episode": "27",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/4/e/2/1/4e2190141f835d42/io.jpg",
+                "keywords": "",
+                "subtitle": "Lighthouse and automation."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/io-chats-v-eric",
+            "pubDate": "Thu, 02 Aug 2018 00:00:00 +0000",
+            "title": "I/O chat with Vinamrata Singal and Eric Bidelman"
+        },
+        {
+            "content": "Exciting things appearing in V8.",
+            "content:encoded": "Exciting things appearing in V8.",
+            "content:encodedSnippet": "Exciting things appearing in V8.",
+            "contentSnippet": "Exciting things appearing in V8.",
+            "enclosure": {
+                "length": "14526892",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/io-2018-sathya-mathias.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/io-chats-sathya-mathias",
+            "isoDate": "2018-07-26T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "22:06",
+                "episode": "26",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/3/4/7/2/3472c34f982d05ae/io.jpg",
+                "keywords": "",
+                "subtitle": "Exciting things appearing in V8."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/io-chats-sathya-mathias",
+            "pubDate": "Thu, 26 Jul 2018 00:00:00 +0000",
+            "title": "I/O chat with Sathya Gunasekaran and Mathias Bynens"
+        },
+        {
+            "content": "Making search and JavaScript better friends.",
+            "content:encoded": "Making search and JavaScript better friends.",
+            "content:encodedSnippet": "Making search and JavaScript better friends.",
+            "contentSnippet": "Making search and JavaScript better friends.",
+            "enclosure": {
+                "length": "11353758",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/io-2018-martin.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/io-chats-martin",
+            "isoDate": "2018-07-24T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "16:52",
+                "episode": "25",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/b/7/6/5/b765ddf8740b77fb/io.jpg",
+                "keywords": "",
+                "subtitle": "Making search and JavaScript better friends."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/io-chats-martin",
+            "pubDate": "Tue, 24 Jul 2018 00:00:00 +0000",
+            "title": "I/O chat with Martin Splitt"
+        },
+        {
+            "content": "Making Chrome secure.",
+            "content:encoded": "Making Chrome secure.",
+            "content:encodedSnippet": "Making Chrome secure.",
+            "contentSnippet": "Making Chrome secure.",
+            "enclosure": {
+                "length": "10935407",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/io-2018-emily-chris.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/io-chats-emily-chris",
+            "isoDate": "2018-07-17T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "14:41",
+                "episode": "24",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/8/4/1/c/841cd14c0fa64afc/io.jpg",
+                "keywords": "",
+                "subtitle": "Making Chrome secure."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/io-chats-emily-chris",
+            "pubDate": "Tue, 17 Jul 2018 00:00:00 +0000",
+            "title": "I/O chat with Emily Schechter and Chris Palmer"
+        },
+        {
+            "content": "What's new in DevTools.",
+            "content:encoded": "What's new in DevTools.",
+            "content:encodedSnippet": "What's new in DevTools.",
+            "contentSnippet": "What's new in DevTools.",
+            "enclosure": {
+                "length": "13955370",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/io-2018-pirish-jason.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/io-chats-pirish-jason",
+            "isoDate": "2018-07-11T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "19:14",
+                "episode": "23",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/3/2/6/2/3262358221e6e993/io.jpg",
+                "keywords": "",
+                "subtitle": "What's new in DevTools."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/io-chats-pirish-jason",
+            "pubDate": "Wed, 11 Jul 2018 00:00:00 +0000",
+            "title": "I/O chat with Paul Irish and Jason Miller"
+        },
+        {
+            "content": "Getting performance right.",
+            "content:encoded": "Getting performance right.",
+            "content:encodedSnippet": "Getting performance right.",
+            "contentSnippet": "Getting performance right.",
+            "enclosure": {
+                "length": "10325312",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/io-2018-ewa.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/io-chats-ewa",
+            "isoDate": "2018-06-19T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "15:47",
+                "episode": "22",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/5/5/7/8/55782eefd41337ca/io.jpg",
+                "keywords": "",
+                "subtitle": "Getting performance right."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/io-chats-ewa",
+            "pubDate": "Tue, 19 Jun 2018 00:00:00 +0000",
+            "title": "I/O chat with Ewa Gasperowicz"
+        },
+        {
+            "content": "How Chrome began.",
+            "content:encoded": "How Chrome began.",
+            "content:encodedSnippet": "How Chrome began.",
+            "contentSnippet": "How Chrome began.",
+            "enclosure": {
+                "length": "9182669",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/io-2018-darin.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/io-chats-darin",
+            "isoDate": "2018-06-13T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "13:30",
+                "episode": "21",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/c/5/4/7/c547a5d2b05fbcf9/io.jpg",
+                "keywords": "",
+                "subtitle": "How Chrome began."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/io-chats-darin",
+            "pubDate": "Wed, 13 Jun 2018 00:00:00 +0000",
+            "title": "I/O chat with Darin Fisher"
+        },
+        {
+            "content": "How we got started on the web.",
+            "content:encoded": "How we got started on the web.",
+            "content:encodedSnippet": "How we got started on the web.",
+            "contentSnippet": "How we got started on the web.",
+            "enclosure": {
+                "length": "13321494",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/io-2018-mariko.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/io-chats-mariko",
+            "isoDate": "2018-06-06T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "22:14",
+                "episode": "20",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/2/a/1/3/2a13b3f083df5002/io-mariko.jpg",
+                "keywords": "",
+                "subtitle": "How we got started on the web."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/io-chats-mariko",
+            "pubDate": "Wed, 06 Jun 2018 00:00:00 +0000",
+            "title": "I/O chat with Mariko Kosaka"
+        },
+        {
+            "content": "Shipping new a11y features.",
+            "content:encoded": "Shipping new a11y features.",
+            "content:encodedSnippet": "Shipping new a11y features.",
+            "contentSnippet": "Shipping new a11y features.",
+            "enclosure": {
+                "length": "9769758",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/io-2018-bobdod.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/io-chats-bobdod",
+            "isoDate": "2018-05-29T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "14:52",
+                "episode": "19",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/f/f/c/b/ffcb3bee8c7e0693/io.jpg",
+                "keywords": "",
+                "subtitle": "Shipping new a11y features."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/io-chats-bobdod",
+            "pubDate": "Tue, 29 May 2018 00:00:00 +0000",
+            "title": "I/O chat with Rob \"the bobdod\" Dodson"
+        },
+        {
+            "content": "Informative mouth-words.",
+            "content:encoded": "Informative mouth-words.",
+            "content:encodedSnippet": "Informative mouth-words.",
+            "contentSnippet": "Informative mouth-words.",
+            "enclosure": {
+                "length": "9936582",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/io-2018-monica.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/io-chats-monica",
+            "isoDate": "2018-05-23T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "15:34",
+                "episode": "18",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/a/6/6/7/a667452ba24d2bfc/io.jpg",
+                "keywords": "",
+                "subtitle": "Informative mouth-words."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/io-chats-monica",
+            "pubDate": "Wed, 23 May 2018 00:00:00 +0000",
+            "title": "I/O chat with Monica Dinculescu"
+        },
+        {
+            "content": "The state of the union of the web.",
+            "content:encoded": "The state of the union of the web.",
+            "content:encodedSnippet": "The state of the union of the web.",
+            "contentSnippet": "The state of the union of the web.",
+            "enclosure": {
+                "length": "17730438",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/io-2018-ben-dion.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/io-chats-ben-dion",
+            "isoDate": "2018-05-21T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "29:02",
+                "episode": "17",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/6/2/e/2/62e2ba376c7c40cf/io.jpg",
+                "keywords": "",
+                "subtitle": "The state of the union of the web."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/io-chats-ben-dion",
+            "pubDate": "Mon, 21 May 2018 00:00:00 +0000",
+            "title": "I/O chat with Dion Almaer & Ben Galbraith"
+        },
+        {
+            "content": "Also quizzes, privilege, and screen readers.",
+            "content:encoded": "Also quizzes, privilege, and screen readers.",
+            "content:encodedSnippet": "Also quizzes, privilege, and screen readers.",
+            "contentSnippet": "Also quizzes, privilege, and screen readers.",
+            "enclosure": {
+                "length": "32144556",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-16.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/smooshy-wasm-stacks",
+            "isoDate": "2018-04-17T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "52:43",
+                "episode": "16",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/a/d/b/8/adb80249aef69ee9/surma-and-jake-2.jpg",
+                "keywords": "",
+                "subtitle": "Also quizzes, privilege, and screen readers."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/smooshy-wasm-stacks",
+            "pubDate": "Tue, 17 Apr 2018 00:00:00 +0000",
+            "title": "Smooshes, WASMs, and conversational call stacks"
+        },
+        {
+            "content": "Also webpack + workers, observables, and resize observers.",
+            "content:encoded": "Also webpack + workers, observables, and resize observers.",
+            "content:encodedSnippet": "Also webpack + workers, observables, and resize observers.",
+            "contentSnippet": "Also webpack + workers, observables, and resize observers.",
+            "enclosure": {
+                "length": "44675820",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-15.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/cooties-symbols-and-shaders",
+            "isoDate": "2018-03-15T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "58:39",
+                "episode": "15",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/b/f/e/7/bfe78b827f52fd80/surma-and-jake-2.jpg",
+                "keywords": "",
+                "subtitle": "Also webpack + workers, observables, and resize observers."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/cooties-symbols-and-shaders",
+            "pubDate": "Thu, 15 Mar 2018 00:00:00 +0000",
+            "title": "Cooties, symbols, and shaders"
+        },
+        {
+            "content": "Also 120hz screens, JSON vs HTML, and a fox.",
+            "content:encoded": "Also 120hz screens, JSON vs HTML, and a fox.",
+            "content:encodedSnippet": "Also 120hz screens, JSON vs HTML, and a fox.",
+            "contentSnippet": "Also 120hz screens, JSON vs HTML, and a fox.",
+            "enclosure": {
+                "length": "34417480",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-14.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/eventtarget-imports-and-nudists",
+            "isoDate": "2018-01-24T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "50:15",
+                "episode": "14",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/4/9/5/c/495c0877360fd66a/surma-and-jake-2.jpg",
+                "keywords": "",
+                "subtitle": "Also 120hz screens, JSON vs HTML, and a fox."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/eventtarget-imports-and-nudists",
+            "pubDate": "Wed, 24 Jan 2018 00:00:00 +0000",
+            "title": "EventTarget, imports, and nudists"
+        },
+        {
+            "content": "With a limit of two minutes per topic.",
+            "content:encoded": "With a limit of two minutes per topic.",
+            "content:encodedSnippet": "With a limit of two minutes per topic.",
+            "contentSnippet": "With a limit of two minutes per topic.",
+            "enclosure": {
+                "length": "27846941",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-13.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/twelve-things-for-2018",
+            "isoDate": "2017-12-14T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "25:27",
+                "episode": "13",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/7/b/3/6/7b3622857e1edb15/surma-and-jake-2.jpg",
+                "keywords": "",
+                "subtitle": "With a limit of two minutes per topic."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/twelve-things-for-2018",
+            "pubDate": "Thu, 14 Dec 2017 00:00:00 +0000",
+            "title": "Twelve things for 2018"
+        },
+        {
+            "content": "WebRTC again, and about:blank weirdness.",
+            "content:encoded": "WebRTC again, and about:blank weirdness.",
+            "content:encodedSnippet": "WebRTC again, and about:blank weirdness.",
+            "contentSnippet": "WebRTC again, and about:blank weirdness.",
+            "enclosure": {
+                "length": "16481061",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-12.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/webrtc-again-and-about-blank",
+            "isoDate": "2017-12-08T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "16:44",
+                "episode": "12",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/9/5/b/f/95bf30cd99e801eb/surma-and-jake-2.jpg",
+                "keywords": "",
+                "subtitle": "WebRTC again, and about:blank weirdness."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/webrtc-again-and-about-blank",
+            "pubDate": "Fri, 08 Dec 2017 00:00:00 +0000",
+            "title": "WebRTC again, and about:blank weirdness"
+        },
+        {
+            "content": "Iframes, WeakMaps, and WebRTC.",
+            "content:encoded": "Iframes, WeakMaps, and WebRTC.",
+            "content:encodedSnippet": "Iframes, WeakMaps, and WebRTC.",
+            "contentSnippet": "Iframes, WeakMaps, and WebRTC.",
+            "enclosure": {
+                "length": "74778804",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-11.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/web-whispers-and-sleepy-thoughts",
+            "isoDate": "2017-11-22T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "51:48",
+                "episode": "11",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/2/f/8/3/2f8328552cd8b8db/surma-and-jake-2.jpg",
+                "keywords": "",
+                "subtitle": "Iframes, WeakMaps, and WebRTC."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/web-whispers-and-sleepy-thoughts",
+            "pubDate": "Wed, 22 Nov 2017 00:00:00 +0000",
+            "title": "Web-whispers and sleepy thoughts"
+        },
+        {
+            "content": "Viewports and message ports.",
+            "content:encoded": "Viewports and message ports.",
+            "content:encodedSnippet": "Viewports and message ports.",
+            "contentSnippet": "Viewports and message ports.",
+            "enclosure": {
+                "length": "66766005",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-10.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/wet-nose-cough",
+            "isoDate": "2017-10-06T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "01:02:03",
+                "episode": "10",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/3/8/5/c/385c701ac79b5ca3/surma-and-jake-2.jpg",
+                "keywords": "",
+                "subtitle": "Viewports and message ports."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/wet-nose-cough",
+            "pubDate": "Fri, 06 Oct 2017 00:00:00 +0000",
+            "title": "Wet Nose Cough"
+        },
+        {
+            "content": "Alarms, upcoming CSS stuff, impostor syndrome, and the death of Flash.",
+            "content:encoded": "Alarms, upcoming CSS stuff, impostor syndrome, and the death of Flash.",
+            "content:encodedSnippet": "Alarms, upcoming CSS stuff, impostor syndrome, and the death of Flash.",
+            "contentSnippet": "Alarms, upcoming CSS stuff, impostor syndrome, and the death of Flash.",
+            "enclosure": {
+                "length": "69925907",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-9.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/a-is-for-effort",
+            "isoDate": "2017-09-06T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "01:04:24",
+                "episode": "9",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/4/2/8/d/428d23ad73c7da22/surma-and-jake.jpg",
+                "keywords": "",
+                "subtitle": "Alarms, upcoming CSS stuff, impostor syndrome, and the death of Flash."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/a-is-for-effort",
+            "pubDate": "Wed, 06 Sep 2017 00:00:00 +0000",
+            "title": "A is for Effort"
+        },
+        {
+            "content": "Custom elements, matrices, TypeScript, and omg Paul is leaving",
+            "content:encoded": "Custom elements, matrices, TypeScript, and omg Paul is leaving",
+            "content:encodedSnippet": "Custom elements, matrices, TypeScript, and omg Paul is leaving",
+            "contentSnippet": "Custom elements, matrices, TypeScript, and omg Paul is leaving",
+            "enclosure": {
+                "length": "79889567",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-8.0.1.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/http-203-slippers-and-chips",
+            "isoDate": "2017-07-28T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "01:07:29",
+                "episode": "8",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/9/0/e/b/90ebbe5dd0254df5/http203-episode-5-art.jpg",
+                "keywords": "",
+                "subtitle": "Custom elements, matrices, TypeScript, and omg Paul is leaving"
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/http-203-slippers-and-chips",
+            "pubDate": "Fri, 28 Jul 2017 00:00:00 +0000",
+            "title": "Slippers and chips"
+        },
+        {
+            "content": "Jake is worse at quizzes than Paul.",
+            "content:encoded": "Jake is worse at quizzes than Paul.",
+            "content:encodedSnippet": "Jake is worse at quizzes than Paul.",
+            "contentSnippet": "Jake is worse at quizzes than Paul.",
+            "enclosure": {
+                "length": "68450844",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-7.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/http-203-quizzing-animating-and-canceling",
+            "isoDate": "2017-03-01T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "47:40",
+                "episode": "7",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/3/8/2/9/382985fd41302d1a/http203-episode-5-art.jpg",
+                "keywords": "",
+                "subtitle": "Jake is worse at quizzes than Paul."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/http-203-quizzing-animating-and-canceling",
+            "pubDate": "Wed, 01 Mar 2017 00:00:00 +0000",
+            "title": "Quizzing, animating, and canceling"
+        },
+        {
+            "content": "Paul's been booting frameworks, and unfortunately Jake connected his brain to Twitter",
+            "content:encoded": "Paul's been booting frameworks, and unfortunately Jake connected his brain to Twitter",
+            "content:encodedSnippet": "Paul's been booting frameworks, and unfortunately Jake connected his brain to Twitter",
+            "contentSnippet": "Paul's been booting frameworks, and unfortunately Jake connected his brain to Twitter",
+            "enclosure": {
+                "length": "55572138",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-6.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/http-203-legs-wasps-and-web-stuff",
+            "isoDate": "2017-01-17T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "45:43",
+                "episode": "6",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/7/5/7/0/757019e58cdfe59b/http203-episode-5-art.jpg",
+                "keywords": "",
+                "subtitle": "Paul's been booting frameworks, and unfortunately Jake connected his brain to Twitter."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/http-203-legs-wasps-and-web-stuff",
+            "pubDate": "Tue, 17 Jan 2017 00:00:00 +0000",
+            "title": "Legs, Wasps, and Eventually Some Web Stuff."
+        },
+        {
+            "content": "Paul has been playing with springy animations in the Safari Tech Preview, and Jake loves pubs that are also... windmills?",
+            "content:encoded": "Paul has been playing with springy animations in the Safari Tech Preview, and Jake loves pubs that are also... windmills?",
+            "content:encodedSnippet": "Paul has been playing with springy animations in the Safari Tech Preview, and Jake loves pubs that are also... windmills?",
+            "contentSnippet": "Paul has been playing with springy animations in the Safari Tech Preview, and Jake loves pubs that are also... windmills?",
+            "enclosure": {
+                "length": "85018132",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/epsiode-5.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/http-203-springy-css-storage-and-bisecting",
+            "isoDate": "2016-07-03T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "59:57",
+                "episode": "5",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/7/f/1/9/7f191637daa0f797/http203-episode-5-art.jpg",
+                "keywords": "",
+                "subtitle": "Paul and Jake talk about physics-based animation, asking the browser for permanent storage space, and how to find where a Chrome bug was created."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/http-203-springy-css-storage-and-bisecting",
+            "pubDate": "Sun, 03 Jul 2016 00:00:00 +0000",
+            "title": "Springy CSS, Storage, and Bisecting."
+        },
+        {
+            "content": "\"Jake's discovered display: contents, while Paul is concerned about people microbenchmarking ES2015 features.\"",
+            "content:encoded": "\"Jake's discovered display: contents, while Paul is concerned about people microbenchmarking ES2015 features.\"",
+            "content:encodedSnippet": "\"Jake's discovered display: contents, while Paul is concerned about people microbenchmarking ES2015 features.\"",
+            "contentSnippet": "\"Jake's discovered display: contents, while Paul is concerned about people microbenchmarking ES2015 features.\"",
+            "enclosure": {
+                "length": "63577518",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-4.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/http-203-promises-mistakes-and-door-handles",
+            "isoDate": "2016-02-24T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "52:47",
+                "episode": "4",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/0/e/0/6/0e06f5c61954cfa2/http203-episode-4-art.jpg",
+                "keywords": "",
+                "subtitle": "Paul and Jake talk about how to Promisify Node, the sins of CSS, and how hard it can be to find a door handle."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/http-203-promises-mistakes-and-door-handles",
+            "pubDate": "Wed, 24 Feb 2016 00:00:00 +0000",
+            "title": "Promises, Mistakes, and Door Handles"
+        },
+        {
+            "content": "Jake brings his A+ poetry game, and Paul muses over the performance implications of event delegation.",
+            "content:encoded": "Jake brings his A+ poetry game, and Paul muses over the performance implications of event delegation.",
+            "content:encodedSnippet": "Jake brings his A+ poetry game, and Paul muses over the performance implications of event delegation.",
+            "contentSnippet": "Jake brings his A+ poetry game, and Paul muses over the performance implications of event delegation.",
+            "enclosure": {
+                "length": "29840530",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-3.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/http-203-poetry-and-delegated-event-listeners",
+            "isoDate": "2015-10-24T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "32:30",
+                "episode": "3",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/4/b/7/8/4b788941f1f19d8f/http203-episode-3-art.jpg",
+                "keywords": "",
+                "subtitle": "Paul and Jake talk about poetry, event listeners, and content that jumps around your screen."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/http-203-poetry-and-delegated-event-listeners",
+            "pubDate": "Sat, 24 Oct 2015 00:00:00 +0000",
+            "title": "Poetry and Delegated Event Listeners"
+        },
+        {
+            "content": "Why does nobody seem to include CORS headers on their files? And can Paul answer Jake's dreaded CORS pre-flight quiz?",
+            "content:encoded": "Why does nobody seem to include CORS headers on their files? And can Paul answer Jake's dreaded CORS pre-flight quiz?",
+            "content:encodedSnippet": "Why does nobody seem to include CORS headers on their files? And can Paul answer Jake's dreaded CORS pre-flight quiz?",
+            "contentSnippet": "Why does nobody seem to include CORS headers on their files? And can Paul answer Jake's dreaded CORS pre-flight quiz?",
+            "enclosure": {
+                "length": "29803546",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-2.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/http-203-cors-forced-layouts-and-raptor-kebab-shops",
+            "isoDate": "2015-10-06T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "30:37",
+                "episode": "2",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/e/c/0/1/ec0185450785660d/http203-episode-2-art.jpg",
+                "keywords": "",
+                "subtitle": "Paul and Jake talk about CORS, Layout, and which of them has the evolutionary advantage."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/http-203-cors-forced-layouts-and-raptor-kebab-shops",
+            "pubDate": "Tue, 06 Oct 2015 00:00:00 +0000",
+            "title": "CORS, Forced Layouts, and Raptor Kebab Shops."
+        },
+        {
+            "content": "How can writing code be like making a burger? Turns out, by the power of weird segues, it can!",
+            "content:encoded": "How can writing code be like making a burger? Turns out, by the power of weird segues, it can!",
+            "content:encodedSnippet": "How can writing code be like making a burger? Turns out, by the power of weird segues, it can!",
+            "contentSnippet": "How can writing code be like making a burger? Turns out, by the power of weird segues, it can!",
+            "enclosure": {
+                "length": "31517231",
+                "type": "audio/mpeg",
+                "url": "https://traffic.libsyn.com/secure/http203/episode-1.mp3?dest-id=1969313"
+            },
+            "guid": "https://developers.google.com/web/shows/http203/podcast/http-203-making-burgers-and-maintainable-code",
+            "isoDate": "2015-09-20T00:00:00.000Z",
+            "itunes": {
+                "author": "Surma & Jake",
+                "duration": "30:14",
+                "episode": "1",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://ssl-static.libsyn.com/p/assets/f/e/a/3/fea3544101867d1b/http203-episode-1-art.jpg",
+                "keywords": "",
+                "subtitle": "Paul and Jake talk about making burgers and maintainable code."
+            },
+            "link": "https://developers.google.com/web/shows/http203/podcast/http-203-making-burgers-and-maintainable-code",
+            "pubDate": "Sun, 20 Sep 2015 00:00:00 +0000",
+            "title": "Making Burgers and Maintainable Code"
+        }
+    ],
+    "itunes": {
+        "author": "Surma & Jake",
+        "categories": [
+            "Technology"
+        ],
+        "categoriesWithSubs": [
+            {
+                "name": "Technology",
+                "subs": null
+            }
+        ],
+        "explicit": "false",
+        "image": "https://ssl-static.libsyn.com/p/assets/4/0/a/0/40a057340c51398b/HTTP_Podcast_Episodes_thumb_v2_1.png",
+        "owner": {
+            "email": "gdevs.podcast@gmail.com",
+            "name": "Google"
+        },
+        "summary": "Surma and Jake talk about whatever's going on in the world of web development."
+    },
+    "language": "en",
+    "lastBuildDate": "Sat, 22 Apr 2023 00:35:21 +0000",
+    "link": "https://developers.google.com/web/shows/http203/podcast/",
+    "managingEditor": "gdevs.podcast@gmail.com (gdevs.podcast@gmail.com)",
+    "paginationLinks": {
+        "self": "https://http203.libsyn.com/rss"
+    },
+    "palette": [
+        "201B23",
+        "CC9D86",
+        "989DA9",
+        "8D4E38",
+        "B34710",
+        "79859B"
+    ],
+    "pubDate": "Wed, 29 Jun 2022 16:58:48 +0000",
+    "title": "HTTP 203"
+}

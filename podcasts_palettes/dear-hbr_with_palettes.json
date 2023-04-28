@@ -2,6 +2,7 @@
     "copyright": "Copyright 2022 Harvard Business School Publishing Corporation. All rights reserved.",
     "description": "Work can be frustrating. How can you get along with that maddening coworker? Figure out what your unapproachable boss really wants? Motivate your demoralized team? \"Dear HBR:\" is here to help. With empathy, experience, and humor, veteran Harvard Business Review editors and co-hosts Alison Beard and Dan McGinn explore solutions to your workplace dilemmas. Bolstered by insights from guests and academic research, they help you navigate thorny situations to find a better way forward.",
     "docs": "http://feed2.w3.org/docs/rss2.html",
+    "feedUrl": "https://wp.hbr.org/atom-api/typeterm/podcast/podcast-series/dear-hbr",
     "generator": "MT",
     "image": {
         "link": "https://hbr.org/podcasts/dear-hbr",
@@ -23,6 +24,7 @@
             "isoDate": "2021-02-04T14:00:43.000Z",
             "itunes": {
                 "duration": "2308",
+                "episodeType": "bonus",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "This new podcast features real-life coaching sessions with leaders working to overcome professional challenges. In this episode, host Muriel Wilkins speaks with a woman who\u2019s been walking a tightrope between addressing a superior\u2019s microaggressions and making her team feel safe. Wilkins coaches this manager toward the actions she can take to improve the situation and build a healthier culture at her organization. \"Coaching Real leaders\" is part of HBR Presents, a network of business podcasts curated by HBR editors."
@@ -46,6 +48,7 @@
             "itunes": {
                 "duration": "1856",
                 "episode": "76",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Is it time to do something different in your career? Dan and Alison answer your questions with the help of Bruce Feiler, a researcher and the author of Life Is in the Transitions. They talk through what to do when you\u2019ve been out of work and can\u2019t find a job the usual ways, you feel lost in the ambiguity of a new role, or you want to convince your boss to release you to another team."
@@ -69,6 +72,7 @@
             "itunes": {
                 "duration": "1880",
                 "episode": "75",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Is it hard for you to give or get feedback virtually? Dan and Alison answer your questions with the help of Marcus Buckingham, a cohead of the ADP Research Institute and the author of Nine Lies about Work. They talk through what to do when you want to tell your boss they\u2019re derailing virtual meetings, you\u2019re starting a new job remotely and getting little guidance, or you want more feedback on your organization\u2019s performance during the pandemic."
@@ -92,6 +96,7 @@
             "itunes": {
                 "duration": "1886",
                 "episode": "74",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Is the pandemic making you rethink your commute? Dan and Alison answer your questions with the help of Ashley Whillans, a professor at Harvard Business School and the author of the new book Time Smart. They talk through what to do when you want to work remotely but your company is against it, you\u2019re considering a new job closer to home, or you\u2019ve been offered a job that\u2019s a great fit but comes with a longer commute."
@@ -115,6 +120,7 @@
             "itunes": {
                 "duration": "1978",
                 "episode": "73",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "What will it take for you to feel safe at work again? Dan and Alison answer your questions with the help of Ethan Bernstein, a professor at Harvard Business School. They talk through what to do when your essential employees are staying home despite increased safety measures, you want to redesign your open office to make it work for the new normal, or you\u2019re seeing a growing divide between workers who have to come in and those who can work from home."
@@ -138,6 +144,7 @@
             "itunes": {
                 "duration": "2097",
                 "episode": "72",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you experiencing gender bias at work? Dan and Alison answer your questions with the help of Katie Coffman, a professor at Harvard Business School. They talk through what to do when you are held to a higher standard as a female manager, you\u2019ve been promoted but a male deputy has been chosen for you, or you join a company that is living in the past."
@@ -161,6 +168,7 @@
             "itunes": {
                 "duration": "2218",
                 "episode": "71",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Do you wish you could understand your boss better? Dan and Alison answer your questions with the help of Mimi Nicklin, a business coach and author. They talk through what to do when you have a boss who is unforgiving, who relies on you to cover their flaws, or who flip-flops between being your warm friend and cold supervisor."
@@ -184,6 +192,7 @@
             "itunes": {
                 "duration": "2122",
                 "episode": "70",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Do you have a difficult subordinate who needs coaching? Dan and Alison answer your questions with the help of Melvin Smith, a professor at the Weatherhead School of Management at Case Western Reserve University. They talk through what to do when your new employee is slacking off, a new hire needs to adjust to your organization\u2019s culture and communication style, or you have to coach two direct reports who are in conflict with each other."
@@ -207,6 +216,7 @@
             "itunes": {
                 "duration": "1828",
                 "episode": "69",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are your workplace dilemmas different because you\u2019re in the public sector? Dan and Alison answer your questions with the help of Bernie Banks, a retired U.S. Army general and a professor at Kellogg School of Management at Northwestern University. They talk through what to do when you want to effect change as a middle manager in the military, you\u2019re battling misperceptions of public-sector work as you switch to the private sector, or you want to boost the morale of your team of government workers."
@@ -230,6 +240,7 @@
             "itunes": {
                 "duration": "1797",
                 "episode": "68",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you a working parent stressing over how to advance your career during the pandemic? Dan and Alison answer your questions with the help of Alyssa Westring, a professor at DePaul University\u2019s Driehaus College of Business. They talk through what to do when you now want to quit your job to be a stay-at-home parent, your reduced salary and growth prospects are hurting your plans to have children, or a Covid-delayed job start date is tricky timing for your pregnancy."
@@ -253,6 +264,7 @@
             "itunes": {
                 "duration": "2002",
                 "episode": "67",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Do you have what it takes to be a manager? Dan and Alison answer your questions with the help of Ellen Van Oosten, a professor at the Weatherhead School of Management at Case Western Reserve University. They talk through what to do when you\u2019ve been tapped for a managerial role but you don\u2019t want it, you have only informal management experience on your CV, or your supervisor is blocking you from earning the title of manager."
@@ -276,6 +288,7 @@
             "itunes": {
                 "duration": "1979",
                 "episode": "66",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you struggling with start-up life? Dan and Alison answer your questions with the help of Dave Balter, an entrepreneur, CEO, and author. They talk through what to do when you\u2019re burning out due to a frenzied workload, a key hire is hurting your start-up\u2019s culture, or you want more pay because of your fast-growing responsibilities."
@@ -299,6 +312,7 @@
             "itunes": {
                 "duration": "1907",
                 "episode": "65",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "As an engineer, do you feel you carry a bigger burden at work? Dan and Alison answer your questions with the help of Richard Sheridan, an engineer, CEO, and author. They talk through what to do when you want to influence decisions as a technical expert, you\u2019re a female engineer seeing your male counterparts promoted more quickly, or you have a hard time committing fully to flawed projects."
@@ -322,6 +336,7 @@
             "itunes": {
                 "duration": "1725",
                 "episode": "64",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you unsure of when to toot your own horn? Dan and Alison answer your questions with the help of Meredith Fineman, a communication coach and author. They talk through what to do when your boss takes credit for your accomplishments, your employer doesn\u2019t value what you bring to the table, or your braggart colleague is getting all the growth opportunities."
@@ -345,6 +360,7 @@
             "itunes": {
                 "duration": "1739",
                 "episode": "63",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Is a team you manage keeping you up at night? Dan and Alison answer your questions with the help of Melanie Parish, a leadership coach and author. They talk through what to do when you lead a rogue team that doesn\u2019t follow company processes, your growing team of managers is clamoring to weigh in on key decisions, or you want to improve the morale of a frustrated team."
@@ -367,6 +383,7 @@
             "isoDate": "2020-06-04T14:00:33.000Z",
             "itunes": {
                 "duration": "915",
+                "episodeType": "bonus",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Is your new employer pushing back your start date due to the pandemic? Dan and Alison answer your questions with the help of Moshe Cohen, a senior lecturer at Boston University\u2019s Questrom School of Business. In this bonus episode, they talk through what to do when your new boss postpones your first day on the job and then doesn\u2019t respond to your communications."
@@ -390,6 +407,7 @@
             "itunes": {
                 "duration": "1946",
                 "episode": "62",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you contemplating a career change? Dan and Alison answer your questions with the help of Monica Higgins, a professor at Harvard Graduate School of Education. They talk through what to do when you\u2019re having trouble breaking into a new field, you want to leave a secure career path for something riskier, or you\u2019re eyeing a new industry but don\u2019t know where to start."
@@ -412,6 +430,7 @@
             "isoDate": "2020-05-20T16:59:15.000Z",
             "itunes": {
                 "duration": "837",
+                "episodeType": "bonus",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you leaving your organization during a critical time? Dan and Alison answer your questions with the help of Shirli Kopelman, a negotiations professor at the University of Michigan\u2019s Ross School of Business. In this bonus episode, they talk through what to do when you\u2019re planning to give notice during the coronavirus pandemic and can\u2019t train your replacement."
@@ -435,6 +454,7 @@
             "itunes": {
                 "duration": "2110",
                 "episode": "61",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Do you fear speaking frankly with your supervisor? Dan and Alison answer your questions with the help of Liz Kislik, a management consultant and executive coach. They talk through what to do when your boss micromanages your output, you want to set boundaries for better work-life balance, or your new supervisor is eagerly volunteering your team for too many projects."
@@ -457,6 +477,7 @@
             "isoDate": "2020-05-07T14:15:07.000Z",
             "itunes": {
                 "duration": "1147",
+                "episodeType": "bonus",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Is your organization breaking a promise to you and blaming Covid-19? Dan and Alison answer your questions with the help of Leigh Thompson, a negotiations professor at Kellogg School of Management. In this bonus episode, they talk through what to do when your boss can no longer afford to give you a planned raise."
@@ -480,6 +501,7 @@
             "itunes": {
                 "duration": "1610",
                 "episode": "60",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Is the Covid-19 pandemic messing up your career plans? Dan and Alison answer your questions with the help of Scott Galloway, a professor at NYU Stern School of Business. They talk through what to do when you\u2019ve been laid off with a promise that you\u2019ll be hired back eventually, your goal of moving into management has stalled, or your employer\u2019s inflexible work-from-home policy is forcing you to look for other jobs in a difficult market."
@@ -502,6 +524,7 @@
             "isoDate": "2020-04-23T14:15:03.000Z",
             "itunes": {
                 "duration": "860",
+                "episodeType": "bonus",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you starting a new job during the coronavirus pandemic? Dan and Alison answer your questions with the help of Siobhan O\u2019Mahony, a professor at Boston University Questrom School of Business. In this bonus episode, they talk through what to do when you want to hit the ground running but your onboarding is not taking place in person as planned."
@@ -525,6 +548,7 @@
             "itunes": {
                 "duration": "1976",
                 "episode": "59",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Do you feel fake when you try to manage up? Dan and Alison answer your questions with the help of Nashater Deu Solheim, a leadership consultant and author. They talk through what to do when you want choice assignments, you feel like higher-ups aren\u2019t noticing your contributions, or you need a senior manager to be more responsive."
@@ -548,6 +572,7 @@
             "itunes": {
                 "duration": "1643",
                 "episode": "58",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you suddenly working from home? Dan and Alison answer your questions with the help of Tsedal Neeley, a professor at Harvard Business School. They talk through how to be productive at home whether you\u2019re alone or distracted by children, how to care for your newly remote team and make sure they still get work done, or how to adapt when your job requires going outside and seeing people face-to-face."
@@ -571,6 +596,7 @@
             "itunes": {
                 "duration": "2095",
                 "episode": "57",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "When is the right time for a new job? Dan and Alison answer your questions with the help of Hal Gregersen, a senior lecturer at MIT Sloan School of Management. They talk through what to do when you\u2019re advancing in your role but itching for change, an outside job offer is making you question your current situation, or you\u2019re considering going to a smaller organization for bigger responsibilities."
@@ -594,6 +620,7 @@
             "itunes": {
                 "duration": "1958",
                 "episode": "56",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Do you have an employee working against you? Dan and Alison answer your questions with the help of Adrian Gostick, an executive coach and author. They talk through what to do when your direct report is creating problems only to fix them, one team member is hoarding knowledge, or two employees have created a disruptive office clique."
@@ -617,6 +644,7 @@
             "itunes": {
                 "duration": "1738",
                 "episode": "55",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Is there someone you work with and wish you didn\u2019t have to? Dan and Alison answer your questions with the help of Jennifer Goldman-Wetzler, an organizational psychologist and the author of Optimal Outcomes. They talk through what to do when you manage a high performer who gets on everyone\u2019s nerves, your teammate unfairly berates you, or the one person you don\u2019t get along with is your boss."
@@ -640,6 +668,7 @@
             "itunes": {
                 "duration": "1859",
                 "episode": "54",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Do you deserve more respect for your role and contributions at work? Dan and Alison answer your questions with the help of Blair Decembrele, a career expert at LinkedIn. They talk through what to do when your direct report goes around you to your manager, your superiors move you into an undesired role without explanation, or your boss suddenly stops appreciating your work."
@@ -663,6 +692,7 @@
             "itunes": {
                 "duration": "1977",
                 "episode": "53",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Do you wish you were more plugged-in at your organization? Dan and Alison answer your questions with the help of Robin Abrahams, a research associate at Harvard Business School. They talk through what to do when you want to network at a company retreat, your manager is bothered by your schmoozing with their peers, or you want to know about plum projects before they get assigned to someone else."
@@ -686,6 +716,7 @@
             "itunes": {
                 "duration": "1847",
                 "episode": "52",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Do you want a fresh start to your work life? Dan and Alison answer your questions with the help of Wendy Wood, a social psychologist at USC Marshall School of Business. They talk through what to do when you\u2019re bored to tears in your current job, you\u2019re being recruited by an exciting company right after a disappointing promotion, or you feel stymied in a role you thought was going to be great."
@@ -709,6 +740,7 @@
             "itunes": {
                 "duration": "2352",
                 "episode": "51",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you being treated unfairly at work because of your gender? Dan and Alison answer your questions with the help of Michelle King, the director of inclusion at Netflix. They talk through what to do when you and other women on your team are being marginalized, you\u2019re a man experiencing reverse discrimination, or gender bias is blocking your advancement."
@@ -732,6 +764,7 @@
             "itunes": {
                 "duration": "2013",
                 "episode": "50",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you underqualified for the job you want? Dan and Alison answer your questions with the help of Obed Louissaint, IBM\u2019s head of talent. They talk through what to do when an MBA isn\u2019t enough to get you into your desired role, you\u2019re trying to keep your skills current as you spend more time managing people, or you want to return to a fast-moving industry after a long stint in another field."
@@ -755,6 +788,7 @@
             "itunes": {
                 "duration": "2680",
                 "episode": "49",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Is the right career move coming at the wrong time? Dan and Alison answer your questions with the help of Daniel Pink, the author of \u201cWhen: The Scientific Secrets of Perfect Timing.\u201d In front of a live audience, they talk through what to do when you\u2019re poised for a better role but have to wait six months, you want your company to seize an immediate market opportunity, or you\u2019re trying to correct a mistimed job move."
@@ -778,6 +812,7 @@
             "itunes": {
                 "duration": "1735",
                 "episode": "48",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Has your team checked out? Dan and Alison answer your questions with the help of Richard Boyatzis, a management professor at Case Western Reserve University and coauthor of the book \u201cHelping People Change.\u201d They talk through what to do when a colleague wants the status of a prominent role but doesn\u2019t want to do the work, employees are leaving the company at a high rate, or your subordinate resists doing any additional work."
@@ -801,6 +836,7 @@
             "itunes": {
                 "duration": "2056",
                 "episode": "47",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Do you or your team have way too much to do? Dan and Alison answer your questions with the help of Amy Jen Su, an executive coach and author. They talk through what to do when you\u2019re struggling to get things done at a new job, a coworker is stressed about their work, or you and your team disagree about whether they're overworked."
@@ -824,6 +860,7 @@
             "itunes": {
                 "duration": "1639",
                 "episode": "46",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "How do you feel when you have to do something new or difficult? Dan and Alison answer your questions with the help of Andy Molinsky, a professor at Brandeis International Business School and the author of \"Reach\". They talk through what to do when you\u2019re terrified of giving presentations, big changes at work make you uneasy about the future, or your voice quakes when you deal with conflict."
@@ -847,6 +884,7 @@
             "itunes": {
                 "duration": "2195",
                 "episode": "45",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you struggling to recover from a setback? Dan and Alison answer your questions with the help of Neil Pasricha, a former Walmart executive and the author of You Are Awesome. They talk through what to do when your confidence is shattered by bad reviews, you\u2019re in a difficult situation that you don't know how to navigate, or you want to be a high achiever again after plateauing for a while."
@@ -870,6 +908,7 @@
             "itunes": {
                 "duration": "2156",
                 "episode": "44",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Is a coworker getting on your nerves? Dan and Alison answer your questions with the help of Amy Gallo, the author of the HBR Guide to Dealing with Conflict. They talk through what to do when a coworker acts like their responsibilities are beneath them, a colleague you referred to the team is being aggressive and sneaky, or a fellow team member is coasting while you\u2019re putting in long hours."
@@ -893,6 +932,7 @@
             "itunes": {
                 "duration": "2116",
                 "episode": "43",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Is your organization going through some big shifts? Dan and Alison answer your questions with the help of Katie Burke, the chief people officer of HubSpot. They talk through what to do when you\u2019re ready to move up but there\u2019s no one to take over your role, you\u2019re expected to work on too many projects with too little support, or layoffs are happening but your boss isn't giving you more responsibility."
@@ -916,6 +956,7 @@
             "itunes": {
                 "duration": "1979",
                 "episode": "42",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you struggling to manage people who are older than you? Dan and Alison answer your questions with the help of workplace consultant Lindsey Pollak. They talk through what to do when you\u2019ve been promoted above more experienced colleagues, you\u2019re not sure how to motivate older reports, or senior employees are skeptical of the technology you want to implement."
@@ -939,6 +980,7 @@
             "itunes": {
                 "duration": "1851",
                 "episode": "41",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you at odds with your company\u2019s culture? Dan and Alison answer your questions with the help of Alicia Tillman, the CMO of SAP. They talk through what to do when your company celebrates one kind of worker and ignores others, everyone seems to fit in but you, or a hard-charging culture is hurting performance and employee morale."
@@ -962,6 +1004,7 @@
             "itunes": {
                 "duration": "2029",
                 "episode": "40",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are clients bringing you down? Dan and Alison answer your questions with the help of Diane Hessan, the founder and chair of the marketing technology agency C Space. They talk through what to do when you have a difficult client, your coworkers are hampering your ability to serve clientele, or you want to win more business to advance your career."
@@ -985,6 +1028,7 @@
             "itunes": {
                 "duration": "3120",
                 "episode": "39",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you weighing the trade-offs of a big career decision? Dan and Alison answer your questions with the help of Claudio Fern\u00e1ndez-Ar\u00e1oz, a senior adviser at the executive search firm Egon Zehnder. They talk through what to do when you want to transition from individual contributor to management, you\u2019re mulling over a more senior role at a smaller organization, or you\u2019re having doubts about staying on a high-pressure career track."
@@ -1008,6 +1052,7 @@
             "itunes": {
                 "duration": "1891",
                 "episode": "38",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Does standard work advice not apply to you because you\u2019re at a nonprofit? Dan and Alison answer your questions with the help of Joan Garry, a nonprofit leadership consultant and former executive director. They talk through what to do when you\u2019re trying to advance amid a leadership change, your job seems to shift as sources of funding do, or you\u2019re unsure how to describe your work to people in the private sector."
@@ -1031,6 +1076,7 @@
             "itunes": {
                 "duration": "2130",
                 "episode": "37",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you being pushed outside your comfort zone? Dan and Alison answer your questions with the help of Jerry Colonna, a professional coach and a former venture capitalist. They talk through what to do when you don't feel qualified for your new role, you're covering an absentee boss's responsibilities, or you have been assigned to lead a team but haven't been given formal power."
@@ -1054,6 +1100,7 @@
             "itunes": {
                 "duration": "2010",
                 "episode": "36",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Is your job turning into something you don't want? Dan and Alison answer your questions with the help of Francesca Gino, a professor at Harvard Business School. They talk through what to do when your boss gives you duties you dislike, your company is grooming you for roles you can\u2019t see yourself in, or you\u2019ve been offered a different job than the one you applied for."
@@ -1077,6 +1124,7 @@
             "itunes": {
                 "duration": "2032",
                 "episode": "35",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Do you want the corner office someday? Dan and Alison answer your questions with the help of Mike Troiano, a venture capitalist and former executive. They talk through what to do when you\u2019re falling off the executive track, you're moving up but don\u2019t believe in the company's strategy, or you have a rival who could block your path to the C-suite."
@@ -1100,6 +1148,7 @@
             "itunes": {
                 "duration": "1920",
                 "episode": "34",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Do you have a hard time managing team dynamics? Dan and Alison answer your questions with the help of Facebook executive Julie Zhuo. They talk through what to do when your subordinate is bossing around others on the team, a star performer you\u2019ve hired threatens your status, or you want to help an underperforming team member."
@@ -1123,6 +1172,7 @@
             "itunes": {
                 "duration": "2098",
                 "episode": "33",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Should you accept your boss's counteroffer to stay at the organization? Dan and Alison answer your questions with the help of Leigh Thompson, a negotiations professor at Kellogg School of Management. They talk through what to do when you\u2019re presented with a counteroffer, you\u2019re considering what you would need to stay at your company, or you want to use a job offer to get a raise."
@@ -1146,6 +1196,7 @@
             "itunes": {
                 "duration": "1857",
                 "episode": "32",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Do you ruminate endlessly on difficult work situations? Dan and Alison answer your questions with the help of David DeSteno, a psychologist at Northeastern University. They talk through what to do when your boss constantly criticizes you, you\u2019ve been fired unexpectedly, or your coworkers complain about you to your boss."
@@ -1169,6 +1220,7 @@
             "itunes": {
                 "duration": "1951",
                 "episode": "31",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you taking full advantage of your job's benefits and perks? Dan and Alison answer your questions with the help of PwC chief people officer Mike Fenlon. They talk through what to do when you\u2019re deciding between freelancing and a staff position with benefits, you want your company to offer a new perk, or your job makes it hard to use your vacation days."
@@ -1192,6 +1244,7 @@
             "itunes": {
                 "duration": "2099",
                 "episode": "30",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Could your workplace be more trusting? Dan and Alison answer your questions with the help of organizational psychologist Liane Davey. They talk through what to do when your new boss doesn\u2019t trust you yet, you want to earn the trust of your subordinates, or company leaders have made employees afraid to speak up."
@@ -1215,6 +1268,7 @@
             "itunes": {
                 "duration": "2001",
                 "episode": "29",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Do you need to get better at giving and receiving feedback? Dan and Alison answer your questions with the help of consultant Ben Dattner. They talk through what to do when your employee wants to give you feedback, your feedback to others doesn't seem to make a difference, or someone who isn't your boss comments about your performance."
@@ -1238,6 +1292,7 @@
             "itunes": {
                 "duration": "2197",
                 "episode": "28",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you struggling to balance career and family? Dan and Alison answer your questions with the help of career coach Daisy Dowling. They talk through what to do when you\u2019re returning from maternity leave, planning to have kids early in your career, or debating whether to quit your job to care for your children."
@@ -1261,6 +1316,7 @@
             "itunes": {
                 "duration": "2333",
                 "episode": "27",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Have you been sidelined at work? Dan and Alison answer your questions with the help of Bill Taylor, a cofounder of Fast Company. They talk through what to do when your responsibilities have been reduced, you\u2019ve been moved to an underperforming team, or your boss is leaving you out of key meetings."
@@ -1284,6 +1340,7 @@
             "itunes": {
                 "duration": "1949",
                 "episode": "26",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you dreading a work discussion? Dan and Alison answer your questions with the help of Leslie John, a professor at Harvard Business School. They talk through what to do when you need to set your boss straight, meet with a direct report who wanted your new job, or hash things out with a negative team member."
@@ -1307,6 +1364,7 @@
             "itunes": {
                 "duration": "1797",
                 "episode": "25",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Have you checked out at work? Dan and Alison answer your questions with the help of Dan Cable, a professor at London Business School. They talk through what to do when you aren't excited about your organization, new assignments don\u2019t hold your interest, or all the best projects go to more senior employees."
@@ -1330,6 +1388,7 @@
             "itunes": {
                 "duration": "1934",
                 "episode": "24",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you worried about being seen as a job-hopper? Dan and Alison answer your questions with the help of Allison Rimm, a career coach and former executive. They talk through how to leave after a brief time on the job, explain a series of short stints on your r\u00e9sum\u00e9, or know when to stick it out."
@@ -1353,6 +1412,7 @@
             "itunes": {
                 "duration": "1892",
                 "episode": "23",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Do you need a career makeover? Dan and Alison answer your questions with the help of Dorie Clark, the author of \u201cReinventing You.\u201d They talk through how to change your coworkers\u2019 perception of you, transition to a role outside your area of expertise, or be seen as a leader."
@@ -1376,6 +1436,7 @@
             "itunes": {
                 "duration": "1897",
                 "episode": "22",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Is your teamwork not working? Dan and Alison answer your questions with the help of Amy Edmondson, a professor at Harvard Business School. They talk through what to do when your team isn\u2019t communicating, doesn\u2019t respect its leader, or has one employee who\u2019s causing problems."
@@ -1399,6 +1460,7 @@
             "itunes": {
                 "duration": "1911",
                 "episode": "21",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "How does race affect your workplace? Dan and Alison answer your questions with the help of Tina Opie, a management professor at Babson College. They talk through what to do when your company's board is not diverse, promotions favor some people more than others, or you want to have more conversations about race at the office."
@@ -1422,6 +1484,7 @@
             "itunes": {
                 "duration": "2019",
                 "episode": "20",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Do you deserve a higher salary? In a live taping with an audience of compensation experts, Dan and Alison answer your questions with the help of Susan Hollingshead, the chief people officer at Vendini. They talk through how to get more money when you haven\u2019t been in your role long, the company isn\u2019t giving out merit increases, or you\u2019re at the bottom of your job\u2019s salary range."
@@ -1445,6 +1508,7 @@
             "itunes": {
                 "duration": "1968",
                 "episode": "19",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "How does working remotely complicate your career? Dan and Alison answer your questions with the help of Siobhan O\u2019Mahony, a professor at Boston University Questrom School of Business. They talk through how to advance in your job when you\u2019re not in the building, deal with a problematic colleague you never see, and manage teams in other offices."
@@ -1468,6 +1532,7 @@
             "itunes": {
                 "duration": "2085",
                 "episode": "18",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you looking to quit your job? Dan and Alison answer your questions with the help of David Burkus, a management professor at Oral Roberts University. They talk through what to do when you want to call out a toxic employee in your resignation letter, reject a counteroffer, or resign without burning bridges."
@@ -1491,6 +1556,7 @@
             "itunes": {
                 "duration": "2134",
                 "episode": "17",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Does your organization lack quality leadership? Dan and Alison answer your questions with the help of Peter Bregman, a leadership expert. They talk through what to do when your leaders are indecisive, unprofessional, or value the wrong things."
@@ -1514,6 +1580,7 @@
             "itunes": {
                 "duration": "1900",
                 "episode": "16",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Have you taken extended time off due to an illness? Dan and Alison answer your questions with the help of Anne Sugar, a cancer survivor and an executive coach. They talk through what to do when you\u2019re recovering from an illness while working, giving notice after a leave of absence, or job hunting after a health-related employment gap."
@@ -1537,6 +1604,7 @@
             "itunes": {
                 "duration": "2298",
                 "episode": "15",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Is miscommunication a constant problem at your workplace? Dan and Alison answer your questions with the help of Holly Weeks, a lecturer at Harvard University. They talk through what to do when your coworker won\u2019t stop talking, your boss overcommunicates with everyone on a project, or a leader keeps changing what you're supposed to do."
@@ -1560,6 +1628,7 @@
             "itunes": {
                 "duration": "1967",
                 "episode": "14",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Is a recent firing weighing on you? Dan and Alison answer your questions with the help of Susan David, a psychologist at Harvard Medical School. They talk through what to do when your coworker has been wrongfully fired, your company has massive layoffs, or you\u2019ve been fired."
@@ -1583,6 +1652,7 @@
             "itunes": {
                 "duration": "2111",
                 "episode": "13",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you struggling with the complications of working in a family business? Dan and Alison answer your questions with the help of Ted Clark, who runs the Center for Family Business at Northeastern University. They talk through advancing when you\u2019re not a member of the family, managing up when your parents are your bosses, and whether it\u2019s better to work for a family enterprise or a big corporation."
@@ -1606,6 +1676,7 @@
             "itunes": {
                 "duration": "2219",
                 "episode": "12",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Do performance reviews fill you with anxiety? Dan and Alison answer your questions with the help of Adam Grant, an organizational psychologist at the Wharton School at the University of Pennsylvania. They talk through how to handle performance reviews that have mixed messages, extreme criticism, or not enough helpful feedback."
@@ -1629,6 +1700,7 @@
             "itunes": {
                 "duration": "2141",
                 "episode": "11",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Does your direct report get on your nerves? Dan and Alison answer your questions with the help of Art Markman, a psychology professor at the University of Texas. They talk through how to manage someone who is unlikable, overly polite, or passive-aggressive."
@@ -1652,6 +1724,7 @@
             "itunes": {
                 "duration": "1913",
                 "episode": "10",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Is your office killing your productivity? Dan and Alison answer your questions with the help of Pete Bacevice, a workplace researcher at the global design firm HLW and the University of Michigan\u2019s Ross School of Business. They talk through how to survive in an open office, deploy teams across multiple buildings, and ask for a better workspace."
@@ -1675,6 +1748,7 @@
             "itunes": {
                 "duration": "1930",
                 "episode": "9",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Could a lateral move help your career? Dan and Alison answer your questions with the help of Priscilla Claman, a career coach and former HR executive. They talk through when making a lateral move will push you forward and when it will hold you back."
@@ -1698,6 +1772,7 @@
             "itunes": {
                 "duration": "2327",
                 "episode": "8",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "If your workplace is toxic, can you change it? Dan and Alison answer your questions with the help of Nicholas Pearce, an associate professor at Kellogg School of Management at Northwestern University. They talk through how to transform a toxic culture, whether you\u2019re a junior employee, a manager, or in charge."
@@ -1721,6 +1796,7 @@
             "itunes": {
                 "duration": "2257",
                 "episode": "7",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Is your boss making your life miserable? Dan and Alison answer your questions with the help of Moshe Cohen, a senior lecturer at Boston University\u2019s Questrom School of Business. They talk through what to do when your boss is a jerk, a workaholic, or simply incompetent."
@@ -1744,6 +1820,7 @@
             "itunes": {
                 "duration": "2156",
                 "episode": "6",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Do you want to shake up your career? Dan and Alison answer your questions with the help of Whitney Johnson, the author of \u201cDisrupt Yourself.\u201d They talk through what to do when you\u2019ve trained for one career and long for another, when you reenter the workforce after a long gap, and when you want to move into management."
@@ -1767,6 +1844,7 @@
             "itunes": {
                 "duration": "2201",
                 "episode": "5",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Are you getting paid unfairly? Dan and Alison answer your questions with the help of Shirli Kopelman, a professor at the University of Michigan\u2019s Ross School of Business. They talk through what to do when a poor performer gets paid more than you, when the company salary structure is making people quit, and how to ask for more money when your boss leaves and you do their job."
@@ -1790,6 +1868,7 @@
             "itunes": {
                 "duration": "2115",
                 "episode": "4",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Do you have a hard time with older or younger co-workers? Dan and Alison answer your questions with the help of Jennifer Deal, the co-author of \u201cWhat Millennials Want from Work.\u201d They talk through what to do when you\u2019re struggling with an older colleague, when you\u2019re managing a much older worker, and how to motivate younger employees who seem lax on the job.\r\n\r\nEditor's\u00a0note: This episode was updated April 11, 2018."
@@ -1813,6 +1892,7 @@
             "itunes": {
                 "duration": "2174",
                 "episode": "3",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Do you work with a jerk? Dan and Alison answer your questions with the help of Stanford management professor Bob Sutton, an expert in dealing with difficult co-workers. They talk through what to do when your colleague is a bully, when your boss never takes the blame, and when your direct report gets on everyone\u2019s bad side \u2014 but still brings in the money."
@@ -1836,6 +1916,7 @@
             "itunes": {
                 "duration": "2190",
                 "episode": "2",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "Have you ever had a romantic encounter at work? Dan and Alison discuss the minefield of workplace romances with biological anthropologist Helen Fisher of Rutgers University and the Kinsey Institute. They answer your questions on how to ask somebody out at work, how a one-night stand with a colleague can affect your career, and how to manage the politics and (mis)perceptions of co-worker relationships."
@@ -1859,6 +1940,7 @@
             "itunes": {
                 "duration": "2174",
                 "episode": "1",
+                "episodeType": "full",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "What should you do when you become the boss? Co-hosts Alison Beard and Dan McGinn answer your questions with the help of Harvard Business School professor Alison Wood Brooks, an expert on behavioral insights. They talk through what to do when your direct reports are older than you, how to be a likeable leader, and what to say if you\u2019re not ready to be in charge."
@@ -1879,6 +1961,7 @@
             "isoDate": "2018-01-16T18:36:35.000Z",
             "itunes": {
                 "duration": "154",
+                "episodeType": "trailer",
                 "explicit": "false",
                 "subtitle": "",
                 "summary": "The advice show for workplace dilemmas. We take your questions and offer a better way forward."
@@ -1943,16 +2026,19 @@
         "summary": "Work can be frustrating. How can you get along with that maddening coworker? Figure out what your unapproachable boss really wants? Motivate your demoralized team? \"Dear HBR:\" is here to help. With empathy, experience, and humor, veteran Harvard Business Review editors and co-hosts Alison Beard and Dan McGinn explore solutions to your workplace dilemmas. Bolstered by insights from guests and academic research, they help you navigate thorny situations to find a better way forward."
     },
     "language": "en",
-    "lastBuildDate": "Thu, 21 Apr 2022 10:16:33 UT",
+    "lastBuildDate": "Thu, 4 Aug 2022 14:22:35 UT",
     "link": "https://hbr.org/podcasts/dear-hbr",
     "managingEditor": "dearhbr@hbr.org (dearhbr@hbr.org)",
+    "paginationLinks": {
+        "self": "https://wp.hbr.org/atom-api/typeterm/podcast/podcast-series/dear-hbr"
+    },
     "palette": [
         "F35C5C",
         "040404",
         "C44C4C",
-        "E8D3D6",
+        "E7D3D6",
         "D95454",
-        "D8ACAC"
+        "D6ACAC"
     ],
     "pubDate": "Thu, 21 Apr 2022 14:15:31 UT",
     "title": "Dear HBR:"

@@ -1,0 +1,86 @@
+{
+    "copyright": "Enduring Word 2018",
+    "description": "Audio and Video Server For Enduring Word",
+    "feedUrl": "https://media.enduringword.com/podcasts/philemon/feed/",
+    "generator": "https://wordpress.org/?v=5.0.18",
+    "items": [
+        {
+            "categories": [
+                "The Book of Philemon",
+                "Epistles",
+                "New Testament",
+                "Paul",
+                "Pauline Epistle"
+            ],
+            "comments": "https://media.enduringword.com/philemon-charge-it-to-my-account/#respond",
+            "content": "https://storage.googleapis.com/enduring-word-media/audio/philemon.mp3",
+            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26451-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/philemon.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/philemon.mp3\">https://storage.googleapis.com/enduring-word-media/audio/philemon.mp3</a></audio>\n",
+            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/philemon.mp3",
+            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/philemon.mp3",
+            "creator": "admin@enduringword.com (David Guzik)",
+            "dc:creator": "admin@enduringword.com (David Guzik)",
+            "enclosure": {
+                "length": "27735969",
+                "type": "audio/mpeg",
+                "url": "https://storage.googleapis.com/enduring-word-media/audio/philemon.mp3"
+            },
+            "guid": "https://media.enduringword.com/philemon-charge-it-to-my-account/",
+            "isoDate": "2017-09-19T07:00:00.000Z",
+            "itunes": {
+                "author": "David Guzik",
+                "explicit": "no",
+                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Philemon",
+                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/philemon.mp3",
+                "summary": "https://storage.googleapis.com/enduring-word-media/audio/philemon.mp3"
+            },
+            "link": "https://media.enduringword.com/philemon-charge-it-to-my-account/",
+            "pubDate": "Tue, 19 Sep 2017 07:00:00 +0000",
+            "title": "Philemon \u2013 Charge It to My Account"
+        }
+    ],
+    "itunes": {
+        "author": "David Guzik",
+        "categories": [
+            "Religion & Spirituality"
+        ],
+        "categoriesWithSubs": [
+            {
+                "name": "Religion & Spirituality",
+                "subs": [
+                    {
+                        "name": "Christianity"
+                    }
+                ]
+            }
+        ],
+        "explicit": "no",
+        "image": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_057_philemon.jpg",
+        "keywords": [
+            "Bible",
+            "David",
+            "Guzik",
+            "Enduring",
+            "Word",
+            "Commentary",
+            "New",
+            "Testament",
+            "Book",
+            "of",
+            "Philemon"
+        ],
+        "owner": {
+            "email": "admin@enduringword.com",
+            "name": "David Guzik"
+        },
+        "subtitle": "Enduring Word Commentary Series \u2013\u00a0The Book of Philemon",
+        "summary": "Pastor David Guzik preaches through the New Testament Book of Philemon."
+    },
+    "language": "en-US",
+    "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
+    "link": "https://media.enduringword.com",
+    "paginationLinks": {
+        "self": "https://media.enduringword.com/podcasts/philemon/feed/"
+    },
+    "palette": [],
+    "title": "The Book of Philemon \u2013 Enduring Word Media Server"
+}

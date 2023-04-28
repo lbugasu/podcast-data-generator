@@ -5,7 +5,7 @@
     "image": {
         "link": "https://www.modern.finance",
         "title": "Modern Finance",
-        "url": "https://megaphone.imgix.net/podcasts/91e75534-971e-11eb-ae5f-3b24dd1a1ba6/image/mofi-coverArt-2.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        "url": "https://megaphone.imgix.net/podcasts/91e75534-971e-11eb-ae5f-3b24dd1a1ba6/image/mofi-coverArt-2.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     },
     "items": [
         {
@@ -23,6 +23,7 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "2809",
+                "episodeType": "full",
                 "subtitle": "",
                 "summary": "Vasiliy Shapovalov, the cofounder of Lido.fi, breaks down the mechanics of staking for digital assets, including Ethereum 2.0, while still allowing for liquidity with a token representing your portion of the stake."
             },
@@ -44,6 +45,7 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "3516",
+                "episodeType": "full",
                 "subtitle": "",
                 "summary": "Kevin is joined by cryptocurrency lending platform Nexo co-founder Antoni Trenchev to discuss how the company is able to offer its clientele such high interest rates, the pros and cons of federal regulation over digital assets, the utility of the NEXO token, and how people can earn crypto by lending their NFTs."
             },
@@ -65,6 +67,7 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "4407",
+                "episodeType": "full",
                 "subtitle": "",
                 "summary": "Kevin is joined by Ryan Sean Adams and David Hoffman of the Bankless podcast to discuss the current state of Decentralized Finance, The view on the role of layer one vs. layer two protocols, and the future of Banking."
             },
@@ -86,7 +89,8 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "4236",
-                "image": "https://megaphone.imgix.net/podcasts/54d5f9b8-7bb4-11ec-b57d-c3efc4e0f3de/image/mofiConsensus-coverArt-1.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/54d5f9b8-7bb4-11ec-b57d-c3efc4e0f3de/image/mofiConsensus-coverArt-1.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "On this week's Consensus, Kevin, Feyyaz, and John O'Connell discuss the latest in Crypto and NFT. Kevin updates everyone on the new Proof Collective projects, including the Grails project and Heart You PFP. They cover the new Twitter Blue, which adds NFT profile pic support. They also cover Cover Frog Nation, An alternative to OpenSea called LOOKS, and Feyyaz drops alpha on Fantom and Opera Browser."
             },
@@ -108,7 +112,8 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "4203",
-                "image": "https://megaphone.imgix.net/podcasts/622695a4-6d28-11ec-814c-47c641595e2c/image/mofiCover-episode-particle.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/622695a4-6d28-11ec-814c-47c641595e2c/image/mofiCover-episode-particle.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Kevin sits with the founders of the Particle Collection. Particle aims to acquire and tokenize the world's greatest masterpieces via a Particalization Process which involves taking a painting's title deed, or the legal term for proof of ownership, and dividing into (in the case of the first acquisition) a 100x100 grid resulting in 10,000 unique NFTs. Their first piece; Banksy's 2005 \"Love is in the Air.\""
             },
@@ -130,7 +135,8 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "4594",
-                "image": "https://megaphone.imgix.net/podcasts/94b8b012-67a9-11ec-9418-cf30f25a803c/image/mofiCover-episode-alexisOhanian.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/94b8b012-67a9-11ec-9418-cf30f25a803c/image/mofiCover-episode-alexisOhanian.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Kevin is joined by Alexis Ohanian, founder of venture capital firm SevenSevenSix and co-founder of Reddit. Here, they discuss youthful Digg vs. Reddit rivalry, Web2 lessons for Web3 aspirants, the cultural and economic benefits of diversifying the crypto space, NFT collecting, the future of investment, Bored Apes vs. CryptoPunks, the power of community, and much more."
             },
@@ -152,7 +158,8 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "3489",
-                "image": "https://megaphone.imgix.net/podcasts/3538f992-5d24-11ec-bff5-a7b75604843f/image/mofiCover-episode-sandeepNailwal.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/3538f992-5d24-11ec-bff5-a7b75604843f/image/mofiCover-episode-sandeepNailwal.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Kevin chats with Sandeep Nailwal, Co-Founder of the Polygon side chain. Sandeep informs us on what makes Polygon different, his confidence in NFT's on Polygon and how to move them, future fixes to bridge assets to Ethereum, and the future of the MATIC token."
             },
@@ -174,7 +181,8 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "3076",
-                "image": "https://megaphone.imgix.net/podcasts/81f6f308-570a-11ec-8cfe-3f39aa906f41/image/mofiCover-episode-mikaelRogers.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/81f6f308-570a-11ec-8cfe-3f39aa906f41/image/mofiCover-episode-mikaelRogers.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Kevin is joined by Mikeal Rogers, engineering manager at Protocol Labs, the team behind Filecoin and IPFS. Here, they try to answer the important questions around decentralized storage, like where our NFTs and data live in a Web3 world -- especially when a marketplace (like Hic et Nunc) goes down. Also, they discuss what Filecoin is and how it works with IPFS, when major browsers will support IPFS, how we can speed up IPFS image loading, and much more."
             },
@@ -196,7 +204,8 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "3811",
-                "image": "https://megaphone.imgix.net/podcasts/20240242-547b-11ec-b303-df1c7dcfc6f9/image/mofiConsensus-coverArt-1.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/20240242-547b-11ec-b303-df1c7dcfc6f9/image/mofiConsensus-coverArt-1.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Kevin and Feyyaz discuss the launch of the new Proof Collective NFT and all the benefits of the NFT holder. They also discuss Sheep Game, Jack Dorsey's rebranding of Square, Monaco NFT, the future of Facebook Metaverse, Filecoin, and IFPS, and Feyyaz drops some alpha on us for Tomb Finance."
             },
@@ -218,7 +227,8 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "3775",
-                "image": "https://megaphone.imgix.net/podcasts/02e7e23a-5204-11ec-9df3-8ffceac5eb08/image/mofiCover-episode-mikeShinoda.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/02e7e23a-5204-11ec-9df3-8ffceac5eb08/image/mofiCover-episode-mikeShinoda.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Mike Shinoda of Linkin Park and Fort Minor fame joins Kevin to discuss why he was initially reluctant to embrace the NFT scene (in spite of setting Kevin on the path to his own obsession), drumming up acceptance of NFTs in the mainstream, industry skeuomorphism, current collaborations, the state of unreleased Linkin Park music, and where people can go to await Mike's upcoming ZIGGURATS drop."
             },
@@ -240,7 +250,8 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "4167",
-                "image": "https://megaphone.imgix.net/podcasts/4fcbb898-38f4-11ec-aa4d-b30f2cad9812/image/image.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/4fcbb898-38f4-11ec-aa4d-b30f2cad9812/image/image.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Kevin, Feyyaz, and John cover the rise of Shiba Inu, Olypmus DAO, KLIMA, Abracadabra, Fantom, and the new NFT photo platform Quantum.\n\n\nQuantum Art\n\nQuantum Mint pass\n\nThor Starter\n\nThor Chain\n\nOlympus DAO\n\nKlima DAO\n\nToucan\n\nAbracadabra.money"
             },
@@ -263,7 +274,8 @@
                 "author": "Kevin Rose",
                 "duration": "2287",
                 "episode": "33",
-                "image": "https://megaphone.imgix.net/podcasts/54f45c30-25e9-11ec-a879-0712f13beaa0/image/mofiCover-episode-33.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/54f45c30-25e9-11ec-a879-0712f13beaa0/image/mofiCover-episode-33.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Yield Guild Games is the DAO that invests in virtual world and blockchain games. Gabby Dizon talks about YGG's Origins in Axie Infinity \"Scholarship\" program, Governance mechanics in the DAO, and their game of up-and-coming blockchain games."
             },
@@ -286,7 +298,8 @@
                 "author": "Kevin Rose",
                 "duration": "2671",
                 "episode": "32",
-                "image": "https://megaphone.imgix.net/podcasts/77d280a0-201d-11ec-84c6-535b97c18b7f/image/mofiCover-episode-32.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/77d280a0-201d-11ec-84c6-535b97c18b7f/image/mofiCover-episode-32.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "On this episode, Kevin talks to LoanSnap\u00a0co-founder and CEO Karl Jacob about how consumers can invest in and receive yields formerly reserved by big banks and governments. They also discuss the tokenization of commercial real estate, how neighbors can pitch in to fractionalize and purchase foreclosed homes, why traditional 30-year mortgages are going away, and how renting might turn into fractional ownership that is liquid 24/7."
             },
@@ -308,7 +321,8 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "4884",
-                "image": "https://megaphone.imgix.net/podcasts/4947e684-1cb3-11ec-9079-8be94f838d1b/image/mofiConsensus-coverArt-1.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/4947e684-1cb3-11ec-9079-8be94f838d1b/image/mofiConsensus-coverArt-1.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Punks Comic - Meta Hero vs DAO route\nTezzards\nArt Blocks Subscapes\nFloors.cafe\nSnoop Dog is Cozmo Medici\nArbitrum - Optimistic rollups"
             },
@@ -331,7 +345,8 @@
                 "author": "Kevin Rose",
                 "duration": "4031",
                 "episode": "31",
-                "image": "https://megaphone.imgix.net/podcasts/2a97fa76-1691-11ec-b987-1f1203259f91/image/mofiCover-episode-31.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/2a97fa76-1691-11ec-b987-1f1203259f91/image/mofiCover-episode-31.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Chris Hutchins, the host of the All The Hacks podcast and Head of New Product Strategy at Wealthfront, is back to discuss portfolio construction in the current world of crypto and NFTs. Kevin and Chris also discuss Bitcoin-backed credit cards and a hack to hold crypto in tax-efficient retirement accounts.\u00a0"
             },
@@ -353,7 +368,8 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "2882",
-                "image": "https://megaphone.imgix.net/podcasts/4725b554-076c-11ec-9f45-6b8451eb5f98/image/mofiConsensus-coverArt-1.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/4725b554-076c-11ec-9f45-6b8451eb5f98/image/mofiConsensus-coverArt-1.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Kevin Rose and Feyyaz discuss Art Blocks, The sale of a Fidenza for 777 ETH, A secret NFT platform and $35 NFT, Avalanche Yield Farming, and the Luna Anchor protocol.\n\nArt Blocks controversy\nHen NFT platform\nSolana NFTs\nNFT Artist PAK\nXCOPY\nAvalanche yield farming\nKevin\u2019s Fidenza Sale\nTyler Hobbs interview\nLuna and Anchor Protocol"
             },
@@ -376,7 +392,8 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "3068",
-                "image": "https://megaphone.imgix.net/podcasts/df3fb250-00b8-11ec-ae16-eb6e799ab7f8/image/mofiCover-episode-25.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/df3fb250-00b8-11ec-ae16-eb6e799ab7f8/image/mofiCover-episode-25.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Anatoly Yakovenko, Founder/CEO of Solana, updates Kevin on the latest advancements of the Solona blockchain. They discuss the development doors opened with lighting fast L1 blockchains like Solana in the finance world. The implications of Neon Labs' deployment of a cross-chain Ethereum virtual Machine on Solana and purpose build Hardware development specifically for blockchains. And, of course, Kevin dives into NFT's on the Solana Blockchain."
             },
@@ -398,7 +415,8 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "4347",
-                "image": "https://megaphone.imgix.net/podcasts/34abf54a-fc73-11eb-98d6-a7bdc27cec71/image/mofiConsensus-coverArt-1.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/34abf54a-fc73-11eb-98d6-a7bdc27cec71/image/mofiConsensus-coverArt-1.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Kevin Rose and DCinv\u039estor discuss \"JPEG Summer,\" Wallet security and legacy planning, Kevin's sell and buy strategy with Cryptopunks, as well as his NFT Blockchain archeology."
             },
@@ -421,7 +439,8 @@
                 "author": "Kevin Rose",
                 "duration": "2903",
                 "episode": "24",
-                "image": "https://megaphone.imgix.net/podcasts/ee25bc9a-f99e-11eb-84ec-fbbd1bd39b94/image/mofiCover-episode-24.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/ee25bc9a-f99e-11eb-84ec-fbbd1bd39b94/image/mofiCover-episode-24.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Generative audiovisual artist\u00a0DEAFBEEF\u00a0joins Kevin to discuss how a childhood love of computer programming and the need to stay busy during the pandemic gave rise to his unique creative vision. DEAFBEEF addresses how the community has allowed him to evolve, why he created a series of NFTs that degrades with each wallet address change, and the plans to bring his work to the analog world."
             },
@@ -444,7 +463,8 @@
                 "author": "Kevin Rose",
                 "duration": "3214",
                 "episode": "23",
-                "image": "https://megaphone.imgix.net/podcasts/9eb5648a-f426-11eb-95db-471ab79be523/image/mofiCover-episode-23.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/9eb5648a-f426-11eb-95db-471ab79be523/image/mofiCover-episode-23.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Amy Wu of Lightspeed Venture Partners joins Kevin to cover various topics, including how venture capitalists can add real value to projects. They cover Arbitrum, FTX, Solana, the Metaverse (and why Facebook is showing a keen interest in it), and blockchain games like Axie Infinity."
             },
@@ -466,7 +486,8 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "3787",
-                "image": "https://megaphone.imgix.net/podcasts/44b9ae72-f157-11eb-a3f7-438c58fb0e5f/image/mofiConsensus-coverArt-1.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/44b9ae72-f157-11eb-a3f7-438c58fb0e5f/image/mofiConsensus-coverArt-1.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Priyanka Desai, VP of Operations at Open Law, joins Kevin on today's Consensus. Open Law powers some of the world's most significant Dow's ou there, including Flamingo Dao. Today, they discuss all things NFT's, including some of the additional access and incentives you receive by owning specific NFTs, The transition from Web 2.0 to Web 3, the positive social-political impact of crypto, and metaverse economics and \"flexing\" in virtual worlds."
             },
@@ -489,7 +510,8 @@
                 "author": "Kevin Rose",
                 "duration": "3668",
                 "episode": "22",
-                "image": "https://megaphone.imgix.net/podcasts/72af2c36-ee9a-11eb-ac02-073e3c1c317a/image/mofiCover-episode-22.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/72af2c36-ee9a-11eb-ac02-073e3c1c317a/image/mofiCover-episode-22.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "This week, Kevin Rose chats with Stani Kulechov, founder of the open-source and non-custodial liquidity protocol Aave. They cover the origins of the project, known initially as ETHLend before rebranding in 2018, and the platform's future, including the possibility of a decentralized Twitter competitor."
             },
@@ -512,7 +534,8 @@
                 "author": "Kevin Rose",
                 "duration": "2739",
                 "episode": "21",
-                "image": "https://megaphone.imgix.net/podcasts/d707a540-e8e7-11eb-994b-f3f1b599400c/image/mofiCover-episode-21.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/d707a540-e8e7-11eb-994b-f3f1b599400c/image/mofiCover-episode-21.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Kevin chats with Tristan, core contributor to the Zeta Platform. Zeta is an under-collateralized DeFi options platform built on the Solana blockchain. The project is also the Grand Prize Winner of the Solana Season Hackathon."
             },
@@ -534,7 +557,8 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "3050",
-                "image": "https://megaphone.imgix.net/podcasts/e7a6eda2-e680-11eb-ad0c-4f0d0b168a73/image/mofiConsensus-coverArt-1.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/e7a6eda2-e680-11eb-ad0c-4f0d0b168a73/image/mofiConsensus-coverArt-1.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "This week Kevin & Feyyaz cover: The THORChain hack, Binance stops stock token sales, Dogecoin founder goes anti-crypto, Jack Dorsey bringing DeFi to Bitcoin, the Damien Hirst hybrid NFT, Chromie Squiggles, and what is Dolce & Gabbana doing with NFTs?\n\nLINKS\nTHORChain hack\nBinance stops stock token sales\nDogecoin founders anti-crypto rant\nJack Dorsey bringing DeFi to Bitcoin\nDamien Hirst NFT\nChromie Squiggles on \ud83d\udd25\nDolce & Gabbana getting into NFTs"
             },
@@ -557,7 +581,8 @@
                 "author": "Kevin Rose",
                 "duration": "3840",
                 "episode": "20",
-                "image": "https://megaphone.imgix.net/podcasts/b04ba4f6-de65-11eb-917f-d7fa88c6fc7d/image/mofiCover-episode-20.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/b04ba4f6-de65-11eb-917f-d7fa88c6fc7d/image/mofiCover-episode-20.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Kevin chats with Sam Williams, Founder of Arweave. Arweave is a new type of storage that backs data with sustainable and perpetual endowments, allowing users and developers to truly store data forever \u2013 for the very first time.\n\nShow notes and links here."
             },
@@ -580,7 +605,8 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "3487",
-                "image": "https://megaphone.imgix.net/podcasts/750bd804-db52-11eb-930b-23981add6f24/image/mofiConsensus-coverArt-1.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/750bd804-db52-11eb-930b-23981add6f24/image/mofiConsensus-coverArt-1.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "This week Kevin & Aftab (@iamDCinvestor) cover the explosion of Art Blocks, NFT avatar mania, Punks Comics, JPG on-chain curation, EIP-1559, the state of DeFi, and more.\n\nShow links:\nMoFi's twitter\nDCinvestor's twitter\nArt Blocks\nChromie Squiggles\nTyler Hobbs - Fidenza\nPunks Comic\nJPG on-chain curation\nEIP-1559\nWorldcoin - scan your eyeball to get crypto\nBlockFi"
             },
@@ -603,7 +629,8 @@
                 "author": "Kevin Rose",
                 "duration": "2446",
                 "episode": "19",
-                "image": "https://megaphone.imgix.net/podcasts/e9146352-d8e0-11eb-a29e-8b5692430fd7/image/mofiCover-episode-19.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/e9146352-d8e0-11eb-a29e-8b5692430fd7/image/mofiCover-episode-19.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Pioneering generative artist\u00a0Tyler Hobbs\u00a0talks to Kevin about his history, how he mixes his hand drawings with algorithms, the tools he uses, the rare attributes his collectors are excited about, and the other NFT artists he most respects.\n\nFull show notes and links here."
             },
@@ -627,7 +654,8 @@
                 "author": "Kevin Rose",
                 "duration": "2919",
                 "episode": "18",
-                "image": "https://megaphone.imgix.net/podcasts/971fd01e-d36c-11eb-ad53-8beac51c88a0/image/mofiCover-episode-18.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/971fd01e-d36c-11eb-ad53-8beac51c88a0/image/mofiCover-episode-18.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Terra\u00a0founder\u00a0Do Kwon\u00a0joins Kevin to discuss the importance of a truly decentralized stablecoin, DAI vs. Terra, the anchor protocol, Do's favorite projects, and the importance of community in any project that hopes to succeed for the long haul.\n\nFull show notes and links here."
             },
@@ -649,7 +677,8 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "2536",
-                "image": "https://megaphone.imgix.net/podcasts/6be5ede6-d003-11eb-a5be-6b047df33585/image/mofiConsensus-coverArt-1.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/6be5ede6-d003-11eb-a5be-6b047df33585/image/mofiConsensus-coverArt-1.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "This week Kevin & Feyyaz cover Solana's hackaton, Sir Tim Berners-Lee web source code NFT, DeFi and traditional bank consolidation, Fidenza ArtBlocks drop, Fanzone football NFT, and more."
             },
@@ -672,7 +701,8 @@
                 "author": "Kevin Rose",
                 "duration": "4552",
                 "episode": "15",
-                "image": "https://megaphone.imgix.net/podcasts/085849f8-cde8-11eb-ac36-cf688810dbb6/image/mofiCover-episode-17.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/085849f8-cde8-11eb-ac36-cf688810dbb6/image/mofiCover-episode-17.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Tyler Ward\u00a0joins Kevin to discuss the\u00a0Universe Protocol\u00a0and its\u00a0xyzDAO, which seek to design an NFT \"system that doesn\u2019t live off the backs of artists and creates a sustainable ecosystem for artists and fans alike.\"\n\nFull show notes and links here."
             },
@@ -695,7 +725,8 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "3008",
-                "image": "https://megaphone.imgix.net/podcasts/ceed4e4a-caf7-11eb-b0ea-cfd365af72a0/image/mofi-coverArt__1_.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/ceed4e4a-caf7-11eb-b0ea-cfd365af72a0/image/mofi-coverArt__1_.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "MoFi Consensus is a weekly news roundup and general crypto chat. This week Kevin riffs with Feyyaz Alingan. They cover El Salvador\u2019s embracing of bitcoin, how to haggle price on NFTs, XDEFI wallet, BlockFi\u2019s insane growth, Satellite the Discord killer, and the $11.75M Sotheby\u2019s Cryptopunk \u2018Covid Alien\u2019 sale.\n\nLinks from this episode:\nXDEFI\nSatellite\nBlockFi"
             },
@@ -718,7 +749,8 @@
                 "author": "Kevin Rose",
                 "duration": "3198",
                 "episode": "16",
-                "image": "https://megaphone.imgix.net/podcasts/e346226c-c7f1-11eb-8c91-3bfbcb6e0c86/image/mofiCover-episode-16.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/e346226c-c7f1-11eb-8c91-3bfbcb6e0c86/image/mofiCover-episode-16.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Alchemix\u00a0co-founder\u00a0Scoopy Trooples\u00a0joins Kevin to discuss how Alchemix provides highly flexible instant loans that repay themselves over time without liquidation risk using decentralized smart contracts on the Ethereum network.\n\nFull show notes and links here."
             },
@@ -741,7 +773,8 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "3954",
-                "image": "https://megaphone.imgix.net/podcasts/01d6c556-c55e-11eb-ac33-e3ad8c5ff340/image/mofi-coverArt.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/01d6c556-c55e-11eb-ac33-e3ad8c5ff340/image/mofi-coverArt.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "MoFi Consensus is a weekly news roundup and general crypto chat. This week Kevin riffs with Feyyaz Alingan. They cover the importance of DEX aggregators, Bored Ape Yacht Club flipping, NFT investing strategy, valuing DeFi projects, India embracing crypto, and where we stake our crypto.\n\nLinks from this episode:\nUniswap\n1inch\nMatcha\nParaswap\nHow to value a DeFi project\nGemini\nBlockFi\nExodus Wallet\nLP University (ThorChain Discord)\nIndia unbanning crypto\nChina banning Bitcoin exchanges in 2017\nBored Ape Yacht Club (sorted for cheapest to buy now/floor price)\nDeGenData"
             },
@@ -764,7 +797,8 @@
                 "author": "Kevin Rose",
                 "duration": "3441",
                 "episode": "15",
-                "image": "https://megaphone.imgix.net/podcasts/600ea392-c31e-11eb-9124-0b71397329da/image/mofiCover-episode-15.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/600ea392-c31e-11eb-9124-0b71397329da/image/mofiCover-episode-15.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Anthony Pompliano, a.k.a., \"Pomp\" is an entrepreneur, podcast host, and investor. He has built and sold numerous companies, ran Product & Growth teams at Facebook, and manages a portfolio valued at more than $500 million in early-stage tech companies.\n\nShow notes and links found here."
             },
@@ -787,7 +821,8 @@
                 "author": "Kevin Rose",
                 "duration": "3551",
                 "episode": "14",
-                "image": "https://megaphone.imgix.net/podcasts/11a8eca0-c2f9-11eb-bb21-e77ea7de30cc/image/mofiCover-episode-14.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/11a8eca0-c2f9-11eb-bb21-e77ea7de30cc/image/mofiCover-episode-14.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Kevin chats with FTX's Sam Bankman-Fried.\u00a0FTX\u00a0is a cryptocurrency exchange that offers derivatives, options, volatility products, and leveraged tokens.\u00a0Serum, created by FTX, is a decentralized exchange (DEX) and ecosystem that brings unprecedented speed and low transaction costs to decentralized finance. It is built on\u00a0Solana\u00a0and is completely permissionless.\n\nBIO\u00a0\nSam Bankman-Fried\u00a0(@SBF_Alameda) is the founder and CEO of FTX.\n\nFull show notes and links here."
             },
@@ -810,7 +845,8 @@
             "itunes": {
                 "author": "Kevin Rose",
                 "duration": "3718",
-                "image": "https://megaphone.imgix.net/podcasts/2e921512-be9e-11eb-b017-93df6c298602/image/mofi-coverArt.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/2e921512-be9e-11eb-b017-93df6c298602/image/mofi-coverArt.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Welcome to the MoFi Consensus experiment. A weekly news roundup and general crypto chat. This week Kevin riffs with Feyyaz Alingan, they cover the selloff, coins on sale, NFT research tools, and more.\n\nEpisode links:\nMatic staking\nExodus wallet (for Solana staking)\nFTX exchange (and the US version of FTX)\nNine Realms\nKevin's NFT collection\nMeebits\nGener8tive K-Compositions\nCryptoslam\nRarity.tools\nAlchemix\nEmber Sword\nTerraUSD (UST)\nLuna\nAnchor Protocol\n0xdeafbeef"
             },
@@ -833,7 +869,8 @@
                 "author": "Kevin Rose",
                 "duration": "3683",
                 "episode": "13",
-                "image": "https://megaphone.imgix.net/podcasts/b40f9286-bcb0-11eb-8d73-c72a6478baae/image/mofiCover-episode-13.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/b40f9286-bcb0-11eb-8d73-c72a6478baae/image/mofiCover-episode-13.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "Brave - The Privacy and Crypto-Friendly Browser with Brendan Eich",
                 "summary": "Brave Software CEO\u00a0Brendan Eich\u00a0joins Kevin to discuss how the\u00a0Brave Browser\u00a0protects privacy, supports IPFS, has a built-in crypto wallet, works with your favorite Chrome extensions, and rewards users with the\u00a0Basic Attention Token (BAT)\u00a0cryptocurrency.\n\nBIO\u00a0Brendan Eich\u00a0(@brendaneich) created JavaScript and co-founded Mozilla and Firefox. Now, he's the co-founder and CEO of Brave Software, known for its privacy-first and crypto-supporting\u00a0Brave Browser.\nFull episode show notes and links can be found here."
             },
@@ -857,7 +894,8 @@
                 "author": "Kevin Rose",
                 "duration": "3712",
                 "episode": "12",
-                "image": "https://megaphone.imgix.net/podcasts/c00c6a7a-b790-11eb-8463-a323166eae9c/image/mofiCover-episode-12.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/c00c6a7a-b790-11eb-8463-a323166eae9c/image/mofiCover-episode-12.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Kevin sits down with fellow\u00a0Flamingo DAO\u00a0collaborators\u00a0Priyanka Desai\u00a0and\u00a0Aaron Wright\u00a0to discuss favorite NFT projects, what DAOs (decentralized autonomous organizations) are, how they operate, and how you can get involved with new and up-and-coming DAOs.\n\nBIOs\nPriyanka Desai\u00a0is currently leading operations for\u00a0OpenLaw, the project behind\u00a0Flamingo\u00a0and\u00a0The LAO.\u00a0Aaron Wright\u00a0is a co-founder of\u00a0OpenLaw, and a professor at Cardozo Law School.\n\nFull show notes and links are found here."
             },
@@ -881,7 +919,8 @@
                 "author": "Kevin Rose",
                 "duration": "3487",
                 "episode": "11",
-                "image": "https://megaphone.imgix.net/podcasts/8115c862-b28a-11eb-9a47-53e2f4c5b9f2/image/mofiCover-episode-11.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/8115c862-b28a-11eb-9a47-53e2f4c5b9f2/image/mofiCover-episode-11.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "",
                 "summary": "Earning interest on your crypto? Kevin sits down with\u00a0Zac Prince\u00a0from\u00a0BlockFi\u00a0and\u00a0Matt Ballensweig\u00a0of\u00a0Genesis\u00a0to discuss which option will serve\u00a0you\u00a0better.\nZac Prince\u00a0(@BlockFiZac) is the CEO and founder of\u00a0BlockFi, a bank-like platform that allows users to buy, borrow, and earn interest on crypto.\u00a0Matthew Ballensweig\u00a0(@mattballen4791) serves as the Head of Business Development of\u00a0Genesis, a full-service digital currency prime broker.\n\nFull show notes and links here."
             },
@@ -905,7 +944,8 @@
                 "author": "Kevin Rose",
                 "duration": "1940",
                 "episode": "10",
-                "image": "https://megaphone.imgix.net/podcasts/96e0add2-b204-11eb-b909-3b247def7c9e/image/mofiCover-episode-10.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/96e0add2-b204-11eb-b909-3b247def7c9e/image/mofiCover-episode-10.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "O(1) Labs' Evan Shapiro joins Kevin to discuss Mina, the world's lightest blockchain.",
                 "summary": "O(1) Labs' Evan Shapiro joins Kevin to discuss Mina, the world's lightest blockchain -- at 22 kilobits, \"the size of a couple of tweets.\" Here, he explains how this works, what drove its creation, what this protocol looks like from a security perspective, and its real-world applications already being put to the test today.\nBIO\nEvan Shapiro\u00a0(@evanashapiro) is the CEO and co-founder of software development company\u00a0O(1) Labs, and board member at\u00a0Mina Foundation, the world's lightest blockchain.\n\nFull show notes and links here.\nSubscribe to the Modern Finance Newsletter."
             },
@@ -929,7 +969,8 @@
                 "author": "Kevin Rose",
                 "duration": "2707",
                 "episode": "9",
-                "image": "https://megaphone.imgix.net/podcasts/25441f2c-adab-11eb-9349-e70e2b34a1a1/image/mofiCover-episode-9.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/25441f2c-adab-11eb-9349-e70e2b34a1a1/image/mofiCover-episode-9.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "Kevin sits down with Gary Vaynerchuk for an exclusive look at his new NFT project.",
                 "summary": "Kevin sits down with serial entrepreneur and social media personality Gary Vaynerchuck to discuss his new NFT project, VeeFriends. VeeFriends ties curated real-world experiences to NFT collectibles."
             },
@@ -953,7 +994,8 @@
                 "author": "Kevin Rose",
                 "duration": "3801",
                 "episode": "8",
-                "image": "https://megaphone.imgix.net/podcasts/915bc300-a6ed-11eb-9191-73ae0ad096c0/image/mofiCover-episode-8.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/915bc300-a6ed-11eb-9191-73ae0ad096c0/image/mofiCover-episode-8.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "Art Blocks mastermind Erick (aka Snowfro) joins Kevin to discuss the ins and outs of generative art, the innovations that make it so exciting and accessible, and why NFTs that can be recreated from their fingerprints on the blockchain are poised to be the most resilient art in human history.",
                 "summary": "Art Blocks\u00a0mastermind\u00a0Erick\u00a0(aka Snowfro) joins Kevin to discuss the ins and outs of generative art, the innovations that make it so exciting and accessible, and why NFTs that can be recreated from their fingerprints on the blockchain are poised to be the most resilient art in human history.\nErick\u00a0(aka Snowfro\u00a0@artonblockchain) is a Houston-based artist who works in various media, including projection-mapped installations, LED light art, cut vinyl, and 3-D blocks. He is also the founder of\u00a0Art Blocks, the world's first platform dedicated to decentralized generative art.\n\nFull show notes and links can be found here."
             },
@@ -977,7 +1019,8 @@
                 "author": "Kevin Rose",
                 "duration": "4462",
                 "episode": "7",
-                "image": "https://megaphone.imgix.net/podcasts/c0b57012-a13c-11eb-86e2-fb5f092521a2/image/mofiCover-episode-7.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/c0b57012-a13c-11eb-86e2-fb5f092521a2/image/mofiCover-episode-7.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "BlockTower Capital Founder and CIO Ari Paul joins Kevin to discuss the crypto cycles of bull and bear markets, the potential for a DeFi collapse, why you should avoid a crypto index fund or ETF, and a new cryptocurrency called MobileCoin, which aims to power all mobile payments.",
                 "summary": "BlockTower Capital Founder and CIO Ari Paul joins Kevin to discuss the crypto cycles of bull and bear markets, the potential for a DeFi collapse, why you should avoid a crypto index fund or ETF, and a new cryptocurrency called MobileCoin, which aims to power all mobile payments.\n\nBIO\nAri Paul\u00a0(@aridavidpaul) is the Co-Founder and CIO of crypto-asset investment firm\u00a0BlockTower Capital, and author of\u00a0The Cryptocurrency Investor\u00a0blog, where he has published papers on cryptocurrency lending, the history of money, and applying investment concepts to cryptocurrency.\n\nLINKS & SHOW NOTES\nAll links and detailed show notes can be found here."
             },
@@ -1001,7 +1044,8 @@
                 "author": "Kevin Rose",
                 "duration": "2197",
                 "episode": "6",
-                "image": "https://megaphone.imgix.net/podcasts/c9ab70cc-9c9b-11eb-8a2b-83460f3f1eea/image/mofiCover-episode-6.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/c9ab70cc-9c9b-11eb-8a2b-83460f3f1eea/image/mofiCover-episode-6.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "The Sandbox's Sebastien Borget joins Kevin to discuss the practical use of blockchains and NFTs for securing digital property in virtual gaming worlds.",
                 "summary": "SUMMARY\nThe Sandbox's Sebastien Borget joins Kevin to discuss the practical use of blockchains and NFTs for securing digital property and rewarding creators in virtual gaming worlds.\n\nBIO\nSebastien Borget @borgetsebastien is the Co-Founder and COO of The Sandbox, a decentralized gaming virtual world, and President of The Blockchain Game Alliance, advocating for NFTs and blockchain in games.\n\nLINKS\nAll episode links can be found here.\n\nSHOW NOTES\nHow two big shifts in the gaming world are being addressed by blockchains and NFTs. [00:46]\nSebastien shares his background of nearly 14 years as a serial entrepreneur, and what catalyzed his work to merge gaming with the decentralized world of crypto that resulted in The Sandbox we see today. [03:04]\nCurrently, what parts of The Sandbox are centralized and decentralized, and how long does Sebastien project it will take for full decentralization? [05:51]\nIn The Sandbox, to what extent can a creator give life to what their imagination dreams up? [06:45]\nHow are additional attributes (like speed, power, and defense) extended onto a static, LEGO block-style creation in The Sandbox, and who defines these attributes? Is there a way for a community to be involved in these definitions if the creator wishes to allow it? [08:39]\nThe unforeseen benefits of opening up feature definition to a community. [11:31]\nWhat kind of game is a first-timer to The Sandbox expected to play, and how can this be modified? For instance, is participation in player-vs-player content mandatory, or are there places in The Sandbox where a player can choose to opt-out? [12:36]\n\u00a0How does real estate ownership and property value work in The Sandbox? Will new land be generated over time, or has a limited inventory been established? [14:51]\nHow big are parcels of land in The Sandbox, and how long would it take to \"walk\" across one of these parcels? Does this size in any way limit an owner's capacity to create? [17:32]\nWhat was the base price for a new parcel of land when The Sandbox began, how has it fluctuated, and what factors might have an impact on a parcel's value? [19:08]\nHow is the $SAND token being used, and how can it be acquired? [20:33]\n\u00a0What is a game jam, how can interested parties participate in The Sandbox's game jam, and what coding languages do they need to know? [22:26]\nIn what ways can people start interacting, creating, and trading in The Sandbox today? When will The Sandbox officially go live? [23:48]\nWill creators be able to bring external projects into The Sandbox, like existing NFTs (e.g. CryptoPunks)? [26:07]\nHow does The Sandbox differentiate itself from competing projects in this space? [26:48]\nDoes someone need to own land in The Sandbox today to begin creating content for it, and will that content vanish when the official launch takes place? [29:39]\nWill everything in The Sandbox be tied to the Ethereum blockchain, or is this expected to change? [30:18]\nWhat's the best way for someone to stay up to date with The Sandbox's developments? [31:50]\nWhy I reached out to Sebastien to share what's going on with The Sandbox, how you can keep in touch with him, and parting thoughts. [33:27]"
             },
@@ -1025,7 +1069,8 @@
                 "author": "Kevin Rose",
                 "duration": "3428",
                 "episode": "5",
-                "image": "https://megaphone.imgix.net/podcasts/a53fba9c-987a-11eb-9929-4f2e2821db1a/image/mofiCover-episode-5.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/a53fba9c-987a-11eb-9929-4f2e2821db1a/image/mofiCover-episode-5.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "NFT mania is in full swing, but where did it really start to gain momentum?",
                 "summary": "NFT mania is in full swing, but where did it really start to gain momentum? CryptoPunks, 10,000 unique, algorithmically generated pixel art characters were sent to the Ethereum blockchain by Matt Hall and John Watkinson of Larva Labs in 2017, where they soon became a sensation. Kevin talks to Matt and John about the CryptoPunks origin story, their current chapter, and what we can expect from them in the future.\nSHOW NOTES\nHere's what CryptoPunks are, who created them, and how they're responsible for setting the current NFT craze in motion. [00:26]\nMatt Hall and John Watkinson of Larva Labs take us back to the conception of CryptoPunks. What inspired them at this time? [03:08]\nWhat made Matt and John draw the connection between centralized collectible and decentralized, on-chain collectible? Were they already involved in the world of cryptocurrency? [04:33]\nHow did the Ethereum blockchain become the ideal platform for their experiment? [06:41]\nHow is this data actually stored? [08:35]\n\u00a0What is a hash? [10:00]\nWere there similar art projects going on at this time? [11:13]\n\u00a0Who came up with the name \"CryptoPunks,\" and why was this format selected? [11:58]\nWhy did they decide on limiting the number of CryptoPunks to 10,000? [12:58]\nMost CryptoPunks are human in appearance, but there are also a small number of zombies, apes, and aliens. How did these enter the picture, and were there any interesting ideas that got left on the cutting room floor? [14:26]\n\u00a0Knowing now that these creations would carry historical significance in the circles of fine art and finance, do Matt and John ever wish they'd done things differently? [16:21]\nDo Matt and John have any personal favorite CryptoPunks? [18:24]\n\u00a0There are no duplicated CryptoPunks. How many attributes were they programmed to exhibit, and do the number of attributes contribute to (or detract from) a piece's rarity? [21:49]\nHow were CryptoPunks launched, and what could someone expect to pay for one circa June 2017? What helped to escalate their visibility and popularity within the crypto community? [23:30]\nWhen did Matt and John notice CryptoPunks commanding mind-boggling prices in secondary marketplaces? [27:08]\nHow many CryptoPunks have gone missing? [30:09]\nHave traditional museums or curators reached out to Matt and John during the current NFT craze? [32:25]\nWhere do CryptoPunks and NFTs go from here? Are we in a bubble, or are we just experiencing the beginning of a new, sustainable commodity? [35:00]\nWhat are Autoglyphs, what inspired their creation, and how do they work? [39:39]\nWhat project is next for Matt and John? Will it be as groundbreaking for the cryptosphere as CryptoPunks and Autoglyphs? [42:59]\nWith so many new blockchains popping up all the time, do Matt and John think Ethereum will endure in the fine arts space? [44:45]\nWhat other NFT projects do Matt and John find interesting and impressive? [45:41]\nThoughts on projects that might be interpreted by some as flattering imitations and by others as derivative knock-offs of CryptoPunks and Autoglyphs. [48:21]\nFrom a copyright perspective, how do Matt and John protect CryptoPunks and Autoglyphs from third parties exploiting their work? How can someone who owns an NFT defend their property? [50:05]\nIn spite of their good fortune thus far, Matt and John remain a two-person team. Do they anticipate scaling up? [53:15]\nParting thoughts. [55:01]"
             },
@@ -1049,8 +1094,9 @@
                 "author": "Kevin Rose",
                 "duration": "3261",
                 "episode": "4",
+                "episodeType": "full",
                 "explicit": "yes",
-                "image": "https://megaphone.imgix.net/podcasts/925aaaa2-971e-11eb-a863-bfc159cd06be/image/mofi-episodeStyle-1.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "image": "https://megaphone.imgix.net/podcasts/925aaaa2-971e-11eb-a863-bfc159cd06be/image/mofi-episodeStyle-1.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "Kevin speaks with Beeple, the world's most popular and successful NFT artist. \u201cEverydays: the First 5000 Days\u201d, a collage of images from his \u201cEverydays\u201d series, sold for $69,346,250 on March 11, 2021, making it the third most expensive artwork by a living artist.",
                 "summary": "Beeple (@beeple, aka Mike Winkelmann) is a graphic designer who has worked on concert visuals for Justin Bieber, One Direction, Katy Perry, Nicki Minaj, Eminem, Zedd, deadmau5, and many more. He recently made headlines when he sold a collage of his first 5,0000 \"everyday\" pieces of art as an NFT for $69,346,250 -- making it the third most expensive artwork by a living artist.\n\nSHOW NOTES\n\nWhere's Beeple based, and where's he been? He's in Charleston, SC, but he's from Wis-con-sin. [01:54]\n\nWhy does Beeple view sports and art as similar constructs? [02:56]\n\nWhy did Beeple choose art as a career over programming, and how did he start? [04:54]\n\nWould you buy O'Reilly classic cover art as NFTs? [07:18]\n\nHow Beeple clips became ubiquitous in the VJ world (which was as surprising to him as anyone). [08:35]\n\nWhat's the difference between an artist and a designer? [13:21]\n\nWhen did Beeple really start to feel like he could make a legitimate living from his art? [14:49]\n\nHow was Beeple introduced to the world of NFTs and cryptocurrency? [16:09]\n\nWhere did Beeple sell his first NFT, and what were his early impressions of the format? [20:25]\n\nWhy the \"everyday\" pieces are perfectly made for collecting, and how Beeple justifies their value to the collectors. [23:30]\n\nImagining the possibilities: what NFT collecting might look like in the future. [29:36]\n\nWho were the subjects of Beeple's earliest work, and how did his process evolve over time? [36:08]\n\nWhat drives Beeple's more topical work? [37:59]\n\nSo...the Dick-Milking Factory. What's that all about? And will it incite a future Hot Pockets vs. Beeple ruling by the highest court in the land? [40:54]\n\nWhat's next for Beeple? [43:33]\n\nHow can an art collector of modest means pick up a piece of Beeple's work nowadays, and how does this compare to what his art was selling for just a few months ago? [44:21]\n\nAt the end of the day, how does Beeple feel about copyright infringement? [47:42]\n\nOther NFT artists Beeple thinks we should keep an eye on. [49:16]\n\nDigital art isn't new. Only the ability to quantify and commodify it is. [50:19]\n\nParting thoughts. [52:16]\n\nEnjoy the show? Please consider leaving a nice review here so others can learn about and enjoy it, too! [52:45]"
             },
@@ -1074,8 +1120,9 @@
                 "author": "Kevin Rose",
                 "duration": "3998",
                 "episode": "3",
+                "episodeType": "full",
                 "explicit": "no",
-                "image": "https://megaphone.imgix.net/podcasts/92685c24-971e-11eb-a863-6b34147b6004/image/mofiCover-episode-3.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "image": "https://megaphone.imgix.net/podcasts/92685c24-971e-11eb-a863-6b34147b6004/image/mofiCover-episode-3.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "Wealthfront's Chris Hutchens, well-known as a savvy financial hacker and life optimizer, joins Kevin to talk about credit cards that give Bitcoin instead of cashback, how you can earn interest on your existing crypto, stock evaluation tactics and their 5x picks, hacking discount codes, and more.",
                 "summary": "Chris Hutchins (@hutchins) is the Head of Autonomous Financial Planning at Wealthfront. Previously he was co-founder and CEO of Grove (acquired by Wealthfront), co-founder of Milk (acquired by Google), and a Partner at GV, where he focused on seed and early-stage investments.\n\nSHOW NOTES\n\nChris brings us up to speed on what's been happening at Wealthfront in his 18 months there. His focus: automated savings. Future goals: self-driving money. [01:52]\n\nIf anyone knows how to get the most out of his credit card points, it's Chris. Between credit cards, bank accounts, and brokerage accounts, how many accounts does this Pointsmaster have -- and why? [02:38]\n\nThoughts on new cards that offer Bitcoin instead of cash-back rewards, and why Chris has changed his mind about them over time. [03:39]\n\nWhat Chris considers to be the best way to pack your finances. [05:18]\n\nHow do Square's Cash App \"boosts\" work? [06:43]\n\nHow Square and Twitter CEO Jack Dorsey continues to pleasantly surprise us with his forward-thinking entrepreneurial prowess. [08:38]\n\nRemember how hard it used to be to accept credit cards as a business? We do. [10:13]\n\nWhy does Chris have such good credit? [10:57]\n\nHow does someone get on the waitlists for BlockFi and Gemini cards? [11:54]\n\nWhat goes into building a diverse crypto portfolio. [12:32]\n\nGemini offers interest on crypto. [16:41]\n\nChris shares his tragic CryptoPunks story. [19:35]\n\nMy mission with this podcast. [21:11]\n\nHow you can keep your finger on the pulse of DeFi. [21:43]\n\nWhy I consider Yearn to be an insanely well-run project. [23:19]\n\nHow Chris is earning interest on his crypto right now, and why the current low-regulation climate makes it lucrative -- but not without its risks. [24:37]\n\nMy own interest-earning strategies tend to be lower risk. A little primer on stable coins, how staking works, and why I trust Coinbase. [26:24]\n\nWhy Chris wound up converting a lot of his random altcoins to USDC. [30:37]\n\nYou can learn the basics of trading crypto without betting the farm. Sometimes it even pays back with interest (just don't depend on it). [31:17]\n\nWhat Chris considers to be the best way to optimize your dollars now. [33:38]\n\nAre DeFi \"gas fees\" the new payday loan? [33:56]\n\nHot deals Chris is seeing right now (including how he snagged an Oculus Quest 2 for $150). [36:35]\n\nCashback Monitor: better than Rakuten? [42:33]\n\nDude, I got a Dell! (Well, Alienware.) [43:19]\n\nWhat is ShopRunner? [43:41]\n\nWhere does Chris find his coupons? [44:38]\n\nFour stocks we each like. [48:04]\n\nEven though he didn't use the top-notch name I suggested, I'm excited that Chris is starting his own podcast: All the Hacks! What's it going to cover? [59:10]\n\nParting thoughts. [1:03:54]\n\nThe first episode of this podcast was auctioned as an NFT! [1:05:00]\n\n\nAll show notes are available here. If you have 20 seconds to spare, could you please consider leaving us a five-star review there so this podcast gets heard by more ears? [1:05:31]"
             },
@@ -1099,8 +1146,9 @@
                 "author": "Kevin Rose",
                 "duration": "2926",
                 "episode": "2",
+                "episodeType": "full",
                 "explicit": "no",
-                "image": "https://megaphone.imgix.net/podcasts/92723050-971e-11eb-a863-6ba151dda3fb/image/mofiCover-episode-2.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "image": "https://megaphone.imgix.net/podcasts/92723050-971e-11eb-a863-6ba151dda3fb/image/mofiCover-episode-2.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "Kevin chats with Bram Cohen, creator of BitTorrent, about his new cryptocurrency, Chia. Chia is an energy-efficient \"green\" cryptocurrency that utilizes additional hard drive space on inexpensive computers. Chia is launching in just a few days. Kevin has already begun mining (\"farming\") on their testnet.",
                 "summary": "Bram Cohen (@bramcohen) is the inventor of the P2P BitTorrent protocol, co-founder of CodeCon, co-author of Codeville, and Founder/CEO of green cryptocurrency platform Chia.net.\nSHOW NOTES\n\nWant to help review this show? Here's how. [01:08]\n\nBram's original concept for Chia. [02:56]\n\nProof of work vs. proof of space and time in cryptocurrency, and why Bram favors one over the other. [04:15]\n\nUnderstanding the mechanics of how this works in layman's terms. [06:10]\n\nBitcoin mining, ASIC chips, and the cost of electricity. [07:25]\n\nHow Chia farming is more sustainable and available to the average user than Bitcoin mining, and what it's doing in the process. [08:30]\n\nWhat is the plot file, and what\u2019s in it? [09:57]\n\nBram explains how \"Timelords\" operate in Chia farming. [10:30]\n\nWhere do the winning \u201cbingo\u201d numbers come from? [12:45]\n\nWhat\u2019s the smallest amount of hard drive space someone needs to start farming Chia? [13:19]\n\nWhat is the mechanism behind Chia farming? What happens to the data? [14:21]\n\nHow is a farmer rewarded for their contribution? [15:52]\n\nHow does the network process and handle transactions? [16:39]\n\nHow should people think of this coin? What is it used for? [17:59]\n\nThere won't be any transactions at mainnet launch. Here's why. [19:22]\n\nHow many transactions per second will the Chia network eventually be able to support? [20:48]\n\nHow Chia will be able to support smart transactions better than Bitcoin and other cryptocurrencies. [22:25]\n\nWhat is a colored coin? [23:55]\n\nUsing Chia for DeFi, here's how Uniswap on Chia could be done. [24:55]\n\nHow does a rate-limited wallet enhance security? [26:34]\n\nWill there be support for pools in Chia? [28:35]\n\nOn supply of coin, halvings to fixed rewards, and inflation. [30:26]\n\nIs there any advantage to farming on SSD vs. standard hard drives? [31:09]\n\nEfforts Bram and the Chia team have made in improving plot speeds. [32:06]\n\nThe rude awakening that prompted me to fix my hard drive plotting. [33:25]\n\nWhat does Bram see Chia looking like three to five years from now? [33:53]\n\nBram\u2019s thoughts on NFTs, and if Chia will support them. [35:01]\n\nHow do we store large amounts of data on a blockchain (like NFT objects)? More important: should we? [37:15]\n\nBram's thoughts on Filecoin. [39:15]\n\nDoes Bram know Bitcoin founder Satoshi Nakamoto? Is Bram Satoshi Nakamoto? [40:20]\n\nIs Bram bullish on Bitcoin? [41:53]\n\nDoes being green mean a lot to Bram? [42:28]\n\nWhy farming Chia makes me feel nostalgic. [42:48]\n\nAspiring Chia whales don't even need warehouses or RAID arrays -- they can farm right from their apartments with homemade rigs. [44:00]\n\nParting thoughts about the perils of celebrating on launch day. [46:42]"
             },
@@ -1124,8 +1172,9 @@
                 "author": "Kevin Rose",
                 "duration": "3807",
                 "episode": "1",
+                "episodeType": "full",
                 "explicit": "no",
-                "image": "https://megaphone.imgix.net/podcasts/927bb0a8-971e-11eb-a863-4b6f536ba692/image/mofiCover-episode-1.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "image": "https://megaphone.imgix.net/podcasts/927bb0a8-971e-11eb-a863-4b6f536ba692/image/mofiCover-episode-1.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
                 "subtitle": "What are NFTs, why are they collectible, and why should you care? In this episode, Kevin interviews NFT guru Aftab Hossain, aka \"DC Investor\". They answer all your most pressing questions as well as bring you up to speed on all things NFT.",
                 "summary": "Aftab Hossain (Twitter: @iamDCinvestor) is a strategic advisor and private investor to projects in the cryptocurrency and blockchain space, with special focus on decentralized finance (\"DeFi\"). He specializes in technologies related to the Ethereum public blockchain -- the world's largest decentralized blockchain for programmable financial activity.\nSHOW NOTES\n\nWhat is an NFT (non-fungible token)? For that matter, what is a fungible token? [02:20]\n\nWe've been able to freely download copyrighted material from the Internet for decades, so what makes NFTs valuable? How does something like a piece of art become a uniquely accountable asset when it's tied to the blockchain? [04:22]\n\nWhy might a collector (of art, baseball cards, comic books, or any scarce asset) find the NFT market so appealing? [07:44]\n\nWhy an NFT has better provenance than a mint copy of Marvel's Wolverine #1 or a rare Magic: The Gathering card. [11:44]\n\nWhat is DeFi? [15:26]\n\nWhat were the first NFTs, and how valuable are they today? [15:48]\n\nHow NFTs have infiltrated the mainstream, and what any collector should keep in mind about investing in anything that wildly fluctuates in value. [20:19]\n\nHow can someone \"burn\" an NFT? [26:49]\n\nWhere can someone check out curated NFTs for sale? [30:27]\n\nWhat is generative art, and how is it represented in the NFT world? [32:11]\n\nWhat is the first instance of generative art being tied to the Etherium blockchain? [38:04]\n\nThere are multiple new NFTs launching every day. What's caught our attention of late, and how does a potential collector discern between NFT-based art created by a legitimate artist that is likely to go up in value and junk churned out by some Photoshop-savvy teenager trying to cash in on the NFT gold rush? [40:32]\n\nAs the owner of two EulerBeats NFTs, what can Aftab do with those assets? What are the potential benefits of an NFT to an established artist? [42:21]\n\nTo someone asking if NFT collectibles are a bit like a Ponzi scheme, Aftab asks: aren't all collectibles a Ponzi scheme if you extend the analogy far enough? [45:02]\n\nWhat are Unisocks, and how can they be used? Why, from a practical standpoint, is this whole NFT phenomenon something worth trying to wrap your mind around? [48:10]\n\nOther projects in this space Aftab finds worthwhile. [53:43]\n\nWill NBA Top Shot live up to its hype? [56:46]\n\nWhere can people learn more about NFTs? [1:01:12]"
             },
@@ -1164,7 +1213,7 @@
             }
         ],
         "explicit": "no",
-        "image": "https://megaphone.imgix.net/podcasts/91e75534-971e-11eb-ae5f-3b24dd1a1ba6/image/mofi-coverArt-2.png?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "image": "https://megaphone.imgix.net/podcasts/91e75534-971e-11eb-ae5f-3b24dd1a1ba6/image/mofi-coverArt-2.png?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
         "owner": {
             "email": "kevinrose@gmail.com",
             "name": "Kevin Rose"
