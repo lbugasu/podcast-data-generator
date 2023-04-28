@@ -91,7 +91,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate named entities 🚀
-        uses: mvasigh/dispatch-action@main
+        uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.PODCAST_DATA_LAB }}
           repo: entity-extraction

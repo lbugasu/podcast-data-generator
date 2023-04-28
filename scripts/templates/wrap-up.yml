@@ -43,4 +43,4 @@ steps:
       REPO: self
       BRANCH: release
       FOLDER: dist
-      GITHUB_TOKEN: ${{ secrets.PODCAST_DATA_LAB }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
