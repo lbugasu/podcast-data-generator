@@ -2,9 +2,33 @@
     "author": "NPR",
     "creator": "NPR",
     "description": "Weekend Edition Sunday features interviews with newsmakers, artists, scientists, politicians, musicians, writers, theologians and historians. ",
-    "feedUrl": "http://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml",
+    "feedUrl": "https://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml",
     "generator": "KUOW Core Services",
     "items": [
+        {
+            "author": "Ayesha Rascoe",
+            "content": "Nine people, including the gunman, were killed at a mass shooting at an outlet mall in Allen, Texas Saturday afternoon. At least five other remain hospitalized. Three are in critical condition.",
+            "contentSnippet": "Nine people, including the gunman, were killed at a mass shooting at an outlet mall in Allen, Texas Saturday afternoon. At least five other remain hospitalized. Three are in critical condition.",
+            "creator": "Ayesha Rascoe",
+            "enclosure": {
+                "length": "4086000",
+                "type": "audio/mp3",
+                "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2023/05/20230507_wesun_allen_texas_shooting.mp3?orgId=1&topicId=1003&d=227&p=10&story=1174631515&ft=nprml&f=1174631515"
+            },
+            "guid": "story-80008",
+            "isoDate": "2023-05-07T12:00:51.000Z",
+            "itunes": {
+                "author": "Ayesha Rascoe",
+                "duration": "00:03:47",
+                "explicit": "no",
+                "image": "https://d3cu50eznh8qk.cloudfront.net/logos/kuow.png",
+                "subtitle": "A mass shooting at an outlet mall in Dallas left at least 9 dead and 7 injured",
+                "summary": "Nine people, including the gunman, were killed at a mass shooting at an outlet mall in Allen, Texas Saturday afternoon. At least five other remain hospitalized. Three are in critical condition."
+            },
+            "link": "https://www.kuow.org/stories/a-mass-shooting-at-an-outlet-mall-in-dallas-left-at-least-9-dead-and-7-injured",
+            "pubDate": "Sun, 7 May 2023 05:00:51 -0700",
+            "title": "A mass shooting at an outlet mall in Dallas left at least 9 dead and 7 injured"
+        },
         {
             "author": "Ayesha Rascoe",
             "content": "NPR's Ayesha Rascoe talks with critic Claire Dederer. She's expanded her 2017 essay \"What Do We Do with the Art of Monstrous Men\" in a new book about the perils - and joys - of fandom.",
@@ -1876,30 +1900,6 @@
             "link": "https://www.kuow.org/stories/colleges-are-offering-wellness-days-to-students-not-everyone-is-on-board",
             "pubDate": "Sun, 6 Nov 2022 04:57:09 -0800",
             "title": "Colleges are offering 'wellness days' to students. Not everyone is on board"
-        },
-        {
-            "author": "Ayesha Rascoe",
-            "content": "A survival reality tv show gone wrong with contestants abandoned to fend for themselves: NPR's Ayesha Rascoe talks with Blair Braverman about her new novel, \"Small Game.\"",
-            "contentSnippet": "A survival reality tv show gone wrong with contestants abandoned to fend for themselves: NPR's Ayesha Rascoe talks with Blair Braverman about her new novel, \"Small Game.\"",
-            "creator": "Ayesha Rascoe",
-            "enclosure": {
-                "length": "9414000",
-                "type": "audio/mp3",
-                "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2022/10/20221030_wesun_book_small_game.mp3?orgId=1&topicId=1033&d=523&p=10&story=1132658621&ft=nprml&f=1132658621"
-            },
-            "guid": "story-73173",
-            "isoDate": "2022-10-30T11:53:28.000Z",
-            "itunes": {
-                "author": "Ayesha Rascoe",
-                "duration": "00:08:43",
-                "explicit": "no",
-                "image": "https://d3cu50eznh8qk.cloudfront.net/logos/kuow.png",
-                "subtitle": "Blair Braverman on her novel 'Small Game' about a survival reality tv show gone wrong",
-                "summary": "A survival reality tv show gone wrong with contestants abandoned to fend for themselves: NPR's Ayesha Rascoe talks with Blair Braverman about her new novel, \"Small Game.\""
-            },
-            "link": "https://www.kuow.org/stories/blair-braverman-on-her-novel-small-game-about-a-survival-reality-tv-show-gone-wrong",
-            "pubDate": "Sun, 30 Oct 2022 04:53:28 -0700",
-            "title": "Blair Braverman on her novel 'Small Game' about a survival reality tv show gone wrong"
         }
     ],
     "itunes": {
@@ -1921,10 +1921,10 @@
         }
     },
     "language": "en",
-    "lastBuildDate": "Sun, 07 May 2023 13:51:10 +0000",
+    "lastBuildDate": "Tue, 09 May 2023 22:21:53 +0000",
     "link": "https://www.kuow.org/podcasts/weekendedition-sunday",
     "paginationLinks": {
-        "self": "http://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml"
+        "self": "https://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml"
     },
     "palette": [],
     "title": "Weekend Edition Sunday"
