@@ -1,13 +1,36 @@
 {
     "copyright": "Copyright 2016-2021 StoryCorps, Inc. - For Personal Use Only",
     "description": "Stories of the human heart. A candid, unscripted conversation between two people about what's really important in life: love, loss, family, friendship. When the world seems out of hand, tune in to <em>StoryCorps</em> and be reminded of the things that matter most.",
-    "generator": "NPR API RSS Generator 0.94",
+    "generator": "NPR Feed Publish Service v1.12.7",
     "image": {
-        "link": "https://www.npr.org/storycorps",
+        "link": "https://www.npr.org/podcasts/510200/storycorps",
         "title": "StoryCorps",
-        "url": "https://media.npr.org/assets/img/2022/09/23/story-corps_tile_npr-network-01_sq-77458d8f8bf463f67d44434aff03f5a95d7fb821.jpg?s=1400"
+        "url": "https://media.npr.org/assets/img/2022/09/23/story-corps_tile_npr-network-01_sq-2590f9fef8285e162e8aa524e0fedd5462c64292.jpg?s=1400&c=66&f=jpg"
     },
     "items": [
+        {
+            "content": "On this short Mother's Day episode, Madzimoyo Owusu came to StoryCorps with her daughter, Johannah Owusu, to honor the memory of the woman who helped shape her life.",
+            "content:encoded": "On this short Mother's Day episode, Madzimoyo Owusu came to StoryCorps with her daughter, Johannah Owusu, to honor the memory of the woman who helped shape her life.",
+            "content:encodedSnippet": "On this short Mother's Day episode, Madzimoyo Owusu came to StoryCorps with her daughter, Johannah Owusu, to honor the memory of the woman who helped shape her life.",
+            "contentSnippet": "On this short Mother's Day episode, Madzimoyo Owusu came to StoryCorps with her daughter, Johannah Owusu, to honor the memory of the woman who helped shape her life.",
+            "enclosure": {
+                "length": "4408678",
+                "type": "audio/mpeg",
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2023/05/20230514_storycorps_a8c6b1d9-67a0-4205-ab6e-424716086e1b.mp3?d=275&size=4408678&e=1175679611&t=podcast&p=510200&awEpisodeId=1175679611&awCollectionId=510200"
+            },
+            "guid": "65178cc7-25a7-4b4b-a84e-af21bccdb25d",
+            "isoDate": "2023-05-11T21:19:06.000Z",
+            "itunes": {
+                "duration": "275",
+                "episodeType": "bonus",
+                "explicit": "no",
+                "image": "https://media.npr.org/assets/img/2023/05/11/owuso16x9_wide-7bce21a557e299bce1e7f9322bb391ab8c0b388f.jpg?s=1400&c=66&f=jpg",
+                "season": "10"
+            },
+            "link": "https://www.npr.org/2023/05/11/1175679611/extra-grandmas-hands",
+            "pubDate": "Thu, 11 May 2023 21:19:06 +0000",
+            "title": "EXTRA: Grandma's Hands"
+        },
         {
             "content": "On this extra holiday episode, Terri Van Keuren, Richard Shoup and Pamela Farrell remember how their father, Air Force Colonel Harry Shoup, started the holiday tradition of tracking Santa Claus on U.S. military radar in 1955. donate.storycorps.org/podcast",
             "content:encoded": "On this extra holiday episode, Terri Van Keuren, Richard Shoup and Pamela Farrell remember how their father, Air Force Colonel Harry Shoup, started the holiday tradition of tracking Santa Claus on U.S. military radar in 1955. donate.storycorps.org/podcast",
@@ -16,48 +39,44 @@
             "enclosure": {
                 "length": "5243342",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/12/20221220_storycorps_d8c2ddcf-4d54-4066-b83c-85ccbcd8ee0e.mp3?awCollectionId=510200&awEpisodeId=1143681276&orgId=1&d=327&p=510200&story=1143681276&t=podcast&e=1143681276&size=5243342&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/12/20221220_storycorps_d8c2ddcf-4d54-4066-b83c-85ccbcd8ee0e.mp3?d=327&size=5243342&e=1143681276&t=podcast&p=510200&awEpisodeId=1143681276&awCollectionId=510200"
             },
             "guid": "ad278702-e7ae-48f8-89ef-7de2cee8dc5f",
             "isoDate": "2022-12-20T05:00:13.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "327",
                 "episode": "9",
                 "episodeType": "bonus",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/12/16/episode-812_wide-5a64be5ec8133835b9964f493f77848a5b28e5c3.jpeg?s=1400",
-                "season": "9",
-                "summary": "On this extra holiday episode, Terri Van Keuren, Richard Shoup and Pamela Farrell remember how their father, Air Force Colonel Harry Shoup, started the holiday tradition of tracking Santa Claus on U.S. military radar in 1955. donate.storycorps.org/podcast"
+                "image": "https://media.npr.org/assets/img/2022/12/16/episode-812_wide-0e067a70f6532d4a15b653b3de541db9868a06d0.jpeg?s=1400&c=66&f=jpeg",
+                "season": "9"
             },
             "link": "https://www.npr.org/2022/12/16/1143681276/extra-the-santa-tracker",
-            "pubDate": "Tue, 20 Dec 2022 00:00:13 -0500",
+            "pubDate": "Tue, 20 Dec 2022 05:00:13 +0000",
             "title": "EXTRA: The Santa Tracker"
         },
         {
-            "content": "What happens when paralyzing fear stops you from following your dream? In our final episode of the season...Jim Von Stein has written 8000 songs, but almost nobody has heard a single one of them...until now... ",
-            "content:encoded": "What happens when paralyzing fear stops you from following your dream? In our final episode of the season...Jim Von Stein has written 8000 songs, but almost nobody has heard a single one of them...until now... ",
+            "content": "What happens when paralyzing fear stops you from following your dream? In our final episode of the season...Jim Von Stein has written 8000 songs, but almost nobody has heard a single one of them...until now...",
+            "content:encoded": "What happens when paralyzing fear stops you from following your dream? In our final episode of the season...Jim Von Stein has written 8000 songs, but almost nobody has heard a single one of them...until now...",
             "content:encodedSnippet": "What happens when paralyzing fear stops you from following your dream? In our final episode of the season...Jim Von Stein has written 8000 songs, but almost nobody has heard a single one of them...until now...",
             "contentSnippet": "What happens when paralyzing fear stops you from following your dream? In our final episode of the season...Jim Von Stein has written 8000 songs, but almost nobody has heard a single one of them...until now...",
             "enclosure": {
                 "length": "19298056",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/12/20221213_storycorps_80d0f757-b49b-4daa-8357-297a3c3f1428.mp3?awCollectionId=510200&awEpisodeId=1142355875&orgId=1&d=1206&p=510200&story=1142355875&t=podcast&e=1142355875&size=19298056&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/12/20221213_storycorps_80d0f757-b49b-4daa-8357-297a3c3f1428.mp3?d=1206&size=19298056&e=1142355875&t=podcast&p=510200&awEpisodeId=1142355875&awCollectionId=510200"
             },
             "guid": "eff0b324-0586-41a5-9e4e-84acd0672c38",
             "isoDate": "2022-12-13T05:00:39.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "1206",
                 "episode": "8",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/12/12/e8-square_wide-27fd905c63880109368136759906a64bcf3cebc5.jpg?s=1400",
-                "season": "9",
-                "summary": "What happens when paralyzing fear stops you from following your dream? In our final episode of the season...Jim Von Stein has written 8000 songs, but almost nobody has heard a single one of them...until now... "
+                "image": "https://media.npr.org/assets/img/2022/12/12/e8-square_wide-2609b7a3429d92a1c571a344435e01ed8369b18b.jpg?s=1400&c=66&f=jpg",
+                "season": "9"
             },
             "link": "https://www.npr.org/2022/12/12/1142355875/the-voice-for-my-song",
-            "pubDate": "Tue, 13 Dec 2022 00:00:39 -0500",
+            "pubDate": "Tue, 13 Dec 2022 05:00:39 +0000",
             "title": "The Voice For My Song"
         },
         {
@@ -68,22 +87,20 @@
             "enclosure": {
                 "length": "32166601",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/12/20221209_storycorps_ad591500-a6ee-4de3-ac80-97e13b2aa9c1.mp3?awCollectionId=510200&awEpisodeId=1141714373&orgId=1&d=2010&p=510200&story=1141714373&t=podcast&e=1141714373&size=32166601&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/12/20221209_storycorps_ad591500-a6ee-4de3-ac80-97e13b2aa9c1.mp3?d=2010&size=32166601&e=1141714373&t=podcast&p=510200&awEpisodeId=1141714373&awCollectionId=510200"
             },
             "guid": "1fc0dcb1-251a-4d25-a29b-5d0372e2595f",
             "isoDate": "2022-12-09T05:08:58.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "2010",
                 "episodeType": "bonus",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/12/08/ghetto-life-101_wide-c4d45b91936250247e6e703095d337d5a2bc5ce2.png?s=1400",
-                "season": "9",
-                "summary": "In the early 90s, teenagers LeAlan Jones and Lloyd Newman recorded a week of their lives on Chicago's South Side. Working with StoryCorps founder Dave Isay, LeAlan and Lloyd produced a documentary they called Ghetto Life 101, one of the most acclaimed programs in public radio history. In remembrance of Lloyd, who died this week, we bring you a special presentation of Ghetto Life 101."
+                "image": "https://media.npr.org/assets/img/2022/12/08/ghetto-life-101_wide-12ef2f4455725eb3e0f3094c9a89673f00710580.png?s=1400&c=66&f=png",
+                "season": "9"
             },
             "link": "https://www.npr.org/2022/12/08/1141714373/special-remembering-lloyd-newman-of-ghetto-life-101",
-            "pubDate": "Fri, 09 Dec 2022 00:08:58 -0500",
-            "title": "SPECIAL: Remembering Lloyd Newman of Ghetto Life 101 "
+            "pubDate": "Fri, 09 Dec 2022 05:08:58 +0000",
+            "title": "SPECIAL: Remembering Lloyd Newman of Ghetto Life 101"
         },
         {
             "content": "In the second part of our Kalaupapa story, we hear how people exiled from society reconnected with family \u2013 and found a new community. donate.storycorps.org/podcast",
@@ -93,48 +110,44 @@
             "enclosure": {
                 "length": "16965844",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/12/20221206_storycorps_2382ee47-e9c0-449e-9db6-374675314c84.mp3?awCollectionId=510200&awEpisodeId=1140865169&orgId=1&d=1060&p=510200&story=1140865169&t=podcast&e=1140865169&size=16965844&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/12/20221206_storycorps_2382ee47-e9c0-449e-9db6-374675314c84.mp3?d=1060&size=16965844&e=1140865169&t=podcast&p=510200&awEpisodeId=1140865169&awCollectionId=510200"
             },
             "guid": "d2dd21f1-462f-4694-a830-377d04b8a3cb",
             "isoDate": "2022-12-06T05:00:32.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "1060",
                 "episode": "7",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/12/05/10_wide-b925c0e7e4d98eae73399f1e99563a733f06d314.jpg?s=1400",
-                "season": "9",
-                "summary": "In the second part of our Kalaupapa story, we hear how people exiled from society reconnected with family \u2013 and found a new community. donate.storycorps.org/podcast"
+                "image": "https://media.npr.org/assets/img/2022/12/05/10_wide-65329f299107f9803b3221e5741018b59095777e.jpg?s=1400&c=66&f=jpg",
+                "season": "9"
             },
             "link": "https://www.npr.org/2022/12/05/1140865169/the-last-patients",
-            "pubDate": "Tue, 06 Dec 2022 00:00:32 -0500",
+            "pubDate": "Tue, 06 Dec 2022 05:00:32 +0000",
             "title": "The Last Patients"
         },
         {
-            "content": "In this two-part special, we remember a community of forgotten people cast out to a remote Hawaiian island.",
-            "content:encoded": "In this two-part special, we remember a community of forgotten people cast out to a remote Hawaiian island.",
-            "content:encodedSnippet": "In this two-part special, we remember a community of forgotten people cast out to a remote Hawaiian island.",
-            "contentSnippet": "In this two-part special, we remember a community of forgotten people cast out to a remote Hawaiian island.",
+            "content": "In this two-part special, we remember a community of forgotten people cast out to a remote Hawaiian island. http://donate.storycorps.org/podcast",
+            "content:encoded": "In this two-part special, we remember a community of forgotten people cast out to a remote Hawaiian island. http://donate.storycorps.org/podcast",
+            "content:encodedSnippet": "In this two-part special, we remember a community of forgotten people cast out to a remote Hawaiian island. http://donate.storycorps.org/podcast",
+            "contentSnippet": "In this two-part special, we remember a community of forgotten people cast out to a remote Hawaiian island. http://donate.storycorps.org/podcast",
             "enclosure": {
                 "length": "16833351",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/11/20221129_storycorps_10c7ac91-e93c-4188-9de1-813ef8305224.mp3?awCollectionId=510200&awEpisodeId=1139605125&orgId=1&d=1052&p=510200&story=1139605125&t=podcast&e=1139605125&size=16833351&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/11/20221129_storycorps_10c7ac91-e93c-4188-9de1-813ef8305224.mp3?d=1052&size=16833351&e=1139605125&t=podcast&p=510200&awEpisodeId=1139605125&awCollectionId=510200"
             },
             "guid": "e0f5a71a-ed7f-4616-8263-be446fe72194",
             "isoDate": "2022-11-29T05:00:01.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "1052",
                 "episode": "6",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/11/28/10_wide-976d63d7db1a63cc77f5d31d602b91543b8e3287.jpg?s=1400",
-                "season": "9",
-                "summary": "In this two-part special, we remember a community of forgotten people cast out to a remote Hawaiian island."
+                "image": "https://media.npr.org/assets/img/2022/11/28/10_wide-314fd7f522c6a1ec9d3f4fb8577df241acd90f78.jpg?s=1400&c=66&f=jpg",
+                "season": "9"
             },
             "link": "https://www.npr.org/2022/11/28/1139605125/a-dangerous-word",
-            "pubDate": "Tue, 29 Nov 2022 00:00:01 -0500",
+            "pubDate": "Tue, 29 Nov 2022 05:00:01 +0000",
             "title": "A Dangerous Word"
         },
         {
@@ -145,22 +158,20 @@
             "enclosure": {
                 "length": "21509478",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/11/20221122_storycorps_1d82e686-59d8-4e04-a06b-27b81e802cad.mp3?awCollectionId=510200&awEpisodeId=1138482696&orgId=1&d=1344&p=510200&story=1138482696&t=podcast&e=1138482696&size=21509478&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/11/20221122_storycorps_1d82e686-59d8-4e04-a06b-27b81e802cad.mp3?d=1344&size=21509478&e=1138482696&t=podcast&p=510200&awEpisodeId=1138482696&awCollectionId=510200"
             },
             "guid": "b9ed3485-8776-45f9-817e-6cb58b8097c8",
             "isoDate": "2022-11-22T05:00:20.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "1344",
                 "episode": "5",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/11/21/e5-16x9_wide-7a3c8a614277f545b53e55838176f4d09b8ba090.jpg?s=1400",
-                "season": "9",
-                "summary": "Family names bind one generation to the next. But what if that name is lost? In this episode, a grieving family learns their legacy is being kept alive by a stranger from far away."
+                "image": "https://media.npr.org/assets/img/2022/11/21/e5-16x9_wide-fe4db8222f8af333aa74ec713300856625582fc6.jpg?s=1400&c=66&f=jpg",
+                "season": "9"
             },
             "link": "https://www.npr.org/2022/11/21/1138482696/one-who-is-understanding",
-            "pubDate": "Tue, 22 Nov 2022 00:00:20 -0500",
+            "pubDate": "Tue, 22 Nov 2022 05:00:20 +0000",
             "title": "One Who Is Understanding"
         },
         {
@@ -171,22 +182,20 @@
             "enclosure": {
                 "length": "17808867",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/11/20221115_storycorps_efb16fd3-6a65-4f11-b39e-f3bc4d52f4e8.mp3?awCollectionId=510200&awEpisodeId=1136685273&orgId=1&d=1113&p=510200&story=1136685273&t=podcast&e=1136685273&size=17808867&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/11/20221115_storycorps_efb16fd3-6a65-4f11-b39e-f3bc4d52f4e8.mp3?d=1113&size=17808867&e=1136685273&t=podcast&p=510200&awEpisodeId=1136685273&awCollectionId=510200"
             },
             "guid": "46c6b891-ac43-425c-b19c-c446a8dfefd4",
             "isoDate": "2022-11-15T06:00:26.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "1113",
                 "episode": "4",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/11/14/e416x9jpg_wide-82e14a8d7dbfd8e23916c400b258ed92795bc03e.jpg?s=1400",
-                "season": "9",
-                "summary": "We usually lean on our elders for wisdom and support... but sometimes it's the other way around. In this episode, we hear from queer men who found acceptance in one another."
+                "image": "https://media.npr.org/assets/img/2022/11/14/e416x9jpg_wide-3987f9645ba4eded5348ac2248e7c2f59e451153.jpg?s=1400&c=66&f=jpg",
+                "season": "9"
             },
             "link": "https://www.npr.org/2022/11/14/1136685273/seeing-the-future-in-you",
-            "pubDate": "Tue, 15 Nov 2022 01:00:26 -0500",
+            "pubDate": "Tue, 15 Nov 2022 06:00:26 +0000",
             "title": "Seeing the Future In You"
         },
         {
@@ -197,22 +206,20 @@
             "enclosure": {
                 "length": "17805524",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/11/20221108_storycorps_9b9af206-6c7e-4de5-8bf4-8aacad767e2c.mp3?awCollectionId=510200&awEpisodeId=1135037709&orgId=1&d=1112&p=510200&story=1135037709&t=podcast&e=1135037709&size=17805524&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/11/20221108_storycorps_9b9af206-6c7e-4de5-8bf4-8aacad767e2c.mp3?d=1112&size=17805524&e=1135037709&t=podcast&p=510200&awEpisodeId=1135037709&awCollectionId=510200"
             },
             "guid": "97b09482-caec-4daf-b303-265719144d01",
             "isoDate": "2022-11-08T06:00:58.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "1112",
                 "episode": "3",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/11/07/e316x09_wide-154f570679a9573f2037660c74f0137b43449017.jpg?s=1400",
-                "season": "9",
-                "summary": "Capt. Helen Perry talks with her husband, Sgt. Matthew Perry, about the impacts of Matthew's memory loss \u2013 and their enduring love."
+                "image": "https://media.npr.org/assets/img/2022/11/07/e316x09_wide-6f4a3ca29789dc4b398b2ff8a1cd26be623c13c8.jpg?s=1400&c=66&f=jpg",
+                "season": "9"
             },
             "link": "https://www.npr.org/2022/11/07/1135037709/youre-my-memory",
-            "pubDate": "Tue, 08 Nov 2022 01:00:58 -0500",
+            "pubDate": "Tue, 08 Nov 2022 06:00:58 +0000",
             "title": "You're My Memory"
         },
         {
@@ -223,22 +230,20 @@
             "enclosure": {
                 "length": "21757746",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/11/20221101_storycorps_b61ffcfe-f476-46d1-b6d0-af3002de0eae.mp3?awCollectionId=510200&awEpisodeId=1133031476&orgId=1&d=1359&p=510200&story=1133031476&t=podcast&e=1133031476&size=21757746&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/11/20221101_storycorps_b61ffcfe-f476-46d1-b6d0-af3002de0eae.mp3?d=1359&size=21757746&e=1133031476&t=podcast&p=510200&awEpisodeId=1133031476&awCollectionId=510200"
             },
             "guid": "f13f5405-d4c7-4ec9-a228-ce2f9783108a",
             "isoDate": "2022-11-01T05:00:34.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "1359",
                 "episode": "2",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/10/31/3_wide-d3e61f998b416c5daa489c5fd8d5152dcdbfda75.jpg?s=1400",
-                "season": "9",
-                "summary": "In this episode, we share one couple's story of love and loss under the weight of substance abuse \u2013 told through different recordings, twelve years apart."
+                "image": "https://media.npr.org/assets/img/2022/10/31/3_wide-57a3ed6dd5ba2cace98739ee8ab755961890e967.jpg?s=1400&c=66&f=jpg",
+                "season": "9"
             },
             "link": "https://www.npr.org/2022/10/31/1133031476/everything-in-between",
-            "pubDate": "Tue, 01 Nov 2022 01:00:34 -0400",
+            "pubDate": "Tue, 01 Nov 2022 05:00:34 +0000",
             "title": "Everything In Between"
         },
         {
@@ -249,22 +254,20 @@
             "enclosure": {
                 "length": "22062438",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/10/20221025_storycorps_5638bcd6-3416-4d6e-8290-11f4c83988f7.mp3?awCollectionId=510200&awEpisodeId=1131272213&orgId=1&d=1378&p=510200&story=1131272213&t=podcast&e=1131272213&size=22062438&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/10/20221025_storycorps_5638bcd6-3416-4d6e-8290-11f4c83988f7.mp3?d=1378&size=22062438&e=1131272213&t=podcast&p=510200&awEpisodeId=1131272213&awCollectionId=510200"
             },
             "guid": "252c610f-5fa7-4c37-8ec3-f78d3fd40814",
             "isoDate": "2022-10-25T04:15:46.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "1378",
                 "episode": "1",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/10/24/s9e1_16x9_wide-8a60a8a7b1c7d3033ab7842c9b438f9fc776bce5.jpg?s=1400",
-                "season": "9",
-                "summary": "In 2012, StoryCorps broadcast a conversation with a young woman involved in the murder of Mulugeta Seraw, a Black man in Portland, Oregon. A decade later, we revisit it to look at the ripples of racist violence, and a few people who fought to stop it."
+                "image": "https://media.npr.org/assets/img/2022/10/24/s9e1_16x9_wide-b71c51ec6ce020bc696166314317d0479f8f20ba.jpg?s=1400&c=66&f=jpg",
+                "season": "9"
             },
             "link": "https://www.npr.org/2022/10/24/1131272213/ripples-of-hate",
-            "pubDate": "Tue, 25 Oct 2022 00:15:46 -0400",
+            "pubDate": "Tue, 25 Oct 2022 04:15:46 +0000",
             "title": "Ripples of Hate"
         },
         {
@@ -275,21 +278,19 @@
             "enclosure": {
                 "length": "943796",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/10/20221019_storycorps_a681641d-57bc-4cdc-885c-402ffccf9c73.mp3?awCollectionId=510200&awEpisodeId=1129686606&orgId=1&d=58&p=510200&story=1129686606&t=podcast&e=1129686606&size=943796&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/10/20221019_storycorps_a681641d-57bc-4cdc-885c-402ffccf9c73.mp3?d=58&size=943796&e=1129686606&t=podcast&p=510200&awEpisodeId=1129686606&awCollectionId=510200"
             },
             "guid": "8a943b77-cc16-402a-80df-c363059ad75d",
             "isoDate": "2022-10-19T05:00:46.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "58",
                 "episodeType": "trailer",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/10/18/final-storycorps-stigmas-ll_wide-bd13383af3b49b5bbe9ef1f4bc5d1c080c817d6f.jpg?s=1400",
-                "season": "9",
-                "summary": "On this season of the StoryCorps Podcast, stories of the stigmas we carry, and how it feels when we set them down."
+                "image": "https://media.npr.org/assets/img/2022/10/18/final-storycorps-stigmas-ll_wide-061f55e18b6163d21cebc85b7f759ee3a21e14d0.jpg?s=1400&c=66&f=jpg",
+                "season": "9"
             },
             "link": "https://www.npr.org/2022/10/18/1129686606/the-things-we-carry",
-            "pubDate": "Wed, 19 Oct 2022 01:00:46 -0400",
+            "pubDate": "Wed, 19 Oct 2022 05:00:46 +0000",
             "title": "The Things We Carry"
         },
         {
@@ -300,22 +301,20 @@
             "enclosure": {
                 "length": "3926771",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/09/20220905_storycorps_4f194983-23d3-450c-9197-d741eff2cdd8.mp3?awCollectionId=510200&awEpisodeId=1120783261&orgId=1&d=245&p=510200&story=1120783261&t=podcast&e=1120783261&size=3926771&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/09/20220905_storycorps_4f194983-23d3-450c-9197-d741eff2cdd8.mp3?d=245&size=3926771&e=1120783261&t=podcast&p=510200&awEpisodeId=1120783261&awCollectionId=510200"
             },
             "guid": "cc4eb7ad-1e45-424d-973e-7696f15f9668",
             "isoDate": "2022-09-05T04:00:53.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "245",
                 "episode": "11",
                 "episodeType": "bonus",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/09/02/episode-810_wide-944011d9d29faec859767aff42647ce86ec71e73.jpeg?s=1400",
-                "season": "8",
-                "summary": "On this short Labor Day episode, we'll hear from sisters Suzi and Donna Wong about growing up in the back of their parents' laundry business in Hollywood, CA."
+                "image": "https://media.npr.org/assets/img/2022/09/02/episode-810_wide-caebe74a361f9326d26c9ece3d228cb9edf995bf.jpeg?s=1400&c=66&f=jpeg",
+                "season": "8"
             },
             "link": "https://www.npr.org/2022/09/02/1120783261/extra-back-of-the-laundromat",
-            "pubDate": "Mon, 05 Sep 2022 00:00:53 -0400",
+            "pubDate": "Mon, 05 Sep 2022 04:00:53 +0000",
             "title": "EXTRA: Back Of The Laundromat"
         },
         {
@@ -326,22 +325,20 @@
             "enclosure": {
                 "length": "5543671",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/08/20220816_storycorps_e6177ef4-b01d-4a5e-83ac-d8694f75cde8.mp3?awCollectionId=510200&awEpisodeId=1117549339&orgId=1&d=346&p=510200&story=1117549339&t=podcast&e=1117549339&size=5543671&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/08/20220816_storycorps_e6177ef4-b01d-4a5e-83ac-d8694f75cde8.mp3?d=346&size=5543671&e=1117549339&t=podcast&p=510200&awEpisodeId=1117549339&awCollectionId=510200"
             },
             "guid": "864a65a4-5d07-4d3b-adff-3e83aaedd8e5",
             "isoDate": "2022-08-16T04:00:39.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "346",
                 "episode": "10",
                 "episodeType": "bonus",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/08/15/episode-811_wide-99d50128cb0ed443f0a2c33199475f85c0f5d137.jpeg?s=1400",
-                "season": "8",
-                "summary": "Growing up in the 1950s in Montgomery, AL., Rev. Farrell Duncombe or \"Little Farrell,\" as he was known by his family and friends, had a mischievous side. In this short episode, he remembers the day he got called out by the mother of civil rights."
+                "image": "https://media.npr.org/assets/img/2022/08/15/episode-811_wide-251a50d35dbad6369f98c62721fa0148f0cd96a5.jpeg?s=1400&c=66&f=jpeg",
+                "season": "8"
             },
             "link": "https://www.npr.org/2022/08/15/1117549339/extra-the-people-that-nurtured-me",
-            "pubDate": "Tue, 16 Aug 2022 00:00:39 -0400",
+            "pubDate": "Tue, 16 Aug 2022 04:00:39 +0000",
             "title": "EXTRA: The People That Nurtured Me"
         },
         {
@@ -352,22 +349,20 @@
             "enclosure": {
                 "length": "4661359",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/07/20220719_storycorps_08e2f7d7-0073-47c9-8239-a61025125e82.mp3?awCollectionId=510200&awEpisodeId=1112088006&orgId=1&d=291&p=510200&story=1112088006&t=podcast&e=1112088006&size=4661359&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/07/20220719_storycorps_08e2f7d7-0073-47c9-8239-a61025125e82.mp3?d=291&size=4661359&e=1112088006&t=podcast&p=510200&awEpisodeId=1112088006&awCollectionId=510200"
             },
             "guid": "5f416d65-4baa-4b80-9a7c-fe032d1048f5",
             "isoDate": "2022-07-19T04:00:49.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "291",
                 "episode": "9",
                 "episodeType": "bonus",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/07/18/episode-809_wide-0927e2ed98f12f17695db457908480b3187a34e9.jpeg?s=1400",
-                "season": "8",
-                "summary": "Growing up in the 1960s, all of the neighborhood kids wanted to be at Mary Mills' house. In this short extra, she tells her mother why."
+                "image": "https://media.npr.org/assets/img/2022/07/18/episode-809_wide-8a6f717bbb715d18d29d45a8255f6364d4391d81.jpeg?s=1400&c=66&f=jpeg",
+                "season": "8"
             },
             "link": "https://www.npr.org/2022/07/18/1112088006/extra-more-than-enough-love",
-            "pubDate": "Tue, 19 Jul 2022 00:00:49 -0400",
+            "pubDate": "Tue, 19 Jul 2022 04:00:49 +0000",
             "title": "EXTRA: More Than Enough Love"
         },
         {
@@ -378,22 +373,20 @@
             "enclosure": {
                 "length": "3741658",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/06/20220624_storycorps_s08_thompson_03jf_overturned.mp3?awCollectionId=510200&awEpisodeId=1107337475&orgId=1&d=233&p=510200&story=1107337475&t=podcast&e=1107337475&size=3741658&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/06/20220624_storycorps_s08_thompson_03jf_overturned.mp3?d=233&size=3741658&e=1107337475&t=podcast&p=510200&awEpisodeId=1107337475&awCollectionId=510200"
             },
             "guid": "a08da334-fefa-4d79-a159-e22978cf2ef4",
             "isoDate": "2022-06-24T17:25:35.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "233",
                 "episode": "9",
                 "episodeType": "bonus",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/06/24/miss-betty-s-calling_jackson-women-s-health_wide-d9bc59a3d5886aa0efcf1eec123dd088a2f03c22.jpeg?s=1400",
-                "season": "8",
-                "summary": "In this short bonus episode, we'll hear fromMs. Betty Thompson on what led her to work at the last remaining abortion clinic in Mississippi."
+                "image": "https://media.npr.org/assets/img/2022/06/24/miss-betty-s-calling_jackson-women-s-health_wide-b96de46b52aaf95f893e0886aa6a33f441cd598f.jpeg?s=1400&c=66&f=jpeg",
+                "season": "8"
             },
             "link": "https://www.npr.org/2022/06/24/1107337475/extra-when-i-was-16",
-            "pubDate": "Fri, 24 Jun 2022 13:25:35 -0400",
+            "pubDate": "Fri, 24 Jun 2022 17:25:35 +0000",
             "title": "EXTRA: When I Was 16"
         },
         {
@@ -404,22 +397,20 @@
             "enclosure": {
                 "length": "22985753",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/06/20220621_storycorps_s08e08_music_12jf.mp3?awCollectionId=510200&awEpisodeId=1106311837&orgId=1&d=1436&p=510200&story=1106311837&t=podcast&e=1106311837&size=22985753&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/06/20220621_storycorps_s08e08_music_12jf.mp3?d=1436&size=22985753&e=1106311837&t=podcast&p=510200&awEpisodeId=1106311837&awCollectionId=510200"
             },
             "guid": "bc39fd38-6562-4b09-b706-cc86b453210d",
             "isoDate": "2022-06-21T04:00:22.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "1436",
                 "episode": "8",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/06/20/0-3_wide-492dd555f2358eee84bab67cdd0a3ce3e197de96.jpeg?s=1400",
-                "season": "8",
-                "summary": "Everyone's heard of James Brown and Stevie Wonder, but how about the women who helped make them who they are? For our last episode of this season, we'll get to know the unsung icons behind some of the most iconic music."
+                "image": "https://media.npr.org/assets/img/2022/06/20/0-3_wide-1cf56955ff4203e6d04a4371167454bde2759da1.jpeg?s=1400&c=66&f=jpeg",
+                "season": "8"
             },
             "link": "https://www.npr.org/2022/06/20/1106311837/it-all-starts-with-a-song",
-            "pubDate": "Tue, 21 Jun 2022 00:00:22 -0400",
+            "pubDate": "Tue, 21 Jun 2022 04:00:22 +0000",
             "title": "It All Starts With A Song"
         },
         {
@@ -430,22 +421,20 @@
             "enclosure": {
                 "length": "15913883",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/06/20220614_storycorps_s08e07_sports_08jf.mp3?awCollectionId=510200&awEpisodeId=1103057435&orgId=1&d=994&p=510200&story=1103057435&t=podcast&e=1103057435&size=15913883&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/06/20220614_storycorps_s08e07_sports_08jf.mp3?d=994&size=15913883&e=1103057435&t=podcast&p=510200&awEpisodeId=1103057435&awCollectionId=510200"
             },
             "guid": "865f5448-8469-457b-a9eb-8609f4f5a8ba",
             "isoDate": "2022-06-14T04:00:29.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "994",
                 "episode": "7",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/06/03/0-1_wide-ce75cb9ebe3c67fc7292744c31bb1cf200a5573d.jpeg?s=1400",
-                "season": "8",
-                "summary": "This year marks two big anniversaries that helped change the world of sports and society. We'll hear from some of the people who were a part of these groundbreaking moments."
+                "image": "https://media.npr.org/assets/img/2022/06/03/0-1_wide-e21f316d17450fe42e72057c0fa2a0c529fe97ff.jpeg?s=1400&c=66&f=jpeg",
+                "season": "8"
             },
             "link": "https://www.npr.org/2022/06/03/1103057435/worthy-in-their-own-beauty",
-            "pubDate": "Tue, 14 Jun 2022 00:00:29 -0400",
+            "pubDate": "Tue, 14 Jun 2022 04:00:29 +0000",
             "title": "Worthy In Their Own Beauty"
         },
         {
@@ -456,22 +445,20 @@
             "enclosure": {
                 "length": "14937113",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/06/20220607_storycorps_s08e06_moorechampsi_12jf.mp3?awCollectionId=510200&awEpisodeId=1102975103&orgId=1&d=933&p=510200&story=1102975103&t=podcast&e=1102975103&size=14937113&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/06/20220607_storycorps_s08e06_moorechampsi_12jf.mp3?d=933&size=14937113&e=1102975103&t=podcast&p=510200&awEpisodeId=1102975103&awCollectionId=510200"
             },
             "guid": "15cbc5c1-548b-46b9-9ca2-3c2246897daa",
             "isoDate": "2022-06-07T04:00:57.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "933",
                 "episode": "6",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/06/03/0-4_wide-1262e565ceb8cc12861375cd768a6d48c00e5091.jpeg?s=1400",
-                "season": "8",
-                "summary": "In 2018, Tennille Moore got some bad news and was crying in a public restroom. That's when Mumtaz Champsi stepped in and asked her if she'd like to take a walk. In this episode, we'll hear about how that walk led to a StoryCorps booth and an unlikely connection between strangers."
+                "image": "https://media.npr.org/assets/img/2022/06/03/0-4_wide-33e93e1874e672d1b0c4eb1944aea768c2b1940a.jpeg?s=1400&c=66&f=jpeg",
+                "season": "8"
             },
             "link": "https://www.npr.org/2022/06/03/1102975103/fellow-travelers",
-            "pubDate": "Tue, 07 Jun 2022 00:00:57 -0400",
+            "pubDate": "Tue, 07 Jun 2022 04:00:57 +0000",
             "title": "Fellow Travelers"
         },
         {
@@ -482,22 +469,20 @@
             "enclosure": {
                 "length": "12635830",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/05/20220531_storycorps_s08e05_horses_09jf.mp3?awCollectionId=510200&awEpisodeId=1101911836&orgId=1&d=789&p=510200&story=1101911836&t=podcast&e=1101911836&size=12635830&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/05/20220531_storycorps_s08e05_horses_09jf.mp3?d=789&size=12635830&e=1101911836&t=podcast&p=510200&awEpisodeId=1101911836&awCollectionId=510200"
             },
             "guid": "7d828fc9-54da-43a1-9612-9c2f49c8a7ce",
             "isoDate": "2022-05-31T04:00:51.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "789",
                 "episode": "5",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/05/27/0-2_wide-0a5d6b13fc661d4fac489304fe7e6f372e97145f.jpeg?s=1400",
-                "season": "8",
-                "summary": "In this episode, we head to the streets of South Central Los Angeles to meet a helper on horseback."
+                "image": "https://media.npr.org/assets/img/2022/05/27/0-2_wide-2593b646a0203fde7b6d4c1e7afa83f9fae81591.jpeg?s=1400&c=66&f=jpeg",
+                "season": "8"
             },
             "link": "https://www.npr.org/2022/05/27/1101911836/horses-and-helicopters",
-            "pubDate": "Tue, 31 May 2022 00:00:51 -0400",
+            "pubDate": "Tue, 31 May 2022 04:00:51 +0000",
             "title": "Horses And Helicopters"
         },
         {
@@ -508,22 +493,20 @@
             "enclosure": {
                 "length": "15329159",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/05/20220524_storycorps_s08e04_memorialday_03jf.mp3?awCollectionId=510200&awEpisodeId=1100882612&orgId=1&d=958&p=510200&story=1100882612&t=podcast&e=1100882612&size=15329159&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/05/20220524_storycorps_s08e04_memorialday_03jf.mp3?d=958&size=15329159&e=1100882612&t=podcast&p=510200&awEpisodeId=1100882612&awCollectionId=510200"
             },
             "guid": "9ec11720-4bed-4419-97e9-a3afa08b5eb5",
             "isoDate": "2022-05-24T04:00:41.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "958",
                 "episode": "4",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/05/23/1_wide-2fecfdbd7c07a8336266cdd77deab93f1764b748.jpg?s=1400",
-                "season": "8",
-                "summary": "With Memorial Day weekend coming up, we're thinking about sacrifice, and the bonds that form between people who literally go through war together; on the battlefield and at home."
+                "image": "https://media.npr.org/assets/img/2022/05/23/1_wide-42f880391171db089ed3acef527a79a12b960c73.jpg?s=1400&c=66&f=jpg",
+                "season": "8"
             },
             "link": "https://www.npr.org/2022/05/23/1100882612/so-theyre-not-forgotten",
-            "pubDate": "Tue, 24 May 2022 00:00:41 -0400",
+            "pubDate": "Tue, 24 May 2022 04:00:41 +0000",
             "title": "So They're Not Forgotten"
         },
         {
@@ -534,22 +517,20 @@
             "enclosure": {
                 "length": "12296865",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/05/20220517_storycorps_s08e03_hidrogo_04jf.mp3?awCollectionId=510200&awEpisodeId=1099352318&orgId=1&d=768&p=510200&story=1099352318&t=podcast&e=1099352318&size=12296865&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/05/20220517_storycorps_s08e03_hidrogo_04jf.mp3?d=768&size=12296865&e=1099352318&t=podcast&p=510200&awEpisodeId=1099352318&awCollectionId=510200"
             },
             "guid": "8c33de70-a0bb-41b2-87a3-f7a5504acea7",
             "isoDate": "2022-05-17T04:00:40.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "768",
                 "episode": "3",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/05/16/unnamed_wide-b24f12044de2c8bc1506a2a9c1fe3efcb58819e5.jpg?s=1400",
-                "season": "8",
-                "summary": "Several years ago, Jennifer Hidrogo made a promise to her neighbor. In this episode, she shares how that simple act resulted in her gaining three more children and finding her calling."
+                "image": "https://media.npr.org/assets/img/2022/05/16/unnamed_wide-f32f1ef3fc59fec2d63057a1e3daf6d5e01c20a1.jpg?s=1400&c=66&f=jpg",
+                "season": "8"
             },
             "link": "https://www.npr.org/2022/05/16/1099352318/a-neighbors-promise",
-            "pubDate": "Tue, 17 May 2022 00:00:40 -0400",
+            "pubDate": "Tue, 17 May 2022 04:00:40 +0000",
             "title": "A Neighbor's Promise"
         },
         {
@@ -560,22 +541,20 @@
             "enclosure": {
                 "length": "16996816",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/05/20220510_storycorps_s08e02_healers_06jf.mp3?awCollectionId=510200&awEpisodeId=1097731670&orgId=1&d=1062&p=510200&story=1097731670&t=podcast&e=1097731670&size=16996816&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/05/20220510_storycorps_s08e02_healers_06jf.mp3?d=1062&size=16996816&e=1097731670&t=podcast&p=510200&awEpisodeId=1097731670&awCollectionId=510200"
             },
             "guid": "47b2b754-13fb-4af3-a2f2-2aff38f3288c",
             "isoDate": "2022-05-10T04:00:50.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "1062",
                 "episode": "2",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/05/09/16x9_wide-6739fc867d1f01b33f81562ab41eb5d66fa737d5.jpeg?s=1400",
-                "season": "8",
-                "summary": "In this episode, we'll hear about two people who help during the most important moments of our lives: when we're brought into the world and when we leave it."
+                "image": "https://media.npr.org/assets/img/2022/05/09/16x9_wide-ff736b5a573718e45d8bba58d93c2af17f4f8949.jpeg?s=1400&c=66&f=jpeg",
+                "season": "8"
             },
             "link": "https://www.npr.org/2022/05/09/1097731670/the-beginning-and-the-end",
-            "pubDate": "Tue, 10 May 2022 00:00:50 -0400",
+            "pubDate": "Tue, 10 May 2022 04:00:50 +0000",
             "title": "The Beginning And The End"
         },
         {
@@ -586,22 +565,20 @@
             "enclosure": {
                 "length": "22161537",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/05/20220503_storycorps_s08_e01_talkingtuesdays_04jf.mp3?awCollectionId=510200&awEpisodeId=1096061836&orgId=1&d=1385&p=510200&story=1096061836&t=podcast&e=1096061836&size=22161537&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/05/20220503_storycorps_s08_e01_talkingtuesdays_04jf.mp3?d=1385&size=22161537&e=1096061836&t=podcast&p=510200&awEpisodeId=1096061836&awCollectionId=510200"
             },
             "guid": "2479aab3-4b49-476b-b12e-96a38208bacf",
             "isoDate": "2022-05-03T04:13:54.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "1385",
                 "episode": "1",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/05/03/16x9_wide-5b99b5342824d13d098f747af2b42bb57963a578.png?s=1400",
-                "season": "8",
-                "summary": "A few months ago, we asked our listeners one question. We then received hundreds of responses that made even our most hardened producers tear up. In this episode, find out what that question was and how it inspired our new season."
+                "image": "https://media.npr.org/assets/img/2022/05/03/16x9_wide-816cbd0a136930b32b43fb4b4ac120f7442e8dc6.png?s=1400&c=66&f=png",
+                "season": "8"
             },
             "link": "https://www.npr.org/2022/05/03/1096061836/in-the-comments",
-            "pubDate": "Tue, 03 May 2022 00:13:54 -0400",
+            "pubDate": "Tue, 03 May 2022 04:13:54 +0000",
             "title": "In The Comments"
         },
         {
@@ -612,21 +589,19 @@
             "enclosure": {
                 "length": "943839",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/04/20220426_storycorps_s08_trailer_10jf.mp3?awCollectionId=510200&awEpisodeId=1094714682&orgId=1&d=58&p=510200&story=1094714682&t=podcast&e=1094714682&size=943839&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/04/20220426_storycorps_s08_trailer_10jf.mp3?d=58&size=943839&e=1094714682&t=podcast&p=510200&awEpisodeId=1094714682&awCollectionId=510200"
             },
             "guid": "a02462ba-9461-41de-8d30-a416bee26d00",
             "isoDate": "2022-04-26T04:00:12.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "58",
                 "episodeType": "trailer",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/04/25/unnamed-1_wide-40033baba229ad802d933a98780f7d73a3839cf5.jpg?s=1400",
-                "season": "8",
-                "summary": "This season of the StoryCorps Podcast is all about the helpers around us. It drops May 3rd."
+                "image": "https://media.npr.org/assets/img/2022/04/25/unnamed-1_wide-74c8a586a44c7712671e1a2063d7014ef0370a30.jpg?s=1400&c=66&f=jpg",
+                "season": "8"
             },
             "link": "https://www.npr.org/2022/04/25/1094714682/the-littlest-things",
-            "pubDate": "Tue, 26 Apr 2022 00:00:12 -0400",
+            "pubDate": "Tue, 26 Apr 2022 04:00:12 +0000",
             "title": "The Littlest Things"
         },
         {
@@ -637,22 +612,20 @@
             "enclosure": {
                 "length": "4186785",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/02/20220214_storycorps_s07e09_valentine_03jf.mp3?awCollectionId=510200&awEpisodeId=1080244540&orgId=1&d=261&p=510200&story=1080244540&t=podcast&e=1080244540&size=4186785&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/02/20220214_storycorps_s07e09_valentine_03jf.mp3?d=261&size=4186785&e=1080244540&t=podcast&p=510200&awEpisodeId=1080244540&awCollectionId=510200"
             },
             "guid": "c1175ea2-fea1-4545-87b8-32b905bfe712",
             "isoDate": "2022-02-14T05:00:03.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "261",
                 "episode": "9",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/02/11/valentines-day16_9_wide-c199460928b5683c7f435ba7fb26dd09e2643615.png?s=1400",
-                "season": "7",
-                "summary": "Neil Kramer and his ex-wife Sophia Lansky talk about their unique quarantine experience together."
+                "image": "https://media.npr.org/assets/img/2022/02/11/valentines-day16_9_wide-5a7c0212690a0cfd1253820782f5918d58923a29.png?s=1400&c=66&f=png",
+                "season": "7"
             },
             "link": "https://www.npr.org/2022/02/11/1080244540/threes-company",
-            "pubDate": "Mon, 14 Feb 2022 00:00:03 -0500",
+            "pubDate": "Mon, 14 Feb 2022 05:00:03 +0000",
             "title": "Three's Company"
         },
         {
@@ -663,22 +636,20 @@
             "enclosure": {
                 "length": "14393766",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/01/20220125_storycorps_s07e08_bart_04jf.mp3?awCollectionId=510200&awEpisodeId=1075441603&orgId=1&d=899&p=510200&story=1075441603&t=podcast&e=1075441603&size=14393766&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/01/20220125_storycorps_s07e08_bart_04jf.mp3?d=899&size=14393766&e=1075441603&t=podcast&p=510200&awEpisodeId=1075441603&awCollectionId=510200"
             },
             "guid": "769fb002-24fe-42f3-9585-3830cba7cc06",
             "isoDate": "2022-01-25T05:00:15.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "899",
                 "episode": "8",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/01/24/lyne-lucien-e8_wide-bca11da3e5caed350364a21ace8d49cbc9b095d0.png?s=1400",
-                "season": "7",
-                "summary": "In 1993, Los Angeles County firefighter Derek Bart saved a child from a house fire in Santa Clarita, CA. In our last episode of the season, we'll hear three different perspectives on that night, and how they all intersect nearly 30 years later."
+                "image": "https://media.npr.org/assets/img/2022/01/24/lyne-lucien-e8_wide-1cc4cad8319c7f8fa314ec2c1bf0c7d19977b706.png?s=1400&c=66&f=png",
+                "season": "7"
             },
             "link": "https://www.npr.org/2022/01/24/1075441603/you-can-fall-just-dont-stay-there",
-            "pubDate": "Tue, 25 Jan 2022 00:00:15 -0500",
+            "pubDate": "Tue, 25 Jan 2022 05:00:15 +0000",
             "title": "You Can Fall, Just Don't Stay There"
         },
         {
@@ -689,22 +660,20 @@
             "enclosure": {
                 "length": "17664714",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/01/20220118_storycorps_s07e07_sports_04jf.mp3?awCollectionId=510200&awEpisodeId=1073273614&orgId=1&d=1104&p=510200&story=1073273614&t=podcast&e=1073273614&size=17664714&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/01/20220118_storycorps_s07e07_sports_04jf.mp3?d=1104&size=17664714&e=1073273614&t=podcast&p=510200&awEpisodeId=1073273614&awCollectionId=510200"
             },
             "guid": "58d7f5dc-2eb7-43ac-be56-5738cd7f5020",
             "isoDate": "2022-01-18T05:00:04.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "1104",
                 "episode": "7",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/01/14/lyne-lucien-e7a_wide-6585dd4a3f36d998c74548fff71f44de5dafdba9.png?s=1400",
-                "season": "7",
-                "summary": "All season long, we've heard from trailblazers at the top of their game in every field. In this episode, we mean that literally. We'll hear from three different athletes who shook things up on the baseball field and on the basketball court."
+                "image": "https://media.npr.org/assets/img/2022/01/14/lyne-lucien-e7a_wide-c04399ca461908d644fe6dc2e4a7e2611e28d838.png?s=1400&c=66&f=png",
+                "season": "7"
             },
             "link": "https://www.npr.org/2022/01/14/1073273614/finding-where-you-fit",
-            "pubDate": "Tue, 18 Jan 2022 00:00:04 -0500",
+            "pubDate": "Tue, 18 Jan 2022 05:00:04 +0000",
             "title": "Finding Where You Fit"
         },
         {
@@ -715,22 +684,20 @@
             "enclosure": {
                 "length": "15622984",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/01/20220111_storycorps_s07e06_mlk_02jf.mp3?awCollectionId=510200&awEpisodeId=1071958723&orgId=1&d=976&p=510200&story=1071958723&t=podcast&e=1071958723&size=15622984&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/01/20220111_storycorps_s07e06_mlk_02jf.mp3?d=976&size=15622984&e=1071958723&t=podcast&p=510200&awEpisodeId=1071958723&awCollectionId=510200"
             },
             "guid": "8b8e789e-c2ce-4543-85c5-fd3d492d5436",
             "isoDate": "2022-01-11T05:00:23.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "976",
                 "episode": "6",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/01/10/lyne-lucien-e6_wide-fd0dbb4755d34dc8e9f93f74efb9aa95461e8343.png?s=1400",
-                "season": "7",
-                "summary": "On this week's episode, we're remembering the final hours of Dr. King's life through the experiences of some of the people who were there at the time."
+                "image": "https://media.npr.org/assets/img/2022/01/10/lyne-lucien-e6_wide-3fde1063920f9ade92dc56381be393391cd01a6f.png?s=1400&c=66&f=png",
+                "season": "7"
             },
             "link": "https://www.npr.org/2022/01/10/1071958723/we-go-up-together-or-we-go-down-together",
-            "pubDate": "Tue, 11 Jan 2022 00:00:23 -0500",
+            "pubDate": "Tue, 11 Jan 2022 05:00:23 +0000",
             "title": "We Go Up Together, Or We Go Down Together"
         },
         {
@@ -741,22 +708,20 @@
             "enclosure": {
                 "length": "11914850",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/01/20220104_storycorps_s07e05_coastguard_04jf.mp3?awCollectionId=510200&awEpisodeId=1068967941&orgId=1&d=744&p=510200&story=1068967941&t=podcast&e=1068967941&size=11914850&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2022/01/20220104_storycorps_s07e05_coastguard_04jf.mp3?d=744&size=11914850&e=1068967941&t=podcast&p=510200&awEpisodeId=1068967941&awCollectionId=510200"
             },
             "guid": "577c61be-8d98-4dc9-9756-45f8b721de53",
             "isoDate": "2022-01-04T05:00:50.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "744",
                 "episode": "5",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/12/29/lyne-lucien-e5_wide-7bcdc58e002e27722a0038b52542da3f3f763e88.png?s=1400",
-                "season": "7",
-                "summary": "In this episode, Jeanine Menze and La'Shanda Holmes talk about becoming the first and second Black female pilots in the U.S. Coast Guard, what led them to the military, and ultimately, each other."
+                "image": "https://media.npr.org/assets/img/2021/12/29/lyne-lucien-e5_wide-675a872023880350756ae22b28e4d5f93be2e8d5.png?s=1400&c=66&f=png",
+                "season": "7"
             },
             "link": "https://www.npr.org/2021/12/29/1068967941/sign-me-up",
-            "pubDate": "Tue, 04 Jan 2022 00:00:50 -0500",
+            "pubDate": "Tue, 04 Jan 2022 05:00:50 +0000",
             "title": "Sign Me Up"
         },
         {
@@ -767,22 +732,20 @@
             "enclosure": {
                 "length": "14861462",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/12/20211228_storycorps_s07e04_clouds_02jf.mp3?awCollectionId=510200&awEpisodeId=1067118910&orgId=1&d=928&p=510200&story=1067118910&t=podcast&e=1067118910&size=14861462&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/12/20211228_storycorps_s07e04_clouds_02jf.mp3?d=928&size=14861462&e=1067118910&t=podcast&p=510200&awEpisodeId=1067118910&awCollectionId=510200"
             },
             "guid": "da486c53-961e-4204-a95e-2f62bdb87821",
             "isoDate": "2021-12-28T05:00:46.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "928",
                 "episode": "4",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/12/22/lyne-lucien-e4_wide-1565346a585c07eaed3bc217eaf029e297cd2508.png?s=1400",
-                "season": "7",
-                "summary": "On this episode of the StoryCorps podcast, how three kids who once dreamed of outer space grew up to make their mark beyond Earth's atmosphere."
+                "image": "https://media.npr.org/assets/img/2021/12/22/lyne-lucien-e4_wide-ac492f493ebe0a60b5214ffeb3d464e96cbab5bb.png?s=1400&c=66&f=png",
+                "season": "7"
             },
             "link": "https://www.npr.org/2021/12/22/1067118910/go-to-the-clouds",
-            "pubDate": "Tue, 28 Dec 2021 00:00:46 -0500",
+            "pubDate": "Tue, 28 Dec 2021 05:00:46 +0000",
             "title": "Go To The Clouds"
         },
         {
@@ -793,22 +756,20 @@
             "enclosure": {
                 "length": "4665766",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/12/20211221_storycorps_s07e03_santas_02jf.mp3?awCollectionId=510200&awEpisodeId=1066093121&orgId=1&d=291&p=510200&story=1066093121&t=podcast&e=1066093121&size=4665766&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/12/20211221_storycorps_s07e03_santas_02jf.mp3?d=291&size=4665766&e=1066093121&t=podcast&p=510200&awEpisodeId=1066093121&awCollectionId=510200"
             },
             "guid": "294cfb32-539e-4c6b-bba0-ce20b60eafa4",
             "isoDate": "2021-12-21T05:00:33.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "291",
                 "episode": "3",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/12/20/lyne-lucien-e3_wide-c490129d26ff42f5f0ad977baeacff7299a7deb1.png?s=1400",
-                "season": "7",
-                "summary": "At the height of the AIDS crisis, Mark Woodley disclosed his HIV status and lost his job as a Macy's Santa Claus. In this episode of the StoryCorps podcast, Mark speaks with his friend Jon Winkleman about the moment they decided to take action."
+                "image": "https://media.npr.org/assets/img/2021/12/20/lyne-lucien-e3_wide-cf1f622cd33163658faaaa2cdd837e736d75cbd9.png?s=1400&c=66&f=png",
+                "season": "7"
             },
             "link": "https://www.npr.org/2021/12/20/1066093121/when-santas-stormed-macys",
-            "pubDate": "Tue, 21 Dec 2021 00:00:33 -0500",
+            "pubDate": "Tue, 21 Dec 2021 05:00:33 +0000",
             "title": "When Santas Stormed Macy's"
         },
         {
@@ -819,22 +780,20 @@
             "enclosure": {
                 "length": "16671643",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/12/20211214_storycorps_s07e02_music_03jf.mp3?awCollectionId=510200&awEpisodeId=1063904162&orgId=1&d=1041&p=510200&story=1063904162&t=podcast&e=1063904162&size=16671643&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/12/20211214_storycorps_s07e02_music_03jf.mp3?d=1041&size=16671643&e=1063904162&t=podcast&p=510200&awEpisodeId=1063904162&awCollectionId=510200"
             },
             "guid": "57fb0c77-d876-4722-a9b1-c064b91fe1ca",
             "isoDate": "2021-12-14T05:00:09.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "1041",
                 "episode": "2",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/12/13/e2-copy_wide-abaee5b4266a488237da071b1814d7b1117ff187.png?s=1400",
-                "season": "7",
-                "summary": "On this episode of the StoryCorps podcast, we'll share the lesser known stories behind some popular songs, and how two families are honoring the musicians behind them."
+                "image": "https://media.npr.org/assets/img/2021/12/13/e2-copy_wide-734324c3bc6de08149b3a811614305e77c263995.png?s=1400&c=66&f=png",
+                "season": "7"
             },
             "link": "https://www.npr.org/2021/12/13/1063904162/la-musica-en-mi",
-            "pubDate": "Tue, 14 Dec 2021 00:00:09 -0500",
+            "pubDate": "Tue, 14 Dec 2021 05:00:09 +0000",
             "title": "La M\u00fasica En Mi"
         },
         {
@@ -845,22 +804,20 @@
             "enclosure": {
                 "length": "17691464",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/12/20211207_storycorps_s07e01_doctors_04jf.mp3?awCollectionId=510200&awEpisodeId=1061985940&orgId=1&d=1105&p=510200&story=1061985940&t=podcast&e=1061985940&size=17691464&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/12/20211207_storycorps_s07e01_doctors_04jf.mp3?d=1105&size=17691464&e=1061985940&t=podcast&p=510200&awEpisodeId=1061985940&awCollectionId=510200"
             },
             "guid": "d855ef46-f946-4945-8d46-5c0d8f8cb540",
             "isoDate": "2021-12-07T05:00:41.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "1105",
                 "episode": "1",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/12/06/lyne-lucien-e1a_16_9_wide-44916a08ad261aaebe57abccab6aa38e649bd5e6.png?s=1400",
-                "season": "7",
-                "summary": "In this episode, we focus on the lives and achievements of two Black men who conducted groundbreaking medical research in the 1940's \u2014 as told by the people they mentored."
+                "image": "https://media.npr.org/assets/img/2021/12/06/lyne-lucien-e1a_16_9_wide-6addf8f5a4875f64879c447e02013f3337f926ad.png?s=1400&c=66&f=png",
+                "season": "7"
             },
             "link": "https://www.npr.org/2021/12/06/1061985940/men-of-the-ages",
-            "pubDate": "Tue, 07 Dec 2021 00:00:41 -0500",
+            "pubDate": "Tue, 07 Dec 2021 05:00:41 +0000",
             "title": "Men of The Ages"
         },
         {
@@ -871,21 +828,19 @@
             "enclosure": {
                 "length": "959304",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/12/20211201_storycorps_s07_trailer_03jf.mp3?awCollectionId=510200&awEpisodeId=1060057797&orgId=1&d=59&p=510200&story=1060057797&t=podcast&e=1060057797&size=959304&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/12/20211201_storycorps_s07_trailer_03jf.mp3?d=59&size=959304&e=1060057797&t=podcast&p=510200&awEpisodeId=1060057797&awCollectionId=510200"
             },
             "guid": "2adf693a-9d5b-4af8-a8b6-c492c1634fe4",
             "isoDate": "2021-12-01T05:00:31.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "59",
                 "episodeType": "trailer",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/11/30/storycorps-draft-3-ll_wide-94f1ea336e496c8aba2f33ea8ccc6cfec285f207.png?s=1400",
-                "season": "7",
-                "summary": "The StoryCorps Podcast returns with new episodes, featuring stories of courage from people who blazed a path, defied the odds, and changed history for those who came after them."
+                "image": "https://media.npr.org/assets/img/2021/11/30/storycorps-draft-3-ll_wide-8851b866d63e05ee66593d98086cca1690eab3c1.png?s=1400&c=66&f=png",
+                "season": "7"
             },
             "link": "https://www.npr.org/2021/11/30/1060057797/paving-pathways",
-            "pubDate": "Wed, 01 Dec 2021 00:00:31 -0500",
+            "pubDate": "Wed, 01 Dec 2021 05:00:31 +0000",
             "title": "Paving Pathways"
         },
         {
@@ -896,21 +851,19 @@
             "enclosure": {
                 "length": "15519748",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/11/20211123_storycorps_s07e00_tgtl_04jf.mp3?awCollectionId=510200&awEpisodeId=1058175317&orgId=1&d=969&p=510200&story=1058175317&t=podcast&e=1058175317&size=15519748&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/11/20211123_storycorps_s07e00_tgtl_04jf.mp3?d=969&size=15519748&e=1058175317&t=podcast&p=510200&awEpisodeId=1058175317&awCollectionId=510200"
             },
             "guid": "d94deba2-fec0-4326-b9dd-c9de28d011e5",
             "isoDate": "2021-11-23T05:00:26.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "969",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/11/22/tgtl_wide-c76f4033ab2dc54a7773826b7d5bfa7636f1cb92.png?s=1400",
-                "season": "7",
-                "summary": "In this episode, we're encouraging people all across the country to record a conversation with a loved one or someone they admire over Thanksgiving weekend. By featuring several intergenerational conversations, we hope to show just how easy it can be to do this, whether you're across the table or across the country."
+                "image": "https://media.npr.org/assets/img/2021/11/22/tgtl_wide-7e04517ab4763a2f376132cdaef70227742e6b3a.png?s=1400&c=66&f=png",
+                "season": "7"
             },
             "link": "https://www.npr.org/2021/11/22/1058175317/pass-the-plate-pass-the-mic",
-            "pubDate": "Tue, 23 Nov 2021 00:00:26 -0500",
+            "pubDate": "Tue, 23 Nov 2021 05:00:26 +0000",
             "title": "Pass the Plate, Pass the Mic"
         },
         {
@@ -921,22 +874,20 @@
             "enclosure": {
                 "length": "5346621",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/10/20211005_storycorps_s06e10_courvilleupdate_02jf.mp3?awCollectionId=510200&awEpisodeId=1043104663&orgId=1&d=334&p=510200&story=1043104663&t=podcast&e=1043104663&size=5346621&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/10/20211005_storycorps_s06e10_courvilleupdate_02jf.mp3?d=334&size=5346621&e=1043104663&t=podcast&p=510200&awEpisodeId=1043104663&awCollectionId=510200"
             },
             "guid": "58381517-2ad8-4c7a-9136-8792b1612aba",
             "isoDate": "2021-10-05T04:00:29.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "334",
                 "episode": "10",
                 "episodeType": "bonus",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/10/04/update1_2_3_wide-397a7865ccc7764a2f83420c6901731fc73ff4c0.png?s=1400",
-                "season": "6",
-                "summary": "Scientists Zoe Courville and Lora Koenig work to study the impact of climate change \u2014 which pulls them away from their children for weeks at a time. In our last episode of the season, they share some hard-earned wisdom with parents who may be struggling during the pandemic."
+                "image": "https://media.npr.org/assets/img/2021/10/04/update1_2_3_wide-d6cc5a3a8bc22ceabe27a35f3f627e27ad140237.png?s=1400&c=66&f=png",
+                "season": "6"
             },
             "link": "https://www.npr.org/2021/10/04/1043104663/just-doing-our-best",
-            "pubDate": "Tue, 05 Oct 2021 00:00:29 -0400",
+            "pubDate": "Tue, 05 Oct 2021 04:00:29 +0000",
             "title": "Just Doing Our Best"
         },
         {
@@ -947,22 +898,20 @@
             "enclosure": {
                 "length": "13315431",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/10/20211005_storycorps_s06e09_happyaccidents_06jf.mp3?awCollectionId=510200&awEpisodeId=1041010328&orgId=1&d=832&p=510200&story=1041010328&t=podcast&e=1041010328&size=13315431&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/10/20211005_storycorps_s06e09_happyaccidents_06jf.mp3?d=832&size=13315431&e=1041010328&t=podcast&p=510200&awEpisodeId=1041010328&awCollectionId=510200"
             },
             "guid": "8637a94f-dfaa-4c56-8d95-5004f8e7cbfe",
             "isoDate": "2021-09-28T04:00:58.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "832",
                 "episode": "9",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/09/27/option5_3_2_wide-f67aa14011ea6406264bafbe5a7e87985f9b1197.png?s=1400",
-                "season": "6",
-                "summary": "In this week's episode, how worlds that quite literally collided, led to unexpected friendships and new career paths."
+                "image": "https://media.npr.org/assets/img/2021/09/27/option5_3_2_wide-507683bbcb21391b0caf18da9a0b0183443b9b7a.png?s=1400&c=66&f=png",
+                "season": "6"
             },
             "link": "https://www.npr.org/2021/09/27/1041010328/the-collision-course",
-            "pubDate": "Tue, 28 Sep 2021 00:00:58 -0400",
+            "pubDate": "Tue, 28 Sep 2021 04:00:58 +0000",
             "title": "The Collision Course"
         },
         {
@@ -973,22 +922,20 @@
             "enclosure": {
                 "length": "15568649",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/09/20210921_storycorps_s06e08_emptynesters_05jf.mp3?awCollectionId=510200&awEpisodeId=1039036880&orgId=1&d=972&p=510200&story=1039036880&t=podcast&e=1039036880&size=15568649&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/09/20210921_storycorps_s06e08_emptynesters_05jf.mp3?d=972&size=15568649&e=1039036880&t=podcast&p=510200&awEpisodeId=1039036880&awCollectionId=510200"
             },
             "guid": "3f228473-a95d-433a-a042-08a989195149",
             "isoDate": "2021-09-21T04:00:16.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "972",
                 "episode": "8",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/09/20/option_2_16_9_wide-0f7fcb59ac2f00aa57d0431f55c27b2fa5c481e1.png?s=1400",
-                "season": "6",
-                "summary": "In this episode, how kids and their parents \u2014 who have navigated many changes together \u2014 are facing the next big change apart."
+                "image": "https://media.npr.org/assets/img/2021/09/20/option_2_16_9_wide-1917b764caa416400930b40129c779d84fc670b4.png?s=1400&c=66&f=png",
+                "season": "6"
             },
             "link": "https://www.npr.org/2021/09/20/1039036880/everything-together",
-            "pubDate": "Tue, 21 Sep 2021 00:00:16 -0400",
+            "pubDate": "Tue, 21 Sep 2021 04:00:16 +0000",
             "title": "Everything Together"
         },
         {
@@ -999,22 +946,20 @@
             "enclosure": {
                 "length": "4756881",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/09/20210914_storycorps_s06e07_moreheadmugitaupdate_02jf.mp3?awCollectionId=510200&awEpisodeId=1036740515&orgId=1&d=297&p=510200&story=1036740515&t=podcast&e=1036740515&size=4756881&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/09/20210914_storycorps_s06e07_moreheadmugitaupdate_02jf.mp3?d=297&size=4756881&e=1036740515&t=podcast&p=510200&awEpisodeId=1036740515&awCollectionId=510200"
             },
             "guid": "2013079c-1e59-4dc2-8755-d1c10f3b90e5",
             "isoDate": "2021-09-14T04:00:56.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "297",
                 "episode": "7",
                 "episodeType": "bonus",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/09/13/update2_16_9_wide-a21a97fa7a638d64c9ea11555febf48f60950839.png?s=1400",
-                "season": "6",
-                "summary": "When Ileana Watson died, her daughter Sada was just about to become a mom herself. Three years later, Sada sat down with Ileana's best friend, Angela Morehead-Mugita, to learn more about her late-mother."
+                "image": "https://media.npr.org/assets/img/2021/09/13/update2_16_9_wide-925e95fa5ce111f568e2f01d1e554b5cc4834521.png?s=1400&c=66&f=png",
+                "season": "6"
             },
             "link": "https://www.npr.org/2021/09/13/1036740515/every-seed-your-mother-sowed",
-            "pubDate": "Tue, 14 Sep 2021 00:00:56 -0400",
+            "pubDate": "Tue, 14 Sep 2021 04:00:56 +0000",
             "title": "Every Seed Your Mother Sowed"
         },
         {
@@ -1025,22 +970,20 @@
             "enclosure": {
                 "length": "15554021",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/09/20210911_storycorps_s06e06_sc911_07jf.mp3?awCollectionId=510200&awEpisodeId=1036076841&orgId=1&d=972&p=510200&story=1036076841&t=podcast&e=1036076841&size=15554021&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/09/20210911_storycorps_s06e06_sc911_07jf.mp3?d=972&size=15554021&e=1036076841&t=podcast&p=510200&awEpisodeId=1036076841&awCollectionId=510200"
             },
             "guid": "d158b756-6c1d-4e27-8ced-0f57345d9804",
             "isoDate": "2021-09-11T06:18:11.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "972",
                 "episode": "6",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/09/10/e2_wide-9d858eb576b728a1ac8d4b324657c7eb24dcd9e0.png?s=1400",
-                "season": "6",
-                "summary": "As we mark the 20th anniversary of 9/11 \u2014 memories of Richard Palazzolo, who didn't make it out of the Twin Towers that day \u2014 told by his identical twin brother who did."
+                "image": "https://media.npr.org/assets/img/2021/09/10/e2_wide-a58c402a29bd97f9a45b9d21b99a92dfc7ba32a8.png?s=1400&c=66&f=png",
+                "season": "6"
             },
             "link": "https://www.npr.org/2021/09/10/1036076841/to-me-every-day-is-yesterday-remembering-9-11",
-            "pubDate": "Sat, 11 Sep 2021 02:18:11 -0400",
+            "pubDate": "Sat, 11 Sep 2021 06:18:11 +0000",
             "title": "To Me, Every Day Is Yesterday: Remembering 9/11"
         },
         {
@@ -1051,22 +994,20 @@
             "enclosure": {
                 "length": "15975323",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/09/20210910_storycorps_s06e05_considerthis911_03jf.mp3?awCollectionId=510200&awEpisodeId=1035662603&orgId=1&d=998&p=510200&story=1035662603&t=podcast&e=1035662603&size=15975323&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/09/20210910_storycorps_s06e05_considerthis911_03jf.mp3?d=998&size=15975323&e=1035662603&t=podcast&p=510200&awEpisodeId=1035662603&awCollectionId=510200"
             },
             "guid": "822bb824-d6c9-4e25-a75b-02e5a524759b",
             "isoDate": "2021-09-10T04:00:48.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "998",
                 "episode": "5",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/09/09/e1-copy_wide-c093d115924896dc1a1293aef8a855509bdd82cd.png?s=1400",
-                "season": "6",
-                "summary": "In this episode of the podcast, StoryCorps teamed up with NPR's daily afternoon podcast, Consider This, to bring you stories from some of the people whose lives were forever changed by September 11th and its aftermath."
+                "image": "https://media.npr.org/assets/img/2021/09/09/e1-copy_wide-3d059f9180cc5dc71ca07eaa57fb6d4c2dce0243.png?s=1400&c=66&f=png",
+                "season": "6"
             },
             "link": "https://www.npr.org/2021/09/09/1035662603/from-storycorps-and-consider-this-the-lasting-toll-of-9-11",
-            "pubDate": "Fri, 10 Sep 2021 00:00:48 -0400",
+            "pubDate": "Fri, 10 Sep 2021 04:00:48 +0000",
             "title": "From StoryCorps and Consider This: The Lasting Toll Of 9/11"
         },
         {
@@ -1077,22 +1018,20 @@
             "enclosure": {
                 "length": "5935944",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/08/20210831_storycorps_s06e04_mvi_02jf.mp3?awCollectionId=510200&awEpisodeId=1032598525&orgId=1&d=370&p=510200&story=1032598525&t=podcast&e=1032598525&size=5935944&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/08/20210831_storycorps_s06e04_mvi_02jf.mp3?d=370&size=5935944&e=1032598525&t=podcast&p=510200&awEpisodeId=1032598525&awCollectionId=510200"
             },
             "guid": "85653bb9-5350-48c1-b26d-caafc8d5d461",
             "isoDate": "2021-08-31T04:00:14.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "370",
                 "episode": "4",
                 "episodeType": "bonus",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/08/30/podcast_mvidropin_16x9_2_wide-67645e5cdf7303ef3a993c4e3ca53f7e1a4124e4.png?s=1400",
-                "season": "6",
-                "summary": "In this episode, we remember Army Sgt. 1st Class Nathan Ross Chapman, the first American soldier to be killed in combat during the War in Afghanistan."
+                "image": "https://media.npr.org/assets/img/2021/08/30/podcast_mvidropin_16x9_2_wide-a5a46b1ea1d8788a123b3d51b4577c37a918f634.png?s=1400&c=66&f=png",
+                "season": "6"
             },
             "link": "https://www.npr.org/2021/08/30/1032598525/what-i-would-say",
-            "pubDate": "Tue, 31 Aug 2021 00:00:14 -0400",
+            "pubDate": "Tue, 31 Aug 2021 04:00:14 +0000",
             "title": "What I Would Say"
         },
         {
@@ -1103,22 +1042,20 @@
             "enclosure": {
                 "length": "15599578",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/08/20210824_storycorps_s06e03_parents_06jf.mp3?awCollectionId=510200&awEpisodeId=1030443462&orgId=1&d=974&p=510200&story=1030443462&t=podcast&e=1030443462&size=15599578&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/08/20210824_storycorps_s06e03_parents_06jf.mp3?d=974&size=15599578&e=1030443462&t=podcast&p=510200&awEpisodeId=1030443462&awCollectionId=510200"
             },
             "guid": "93365f1e-070d-4a34-8d43-a82d23352ce8",
             "isoDate": "2021-08-24T04:00:42.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "974",
                 "episode": "3",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/08/23/option-3_16_9_wide-c4531a59c7ec6a1c25e7f239041fa1b7e66ac0d4.png?s=1400",
-                "season": "6",
-                "summary": "In this episode, we'll hear conversations between family members who have mended and grown their relationships over time."
+                "image": "https://media.npr.org/assets/img/2021/08/23/option-3_16_9_wide-4613b512f30fd7c441ab5229f243448adcf0cb3c.png?s=1400&c=66&f=png",
+                "season": "6"
             },
             "link": "https://www.npr.org/2021/08/23/1030443462/growing-pains",
-            "pubDate": "Tue, 24 Aug 2021 00:00:42 -0400",
+            "pubDate": "Tue, 24 Aug 2021 04:00:42 +0000",
             "title": "Growing Pains"
         },
         {
@@ -1129,22 +1066,20 @@
             "enclosure": {
                 "length": "5795510",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/08/20210817_storycorps_s06e02_harrisonupdate_02jf.mp3?awCollectionId=510200&awEpisodeId=1028225043&orgId=1&d=362&p=510200&story=1028225043&t=podcast&e=1028225043&size=5795510&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/08/20210817_storycorps_s06e02_harrisonupdate_02jf.mp3?d=362&size=5795510&e=1028225043&t=podcast&p=510200&awEpisodeId=1028225043&awCollectionId=510200"
             },
             "guid": "bc6c4b80-6c8b-413c-85d6-f7b4b970d7c0",
             "isoDate": "2021-08-17T04:00:53.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "362",
                 "episode": "2",
                 "episodeType": "bonus",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/08/16/updateartwork_wide-447b1c312722b826fb9a7d35c56bfa26ccdfa285.png?s=1400",
-                "season": "6",
-                "summary": "In this week's episode, how a father-daughter relationship rebounded after years of periodic estrangement."
+                "image": "https://media.npr.org/assets/img/2021/08/16/updateartwork_wide-f647102cb7ba35ae3133a82fb4b6c748d5ccae10.png?s=1400&c=66&f=png",
+                "season": "6"
             },
             "link": "https://www.npr.org/2021/08/16/1028225043/stronger-than-ever",
-            "pubDate": "Tue, 17 Aug 2021 00:00:53 -0400",
+            "pubDate": "Tue, 17 Aug 2021 04:00:53 +0000",
             "title": "Stronger Than Ever"
         },
         {
@@ -1155,19 +1090,17 @@
             "enclosure": {
                 "length": "14236613",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/08/20210810_storycorps_s06e01_stjames_07jf.mp3?awCollectionId=510200&awEpisodeId=1025305132&orgId=1&d=889&p=510200&story=1025305132&t=podcast&e=1025305132&size=14236613&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/08/20210810_storycorps_s06e01_stjames_07jf.mp3?d=889&size=14236613&e=1025305132&t=podcast&p=510200&awEpisodeId=1025305132&awCollectionId=510200"
             },
             "guid": "b01855dc-1a56-4cfd-8357-bba455cc7c38",
             "isoDate": "2021-08-10T04:00:00.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "889",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/08/05/option1_16_9_wide-4fd20099ef5e50dfe5976cfb82eed34e2eba05cf.png?s=1400",
-                "summary": "In this episode, how one family's socially-distant block party brought a neighborhood together during the pandemic."
+                "image": "https://media.npr.org/assets/img/2021/08/05/option1_16_9_wide-32c892d0f0ccce40eff2691e3d9e4da4f4fc0783.png?s=1400&c=66&f=png"
             },
-            "pubDate": "Tue, 10 Aug 2021 00:00:00 -0400",
+            "pubDate": "Tue, 10 Aug 2021 04:00:00 +0000",
             "title": "Joy On Saint James Place"
         },
         {
@@ -1178,19 +1111,17 @@
             "enclosure": {
                 "length": "952617",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/08/20210804_storycorps_s06_trailer_04jf.mp3?awCollectionId=510200&awEpisodeId=1024352272&orgId=1&d=59&p=510200&story=1024352272&t=podcast&e=1024352272&size=952617&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/08/20210804_storycorps_s06_trailer_04jf.mp3?d=59&size=952617&e=1024352272&t=podcast&p=510200&awEpisodeId=1024352272&awCollectionId=510200"
             },
             "guid": "e94daefd-54f2-43a8-a371-714fc13ad859",
             "isoDate": "2021-08-04T04:00:00.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "59",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/08/03/storycorps_podcast-season-artwork-copy_wide-9ebf6a50d1042c50d2477ac1a949375ab62c7c2b.jpg?s=1400",
-                "summary": "On an all new season of the StoryCorps podcast, we're bringing you stories about what it's like to find new footing, and begin again."
+                "image": "https://media.npr.org/assets/img/2021/08/03/storycorps_podcast-season-artwork-copy_wide-7484b806595dd7518ae58f43f728e6461d824591.jpg?s=1400&c=66&f=jpg"
             },
-            "pubDate": "Wed, 04 Aug 2021 00:00:00 -0400",
+            "pubDate": "Wed, 04 Aug 2021 04:00:00 +0000",
             "title": "Finding Our Way Back"
         },
         {
@@ -1201,19 +1132,17 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/03/20210302_storycorps_s05e12_khamisaedit_06jf.mp3?awCollectionId=510200&awEpisodeId=972675617&orgId=1&d=1248&p=510200&story=972675617&t=podcast&e=972675617&size=0&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/03/20210302_storycorps_s05e12_khamisaedit_06jf.mp3?d=1248&e=972675617&t=podcast&p=510200&awEpisodeId=972675617&awCollectionId=510200"
             },
             "guid": "ca496201-b59e-4519-83f2-0d0faf2043f9",
             "isoDate": "2021-03-02T05:00:00.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "1248",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/03/01/image0_wide-77947da08e0c87f7b8447f300424edec469841b3.jpeg?s=1400",
-                "summary": "On this episode of the StoryCorps podcast, how one man's decision to forgive the man who murdered his son brought two families together."
+                "image": "https://media.npr.org/assets/img/2021/03/01/image0_wide-913c1dd2d26607da44608be3ab397045ee3dd82c.jpeg?s=1400&c=66&f=jpeg"
             },
-            "pubDate": "Tue, 02 Mar 2021 00:00:00 -0500",
+            "pubDate": "Tue, 02 Mar 2021 05:00:00 +0000",
             "title": "Carrying The Weight"
         },
         {
@@ -1224,19 +1153,17 @@
             "enclosure": {
                 "length": "16378092",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/02/20210216_storycorps_s05e11_communities_03jf.mp3?awCollectionId=510200&awEpisodeId=968393294&orgId=1&d=1025&p=510200&story=968393294&t=podcast&e=968393294&size=16378092&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/02/20210216_storycorps_s05e11_communities_03jf.mp3?d=1025&size=16378092&e=968393294&t=podcast&p=510200&awEpisodeId=968393294&awCollectionId=510200"
             },
             "guid": "c53f97eb-069b-47d3-b51c-eb18ba482b78",
             "isoDate": "2021-02-16T17:57:00.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "1025",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/02/16/image1-2-_wide-254005023eac2a5c9486c21869ee453b44c4aaae.jpeg?s=1400",
-                "summary": "On this episode of the StoryCorps podcast, we're sharing stories from people who bring their whole heart to the place they live, and help create a feeling of home for everyone around them."
+                "image": "https://media.npr.org/assets/img/2021/02/16/image1-2-_wide-7147e32998408d959d67840ac5460d1750c9ec1c.jpeg?s=1400&c=66&f=jpeg"
             },
-            "pubDate": "Tue, 16 Feb 2021 12:57:00 -0500",
+            "pubDate": "Tue, 16 Feb 2021 17:57:00 +0000",
             "title": "Local Treasures"
         },
         {
@@ -1247,43 +1174,18 @@
             "enclosure": {
                 "length": "15296394",
                 "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/02/20210209_storycorps_s05e10_love_04jf.mp3?awCollectionId=510200&awEpisodeId=965562618&orgId=1&d=958&p=510200&story=965562618&t=podcast&e=965562618&size=15296394&ft=pod&f=510200"
+                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/02/20210209_storycorps_s05e10_love_04jf.mp3?d=958&size=15296394&e=965562618&t=podcast&p=510200&awEpisodeId=965562618&awCollectionId=510200"
             },
             "guid": "4cd03da6-d1f4-435f-9bb3-6bbb7e30479f",
             "isoDate": "2021-02-09T05:00:00.000Z",
             "itunes": {
-                "author": "NPR",
                 "duration": "958",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/02/08/image1-2-_wide-8a6b5dcde02f9ca481d4260f9c5ca96232b288c5.jpeg?s=1400",
-                "summary": "On this episode, as we approach another Valentine's Day, we're bringing you stories from couples who don't need to look at a calendar to remember that they're in love."
+                "image": "https://media.npr.org/assets/img/2021/02/08/image1-2-_wide-93d9292ac08bbf666b4f0f06adf43c89449ec456.jpeg?s=1400&c=66&f=jpeg"
             },
-            "pubDate": "Tue, 09 Feb 2021 00:00:00 -0500",
+            "pubDate": "Tue, 09 Feb 2021 05:00:00 +0000",
             "title": "First Comes Love, Then Comes StoryCorps"
-        },
-        {
-            "content": "On this episode of the StoryCorps podcast, we're exploring hope: where it comes from, what it feels like, and how it changes people.",
-            "content:encoded": "On this episode of the StoryCorps podcast, we're exploring hope: where it comes from, what it feels like, and how it changes people.",
-            "content:encodedSnippet": "On this episode of the StoryCorps podcast, we're exploring hope: where it comes from, what it feels like, and how it changes people.",
-            "contentSnippet": "On this episode of the StoryCorps podcast, we're exploring hope: where it comes from, what it feels like, and how it changes people.",
-            "enclosure": {
-                "length": "16394355",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/edge1.pod.npr.org/anon.npr-mp3/npr/storycorps/2021/02/20210202_storycorps_s05e09_hope_06jf.mp3?awCollectionId=510200&awEpisodeId=962993451&orgId=1&d=1026&p=510200&story=962993451&t=podcast&e=962993451&size=16394355&ft=pod&f=510200"
-            },
-            "guid": "34b55eb4-2caf-4d8c-8c95-f0469edb77bc",
-            "isoDate": "2021-02-02T05:00:00.000Z",
-            "itunes": {
-                "author": "NPR",
-                "duration": "1026",
-                "episodeType": "full",
-                "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/02/01/image1-1-_wide-65813b0671fdf7b7fbc5f74c05553d9c1cb0c96c.jpeg?s=1400",
-                "summary": "On this episode of the StoryCorps podcast, we're exploring hope: where it comes from, what it feels like, and how it changes people."
-            },
-            "pubDate": "Tue, 02 Feb 2021 00:00:00 -0500",
-            "title": "I Found My Lighthouse"
         }
     ],
     "itunes": {
@@ -1297,24 +1199,22 @@
                 "subs": null
             }
         ],
-        "image": "https://media.npr.org/assets/img/2022/09/23/story-corps_tile_npr-network-01_sq-77458d8f8bf463f67d44434aff03f5a95d7fb821.jpg?s=1400",
+        "image": "https://media.npr.org/assets/img/2022/09/23/story-corps_tile_npr-network-01_sq-2590f9fef8285e162e8aa524e0fedd5462c64292.jpg?s=1400&c=66&f=jpg",
         "owner": {
             "email": "podcasts@npr.org",
             "name": "NPR"
-        },
-        "subtitle": "Conversations about love, loss, family, and friendship.",
-        "summary": "Stories of the human heart. A candid, unscripted conversation between two people about what's really important in life: love, loss, family, friendship. When the world seems out of hand, tune in to <em>StoryCorps</em> and be reminded of the things that matter most."
+        }
     },
     "language": "en",
-    "lastBuildDate": "Tue, 20 Dec 2022 00:00:13 -0500",
-    "link": "https://www.npr.org/storycorps",
+    "lastBuildDate": "Thu, 11 May 2023 23:19:11 +0000",
+    "link": "https://www.npr.org/podcasts/510200/storycorps",
     "palette": [
-        "EB4B3C",
-        "1C4567",
-        "FADFDC",
-        "F28E85",
-        "F6A4A4",
-        "747084"
+        "F34B43",
+        "F7F2EF",
+        "1D4567",
+        "EF8E87",
+        "EFA2A7",
+        "EE7078"
     ],
     "title": "StoryCorps"
 }
