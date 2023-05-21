@@ -1,13 +1,36 @@
 {
     "copyright": "Copyright 2015-2021 NPR - For Personal Use Only",
     "description": "What's CODE SWITCH? It's the fearless conversations about race that you've been waiting for. Hosted by journalists of color, our podcast tackles the subject of race with empathy and humor. We explore how race affects every part of society \u2014 from politics and pop culture to history, food and everything in between. This podcast makes all of us part of the conversation \u2014 because we're all part of the story. Code Switch was named Apple Podcasts' first-ever Show of the Year in 2020.<br><br><em>Want to level up your Code Switch game? Try Code Switch Plus. </em><em>Your subscription supports the show and unlocks a sponsor-free feed. Learn more at </em><em>plus.npr.org/</em><em>codeswitch</em>",
-    "generator": "NPR Feed Publish Service v1.12.7",
+    "generator": "NPR Feed Publish Service v1.13.0",
     "image": {
         "link": "https://www.npr.org/podcasts/510312/codeswitch",
         "title": "Code Switch",
         "url": "https://media.npr.org/assets/img/2022/09/22/code-switch_tile_npr-network-01_sq-02ce31e198d3918fb20e7c3e519566ba44f86bda.jpg?s=1400&c=66&f=jpg"
     },
     "items": [
+        {
+            "content": "The Supreme Court is about to decide on a case arguing that the Indian Child Welfare Act (ICWA) discriminates against white foster parents. Journalist Rebecca Nagle explains how this decision could reverse centuries of U.S. law protecting the rights of Indigenous nations. \"Native kids have been the tip of the spear in attacks on tribal sovereignty for generations.\"",
+            "content:encoded": "The Supreme Court is about to decide on a case arguing that the Indian Child Welfare Act (ICWA) discriminates against white foster parents. Journalist Rebecca Nagle explains how this decision could reverse centuries of U.S. law protecting the rights of Indigenous nations. \"Native kids have been the tip of the spear in attacks on tribal sovereignty for generations.\"",
+            "content:encodedSnippet": "The Supreme Court is about to decide on a case arguing that the Indian Child Welfare Act (ICWA) discriminates against white foster parents. Journalist Rebecca Nagle explains how this decision could reverse centuries of U.S. law protecting the rights of Indigenous nations. \"Native kids have been the tip of the spear in attacks on tribal sovereignty for generations.\"",
+            "contentSnippet": "The Supreme Court is about to decide on a case arguing that the Indian Child Welfare Act (ICWA) discriminates against white foster parents. Journalist Rebecca Nagle explains how this decision could reverse centuries of U.S. law protecting the rights of Indigenous nations. \"Native kids have been the tip of the spear in attacks on tribal sovereignty for generations.\"",
+            "enclosure": {
+                "length": "31257122",
+                "type": "audio/mpeg",
+                "url": "https://play.podtrac.com/npr-510312/edge1.pod.npr.org/anon.npr-mp3/npr/codeswitch/2023/05/20230517_codeswitch_9b105027-44cc-4f7d-996b-e3857fc36762.mp3?d=1953&size=31257122&e=1175041677&t=podcast&p=510312&awEpisodeId=1175041677&awCollectionId=510312"
+            },
+            "guid": "6aeae3e6-c309-4293-b301-e177f363ae74",
+            "isoDate": "2023-05-17T04:10:36.000Z",
+            "itunes": {
+                "duration": "1953",
+                "episode": "403",
+                "episodeType": "full",
+                "explicit": "yes",
+                "image": "https://media.npr.org/assets/img/2023/05/16/cs-rnagle_icwa_2023-1-_wide-1f6d61d2bbf3587000963ca2a3ca8eac1bb048f9.jpg?s=1400&c=66&f=jpg"
+            },
+            "link": "https://www.npr.org/2023/05/09/1175041677/the-implications-of-the-case-against-icwa",
+            "pubDate": "Wed, 17 May 2023 04:10:36 +0000",
+            "title": "The implications of the case against ICWA"
+        },
         {
             "content": "\"Three springs ago, I lost the better part of my mind,\" Naomi Jackson wrote in an essay for Harper's Magazine.  On this episode, Jackson reads from that essay about her experience with mental illness, including how she has had to decipher which of her fears stem from her illness and which are backed by the history of racism.",
             "content:encoded": "\"Three springs ago, I lost the better part of my mind,\" Naomi Jackson wrote in an essay for Harper's Magazine.  On this episode, Jackson reads from that essay about her experience with mental illness, including how she has had to decipher which of her fears stem from her illness and which are backed by the history of racism.",
@@ -8917,7 +8940,7 @@
         }
     },
     "language": "en-us",
-    "lastBuildDate": "Fri, 12 May 2023 16:31:57 +0000",
+    "lastBuildDate": "Wed, 17 May 2023 21:10:10 +0000",
     "link": "https://www.npr.org/podcasts/510312/codeswitch",
     "palette": [
         "E26E31",
