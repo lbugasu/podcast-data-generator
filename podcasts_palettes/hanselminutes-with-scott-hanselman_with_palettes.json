@@ -11,6 +11,32 @@
     "items": [
         {
             "author": "scott@hanselman.com (Scott Hanselman)",
+            "content": "",
+            "contentSnippet": "",
+            "creator": "scott@hanselman.com (Scott Hanselman)",
+            "enclosure": {
+                "length": "28200127",
+                "type": "audio/mpeg",
+                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/3328040c-898e-4149-b021-64b3acc400c8/audio/28893295-0679-4ee9-9675-30d24f774a88/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+            },
+            "guid": "67be0d68-be55-4fb5-ac99-660b2baf551c",
+            "isoDate": "2023-05-25T21:00:00.000Z",
+            "itunes": {
+                "author": "Scott Hanselman",
+                "duration": "00:29:17",
+                "episode": "894",
+                "episodeType": "full",
+                "explicit": "no",
+                "image": "https://image.simplecastcdn.com/images/e464c34b-2f32-411b-bdd2-dcf02e5301eb/45c30d3f-50ed-4e01-abd9-75009c633957/3000x3000/894.jpg?aid=rss_feed",
+                "subtitle": "",
+                "summary": ""
+            },
+            "link": "https://www.hanselminutes.com",
+            "pubDate": "Thu, 25 May 2023 21:00:00 +0000",
+            "title": "Daniel Roe"
+        },
+        {
+            "author": "scott@hanselman.com (Scott Hanselman)",
             "content": "<p>Toi B. Wright is an independent consultant who has been working as a software developer for over 25 years. She has a BS in Computer Science and Engineering from the Massachusetts Institute of Technology and an MBA from Carnegie Mellon. She is the author of two editions of \u00a0'Blazor WebAssembly by Example: A project-based guide to building web apps with .NET, Blazor WebAssembly, and C#'.\u00a0</p><ul><li><a href=\"https://www.amazon.com/Blazor-WebAssembly-Example-practical-projects/dp/1803241853\">https://www.amazon.com/Blazor-WebAssembly-Example-practical-projects/dp/1803241853</a></li></ul>\n",
             "content:encoded": "<p>Toi B. Wright is an independent consultant who has been working as a software developer for over 25 years. She has a BS in Computer Science and Engineering from the Massachusetts Institute of Technology and an MBA from Carnegie Mellon. She is the author of two editions of \u00a0'Blazor WebAssembly by Example: A project-based guide to building web apps with .NET, Blazor WebAssembly, and C#'.\u00a0</p><ul><li><a href=\"https://www.amazon.com/Blazor-WebAssembly-Example-practical-projects/dp/1803241853\">https://www.amazon.com/Blazor-WebAssembly-Example-practical-projects/dp/1803241853</a></li></ul>\n",
             "content:encodedSnippet": "Toi B. Wright is an independent consultant who has been working as a software developer for over 25 years. She has a BS in Computer Science and Engineering from the Massachusetts Institute of Technology and an MBA from Carnegie Mellon. She is the author of two editions of \u00a0'Blazor WebAssembly by Example: A project-based guide to building web apps with .NET, Blazor WebAssembly, and C#'.\u00a0\n\nhttps://www.amazon.com/Blazor-WebAssembly-Example-practical-projects/dp/1803241853",
@@ -14927,34 +14953,6 @@
         },
         {
             "author": "scott@hanselman.com (Scott Hanselman)",
-            "content": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
-            "content:encoded": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
-            "content:encodedSnippet": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?",
-            "contentSnippet": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?",
-            "creator": "scott@hanselman.com (Scott Hanselman)",
-            "enclosure": {
-                "length": "31814349",
-                "type": "audio/mpeg",
-                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/f239e3a2_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-            },
-            "guid": "http://www.hanselminutes.com/default.aspx?ShowID=380",
-            "isoDate": "2013-02-08T04:00:00.000Z",
-            "itunes": {
-                "author": "Scott Hanselman",
-                "duration": "00:33:07",
-                "episode": "358",
-                "episodeType": "full",
-                "explicit": "no",
-                "image": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/3000x3000/1519423024artwork.jpg?aid=rss_feed",
-                "subtitle": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
-                "summary": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n"
-            },
-            "link": "https://www.hanselminutes.com",
-            "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
-            "title": "Halo 4 - Services in Azure with Caitie McCaffrey"
-        },
-        {
-            "author": "scott@hanselman.com (Scott Hanselman)",
             "content": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
             "content:encoded": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
             "content:encodedSnippet": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.",
@@ -14980,6 +14978,34 @@
             "link": "https://www.hanselminutes.com",
             "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
             "title": "Git support within Visual Studio"
+        },
+        {
+            "author": "scott@hanselman.com (Scott Hanselman)",
+            "content": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
+            "content:encoded": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
+            "content:encodedSnippet": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?",
+            "contentSnippet": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?",
+            "creator": "scott@hanselman.com (Scott Hanselman)",
+            "enclosure": {
+                "length": "31814349",
+                "type": "audio/mpeg",
+                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/f239e3a2_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+            },
+            "guid": "http://www.hanselminutes.com/default.aspx?ShowID=380",
+            "isoDate": "2013-02-08T04:00:00.000Z",
+            "itunes": {
+                "author": "Scott Hanselman",
+                "duration": "00:33:07",
+                "episode": "358",
+                "episodeType": "full",
+                "explicit": "no",
+                "image": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/3000x3000/1519423024artwork.jpg?aid=rss_feed",
+                "subtitle": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
+                "summary": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n"
+            },
+            "link": "https://www.hanselminutes.com",
+            "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
+            "title": "Halo 4 - Services in Azure with Caitie McCaffrey"
         },
         {
             "author": "scott@hanselman.com (Scott Hanselman)",
@@ -22372,34 +22398,6 @@
             "link": "https://www.hanselminutes.com",
             "pubDate": "Fri, 7 Dec 2007 00:06:03 +0000",
             "title": "Eclipse with Bjorn Freeman-Benson"
-        },
-        {
-            "author": "scott@hanselman.com (Scott Hanselman)",
-            "content": "<p>Scott gets the scoop on software architecture with developer and author Dan Appleman.</p>\n",
-            "content:encoded": "<p>Scott gets the scoop on software architecture with developer and author Dan Appleman.</p>\n",
-            "content:encodedSnippet": "Scott gets the scoop on software architecture with developer and author Dan Appleman.",
-            "contentSnippet": "Scott gets the scoop on software architecture with developer and author Dan Appleman.",
-            "creator": "scott@hanselman.com (Scott Hanselman)",
-            "enclosure": {
-                "length": "20854781",
-                "type": "audio/mpeg",
-                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/46f3b091-be31-491a-8baa-ff1d81db39a5/7e1adfc6_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-            },
-            "guid": "http://www.hanselminutes.com/default.aspx?ShowID=108",
-            "isoDate": "2007-11-30T02:55:08.000Z",
-            "itunes": {
-                "author": "Scott Hanselman",
-                "duration": "00:28:56",
-                "episode": "90",
-                "episodeType": "full",
-                "explicit": "no",
-                "image": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/46f3b091-be31-491a-8baa-ff1d81db39a5/3000x3000/1519420578artwork.jpg?aid=rss_feed",
-                "subtitle": "Scott gets the scoop on software architecture with developer and author Dan Appleman.\n\n",
-                "summary": "Scott gets the scoop on software architecture with developer and author Dan Appleman.\n\n"
-            },
-            "link": "https://www.hanselminutes.com",
-            "pubDate": "Fri, 30 Nov 2007 02:55:08 +0000",
-            "title": "Software Architecture with Dan Appleman"
         }
     ],
     "itunes": {
@@ -22439,7 +22437,7 @@
         "summary": "Hanselminutes is Fresh Air for Developers. A weekly commute-time podcast that promotes fresh technology and fresh voices. Talk and Tech for Developers, Life-long Learners, and Technologists."
     },
     "language": "en-us",
-    "lastBuildDate": "Thu, 18 May 2023 22:38:44 +0000",
+    "lastBuildDate": "Thu, 25 May 2023 21:00:11 +0000",
     "link": "https://www.hanselminutes.com",
     "paginationLinks": {
         "self": "https://feeds.simplecast.com/gvtxUiIf"
@@ -22452,6 +22450,6 @@
         "848C89",
         "84848C"
     ],
-    "pubDate": "Thu, 18 May 2023 21:00:00 +0000",
+    "pubDate": "Thu, 25 May 2023 21:00:00 +0000",
     "title": "Hanselminutes with Scott Hanselman"
 }
