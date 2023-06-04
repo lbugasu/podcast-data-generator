@@ -10,6 +10,32 @@
     },
     "items": [
         {
+            "content": "What do you do if your computer dies? Chris applies to work at Luro, Dave applies at CodePen, Dave's Zod curious, TypeScript, sorting out a 10MB blog post, and how much do you miss jQuery?",
+            "content:encoded": "What do you do if your computer dies? Chris applies to work at Luro, Dave applies at CodePen, Dave's Zod curious, TypeScript, sorting out a 10MB blog post, and how much do you miss jQuery?",
+            "content:encodedSnippet": "What do you do if your computer dies? Chris applies to work at Luro, Dave applies at CodePen, Dave's Zod curious, TypeScript, sorting out a 10MB blog post, and how much do you miss jQuery?",
+            "contentSnippet": "What do you do if your computer dies? Chris applies to work at Luro, Dave applies at CodePen, Dave's Zod curious, TypeScript, sorting out a 10MB blog post, and how much do you miss jQuery?",
+            "creator": "ShopTalk",
+            "dc:creator": "ShopTalk",
+            "enclosure": {
+                "length": "58477789",
+                "type": "audio/mpeg",
+                "url": "https://shoptalkshow.com/podcast-download/6838/567.mp3?nocache"
+            },
+            "guid": "https://shoptalkshow.com/?p=6838",
+            "isoDate": "2023-05-29T09:00:16.000Z",
+            "itunes": {
+                "author": "ShopTalk",
+                "duration": "01:00:39",
+                "explicit": "clean",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2023/05/CleanShot-2023-05-19-at-11.17.24@2x.png?fit=512%2C746&ssl=1",
+                "subtitle": "What do you do if your computer dies? Chris applies to work at Luro, Dave applies at CodePen, Daves Zod curious, TypeScript, sorting out a 10MB blog post, and how much do you miss jQuery?",
+                "summary": "What do you do if your computer dies? Chris applies to work at Luro, Dave applies at CodePen, Dave's Zod curious, TypeScript, sorting out a 10MB blog post, and how much do you miss jQuery?"
+            },
+            "link": "https://shoptalkshow.com/567/",
+            "pubDate": "Mon, 29 May 2023 09:00:16 +0000",
+            "title": "567: Full Stack Dev, Load Bearing Developer, and Being Zod Curious"
+        },
+        {
             "content": "How should a podcast start? Talking View transitions, Google's Baseline, Passkeys, how to start a company, and ordering a spicy chicken combo at Wendy's.",
             "content:encoded": "How should a podcast start? Talking View transitions, Google's Baseline, Passkeys, how to start a company, and ordering a spicy chicken combo at Wendy's.",
             "content:encodedSnippet": "How should a podcast start? Talking View transitions, Google's Baseline, Passkeys, how to start a company, and ordering a spicy chicken combo at Wendy's.",
@@ -2571,32 +2597,6 @@
             "link": "https://shoptalkshow.com/468/",
             "pubDate": "Mon, 21 Jun 2021 13:00:52 +0000",
             "title": "468: Is Sass Still Cool? Animation vs Transition, Animated Tables, and Dark Mode in Email"
-        },
-        {
-            "content": "Where are my paaaants? What to do with new frameworks? What to do with new React? Building in Astro. And WWDC 2021 reactions.",
-            "content:encoded": "Where are my paaaants? What to do with new frameworks? What to do with new React? Building in Astro. And WWDC 2021 reactions.",
-            "content:encodedSnippet": "Where are my paaaants? What to do with new frameworks? What to do with new React? Building in Astro. And WWDC 2021 reactions.",
-            "contentSnippet": "Where are my paaaants? What to do with new frameworks? What to do with new React? Building in Astro. And WWDC 2021 reactions.",
-            "creator": "ShopTalk",
-            "dc:creator": "ShopTalk",
-            "enclosure": {
-                "length": "28203169",
-                "type": "audio/mpeg",
-                "url": "https://shoptalkshow.com/podcast-download/4820/467.mp3"
-            },
-            "guid": "https://shoptalkshow.com/?p=4820",
-            "isoDate": "2021-06-14T13:02:10.000Z",
-            "itunes": {
-                "author": "ShopTalk",
-                "duration": "00:58:14",
-                "explicit": "clean",
-                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2020/05/chris-and-dave_otspfa.jpg?fit=1065%2C804&ssl=1",
-                "subtitle": "Where are my paaaants? What to do with new frameworks? What to do with new React? Building in Astro. And WWDC 2021 reactions.",
-                "summary": "Where are my paaaants? What to do with new frameworks? What to do with new React? Building in Astro. And WWDC 2021 reactions."
-            },
-            "link": "https://shoptalkshow.com/467/",
-            "pubDate": "Mon, 14 Jun 2021 13:02:10 +0000",
-            "title": "467: New Frameworks, Astro, New React, and WWDC 21 Thoughts"
         }
     ],
     "itunes": {
@@ -2611,7 +2611,7 @@
         "summary": "A live podcast about front end web design and UX."
     },
     "language": "en-US",
-    "lastBuildDate": "Mon, 22 May 2023 07:21:58 +0000",
+    "lastBuildDate": "Mon, 29 May 2023 09:00:16 +0000",
     "link": "https://shoptalkshow.com/",
     "paginationLinks": {
         "self": "https://shoptalkshow.com/feed/podcast/"
