@@ -10,6 +10,62 @@
     },
     "items": [
         {
+            "author": "steph@editaud.io (Ben Popper, Christopher Thielan, Josh Schaffer)",
+            "content": "<p>Our guests today are <a href=\"https://www.linkedin.com/in/christopherthielen/\">Christopher Thielen</a>, product manager for languages and frameworks at Apple, and <a href=\"https://twitter.com/joshshaffer?lang=en\">Josh Shaffer</a>, a Senior Director of Software at Apple with a focus on Swift frameworks.\u00a0</p><p>We discuss the introduction of <a href=\"https://developer.apple.com/videos/play/wwdc2023/10166/\">Swift Macros</a>, improving widgets with<a href=\"https://developer.apple.com/videos/play/wwdc2023/10103/\"> App Intents</a>, and some of the new paradigms for <a href=\"https://developer.apple.com/videos/play/wwdc2023/10073/\">crafting apps in visionOS</a>.</p><p>If you want to get the full picture of all the updates Apple announced for software developers, you can watch this year\u2019s <a href=\"https://developer.apple.com/videos/play/wwdc2023/102/\">State of the Union</a> or dive into particulars with <a href=\"https://developer.apple.com/videos/wwdc2023/\">175 different videos</a> focused on key elements of the announcements.</p>\n",
+            "content:encoded": "<p>Our guests today are <a href=\"https://www.linkedin.com/in/christopherthielen/\">Christopher Thielen</a>, product manager for languages and frameworks at Apple, and <a href=\"https://twitter.com/joshshaffer?lang=en\">Josh Shaffer</a>, a Senior Director of Software at Apple with a focus on Swift frameworks.\u00a0</p><p>We discuss the introduction of <a href=\"https://developer.apple.com/videos/play/wwdc2023/10166/\">Swift Macros</a>, improving widgets with<a href=\"https://developer.apple.com/videos/play/wwdc2023/10103/\"> App Intents</a>, and some of the new paradigms for <a href=\"https://developer.apple.com/videos/play/wwdc2023/10073/\">crafting apps in visionOS</a>.</p><p>If you want to get the full picture of all the updates Apple announced for software developers, you can watch this year\u2019s <a href=\"https://developer.apple.com/videos/play/wwdc2023/102/\">State of the Union</a> or dive into particulars with <a href=\"https://developer.apple.com/videos/wwdc2023/\">175 different videos</a> focused on key elements of the announcements.</p>\n",
+            "content:encodedSnippet": "Our guests today are Christopher Thielen, product manager for languages and frameworks at Apple, and Josh Shaffer, a Senior Director of Software at Apple with a focus on Swift frameworks.\u00a0\nWe discuss the introduction of Swift Macros, improving widgets with App Intents, and some of the new paradigms for crafting apps in visionOS.\nIf you want to get the full picture of all the updates Apple announced for software developers, you can watch this year\u2019s State of the Union or dive into particulars with 175 different videos focused on key elements of the announcements.",
+            "contentSnippet": "Our guests today are Christopher Thielen, product manager for languages and frameworks at Apple, and Josh Shaffer, a Senior Director of Software at Apple with a focus on Swift frameworks.\u00a0\nWe discuss the introduction of Swift Macros, improving widgets with App Intents, and some of the new paradigms for crafting apps in visionOS.\nIf you want to get the full picture of all the updates Apple announced for software developers, you can watch this year\u2019s State of the Union or dive into particulars with 175 different videos focused on key elements of the announcements.",
+            "creator": "steph@editaud.io (Ben Popper, Christopher Thielan, Josh Schaffer)",
+            "enclosure": {
+                "length": "21396910",
+                "type": "audio/mpeg",
+                "url": "https://chrt.fm/track/G8F1AF/afp-71129-injected.calisto.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/514cabed-a6da-4ee1-99c0-eb94c164f2e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=514cabed-a6da-4ee1-99c0-eb94c164f2e3&feed=XA_851k3"
+            },
+            "guid": "ea2ecd5a-35e0-4fd3-bd39-e862063c6d49",
+            "isoDate": "2023-06-09T04:20:00.000Z",
+            "itunes": {
+                "author": "Ben Popper, Christopher Thielan, Josh Schaffer",
+                "duration": "00:22:17",
+                "episode": "590",
+                "episodeType": "full",
+                "explicit": "no",
+                "keywords": "wwdc, swift, visionos, apple",
+                "subtitle": "Today is a special episode recorded at Apple\u2019s campus in Cupertino as part of this year\u2019s WWDC. We got the chance to sit down with the folks who help to build Apple\u2019s developer tools and discuss their newest releases, plus a hint of how they hope developers will create apps for their new headset and the world of spatial computing.",
+                "summary": "Today is a special episode recorded at Apple\u2019s campus in Cupertino as part of this year\u2019s WWDC. We got the chance to sit down with the folks who help to build Apple\u2019s developer tools and discuss their newest releases, plus a hint of how they hope developers will create apps for their new headset and the world of spatial computing."
+            },
+            "link": "https://stackoverflow.blog/podcast/",
+            "pubDate": "Fri, 9 Jun 2023 04:20:00 +0000",
+            "title": "Chatting with Apple at WWDC: Macros in Swift and the new visionOS"
+        },
+        {
+            "author": "steph@editaud.io (Ben Popper, Ryan, Jonathan Frankle, Abhinav Venigalla)",
+            "content": "<p><a href=\"https://www.mosaicml.com/\">MosaicML</a> is a platform for training and deploying large AI models at scale. Explore their <a href=\"https://docs.mosaicml.com/en/latest/\">docs</a>, check out their <a href=\"https://www.mosaicml.com/blog\">blog</a>, and keep an eye on their <a href=\"https://www.mosaicml.com/careers\">open roles</a>.</p><p><a href=\"http://www.jfrankle.com/\">Jonathan Frankle</a> is the Chief Scientist at MosaicML and an incoming Assistant Professor of Computer Science at Harvard.</p><p><a href=\"https://www.linkedin.com/in/avenigalla/\">Abhinav Venigalla</a> is the NLP Architect at MosaicML.</p><p>Today\u2019s <a href=\"https://stackoverflow.com/help/badges/8842/lifeboat\">Lifeboat badge</a> winner is <a href=\"https://stackoverflow.com/users/2278676/singmotor\">singmotor</a> for rescuing <a href=\"https://stackoverflow.com/questions/45515031/how-to-remove-columns-with-too-many-missing-values-in-python#:~:text=You%20can%20use%20Pandas'%20dropna().\">How to remove columns with too many missing values in Python</a> from the dustbin of history.</p>\n",
+            "content:encoded": "<p><a href=\"https://www.mosaicml.com/\">MosaicML</a> is a platform for training and deploying large AI models at scale. Explore their <a href=\"https://docs.mosaicml.com/en/latest/\">docs</a>, check out their <a href=\"https://www.mosaicml.com/blog\">blog</a>, and keep an eye on their <a href=\"https://www.mosaicml.com/careers\">open roles</a>.</p><p><a href=\"http://www.jfrankle.com/\">Jonathan Frankle</a> is the Chief Scientist at MosaicML and an incoming Assistant Professor of Computer Science at Harvard.</p><p><a href=\"https://www.linkedin.com/in/avenigalla/\">Abhinav Venigalla</a> is the NLP Architect at MosaicML.</p><p>Today\u2019s <a href=\"https://stackoverflow.com/help/badges/8842/lifeboat\">Lifeboat badge</a> winner is <a href=\"https://stackoverflow.com/users/2278676/singmotor\">singmotor</a> for rescuing <a href=\"https://stackoverflow.com/questions/45515031/how-to-remove-columns-with-too-many-missing-values-in-python#:~:text=You%20can%20use%20Pandas'%20dropna().\">How to remove columns with too many missing values in Python</a> from the dustbin of history.</p>\n",
+            "content:encodedSnippet": "MosaicML is a platform for training and deploying large AI models at scale. Explore their docs, check out their blog, and keep an eye on their open roles.\nJonathan Frankle is the Chief Scientist at MosaicML and an incoming Assistant Professor of Computer Science at Harvard.\nAbhinav Venigalla is the NLP Architect at MosaicML.\nToday\u2019s Lifeboat badge winner is singmotor for rescuing How to remove columns with too many missing values in Python from the dustbin of history.",
+            "contentSnippet": "MosaicML is a platform for training and deploying large AI models at scale. Explore their docs, check out their blog, and keep an eye on their open roles.\nJonathan Frankle is the Chief Scientist at MosaicML and an incoming Assistant Professor of Computer Science at Harvard.\nAbhinav Venigalla is the NLP Architect at MosaicML.\nToday\u2019s Lifeboat badge winner is singmotor for rescuing How to remove columns with too many missing values in Python from the dustbin of history.",
+            "creator": "steph@editaud.io (Ben Popper, Ryan, Jonathan Frankle, Abhinav Venigalla)",
+            "enclosure": {
+                "length": "23371541",
+                "type": "audio/mpeg",
+                "url": "https://chrt.fm/track/G8F1AF/afp-71129-injected.calisto.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/b3937af0-c0a3-4434-b39c-e1f5da9fc0e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=b3937af0-c0a3-4434-b39c-e1f5da9fc0e0&feed=XA_851k3"
+            },
+            "guid": "dd90b9f1-ad4f-49d4-91b0-8b0317eb4a2c",
+            "isoDate": "2023-06-06T04:20:00.000Z",
+            "itunes": {
+                "author": "Ben Popper, Ryan, Jonathan Frankle, Abhinav Venigalla",
+                "duration": "00:24:20",
+                "episode": "589",
+                "episodeType": "full",
+                "explicit": "no",
+                "keywords": "deep learning, ml, machine learning, ai, generative ai",
+                "subtitle": "Ben and Ryan talk with Jonathan Frankle and Abhinav Venigalla of MosaicML, a startup trying to make artificial intelligence efficient and accessible for everyone by lowering the cost, time, and complexity it takes to train a powerful AI model.",
+                "summary": "Ben and Ryan talk with Jonathan Frankle and Abhinav Venigalla of MosaicML, a startup trying to make artificial intelligence efficient and accessible for everyone by lowering the cost, time, and complexity it takes to train a powerful AI model."
+            },
+            "link": "https://stackoverflow.blog/podcast/",
+            "pubDate": "Tue, 6 Jun 2023 04:20:00 +0000",
+            "title": "MosaicML: Deep learning models for sale, all shapes and sizes"
+        },
+        {
             "author": "steph@editaud.io (Cameron Wolfe, Ben Popper)",
             "content": "<p><a href=\"https://www.rebuyengine.com/\">Rebuy</a> is an AI-powered personalization platform. Check out their <a href=\"https://developers.rebuyengine.com/?_gl=1*1jh9hpw*_ga*MjE5Nzc0NDk3LjE2ODU2MzY3ODE.*_ga_NWFKP632JQ*MTY4NTYzNjc4MC4xLjEuMTY4NTYzNjgzMC4xMC4wLjA.\">developer hub</a>, explore <a href=\"https://www.rebuyengine.com/case-studies\">case studies</a>, or keep up with their <a href=\"https://www.rebuyengine.com/blog\">blog</a>.</p><p>Cameron is a PhD student in computer science and member of the <a href=\"https://csweb.rice.edu/news/optimalab-team-improves-neural-network-training-nsf-intel-grant\">OptimaLab</a> at Rice University.\u00a0</p><p><a href=\"https://www.fastcompany.com/90880294/auto-gpt-and-babyagi-how-autonomous-agents-are-bringing-generative-ai-to-the-masses\">Autonomous agents</a> are AI-powered programs that can create tasks for themselves in response to a given objective. They \u201ccan create tasks for themselves, complete tasks, create new tasks, reprioritize their task list, complete the new top task, and loop until their objective is reached,\u201d according to one <a href=\"https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents\">beginner\u2019s guide</a> to autonomous agents.</p><p>Follow Cameron\u2019s work on <a href=\"https://twitter.com/cwolferesearch\">Twitter</a> or <a href=\"https://cameronrwolfe.substack.com/\">Substack</a>, or <a href=\"https://cameronrwolfe.me/\">his website</a>. Read his publications <a href=\"https://cameronrwolfe.me/publications\">here</a>.</p><p>This week\u2019s <a href=\"https://stackoverflow.com/help/badges/8842/lifeboat\">Lifeboat badge</a> honoree is <a href=\"https://stackoverflow.com/users/2836621/mark-setchell\">Mark Setchell</a> for sharing their knowledge with the world: <a href=\"https://stackoverflow.com/questions/25052317/i-need-to-convert-a-fixed-width-file-to-comma-delimited-in-unix\">I need to convert a fixed-width file to 'comma-delimited' in Unix</a>.</p>\n",
             "content:encoded": "<p><a href=\"https://www.rebuyengine.com/\">Rebuy</a> is an AI-powered personalization platform. Check out their <a href=\"https://developers.rebuyengine.com/?_gl=1*1jh9hpw*_ga*MjE5Nzc0NDk3LjE2ODU2MzY3ODE.*_ga_NWFKP632JQ*MTY4NTYzNjc4MC4xLjEuMTY4NTYzNjgzMC4xMC4wLjA.\">developer hub</a>, explore <a href=\"https://www.rebuyengine.com/case-studies\">case studies</a>, or keep up with their <a href=\"https://www.rebuyengine.com/blog\">blog</a>.</p><p>Cameron is a PhD student in computer science and member of the <a href=\"https://csweb.rice.edu/news/optimalab-team-improves-neural-network-training-nsf-intel-grant\">OptimaLab</a> at Rice University.\u00a0</p><p><a href=\"https://www.fastcompany.com/90880294/auto-gpt-and-babyagi-how-autonomous-agents-are-bringing-generative-ai-to-the-masses\">Autonomous agents</a> are AI-powered programs that can create tasks for themselves in response to a given objective. They \u201ccan create tasks for themselves, complete tasks, create new tasks, reprioritize their task list, complete the new top task, and loop until their objective is reached,\u201d according to one <a href=\"https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents\">beginner\u2019s guide</a> to autonomous agents.</p><p>Follow Cameron\u2019s work on <a href=\"https://twitter.com/cwolferesearch\">Twitter</a> or <a href=\"https://cameronrwolfe.substack.com/\">Substack</a>, or <a href=\"https://cameronrwolfe.me/\">his website</a>. Read his publications <a href=\"https://cameronrwolfe.me/publications\">here</a>.</p><p>This week\u2019s <a href=\"https://stackoverflow.com/help/badges/8842/lifeboat\">Lifeboat badge</a> honoree is <a href=\"https://stackoverflow.com/users/2836621/mark-setchell\">Mark Setchell</a> for sharing their knowledge with the world: <a href=\"https://stackoverflow.com/questions/25052317/i-need-to-convert-a-fixed-width-file-to-comma-delimited-in-unix\">I need to convert a fixed-width file to 'comma-delimited' in Unix</a>.</p>\n",
@@ -16365,7 +16421,7 @@
         "summary": "For more than a dozen years, the Stack Overflow Podcast has been exploring what it means to be a developer and how the art and practice of software programming is changing our world. From Rails to React, from Java to Node.js, we host important conversations and fascinating guests that will help you understand how technology is made and where it\u2019s headed. Hosted by Ben Popper, Cassidy Williams, and Ceora Ford, the Stack Overflow Podcast is your home for all things code."
     },
     "language": "en",
-    "lastBuildDate": "Fri, 2 Jun 2023 04:20:11 +0000",
+    "lastBuildDate": "Fri, 9 Jun 2023 04:20:12 +0000",
     "link": "https://stackoverflow.blog/podcast/",
     "paginationLinks": {
         "self": "https://feeds.simplecast.com/XA_851k3"
@@ -16378,6 +16434,6 @@
         "E66395",
         "8C889A"
     ],
-    "pubDate": "Fri, 2 Jun 2023 04:20:00 +0000",
+    "pubDate": "Fri, 9 Jun 2023 04:20:00 +0000",
     "title": "The Stack Overflow Podcast"
 }
