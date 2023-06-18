@@ -368,6 +368,15 @@
     ],
     "itunes": {
         "author": "BBC Radio 5 live",
+        "categories": [
+            "News"
+        ],
+        "categoriesWithSubs": [
+            {
+                "name": "News",
+                "subs": null
+            }
+        ],
         "explicit": "no",
         "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p07ns5fn.jpg",
         "owner": {
