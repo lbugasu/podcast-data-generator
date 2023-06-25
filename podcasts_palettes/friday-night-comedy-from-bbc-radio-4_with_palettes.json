@@ -9,6 +9,27 @@
     },
     "items": [
         {
+            "content": "Andy Zaltzman quizzes the week's news.",
+            "contentSnippet": "Andy Zaltzman quizzes the week's news.",
+            "enclosure": {
+                "length": "26704000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0fqnzqf.mp3"
+            },
+            "guid": "urn:bbc:podcast:p0fnmnpk",
+            "isoDate": "2023-06-23T18:01:00.000Z",
+            "itunes": {
+                "author": "BBC Radio 4",
+                "duration": "1669",
+                "explicit": "clean",
+                "subtitle": "Andy Zaltzman quizzes the week's news.",
+                "summary": "Andy Zaltzman quizzes the week's news."
+            },
+            "link": "http://www.bbc.co.uk/programmes/p0fnmnpk",
+            "pubDate": "Fri, 23 Jun 2023 18:01:00 +0000",
+            "title": "The News Quiz - 26th May"
+        },
+        {
             "content": "Topical panel quiz show, taking its questions from the week's news stories.",
             "contentSnippet": "Topical panel quiz show, taking its questions from the week's news stories.",
             "enclosure": {
@@ -3548,6 +3569,6 @@
         "0C5B43",
         "724D94"
     ],
-    "pubDate": "Fri, 16 Jun 2023 18:01:00 +0000",
+    "pubDate": "Fri, 23 Jun 2023 18:01:00 +0000",
     "title": "Friday Night Comedy from BBC Radio 4"
 }

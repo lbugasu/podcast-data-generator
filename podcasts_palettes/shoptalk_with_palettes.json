@@ -2,13 +2,39 @@
     "copyright": "\u00a9 2021 ShopTalk",
     "description": "A live podcast about front end web design and UX.",
     "feedUrl": "https://shoptalkshow.com/feed/podcast/",
-    "generator": "https://wordpress.org/?v=6.1.3",
+    "generator": "https://wordpress.org/?v=6.2.2",
     "image": {
         "link": "https://shoptalkshow.com/",
         "title": "ShopTalk",
         "url": "https://shoptalkshow.com/wp-content/uploads/2021/02/artwork.png"
     },
     "items": [
+        {
+            "content": "We're talking Dave's new haircut, playing Hondo, what Dave uses for images on his bookshelf page, lazy-loading thoughts, vh vw follow up, eyeball tracking updates, loading website with js, Vue transitions, charging for API access, and do you cross post, one post, or no post on social media in 2023?",
+            "content:encoded": "We're talking Dave's new haircut, playing Hondo, what Dave uses for images on his bookshelf page, lazy-loading thoughts, vh vw follow up, eyeball tracking updates, loading website with js, Vue transitions, charging for API access, and do you cross post, one post, or no post on social media in 2023?",
+            "content:encodedSnippet": "We're talking Dave's new haircut, playing Hondo, what Dave uses for images on his bookshelf page, lazy-loading thoughts, vh vw follow up, eyeball tracking updates, loading website with js, Vue transitions, charging for API access, and do you cross post, one post, or no post on social media in 2023?",
+            "contentSnippet": "We're talking Dave's new haircut, playing Hondo, what Dave uses for images on his bookshelf page, lazy-loading thoughts, vh vw follow up, eyeball tracking updates, loading website with js, Vue transitions, charging for API access, and do you cross post, one post, or no post on social media in 2023?",
+            "creator": "ShopTalk",
+            "dc:creator": "ShopTalk",
+            "enclosure": {
+                "length": "54440342",
+                "type": "audio/mpeg",
+                "url": "https://shoptalkshow.com/podcast-download/6888/570.mp3?nocache"
+            },
+            "guid": "https://shoptalkshow.com/?p=6888",
+            "isoDate": "2023-06-19T08:00:42.000Z",
+            "itunes": {
+                "author": "ShopTalk",
+                "duration": "00:56:27",
+                "explicit": "clean",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2023/06/Daves-new-haircut.jpeg?fit=1536%2C2048&ssl=1",
+                "subtitle": "Were talking Daves new haircut, playing Hondo, what Dave uses for images on his bookshelf page, lazy-loading thoughts, vh vw follow up, eyeball tracking updates, loading website with js, Vue transitions, charging for API access, and do you cross post, on",
+                "summary": "We're talking Dave's new haircut, playing Hondo, what Dave uses for images on his bookshelf page, lazy-loading thoughts, vh vw follow up, eyeball tracking updates, loading website with js, Vue transitions, charging for API access, and do you cross post, one post, or no post on social media in 2023?"
+            },
+            "link": "https://shoptalkshow.com/570/",
+            "pubDate": "Mon, 19 Jun 2023 08:00:42 +0000",
+            "title": "570: Haircut Maintenance, Dave\u2019s Bookshelf, Lazy Loading, and APIs"
+        },
         {
             "content": "How do you point out things in a UI? Are Arc Boosts the end of the web? What do you think of VR and AR / Vision Pro and Meta Quest? And what do you do when the sticky header goes missing?",
             "content:encoded": "How do you point out things in a UI? Are Arc Boosts the end of the web? What do you think of VR and AR / Vision Pro and Meta Quest? And what do you do when the sticky header goes missing?",
@@ -2570,32 +2596,6 @@
             "link": "https://shoptalkshow.com/471/",
             "pubDate": "Mon, 12 Jul 2021 13:00:53 +0000",
             "title": "471: Perf as a Job, Riverside vs Streamyard, Frontend Being Consumed, and How Much to Bill Clients"
-        },
-        {
-            "content": "Do you drive or fly in 2021? How do you explain the Shadow DOM? What's LayoutNG? How do iFrames and Accessibility work out? Should we be using CSS Prefers Reduced Motion? And what's up with the Web Animation API?",
-            "content:encoded": "Do you drive or fly in 2021? How do you explain the Shadow DOM? What's LayoutNG? How do iFrames and Accessibility work out? Should we be using CSS Prefers Reduced Motion? And what's up with the Web Animation API?",
-            "content:encodedSnippet": "Do you drive or fly in 2021? How do you explain the Shadow DOM? What's LayoutNG? How do iFrames and Accessibility work out? Should we be using CSS Prefers Reduced Motion? And what's up with the Web Animation API?",
-            "contentSnippet": "Do you drive or fly in 2021? How do you explain the Shadow DOM? What's LayoutNG? How do iFrames and Accessibility work out? Should we be using CSS Prefers Reduced Motion? And what's up with the Web Animation API?",
-            "creator": "ShopTalk",
-            "dc:creator": "ShopTalk",
-            "enclosure": {
-                "length": "27032954",
-                "type": "audio/mpeg",
-                "url": "https://shoptalkshow.com/podcast-download/4875/470.mp3"
-            },
-            "guid": "https://shoptalkshow.com/?p=4875",
-            "isoDate": "2021-07-05T13:00:29.000Z",
-            "itunes": {
-                "author": "ShopTalk",
-                "duration": "00:55:47",
-                "explicit": "clean",
-                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2020/05/chris-and-dave_otspfa.jpg?fit=1065%2C804&ssl=1",
-                "subtitle": "Do you drive or fly in 2021? How do you explain the Shadow DOM? Whats LayoutNG? How do iFrames and Accessibility work out? Should we be using CSS Prefers Reduced Motion? And whats up with the Web Animation API?",
-                "summary": "Do you drive or fly in 2021? How do you explain the Shadow DOM? What's LayoutNG? How do iFrames and Accessibility work out? Should we be using CSS Prefers Reduced Motion? And what's up with the Web Animation API?"
-            },
-            "link": "https://shoptalkshow.com/470/",
-            "pubDate": "Mon, 05 Jul 2021 13:00:29 +0000",
-            "title": "470: Slap a WAAPI, Explaining the Shadow DOM, LayoutNG, iFrames, the Web Animation API"
         }
     ],
     "itunes": {
@@ -2610,7 +2610,7 @@
         "summary": "A live podcast about front end web design and UX."
     },
     "language": "en-US",
-    "lastBuildDate": "Tue, 13 Jun 2023 14:41:11 +0000",
+    "lastBuildDate": "Wed, 21 Jun 2023 17:19:12 +0000",
     "link": "https://shoptalkshow.com/",
     "paginationLinks": {
         "self": "https://shoptalkshow.com/feed/podcast/"
