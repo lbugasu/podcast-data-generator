@@ -1,13 +1,76 @@
 {
     "copyright": "Copyright 2022 NPR - For Personal Use Only",
     "description": "We have reporters on the ground in Ukraine and around the world, bringing you the latest on Russia's war in Ukraine. We'll discuss the conflict's past, its possible future, and what each new development means for the rest of the world.",
-    "generator": "NPR Feed Publish Service v1.13.1",
+    "generator": "NPR Feed Publish Service v1.13.2",
     "image": {
         "link": "https://www.npr.org/podcasts/510366/state-of-ukraine",
         "title": "State of Ukraine",
         "url": "https://media.npr.org/assets/img/2022/09/23/state-of-ukraine_tile_npr-network-01_sq-adc063adbcfa8a6c0ba9e95162d474d4817662ce.jpg?s=1400&c=66&f=jpg"
     },
     "items": [
+        {
+            "content": "Mark Cancian, a retired Marine colonel and a senior advisor at the Center for Strategic and International Studies, gives us his views on how the Ukrainian counteroffensive against Russia is progressing.",
+            "content:encoded": "Mark Cancian, a retired Marine colonel and a senior advisor at the Center for Strategic and International Studies, gives us his views on how the Ukrainian counteroffensive against Russia is progressing.",
+            "content:encodedSnippet": "Mark Cancian, a retired Marine colonel and a senior advisor at the Center for Strategic and International Studies, gives us his views on how the Ukrainian counteroffensive against Russia is progressing.",
+            "contentSnippet": "Mark Cancian, a retired Marine colonel and a senior advisor at the Center for Strategic and International Studies, gives us his views on how the Ukrainian counteroffensive against Russia is progressing.",
+            "enclosure": {
+                "length": "5585233",
+                "type": "audio/mpeg",
+                "url": "https://play.podtrac.com/npr-510366/edge1.pod.npr.org/anon.npr-mp3/npr/ukraine/2023/06/20230629_ukraine_d7206bbd-e651-4fa5-9098-ffe61117696b.mp3?d=349&size=5585233&e=1184914511&t=podcast&p=510366&awEpisodeId=1184914511&awCollectionId=510366"
+            },
+            "guid": "a6eb5358-cd74-4cff-a0f3-ed4fad03b1f5",
+            "isoDate": "2023-06-29T19:25:16.000Z",
+            "itunes": {
+                "duration": "349",
+                "episodeType": "full",
+                "explicit": "no"
+            },
+            "link": "https://www.npr.org/2023/06/28/1184914511/an-analysis-of-the-counteroffensives-progress",
+            "pubDate": "Thu, 29 Jun 2023 19:25:16 +0000",
+            "title": "An analysis of the counteroffensive's progress"
+        },
+        {
+            "content": "NPR Moscow correspondent Charles Maynes explains what we know about the leader of Belarus, Alexander Lukashenko, and his apparently crucial role in ending the crisis in Russia.",
+            "content:encoded": "NPR Moscow correspondent Charles Maynes explains what we know about the leader of Belarus, Alexander Lukashenko, and his apparently crucial role in ending the crisis in Russia.",
+            "content:encodedSnippet": "NPR Moscow correspondent Charles Maynes explains what we know about the leader of Belarus, Alexander Lukashenko, and his apparently crucial role in ending the crisis in Russia.",
+            "contentSnippet": "NPR Moscow correspondent Charles Maynes explains what we know about the leader of Belarus, Alexander Lukashenko, and his apparently crucial role in ending the crisis in Russia.",
+            "enclosure": {
+                "length": "4149961",
+                "type": "audio/mpeg",
+                "url": "https://play.podtrac.com/npr-510366/edge1.pod.npr.org/anon.npr-mp3/npr/ukraine/2023/06/20230628_ukraine_e5d6b7cb-e970-4339-aa76-1850650f653a.mp3?d=259&size=4149961&e=1184900184&t=podcast&p=510366&awEpisodeId=1184900184&awCollectionId=510366"
+            },
+            "guid": "1e291b9b-5cd2-43e6-8a75-118be3259e38",
+            "isoDate": "2023-06-28T20:19:28.000Z",
+            "itunes": {
+                "duration": "259",
+                "episodeType": "full",
+                "explicit": "no"
+            },
+            "link": "https://www.npr.org/2023/06/28/1184900184/the-key-person-in-ending-the-uprising-in-russia",
+            "pubDate": "Wed, 28 Jun 2023 20:19:28 +0000",
+            "title": "The key person in ending the uprising in Russia"
+        },
+        {
+            "content": "We hear from US Senate Intelligence Committee Chairman Mark Warner on the dramatic uprising and then reversal of a mercenary force in Russia.",
+            "content:encoded": "We hear from US Senate Intelligence Committee Chairman Mark Warner on the dramatic uprising and then reversal of a mercenary force in Russia.",
+            "content:encodedSnippet": "We hear from US Senate Intelligence Committee Chairman Mark Warner on the dramatic uprising and then reversal of a mercenary force in Russia.",
+            "contentSnippet": "We hear from US Senate Intelligence Committee Chairman Mark Warner on the dramatic uprising and then reversal of a mercenary force in Russia.",
+            "enclosure": {
+                "length": "4335535",
+                "type": "audio/mpeg",
+                "url": "https://play.podtrac.com/npr-510366/edge1.pod.npr.org/anon.npr-mp3/npr/ukraine/2023/06/20230627_ukraine_88fd38cf-0eec-41f3-947d-4258819270c8.mp3?d=270&size=4335535&e=1184646465&t=podcast&p=510366&awEpisodeId=1184646465&awCollectionId=510366"
+            },
+            "guid": "55465d4f-ff2e-4197-bd23-776752eb34e5",
+            "isoDate": "2023-06-27T19:43:43.000Z",
+            "itunes": {
+                "duration": "270",
+                "episodeType": "full",
+                "explicit": "no"
+            },
+            "link": "https://www.npr.org/2023/06/27/1184646465/the-chair-of-the-us-senate-intelligence-committee-on-the-events-in-russia",
+            "pubDate": "Tue, 27 Jun 2023 19:43:43 +0000",
+            "title": "The chair of the US Senate Intelligence Committee on the events in Russia"
+        },
         {
             "content": "A mercenary leader launched a brief uprising against the Russian military and the authority of Vladimir Putin, taking over a Russian military headquarters and even sending fighters toward Moscow, before later turning them around.  NPR's Charles Maynes in Moscow and Greg Myre in Kyiv tell us about the aftermath of this event in Russia and Ukraine.",
             "content:encoded": "A mercenary leader launched a brief uprising against the Russian military and the authority of Vladimir Putin, taking over a Russian military headquarters and even sending fighters toward Moscow, before later turning them around.  NPR's Charles Maynes in Moscow and Greg Myre in Kyiv tell us about the aftermath of this event in Russia and Ukraine.",
@@ -9953,7 +10016,7 @@
         }
     },
     "language": "en-us",
-    "lastBuildDate": "Mon, 26 Jun 2023 20:48:45 +0000",
+    "lastBuildDate": "Thu, 29 Jun 2023 19:26:20 +0000",
     "link": "https://www.npr.org/podcasts/510366/state-of-ukraine",
     "palette": [
         "F9D456",

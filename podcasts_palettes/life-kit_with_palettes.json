@@ -1,13 +1,36 @@
 {
     "copyright": "Copyright 2019-2021 NPR - For Personal Use Only",
     "description": "Everyone needs a little help being a human. From sleep to saving money to parenting and more, we talk to the experts to get the best advice out there. Life Kit is here to help you get it together.<br><br>Want another life hack? Try Life Kit+. Your subscription supports the show and unlocks an exclusive sponsor-free feed. Learn more at plus.npr.org/lifekit",
-    "generator": "NPR Feed Publish Service v1.13.1",
+    "generator": "NPR Feed Publish Service v1.13.2",
     "image": {
         "link": "https://www.npr.org/podcasts/510338/all-guides",
         "title": "Life Kit",
         "url": "https://media.npr.org/assets/img/2022/09/23/life-kit_tile_npr-network-01_sq-200388bae100cab944ffa3655e7f3119e026d305.jpg?s=1400&c=66&f=jpg"
     },
     "items": [
+        {
+            "content": "Knowing how to swim can help you have fun at the pool or beach this summer. But it could also save your life. Here are some tips to start swimming at any age.",
+            "content:encoded": "Knowing how to swim can help you have fun at the pool or beach this summer. But it could also save your life. Here are some tips to start swimming at any age.",
+            "content:encodedSnippet": "Knowing how to swim can help you have fun at the pool or beach this summer. But it could also save your life. Here are some tips to start swimming at any age.",
+            "contentSnippet": "Knowing how to swim can help you have fun at the pool or beach this summer. But it could also save your life. Here are some tips to start swimming at any age.",
+            "enclosure": {
+                "length": "19305997",
+                "type": "audio/mpeg",
+                "url": "https://play.podtrac.com/npr-510338/edge1.pod.npr.org/anon.npr-mp3/npr/lifekit/2023/06/20230629_lifekit_9c0fe6cf-ab35-4486-bb12-cd31ff5a4e26.mp3?d=1206&size=19305997&e=1184622444&t=podcast&p=510338&awEpisodeId=1184622444&awCollectionId=510338"
+            },
+            "guid": "3bf354e5-3164-4ced-a179-b213ba3fef45",
+            "isoDate": "2023-06-29T04:15:43.000Z",
+            "itunes": {
+                "duration": "1206",
+                "episode": "660",
+                "episodeType": "full",
+                "explicit": "no",
+                "image": "https://media.npr.org/assets/img/2023/06/27/swimming_final_02_wide-a0b5aafdea0d056970b700bbfe37e81add0f290f.jpg?s=1400&c=66&f=jpg"
+            },
+            "link": "https://www.npr.org/2023/06/27/1184622444/how-to-swim",
+            "pubDate": "Thu, 29 Jun 2023 04:15:43 +0000",
+            "title": "It's never too late to become a strong swimmer"
+        },
         {
             "content": "Romance makes us feel vulnerable, and dating can feel high stakes. We talk about how to keep things in perspective and take care of your mental health in relationships.",
             "content:encoded": "Romance makes us feel vulnerable, and dating can feel high stakes. We talk about how to keep things in perspective and take care of your mental health in relationships.",
@@ -14361,7 +14384,7 @@
         }
     },
     "language": "en-us",
-    "lastBuildDate": "Tue, 27 Jun 2023 12:33:36 +0000",
+    "lastBuildDate": "Sat, 01 Jul 2023 14:49:46 +0000",
     "link": "https://www.npr.org/podcasts/510338/all-guides",
     "palette": [
         "FAF3EB",
