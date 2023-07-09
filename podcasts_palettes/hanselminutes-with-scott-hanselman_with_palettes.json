@@ -11,6 +11,34 @@
     "items": [
         {
             "author": "scott@hanselman.com (Scott Hanselman)",
+            "content": "<p>This episode of Hanselminutes is in partnership with the ACM Bytecast podcast! \u00a0In this episode, we have a special guest: Bob Metcalfe, the inventor of Ethernet, co-founder of 3Com, and recipient of the 2022 Turing Award. Bob joins us to share his insights on the history and future of computer networking, and his current work in geothermal power!</p><ul><li><a href=\"https://learning.acm.org/bytecast\">https://learning.acm.org/bytecast\u00a0</a></li></ul>\n",
+            "content:encoded": "<p>This episode of Hanselminutes is in partnership with the ACM Bytecast podcast! \u00a0In this episode, we have a special guest: Bob Metcalfe, the inventor of Ethernet, co-founder of 3Com, and recipient of the 2022 Turing Award. Bob joins us to share his insights on the history and future of computer networking, and his current work in geothermal power!</p><ul><li><a href=\"https://learning.acm.org/bytecast\">https://learning.acm.org/bytecast\u00a0</a></li></ul>\n",
+            "content:encodedSnippet": "This episode of Hanselminutes is in partnership with the ACM Bytecast podcast! \u00a0In this episode, we have a special guest: Bob Metcalfe, the inventor of Ethernet, co-founder of 3Com, and recipient of the 2022 Turing Award. Bob joins us to share his insights on the history and future of computer networking, and his current work in geothermal power!\n\nhttps://learning.acm.org/bytecast",
+            "contentSnippet": "This episode of Hanselminutes is in partnership with the ACM Bytecast podcast! \u00a0In this episode, we have a special guest: Bob Metcalfe, the inventor of Ethernet, co-founder of 3Com, and recipient of the 2022 Turing Award. Bob joins us to share his insights on the history and future of computer networking, and his current work in geothermal power!\n\nhttps://learning.acm.org/bytecast",
+            "creator": "scott@hanselman.com (Scott Hanselman)",
+            "enclosure": {
+                "length": "37065862",
+                "type": "audio/mpeg",
+                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/62971e11-1f71-40df-93f3-5ebbff585b9a/audio/3ed10cdf-c637-424e-99b9-9bfcbef425b5/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+            },
+            "guid": "14c247f6-19e3-4a05-a71e-6c7fe86301d2",
+            "isoDate": "2023-07-06T21:00:00.000Z",
+            "itunes": {
+                "author": "Scott Hanselman",
+                "duration": "00:38:31",
+                "episode": "900",
+                "episodeType": "full",
+                "explicit": "no",
+                "image": "https://image.simplecastcdn.com/images/e464c34b-2f32-411b-bdd2-dcf02e5301eb/ce774584-8d73-4743-8ded-50321dc8d139/3000x3000/900.jpg?aid=rss_feed",
+                "subtitle": "This episode of Hanselminutes is in partnership with the ACM Bytecast podcast!  In this episode, we have a special guest: Bob Metcalfe, the inventor of Ethernet, co-founder of 3Com, and recipient of the 2022 Turing Award. Bob joins us to share his insights on the history and future of computer networking, and his current work in geothermal power!",
+                "summary": "This episode of Hanselminutes is in partnership with the ACM Bytecast podcast!  In this episode, we have a special guest: Bob Metcalfe, the inventor of Ethernet, co-founder of 3Com, and recipient of the 2022 Turing Award. Bob joins us to share his insights on the history and future of computer networking, and his current work in geothermal power!"
+            },
+            "link": "https://www.hanselminutes.com",
+            "pubDate": "Thu, 6 Jul 2023 21:00:00 +0000",
+            "title": "From Ethernet to Geothermal Energy with Bob Metcalfe"
+        },
+        {
+            "author": "scott@hanselman.com (Scott Hanselman)",
             "content": "\n",
             "contentSnippet": "",
             "creator": "scott@hanselman.com (Scott Hanselman)",
@@ -15093,34 +15121,6 @@
         },
         {
             "author": "scott@hanselman.com (Scott Hanselman)",
-            "content": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
-            "content:encoded": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
-            "content:encodedSnippet": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.",
-            "contentSnippet": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.",
-            "creator": "scott@hanselman.com (Scott Hanselman)",
-            "enclosure": {
-                "length": "35504018",
-                "type": "audio/mpeg",
-                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/ada6609b-9aaa-4afa-87e1-1d89501e17a8/1f7fe125_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-            },
-            "guid": "http://www.hanselminutes.com/default.aspx?ShowID=379",
-            "isoDate": "2013-02-08T04:00:00.000Z",
-            "itunes": {
-                "author": "Scott Hanselman",
-                "duration": "00:36:53",
-                "episode": "359",
-                "episodeType": "full",
-                "explicit": "no",
-                "image": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/ada6609b-9aaa-4afa-87e1-1d89501e17a8/3000x3000/1519423177artwork.jpg?aid=rss_feed",
-                "subtitle": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.\n\n",
-                "summary": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.\n\n"
-            },
-            "link": "https://www.hanselminutes.com",
-            "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
-            "title": "Git support within Visual Studio"
-        },
-        {
-            "author": "scott@hanselman.com (Scott Hanselman)",
             "content": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
             "content:encoded": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
             "content:encodedSnippet": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?",
@@ -15146,6 +15146,34 @@
             "link": "https://www.hanselminutes.com",
             "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
             "title": "Halo 4 - Services in Azure with Caitie McCaffrey"
+        },
+        {
+            "author": "scott@hanselman.com (Scott Hanselman)",
+            "content": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
+            "content:encoded": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
+            "content:encodedSnippet": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.",
+            "contentSnippet": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.",
+            "creator": "scott@hanselman.com (Scott Hanselman)",
+            "enclosure": {
+                "length": "35504018",
+                "type": "audio/mpeg",
+                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/ada6609b-9aaa-4afa-87e1-1d89501e17a8/1f7fe125_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+            },
+            "guid": "http://www.hanselminutes.com/default.aspx?ShowID=379",
+            "isoDate": "2013-02-08T04:00:00.000Z",
+            "itunes": {
+                "author": "Scott Hanselman",
+                "duration": "00:36:53",
+                "episode": "359",
+                "episodeType": "full",
+                "explicit": "no",
+                "image": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/ada6609b-9aaa-4afa-87e1-1d89501e17a8/3000x3000/1519423177artwork.jpg?aid=rss_feed",
+                "subtitle": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.\n\n",
+                "summary": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.\n\n"
+            },
+            "link": "https://www.hanselminutes.com",
+            "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
+            "title": "Git support within Visual Studio"
         },
         {
             "author": "scott@hanselman.com (Scott Hanselman)",
@@ -22370,34 +22398,6 @@
             "link": "https://www.hanselminutes.com",
             "pubDate": "Sat, 19 Jan 2008 04:00:00 +0000",
             "title": "ADO.NET \"Astoria\" Data Services with Shawn Wildermuth"
-        },
-        {
-            "author": "scott@hanselman.com (Scott Hanselman)",
-            "content": "<p>Scott is at CodeMash in Ohio this week chatting with CodeRush/Refactor developer Dustin Campbell about his recent obsession with F#. Is it a functional language and object-oriented language or an imperative language? Why should you care?</p>\n",
-            "content:encoded": "<p>Scott is at CodeMash in Ohio this week chatting with CodeRush/Refactor developer Dustin Campbell about his recent obsession with F#. Is it a functional language and object-oriented language or an imperative language? Why should you care?</p>\n",
-            "content:encodedSnippet": "Scott is at CodeMash in Ohio this week chatting with CodeRush/Refactor developer Dustin Campbell about his recent obsession with F#. Is it a functional language and object-oriented language or an imperative language? Why should you care?",
-            "contentSnippet": "Scott is at CodeMash in Ohio this week chatting with CodeRush/Refactor developer Dustin Campbell about his recent obsession with F#. Is it a functional language and object-oriented language or an imperative language? Why should you care?",
-            "creator": "scott@hanselman.com (Scott Hanselman)",
-            "enclosure": {
-                "length": "19268938",
-                "type": "audio/mpeg",
-                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/e9a89aaa-fc39-4964-8b3a-8f2265d7eebd/5411cec7_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-            },
-            "guid": "http://www.hanselminutes.com/default.aspx?ShowID=114",
-            "isoDate": "2008-01-11T17:18:40.000Z",
-            "itunes": {
-                "author": "Scott Hanselman",
-                "duration": "00:26:44",
-                "episode": "96",
-                "episodeType": "full",
-                "explicit": "no",
-                "image": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/e9a89aaa-fc39-4964-8b3a-8f2265d7eebd/3000x3000/1519420558artwork.jpg?aid=rss_feed",
-                "subtitle": "Scott is at CodeMash in Ohio this week chatting with CodeRush/Refactor developer Dustin Campbell about his recent obsession with F#. Is it a functional language and object-oriented language or an imperative language? Why should you care?\n\n",
-                "summary": "Scott is at CodeMash in Ohio this week chatting with CodeRush/Refactor developer Dustin Campbell about his recent obsession with F#. Is it a functional language and object-oriented language or an imperative language? Why should you care?\n\n"
-            },
-            "link": "https://www.hanselminutes.com",
-            "pubDate": "Fri, 11 Jan 2008 17:18:40 +0000",
-            "title": "Starting Small with F# with Dustin Campbell"
         }
     ],
     "itunes": {
@@ -22437,7 +22437,7 @@
         "summary": "Hanselminutes is Fresh Air for Developers. A weekly commute-time podcast that promotes fresh technology and fresh voices. Talk and Tech for Developers, Life-long Learners, and Technologists."
     },
     "language": "en-us",
-    "lastBuildDate": "Thu, 29 Jun 2023 21:00:11 +0000",
+    "lastBuildDate": "Fri, 7 Jul 2023 19:15:25 +0000",
     "link": "https://www.hanselminutes.com",
     "paginationLinks": {
         "self": "https://feeds.simplecast.com/gvtxUiIf"
@@ -22450,6 +22450,6 @@
         "848C89",
         "84848C"
     ],
-    "pubDate": "Thu, 29 Jun 2023 21:00:00 +0000",
+    "pubDate": "Thu, 6 Jul 2023 21:00:00 +0000",
     "title": "Hanselminutes with Scott Hanselman"
 }

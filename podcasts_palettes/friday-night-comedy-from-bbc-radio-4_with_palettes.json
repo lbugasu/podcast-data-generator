@@ -14,6 +14,27 @@
             "enclosure": {
                 "length": "26800000",
                 "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0ft8ytb.mp3"
+            },
+            "guid": "urn:bbc:podcast:p0frqpk6",
+            "isoDate": "2023-07-07T18:01:00.000Z",
+            "itunes": {
+                "author": "BBC Radio 4",
+                "duration": "1675",
+                "explicit": "clean",
+                "subtitle": "Andy Zaltzman quizzes the week's news.",
+                "summary": "Andy Zaltzman quizzes the week's news."
+            },
+            "link": "http://www.bbc.co.uk/programmes/p0frqpk6",
+            "pubDate": "Fri, 07 Jul 2023 18:01:00 +0000",
+            "title": "The News Quiz - 9th June"
+        },
+        {
+            "content": "Andy Zaltzman quizzes the week's news.",
+            "contentSnippet": "Andy Zaltzman quizzes the week's news.",
+            "enclosure": {
+                "length": "26800000",
+                "type": "audio/mpeg",
                 "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0fry10q.mp3"
             },
             "guid": "urn:bbc:podcast:p0fnmpzr",
@@ -3590,6 +3611,6 @@
         "0C5B43",
         "724D94"
     ],
-    "pubDate": "Fri, 30 Jun 2023 18:01:00 +0000",
+    "pubDate": "Fri, 07 Jul 2023 18:01:00 +0000",
     "title": "Friday Night Comedy from BBC Radio 4"
 }

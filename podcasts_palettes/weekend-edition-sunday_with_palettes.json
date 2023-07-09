@@ -2,9 +2,81 @@
     "author": "NPR",
     "creator": "NPR",
     "description": "Weekend Edition Sunday features interviews with newsmakers, artists, scientists, politicians, musicians, writers, theologians and historians. ",
-    "feedUrl": "http://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml",
+    "feedUrl": "https://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml",
     "generator": "KUOW Core Services",
     "items": [
+        {
+            "author": "Sandhya Dirks",
+            "content": "Myths about affirmative action being discriminatory against Asian Americans helped spread a narrative that college admissions meant to increase diversity were actually racist. ",
+            "contentSnippet": "Myths about affirmative action being discriminatory against Asian Americans helped spread a narrative that college admissions meant to increase diversity were actually racist.",
+            "creator": "Sandhya Dirks",
+            "enclosure": {
+                "length": "7092000",
+                "type": "audio/mp3",
+                "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2023/07/20230702_wesun_affirmative_action_divided_asian_americans_and_other_people_of_color_heres_how.mp3?orgId=1&topicId=1015&d=394&p=10&story=1183981097&ft=nprml&f=1183981097"
+            },
+            "guid": "story-81854",
+            "isoDate": "2023-07-02T12:00:55.000Z",
+            "itunes": {
+                "author": "Sandhya Dirks",
+                "duration": "00:06:34",
+                "explicit": "no",
+                "image": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/3e62337587ba375afc6d60a6abed86d9.jpg",
+                "subtitle": "Affirmative action divided Asian Americans and other People Of Color. Here's how",
+                "summary": "Myths about affirmative action being discriminatory against Asian Americans helped spread a narrative that college admissions meant to increase diversity were actually racist. "
+            },
+            "link": "https://www.kuow.org/stories/affirmative-action-divided-asian-americans-and-other-people-of-color-here-s-how",
+            "pubDate": "Sun, 2 Jul 2023 05:00:55 -0700",
+            "title": "Affirmative action divided Asian Americans and other People Of Color. Here's how"
+        },
+        {
+            "author": "Ayesha Rascoe",
+            "content": "NPR's Ayesha Rascoe speaks to Andrew \"Ando\" Caulfield about the death of his friend Zion Williams \u2013 a blind skateboarder from San Francisco.",
+            "contentSnippet": "NPR's Ayesha Rascoe speaks to Andrew \"Ando\" Caulfield about the death of his friend Zion Williams \u2013 a blind skateboarder from San Francisco.",
+            "creator": "Ayesha Rascoe",
+            "enclosure": {
+                "length": "5094000",
+                "type": "audio/mp3",
+                "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2023/07/20230702_wesun_blind_skateboarder_death.mp3?orgId=1&topicId=1062&d=283&p=10&story=1185684712&ft=nprml&f=1185684712"
+            },
+            "guid": "story-81857",
+            "isoDate": "2023-07-02T11:58:34.000Z",
+            "itunes": {
+                "author": "Ayesha Rascoe",
+                "duration": "00:04:43",
+                "explicit": "no",
+                "image": "https://d3cu50eznh8qk.cloudfront.net/logos/kuow.png",
+                "subtitle": "Remembering Zion Williams, the skateboarder who lost his sight but didn't let that stop him",
+                "summary": "NPR's Ayesha Rascoe speaks to Andrew \"Ando\" Caulfield about the death of his friend Zion Williams \u2013 a blind skateboarder from San Francisco."
+            },
+            "link": "https://www.kuow.org/stories/remembering-zion-williams-the-skateboarder-who-lost-his-sight-but-didn-t-let-that-stop-him",
+            "pubDate": "Sun, 2 Jul 2023 04:58:34 -0700",
+            "title": "Remembering Zion Williams, the skateboarder who lost his sight but didn't let that stop him"
+        },
+        {
+            "author": "Ayesha Rascoe",
+            "content": "NPR's Ayesha Rascoe speaks with indie rock musician Albert Hammond Jr. about his latest solo album, \"Melodies On Hiatus,\" which meditates on big changes in his personal life as a middle-aged adult.",
+            "contentSnippet": "NPR's Ayesha Rascoe speaks with indie rock musician Albert Hammond Jr. about his latest solo album, \"Melodies On Hiatus,\" which meditates on big changes in his personal life as a middle-aged adult.",
+            "creator": "Ayesha Rascoe",
+            "enclosure": {
+                "length": "8190000",
+                "type": "audio/mp3",
+                "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2023/07/20230702_wesun_music_-_albert_hammond_jr.mp3?orgId=1&topicId=1039&d=455&p=10&story=1185684705&ft=nprml&f=1185684705"
+            },
+            "guid": "story-81858",
+            "isoDate": "2023-07-02T11:58:34.000Z",
+            "itunes": {
+                "author": "Ayesha Rascoe",
+                "duration": "00:07:35",
+                "explicit": "no",
+                "image": "https://d3cu50eznh8qk.cloudfront.net/logos/kuow.png",
+                "subtitle": "Albert Hammond Jr. on his latest solo album 'Melodies On Hiatus'",
+                "summary": "NPR's Ayesha Rascoe speaks with indie rock musician Albert Hammond Jr. about his latest solo album, \"Melodies On Hiatus,\" which meditates on big changes in his personal life as a middle-aged adult."
+            },
+            "link": "https://www.kuow.org/stories/albert-hammond-jr-on-his-latest-solo-album-melodies-on-hiatus",
+            "pubDate": "Sun, 2 Jul 2023 04:58:34 -0700",
+            "title": "Albert Hammond Jr. on his latest solo album 'Melodies On Hiatus'"
+        },
         {
             "author": "Deena Prichep",
             "content": "The history of some summer sleep-away camps, and how it's rooted in American Jewish leaders' efforts to keep Jewish culture alive after World War II.",
@@ -1828,78 +1900,6 @@
             "link": "https://www.kuow.org/stories/researchers-have-discovered-doodles-in-the-margins-of-a-medieval-religious-text",
             "pubDate": "Sun, 4 Dec 2022 04:48:11 -0800",
             "title": "Researchers have discovered doodles in the margins of a medieval religious text"
-        },
-        {
-            "author": "Ayesha Rascoe",
-            "content": "NPR's Ayesha Rascoe speaks with Dana Cummings, a participant in this year's Para Surfing World Championships in Pismo Beach, Calif.",
-            "contentSnippet": "NPR's Ayesha Rascoe speaks with Dana Cummings, a participant in this year's Para Surfing World Championships in Pismo Beach, Calif.",
-            "creator": "Ayesha Rascoe",
-            "enclosure": {
-                "length": "4176000",
-                "type": "audio/mp3",
-                "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2022/12/20221204_wesun_para_surfing_championship.mp3?orgId=1&topicId=1055&d=232&p=10&story=1140630233&ft=nprml&f=1140630233"
-            },
-            "guid": "story-74363",
-            "isoDate": "2022-12-04T12:48:11.000Z",
-            "itunes": {
-                "author": "Ayesha Rascoe",
-                "duration": "00:03:52",
-                "explicit": "no",
-                "image": "https://d3cu50eznh8qk.cloudfront.net/logos/kuow.png",
-                "subtitle": "A participant reflects on this year's Para Surfing World Championships in California",
-                "summary": "NPR's Ayesha Rascoe speaks with Dana Cummings, a participant in this year's Para Surfing World Championships in Pismo Beach, Calif."
-            },
-            "link": "https://www.kuow.org/stories/a-participant-reflects-on-this-year-s-para-surfing-world-championships-in-california",
-            "pubDate": "Sun, 4 Dec 2022 04:48:11 -0800",
-            "title": "A participant reflects on this year's Para Surfing World Championships in California"
-        },
-        {
-            "author": "Ayesha Rascoe",
-            "content": "NPR's Ayesha Rascoe speaks to filmmaker Ramin Bahrani about his new documentary about the creator of the modern bulletproof vest.",
-            "contentSnippet": "NPR's Ayesha Rascoe speaks to filmmaker Ramin Bahrani about his new documentary about the creator of the modern bulletproof vest.",
-            "creator": "Ayesha Rascoe",
-            "enclosure": {
-                "length": "8190000",
-                "type": "audio/mp3",
-                "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2022/12/20221204_wesun_movie_2nd_chance.mp3?orgId=1&topicId=1045&d=455&p=10&story=1140630226&ft=nprml&f=1140630226"
-            },
-            "guid": "story-74364",
-            "isoDate": "2022-12-04T12:48:11.000Z",
-            "itunes": {
-                "author": "Ayesha Rascoe",
-                "duration": "00:07:35",
-                "explicit": "no",
-                "image": "https://d3cu50eznh8qk.cloudfront.net/logos/kuow.png",
-                "subtitle": "Ramin Bahrani on his new documentary about the creator of the modern bulletproof vest",
-                "summary": "NPR's Ayesha Rascoe speaks to filmmaker Ramin Bahrani about his new documentary about the creator of the modern bulletproof vest."
-            },
-            "link": "https://www.kuow.org/stories/ramin-bahrani-on-his-new-documentary-about-the-creator-of-the-modern-bulletproof-vest",
-            "pubDate": "Sun, 4 Dec 2022 04:48:11 -0800",
-            "title": "Ramin Bahrani on his new documentary about the creator of the modern bulletproof vest"
-        },
-        {
-            "author": "Ayesha Rascoe",
-            "content": "Donald Trump has called for \"the termination of all rules, regulations, and articles, even those found in the Constitution\" so he can be returned to the White House.",
-            "contentSnippet": "Donald Trump has called for \"the termination of all rules, regulations, and articles, even those found in the Constitution\" so he can be returned to the White House.",
-            "creator": "Ayesha Rascoe",
-            "enclosure": {
-                "length": "5490000",
-                "type": "audio/mp3",
-                "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2022/12/20221204_wesun_political_analysis.mp3?orgId=1&topicId=1014&d=305&p=10&story=1140630212&ft=nprml&f=1140630212"
-            },
-            "guid": "story-74365",
-            "isoDate": "2022-12-04T12:48:11.000Z",
-            "itunes": {
-                "author": "Ayesha Rascoe",
-                "duration": "00:05:05",
-                "explicit": "no",
-                "image": "https://d3cu50eznh8qk.cloudfront.net/logos/kuow.png",
-                "subtitle": "Politics chat: Trump wants to return to the White House at all costs",
-                "summary": "Donald Trump has called for \"the termination of all rules, regulations, and articles, even those found in the Constitution\" so he can be returned to the White House."
-            },
-            "link": "https://www.kuow.org/stories/politics-chat-trump-wants-to-return-to-the-white-house-at-all-costs",
-            "pubDate": "Sun, 4 Dec 2022 04:48:11 -0800",
-            "title": "Politics chat: Trump wants to return to the White House at all costs"
         }
     ],
     "itunes": {
@@ -1921,10 +1921,10 @@
         }
     },
     "language": "en",
-    "lastBuildDate": "Sun, 02 Jul 2023 00:09:55 +0000",
+    "lastBuildDate": "Sun, 09 Jul 2023 00:36:26 +0000",
     "link": "https://www.kuow.org/podcasts/weekendedition-sunday",
     "paginationLinks": {
-        "self": "http://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml"
+        "self": "https://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml"
     },
     "palette": [],
     "title": "Weekend Edition Sunday"
