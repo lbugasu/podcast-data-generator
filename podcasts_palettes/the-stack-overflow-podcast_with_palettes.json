@@ -10,6 +10,62 @@
     },
     "items": [
         {
+            "author": "steph@editaud.io (Connell, Ben Popper, Ryan Donovan, Eira May)",
+            "content": "<p>ICYMI, listen to our episode with Agile pioneer Jim Highsmith: <a href=\"https://stackoverflow.blog/2023/06/13/the-meeting-that-changed-how-we-build-software-ep-579/\">The meeting that changed how we build software (Ep. 579)</a>.</p><p>Explore Connell\u2019s <a href=\"https://www.connell.dev/\">website</a> or his <a href=\"https://www.connell.dev/talks/\">talks</a>.</p><p>Connell will be speaking at <a href=\"https://dddeastmidlands.com/\">DDD East Midlands</a> again this year: October 7, 2023 (with apologies to our British listeners for the date format).\u00a0</p><p>He\u2019s also on <a href=\"https://github.com/connellsharp\">GitHub</a>, <a href=\"https://twitter.com/connellsharp\">Twitter</a>, and <a href=\"https://stackoverflow.com/users/369247/connell\">Stack Overflow</a> (naturally).</p><p>Thanks to <a href=\"https://stackoverflow.com/users/369247/connell\">Connell</a> for answering his own question: <a href=\"https://stackoverflow.com/questions/21930586/why-does-this-selectmany-perform-several-sql-queries-instead-of-a-single-join\">Why does this SelectMany perform several SQL queries instead of a single join?</a>.</p>\n",
+            "content:encoded": "<p>ICYMI, listen to our episode with Agile pioneer Jim Highsmith: <a href=\"https://stackoverflow.blog/2023/06/13/the-meeting-that-changed-how-we-build-software-ep-579/\">The meeting that changed how we build software (Ep. 579)</a>.</p><p>Explore Connell\u2019s <a href=\"https://www.connell.dev/\">website</a> or his <a href=\"https://www.connell.dev/talks/\">talks</a>.</p><p>Connell will be speaking at <a href=\"https://dddeastmidlands.com/\">DDD East Midlands</a> again this year: October 7, 2023 (with apologies to our British listeners for the date format).\u00a0</p><p>He\u2019s also on <a href=\"https://github.com/connellsharp\">GitHub</a>, <a href=\"https://twitter.com/connellsharp\">Twitter</a>, and <a href=\"https://stackoverflow.com/users/369247/connell\">Stack Overflow</a> (naturally).</p><p>Thanks to <a href=\"https://stackoverflow.com/users/369247/connell\">Connell</a> for answering his own question: <a href=\"https://stackoverflow.com/questions/21930586/why-does-this-selectmany-perform-several-sql-queries-instead-of-a-single-join\">Why does this SelectMany perform several SQL queries instead of a single join?</a>.</p>\n",
+            "content:encodedSnippet": "ICYMI, listen to our episode with Agile pioneer Jim Highsmith: The meeting that changed how we build software (Ep. 579).\nExplore Connell\u2019s website or his talks.\nConnell will be speaking at DDD East Midlands again this year: October 7, 2023 (with apologies to our British listeners for the date format).\u00a0\nHe\u2019s also on GitHub, Twitter, and Stack Overflow (naturally).\nThanks to Connell for answering his own question: Why does this SelectMany perform several SQL queries instead of a single join?.",
+            "contentSnippet": "ICYMI, listen to our episode with Agile pioneer Jim Highsmith: The meeting that changed how we build software (Ep. 579).\nExplore Connell\u2019s website or his talks.\nConnell will be speaking at DDD East Midlands again this year: October 7, 2023 (with apologies to our British listeners for the date format).\u00a0\nHe\u2019s also on GitHub, Twitter, and Stack Overflow (naturally).\nThanks to Connell for answering his own question: Why does this SelectMany perform several SQL queries instead of a single join?.",
+            "creator": "steph@editaud.io (Connell, Ben Popper, Ryan Donovan, Eira May)",
+            "enclosure": {
+                "length": "17539565",
+                "type": "audio/mpeg",
+                "url": "https://chrt.fm/track/G8F1AF/afp-71129-injected.calisto.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/f214dcb9-2bea-4d4c-8947-2af457d6c914/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=f214dcb9-2bea-4d4c-8947-2af457d6c914&feed=XA_851k3"
+            },
+            "guid": "bb59ef55-17a9-4c3c-8c03-24a3df7e3872",
+            "isoDate": "2023-07-14T04:20:00.000Z",
+            "itunes": {
+                "author": "Connell, Ben Popper, Ryan Donovan, Eira May",
+                "duration": "00:18:16",
+                "episode": "601",
+                "episodeType": "full",
+                "explicit": "no",
+                "keywords": "conference talks, agile, developers",
+                "subtitle": "Connell, a UK-based .NET developer and senior software engineer at Stack Overflow, tells the home team about his path to software development via text-based RPGs, his work on Stack Overflow\u2019s Community Enablement team, why Agile gets so much hate, and what he\u2019s learned giving conference talks to developers.",
+                "summary": "Connell, a UK-based .NET developer and senior software engineer at Stack Overflow, tells the home team about his path to software development via text-based RPGs, his work on Stack Overflow\u2019s Community Enablement team, why Agile gets so much hate, and what he\u2019s learned giving conference talks to developers."
+            },
+            "link": "https://stackoverflow.blog/podcast/",
+            "pubDate": "Fri, 14 Jul 2023 04:20:00 +0000",
+            "title": "How terrifying is giving a conference talk?"
+        },
+        {
+            "author": "steph@editaud.io (Ben Popper, Ryan Donovan, Dana Lawson)",
+            "content": "<p><a href=\"https://www.netlify.com/\">Netlify</a>\u2019s all-in-one development platform gives devs access to build, deploy, and backend services for websites and web apps. Get started with their <a href=\"https://docs.netlify.com/?_gl=1%2a633ey4%2a_gcl_au%2aNDcwNTE4NzU1LjE2ODkwMDYyNzE.\">docs</a>.</p><p><a href=\"https://www.netlify.com/jamstack/\">Jamstack</a> is a web development architecture based on JavaScript, APIs, and Markup (the JAM in Jamstack). Learn <a href=\"https://jamstack.org/what-is-jamstack/\">what Jamstack is</a> and what <a href=\"https://jamstack.org/why-jamstack/\">benefits</a> it offers.</p><p>Composable architecture has been called \u201c<a href=\"https://www.forbes.com/sites/forbesagencycouncil/2023/03/16/composable-architecture-is-the-next-big-thing-for-websites/?sh=3fd7ad685933\">the next big thing</a>\u201d in web development. <a href=\"https://www.netlify.com/blog/threats-risks-and-security-on-the-composable-web/\">Netlify defines it</a> as \u201ca development approach [that] provides the ability to more rapidly build technology stacks by making use of logically separated reusable and customizable components.\u201d</p><p>Dana is on <a href=\"https://www.linkedin.com/in/dglawson/\">LinkedIn</a>.</p><p>Warm congrats to <a href=\"https://stackoverflow.com/help/badges/8842/lifeboat\">Lifeboat badge</a> winner <a href=\"https://stackoverflow.com/users/6729845/hasectic-saif\">hasectic saif</a>, who rescued the question <a href=\"https://stackoverflow.com/questions/39002052/how-can-i-print-to-standard-error-in-c-with-printf\">How can I print to standard error in C with 'printf'?</a> from an answerless void.</p>\n",
+            "content:encoded": "<p><a href=\"https://www.netlify.com/\">Netlify</a>\u2019s all-in-one development platform gives devs access to build, deploy, and backend services for websites and web apps. Get started with their <a href=\"https://docs.netlify.com/?_gl=1%2a633ey4%2a_gcl_au%2aNDcwNTE4NzU1LjE2ODkwMDYyNzE.\">docs</a>.</p><p><a href=\"https://www.netlify.com/jamstack/\">Jamstack</a> is a web development architecture based on JavaScript, APIs, and Markup (the JAM in Jamstack). Learn <a href=\"https://jamstack.org/what-is-jamstack/\">what Jamstack is</a> and what <a href=\"https://jamstack.org/why-jamstack/\">benefits</a> it offers.</p><p>Composable architecture has been called \u201c<a href=\"https://www.forbes.com/sites/forbesagencycouncil/2023/03/16/composable-architecture-is-the-next-big-thing-for-websites/?sh=3fd7ad685933\">the next big thing</a>\u201d in web development. <a href=\"https://www.netlify.com/blog/threats-risks-and-security-on-the-composable-web/\">Netlify defines it</a> as \u201ca development approach [that] provides the ability to more rapidly build technology stacks by making use of logically separated reusable and customizable components.\u201d</p><p>Dana is on <a href=\"https://www.linkedin.com/in/dglawson/\">LinkedIn</a>.</p><p>Warm congrats to <a href=\"https://stackoverflow.com/help/badges/8842/lifeboat\">Lifeboat badge</a> winner <a href=\"https://stackoverflow.com/users/6729845/hasectic-saif\">hasectic saif</a>, who rescued the question <a href=\"https://stackoverflow.com/questions/39002052/how-can-i-print-to-standard-error-in-c-with-printf\">How can I print to standard error in C with 'printf'?</a> from an answerless void.</p>\n",
+            "content:encodedSnippet": "Netlify\u2019s all-in-one development platform gives devs access to build, deploy, and backend services for websites and web apps. Get started with their docs.\nJamstack is a web development architecture based on JavaScript, APIs, and Markup (the JAM in Jamstack). Learn what Jamstack is and what benefits it offers.\nComposable architecture has been called \u201cthe next big thing\u201d in web development. Netlify defines it as \u201ca development approach [that] provides the ability to more rapidly build technology stacks by making use of logically separated reusable and customizable components.\u201d\nDana is on LinkedIn.\nWarm congrats to Lifeboat badge winner hasectic saif, who rescued the question How can I print to standard error in C with 'printf'? from an answerless void.",
+            "contentSnippet": "Netlify\u2019s all-in-one development platform gives devs access to build, deploy, and backend services for websites and web apps. Get started with their docs.\nJamstack is a web development architecture based on JavaScript, APIs, and Markup (the JAM in Jamstack). Learn what Jamstack is and what benefits it offers.\nComposable architecture has been called \u201cthe next big thing\u201d in web development. Netlify defines it as \u201ca development approach [that] provides the ability to more rapidly build technology stacks by making use of logically separated reusable and customizable components.\u201d\nDana is on LinkedIn.\nWarm congrats to Lifeboat badge winner hasectic saif, who rescued the question How can I print to standard error in C with 'printf'? from an answerless void.",
+            "creator": "steph@editaud.io (Ben Popper, Ryan Donovan, Dana Lawson)",
+            "enclosure": {
+                "length": "20576456",
+                "type": "audio/mpeg",
+                "url": "https://chrt.fm/track/G8F1AF/afp-71129-injected.calisto.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/fe893ebd-9398-4934-9480-6c4755a83fd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=fe893ebd-9398-4934-9480-6c4755a83fd0&feed=XA_851k3"
+            },
+            "guid": "a056b343-5a32-4163-8fcb-832f5e1c752c",
+            "isoDate": "2023-07-11T04:20:00.000Z",
+            "itunes": {
+                "author": "Ben Popper, Ryan Donovan, Dana Lawson",
+                "duration": "00:21:25",
+                "episode": "600",
+                "episodeType": "full",
+                "explicit": "no",
+                "keywords": "composable architecture, jamstack, web development, netlify",
+                "subtitle": "Dana Lawson, Senior VP of Engineering at Netlify, joins Ben and Ryan to talk about her path from the military to tech, how three years at GitHub continues to shape her perspective, and how composable architecture is turning web development into something resembling LEGOs\u24c7 (in a good way).",
+                "summary": "Dana Lawson, Senior VP of Engineering at Netlify, joins Ben and Ryan to talk about her path from the military to tech, how three years at GitHub continues to shape her perspective, and how composable architecture is turning web development into something resembling LEGOs\u24c7 (in a good way)."
+            },
+            "link": "https://stackoverflow.blog/podcast/",
+            "pubDate": "Tue, 11 Jul 2023 04:20:00 +0000",
+            "title": "Jamstack is evolving toward a composable web"
+        },
+        {
             "author": "steph@editaud.io (Ben Popper, Joel Coren, William Polisano)",
             "content": "<p><a href=\"https://www.verseprop.com/\">VerseProp</a> is a digital real estate platform where users can buy, sell, and rent virtual properties.</p><p>New to the concept of digital real estate? The Motley Fool has <a href=\"https://www.fool.com/investing/stock-market/market-sectors/information-technology/metaverse-stocks/what-is-digital-real-estate/\">a useful primer</a> for you.</p><p>If you need to brush up on your investment terms, a <a href=\"https://www.fool.com/investing/how-to-invest/stocks/supercycle/\">supercycle</a> is \u201ca sustained period of expansion, usually driven by robust growth in demand for products and services.\u201d</p><p>Joel is on <a href=\"https://www.linkedin.com/in/joel-coren-a8425b232/\">LinkedIn</a>.</p><p>Will is on <a href=\"https://www.linkedin.com/in/william-polisano-ab9937b3/?originalSubdomain=uk\">LinkedIn</a>.</p><p>Follow VerseProp on <a href=\"https://twitter.com/verseprop?lang=en\">Twitter</a>, where the team welcomes questions.</p><p>Today\u2019s <a href=\"https://stackoverflow.com/help/badges/8842/lifeboat\">Lifeboat badge</a> is awarded to <a href=\"https://stackoverflow.com/users/1141063/omar\">Omar</a>, for helping 44,000 people and counting with their answer to <a href=\"https://stackoverflow.com/questions/16334323/event-handlers-on-message-box-buttons\">Event handlers on Message box buttons</a>.</p>\n",
             "content:encoded": "<p><a href=\"https://www.verseprop.com/\">VerseProp</a> is a digital real estate platform where users can buy, sell, and rent virtual properties.</p><p>New to the concept of digital real estate? The Motley Fool has <a href=\"https://www.fool.com/investing/stock-market/market-sectors/information-technology/metaverse-stocks/what-is-digital-real-estate/\">a useful primer</a> for you.</p><p>If you need to brush up on your investment terms, a <a href=\"https://www.fool.com/investing/how-to-invest/stocks/supercycle/\">supercycle</a> is \u201ca sustained period of expansion, usually driven by robust growth in demand for products and services.\u201d</p><p>Joel is on <a href=\"https://www.linkedin.com/in/joel-coren-a8425b232/\">LinkedIn</a>.</p><p>Will is on <a href=\"https://www.linkedin.com/in/william-polisano-ab9937b3/?originalSubdomain=uk\">LinkedIn</a>.</p><p>Follow VerseProp on <a href=\"https://twitter.com/verseprop?lang=en\">Twitter</a>, where the team welcomes questions.</p><p>Today\u2019s <a href=\"https://stackoverflow.com/help/badges/8842/lifeboat\">Lifeboat badge</a> is awarded to <a href=\"https://stackoverflow.com/users/1141063/omar\">Omar</a>, for helping 44,000 people and counting with their answer to <a href=\"https://stackoverflow.com/questions/16334323/event-handlers-on-message-box-buttons\">Event handlers on Message box buttons</a>.</p>\n",
@@ -16604,34 +16660,6 @@
             "link": "https://stackoverflow.blog/podcast/",
             "pubDate": "Tue, 19 Apr 2011 23:01:09 +0000",
             "title": "Stack Overflow Podcast - Episode #01"
-        },
-        {
-            "author": "steph@editaud.io (The Stack Overflow Podcast)",
-            "content": "<p>Stack Overflow Podcast - Episode #35 by The Stack Overflow Podcast</p>\n",
-            "content:encoded": "<p>Stack Overflow Podcast - Episode #35 by The Stack Overflow Podcast</p>\n",
-            "content:encodedSnippet": "Stack Overflow Podcast - Episode #35 by The Stack Overflow Podcast",
-            "contentSnippet": "Stack Overflow Podcast - Episode #35 by The Stack Overflow Podcast",
-            "creator": "steph@editaud.io (The Stack Overflow Podcast)",
-            "enclosure": {
-                "length": "34404840",
-                "type": "audio/mpeg",
-                "url": "https://chrt.fm/track/G8F1AF/afp-71129-injected.calisto.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/8384a252-a292-4212-b3f0-c264080095c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=8384a252-a292-4212-b3f0-c264080095c5&feed=XA_851k3"
-            },
-            "guid": "tag:soundcloud,2010:tracks/220593516",
-            "isoDate": "2009-01-01T00:00:00.000Z",
-            "itunes": {
-                "author": "The Stack Overflow Podcast",
-                "duration": "01:11:37",
-                "episode": "0",
-                "episodeType": "full",
-                "explicit": "no",
-                "image": "https://image.simplecastcdn.com/images/6fa1d3/6fa1d34c-502b-4abf-bd82-483804006e0b/8384a252-a292-4212-b3f0-c264080095c5/3000x3000/avatars-000311890006-yi0wda-original.jpg?aid=rss_feed",
-                "subtitle": "Stack Overflow Podcast - Episode #35 by The Stack Overflow Podcast",
-                "summary": "Stack Overflow Podcast - Episode #35 by The Stack Overflow Podcast"
-            },
-            "link": "https://stackoverflow.blog/podcast/",
-            "pubDate": "Thu, 1 Jan 2009 00:00:00 +0000",
-            "title": "Stack Overflow Podcast - Episode #35"
         }
     ],
     "itunes": {
@@ -16669,7 +16697,7 @@
         "summary": "For more than a dozen years, the Stack Overflow Podcast has been exploring what it means to be a developer and how the art and practice of software programming is changing our world. From Rails to React, from Java to Node.js, we host important conversations and fascinating guests that will help you understand how technology is made and where it\u2019s headed. Hosted by Ben Popper, Cassidy Williams, and Ceora Ford, the Stack Overflow Podcast is your home for all things code."
     },
     "language": "en",
-    "lastBuildDate": "Fri, 7 Jul 2023 04:20:11 +0000",
+    "lastBuildDate": "Fri, 14 Jul 2023 19:59:29 +0000",
     "link": "https://stackoverflow.blog/podcast/",
     "paginationLinks": {
         "self": "https://feeds.simplecast.com/XA_851k3"
@@ -16682,6 +16710,6 @@
         "E66395",
         "8C889A"
     ],
-    "pubDate": "Fri, 7 Jul 2023 04:20:00 +0000",
+    "pubDate": "Fri, 14 Jul 2023 04:20:00 +0000",
     "title": "The Stack Overflow Podcast"
 }

@@ -11,6 +11,34 @@
     "items": [
         {
             "author": "scott@hanselman.com (Scott Hanselman)",
+            "content": "<p>In this episode, we talk to Oren Eini from <a href=\"http://www.ravendb.net\">RavenDB</a>. RavenDB is a NoSQL document database that offers high performance, scalability, and security. Oren shares his insights on why performance is not just a feature, but a service that developers and customers expect and demand. He also explains how RavenDB achieves fast and reliable data access, how it handles complex queries and distributed transactions, and how it leverages the cloud to optimize resource utilization and cost efficiency!</p><ul><li><strong>Sponsor:</strong> Head over to <a href=\"http://elevateai.com/hanselminutes\" target=\"_blank\">elevateai.com/hanselminutes</a> to sign up today and get started!</li></ul>\n",
+            "content:encoded": "<p>In this episode, we talk to Oren Eini from <a href=\"http://www.ravendb.net\">RavenDB</a>. RavenDB is a NoSQL document database that offers high performance, scalability, and security. Oren shares his insights on why performance is not just a feature, but a service that developers and customers expect and demand. He also explains how RavenDB achieves fast and reliable data access, how it handles complex queries and distributed transactions, and how it leverages the cloud to optimize resource utilization and cost efficiency!</p><ul><li><strong>Sponsor:</strong> Head over to <a href=\"http://elevateai.com/hanselminutes\" target=\"_blank\">elevateai.com/hanselminutes</a> to sign up today and get started!</li></ul>\n",
+            "content:encodedSnippet": "In this episode, we talk to Oren Eini from RavenDB. RavenDB is a NoSQL document database that offers high performance, scalability, and security. Oren shares his insights on why performance is not just a feature, but a service that developers and customers expect and demand. He also explains how RavenDB achieves fast and reliable data access, how it handles complex queries and distributed transactions, and how it leverages the cloud to optimize resource utilization and cost efficiency!\n\nSponsor: Head over to elevateai.com/hanselminutes to sign up today and get started!",
+            "contentSnippet": "In this episode, we talk to Oren Eini from RavenDB. RavenDB is a NoSQL document database that offers high performance, scalability, and security. Oren shares his insights on why performance is not just a feature, but a service that developers and customers expect and demand. He also explains how RavenDB achieves fast and reliable data access, how it handles complex queries and distributed transactions, and how it leverages the cloud to optimize resource utilization and cost efficiency!\n\nSponsor: Head over to elevateai.com/hanselminutes to sign up today and get started!",
+            "creator": "scott@hanselman.com (Scott Hanselman)",
+            "enclosure": {
+                "length": "33099844",
+                "type": "audio/mpeg",
+                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/066dce3f-6611-49dc-b4c7-35aea7c0103b/audio/6d12218e-0c47-4133-87c2-e2565ee2031f/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+            },
+            "guid": "13f02254-ffe5-45ab-9439-2d749985b39c",
+            "isoDate": "2023-07-13T21:00:00.000Z",
+            "itunes": {
+                "author": "Scott Hanselman",
+                "duration": "00:34:23",
+                "episode": "901",
+                "episodeType": "full",
+                "explicit": "no",
+                "image": "https://image.simplecastcdn.com/images/e464c34b-2f32-411b-bdd2-dcf02e5301eb/51a27efd-9f4a-4e16-90dc-e4c7e6b0e118/3000x3000/901.jpg?aid=rss_feed",
+                "subtitle": "In this episode, we talk to Oren Eini from RavenDB. RavenDB is a NoSQL document database that offers high performance, scalability, and security. Oren shares his insights on why performance is not just a feature, but a service that developers and customers expect and demand. He also explains how RavenDB achieves fast and reliable data access, how it handles complex queries and distributed transactions, and how it leverages the cloud to optimize resource utilization and cost efficiency!",
+                "summary": "In this episode, we talk to Oren Eini from RavenDB. RavenDB is a NoSQL document database that offers high performance, scalability, and security. Oren shares his insights on why performance is not just a feature, but a service that developers and customers expect and demand. He also explains how RavenDB achieves fast and reliable data access, how it handles complex queries and distributed transactions, and how it leverages the cloud to optimize resource utilization and cost efficiency!"
+            },
+            "link": "https://www.hanselminutes.com",
+            "pubDate": "Thu, 13 Jul 2023 21:00:00 +0000",
+            "title": "All the Performance with RavenDB's Oren Eini"
+        },
+        {
+            "author": "scott@hanselman.com (Scott Hanselman)",
             "content": "<p>This episode of Hanselminutes is in partnership with the ACM Bytecast podcast! \u00a0In this episode, we have a special guest: Bob Metcalfe, the inventor of Ethernet, co-founder of 3Com, and recipient of the 2022 Turing Award. Bob joins us to share his insights on the history and future of computer networking, and his current work in geothermal power!</p><ul><li><a href=\"https://learning.acm.org/bytecast\">https://learning.acm.org/bytecast\u00a0</a></li></ul>\n",
             "content:encoded": "<p>This episode of Hanselminutes is in partnership with the ACM Bytecast podcast! \u00a0In this episode, we have a special guest: Bob Metcalfe, the inventor of Ethernet, co-founder of 3Com, and recipient of the 2022 Turing Award. Bob joins us to share his insights on the history and future of computer networking, and his current work in geothermal power!</p><ul><li><a href=\"https://learning.acm.org/bytecast\">https://learning.acm.org/bytecast\u00a0</a></li></ul>\n",
             "content:encodedSnippet": "This episode of Hanselminutes is in partnership with the ACM Bytecast podcast! \u00a0In this episode, we have a special guest: Bob Metcalfe, the inventor of Ethernet, co-founder of 3Com, and recipient of the 2022 Turing Award. Bob joins us to share his insights on the history and future of computer networking, and his current work in geothermal power!\n\nhttps://learning.acm.org/bytecast",
@@ -39,8 +67,10 @@
         },
         {
             "author": "scott@hanselman.com (Scott Hanselman)",
-            "content": "\n",
-            "contentSnippet": "",
+            "content": "<p>In this episode, we talk to Jasmine Greenaway, a software engineer at Microsoft and the author of Fundamentals for Self-Taught Programmers, a book that helps aspiring developers learn the essential skills and concepts of programming. She gives us some tips and advice on how to learn effectively, how to build a portfolio, and how to network and find mentors in the tech industry.\u00a0</p><ul><li><strong>Sponsor:</strong> Head over to <a href=\"http://elevateai.com/hanselminutes\" target=\"_blank\">elevateai.com/hanselminutes</a> to sign up today and get started!</li></ul>\n",
+            "content:encoded": "<p>In this episode, we talk to Jasmine Greenaway, a software engineer at Microsoft and the author of Fundamentals for Self-Taught Programmers, a book that helps aspiring developers learn the essential skills and concepts of programming. She gives us some tips and advice on how to learn effectively, how to build a portfolio, and how to network and find mentors in the tech industry.\u00a0</p><ul><li><strong>Sponsor:</strong> Head over to <a href=\"http://elevateai.com/hanselminutes\" target=\"_blank\">elevateai.com/hanselminutes</a> to sign up today and get started!</li></ul>\n",
+            "content:encodedSnippet": "In this episode, we talk to Jasmine Greenaway, a software engineer at Microsoft and the author of Fundamentals for Self-Taught Programmers, a book that helps aspiring developers learn the essential skills and concepts of programming. She gives us some tips and advice on how to learn effectively, how to build a portfolio, and how to network and find mentors in the tech industry.\u00a0\n\nSponsor: Head over to elevateai.com/hanselminutes to sign up today and get started!",
+            "contentSnippet": "In this episode, we talk to Jasmine Greenaway, a software engineer at Microsoft and the author of Fundamentals for Self-Taught Programmers, a book that helps aspiring developers learn the essential skills and concepts of programming. She gives us some tips and advice on how to learn effectively, how to build a portfolio, and how to network and find mentors in the tech industry.\u00a0\n\nSponsor: Head over to elevateai.com/hanselminutes to sign up today and get started!",
             "creator": "scott@hanselman.com (Scott Hanselman)",
             "enclosure": {
                 "length": "28057175",
@@ -56,8 +86,8 @@
                 "episodeType": "full",
                 "explicit": "no",
                 "image": "https://image.simplecastcdn.com/images/e464c34b-2f32-411b-bdd2-dcf02e5301eb/a3bfe214-bbd5-40ac-975f-4f00f5bce638/3000x3000/899.jpg?aid=rss_feed",
-                "subtitle": "",
-                "summary": ""
+                "subtitle": "In this episode, we talk to Jasmine Greenaway, a software engineer at Microsoft and the author of Fundamentals for Self-Taught Programmers, a book that helps aspiring developers learn the essential skills and concepts of programming. She gives us some tips and advice on how to learn effectively, how to build a portfolio, and how to network and find mentors in the tech industry. ",
+                "summary": "In this episode, we talk to Jasmine Greenaway, a software engineer at Microsoft and the author of Fundamentals for Self-Taught Programmers, a book that helps aspiring developers learn the essential skills and concepts of programming. She gives us some tips and advice on how to learn effectively, how to build a portfolio, and how to network and find mentors in the tech industry. "
             },
             "link": "https://www.hanselminutes.com",
             "pubDate": "Thu, 29 Jun 2023 21:00:00 +0000",
@@ -15121,34 +15151,6 @@
         },
         {
             "author": "scott@hanselman.com (Scott Hanselman)",
-            "content": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
-            "content:encoded": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
-            "content:encodedSnippet": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?",
-            "contentSnippet": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?",
-            "creator": "scott@hanselman.com (Scott Hanselman)",
-            "enclosure": {
-                "length": "31814349",
-                "type": "audio/mpeg",
-                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/f239e3a2_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-            },
-            "guid": "http://www.hanselminutes.com/default.aspx?ShowID=380",
-            "isoDate": "2013-02-08T04:00:00.000Z",
-            "itunes": {
-                "author": "Scott Hanselman",
-                "duration": "00:33:07",
-                "episode": "358",
-                "episodeType": "full",
-                "explicit": "no",
-                "image": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/3000x3000/1519423024artwork.jpg?aid=rss_feed",
-                "subtitle": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
-                "summary": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n"
-            },
-            "link": "https://www.hanselminutes.com",
-            "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
-            "title": "Halo 4 - Services in Azure with Caitie McCaffrey"
-        },
-        {
-            "author": "scott@hanselman.com (Scott Hanselman)",
             "content": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
             "content:encoded": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
             "content:encodedSnippet": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.",
@@ -15174,6 +15176,34 @@
             "link": "https://www.hanselminutes.com",
             "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
             "title": "Git support within Visual Studio"
+        },
+        {
+            "author": "scott@hanselman.com (Scott Hanselman)",
+            "content": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
+            "content:encoded": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
+            "content:encodedSnippet": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?",
+            "contentSnippet": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?",
+            "creator": "scott@hanselman.com (Scott Hanselman)",
+            "enclosure": {
+                "length": "31814349",
+                "type": "audio/mpeg",
+                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/f239e3a2_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+            },
+            "guid": "http://www.hanselminutes.com/default.aspx?ShowID=380",
+            "isoDate": "2013-02-08T04:00:00.000Z",
+            "itunes": {
+                "author": "Scott Hanselman",
+                "duration": "00:33:07",
+                "episode": "358",
+                "episodeType": "full",
+                "explicit": "no",
+                "image": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/3000x3000/1519423024artwork.jpg?aid=rss_feed",
+                "subtitle": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
+                "summary": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n"
+            },
+            "link": "https://www.hanselminutes.com",
+            "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
+            "title": "Halo 4 - Services in Azure with Caitie McCaffrey"
         },
         {
             "author": "scott@hanselman.com (Scott Hanselman)",
@@ -22370,34 +22400,6 @@
             "link": "https://www.hanselminutes.com",
             "pubDate": "Thu, 24 Jan 2008 04:00:00 +0000",
             "title": "Scott Interviews His Dad"
-        },
-        {
-            "author": "scott@hanselman.com (Scott Hanselman)",
-            "content": "<p>Scott chats with Shawn Wildermuth, &quot;the ADO Guy,&quot; about ADO.NET Data Services, aka &quot;Project Astoria.&quot; It's REST for SQL Server. Should you care? What's REST? How does this relate to WCF or ASP.NET?</p>\n",
-            "content:encoded": "<p>Scott chats with Shawn Wildermuth, &quot;the ADO Guy,&quot; about ADO.NET Data Services, aka &quot;Project Astoria.&quot; It's REST for SQL Server. Should you care? What's REST? How does this relate to WCF or ASP.NET?</p>\n",
-            "content:encodedSnippet": "Scott chats with Shawn Wildermuth, \"the ADO Guy,\" about ADO.NET Data Services, aka \"Project Astoria.\" It's REST for SQL Server. Should you care? What's REST? How does this relate to WCF or ASP.NET?",
-            "contentSnippet": "Scott chats with Shawn Wildermuth, \"the ADO Guy,\" about ADO.NET Data Services, aka \"Project Astoria.\" It's REST for SQL Server. Should you care? What's REST? How does this relate to WCF or ASP.NET?",
-            "creator": "scott@hanselman.com (Scott Hanselman)",
-            "enclosure": {
-                "length": "18336622",
-                "type": "audio/mpeg",
-                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/3c615d48-568c-43e9-8b04-b4e6de52d1af/b84ea25a_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-            },
-            "guid": "http://www.hanselminutes.com/default.aspx?ShowID=115",
-            "isoDate": "2008-01-19T04:00:00.000Z",
-            "itunes": {
-                "author": "Scott Hanselman",
-                "duration": "00:25:27",
-                "episode": "97",
-                "episodeType": "full",
-                "explicit": "no",
-                "image": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/3c615d48-568c-43e9-8b04-b4e6de52d1af/3000x3000/1519420619artwork.jpg?aid=rss_feed",
-                "subtitle": "Scott chats with Shawn Wildermuth, \"the ADO Guy,\" about ADO.NET Data Services, aka \"Project Astoria.\" It's REST for SQL Server. Should you care? What's REST? How does this relate to WCF or ASP.NET?\n\n",
-                "summary": "Scott chats with Shawn Wildermuth, \"the ADO Guy,\" about ADO.NET Data Services, aka \"Project Astoria.\" It's REST for SQL Server. Should you care? What's REST? How does this relate to WCF or ASP.NET?\n\n"
-            },
-            "link": "https://www.hanselminutes.com",
-            "pubDate": "Sat, 19 Jan 2008 04:00:00 +0000",
-            "title": "ADO.NET \"Astoria\" Data Services with Shawn Wildermuth"
         }
     ],
     "itunes": {
@@ -22437,7 +22439,7 @@
         "summary": "Hanselminutes is Fresh Air for Developers. A weekly commute-time podcast that promotes fresh technology and fresh voices. Talk and Tech for Developers, Life-long Learners, and Technologists."
     },
     "language": "en-us",
-    "lastBuildDate": "Fri, 7 Jul 2023 19:15:25 +0000",
+    "lastBuildDate": "Fri, 14 Jul 2023 15:55:50 +0000",
     "link": "https://www.hanselminutes.com",
     "paginationLinks": {
         "self": "https://feeds.simplecast.com/gvtxUiIf"
@@ -22450,6 +22452,6 @@
         "848C89",
         "84848C"
     ],
-    "pubDate": "Thu, 6 Jul 2023 21:00:00 +0000",
+    "pubDate": "Thu, 13 Jul 2023 21:00:00 +0000",
     "title": "Hanselminutes with Scott Hanselman"
 }

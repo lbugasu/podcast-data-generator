@@ -5,9 +5,32 @@
     "image": {
         "link": "http://www.recordedfuture.com/podcast",
         "title": "Click Here",
-        "url": "https://megaphone.imgix.net/podcasts/56b300ec-9261-11eb-b87d-13a3d3b70cde/image/Click-Here-Tile-3000x3000.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        "url": "https://megaphone.imgix.net/podcasts/56b300ec-9261-11eb-b87d-13a3d3b70cde/image/ClickHerelogotwitter2__1_.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     },
     "items": [
+        {
+            "content": "From WBUR's \u201cEndless Thread\" podcast, a story on a growing segment of artificial intelligence: immortalizing the dead through predictive AI text and how bots can help us understand grief.",
+            "content:encoded": "\n        <p>From WBUR's \u201cEndless Thread\" podcast, a story on a growing segment of artificial intelligence: immortalizing the dead through predictive AI text and how bots can help us understand grief.</p>\n      ",
+            "content:encodedSnippet": "From WBUR's \u201cEndless Thread\" podcast, a story on a growing segment of artificial intelligence: immortalizing the dead through predictive AI text and how bots can help us understand grief.",
+            "contentSnippet": "From WBUR's \u201cEndless Thread\" podcast, a story on a growing segment of artificial intelligence: immortalizing the dead through predictive AI text and how bots can help us understand grief.",
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://traffic.megaphone.fm/RFEI6034032977.mp3?updated=1689091524"
+            },
+            "guid": "bd5e281a-1777-11ee-bebc-63c03851b05b",
+            "isoDate": "2023-07-11T07:00:00.000Z",
+            "itunes": {
+                "author": "Recorded Future News",
+                "duration": "2165",
+                "episodeType": "full",
+                "subtitle": "",
+                "summary": "From WBUR's \u201cEndless Thread\" podcast, a story on a growing segment of artificial intelligence: immortalizing the dead through predictive AI text and how bots can help us understand grief."
+            },
+            "link": "https://www.wbur.org/podcasts/endlessthread",
+            "pubDate": "Tue, 11 Jul 2023 07:00:00 -0000",
+            "title": "75. SPECIAL FEATURE: 'Life, death and AI' from Endless Thread"
+        },
         {
             "content": "We revisit a sit-down interview we had with NSA contractor Reality Winner shortly after she spent 4 years in prison for passing a single classified document to a reporter. Given all the focus on classified documents and the way they\u2019ve been handled in recent weeks, it seemed a good time to take another look at what happened to Reality.",
             "content:encoded": "\n        <p>We revisit a sit-down interview we had with NSA contractor Reality Winner shortly after she spent 4 years in prison for passing a single classified document to a reporter. Given all the focus on classified documents and the way they\u2019ve been handled in recent weeks, it seemed a good time to take another look at what happened to Reality.</p>\n      ",
@@ -1711,7 +1734,7 @@
             }
         ],
         "explicit": "no",
-        "image": "https://megaphone.imgix.net/podcasts/56b300ec-9261-11eb-b87d-13a3d3b70cde/image/Click-Here-Tile-3000x3000.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "image": "https://megaphone.imgix.net/podcasts/56b300ec-9261-11eb-b87d-13a3d3b70cde/image/ClickHerelogotwitter2__1_.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
         "owner": {
             "email": "clickhere@recordedfuture.com",
             "name": "Recorded Future News"
@@ -1725,12 +1748,12 @@
         "self": "https://feeds.megaphone.fm/CYBW9338304051"
     },
     "palette": [
-        "171718",
-        "E6E8EB",
-        "6A6B6C",
-        "8C8C8D",
-        "84848C",
-        "848C88"
+        "1C292C",
+        "E1E0DC",
+        "07809B",
+        "13A2B4",
+        "6B6B69",
+        "948C8C"
     ],
     "title": "Click Here"
 }

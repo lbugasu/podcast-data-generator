@@ -11,6 +11,33 @@
     "items": [
         {
             "author": "hardfork@nytimes.com (The New York Times)",
+            "content": "<p>This week, we answer more of your questions, like: What is ChatGPT\u2019s carbon footprint? Why are engineers so sure artificial intelligence will keep getting better? And, why are there so many venture capital bros?</p>\n",
+            "content:encoded": "<p>This week, we answer more of your questions, like: What is ChatGPT\u2019s carbon footprint? Why are engineers so sure artificial intelligence will keep getting better? And, why are there so many venture capital bros?</p>\n",
+            "content:encodedSnippet": "This week, we answer more of your questions, like: What is ChatGPT\u2019s carbon footprint? Why are engineers so sure artificial intelligence will keep getting better? And, why are there so many venture capital bros?",
+            "contentSnippet": "This week, we answer more of your questions, like: What is ChatGPT\u2019s carbon footprint? Why are engineers so sure artificial intelligence will keep getting better? And, why are there so many venture capital bros?",
+            "creator": "hardfork@nytimes.com (The New York Times)",
+            "enclosure": {
+                "length": "45519264",
+                "type": "audio/mpeg",
+                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/27964cc6-8131-42b6-8294-2bf5348eed3e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=27964cc6-8131-42b6-8294-2bf5348eed3e&feed=l2i9YnTd"
+            },
+            "guid": "1e71fe9a-87d5-48d2-8adf-a00a3acf4891",
+            "isoDate": "2023-07-14T08:45:00.000Z",
+            "itunes": {
+                "author": "The New York Times",
+                "duration": "00:47:24",
+                "episode": "38",
+                "episodeType": "full",
+                "explicit": "no",
+                "subtitle": "This week, we answer more of your questions, like: What is ChatGPT\u2019s carbon footprint? Why are engineers so sure artificial intelligence will keep getting better? And, why are there so many venture capital bros?",
+                "summary": "This week, we answer more of your questions, like: What is ChatGPT\u2019s carbon footprint? Why are engineers so sure artificial intelligence will keep getting better? And, why are there so many venture capital bros?"
+            },
+            "link": "https://www.nytimes.com/column/hard-fork",
+            "pubDate": "Fri, 14 Jul 2023 08:45:00 +0000",
+            "title": "Help! My Boss Won\u2019t Stop Using ChatGPT"
+        },
+        {
+            "author": "hardfork@nytimes.com (The New York Times)",
             "content": "<p>Instagram is no stranger to taking product ideas from other companies and turning them into their own successes. Just ask Snapchat about Instagram Stories or TikTok about Instagram Reels. This time, the company is coming for Twitter with Instagram Threads.</p><p>Today, the head of Instagram, Adam Mosseri, on why the company now wants to take on Twitter.</p><p><strong>Today\u2019s guest:</strong></p><ul><li>Adam Mosseri is the head of Instagram.</li></ul><p><strong>Additional reading:</strong></p><ul><li>Meta announced a new app called <a href=\"https://www.nytimes.com/2023/07/03/technology/meta-app-twitter.html\" target=\"_blank\">Threads</a> intended to rival Twitter.</li></ul><p>\u00a0</p>\n",
             "content:encoded": "<p>Instagram is no stranger to taking product ideas from other companies and turning them into their own successes. Just ask Snapchat about Instagram Stories or TikTok about Instagram Reels. This time, the company is coming for Twitter with Instagram Threads.</p><p>Today, the head of Instagram, Adam Mosseri, on why the company now wants to take on Twitter.</p><p><strong>Today\u2019s guest:</strong></p><ul><li>Adam Mosseri is the head of Instagram.</li></ul><p><strong>Additional reading:</strong></p><ul><li>Meta announced a new app called <a href=\"https://www.nytimes.com/2023/07/03/technology/meta-app-twitter.html\" target=\"_blank\">Threads</a> intended to rival Twitter.</li></ul><p>\u00a0</p>\n",
             "content:encodedSnippet": "Instagram is no stranger to taking product ideas from other companies and turning them into their own successes. Just ask Snapchat about Instagram Stories or TikTok about Instagram Reels. This time, the company is coming for Twitter with Instagram Threads.\nToday, the head of Instagram, Adam Mosseri, on why the company now wants to take on Twitter.\nToday\u2019s guest:\n\nAdam Mosseri is the head of Instagram.\n\nAdditional reading:\n\nMeta announced a new app called Threads intended to rival Twitter.",
@@ -1081,7 +1108,7 @@
         "summary": "\u201cHard Fork\u201d is a show about the future that\u2019s already here. Each week, journalists Kevin Roose and Casey Newton explore and make sense of the latest in the rapidly changing world of tech. \n\nListen to this podcast in New York Times Audio, our new iOS app for news subscribers. Download now at nytimes.com/audioapp"
     },
     "language": "en",
-    "lastBuildDate": "Thu, 6 Jul 2023 10:10:57 +0000",
+    "lastBuildDate": "Fri, 14 Jul 2023 11:26:39 +0000",
     "link": "https://www.nytimes.com/column/hard-fork",
     "paginationLinks": {
         "self": "https://feeds.simplecast.com/l2i9YnTd"
@@ -1094,6 +1121,6 @@
         "90CB6D",
         "F29434"
     ],
-    "pubDate": "Thu, 6 Jul 2023 09:00:18 +0000",
+    "pubDate": "Fri, 14 Jul 2023 08:45:00 +0000",
     "title": "Hard Fork"
 }

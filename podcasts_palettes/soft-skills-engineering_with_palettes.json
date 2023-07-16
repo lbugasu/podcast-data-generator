@@ -9,6 +9,26 @@
     },
     "items": [
         {
+            "content": "<p>In this episode, Dave and Jamison answer these questions:</p>\n\n<ol>\n  <li>\n    <p>Do you think an EM should only be involved with management tasks, and let the members handle the technical stuff, or should they have some technical expertise to manage things like architecture reviews or handle urgent incidents?</p>\n  </li>\n  <li>\n    <p>Hello! Love the show, thank you both for all the knowledge. I discovered this podcast when I was struggling as a newbie who was learning on the job at a tech firm two years ago. By applying your advice for fellow listeners to my own situations, I now find myself a well-regarded senior frontend engineer in fintech. I\u2019ve noticed that a big reason for this is my communication, organizational, and soft skills (English major and former operations manager). What really sets me apart is my effective and friendly collaboration with junior devs, tech leads, and product managers alike. As I work towards becoming a principal engineer, should I lean into extending and displaying these aforementioned skills, or are they actually \u201ctime sucks\u201d since they are more fitting of a managerial track?</p>\n  </li>\n</ol>\n",
+            "contentSnippet": "In this episode, Dave and Jamison answer these questions:\nDo you think an EM should only be involved with management tasks, and let the members handle the technical stuff, or should they have some technical expertise to manage things like architecture reviews or handle urgent incidents?\nHello! Love the show, thank you both for all the knowledge. I discovered this podcast when I was struggling as a newbie who was learning on the job at a tech firm two years ago. By applying your advice for fellow listeners to my own situations, I now find myself a well-regarded senior frontend engineer in fintech. I\u2019ve noticed that a big reason for this is my communication, organizational, and soft skills (English major and former operations manager). What really sets me apart is my effective and friendly collaboration with junior devs, tech leads, and product managers alike. As I work towards becoming a principal engineer, should I lean into extending and displaying these aforementioned skills, or are they actually \u201ctime sucks\u201d since they are more fitting of a managerial track?",
+            "enclosure": {
+                "length": "36651581",
+                "type": "audio/mpeg",
+                "url": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-364.mp3?source=rss"
+            },
+            "guid": "d2683dbd-c9d2-4207-97b8-f915596dbb53",
+            "isoDate": "2023-07-10T12:00:00.000Z",
+            "itunes": {
+                "author": "",
+                "duration": "25:27",
+                "explicit": "no",
+                "subtitle": ""
+            },
+            "link": "https://softskills.audio/2023/07/10/episode-364-ems-doing-technical-tasks-and-too-soft/",
+            "pubDate": "Mon, 10 Jul 2023 12:00:00 +0000",
+            "title": "Episode 364: EMs doing technical tasks and too soft?"
+        },
+        {
             "content": "<p>In this episode, Dave and Jamison answer these questions:</p>\n\n<ol>\n  <li>\n    <p>Listener Thor asks,</p>\n\n    <p>Is there a chance the tech stack I choose throughout my career will hurt my chances to shift direction towards project leading/managing in the future? Say, I do mostly frontend, will this affect the way people see my broader understanding of projects etc. compared to people in roles such as architect?</p>\n  </li>\n  <li>\n    <p>Listener Travis asks,</p>\n\n    <p>My company is starting to expand across time zones. The majority of the company is based in one time zone and a handful of employees are spread across others. I want to emphasize the importance of asynchronous communication. I have begun to feel like I need to respond ASAP to Slack messages instead of when it is convenient.</p>\n\n    <p>If we were to say Slack is used for asynchronous communication, is asking the team to use Signal or even text appropriate for a quicker response?</p>\n\n    <p>What is a good way to handle reaching out to team members in cases where a response is needed more immediately?</p>\n  </li>\n</ol>\n\n<h2 id=\"show-notes\">Show Notes</h2>\n<ul>\n  <li><a href=\"https://m.signalvnoise.com/is-group-chat-making-you-sweat/\" title=\"smartCard-inline\">https://m.signalvnoise.com/is-group-chat-making-you-sweat/</a></li>\n</ul>\n",
             "contentSnippet": "In this episode, Dave and Jamison answer these questions:\nListener Thor asks,\nIs there a chance the tech stack I choose throughout my career will hurt my chances to shift direction towards project leading/managing in the future? Say, I do mostly frontend, will this affect the way people see my broader understanding of projects etc. compared to people in roles such as architect?\nListener Travis asks,\nMy company is starting to expand across time zones. The majority of the company is based in one time zone and a handful of employees are spread across others. I want to emphasize the importance of asynchronous communication. I have begun to feel like I need to respond ASAP to Slack messages instead of when it is convenient.\nIf we were to say Slack is used for asynchronous communication, is asking the team to use Signal or even text appropriate for a quicker response?\nWhat is a good way to handle reaching out to team members in cases where a response is needed more immediately?\nShow Notes\nhttps://m.signalvnoise.com/is-group-chat-making-you-sweat/",
             "enclosure": {
@@ -7313,7 +7333,7 @@
         "summary": "It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly advice podcast for software developers about the non-technical stuff that goes into being a great software developer."
     },
     "language": "en",
-    "lastBuildDate": "2023-07-03 12:00:00 +0000",
+    "lastBuildDate": "2023-07-10 12:00:00 +0000",
     "link": "https://softskills.audio/",
     "managingEditor": "Jamison Dance and Dave Smith",
     "paginationLinks": {
