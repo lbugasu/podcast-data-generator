@@ -10,6 +10,32 @@
     },
     "items": [
         {
+            "content": "Estelle Weyl and Eric Meyer join us to talk about the 5th edition of their book, CSS: The Definitive Guide. We talk about some of CSS' biggest blunders, custom scroll bars, single line comments, shorthand in CSS, useless CSS trivia, and how to get started learning CSS in 2023.",
+            "content:encoded": "Estelle Weyl and Eric Meyer join us to talk about the 5th edition of their book, CSS: The Definitive Guide. We talk about some of CSS' biggest blunders, custom scroll bars, single line comments, shorthand in CSS, useless CSS trivia, and how to get started learning CSS in 2023.",
+            "content:encodedSnippet": "Estelle Weyl and Eric Meyer join us to talk about the 5th edition of their book, CSS: The Definitive Guide. We talk about some of CSS' biggest blunders, custom scroll bars, single line comments, shorthand in CSS, useless CSS trivia, and how to get started learning CSS in 2023.",
+            "contentSnippet": "Estelle Weyl and Eric Meyer join us to talk about the 5th edition of their book, CSS: The Definitive Guide. We talk about some of CSS' biggest blunders, custom scroll bars, single line comments, shorthand in CSS, useless CSS trivia, and how to get started learning CSS in 2023.",
+            "creator": "ShopTalk",
+            "dc:creator": "ShopTalk",
+            "enclosure": {
+                "length": "71545666",
+                "type": "audio/mpeg",
+                "url": "https://shoptalkshow.com/podcast-download/6945/574.mp3?nocache"
+            },
+            "guid": "https://shoptalkshow.com/?p=6945",
+            "isoDate": "2023-07-17T09:38:57.000Z",
+            "itunes": {
+                "author": "ShopTalk",
+                "duration": "01:14:16",
+                "explicit": "clean",
+                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2013/03/logo-itunes-1400.png?fit=1400%2C1400&ssl=1",
+                "subtitle": "Estelle Weyl and Eric Meyer join us to talk about the 5th edition of their book, CSS: The Definitive Guide. We talk about some of CSS biggest blunders, custom scroll bars, single line comments, shorthand in CSS, useless CSS trivia, and how to get started",
+                "summary": "Estelle Weyl and Eric Meyer join us to talk about the 5th edition of their book, CSS: The Definitive Guide. We talk about some of CSS' biggest blunders, custom scroll bars, single line comments, shorthand in CSS, useless CSS trivia, and how to get started learning CSS in 2023."
+            },
+            "link": "https://shoptalkshow.com/574/",
+            "pubDate": "Mon, 17 Jul 2023 09:38:57 +0000",
+            "title": "574: Estelle & Eric on CSS The Definitive Guide, 5th Edition"
+        },
+        {
             "content": "Chris breaks out his banjo, some thoughts on making music vs recording music, what happened to Google Reader and social reading, what black box properties can't Dave or Chris remember, follow up for dev teams communicating with designers, and what's Adobe going to do about Figma?",
             "content:encoded": "Chris breaks out his banjo, some thoughts on making music vs recording music, what happened to Google Reader and social reading, what black box properties can't Dave or Chris remember, follow up for dev teams communicating with designers, and what's Adobe going to do about Figma?",
             "content:encodedSnippet": "Chris breaks out his banjo, some thoughts on making music vs recording music, what happened to Google Reader and social reading, what black box properties can't Dave or Chris remember, follow up for dev teams communicating with designers, and what's Adobe going to do about Figma?",
@@ -2570,32 +2596,6 @@
             "link": "https://shoptalkshow.com/475/",
             "pubDate": "Mon, 09 Aug 2021 17:44:25 +0000",
             "title": "475: Ben Hong\u2019s Views on Vue, VuePress, Nuxt, Petite Vue, Shopify + Netlify, and Static Hosting"
-        },
-        {
-            "content": "The D-d-d-d-discord's got threads! Are conferences a thing we're ready for? How was Dave's experience working on a Windows PC? Help Dave figure out his monitor issue on Mac. Are people writing websites without a build step? And what is a good CSS technique for displaying images that could be either horizontal or vertical?",
-            "content:encoded": "The D-d-d-d-discord's got threads! Are conferences a thing we're ready for? How was Dave's experience working on a Windows PC? Help Dave figure out his monitor issue on Mac. Are people writing websites without a build step? And what is a good CSS technique for displaying images that could be either horizontal or vertical?",
-            "content:encodedSnippet": "The D-d-d-d-discord's got threads! Are conferences a thing we're ready for? How was Dave's experience working on a Windows PC? Help Dave figure out his monitor issue on Mac. Are people writing websites without a build step? And what is a good CSS technique for displaying images that could be either horizontal or vertical?",
-            "contentSnippet": "The D-d-d-d-discord's got threads! Are conferences a thing we're ready for? How was Dave's experience working on a Windows PC? Help Dave figure out his monitor issue on Mac. Are people writing websites without a build step? And what is a good CSS technique for displaying images that could be either horizontal or vertical?",
-            "creator": "ShopTalk",
-            "dc:creator": "ShopTalk",
-            "enclosure": {
-                "length": "28677568",
-                "type": "audio/mpeg",
-                "url": "https://shoptalkshow.com/podcast-download/4976/474.mp3"
-            },
-            "guid": "https://shoptalkshow.com/?p=4976",
-            "isoDate": "2021-08-02T13:00:19.000Z",
-            "itunes": {
-                "author": "ShopTalk",
-                "duration": "00:59:13",
-                "explicit": "clean",
-                "image": "https://i0.wp.com/shoptalkshow.com/wp-content/uploads/2020/05/chris-and-dave_otspfa.jpg?fit=1065%2C804&ssl=1",
-                "subtitle": "The D-d-d-d-discords got threads! Are conferences a thing were ready for? How was Daves experience working on a Windows PC? Help Dave figure out his monitor issue on Mac. Are people writing websites without a build step? And what is a good CSS technique ",
-                "summary": "The D-d-d-d-discord's got threads! Are conferences a thing we're ready for? How was Dave's experience working on a Windows PC? Help Dave figure out his monitor issue on Mac. Are people writing websites without a build step? And what is a good CSS technique for displaying images that could be either horizontal or vertical?"
-            },
-            "link": "https://shoptalkshow.com/474/",
-            "pubDate": "Mon, 02 Aug 2021 13:00:19 +0000",
-            "title": "474: Tech Conferences, Dev on Windows, and CSS for Displaying Random Images"
         }
     ],
     "itunes": {
@@ -2610,7 +2610,7 @@
         "summary": "A live podcast about front end web design and UX."
     },
     "language": "en-US",
-    "lastBuildDate": "Wed, 12 Jul 2023 00:17:14 +0000",
+    "lastBuildDate": "Thu, 20 Jul 2023 20:02:15 +0000",
     "link": "https://shoptalkshow.com/",
     "paginationLinks": {
         "self": "https://shoptalkshow.com/feed/podcast/"

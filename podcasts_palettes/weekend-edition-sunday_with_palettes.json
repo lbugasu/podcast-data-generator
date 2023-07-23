@@ -6,6 +6,30 @@
     "generator": "KUOW Core Services",
     "items": [
         {
+            "author": "Sacha Pfeiffer",
+            "content": "NPR's Sacha Pfeiffer asks economist Mara Klaunig about the economic effects on local communities of concerts like Taylor Swift's or Beyonc\u00e9's.",
+            "contentSnippet": "NPR's Sacha Pfeiffer asks economist Mara Klaunig about the economic effects on local communities of concerts like Taylor Swift's or Beyonc\u00e9's.",
+            "creator": "Sacha Pfeiffer",
+            "enclosure": {
+                "length": "6660000",
+                "type": "audio/mp3",
+                "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2023/07/20230716_wesun_concert_economy.mp3?orgId=1&topicId=1039&d=370&p=10&story=1187992882&ft=nprml&f=1187992882"
+            },
+            "guid": "story-82323",
+            "isoDate": "2023-07-16T12:04:06.000Z",
+            "itunes": {
+                "author": "Sacha Pfeiffer",
+                "duration": "00:06:10",
+                "explicit": "no",
+                "image": "https://d3cu50eznh8qk.cloudfront.net/logos/kuow.png",
+                "subtitle": "Local economies are getting a boost from Taylor Swift and Beyonc\u00e9 concerts",
+                "summary": "NPR's Sacha Pfeiffer asks economist Mara Klaunig about the economic effects on local communities of concerts like Taylor Swift's or Beyonc\u00e9's."
+            },
+            "link": "https://www.kuow.org/stories/local-economies-are-getting-a-boost-from-taylor-swift-and-beyonce-concerts",
+            "pubDate": "Sun, 16 Jul 2023 05:04:06 -0700",
+            "title": "Local economies are getting a boost from Taylor Swift and Beyonc\u00e9 concerts"
+        },
+        {
             "author": "Ayesha Rascoe",
             "content": "In Norfolk, England, this weekend, Nicholas Dickinson helped stage the 2023 Snail Racing World Championship.",
             "contentSnippet": "In Norfolk, England, this weekend, Nicholas Dickinson helped stage the 2023 Snail Racing World Championship.",
@@ -1876,30 +1900,6 @@
             "link": "https://www.kuow.org/stories/encore-yungblud-on-his-new-eponymous-album",
             "pubDate": "Sun, 11 Dec 2022 04:54:22 -0800",
             "title": "Encore: Yungblud on his new eponymous album"
-        },
-        {
-            "author": "Ayesha Rascoe",
-            "content": "NPR's Ayesha Rascoe talks to Joshua Yehl at the games and entertainment website IGN about how to get into comics for the upcoming holiday season.",
-            "contentSnippet": "NPR's Ayesha Rascoe talks to Joshua Yehl at the games and entertainment website IGN about how to get into comics for the upcoming holiday season.",
-            "creator": "Ayesha Rascoe",
-            "enclosure": {
-                "length": "5868000",
-                "type": "audio/mp3",
-                "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2022/12/20221211_wesun_getting_into_comics.mp3?orgId=1&topicId=1032&d=326&p=10&story=1142119480&ft=nprml&f=1142119480"
-            },
-            "guid": "story-74603",
-            "isoDate": "2022-12-11T12:54:22.000Z",
-            "itunes": {
-                "author": "Ayesha Rascoe",
-                "duration": "00:05:26",
-                "explicit": "no",
-                "image": "https://d3cu50eznh8qk.cloudfront.net/logos/kuow.png",
-                "subtitle": "How to get into comics for the upcoming holiday season",
-                "summary": "NPR's Ayesha Rascoe talks to Joshua Yehl at the games and entertainment website IGN about how to get into comics for the upcoming holiday season."
-            },
-            "link": "https://www.kuow.org/stories/how-to-get-into-comics-for-the-upcoming-holiday-season",
-            "pubDate": "Sun, 11 Dec 2022 04:54:22 -0800",
-            "title": "How to get into comics for the upcoming holiday season"
         }
     ],
     "itunes": {
@@ -1921,7 +1921,7 @@
         }
     },
     "language": "en",
-    "lastBuildDate": "Sun, 16 Jul 2023 00:27:35 +0000",
+    "lastBuildDate": "Sun, 23 Jul 2023 00:25:57 +0000",
     "link": "https://www.kuow.org/podcasts/weekendedition-sunday",
     "paginationLinks": {
         "self": "https://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml"

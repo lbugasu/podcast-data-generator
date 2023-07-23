@@ -5,9 +5,30 @@
     "image": {
         "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
         "title": "Friday Night Comedy from BBC Radio 4",
-        "url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0fsbgrl.jpg"
+        "url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0g1x76v.jpg"
     },
     "items": [
+        {
+            "content": "featuring the voices of Jon Culshaw, Duncan Wisbey, Jess Robinson, Jason Forbes and Jan Ravens.",
+            "contentSnippet": "featuring the voices of Jon Culshaw, Duncan Wisbey, Jess Robinson, Jason Forbes and Jan Ravens.",
+            "enclosure": {
+                "length": "26864000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0fy1y7f.mp3"
+            },
+            "guid": "urn:bbc:podcast:p0fsc619",
+            "isoDate": "2023-07-21T18:01:00.000Z",
+            "itunes": {
+                "author": "BBC Radio 4",
+                "duration": "1679",
+                "explicit": "clean",
+                "subtitle": "The second episode of the new series.",
+                "summary": "featuring the voices of Jon Culshaw, Duncan Wisbey, Jess Robinson, Jason Forbes and Jan Ravens."
+            },
+            "link": "http://www.bbc.co.uk/programmes/p0fsc619",
+            "pubDate": "Fri, 21 Jul 2023 18:01:00 +0000",
+            "title": "Dead Ringers - 23rd June"
+        },
         {
             "content": "Dead Ringers is back for a brand new series! Featuring the voices of Jon Culshaw, Lewis MacLeod, Jess Robinson, Duncan Wisbey and Jan Ravens.",
             "contentSnippet": "Dead Ringers is back for a brand new series! Featuring the voices of Jon Culshaw, Lewis MacLeod, Jess Robinson, Duncan Wisbey and Jan Ravens.",
@@ -3612,7 +3633,7 @@
             }
         ],
         "explicit": "no",
-        "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0fsbgrl.jpg",
+        "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0g1x76v.jpg",
         "owner": {
             "email": "RadioMusic.Support@bbc.co.uk",
             "name": "BBC"
@@ -3632,6 +3653,6 @@
         "0C5B43",
         "724D94"
     ],
-    "pubDate": "Fri, 14 Jul 2023 18:01:00 +0000",
+    "pubDate": "Fri, 21 Jul 2023 18:01:00 +0000",
     "title": "Friday Night Comedy from BBC Radio 4"
 }
