@@ -407,7 +407,7 @@
             "enclosure": {
                 "length": "20593557",
                 "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/247G8/pdst.fm/e/claritaspod.com/measure/locator.simplecastcdn.com/a88fbe81-5614-4834-8a78-24c287debbe6/eb8307ad-067f-49cd-bb32-0fb2fc2a34be.mp3?aid=rss_feed&feed=vUHP7wpf"
+                "url": "https://chtbl.com/track/247G8/pdst.fm/e/claritaspod.com/measure/cdn.simplecast.com/audio/a88fbe81-5614-4834-8a78-24c287debbe6/episodes/eb8307ad-067f-49cd-bb32-0fb2fc2a34be/audio/c22f5e0b-f8ad-4dde-828c-25ee7bd021a0/default_tc.mp3?aid=rss_feed&feed=vUHP7wpf"
             },
             "guid": "10c3295f-2a08-46a7-8914-c299ca33b460",
             "isoDate": "2021-10-26T07:05:00.000Z",
@@ -2329,7 +2329,7 @@
                 "subs": null
             }
         ],
-        "explicit": "no",
+        "explicit": "false",
         "image": "https://image.simplecastcdn.com/images/e6686c37-f71b-4414-bb54-c1988eb21789/79de3f95-8b9e-49dc-a8d5-d9fe89ef6548/3000x3000/english.jpg?aid=rss_feed",
         "keywords": [
             "Technology",
@@ -2352,11 +2352,10 @@
         "owner": {
             "email": "info@pacific-content.com",
             "name": "Red Hat"
-        },
-        "summary": "Hear the epic true tales of how developers, programmers, hackers, geeks, and open source rebels are revolutionizing the technology landscape. Command Line Heroes is an award-winning podcast hosted by Saron Yitbarek and produced by Red Hat. Get root access to show notes, transcripts, and other associated content at https://redhat.com/commandlineheroes"
+        }
     },
     "language": "en",
-    "lastBuildDate": "Tue, 20 Jun 2023 18:03:56 +0000",
+    "lastBuildDate": "Wed, 30 Aug 2023 13:51:40 +0000",
     "link": "https://www.redhat.com/en/command-line-heroes",
     "paginationLinks": {
         "self": "https://feeds.pacific-content.com/commandlineheroes"
