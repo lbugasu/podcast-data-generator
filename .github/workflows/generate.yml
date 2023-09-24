@@ -1,4 +1,4 @@
-name: build
+name: Generate Podcast Data
 on:
   push:
     branches:
@@ -91,4 +91,4 @@ jobs:
           REPO: self
           BRANCH: release
           FOLDER: dist
-          GITHUB_TOKEN: ${{ secrets.POD_DATA_GEN_RELEASE }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

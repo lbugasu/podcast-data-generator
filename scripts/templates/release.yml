@@ -4,6 +4,8 @@ on:
     branches:
       - release
 
+permissions: write-all
+
 jobs:
   release-on-push:
     runs-on: ubuntu-latest
@@ -35,7 +37,7 @@ jobs:
       - name: Generate named entities 🚀
         uses: peter-evans/repository-dispatch@v2
         with:
-          token: ${{ secrets.PODCAST_DATA_LAB }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           repository: podcast-data-lab/entity-extraction
           event-type: extract_named_entities
           client-payload: '{}'
