@@ -4611,11 +4611,19 @@
         "categoriesWithSubs": [
             {
                 "name": "Music",
-                "subs": null
+                "subs": [
+                    {
+                        "name": "Music Commentary"
+                    }
+                ]
             },
             {
                 "name": "Arts",
-                "subs": null
+                "subs": [
+                    {
+                        "name": "Design"
+                    }
+                ]
             },
             {
                 "name": "Society & Culture",
