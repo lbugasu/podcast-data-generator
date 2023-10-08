@@ -1,13 +1,35 @@
 {
     "copyright": "Copyright \u00a9 Dow Jones & Company, Inc. All rights reserved.",
     "description": "Get the lowdown on high finance each week\u00a0with Barron\u2019s columnist Jack Hough. Business leaders\u00a0and trendspotters,\u00a0insights and absurdities\u2014this is Wall\u00a0Street\u00a0like you've never heard before.",
-    "feedUrl": "https://feeds.megaphone.fm/WSJ9113001724?limit=300",
+    "feedUrl": "https://feeds-origin.megaphone.fm/WSJ9113001724?limit=300",
     "image": {
         "link": "https://www.barrons.com/podcasts/streetwise",
         "title": "Barron's Streetwise",
         "url": "https://megaphone.imgix.net/podcasts/d2689f40-6dcc-11ea-8304-a7875ed5babf/image/uploads_2F1585053679911-d1o6zpv03yg-61db7fe8088b00a33693b30c10898717_2FPodcast_Streetwise_Branded.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     },
     "items": [
+        {
+            "content": "Plus, a few words on bond yields, Hammurabi, and Buffalo Bill.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+            "content:encoded": "\n        <p>Plus, a few words on bond yields, Hammurabi, and Buffalo Bill.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
+            "content:encodedSnippet": "Plus, a few words on bond yields, Hammurabi, and Buffalo Bill.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+            "contentSnippet": "Plus, a few words on bond yields, Hammurabi, and Buffalo Bill.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5168290259.mp3?updated=1696613866"
+            },
+            "guid": "5b278e0e-646e-11ee-a26d-fb67b44dd0f5",
+            "isoDate": "2023-10-06T17:01:00.000Z",
+            "itunes": {
+                "author": "Barron's",
+                "duration": "1490",
+                "episodeType": "full",
+                "subtitle": "",
+                "summary": "Plus, a few words on bond yields, Hammurabi, and Buffalo Bill.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
+            },
+            "pubDate": "Fri, 06 Oct 2023 17:01:00 -0000",
+            "title": " D.A. Davidson's Top Stocks"
+        },
         {
             "content": "BofA Merrill Lynch\u2019s top stock strategist explains what to expect from here. And Jack looks at $100 crude and a tech antitrust suit.\n\n\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
             "content:encoded": "\n        <p>BofA Merrill Lynch\u2019s top stock strategist explains what to expect from here. And Jack looks at $100 crude and a tech antitrust suit.</p>\n<p><br></p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
@@ -4256,7 +4278,7 @@
     "language": "en",
     "link": "https://www.barrons.com/podcasts/streetwise",
     "paginationLinks": {
-        "self": "https://feeds.megaphone.fm/WSJ9113001724?limit=300"
+        "self": "https://feeds-origin.megaphone.fm/WSJ9113001724?limit=300"
     },
     "palette": [
         "052C4A",
