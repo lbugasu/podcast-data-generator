@@ -2,9 +2,33 @@
     "author": "NPR",
     "creator": "NPR",
     "description": "Weekend Edition Sunday features interviews with newsmakers, artists, scientists, politicians, musicians, writers, theologians and historians. ",
-    "feedUrl": "https://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml",
+    "feedUrl": "http://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml",
     "generator": "KUOW Core Services",
     "items": [
+        {
+            "author": "Ayesha Rascoe",
+            "content": "NPR's Ayesha Rascoe speaks with transgender teenager Nola Rhea and her mother Heather Rhea about a new Nebraska law restricting gender-affirming care.",
+            "contentSnippet": "NPR's Ayesha Rascoe speaks with transgender teenager Nola Rhea and her mother Heather Rhea about a new Nebraska law restricting gender-affirming care.",
+            "creator": "Ayesha Rascoe",
+            "enclosure": {
+                "length": "7416000",
+                "type": "audio/mp3",
+                "url": "https://play.podtrac.com/npr-10/ondemand.npr.org/anon.npr-mp3/npr/wesun/2023/10/20231008_wesun_ne_trans_care_ban.mp3?orgId=1&topicId=1003&d=412&p=10&story=1204545873&ft=nprml&f=1204545873"
+            },
+            "guid": "story-85231",
+            "isoDate": "2023-10-08T12:01:22.000Z",
+            "itunes": {
+                "author": "Ayesha Rascoe",
+                "duration": "00:06:52",
+                "explicit": "false",
+                "image": "https://d3cu50eznh8qk.cloudfront.net/logos/kuow.png",
+                "subtitle": "A trans teenager and her mom reflect on Nebraska restricting gender-affirming care",
+                "summary": "NPR's Ayesha Rascoe speaks with transgender teenager Nola Rhea and her mother Heather Rhea about a new Nebraska law restricting gender-affirming care."
+            },
+            "link": "https://www.kuow.org/stories/a-trans-teenager-and-her-mom-reflect-on-nebraska-restricting-gender-affirming-care",
+            "pubDate": "Sun, 8 Oct 2023 05:01:22 -0700",
+            "title": "A trans teenager and her mom reflect on Nebraska restricting gender-affirming care"
+        },
         {
             "author": "Ayesha Rascoe",
             "content": "NPR's Ayesha Rascoe speaks with author Yomi Adegoke abouther new novel, The List.",
@@ -1876,30 +1900,6 @@
             "link": "https://www.kuow.org/stories/children-s-medicines-can-be-hard-to-find-right-now-here-are-some-alternatives",
             "pubDate": "Sun, 25 Dec 2022 05:53:37 -0800",
             "title": "Children's medicines can be hard to find right now. Here are some alternatives"
-        },
-        {
-            "author": "Daniel Estrin",
-            "content": "KWWL sports reporter Mark Woodley begrudgingly had to cover the cold weather last week in Waterloo, Iowa.",
-            "contentSnippet": "KWWL sports reporter Mark Woodley begrudgingly had to cover the cold weather last week in Waterloo, Iowa.",
-            "creator": "Daniel Estrin",
-            "enclosure": {
-                "length": "1890000",
-                "type": "audio/mp3",
-                "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2022/12/20221225_wesun_cranky_weatherman.mp3?orgId=1&topicId=1165&d=105&p=10&story=1145471833&ft=nprml&f=1145471833"
-            },
-            "guid": "story-75090",
-            "isoDate": "2022-12-25T13:06:26.000Z",
-            "itunes": {
-                "author": "Daniel Estrin",
-                "duration": "00:01:45",
-                "explicit": "false",
-                "image": "https://d3cu50eznh8qk.cloudfront.net/logos/kuow.png",
-                "subtitle": "A sports reporter went viral for his begrudging weather reports in freezing Iowa",
-                "summary": "KWWL sports reporter Mark Woodley begrudgingly had to cover the cold weather last week in Waterloo, Iowa."
-            },
-            "link": "https://www.kuow.org/stories/a-sports-reporter-went-viral-for-his-begrudging-weather-reports-in-freezing-iowa",
-            "pubDate": "Sun, 25 Dec 2022 05:06:26 -0800",
-            "title": "A sports reporter went viral for his begrudging weather reports in freezing Iowa"
         }
     ],
     "itunes": {
@@ -1921,10 +1921,10 @@
         }
     },
     "language": "en",
-    "lastBuildDate": "Sun, 08 Oct 2023 00:20:43 +0000",
+    "lastBuildDate": "Sun, 15 Oct 2023 00:09:27 +0000",
     "link": "https://www.kuow.org/podcasts/weekendedition-sunday",
     "paginationLinks": {
-        "self": "https://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml"
+        "self": "http://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml"
     },
     "palette": [],
     "title": "Weekend Edition Sunday"
