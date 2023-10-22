@@ -1,7 +1,7 @@
 {
     "description": "A podcast about life and politics on the African continent",
     "feedUrl": "https://www.ufahamuafrica.com/category/podcast/feed/",
-    "generator": "https://www.ufahamuafrica.com?v=6.2.2",
+    "generator": "https://www.ufahamuafrica.com?v=6.2.3",
     "image": {
         "height": "32",
         "link": "https://www.ufahamuafrica.com",
@@ -10,6 +10,20 @@
         "width": "32"
     },
     "items": [
+        {
+            "categories": [
+                "Podcast"
+            ],
+            "content": "Dede Barpeen, Gibson Mainaon, and Ruth Sulaimon are health professionals from across the continent\u2014Liberia, Kenya, and Guinea-Bissau, respectively. We spoke with them about their expertise in public administration and health while they were at Cornell University this summer completing the Mandela Washington Fellowship for Young African Leaders (YALI).\u00a0 The fellows speak to their vision for <a class=\"read-more\" href=\"https://www.ufahamuafrica.com/2023/10/21/ep-180-mandela-fellows-dede-barpeen-gibson-mainaon-and-ruth-sulaimon-on-health/\">Read More...</a>",
+            "contentSnippet": "Dede Barpeen, Gibson Mainaon, and Ruth Sulaimon are health professionals from across the continent\u2014Liberia, Kenya, and Guinea-Bissau, respectively. We spoke with them about their expertise in public administration and health while they were at Cornell University this summer completing the Mandela Washington Fellowship for Young African Leaders (YALI).\u00a0 The fellows speak to their vision for Read More...",
+            "creator": "md963",
+            "dc:creator": "md963",
+            "guid": "https://blogs.cornell.edu/ufahamuafrica/?p=6055",
+            "isoDate": "2023-10-21T13:00:00.000Z",
+            "link": "https://www.ufahamuafrica.com/2023/10/21/ep-180-mandela-fellows-dede-barpeen-gibson-mainaon-and-ruth-sulaimon-on-health/",
+            "pubDate": "Sat, 21 Oct 2023 13:00:00 +0000",
+            "title": "Ep. 180: Mandela Fellows Dede Barpeen, Gibson Maina, and Ruth Sulaimon on Health"
+        },
         {
             "categories": [
                 "Podcast",
@@ -140,25 +154,10 @@
             "link": "https://www.ufahamuafrica.com/2023/05/27/ep-174-a-conversation-with-maseke-rioba-and-njuguna-macharia-on-the-sport-of-debate/",
             "pubDate": "Sat, 27 May 2023 13:00:00 +0000",
             "title": "Ep. 174: A conversation with Maseke Rioba and Njuguna Macharia on the sport of debate"
-        },
-        {
-            "categories": [
-                "Podcast",
-                "South Africa"
-            ],
-            "content": "From fellow Kamogelo Tinyiko Theledi comes this episode on arts funding and corruption in South Africa. Kamo speaks with multiple guests about South Africa&#8217;s Department of Sports, Arts, and Culture, a group that announced a relief fund of 150 million rand ($8.3 million) for artists, athletes, and others in these industries. Most of the money, <a class=\"read-more\" href=\"https://www.ufahamuafrica.com/2023/05/20/ep-173-a-conversation-with-fellow-kamogelo-tinyiko-theledi-on-arts-funding-and-corruption/\">Read More...</a>",
-            "contentSnippet": "From fellow Kamogelo Tinyiko Theledi comes this episode on arts funding and corruption in South Africa. Kamo speaks with multiple guests about South Africa\u2019s Department of Sports, Arts, and Culture, a group that announced a relief fund of 150 million rand ($8.3 million) for artists, athletes, and others in these industries. Most of the money, Read More...",
-            "creator": "md963",
-            "dc:creator": "md963",
-            "guid": "https://blogs.cornell.edu/ufahamuafrica/?p=3933",
-            "isoDate": "2023-05-20T13:00:00.000Z",
-            "link": "https://www.ufahamuafrica.com/2023/05/20/ep-173-a-conversation-with-fellow-kamogelo-tinyiko-theledi-on-arts-funding-and-corruption/",
-            "pubDate": "Sat, 20 May 2023 13:00:00 +0000",
-            "title": "Ep. 173: A conversation with fellow Kamogelo Tinyiko Theledi on arts funding and corruption"
         }
     ],
     "language": "en-US",
-    "lastBuildDate": "Sat, 14 Oct 2023 15:24:41 +0000",
+    "lastBuildDate": "Fri, 20 Oct 2023 18:57:48 +0000",
     "link": "https://www.ufahamuafrica.com",
     "paginationLinks": {
         "self": "https://www.ufahamuafrica.com/category/podcast/feed/"

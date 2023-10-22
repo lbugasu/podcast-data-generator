@@ -1,13 +1,36 @@
 {
     "copyright": "Copyright 2019-2021 NPR - For Personal Use Only",
     "description": "The past is never past. Every headline has a history. Join us every week as we go back in time to understand the present. These are stories you can feel and sounds you can see from the moments that shaped our world.<br><br><em>Subscribe to Throughline+. You'll be supporting the history-reframing, perspective-shifting, time-warping stories you can't get enough of - and you'll unlock access bonus episodes and sponsor-free listening. Learn more at plus.npr.org/throughline</em>",
-    "generator": "NPR Feed Publish Service v1.15.1",
+    "generator": "NPR Feed Publish Service v1.15.2",
     "image": {
         "link": "https://www.npr.org/podcasts/510333/throughline",
         "title": "Throughline",
         "url": "https://media.npr.org/assets/img/2022/09/23/throughline_tile_npr-network-01_sq-53d2dcb6d4b07be30f1b23f5ae9939c67c3bc62e.jpg?s=1400&c=66&f=jpg"
     },
     "items": [
+        {
+            "content": "Long before it was a sugary moviefest, the Halloween we know was called Samhain. The Celts of ancient Ireland believed Samhain was a night when the barrier between worlds was thin, the dead could cross over, and if you didn't disguise yourself, evil fairies might spirit you away. Over time the holiday shape-shifted too, thanks to the Catholic Church, pagan groups, and even the brewing company Coors. From the Great Famine of Ireland to Elvira and the Simpsons, we present the many faces of Halloween.",
+            "content:encoded": "Long before it was a sugary moviefest, the Halloween we know was called Samhain. The Celts of ancient Ireland believed Samhain was a night when the barrier between worlds was thin, the dead could cross over, and if you didn't disguise yourself, evil fairies might spirit you away. Over time the holiday shape-shifted too, thanks to the Catholic Church, pagan groups, and even the brewing company Coors. From the Great Famine of Ireland to Elvira and the Simpsons, we present the many faces of Halloween.",
+            "content:encodedSnippet": "Long before it was a sugary moviefest, the Halloween we know was called Samhain. The Celts of ancient Ireland believed Samhain was a night when the barrier between worlds was thin, the dead could cross over, and if you didn't disguise yourself, evil fairies might spirit you away. Over time the holiday shape-shifted too, thanks to the Catholic Church, pagan groups, and even the brewing company Coors. From the Great Famine of Ireland to Elvira and the Simpsons, we present the many faces of Halloween.",
+            "contentSnippet": "Long before it was a sugary moviefest, the Halloween we know was called Samhain. The Celts of ancient Ireland believed Samhain was a night when the barrier between worlds was thin, the dead could cross over, and if you didn't disguise yourself, evil fairies might spirit you away. Over time the holiday shape-shifted too, thanks to the Catholic Church, pagan groups, and even the brewing company Coors. From the Great Famine of Ireland to Elvira and the Simpsons, we present the many faces of Halloween.",
+            "enclosure": {
+                "length": "48336188",
+                "type": "audio/mpeg",
+                "url": "https://play.podtrac.com/npr-510333/traffic.megaphone.fm/NPR8885291782.mp3?d=3020&size=48336188&e=1198908127&t=podcast&p=510333"
+            },
+            "guid": "a48c2b19-cbc5-4b1a-9b8d-4eef08af9c32",
+            "isoDate": "2023-10-19T07:00:59.000Z",
+            "itunes": {
+                "duration": "3020",
+                "episode": "262",
+                "episodeType": "full",
+                "explicit": "no",
+                "image": "https://media.npr.org/assets/img/2023/10/16/npr_throughline_holloween_final_sq-b35ffc4aa1a2629134021d6dac9ef623693d62fe.jpg?s=1900&c=66&f=jpg"
+            },
+            "link": "https://www.npr.org/2023/10/19/1198908127/throughline-draft-10-19-2023",
+            "pubDate": "Thu, 19 Oct 2023 07:00:59 +0000",
+            "title": "The Dance of the Dead (2021)"
+        },
         {
             "content": "In 1855, Abraham Lincoln wrote a letter to his best friend, Joshua Speed. Speed was from a wealthy, slave-owning Kentucky family; Lincoln believed slavery was wrong. You are mistaken about this, Lincoln wrote to Speed. But, differ we must.\" One way for Lincoln to have dealt with his best friend, I suppose, would be to say you're a horrible person, you're morally wrong, and I shun you,\" says NPR's Steve Inskeep. \"Lincoln did not take that approach, which I think might be a little controversial today.\"You might know Steve primarily for hosting NPR's Morning Edition. He also writes histories, and his newest book, \"Differ We Must: How Lincoln Succeeded in a Divided America,\" takes a long hard look at Lincoln the politician: the man who went out of his way to build political consensus, even with people whose views he considered noxious. It's a case for why we should collaborate, and yes, compromise with people across the aisle \u2013 not because it's nice or the right thing to do, but because it makes our government work. Today on Throughline, a conversation with Steve Inskeep about the contradictions of Abraham Lincoln.",
             "content:encoded": "In 1855, Abraham Lincoln wrote a letter to his best friend, Joshua Speed. Speed was from a wealthy, slave-owning Kentucky family; Lincoln believed slavery was wrong. You are mistaken about this, Lincoln wrote to Speed. But, differ we must.\" One way for Lincoln to have dealt with his best friend, I suppose, would be to say you're a horrible person, you're morally wrong, and I shun you,\" says NPR's Steve Inskeep. \"Lincoln did not take that approach, which I think might be a little controversial today.\"You might know Steve primarily for hosting NPR's Morning Edition. He also writes histories, and his newest book, \"Differ We Must: How Lincoln Succeeded in a Divided America,\" takes a long hard look at Lincoln the politician: the man who went out of his way to build political consensus, even with people whose views he considered noxious. It's a case for why we should collaborate, and yes, compromise with people across the aisle \u2013 not because it's nice or the right thing to do, but because it makes our government work. Today on Throughline, a conversation with Steve Inskeep about the contradictions of Abraham Lincoln.",
@@ -5898,10 +5921,14 @@
     "itunes": {
         "author": "NPR",
         "categories": [
-            "Society & Culture",
-            "History"
+            "History",
+            "Society & Culture"
         ],
         "categoriesWithSubs": [
+            {
+                "name": "History",
+                "subs": null
+            },
             {
                 "name": "Society & Culture",
                 "subs": [
@@ -5909,10 +5936,6 @@
                         "name": "Documentary"
                     }
                 ]
-            },
-            {
-                "name": "History",
-                "subs": null
             }
         ],
         "image": "https://media.npr.org/assets/img/2022/09/23/throughline_tile_npr-network-01_sq-53d2dcb6d4b07be30f1b23f5ae9939c67c3bc62e.jpg?s=1400&c=66&f=jpg",
@@ -5922,7 +5945,7 @@
         }
     },
     "language": "en-us",
-    "lastBuildDate": "Fri, 13 Oct 2023 16:58:01 +0000",
+    "lastBuildDate": "Thu, 19 Oct 2023 07:02:08 +0000",
     "link": "https://www.npr.org/podcasts/510333/throughline",
     "palette": [
         "040404",
