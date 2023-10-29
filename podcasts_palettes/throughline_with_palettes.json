@@ -1,13 +1,36 @@
 {
     "copyright": "Copyright 2019-2021 NPR - For Personal Use Only",
     "description": "The past is never past. Every headline has a history. Join us every week as we go back in time to understand the present. These are stories you can feel and sounds you can see from the moments that shaped our world.<br><br><em>Subscribe to Throughline+. You'll be supporting the history-reframing, perspective-shifting, time-warping stories you can't get enough of - and you'll unlock access bonus episodes and sponsor-free listening. Learn more at plus.npr.org/throughline</em>",
-    "generator": "NPR Feed Publish Service v1.15.2",
+    "generator": "NPR Feed Publish Service v1.15.4",
     "image": {
         "link": "https://www.npr.org/podcasts/510333/throughline",
         "title": "Throughline",
         "url": "https://media.npr.org/assets/img/2022/09/23/throughline_tile_npr-network-01_sq-53d2dcb6d4b07be30f1b23f5ae9939c67c3bc62e.jpg?s=1400&c=66&f=jpg"
     },
     "items": [
+        {
+            "content": "\"Authority, without any condition and reservation, belongs to the nation.\" A military commander named Mustafa Kemal uttered these words in 1923, on the eve of the founding of the Republic of Turkey. He would later rename himself Ataturk, \"Father of the Turks.\" And he was outlining a vision for the future: a future where old empires were buried and new nations reigned supreme. That vision would resonate beyond the borders of the new Turkey, becoming a shining example for leaders around the world of how to build a single unified national identity \u2014 no matter the cost.",
+            "content:encoded": "\"Authority, without any condition and reservation, belongs to the nation.\" A military commander named Mustafa Kemal uttered these words in 1923, on the eve of the founding of the Republic of Turkey. He would later rename himself Ataturk, \"Father of the Turks.\" And he was outlining a vision for the future: a future where old empires were buried and new nations reigned supreme. That vision would resonate beyond the borders of the new Turkey, becoming a shining example for leaders around the world of how to build a single unified national identity \u2014 no matter the cost.",
+            "content:encodedSnippet": "\"Authority, without any condition and reservation, belongs to the nation.\" A military commander named Mustafa Kemal uttered these words in 1923, on the eve of the founding of the Republic of Turkey. He would later rename himself Ataturk, \"Father of the Turks.\" And he was outlining a vision for the future: a future where old empires were buried and new nations reigned supreme. That vision would resonate beyond the borders of the new Turkey, becoming a shining example for leaders around the world of how to build a single unified national identity \u2014 no matter the cost.",
+            "contentSnippet": "\"Authority, without any condition and reservation, belongs to the nation.\" A military commander named Mustafa Kemal uttered these words in 1923, on the eve of the founding of the Republic of Turkey. He would later rename himself Ataturk, \"Father of the Turks.\" And he was outlining a vision for the future: a future where old empires were buried and new nations reigned supreme. That vision would resonate beyond the borders of the new Turkey, becoming a shining example for leaders around the world of how to build a single unified national identity \u2014 no matter the cost.",
+            "enclosure": {
+                "length": "51414876",
+                "type": "audio/mpeg",
+                "url": "https://play.podtrac.com/npr-510333/traffic.megaphone.fm/NPR9294076390.mp3?d=3213&size=51414876&e=1198908163&t=podcast&p=510333"
+            },
+            "guid": "f1a67ce4-011c-4427-a6f3-276428294c94",
+            "isoDate": "2023-10-26T07:00:59.000Z",
+            "itunes": {
+                "duration": "3213",
+                "episode": "263",
+                "episodeType": "full",
+                "explicit": "no",
+                "image": "https://media.npr.org/assets/img/2023/10/23/gettyimages-1090878878_sq-d71ff86b16beadd946e1dc4dd755e9da8a64d6b5.jpg?s=1900&c=66&f=jpg"
+            },
+            "link": "https://www.npr.org/2023/10/26/1198908163/the-three-faces-of-ataturk",
+            "pubDate": "Thu, 26 Oct 2023 07:00:59 +0000",
+            "title": "The Three Faces of Ataturk"
+        },
         {
             "content": "Long before it was a sugary moviefest, the Halloween we know was called Samhain. The Celts of ancient Ireland believed Samhain was a night when the barrier between worlds was thin, the dead could cross over, and if you didn't disguise yourself, evil fairies might spirit you away. Over time the holiday shape-shifted too, thanks to the Catholic Church, pagan groups, and even the brewing company Coors. From the Great Famine of Ireland to Elvira and the Simpsons, we present the many faces of Halloween.",
             "content:encoded": "Long before it was a sugary moviefest, the Halloween we know was called Samhain. The Celts of ancient Ireland believed Samhain was a night when the barrier between worlds was thin, the dead could cross over, and if you didn't disguise yourself, evil fairies might spirit you away. Over time the holiday shape-shifted too, thanks to the Catholic Church, pagan groups, and even the brewing company Coors. From the Great Famine of Ireland to Elvira and the Simpsons, we present the many faces of Halloween.",
@@ -5945,7 +5968,7 @@
         }
     },
     "language": "en-us",
-    "lastBuildDate": "Thu, 19 Oct 2023 07:02:08 +0000",
+    "lastBuildDate": "Fri, 27 Oct 2023 01:40:12 +0000",
     "link": "https://www.npr.org/podcasts/510333/throughline",
     "palette": [
         "040404",

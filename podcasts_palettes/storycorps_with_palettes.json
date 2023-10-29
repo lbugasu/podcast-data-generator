@@ -1,13 +1,37 @@
 {
     "copyright": "Copyright 2016-2021 StoryCorps, Inc. - For Personal Use Only",
     "description": "Stories of the human heart. A candid, unscripted conversation between two people about what's really important in life: love, loss, family, friendship. When the world seems out of hand, tune in to <em>StoryCorps</em> and be reminded of the things that matter most.",
-    "generator": "NPR Feed Publish Service v1.14.0",
+    "generator": "NPR Feed Publish Service v1.15.2",
     "image": {
         "link": "https://www.npr.org/podcasts/510200/storycorps",
         "title": "StoryCorps",
         "url": "https://media.npr.org/assets/img/2022/09/23/story-corps_tile_npr-network-01_sq-2590f9fef8285e162e8aa524e0fedd5462c64292.jpg?s=1400&c=66&f=jpg"
     },
     "items": [
+        {
+            "content": "In this episode, we go back 20 years to the origins of StoryCorps\u2013the challenges of building a recording booth in Grand Central Terminal\u2013 and we catch up with the participants from the first ever radio story we broadcast on NPR.",
+            "content:encoded": "In this episode, we go back 20 years to the origins of StoryCorps\u2013the challenges of building a recording booth in Grand Central Terminal\u2013 and we catch up with the participants from the first ever radio story we broadcast on NPR.",
+            "content:encodedSnippet": "In this episode, we go back 20 years to the origins of StoryCorps\u2013the challenges of building a recording booth in Grand Central Terminal\u2013 and we catch up with the participants from the first ever radio story we broadcast on NPR.",
+            "contentSnippet": "In this episode, we go back 20 years to the origins of StoryCorps\u2013the challenges of building a recording booth in Grand Central Terminal\u2013 and we catch up with the participants from the first ever radio story we broadcast on NPR.",
+            "enclosure": {
+                "length": "24246275",
+                "type": "audio/mpeg",
+                "url": "https://play.podtrac.com/npr-510200/traffic.megaphone.fm/NPR2416420746.mp3?d=1515&size=24246275&e=1199533172&t=podcast&p=510200"
+            },
+            "guid": "e5f20d36-2aaa-447e-872c-ea692be808a7",
+            "isoDate": "2023-10-24T07:00:11.000Z",
+            "itunes": {
+                "duration": "1515",
+                "episode": "3",
+                "episodeType": "full",
+                "explicit": "no",
+                "image": "https://media.npr.org/assets/img/2023/10/23/podcast_20thanni_e01_16x9_sq-c928d0881ab84483db1a5a683c2ca75254f9c65a.png?s=1900&c=66&f=png",
+                "season": "11"
+            },
+            "link": "https://www.npr.org/2023/10/24/1199533172/story-corps-draft-10-24-2023",
+            "pubDate": "Tue, 24 Oct 2023 07:00:11 +0000",
+            "title": "StoryCorps Then and Now: StoryCorps is Born"
+        },
         {
             "content": "As StoryCorps' 20th anniversary approaches, we'll be looking back at important moments both in our history and the country's. This week \u2014 one more short story from our Military Voices Initiative. Sergeant Ocean Subiono tells his father, Russell Subiono, about what happened when he tried to enlist.",
             "content:encoded": "As StoryCorps' 20th anniversary approaches, we'll be looking back at important moments both in our history and the country's. This week \u2014 one more short story from our Military Voices Initiative. Sergeant Ocean Subiono tells his father, Russell Subiono, about what happened when he tried to enlist.",
@@ -25,7 +49,7 @@
                 "episode": "3",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2023/09/25/subiono16x9_wide-26989dd385f7efa33a64ebe6a9854d902b1005a0.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2023/09/25/subiono16x9_sq-33b5f90cf9721c250d1b6347220d2fa17587292d.jpg?s=1900&c=66&f=jpg",
                 "season": "11"
             },
             "link": "https://www.npr.org/2023/09/26/1199532017/story-corps-draft-09-26-2023",
@@ -49,7 +73,7 @@
                 "episode": "1",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2023/09/18/cliburn16x9_wide-fc0dfda7c4930dde0aa8e6cb3a784b066d84e35e.png?s=1400&c=66&f=png",
+                "image": "https://media.npr.org/assets/img/2023/09/18/cliburn16x9_sq-05d031b05c068075bbcaaf02873666bb15a3c03a.png?s=1900&c=66&f=png",
                 "season": "11"
             },
             "link": "https://www.npr.org/2023/09/19/1199531964/story-corps-draft-09-19-2023",
@@ -73,7 +97,7 @@
                 "episode": "8",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2023/07/31/draft-6-10-1-_wide-12a0d0f0a649f0d30e60a75f7979bbc061005bdb.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2023/07/31/draft-6-10-1-_sq-a12f56b26dc416e484c7b6fd7beb1169bd67440a.jpg?s=1900&c=66&f=jpg",
                 "season": "10"
             },
             "link": "https://www.npr.org/2023/07/31/1191165617/living-for-the-dead",
@@ -97,7 +121,7 @@
                 "episode": "7",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2023/07/24/-final-storycorps-stigmas-ll-10-_wide-717003557509984e90753421aa20215f113edad8.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2023/07/24/-final-storycorps-stigmas-ll-10-_sq-aa5d0e53bf1a53d4a1547ec3ee070ec2aa9494a7.jpg?s=1900&c=66&f=jpg",
                 "season": "10"
             },
             "link": "https://www.npr.org/2023/07/24/1189894046/same-train-different-tracks",
@@ -121,7 +145,7 @@
                 "episode": "6",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2023/07/17/e6_16x9_wide-55f061055fbb710e369d0f70533c229ae4ed1fe8.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2023/07/17/e6_16x9_sq-f28d1f2057641065fb678168152c961ea1cb670d.jpg?s=1900&c=66&f=jpg",
                 "season": "10"
             },
             "link": "https://www.npr.org/2023/07/17/1188197856/to-speak-up",
@@ -145,7 +169,7 @@
                 "episode": "5",
                 "episodeType": "full",
                 "explicit": "yes",
-                "image": "https://media.npr.org/assets/img/2023/07/10/final-storycorps-stigmas-ll-4-_wide-7a1aa2489024b98db94bb4376bed134fa069c9ae.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2023/07/10/final-storycorps-stigmas-ll-4-_sq-3caec00f8f1eb6072fff066c95ee21ba968c395b.jpg?s=1900&c=66&f=jpg",
                 "season": "10"
             },
             "link": "https://www.npr.org/2023/07/10/1186888818/the-long-way-home",
@@ -169,7 +193,7 @@
                 "episode": "4",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2023/07/03/e4_16x9_wide-210fe5bbfdd4751fb6dde3d0094c43e8d4bad42c.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2023/07/03/e4_16x9_sq-d438feee90c97e40037f765b4a92dc8c34cc2a92.jpg?s=1900&c=66&f=jpg",
                 "season": "10"
             },
             "link": "https://www.npr.org/2023/07/03/1185826589/seeing-the-way",
@@ -193,7 +217,7 @@
                 "episode": "3",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2023/06/26/e3_16x9_wide-e4f7f2c1c37a881f2a47429c9c88e5a43d8665df.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2023/06/26/e3_16x9_sq-3125f08fa352511f80506629095dbe59ae566690.jpg?s=1900&c=66&f=jpg",
                 "season": "10"
             },
             "link": "https://www.npr.org/2023/06/26/1184359578/thank-god-for-coney-island",
@@ -217,7 +241,7 @@
                 "episode": "2",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2023/06/14/e2_16x9_wide-8babd4afc86a9a6f2ce6cb0549dc4ab62f3618ee.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2023/06/14/e2_16x9_sq-7576723adb13b7ee3016bdf15d6ed84bcb5fd0ae.jpg?s=1900&c=66&f=jpg",
                 "season": "10"
             },
             "link": "https://www.npr.org/2023/06/14/1182275721/a-lasting-shot",
@@ -241,7 +265,7 @@
                 "episode": "1",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2023/06/12/lazowski-16x9-1-_wide-9eb17422f12ae544c09dd68eac4cba1e984f2c58.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2023/06/12/lazowski-16x9-1-_sq-f7f3c2075fc4e34d2c15261e72a449d07f0495dc.jpg?s=1900&c=66&f=jpg",
                 "season": "10"
             },
             "link": "https://www.npr.org/2023/06/09/1181452665/in-safe-hands",
@@ -264,7 +288,7 @@
                 "duration": "59",
                 "episodeType": "trailer",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2023/06/07/season-10-artwork-final_wide-eb2789eb5ae65c0413683b031ccde33511a4f5e1.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2023/06/07/season-10-artwork-final_sq-56aa3b53412cda0600854eb78c6b30408b8224eb.jpg?s=1900&c=66&f=jpg",
                 "season": "10"
             },
             "link": "https://www.npr.org/2023/06/07/1180884394/turning-points",
@@ -287,7 +311,7 @@
                 "duration": "314",
                 "episodeType": "bonus",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2023/05/26/screen-shot-2023-05-26-at-3-4-_wide-d65ffd32268ed7b36fe4d2513e70cd60c7facd4d.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2023/05/26/screen-shot-2023-05-26-at-3-4-_sq-918e3d9ef0465aceecf88b19461c2be1b31fd0fe.jpg?s=1900&c=66&f=jpg",
                 "season": "10"
             },
             "link": "https://www.npr.org/2023/05/26/1178404923/extra-living-life-for-them",
@@ -310,7 +334,7 @@
                 "duration": "275",
                 "episodeType": "bonus",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2023/05/11/owuso16x9_wide-7bce21a557e299bce1e7f9322bb391ab8c0b388f.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2023/05/11/owuso16x9_sq-5b15374c72cb4cf5779cadd3d09f50adb1619178.jpg?s=1900&c=66&f=jpg",
                 "season": "10"
             },
             "link": "https://www.npr.org/2023/05/11/1175679611/extra-grandmas-hands",
@@ -334,7 +358,7 @@
                 "episode": "9",
                 "episodeType": "bonus",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/12/16/episode-812_wide-0e067a70f6532d4a15b653b3de541db9868a06d0.jpeg?s=1400&c=66&f=jpeg",
+                "image": "https://media.npr.org/assets/img/2022/12/16/episode-812_sq-92a22e36114b337e5ce36755a148888dc7bbade7.jpeg?s=1900&c=66&f=jpeg",
                 "season": "9"
             },
             "link": "https://www.npr.org/2022/12/16/1143681276/extra-the-santa-tracker",
@@ -358,7 +382,7 @@
                 "episode": "8",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/12/12/e8-square_wide-2609b7a3429d92a1c571a344435e01ed8369b18b.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2022/12/12/e8-square_sq-a85ade448d4f3bfa804bf8c95d7bff7e7d1c2077.jpg?s=1900&c=66&f=jpg",
                 "season": "9"
             },
             "link": "https://www.npr.org/2022/12/12/1142355875/the-voice-for-my-song",
@@ -381,7 +405,7 @@
                 "duration": "2010",
                 "episodeType": "bonus",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/12/08/ghetto-life-101_wide-12ef2f4455725eb3e0f3094c9a89673f00710580.png?s=1400&c=66&f=png",
+                "image": "https://media.npr.org/assets/img/2022/12/08/ghetto-life-101_sq-cfe266b3ee90ccbdc8f811d7fb5cfcde8ab86d97.png?s=1900&c=66&f=png",
                 "season": "9"
             },
             "link": "https://www.npr.org/2022/12/08/1141714373/special-remembering-lloyd-newman-of-ghetto-life-101",
@@ -405,7 +429,7 @@
                 "episode": "7",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/12/05/10_wide-65329f299107f9803b3221e5741018b59095777e.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2022/12/05/10_sq-50acb51c4860bd37fbf9a7d75873504ed6b95a85.jpg?s=1900&c=66&f=jpg",
                 "season": "9"
             },
             "link": "https://www.npr.org/2022/12/05/1140865169/the-last-patients",
@@ -429,7 +453,7 @@
                 "episode": "6",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/11/28/10_wide-314fd7f522c6a1ec9d3f4fb8577df241acd90f78.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2022/11/28/10_sq-76ca3aad6dd6bb828ea8fc24bd3fd68fa6e3ea02.jpg?s=1900&c=66&f=jpg",
                 "season": "9"
             },
             "link": "https://www.npr.org/2022/11/28/1139605125/a-dangerous-word",
@@ -453,7 +477,7 @@
                 "episode": "5",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/11/21/e5-16x9_wide-fe4db8222f8af333aa74ec713300856625582fc6.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2022/11/21/e5-16x9_sq-38eebbb3d2d6d3f3710cff8a53415decdd499c01.jpg?s=1900&c=66&f=jpg",
                 "season": "9"
             },
             "link": "https://www.npr.org/2022/11/21/1138482696/one-who-is-understanding",
@@ -477,7 +501,7 @@
                 "episode": "4",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/11/14/e416x9jpg_wide-3987f9645ba4eded5348ac2248e7c2f59e451153.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2022/11/14/e416x9jpg_sq-87a5c468197f6f4e5698e92d34ab3d6ca31c7204.jpg?s=1900&c=66&f=jpg",
                 "season": "9"
             },
             "link": "https://www.npr.org/2022/11/14/1136685273/seeing-the-future-in-you",
@@ -501,7 +525,7 @@
                 "episode": "3",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/11/07/e316x09_wide-6f4a3ca29789dc4b398b2ff8a1cd26be623c13c8.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2022/11/07/e316x09_sq-f76dde5d4ca18d801f1cd9e5fe74778137e6d505.jpg?s=1900&c=66&f=jpg",
                 "season": "9"
             },
             "link": "https://www.npr.org/2022/11/07/1135037709/youre-my-memory",
@@ -525,7 +549,7 @@
                 "episode": "2",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/10/31/3_wide-57a3ed6dd5ba2cace98739ee8ab755961890e967.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2022/10/31/3_sq-1f66a928db2f3d5d7da44d867250fd9d9c90cd27.jpg?s=1900&c=66&f=jpg",
                 "season": "9"
             },
             "link": "https://www.npr.org/2022/10/31/1133031476/everything-in-between",
@@ -548,7 +572,7 @@
                 "duration": "58",
                 "episodeType": "trailer",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/10/18/final-storycorps-stigmas-ll_wide-061f55e18b6163d21cebc85b7f759ee3a21e14d0.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2022/10/18/final-storycorps-stigmas-ll_sq-6f4f978a5126285befd2febe249095053fc8723c.jpg?s=1900&c=66&f=jpg",
                 "season": "9"
             },
             "link": "https://www.npr.org/2022/10/18/1129686606/the-things-we-carry",
@@ -572,7 +596,7 @@
                 "episode": "11",
                 "episodeType": "bonus",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/09/02/episode-810_wide-caebe74a361f9326d26c9ece3d228cb9edf995bf.jpeg?s=1400&c=66&f=jpeg",
+                "image": "https://media.npr.org/assets/img/2022/09/02/episode-810_sq-5bce033ada5f2a5a5b73883a593933da1a36dd26.jpeg?s=1900&c=66&f=jpeg",
                 "season": "8"
             },
             "link": "https://www.npr.org/2022/09/02/1120783261/extra-back-of-the-laundromat",
@@ -596,7 +620,7 @@
                 "episode": "10",
                 "episodeType": "bonus",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/08/15/episode-811_wide-251a50d35dbad6369f98c62721fa0148f0cd96a5.jpeg?s=1400&c=66&f=jpeg",
+                "image": "https://media.npr.org/assets/img/2022/08/15/episode-811_sq-794e6368352b453b14bcbcc2c2c687e4f959e279.jpeg?s=1900&c=66&f=jpeg",
                 "season": "8"
             },
             "link": "https://www.npr.org/2022/08/15/1117549339/extra-the-people-that-nurtured-me",
@@ -620,7 +644,7 @@
                 "episode": "9",
                 "episodeType": "bonus",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/07/18/episode-809_wide-8a6f717bbb715d18d29d45a8255f6364d4391d81.jpeg?s=1400&c=66&f=jpeg",
+                "image": "https://media.npr.org/assets/img/2022/07/18/episode-809_sq-5eb869cf7e03fe792997b72fbe937b5b32214821.jpeg?s=1900&c=66&f=jpeg",
                 "season": "8"
             },
             "link": "https://www.npr.org/2022/07/18/1112088006/extra-more-than-enough-love",
@@ -644,7 +668,7 @@
                 "episode": "9",
                 "episodeType": "bonus",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/06/24/miss-betty-s-calling_jackson-women-s-health_wide-b96de46b52aaf95f893e0886aa6a33f441cd598f.jpeg?s=1400&c=66&f=jpeg",
+                "image": "https://media.npr.org/assets/img/2022/06/24/miss-betty-s-calling_jackson-women-s-health_sq-1cf147031d21c8c5e8b43f20a112a0358910d32f.jpeg?s=1900&c=66&f=jpeg",
                 "season": "8"
             },
             "link": "https://www.npr.org/2022/06/24/1107337475/extra-when-i-was-16",
@@ -668,7 +692,7 @@
                 "episode": "8",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/06/20/0-3_wide-1cf56955ff4203e6d04a4371167454bde2759da1.jpeg?s=1400&c=66&f=jpeg",
+                "image": "https://media.npr.org/assets/img/2022/06/20/0-3_sq-1f45f34586ba1816c4ef605c7686114e8d7e2d36.jpeg?s=1900&c=66&f=jpeg",
                 "season": "8"
             },
             "link": "https://www.npr.org/2022/06/20/1106311837/it-all-starts-with-a-song",
@@ -692,7 +716,7 @@
                 "episode": "7",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/06/03/0-1_wide-e21f316d17450fe42e72057c0fa2a0c529fe97ff.jpeg?s=1400&c=66&f=jpeg",
+                "image": "https://media.npr.org/assets/img/2022/06/03/0-1_sq-e5afdab57d8930af220bda5c89365c43ab732935.jpeg?s=1900&c=66&f=jpeg",
                 "season": "8"
             },
             "link": "https://www.npr.org/2022/06/03/1103057435/worthy-in-their-own-beauty",
@@ -716,7 +740,7 @@
                 "episode": "6",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/06/03/0-4_wide-33e93e1874e672d1b0c4eb1944aea768c2b1940a.jpeg?s=1400&c=66&f=jpeg",
+                "image": "https://media.npr.org/assets/img/2022/06/03/0-4_sq-0d62a2ece7f4fe91ce5ef739f71ac2c3d56ccf64.jpeg?s=1900&c=66&f=jpeg",
                 "season": "8"
             },
             "link": "https://www.npr.org/2022/06/03/1102975103/fellow-travelers",
@@ -740,7 +764,7 @@
                 "episode": "5",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/05/27/0-2_wide-2593b646a0203fde7b6d4c1e7afa83f9fae81591.jpeg?s=1400&c=66&f=jpeg",
+                "image": "https://media.npr.org/assets/img/2022/05/27/0-2_sq-0482891e3ea9ce536d514c9465e40437faad1911.jpeg?s=1900&c=66&f=jpeg",
                 "season": "8"
             },
             "link": "https://www.npr.org/2022/05/27/1101911836/horses-and-helicopters",
@@ -764,7 +788,7 @@
                 "episode": "4",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/05/23/1_wide-42f880391171db089ed3acef527a79a12b960c73.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2022/05/23/1_sq-4780de11844deac8767faa96827a33db8bf75af9.jpg?s=1900&c=66&f=jpg",
                 "season": "8"
             },
             "link": "https://www.npr.org/2022/05/23/1100882612/so-theyre-not-forgotten",
@@ -788,7 +812,7 @@
                 "episode": "3",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/05/16/unnamed_wide-f32f1ef3fc59fec2d63057a1e3daf6d5e01c20a1.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2022/05/16/unnamed_sq-82fec8ea98d8c2e397e43ec30e0b6ae5bada274d.jpg?s=1900&c=66&f=jpg",
                 "season": "8"
             },
             "link": "https://www.npr.org/2022/05/16/1099352318/a-neighbors-promise",
@@ -812,7 +836,7 @@
                 "episode": "2",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/05/09/16x9_wide-ff736b5a573718e45d8bba58d93c2af17f4f8949.jpeg?s=1400&c=66&f=jpeg",
+                "image": "https://media.npr.org/assets/img/2022/05/09/16x9_sq-b9517621a7dc23c593c77748665bfe87d1ca0287.jpeg?s=1900&c=66&f=jpeg",
                 "season": "8"
             },
             "link": "https://www.npr.org/2022/05/09/1097731670/the-beginning-and-the-end",
@@ -836,7 +860,7 @@
                 "episode": "1",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/05/03/16x9_wide-816cbd0a136930b32b43fb4b4ac120f7442e8dc6.png?s=1400&c=66&f=png",
+                "image": "https://media.npr.org/assets/img/2022/05/03/16x9_sq-b94780bcd7b53911d49149b861f88ede4717680e.png?s=1900&c=66&f=png",
                 "season": "8"
             },
             "link": "https://www.npr.org/2022/05/03/1096061836/in-the-comments",
@@ -859,7 +883,7 @@
                 "duration": "58",
                 "episodeType": "trailer",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/04/25/unnamed-1_wide-74c8a586a44c7712671e1a2063d7014ef0370a30.jpg?s=1400&c=66&f=jpg",
+                "image": "https://media.npr.org/assets/img/2022/04/25/unnamed-1_sq-046451c076cdc8429110e45e7194d85052d74ae8.jpg?s=1900&c=66&f=jpg",
                 "season": "8"
             },
             "link": "https://www.npr.org/2022/04/25/1094714682/the-littlest-things",
@@ -883,7 +907,7 @@
                 "episode": "9",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/02/11/valentines-day16_9_wide-5a7c0212690a0cfd1253820782f5918d58923a29.png?s=1400&c=66&f=png",
+                "image": "https://media.npr.org/assets/img/2022/02/11/valentines-day16_9_sq-9b9987fc3cb668f922e9acf47d3bb326543a0e63.png?s=1900&c=66&f=png",
                 "season": "7"
             },
             "link": "https://www.npr.org/2022/02/11/1080244540/threes-company",
@@ -907,7 +931,7 @@
                 "episode": "8",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/01/24/lyne-lucien-e8_wide-1cc4cad8319c7f8fa314ec2c1bf0c7d19977b706.png?s=1400&c=66&f=png",
+                "image": "https://media.npr.org/assets/img/2022/01/24/lyne-lucien-e8_sq-26482959aafe3e25aea09af9224bd5ee7ae219cd.png?s=1900&c=66&f=png",
                 "season": "7"
             },
             "link": "https://www.npr.org/2022/01/24/1075441603/you-can-fall-just-dont-stay-there",
@@ -931,7 +955,7 @@
                 "episode": "7",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/01/14/lyne-lucien-e7a_wide-c04399ca461908d644fe6dc2e4a7e2611e28d838.png?s=1400&c=66&f=png",
+                "image": "https://media.npr.org/assets/img/2022/01/14/lyne-lucien-e7a_sq-74bdd5f35944c665a0c003f5bf8f6d5743f4368d.png?s=1900&c=66&f=png",
                 "season": "7"
             },
             "link": "https://www.npr.org/2022/01/14/1073273614/finding-where-you-fit",
@@ -955,7 +979,7 @@
                 "episode": "6",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2022/01/10/lyne-lucien-e6_wide-3fde1063920f9ade92dc56381be393391cd01a6f.png?s=1400&c=66&f=png",
+                "image": "https://media.npr.org/assets/img/2022/01/10/lyne-lucien-e6_sq-5c63bb25b76bf6093f0182547e18ee0c4f339c4a.png?s=1900&c=66&f=png",
                 "season": "7"
             },
             "link": "https://www.npr.org/2022/01/10/1071958723/we-go-up-together-or-we-go-down-together",
@@ -979,7 +1003,7 @@
                 "episode": "5",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/12/29/lyne-lucien-e5_wide-675a872023880350756ae22b28e4d5f93be2e8d5.png?s=1400&c=66&f=png",
+                "image": "https://media.npr.org/assets/img/2021/12/29/lyne-lucien-e5_sq-556738b8f46dd86487294e9fa84a3183be6f98e0.png?s=1900&c=66&f=png",
                 "season": "7"
             },
             "link": "https://www.npr.org/2021/12/29/1068967941/sign-me-up",
@@ -1003,7 +1027,7 @@
                 "episode": "4",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/12/22/lyne-lucien-e4_wide-ac492f493ebe0a60b5214ffeb3d464e96cbab5bb.png?s=1400&c=66&f=png",
+                "image": "https://media.npr.org/assets/img/2021/12/22/lyne-lucien-e4_sq-9723c091a84afb432d51cd909e8ae8c791df59ab.png?s=1900&c=66&f=png",
                 "season": "7"
             },
             "link": "https://www.npr.org/2021/12/22/1067118910/go-to-the-clouds",
@@ -1027,7 +1051,7 @@
                 "episode": "3",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/12/20/lyne-lucien-e3_wide-cf1f622cd33163658faaaa2cdd837e736d75cbd9.png?s=1400&c=66&f=png",
+                "image": "https://media.npr.org/assets/img/2021/12/20/lyne-lucien-e3_sq-d9ad97709ae77a09378a1419cfeeecd5130802f7.png?s=1900&c=66&f=png",
                 "season": "7"
             },
             "link": "https://www.npr.org/2021/12/20/1066093121/when-santas-stormed-macys",
@@ -1051,7 +1075,7 @@
                 "episode": "2",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/12/13/e2-copy_wide-734324c3bc6de08149b3a811614305e77c263995.png?s=1400&c=66&f=png",
+                "image": "https://media.npr.org/assets/img/2021/12/13/e2-copy_sq-b89c2c03bcc1c54ce157baa0d999d66c42bd730a.png?s=1900&c=66&f=png",
                 "season": "7"
             },
             "link": "https://www.npr.org/2021/12/13/1063904162/la-musica-en-mi",
@@ -1075,7 +1099,7 @@
                 "episode": "1",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/12/06/lyne-lucien-e1a_16_9_wide-6addf8f5a4875f64879c447e02013f3337f926ad.png?s=1400&c=66&f=png",
+                "image": "https://media.npr.org/assets/img/2021/12/06/lyne-lucien-e1a_16_9_sq-519a98959cd787240155877d75dac4978a7cb5e4.png?s=1900&c=66&f=png",
                 "season": "7"
             },
             "link": "https://www.npr.org/2021/12/06/1061985940/men-of-the-ages",
@@ -1098,7 +1122,7 @@
                 "duration": "59",
                 "episodeType": "trailer",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/11/30/storycorps-draft-3-ll_wide-8851b866d63e05ee66593d98086cca1690eab3c1.png?s=1400&c=66&f=png",
+                "image": "https://media.npr.org/assets/img/2021/11/30/storycorps-draft-3-ll_sq-d76fd750fb657fe434e9f79553fd562c8b223bc8.png?s=1900&c=66&f=png",
                 "season": "7"
             },
             "link": "https://www.npr.org/2021/11/30/1060057797/paving-pathways",
@@ -1121,7 +1145,7 @@
                 "duration": "969",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/11/22/tgtl_wide-7e04517ab4763a2f376132cdaef70227742e6b3a.png?s=1400&c=66&f=png",
+                "image": "https://media.npr.org/assets/img/2021/11/22/tgtl_sq-00d6127cc7aaa29fc2588e063e65ef6b90eee132.png?s=1900&c=66&f=png",
                 "season": "7"
             },
             "link": "https://www.npr.org/2021/11/22/1058175317/pass-the-plate-pass-the-mic",
@@ -1145,7 +1169,7 @@
                 "episode": "10",
                 "episodeType": "bonus",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/10/04/update1_2_3_wide-d6cc5a3a8bc22ceabe27a35f3f627e27ad140237.png?s=1400&c=66&f=png",
+                "image": "https://media.npr.org/assets/img/2021/10/04/update1_2_3_sq-b2fa4aeaed77ce9d94a5bce828944a0115a5229c.png?s=1900&c=66&f=png",
                 "season": "6"
             },
             "link": "https://www.npr.org/2021/10/04/1043104663/just-doing-our-best",
@@ -1169,36 +1193,12 @@
                 "episode": "9",
                 "episodeType": "full",
                 "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/09/27/option5_3_2_wide-507683bbcb21391b0caf18da9a0b0183443b9b7a.png?s=1400&c=66&f=png",
+                "image": "https://media.npr.org/assets/img/2021/09/27/option5_3_2_sq-b496818dc665d2d579bd04e2cb92eae74c37667d.png?s=1900&c=66&f=png",
                 "season": "6"
             },
             "link": "https://www.npr.org/2021/09/27/1041010328/the-collision-course",
             "pubDate": "Tue, 28 Sep 2021 04:00:58 +0000",
             "title": "The Collision Course"
-        },
-        {
-            "content": "In this episode, how kids and their parents \u2014 who have navigated many changes together \u2014 are facing the next big change apart.",
-            "content:encoded": "In this episode, how kids and their parents \u2014 who have navigated many changes together \u2014 are facing the next big change apart.",
-            "content:encodedSnippet": "In this episode, how kids and their parents \u2014 who have navigated many changes together \u2014 are facing the next big change apart.",
-            "contentSnippet": "In this episode, how kids and their parents \u2014 who have navigated many changes together \u2014 are facing the next big change apart.",
-            "enclosure": {
-                "length": "15568649",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/traffic.megaphone.fm/NPR9217015497.mp3?d=972&size=15568649&e=1039036880&t=podcast&p=510200"
-            },
-            "guid": "3f228473-a95d-433a-a042-08a989195149",
-            "isoDate": "2021-09-21T04:00:16.000Z",
-            "itunes": {
-                "duration": "972",
-                "episode": "8",
-                "episodeType": "full",
-                "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/09/20/option_2_16_9_wide-1917b764caa416400930b40129c779d84fc670b4.png?s=1400&c=66&f=png",
-                "season": "6"
-            },
-            "link": "https://www.npr.org/2021/09/20/1039036880/everything-together",
-            "pubDate": "Tue, 21 Sep 2021 04:00:16 +0000",
-            "title": "Everything Together"
         }
     ],
     "itunes": {
@@ -1219,7 +1219,7 @@
         }
     },
     "language": "en",
-    "lastBuildDate": "Tue, 26 Sep 2023 07:02:22 +0000",
+    "lastBuildDate": "Tue, 24 Oct 2023 15:14:02 +0000",
     "link": "https://www.npr.org/podcasts/510200/storycorps",
     "palette": [
         "F34B43",

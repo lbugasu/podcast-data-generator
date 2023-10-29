@@ -1,5 +1,5 @@
 {
-    "copyright": "(C) BBC 2022",
+    "copyright": "(C) BBC 2023",
     "description": "What happens when your neuroses come to life? What shape will they take? Lusus is a brand new psychological horror podcast starring Morfydd Clark and Ncuti Gatwa.",
     "feedUrl": "http://www.bbc.co.uk/programmes/m00176y7/episodes/downloads.rss",
     "image": {
@@ -8,6 +8,27 @@
         "url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0c3g7zc.jpg"
     },
     "items": [
+        {
+            "content": "An investigation into witchcraft, the occult and secret government operations. From H.P. Lovecraft.\n\nAll four series are available on BBC Sounds now.",
+            "contentSnippet": "An investigation into witchcraft, the occult and secret government operations. From H.P. Lovecraft.\n\nAll four series are available on BBC Sounds now.",
+            "enclosure": {
+                "length": "2880000",
+                "type": "audio/mpeg",
+                "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0gmv2gr.mp3"
+            },
+            "guid": "urn:bbc:podcast:p0gmv5vn",
+            "isoDate": "2023-10-23T04:00:00.000Z",
+            "itunes": {
+                "author": "BBC Radio 4",
+                "duration": "180",
+                "explicit": "clean",
+                "subtitle": "An investigation into witchcraft, the occult and secret government operations.",
+                "summary": "An investigation into witchcraft, the occult and secret government operations. From H.P. Lovecraft.\n\nAll four series are available on BBC Sounds now."
+            },
+            "link": "http://www.bbc.co.uk/programmes/p0gmv5vn",
+            "pubDate": "Mon, 23 Oct 2023 04:00:00 +0000",
+            "title": "You might like The Lovecraft Investigations"
+        },
         {
             "content": "What happens when your neuroses come to life? What shape will they take? Don\u2019t open the door.",
             "contentSnippet": "What happens when your neuroses come to life? What shape will they take? Don\u2019t open the door.",
@@ -234,6 +255,6 @@
         "5F716B",
         "949CA4"
     ],
-    "pubDate": "Wed, 04 May 2022 09:10:00 +0000",
+    "pubDate": "Mon, 23 Oct 2023 04:00:00 +0000",
     "title": "Lusus"
 }
