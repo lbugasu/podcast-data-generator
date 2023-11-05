@@ -2,7 +2,7 @@
     "copyright": "Fearful Symmetry",
     "description": "<p>Sonic tales of sordid histories, tender parables, and lost creatures. Frightening and cuddly, Fearful Symmetry is a shape-shifting beast lacking commercial smarts or sense enough to come in out of the rain.</p>",
     "feedUrl": "https://media.rss.com/fearfulsymmetry/feed.xml",
-    "generator": "RSS.com v2.9.3",
+    "generator": "RSS.com v2.10.5",
     "image": {
         "link": "https://fearfulsymmetry.org/",
         "title": "Fearful Symmetry",
@@ -23,7 +23,7 @@
                 "duration": "1535",
                 "episode": "5",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "image": "https://media.rss.com/fearfulsymmetry/ep_cover_20230619_110617_e484d0bd3ee4f6457fe8ee1bd779904b.jpg",
                 "season": "1"
             },
@@ -45,7 +45,7 @@
                 "duration": "1446",
                 "episode": "4",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "image": "https://media.rss.com/fearfulsymmetry/ep_cover_20230602_100640_208bc94e3b7c5a58bdaf1487665ef62a.jpg",
                 "season": "1"
             },
@@ -67,7 +67,7 @@
                 "duration": "1703",
                 "episode": "3",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "image": "https://media.rss.com/fearfulsymmetry/ep_cover_20230612_050618_7862907656d4ebdb026e0217189be603.jpg",
                 "season": "1"
             },
@@ -89,7 +89,7 @@
                 "duration": "1542",
                 "episode": "2",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "image": "https://media.rss.com/fearfulsymmetry/ep_cover_20230604_070649_210e4caf48f7e620f652e06bd7235d61.jpg",
                 "season": "1"
             },
@@ -111,7 +111,7 @@
                 "duration": "1631",
                 "episode": "1",
                 "episodeType": "full",
-                "explicit": "no",
+                "explicit": "false",
                 "image": "https://media.rss.com/fearfulsymmetry/ep_cover_20230521_050533_ffff15cbdde946d7ad226159494176fc.jpg",
                 "season": "1"
             },
@@ -144,14 +144,14 @@
                 ]
             }
         ],
-        "explicit": "no",
+        "explicit": "false",
         "image": "https://media.rss.com/fearfulsymmetry/20230521_050540_96d3e90d42cec10bcb6bd3742716a153.jpg",
         "owner": {
             "name": "Bob Paris"
         }
     },
     "language": "en",
-    "lastBuildDate": "Mon, 24 Jul 2023 21:25:02 GMT",
+    "lastBuildDate": "Tue, 31 Oct 2023 07:07:10 GMT",
     "link": "https://fearfulsymmetry.org/",
     "paginationLinks": {
         "self": "https://media.rss.com/fearfulsymmetry/feed.xml"

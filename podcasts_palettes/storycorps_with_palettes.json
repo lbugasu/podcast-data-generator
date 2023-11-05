@@ -1,13 +1,37 @@
 {
     "copyright": "Copyright 2016-2021 StoryCorps, Inc. - For Personal Use Only",
     "description": "Stories of the human heart. A candid, unscripted conversation between two people about what's really important in life: love, loss, family, friendship. When the world seems out of hand, tune in to <em>StoryCorps</em> and be reminded of the things that matter most.",
-    "generator": "NPR Feed Publish Service v1.15.2",
+    "generator": "NPR Feed Publish Service v1.15.7",
     "image": {
         "link": "https://www.npr.org/podcasts/510200/storycorps",
         "title": "StoryCorps",
         "url": "https://media.npr.org/assets/img/2022/09/23/story-corps_tile_npr-network-01_sq-2590f9fef8285e162e8aa524e0fedd5462c64292.jpg?s=1400&c=66&f=jpg"
     },
     "items": [
+        {
+            "content": "As we continue celebrating StoryCorps' 20th anniversary, we bring you two of our favorite stories that made a strong impression on our listeners, and we share updates with the participants from the last two decades.",
+            "content:encoded": "As we continue celebrating StoryCorps' 20th anniversary, we bring you two of our favorite stories that made a strong impression on our listeners, and we share updates with the participants from the last two decades.",
+            "content:encodedSnippet": "As we continue celebrating StoryCorps' 20th anniversary, we bring you two of our favorite stories that made a strong impression on our listeners, and we share updates with the participants from the last two decades.",
+            "contentSnippet": "As we continue celebrating StoryCorps' 20th anniversary, we bring you two of our favorite stories that made a strong impression on our listeners, and we share updates with the participants from the last two decades.",
+            "enclosure": {
+                "length": "22442781",
+                "type": "audio/mpeg",
+                "url": "https://play.podtrac.com/npr-510200/traffic.megaphone.fm/NPR5894539236.mp3?d=1402&size=22442781&e=1199533174&t=podcast&p=510200"
+            },
+            "guid": "d491078d-26f3-47bb-90bf-a0ae0f6db8fc",
+            "isoDate": "2023-10-31T07:00:59.000Z",
+            "itunes": {
+                "duration": "1402",
+                "episode": "4",
+                "episodeType": "full",
+                "explicit": "no",
+                "image": "https://media.npr.org/assets/img/2023/10/30/podcast_20thanni_e02_16x9_sq-54922fb5d3ae9f9299e6b5b8c200b505df26f2ed.png?s=1900&c=66&f=png",
+                "season": "11"
+            },
+            "link": "https://www.npr.org/2023/10/31/1199533174/story-corps-draft-10-31-2023",
+            "pubDate": "Tue, 31 Oct 2023 07:00:59 +0000",
+            "title": "StoryCorps Then and Now: Love Letters"
+        },
         {
             "content": "In this episode, we go back 20 years to the origins of StoryCorps\u2013the challenges of building a recording booth in Grand Central Terminal\u2013 and we catch up with the participants from the first ever radio story we broadcast on NPR.",
             "content:encoded": "In this episode, we go back 20 years to the origins of StoryCorps\u2013the challenges of building a recording booth in Grand Central Terminal\u2013 and we catch up with the participants from the first ever radio story we broadcast on NPR.",
@@ -1175,30 +1199,6 @@
             "link": "https://www.npr.org/2021/10/04/1043104663/just-doing-our-best",
             "pubDate": "Tue, 05 Oct 2021 04:00:29 +0000",
             "title": "Just Doing Our Best"
-        },
-        {
-            "content": "In this week's episode, how worlds that quite literally collided, led to unexpected friendships and new career paths.",
-            "content:encoded": "In this week's episode, how worlds that quite literally collided, led to unexpected friendships and new career paths.",
-            "content:encodedSnippet": "In this week's episode, how worlds that quite literally collided, led to unexpected friendships and new career paths.",
-            "contentSnippet": "In this week's episode, how worlds that quite literally collided, led to unexpected friendships and new career paths.",
-            "enclosure": {
-                "length": "13315431",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/npr-510200/traffic.megaphone.fm/NPR7307567777.mp3?d=832&size=13315431&e=1041010328&t=podcast&p=510200"
-            },
-            "guid": "8637a94f-dfaa-4c56-8d95-5004f8e7cbfe",
-            "isoDate": "2021-09-28T04:00:58.000Z",
-            "itunes": {
-                "duration": "832",
-                "episode": "9",
-                "episodeType": "full",
-                "explicit": "no",
-                "image": "https://media.npr.org/assets/img/2021/09/27/option5_3_2_sq-b496818dc665d2d579bd04e2cb92eae74c37667d.png?s=1900&c=66&f=png",
-                "season": "6"
-            },
-            "link": "https://www.npr.org/2021/09/27/1041010328/the-collision-course",
-            "pubDate": "Tue, 28 Sep 2021 04:00:58 +0000",
-            "title": "The Collision Course"
         }
     ],
     "itunes": {
@@ -1219,7 +1219,7 @@
         }
     },
     "language": "en",
-    "lastBuildDate": "Tue, 24 Oct 2023 15:14:02 +0000",
+    "lastBuildDate": "Tue, 31 Oct 2023 07:02:07 +0000",
     "link": "https://www.npr.org/podcasts/510200/storycorps",
     "palette": [
         "F34B43",
