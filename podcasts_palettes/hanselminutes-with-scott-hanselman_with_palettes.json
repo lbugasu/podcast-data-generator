@@ -11,6 +11,32 @@
     "items": [
         {
             "author": "scott@hanselman.com (Scott Hanselman)",
+            "content": "\n",
+            "contentSnippet": "",
+            "creator": "scott@hanselman.com (Scott Hanselman)",
+            "enclosure": {
+                "length": "28595504",
+                "type": "audio/mpeg",
+                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/f2c6de2b-9ec4-4062-a245-51e1521fb93a/audio/d93c3327-f3cf-40ef-892f-9e1018a5e84a/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+            },
+            "guid": "b63800d1-f2eb-4175-9a0f-50e1b0a6a16c",
+            "isoDate": "2023-11-09T21:00:00.000Z",
+            "itunes": {
+                "author": "Scott Hanselman",
+                "duration": "00:29:41",
+                "episode": "918",
+                "episodeType": "full",
+                "explicit": "no",
+                "image": "https://image.simplecastcdn.com/images/e464c34b-2f32-411b-bdd2-dcf02e5301eb/03977d54-c86f-4c2b-a18e-075f1a1fc79d/3000x3000/918.jpg?aid=rss_feed",
+                "subtitle": "",
+                "summary": ""
+            },
+            "link": "https://www.hanselminutes.com",
+            "pubDate": "Thu, 9 Nov 2023 21:00:00 +0000",
+            "title": "Reducing barriers to AI with Guillermo Rauch"
+        },
+        {
+            "author": "scott@hanselman.com (Scott Hanselman)",
             "content": "<p>Shaun Walker was at the forefront of open source in the .NET space as early as 2003 with the release of DotNetNuke. Scott sits down with Shaun to reflect on two decades of .NET open-source, what works, what doesn't, and what's sustainable and Shaun shares his new OSS venture, Oqtane!</p><ul><li><a href=\"https://www.oqtane.org/\">https://www.oqtane.org/</a></li></ul>\n",
             "content:encoded": "<p>Shaun Walker was at the forefront of open source in the .NET space as early as 2003 with the release of DotNetNuke. Scott sits down with Shaun to reflect on two decades of .NET open-source, what works, what doesn't, and what's sustainable and Shaun shares his new OSS venture, Oqtane!</p><ul><li><a href=\"https://www.oqtane.org/\">https://www.oqtane.org/</a></li></ul>\n",
             "content:encodedSnippet": "Shaun Walker was at the forefront of open source in the .NET space as early as 2003 with the release of DotNetNuke. Scott sits down with Shaun to reflect on two decades of .NET open-source, what works, what doesn't, and what's sustainable and Shaun shares his new OSS venture, Oqtane!\n\nhttps://www.oqtane.org/",
@@ -25603,7 +25629,7 @@
         "summary": "Hanselminutes is Fresh Air for Developers. A weekly commute-time podcast that promotes fresh technology and fresh voices. Talk and Tech for Developers, Life-long Learners, and Technologists."
     },
     "language": "en-us",
-    "lastBuildDate": "Thu, 2 Nov 2023 22:29:40 +0000",
+    "lastBuildDate": "Thu, 9 Nov 2023 21:00:12 +0000",
     "link": "https://www.hanselminutes.com",
     "paginationLinks": {
         "self": "https://feeds.simplecast.com/gvtxUiIf"
@@ -25616,6 +25642,6 @@
         "848C89",
         "84848C"
     ],
-    "pubDate": "Thu, 2 Nov 2023 21:00:00 +0000",
+    "pubDate": "Thu, 9 Nov 2023 21:00:00 +0000",
     "title": "Hanselminutes with Scott Hanselman"
 }
