@@ -10,6 +10,33 @@
     "items": [
         {
             "author": "IEEE Spectrum",
+            "content": "\n        <p>Alan Clark of <a href=\"https://www.suse.com/\">SUSE</a> talks with <em>IEEE Spectrum</em> editor <a href=\"https://spectrum.ieee.org/u/stephen-cass\">Stephen Cass </a>about the disruption in the enterprise Linux community caused by recent announcements by Red Hat over open source access to its codebase, and the formation of the Open Enterprise Linux Alliance (Open ELA) by SUSE, <a href=\"https://www.oracle.com/\">Oracle</a> and <a href=\"https://ciq.com/\">CIQ</a> in response.</p>\n      ",
+            "content:encoded": "\n        <p>Alan Clark of <a href=\"https://www.suse.com/\">SUSE</a> talks with <em>IEEE Spectrum</em> editor <a href=\"https://spectrum.ieee.org/u/stephen-cass\">Stephen Cass </a>about the disruption in the enterprise Linux community caused by recent announcements by Red Hat over open source access to its codebase, and the formation of the Open Enterprise Linux Alliance (Open ELA) by SUSE, <a href=\"https://www.oracle.com/\">Oracle</a> and <a href=\"https://ciq.com/\">CIQ</a> in response.</p>\n      ",
+            "content:encodedSnippet": "Alan Clark of SUSE talks with IEEE Spectrum editor Stephen Cass about the disruption in the enterprise Linux community caused by recent announcements by Red Hat over open source access to its codebase, and the formation of the Open Enterprise Linux Alliance (Open ELA) by SUSE, Oracle and CIQ in response.",
+            "contentSnippet": "Alan Clark of SUSE talks with IEEE Spectrum editor Stephen Cass about the disruption in the enterprise Linux community caused by recent announcements by Red Hat over open source access to its codebase, and the formation of the Open Enterprise Linux Alliance (Open ELA) by SUSE, Oracle and CIQ in response.",
+            "creator": "IEEE Spectrum",
+            "enclosure": {
+                "length": "16418563",
+                "type": "audio/mpeg",
+                "url": "https://media.transistor.fm/55ee6462/a2cc265a.mp3"
+            },
+            "guid": "fb37e0f0-1b8f-4bc6-bd09-ff02e44c3b34",
+            "isoDate": "2023-11-15T10:00:00.000Z",
+            "itunes": {
+                "author": "IEEE Spectrum",
+                "duration": "1024",
+                "episode": "52",
+                "episodeType": "full",
+                "explicit": "No",
+                "keywords": "Technology, Linux, Enterprise, Software",
+                "summary": "\n        <p>Alan Clark of <a href=\"https://www.suse.com/\">SUSE</a> talks with <em>IEEE Spectrum</em> editor <a href=\"https://spectrum.ieee.org/u/stephen-cass\">Stephen Cass </a>about the disruption in the enterprise Linux community caused by recent announcements by Red Hat over open source access to its codebase, and the formation of the Open Enterprise Linux Alliance (Open ELA) by SUSE, <a href=\"https://www.oracle.com/\">Oracle</a> and <a href=\"https://ciq.com/\">CIQ</a> in response.</p>\n      "
+            },
+            "link": "https://share.transistor.fm/s/55ee6462",
+            "pubDate": "Wed, 15 Nov 2023 05:00:00 -0500",
+            "title": "SUSE, Oracle, And CIQ Create a New Linux Alliance"
+        },
+        {
+            "author": "IEEE Spectrum",
             "content": "\n        <p><a href=\"https://www.justinebateman.com/\">Justine Bateman</a> is an author and filmmaker. She also holds a degree in computer science from UCLA and is the AI advisor to <a href=\"https://www.sagaftra.org/\">SAG-AFTRA</a>, the actors' union currently striking against movie and television studios. In this episode, Bateman talks with<em> IEEE Spectrum</em> senior editor <a href=\"https://spectrum.ieee.org/u/stephen-cass\">Stephen Cass</a> about actors' demands for control and compensation over digital avatars created in their likeness, and the destructive potential of generative AI in Hollywood.</p>\n      ",
             "content:encoded": "\n        <p><a href=\"https://www.justinebateman.com/\">Justine Bateman</a> is an author and filmmaker. She also holds a degree in computer science from UCLA and is the AI advisor to <a href=\"https://www.sagaftra.org/\">SAG-AFTRA</a>, the actors' union currently striking against movie and television studios. In this episode, Bateman talks with<em> IEEE Spectrum</em> senior editor <a href=\"https://spectrum.ieee.org/u/stephen-cass\">Stephen Cass</a> about actors' demands for control and compensation over digital avatars created in their likeness, and the destructive potential of generative AI in Hollywood.</p>\n      ",
             "content:encodedSnippet": "Justine Bateman is an author and filmmaker. She also holds a degree in computer science from UCLA and is the AI advisor to SAG-AFTRA, the actors' union currently striking against movie and television studios. In this episode, Bateman talks with IEEE Spectrum senior editor Stephen Cass about actors' demands for control and compensation over digital avatars created in their likeness, and the destructive potential of generative AI in Hollywood.",
@@ -1459,7 +1486,7 @@
         "summary": "Fixing the Future from IEEE Spectrum magazine is a weekly look at the cultural, business, and environmental consequences of technological solutions to hard problems like sustainability, climate change, and the ethics and scientific challenges posed by AI. IEEE Spectrum is the flagship magazine of IEEE, the world\u2019s largest professional organization devoted to engineering and the applied sciences."
     },
     "language": "en",
-    "lastBuildDate": "Thu, 09 Nov 2023 04:24:53 -0500",
+    "lastBuildDate": "Wed, 15 Nov 2023 05:44:19 -0500",
     "paginationLinks": {
         "self": "https://feeds.transistor.fm/radiospectrum"
     },
@@ -1471,6 +1498,6 @@
         "FAC887",
         "F64312"
     ],
-    "pubDate": "Wed, 01 Nov 2023 05:00:09 -0400",
+    "pubDate": "Wed, 15 Nov 2023 05:02:24 -0500",
     "title": "Fixing the Future"
 }
