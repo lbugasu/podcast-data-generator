@@ -12,6 +12,32 @@
     },
     "items": [
         {
+            "comments": "https://modernweb.podbean.com/e/jamesquick/#comments",
+            "content": "<p>In this episode, <a href='https://twitter.com/jamesqquick'>James Quick</a> has an in depth discussion with <a href='https://twitter.com/dustinsgoodman'>Dustin Goodman</a> about <a href='https://astro.build/'>Astro</a>, a static site generator, and its features. The two go deep into the future of Astro, how it competes with the current web landscape, and Astro\u2019s features such as the View Transition API support, the image optimization component, Astro v3. They also discuss island architectures and Astro pulling in other frameworks and the excitement around the new Qwik integration and what it means for developers.</p>\n<p>Sponsored by <a href='https://www.thisdot.co/'>This Dot Labs</a></p>\n<p><a href='https://www.youtube.com/watch?v=2RL21V48Xqg'>Watch this video on YouTube</a></p>\n<p><a href='https://www.thisdot.co/blog/astro-do-you-even-need-javascript-with-james-quick'>Read more on our blog!</a></p>\r\n",
+            "content:encoded": "<p>In this episode, <a href='https://twitter.com/jamesqquick'>James Quick</a> has an in depth discussion with <a href='https://twitter.com/dustinsgoodman'>Dustin Goodman</a> about <a href='https://astro.build/'>Astro</a>, a static site generator, and its features. The two go deep into the future of Astro, how it competes with the current web landscape, and Astro\u2019s features such as the View Transition API support, the image optimization component, Astro v3. They also discuss island architectures and Astro pulling in other frameworks and the excitement around the new Qwik integration and what it means for developers.</p>\n<p>Sponsored by <a href='https://www.thisdot.co/'>This Dot Labs</a></p>\n<p><a href='https://www.youtube.com/watch?v=2RL21V48Xqg'>Watch this video on YouTube</a></p>\n<p><a href='https://www.thisdot.co/blog/astro-do-you-even-need-javascript-with-james-quick'>Read more on our blog!</a></p>\r\n",
+            "content:encodedSnippet": "In this episode, James Quick has an in depth discussion with Dustin Goodman about Astro, a static site generator, and its features. The two go deep into the future of Astro, how it competes with the current web landscape, and Astro\u2019s features such as the View Transition API support, the image optimization component, Astro v3. They also discuss island architectures and Astro pulling in other frameworks and the excitement around the new Qwik integration and what it means for developers.\nSponsored by This Dot Labs\nWatch this video on YouTube\nRead more on our blog!",
+            "contentSnippet": "In this episode, James Quick has an in depth discussion with Dustin Goodman about Astro, a static site generator, and its features. The two go deep into the future of Astro, how it competes with the current web landscape, and Astro\u2019s features such as the View Transition API support, the image optimization component, Astro v3. They also discuss island architectures and Astro pulling in other frameworks and the excitement around the new Qwik integration and what it means for developers.\nSponsored by This Dot Labs\nWatch this video on YouTube\nRead more on our blog!",
+            "enclosure": {
+                "length": "46680983",
+                "type": "audio/mpeg",
+                "url": "https://mcdn.podbean.com/mf/web/zp9mnj/MWP_JamesQuick.mp3"
+            },
+            "guid": "modernweb.podbean.com/6241e777-18de-3da4-b673-d57b125b5cfd",
+            "isoDate": "2024-01-11T18:26:09.000Z",
+            "itunes": {
+                "author": "Modern Web",
+                "duration": "48:35",
+                "episode": "173",
+                "episodeType": "full",
+                "explicit": "false",
+                "subtitle": "In this episode, James Quick has an in depth discussion with Dustin Goodman about Astro, a static site generator, and its features. The two go deep into the future of Astro, how it competes with the current web landscape, and Astro\u2019s features such as...",
+                "summary": "In this episode, James Quick has an in depth discussion with Dustin Goodman about Astro, a static site generator, and its features. The two go deep into the future of Astro, how it competes with the current web landscape, and Astro\u2019s features such as the View Transition API support, the image optimization component, Astro v3. They also discuss island architectures and Astro pulling in other frameworks and the excitement around the new Qwik integration and what it means for developers.\nSponsored by This Dot Labs\nWatch this video on YouTube\nRead more on our blog!"
+            },
+            "link": "https://modernweb.podbean.com/e/jamesquick/",
+            "pubDate": "Thu, 11 Jan 2024 13:26:09 -0500",
+            "title": "Modern Web Podcast S11E17- Astro: Do You Even Need JavaScript? with James Quick"
+        },
+        {
             "comments": "https://modernweb.podbean.com/e/modern-web-podcast-s11e16-does-replay-fix-all-%e2%80%8b%e2%80%8bdebugging-issues-jason-laster-co-founder-at-replayio/#comments",
             "content": "<p><a href='https://twitter.com/robocell'>Rob Ocel</a> and <a href='https://twitter.com/adamlbarrett'>Adam Barrett</a> interview <a href='https://twitter.com/jasonlaster11'>Jason Laster</a>, Co-Founder of <a href='https://twitter.com/replayio'>Replay</a>, and learn about time travel debugging and how Replay's browser development tool makes debugging easier and faster. One of the hardest issues in debugging is collecting enough information about an issue that you can reliably reproduce it and then validate the fix. In this podcast, Jason discusses how Replay helps capture information and gives you the ability to not only revisit bugged behavior, but add additional breakpoints, and even test fixes as if they were present in the system at the time.</p>\n<p>Sponsored by This Dot Labs: <a href='http://thisdotlabs.com/'>http://thisdotlabs.com/</a></p>\n<p><a href='https://www.youtube.com/@ThisDotMedia'>Subscribe to This Dot Media on YouTube</a></p>\n<p><a href='https://www.thisdot.co/blog/does-replay-fix-all-debugging-issues'>Read More on Our Blog</a></p>\r\n",
             "content:encoded": "<p><a href='https://twitter.com/robocell'>Rob Ocel</a> and <a href='https://twitter.com/adamlbarrett'>Adam Barrett</a> interview <a href='https://twitter.com/jasonlaster11'>Jason Laster</a>, Co-Founder of <a href='https://twitter.com/replayio'>Replay</a>, and learn about time travel debugging and how Replay's browser development tool makes debugging easier and faster. One of the hardest issues in debugging is collecting enough information about an issue that you can reliably reproduce it and then validate the fix. In this podcast, Jason discusses how Replay helps capture information and gives you the ability to not only revisit bugged behavior, but add additional breakpoints, and even test fixes as if they were present in the system at the time.</p>\n<p>Sponsored by This Dot Labs: <a href='http://thisdotlabs.com/'>http://thisdotlabs.com/</a></p>\n<p><a href='https://www.youtube.com/@ThisDotMedia'>Subscribe to This Dot Media on YouTube</a></p>\n<p><a href='https://www.thisdot.co/blog/does-replay-fix-all-debugging-issues'>Read More on Our Blog</a></p>\r\n",
@@ -2584,33 +2610,6 @@
             "link": "https://modernweb.podbean.com/e/s07e7-modern-web-podcast-stitches-modulz-improving-css-in-js-for-the-future-of-web-design/",
             "pubDate": "Wed, 30 Sep 2020 13:57:06 -0400",
             "title": "S07E7 Modern Web Podcast - Stitches + Modulz, Improving CSS-in-JS for the Future of Web Design"
-        },
-        {
-            "comments": "https://modernweb.podbean.com/e/s07e6-modern-web-podcast-jamstack-with-angular-introducing-scullyio-with-aaron-frost/#comments",
-            "content": "<p>In this podcast episode, Tracy Lee (@ladyleet) and Ben Lesh (@benlesh) sit down with Aaron Frost and talk about Scully.io!</p>\n<p>Guest: Aaron Frost (@aaronfrost) - CEO, Founder, Architect of HeroDevs and ng-conf organizer</p>\n<p>This episode is sponsored by\u00a0<a href='https://prgress.co/modernweb'>KendoReact</a>\u00a0&\u00a0<a href='https://labs.thisdot.co/'>This Dot Labs</a>.</p>\r\n",
-            "content:encoded": "<p>In this podcast episode, Tracy Lee (@ladyleet) and Ben Lesh (@benlesh) sit down with Aaron Frost and talk about Scully.io!</p>\n<p>Guest: Aaron Frost (@aaronfrost) - CEO, Founder, Architect of HeroDevs and ng-conf organizer</p>\n<p><em>This episode is sponsored by\u00a0<a href='https://prgress.co/modernweb'>KendoReact</a>\u00a0&\u00a0<a href='https://labs.thisdot.co/'>This Dot Labs</a>.</em></p>\r\n",
-            "content:encodedSnippet": "In this podcast episode, Tracy Lee (@ladyleet) and Ben Lesh (@benlesh) sit down with Aaron Frost and talk about Scully.io!\nGuest: Aaron Frost (@aaronfrost) - CEO, Founder, Architect of HeroDevs and ng-conf organizer\nThis episode is sponsored by\u00a0KendoReact\u00a0&\u00a0This Dot Labs.",
-            "contentSnippet": "In this podcast episode, Tracy Lee (@ladyleet) and Ben Lesh (@benlesh) sit down with Aaron Frost and talk about Scully.io!\nGuest: Aaron Frost (@aaronfrost) - CEO, Founder, Architect of HeroDevs and ng-conf organizer\nThis episode is sponsored by\u00a0KendoReact\u00a0&\u00a0This Dot Labs.",
-            "enclosure": {
-                "length": "75095096",
-                "type": "audio/mpeg",
-                "url": "https://mcdn.podbean.com/mf/web/tss8it/MW_-_Podbeanbm6qt.mp3"
-            },
-            "guid": "modernweb.podbean.com/caead181-e226-32fa-baad-06ad9ecc6738",
-            "isoDate": "2020-09-16T17:41:29.000Z",
-            "itunes": {
-                "author": "Tracy Lee",
-                "duration": "38:40",
-                "episode": "72",
-                "episodeType": "full",
-                "explicit": "false",
-                "image": "https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog984467/modern_web_clean_BG_6264k.jpg",
-                "subtitle": "In this podcast episode, Tracy Lee (@ladyleet) and Ben Lesh (@benlesh) sit down with Aaron Frost and talk about Scully.io!\nGuest: Aaron Frost (@aaronfrost) - CEO, Founder, Architect of HeroDevs and ng-conf organizer\nThis episode is sponsored by\u00a0Kendo...",
-                "summary": "In this podcast episode, Tracy Lee (@ladyleet) and Ben Lesh (@benlesh) sit down with Aaron Frost and talk about Scully.io!\nGuest: Aaron Frost (@aaronfrost) - CEO, Founder, Architect of HeroDevs and ng-conf organizer\nThis episode is sponsored by\u00a0KendoReact\u00a0&\u00a0This Dot Labs."
-            },
-            "link": "https://modernweb.podbean.com/e/s07e6-modern-web-podcast-jamstack-with-angular-introducing-scullyio-with-aaron-frost/",
-            "pubDate": "Wed, 16 Sep 2020 13:41:29 -0400",
-            "title": "S07E6 Modern Web Podcast - JAMstack with Angular - Introducing Scully.io with Aaron Frost"
         }
     ],
     "itunes": {
@@ -2645,7 +2644,7 @@
         "4269CC",
         "424878"
     ],
-    "pubDate": "Fri, 05 Jan 2024 13:32:13 -0500",
+    "pubDate": "Thu, 11 Jan 2024 13:26:09 -0500",
     "title": "Modern Web",
     "ttl": "1440"
 }
