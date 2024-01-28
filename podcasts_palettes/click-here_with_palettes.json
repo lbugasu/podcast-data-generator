@@ -1,13 +1,36 @@
 {
     "copyright": "\u00a92023 Recorded Future News",
     "description": "It seems like we hear about new cyberattacks almost every day.\u00a0\nThe targets used to be just big companies and government agencies.\u00a0Now they are focused on you.\u00a0\nEvery Tuesday, former NPR investigations correspondent Dina Temple-Raston dives deep into the world of cyber and intelligence.\u00a0\nYou\u2019ll hear stories about everything from ransomware to misinformation to the people shaping the cyber world, from hacking masterminds to the people who try to stop them.\u00a0\nIf you want more stories like Click Here delivered to your inbox, sign up for the Cyber Daily newsletter here:\u00a0https://go.recordedfuture.com/cyber-daily",
-    "feedUrl": "https://feeds-origin.megaphone.fm/CYBW9338304051",
+    "feedUrl": "https://feeds.megaphone.fm/clickhere",
     "image": {
         "link": "http://www.recordedfuture.com/podcast",
         "title": "Click Here",
         "url": "https://megaphone.imgix.net/podcasts/56b300ec-9261-11eb-b87d-13a3d3b70cde/image/ClickHerelogotwitter2__1_.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     },
     "items": [
+        {
+            "content": "Some data scientists and acoustic biologists have joined forces to see if artificial intelligence can ferret meaning out of non-human language. And one of their early subjects is a perennial favorite: humpback whales.",
+            "content:encoded": "\n        <p>Some data scientists and acoustic biologists have joined forces to see if artificial intelligence can ferret meaning out of non-human language. And one of their early subjects is a perennial favorite: humpback whales.</p>\n      ",
+            "content:encodedSnippet": "Some data scientists and acoustic biologists have joined forces to see if artificial intelligence can ferret meaning out of non-human language. And one of their early subjects is a perennial favorite: humpback whales.",
+            "contentSnippet": "Some data scientists and acoustic biologists have joined forces to see if artificial intelligence can ferret meaning out of non-human language. And one of their early subjects is a perennial favorite: humpback whales.",
+            "enclosure": {
+                "length": "0",
+                "type": "audio/mpeg",
+                "url": "https://chrt.fm/track/DG79BE/traffic.megaphone.fm/RFEI7180405554.mp3?updated=1705964501"
+            },
+            "guid": "8cf6dd06-b976-11ee-964d-a3960d95648a",
+            "isoDate": "2024-01-23T08:00:00.000Z",
+            "itunes": {
+                "author": "Recorded Future News",
+                "duration": "1691",
+                "episodeType": "full",
+                "image": "https://megaphone.imgix.net/podcasts/8cf6dd06-b976-11ee-964d-a3960d95648a/image/f2c3c2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "subtitle": "",
+                "summary": "Some data scientists and acoustic biologists have joined forces to see if artificial intelligence can ferret meaning out of non-human language. And one of their early subjects is a perennial favorite: humpback whales."
+            },
+            "pubDate": "Tue, 23 Jan 2024 08:00:00 -0000",
+            "title": "103. Dr. Dolittle never spoke whale, AI just might"
+        },
         {
             "content": "We take a look at the part of the Israel-Hamas war that is harder to see \u2013 the battle raging in cyberspace. Hacktivists are joining forces with Iran-backed operators to target victims with gossamer connections to Israel.",
             "content:encoded": "\n        <p>We take a look at the part of the Israel-Hamas war that is harder to see \u2013 the battle raging in cyberspace. Hacktivists are joining forces with Iran-backed operators to target victims with gossamer connections to Israel.</p>\n      ",
@@ -2375,7 +2398,7 @@
     "language": "en",
     "link": "http://www.recordedfuture.com/podcast",
     "paginationLinks": {
-        "self": "https://feeds-origin.megaphone.fm/CYBW9338304051"
+        "self": "https://feeds.megaphone.fm/clickhere"
     },
     "palette": [
         "1C292B",
