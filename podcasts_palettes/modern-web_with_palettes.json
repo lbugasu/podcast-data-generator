@@ -12,6 +12,32 @@
     },
     "items": [
         {
+            "comments": "https://modernweb.podbean.com/e/modern-web-podcast-s11e20-new-web-apis-css-tailwind-and-rsc-with-chance-strickland-ben-lesh-adam-rackis-and-tracy-lee/#comments",
+            "content": "<p><a href='https://twitter.com/ladyleet'>Tracy Lee</a>, <a href='https://twitter.com/AdamRackis'>Adam Rackis</a>, <a href='https://twitter.com/BenLesh'>Ben Lesh</a> host <a href='https://www.linkedin.com/in/chaance/'>Chance Strickland</a> to discuss new web APIs, CSS, Tailwind and Atomic CSS pros and cons, React Server Component implementations, and so much more on this podcast.</p>\n<p>Sponsored by <a href='http://thisdotlabs.com'>This Dot Labs</a></p>\n<p><a href='https://www.youtube.com/watch?v=aWhnwppPzX0'>Watch this Episode on YouTube</a>.</p>\n<p><a href='https://www.thisdot.co/blog/new-web-apis-css-tailwind-and-rsc-with-chance-strickland-ben-lesh-adam'>Read more on our blog</a>.</p>\n<p>\u00a0</p>\r\n",
+            "content:encoded": "<p><a href='https://twitter.com/ladyleet'>Tracy Lee</a>, <a href='https://twitter.com/AdamRackis'>Adam Rackis</a>, <a href='https://twitter.com/BenLesh'>Ben Lesh</a> host <a href='https://www.linkedin.com/in/chaance/'>Chance Strickland</a> to discuss new web APIs, CSS, Tailwind and Atomic CSS pros and cons, React Server Component implementations, and so much more on this podcast.</p>\n<p>Sponsored by <a href='http://thisdotlabs.com'>This Dot Labs</a></p>\n<p><a href='https://www.youtube.com/watch?v=aWhnwppPzX0'>Watch this Episode on YouTube</a>.</p>\n<p><a href='https://www.thisdot.co/blog/new-web-apis-css-tailwind-and-rsc-with-chance-strickland-ben-lesh-adam'>Read more on our blog</a>.</p>\n<p>\u00a0</p>\r\n",
+            "content:encodedSnippet": "Tracy Lee, Adam Rackis, Ben Lesh host Chance Strickland to discuss new web APIs, CSS, Tailwind and Atomic CSS pros and cons, React Server Component implementations, and so much more on this podcast.\nSponsored by This Dot Labs\nWatch this Episode on YouTube.\nRead more on our blog.",
+            "contentSnippet": "Tracy Lee, Adam Rackis, Ben Lesh host Chance Strickland to discuss new web APIs, CSS, Tailwind and Atomic CSS pros and cons, React Server Component implementations, and so much more on this podcast.\nSponsored by This Dot Labs\nWatch this Episode on YouTube.\nRead more on our blog.",
+            "enclosure": {
+                "length": "32596305",
+                "type": "audio/mpeg",
+                "url": "https://mcdn.podbean.com/mf/web/b9yiwg/MWP_ChanceStrickland.mp3"
+            },
+            "guid": "modernweb.podbean.com/7089624c-71d9-3140-8a98-ca82e0ca06d2",
+            "isoDate": "2024-01-31T17:14:07.000Z",
+            "itunes": {
+                "author": "Modern Web",
+                "duration": "33:49",
+                "episode": "177",
+                "episodeType": "full",
+                "explicit": "false",
+                "subtitle": "Tracy Lee, Adam Rackis, Ben Lesh host Chance Strickland to discuss new web APIs, CSS, Tailwind and Atomic CSS pros and cons, React Server Component implementations, and so much more on this podcast.\nSponsored by This Dot Labs\nWatch this Episode on Yo...",
+                "summary": "Tracy Lee, Adam Rackis, Ben Lesh host Chance Strickland to discuss new web APIs, CSS, Tailwind and Atomic CSS pros and cons, React Server Component implementations, and so much more on this podcast.\nSponsored by This Dot Labs\nWatch this Episode on YouTube.\nRead more on our blog.\n\u00a0"
+            },
+            "link": "https://modernweb.podbean.com/e/modern-web-podcast-s11e20-new-web-apis-css-tailwind-and-rsc-with-chance-strickland-ben-lesh-adam-rackis-and-tracy-lee/",
+            "pubDate": "Wed, 31 Jan 2024 12:14:07 -0500",
+            "title": "Modern Web Podcast S11E20- New Web APIs, CSS, Tailwind, and RSC with Chance Strickland, Ben Lesh, Adam Rackis, and Tracy Lee"
+        },
+        {
             "comments": "https://modernweb.podbean.com/e/modern-web-podcast-s11e20-can-vercel-fix-react-a-conversation-with-tracy-lee-ben-lesh-adam-rackis/#comments",
             "content": "<p>What is the current state of React and its influence from Vercel? What are the challenges of upgrading to React 18 and the impact on testing? The hosts also cover the potential for the runtime Bun to become the default for node development. The conversation explores the future of front-end development, the complexities of modern web development, and the influence of content creators in the industry.</p>\n<p>Sponsored by <a href='http://thisdotlabs.com'>This Dot Labs</a></p>\n<p><a href='https://youtu.be/Re4ILzlUwhk'>Watch this podcast on our YouTube channel!</a></p>\n<p><a href='https://www.thisdot.co/blog/can-vercel-fix-react'>Read more on our blog.</a></p>\r\n",
             "content:encoded": "<p>What is the current state of React and its influence from Vercel? What are the challenges of upgrading to React 18 and the impact on testing? The hosts also cover the potential for the runtime Bun to become the default for node development. The conversation explores the future of front-end development, the complexities of modern web development, and the influence of content creators in the industry.</p>\n<p>Sponsored by <a href='http://thisdotlabs.com'>This Dot Labs</a></p>\n<p><a href='https://youtu.be/Re4ILzlUwhk'>Watch this podcast on our YouTube channel!</a></p>\n<p><a href='https://www.thisdot.co/blog/can-vercel-fix-react'>Read more on our blog.</a></p>\r\n",
@@ -2584,32 +2610,6 @@
             "link": "https://modernweb.podbean.com/e/s07e11-modern-web-podcast-new-css-media-query-apis-you-need-to-learn-today/",
             "pubDate": "Thu, 05 Nov 2020 16:13:00 -0500",
             "title": "S07E11 Modern Web Podcast - New CSS & Media Query APIs You Need to Learn Today"
-        },
-        {
-            "comments": "https://modernweb.podbean.com/e/s07e10-modern-web-podcast-rxjs-7-8-what-to-expect-prepare-for/#comments",
-            "content": "<p>In this podcast, Luis Aviles (@luixaviles) and Tracy Lee (@ladyleet) interview Ben Lesh (@benlesh), author of RxJS on the most recent updates for RxJS 7 beta and it's targeted release date. We discuss how he made RxJS 7 smaller and where you can find the refactored code. We talk about what's next for RxJS 8,\u00a0how they're using TypeScript in strict mode, what things to keep in mind while you're working with the reactive programming approach,\u00a0and what\u00a0deprecations to start looking out for so you can begin future proofing your code today well before the release.</p>\n<p>\u00a0</p>\n<p>Hosts:</p>\n<p>Luis Aviles (@luixaviles) - Software Engineer, This Dot Labs</p>\n<p>Tracy Lee (@ladyleet) - CEO, This Dot Labs</p>\n<p>\u00a0</p>\n<p>Guest:</p>\n<p>Ben Lesh (@benlesh) - Software Engineer at Citadel & Author of RxJS</p>\n<p>\u00a0</p>\n<p>This episode is sponsored by <a href='https://labs.thisdot.co/'>This Dot Labs</a>.\u00a0</p>\r\n",
-            "content:encoded": "<p>In this podcast, Luis Aviles (@luixaviles) and Tracy Lee (@ladyleet) interview Ben Lesh (@benlesh), author of RxJS on the most recent updates for RxJS 7 beta and it's targeted release date. We discuss how he made RxJS 7 smaller and where you can find the refactored code. We talk about what's next for RxJS 8,\u00a0how they're using TypeScript in strict mode, what things to keep in mind while you're working with the reactive programming approach,\u00a0and what\u00a0deprecations to start looking out for so you can begin future proofing your code today well before the release.</p>\n<p>\u00a0</p>\n<p>Hosts:</p>\n<p>Luis Aviles (@luixaviles) - Software Engineer, This Dot Labs</p>\n<p>Tracy Lee (@ladyleet) - CEO, This Dot Labs</p>\n<p>\u00a0</p>\n<p>Guest:</p>\n<p>Ben Lesh (@benlesh) - Software Engineer at Citadel & Author of RxJS</p>\n<p>\u00a0</p>\n<p><em>This episode is sponsored by <a href='https://labs.thisdot.co/'>This Dot Labs</a>.\u00a0</em></p>\r\n",
-            "content:encodedSnippet": "In this podcast, Luis Aviles (@luixaviles) and Tracy Lee (@ladyleet) interview Ben Lesh (@benlesh), author of RxJS on the most recent updates for RxJS 7 beta and it's targeted release date. We discuss how he made RxJS 7 smaller and where you can find the refactored code. We talk about what's next for RxJS 8,\u00a0how they're using TypeScript in strict mode, what things to keep in mind while you're working with the reactive programming approach,\u00a0and what\u00a0deprecations to start looking out for so you can begin future proofing your code today well before the release.\n\u00a0\nHosts:\nLuis Aviles (@luixaviles) - Software Engineer, This Dot Labs\nTracy Lee (@ladyleet) - CEO, This Dot Labs\n\u00a0\nGuest:\nBen Lesh (@benlesh) - Software Engineer at Citadel & Author of RxJS\n\u00a0\nThis episode is sponsored by This Dot Labs.",
-            "contentSnippet": "In this podcast, Luis Aviles (@luixaviles) and Tracy Lee (@ladyleet) interview Ben Lesh (@benlesh), author of RxJS on the most recent updates for RxJS 7 beta and it's targeted release date. We discuss how he made RxJS 7 smaller and where you can find the refactored code. We talk about what's next for RxJS 8,\u00a0how they're using TypeScript in strict mode, what things to keep in mind while you're working with the reactive programming approach,\u00a0and what\u00a0deprecations to start looking out for so you can begin future proofing your code today well before the release.\n\u00a0\nHosts:\nLuis Aviles (@luixaviles) - Software Engineer, This Dot Labs\nTracy Lee (@ladyleet) - CEO, This Dot Labs\n\u00a0\nGuest:\nBen Lesh (@benlesh) - Software Engineer at Citadel & Author of RxJS\n\u00a0\nThis episode is sponsored by This Dot Labs.",
-            "enclosure": {
-                "length": "75430893",
-                "type": "audio/mpeg",
-                "url": "https://mcdn.podbean.com/mf/web/7wwayh/Modern_Web_-_Rxjsac4t1.mp3"
-            },
-            "guid": "modernweb.podbean.com/4cf4296b-7d78-37df-99d8-8867085151e8",
-            "isoDate": "2020-10-28T20:57:26.000Z",
-            "itunes": {
-                "author": "Tracy Lee",
-                "duration": "38:42",
-                "episode": "76",
-                "episodeType": "full",
-                "explicit": "false",
-                "subtitle": "In this podcast, Luis Aviles (@luixaviles) and Tracy Lee (@ladyleet) interview Ben Lesh (@benlesh), author of RxJS on the most recent updates for RxJS 7 beta and it's targeted release date. We discuss how he made RxJS 7 smaller and where you can find...",
-                "summary": "In this podcast, Luis Aviles (@luixaviles) and Tracy Lee (@ladyleet) interview Ben Lesh (@benlesh), author of RxJS on the most recent updates for RxJS 7 beta and it's targeted release date. We discuss how he made RxJS 7 smaller and where you can find the refactored code. We talk about what's next for RxJS 8,\u00a0how they're using TypeScript in strict mode, what things to keep in mind while you're working with the reactive programming approach,\u00a0and what\u00a0deprecations to start looking out for so you can begin future proofing your code today well before the release.\n\u00a0\nHosts:\nLuis Aviles (@luixaviles) - Software Engineer, This Dot Labs\nTracy Lee (@ladyleet) - CEO, This Dot Labs\n\u00a0\nGuest:\nBen Lesh (@benlesh) - Software Engineer at Citadel & Author of RxJS\n\u00a0\nThis episode is sponsored by This Dot Labs.\u00a0"
-            },
-            "link": "https://modernweb.podbean.com/e/s07e10-modern-web-podcast-rxjs-7-8-what-to-expect-prepare-for/",
-            "pubDate": "Wed, 28 Oct 2020 16:57:26 -0400",
-            "title": "S07E10 Modern Web Podcast - RxJS 7 & 8: What to Expect & Prepare For"
         }
     ],
     "itunes": {
@@ -2644,7 +2644,7 @@
         "4269CC",
         "424878"
     ],
-    "pubDate": "Thu, 25 Jan 2024 13:56:10 -0500",
+    "pubDate": "Wed, 31 Jan 2024 12:14:07 -0500",
     "title": "Modern Web",
     "ttl": "1440"
 }
