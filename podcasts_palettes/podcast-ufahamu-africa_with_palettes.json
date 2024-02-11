@@ -1,7 +1,7 @@
 {
     "description": "A podcast about life and politics on the African continent",
     "feedUrl": "https://www.ufahamuafrica.com/category/podcast/feed/",
-    "generator": "https://www.ufahamuafrica.com?v=6.4.2",
+    "generator": "https://www.ufahamuafrica.com?v=6.4.3",
     "image": {
         "height": "32",
         "link": "https://www.ufahamuafrica.com",
@@ -10,6 +10,22 @@
         "width": "32"
     },
     "items": [
+        {
+            "categories": [
+                "Podcast",
+                "Democracy",
+                "Senegal"
+            ],
+            "content": "Senegalese President Macky Sall has postponed the presidential elections originally scheduled for February 25. It&#8217;s part of a series of concerning moves by Sall to extend his stay in power. We talk with experts on the topic: Bamba Ndiaye and Michelle D. Gavin. Bamba Ndiaye is an assistant professor of African studies at Emory University&#8217;s <a class=\"read-more\" href=\"https://www.ufahamuafrica.com/2024/02/10/ep-191-democratic-crisis-in-senegal/\">Read More...</a>",
+            "contentSnippet": "Senegalese President Macky Sall has postponed the presidential elections originally scheduled for February 25. It\u2019s part of a series of concerning moves by Sall to extend his stay in power. We talk with experts on the topic: Bamba Ndiaye and Michelle D. Gavin. Bamba Ndiaye is an assistant professor of African studies at Emory University\u2019s Read More...",
+            "creator": "md963",
+            "dc:creator": "md963",
+            "guid": "https://blogs.cornell.edu/ufahamuafrica/?p=6170",
+            "isoDate": "2024-02-10T14:00:00.000Z",
+            "link": "https://www.ufahamuafrica.com/2024/02/10/ep-191-democratic-crisis-in-senegal/",
+            "pubDate": "Sat, 10 Feb 2024 14:00:00 +0000",
+            "title": "Ep. 191: Bamba Ndiaye and Michelle Gavin on Democratic Crisis in Senegal"
+        },
         {
             "categories": [
                 "Podcast"
@@ -144,26 +160,10 @@
             "link": "https://www.ufahamuafrica.com/2023/11/11/ep-182-mandela-fellows-sandile-mnikati-lindah-chavuya-eunice-shapange-and-matshidiso-lencoasa-on-public-policy/",
             "pubDate": "Sat, 11 Nov 2023 14:00:00 +0000",
             "title": "Ep. 182: Mandela Fellows Sandile Mnikati, Lindah Chavuya, Eunice Shapange, and Matshidiso Lencoasa on Public Policy"
-        },
-        {
-            "categories": [
-                "Bonus Episode",
-                "Podcast",
-                "Zimbabwe"
-            ],
-            "content": "&#8220;Few were surprised as, near midnight on August 26, the Zimbabwe Electoral Commission announced incumbent president Emmerson Mnangagwa\u2019s reelection in yet another of Zimbabwe\u2019s tendentious contests,&#8221; writes David B. Moore. &#8220;His inauguration on September 4 sanctified his return to power.&#8221; In this article by Moore, first published in The Conversation Africa, he explains how the <a class=\"read-more\" href=\"https://www.ufahamuafrica.com/2023/11/04/bonus-zimbabwes-2023-elections/\">Read More...</a>",
-            "contentSnippet": "\u201cFew were surprised as, near midnight on August 26, the Zimbabwe Electoral Commission announced incumbent president Emmerson Mnangagwa\u2019s reelection in yet another of Zimbabwe\u2019s tendentious contests,\u201d writes David B. Moore. \u201cHis inauguration on September 4 sanctified his return to power.\u201d In this article by Moore, first published in The Conversation Africa, he explains how the Read More...",
-            "creator": "md963",
-            "dc:creator": "md963",
-            "guid": "https://blogs.cornell.edu/ufahamuafrica/?p=6071",
-            "isoDate": "2023-11-04T13:00:00.000Z",
-            "link": "https://www.ufahamuafrica.com/2023/11/04/bonus-zimbabwes-2023-elections/",
-            "pubDate": "Sat, 04 Nov 2023 13:00:00 +0000",
-            "title": "Bonus: Zimbabwe\u2019s 2023 Elections"
         }
     ],
     "language": "en-US",
-    "lastBuildDate": "Fri, 02 Feb 2024 23:32:30 +0000",
+    "lastBuildDate": "Sat, 10 Feb 2024 05:06:24 +0000",
     "link": "https://www.ufahamuafrica.com",
     "paginationLinks": {
         "self": "https://www.ufahamuafrica.com/category/podcast/feed/"
