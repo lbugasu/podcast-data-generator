@@ -134,12 +134,16 @@
     "itunes": {
         "author": "CBC",
         "categories": [
-            "Documentary"
+            "Society & Culture"
         ],
         "categoriesWithSubs": [
             {
-                "name": "Documentary",
-                "subs": null
+                "name": "Society & Culture",
+                "subs": [
+                    {
+                        "name": "Documentary"
+                    }
+                ]
             }
         ],
         "explicit": "No",
