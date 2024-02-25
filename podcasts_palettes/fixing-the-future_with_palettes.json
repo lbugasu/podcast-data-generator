@@ -10,6 +10,33 @@
     "items": [
         {
             "author": "IEEE Spectrum",
+            "content": "\n        <p>The Air Force Research Laboratory (AFRL) recently <a href=\"https://github.com/AFRL-ARES/ARES_OS\">released the open-source ARES_OS</a>, a key software component of their Autonomous Research System. ARES_OS allows relatively simple robots to perform experiments, and develop new experiments based on the results. The AFRL's Benji Maruyama talks with IEEE Spectrum associate editor Dina Genkina about how he hopes the system becomes not just an invaluable helper for grad students, but opens up research to many more people outside traditional labs and enables progress in tackling hard problems like climate change.\u00a0<br></p>\n      ",
+            "content:encoded": "\n        <p>The Air Force Research Laboratory (AFRL) recently <a href=\"https://github.com/AFRL-ARES/ARES_OS\">released the open-source ARES_OS</a>, a key software component of their Autonomous Research System. ARES_OS allows relatively simple robots to perform experiments, and develop new experiments based on the results. The AFRL's Benji Maruyama talks with IEEE Spectrum associate editor Dina Genkina about how he hopes the system becomes not just an invaluable helper for grad students, but opens up research to many more people outside traditional labs and enables progress in tackling hard problems like climate change.\u00a0<br></p>\n      ",
+            "content:encodedSnippet": "The Air Force Research Laboratory (AFRL) recently released the open-source ARES_OS, a key software component of their Autonomous Research System. ARES_OS allows relatively simple robots to perform experiments, and develop new experiments based on the results. The AFRL's Benji Maruyama talks with IEEE Spectrum associate editor Dina Genkina about how he hopes the system becomes not just an invaluable helper for grad students, but opens up research to many more people outside traditional labs and enables progress in tackling hard problems like climate change.",
+            "contentSnippet": "The Air Force Research Laboratory (AFRL) recently released the open-source ARES_OS, a key software component of their Autonomous Research System. ARES_OS allows relatively simple robots to perform experiments, and develop new experiments based on the results. The AFRL's Benji Maruyama talks with IEEE Spectrum associate editor Dina Genkina about how he hopes the system becomes not just an invaluable helper for grad students, but opens up research to many more people outside traditional labs and enables progress in tackling hard problems like climate change.",
+            "creator": "IEEE Spectrum",
+            "enclosure": {
+                "length": "29063081",
+                "type": "audio/mpeg",
+                "url": "https://media.transistor.fm/a06d86c9/2e28ff1d.mp3"
+            },
+            "guid": "e9364998-08d3-4aa8-8af6-a1dc156cd320",
+            "isoDate": "2024-02-21T10:00:00.000Z",
+            "itunes": {
+                "author": "IEEE Spectrum",
+                "duration": "1815",
+                "episode": "58",
+                "episodeType": "full",
+                "explicit": "No",
+                "keywords": "Technology, AI, robots, research",
+                "summary": "\n        <p>The Air Force Research Laboratory (AFRL) recently <a href=\"https://github.com/AFRL-ARES/ARES_OS\">released the open-source ARES_OS</a>, a key software component of their Autonomous Research System. ARES_OS allows relatively simple robots to perform experiments, and develop new experiments based on the results. The AFRL's Benji Maruyama talks with IEEE Spectrum associate editor Dina Genkina about how he hopes the system becomes not just an invaluable helper for grad students, but opens up research to many more people outside traditional labs and enables progress in tackling hard problems like climate change.\u00a0<br></p>\n      "
+            },
+            "link": "https://share.transistor.fm/s/a06d86c9",
+            "pubDate": "Wed, 21 Feb 2024 05:00:00 -0500",
+            "title": "The Autonomous Research System Lets Robots Do Your Lab Work"
+        },
+        {
+            "author": "IEEE Spectrum",
             "content": "\n        <p>The semiconductor industry is in the midst of a major expansion driven by the seemingly insatiable demands of AI, the addition of more intelligence in transportation, and national security concerns, among many other things. What this expansion might mean for chip-making's carbon footprint? Can we make everything in our world smarter without worsening climate change? <a href=\"https://www.linkedin.com/in/lizzie-boakes-965ba917b/\">Lizzie Boakes</a> is a lifecycle analyst at <a href=\"https://www.imec-int.com/en\">IMEC</a>, the Belgium-based nanotech research organisation, and she speaks with senior editor <a href=\"https://spectrum.ieee.org/u/samuel-k-moore\">Samuel K. Moore </a>about her work on this problem.</p>\n      ",
             "content:encoded": "\n        <p>The semiconductor industry is in the midst of a major expansion driven by the seemingly insatiable demands of AI, the addition of more intelligence in transportation, and national security concerns, among many other things. What this expansion might mean for chip-making's carbon footprint? Can we make everything in our world smarter without worsening climate change? <a href=\"https://www.linkedin.com/in/lizzie-boakes-965ba917b/\">Lizzie Boakes</a> is a lifecycle analyst at <a href=\"https://www.imec-int.com/en\">IMEC</a>, the Belgium-based nanotech research organisation, and she speaks with senior editor <a href=\"https://spectrum.ieee.org/u/samuel-k-moore\">Samuel K. Moore </a>about her work on this problem.</p>\n      ",
             "content:encodedSnippet": "The semiconductor industry is in the midst of a major expansion driven by the seemingly insatiable demands of AI, the addition of more intelligence in transportation, and national security concerns, among many other things. What this expansion might mean for chip-making's carbon footprint? Can we make everything in our world smarter without worsening climate change? Lizzie Boakes is a lifecycle analyst at IMEC, the Belgium-based nanotech research organisation, and she speaks with senior editor Samuel K. Moore about her work on this problem.",
@@ -1621,7 +1648,7 @@
         "summary": "Fixing the Future from IEEE Spectrum magazine is a weekly look at the cultural, business, and environmental consequences of technological solutions to hard problems like sustainability, climate change, and the ethics and scientific challenges posed by AI. IEEE Spectrum is the flagship magazine of IEEE, the world\u2019s largest professional organization devoted to engineering and the applied sciences."
     },
     "language": "en",
-    "lastBuildDate": "Fri, 09 Feb 2024 17:13:30 -0500",
+    "lastBuildDate": "Wed, 21 Feb 2024 05:01:14 -0500",
     "paginationLinks": {
         "self": "https://feeds.transistor.fm/radiospectrum"
     },
@@ -1633,6 +1660,6 @@
         "FAC887",
         "F64312"
     ],
-    "pubDate": "Fri, 09 Feb 2024 15:07:18 -0500",
+    "pubDate": "Wed, 21 Feb 2024 05:00:05 -0500",
     "title": "Fixing the Future"
 }
