@@ -11,6 +11,34 @@
     "items": [
         {
             "author": "scott@hanselman.com (Scott Hanselman)",
+            "content": "<p>Join Scott Hanselman as he sits down with Sai Srirampur, as they explore the intricacies of Postgres Replication and how it can be turbocharged using PeerDB. In the realm of databases, Postgres Replication is like a well-choreographed dance between servers. Sai takes us behind the scenes, revealing the steps involved and how it can be made faster and cheaper.</p><ul><li><a href=\"https://www.peerdb.io/\">https://www.peerdb.io/</a></li></ul>\n",
+            "content:encoded": "<p>Join Scott Hanselman as he sits down with Sai Srirampur, as they explore the intricacies of Postgres Replication and how it can be turbocharged using PeerDB. In the realm of databases, Postgres Replication is like a well-choreographed dance between servers. Sai takes us behind the scenes, revealing the steps involved and how it can be made faster and cheaper.</p><ul><li><a href=\"https://www.peerdb.io/\">https://www.peerdb.io/</a></li></ul>\n",
+            "content:encodedSnippet": "Join Scott Hanselman as he sits down with Sai Srirampur, as they explore the intricacies of Postgres Replication and how it can be turbocharged using PeerDB. In the realm of databases, Postgres Replication is like a well-choreographed dance between servers. Sai takes us behind the scenes, revealing the steps involved and how it can be made faster and cheaper.\n\nhttps://www.peerdb.io/",
+            "contentSnippet": "Join Scott Hanselman as he sits down with Sai Srirampur, as they explore the intricacies of Postgres Replication and how it can be turbocharged using PeerDB. In the realm of databases, Postgres Replication is like a well-choreographed dance between servers. Sai takes us behind the scenes, revealing the steps involved and how it can be made faster and cheaper.\n\nhttps://www.peerdb.io/",
+            "creator": "scott@hanselman.com (Scott Hanselman)",
+            "enclosure": {
+                "length": "26110317",
+                "type": "audio/mpeg",
+                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/292c583d-55ef-41f1-9627-c1b9f09595f0/audio/d2501fd0-2368-42b3-abaf-ae2e38539f69/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+            },
+            "guid": "988aa7e2-bb4a-45a5-b1ff-3b9b7b3a86de",
+            "isoDate": "2024-02-29T21:00:00.000Z",
+            "itunes": {
+                "author": "Scott Hanselman",
+                "duration": "00:27:06",
+                "episode": "934",
+                "episodeType": "full",
+                "explicit": "no",
+                "image": "https://image.simplecastcdn.com/images/e464c34b-2f32-411b-bdd2-dcf02e5301eb/d59e7cda-0729-4e54-81ec-84bce819d1d5/3000x3000/934.jpg?aid=rss_feed",
+                "subtitle": "Join Scott Hanselman as he sits down with Sai Srirampur, as they explore the intricacies of Postgres Replication and how it can be turbocharged using PeerDB. In the realm of databases, Postgres Replication is like a well-choreographed dance between servers. Sai takes us behind the scenes, revealing the steps involved and how it can be made faster and cheaper.",
+                "summary": "Join Scott Hanselman as he sits down with Sai Srirampur, as they explore the intricacies of Postgres Replication and how it can be turbocharged using PeerDB. In the realm of databases, Postgres Replication is like a well-choreographed dance between servers. Sai takes us behind the scenes, revealing the steps involved and how it can be made faster and cheaper."
+            },
+            "link": "https://www.hanselminutes.com",
+            "pubDate": "Thu, 29 Feb 2024 21:00:00 +0000",
+            "title": "Postgres Replication at speed with PeerDB's Sai Srirampur"
+        },
+        {
+            "author": "scott@hanselman.com (Scott Hanselman)",
             "content": "<p>Delve into the dynamic world of API gateways and the ongoing process of reinvention. Explore the latest trends, challenges, and innovations shaping the API landscape. From security concerns to performance optimizations, Josh shares his insights on how businesses can stay ahead by embracing the evolving role of API gateways in today's tech-driven ecosystem and how his experience building large scale systems like this informed the architecture at Zuplo.</p><p>http://www.zuplo.com\u00a0</p>\n",
             "content:encoded": "<p>Delve into the dynamic world of API gateways and the ongoing process of reinvention. Explore the latest trends, challenges, and innovations shaping the API landscape. From security concerns to performance optimizations, Josh shares his insights on how businesses can stay ahead by embracing the evolving role of API gateways in today's tech-driven ecosystem and how his experience building large scale systems like this informed the architecture at Zuplo.</p><p>http://www.zuplo.com\u00a0</p>\n",
             "content:encodedSnippet": "Delve into the dynamic world of API gateways and the ongoing process of reinvention. Explore the latest trends, challenges, and innovations shaping the API landscape. From security concerns to performance optimizations, Josh shares his insights on how businesses can stay ahead by embracing the evolving role of API gateways in today's tech-driven ecosystem and how his experience building large scale systems like this informed the architecture at Zuplo.\nhttp://www.zuplo.com",
@@ -26051,7 +26079,7 @@
         "summary": "Hanselminutes is Fresh Air for Developers. A weekly commute-time podcast that promotes fresh technology and fresh voices. Talk and Tech for Developers, Life-long Learners, and Technologists."
     },
     "language": "en-us",
-    "lastBuildDate": "Thu, 22 Feb 2024 21:00:11 +0000",
+    "lastBuildDate": "Fri, 1 Mar 2024 00:05:55 +0000",
     "link": "https://www.hanselminutes.com",
     "paginationLinks": {
         "self": "https://feeds.simplecast.com/gvtxUiIf"
@@ -26064,6 +26092,6 @@
         "848C89",
         "84848C"
     ],
-    "pubDate": "Thu, 22 Feb 2024 21:00:00 +0000",
+    "pubDate": "Thu, 29 Feb 2024 21:00:00 +0000",
     "title": "Hanselminutes with Scott Hanselman"
 }

@@ -12,6 +12,32 @@
     },
     "items": [
         {
+            "comments": "https://modernweb.podbean.com/e/modern-web-podcast-s11e25-are-performance-issues-really-nextjs-s-fault-what-vercel-should-actually-be-building/#comments",
+            "content": "<p><a href='https://twitter.com/_jayphelps'>Jay Phelps</a>, a Senior Software Engineer at Netflix, alongside <a href='https://twitter.com/BenLesh'>Ben Lesh</a>, <a href='https://twitter.com/ladyleet'>Tracy Lee</a>, and <a href='https://twitter.com/AdamRackis'>Adam Rackis</a>, explores challenges facing React developers, the problem with Vercel and Next.js, and the solutions that the web platforms teams should be focused on to improve the web for everyone, especially those that use third party scripts.</p>\n<p><a href='http://thisdotlabs.com'>Sponsored by This Dot Labs</a></p>\n<p><a href='https://www.youtube.com/watch?v=ISNMg0r0NG4'>Watch this episode on our Youtube Page!</a></p>\n<p><a href='https://www.thisdot.co/blog/are-performance-issues-really-next-jss-fault-what-vercel-should-actually-be'>Read more on this blog.</a></p>\r\n",
+            "content:encoded": "<p><a href='https://twitter.com/_jayphelps'>Jay Phelps</a>, a Senior Software Engineer at Netflix, alongside <a href='https://twitter.com/BenLesh'>Ben Lesh</a>, <a href='https://twitter.com/ladyleet'>Tracy Lee</a>, and <a href='https://twitter.com/AdamRackis'>Adam Rackis</a>, explores challenges facing React developers, the problem with Vercel and Next.js, and the solutions that the web platforms teams should be focused on to improve the web for everyone, especially those that use third party scripts.</p>\n<p><a href='http://thisdotlabs.com'>Sponsored by This Dot Labs</a></p>\n<p><a href='https://www.youtube.com/watch?v=ISNMg0r0NG4'>Watch this episode on our Youtube Page!</a></p>\n<p><a href='https://www.thisdot.co/blog/are-performance-issues-really-next-jss-fault-what-vercel-should-actually-be'>Read more on this blog.</a></p>\r\n",
+            "content:encodedSnippet": "Jay Phelps, a Senior Software Engineer at Netflix, alongside Ben Lesh, Tracy Lee, and Adam Rackis, explores challenges facing React developers, the problem with Vercel and Next.js, and the solutions that the web platforms teams should be focused on to improve the web for everyone, especially those that use third party scripts.\nSponsored by This Dot Labs\nWatch this episode on our Youtube Page!\nRead more on this blog.",
+            "contentSnippet": "Jay Phelps, a Senior Software Engineer at Netflix, alongside Ben Lesh, Tracy Lee, and Adam Rackis, explores challenges facing React developers, the problem with Vercel and Next.js, and the solutions that the web platforms teams should be focused on to improve the web for everyone, especially those that use third party scripts.\nSponsored by This Dot Labs\nWatch this episode on our Youtube Page!\nRead more on this blog.",
+            "enclosure": {
+                "length": "35800045",
+                "type": "audio/mpeg",
+                "url": "https://mcdn.podbean.com/mf/web/frj3rz/MWP_JayPhelps.mp3"
+            },
+            "guid": "modernweb.podbean.com/c66ae268-5375-38cc-bdaa-30619a4f6c8d",
+            "isoDate": "2024-02-27T15:53:56.000Z",
+            "itunes": {
+                "author": "Modern Web",
+                "duration": "37:11",
+                "episode": "181",
+                "episodeType": "full",
+                "explicit": "false",
+                "subtitle": "Jay Phelps, a Senior Software Engineer at Netflix, alongside Ben Lesh, Tracy Lee, and Adam Rackis, explores challenges facing React developers, the problem with Vercel and Next.js, and the solutions that the web platforms teams should be focused on t...",
+                "summary": "Jay Phelps, a Senior Software Engineer at Netflix, alongside Ben Lesh, Tracy Lee, and Adam Rackis, explores challenges facing React developers, the problem with Vercel and Next.js, and the solutions that the web platforms teams should be focused on to improve the web for everyone, especially those that use third party scripts.\nSponsored by This Dot Labs\nWatch this episode on our Youtube Page!\nRead more on this blog."
+            },
+            "link": "https://modernweb.podbean.com/e/modern-web-podcast-s11e25-are-performance-issues-really-nextjs-s-fault-what-vercel-should-actually-be-building/",
+            "pubDate": "Tue, 27 Feb 2024 10:53:56 -0500",
+            "title": "Modern Web Podcast S11E25- Are Performance Issues Really Next.js\u2019s Fault? What Vercel Should Actually Be Building"
+        },
+        {
             "comments": "https://modernweb.podbean.com/e/jack-herrington/#comments",
             "content": "<p><a href='https://twitter.com/jherr'>Jack Herrington</a> talks with <a href='https://twitter.com/ladyleet'>Tracy Lee</a> on the latest trends in JavaScript development and developer culture. They talk about evolving web development tools and philosophies and the abstractions that come with these new frameworks. Jack and Tracy talk about the potential of HTMX and Astro, highlighting trends towards simplicity in tech and the role of client-side libraries like HTMX in bridging front-end and back-end development.</p>\n<p><a href='http://thisdot.co'>Sponsored by This Dot Labs</a></p>\n<p><a href='https://youtu.be/hm3-9Y-Lg1g'>Watch this episode here!</a></p>\n<p><a href='https://www.thisdot.co/blog/will-htmx-take-away-front-end-developer-jobs-with-jack-herrington'>Read more on our blog!</a></p>\r\n",
             "content:encoded": "<p><a href='https://twitter.com/jherr'>Jack Herrington</a> talks with <a href='https://twitter.com/ladyleet'>Tracy Lee</a> on the latest trends in JavaScript development and developer culture. They talk about evolving web development tools and philosophies and the abstractions that come with these new frameworks. Jack and Tracy talk about the potential of HTMX and Astro, highlighting trends towards simplicity in tech and the role of client-side libraries like HTMX in bridging front-end and back-end development.</p>\n<p><a href='http://thisdot.co'>Sponsored by This Dot Labs</a></p>\n<p><a href='https://youtu.be/hm3-9Y-Lg1g'>Watch this episode here!</a></p>\n<p><a href='https://www.thisdot.co/blog/will-htmx-take-away-front-end-developer-jobs-with-jack-herrington'>Read more on our blog!</a></p>\r\n",
@@ -2584,32 +2610,6 @@
             "link": "https://modernweb.podbean.com/e/s07e15-modern-web-podcast-how-to-webperf-with-henri-helvetica/",
             "pubDate": "Wed, 09 Dec 2020 15:35:33 -0500",
             "title": "S07E15 Modern Web Podcast - How To: WebPerf with Henri Helvetica"
-        },
-        {
-            "comments": "https://modernweb.podbean.com/e/s07e14-modern-web-podcast-what-does-it-take-to-be-a-principal-engineer-interview-with-stacy-devino/#comments",
-            "content": "<p>In this podcast episode, Tracy Lee (@ladyleet) interviews Principal Engineer at Stitchfix, Stacy Devino (@doesitpew), about being a principal engineer. We cover topics around what it takes to be a principal engineer, how to facilitate your learning within an organization, what a good culture in an engineering team looks like, the considerations one might take to look at to rewrite code or build something from scratch, and the skills needed to be successful at this level of your career.</p>\n<p>\u00a0</p>\n<p>Guest:</p>\n<p>Stacy Devino (@doesitpew) - Principal Engineer at Stitchfix</p>\n<p>\u00a0</p>\n<p>Host:</p>\n<p>Tracy Lee (@ladyleet) - CEO, This Dot Labs\u00a0</p>\n<p>\u00a0</p>\n<p>This episode is sponsored by\u00a0<a href='https://labs.thisdot.co/'>This Dot Labs</a>.\u00a0</p>\r\n",
-            "content:encoded": "<p>In this podcast episode, Tracy Lee (@ladyleet) interviews Principal Engineer at Stitchfix, Stacy Devino (@doesitpew), about being a principal engineer. We cover topics around what it takes to be a principal engineer, how to facilitate your learning within an organization, what a good culture in an engineering team looks like, the considerations one might take to look at to rewrite code or build something from scratch, and the skills needed to be successful at this level of your career.</p>\n<p>\u00a0</p>\n<p>Guest:</p>\n<p>Stacy Devino (@doesitpew) - Principal Engineer at Stitchfix</p>\n<p>\u00a0</p>\n<p>Host:</p>\n<p>Tracy Lee (@ladyleet) - CEO, This Dot Labs\u00a0</p>\n<p>\u00a0</p>\n<p><em>This episode is sponsored by\u00a0<a href='https://labs.thisdot.co/'>This Dot Labs</a>.\u00a0</em></p>\r\n",
-            "content:encodedSnippet": "In this podcast episode, Tracy Lee (@ladyleet) interviews Principal Engineer at Stitchfix, Stacy Devino (@doesitpew), about being a principal engineer. We cover topics around what it takes to be a principal engineer, how to facilitate your learning within an organization, what a good culture in an engineering team looks like, the considerations one might take to look at to rewrite code or build something from scratch, and the skills needed to be successful at this level of your career.\n\u00a0\nGuest:\nStacy Devino (@doesitpew) - Principal Engineer at Stitchfix\n\u00a0\nHost:\nTracy Lee (@ladyleet) - CEO, This Dot Labs\u00a0\n\u00a0\nThis episode is sponsored by\u00a0This Dot Labs.",
-            "contentSnippet": "In this podcast episode, Tracy Lee (@ladyleet) interviews Principal Engineer at Stitchfix, Stacy Devino (@doesitpew), about being a principal engineer. We cover topics around what it takes to be a principal engineer, how to facilitate your learning within an organization, what a good culture in an engineering team looks like, the considerations one might take to look at to rewrite code or build something from scratch, and the skills needed to be successful at this level of your career.\n\u00a0\nGuest:\nStacy Devino (@doesitpew) - Principal Engineer at Stitchfix\n\u00a0\nHost:\nTracy Lee (@ladyleet) - CEO, This Dot Labs\u00a0\n\u00a0\nThis episode is sponsored by\u00a0This Dot Labs.",
-            "enclosure": {
-                "length": "73696864",
-                "type": "audio/mpeg",
-                "url": "https://mcdn.podbean.com/mf/web/urwsch/Modern_Web_-_Stacy_7o5qq.mp3"
-            },
-            "guid": "modernweb.podbean.com/56cf31cf-f173-357b-8f19-9dacbcc0bf28",
-            "isoDate": "2020-12-02T21:32:33.000Z",
-            "itunes": {
-                "author": "Tracy Lee",
-                "duration": "37:46",
-                "episode": "80",
-                "episodeType": "full",
-                "explicit": "false",
-                "subtitle": "In this podcast episode, Tracy Lee (@ladyleet) interviews Principal Engineer at Stitchfix, Stacy Devino (@doesitpew), about being a principal engineer. We cover topics around what it takes to be a principal engineer, how to facilitate your learning w...",
-                "summary": "In this podcast episode, Tracy Lee (@ladyleet) interviews Principal Engineer at Stitchfix, Stacy Devino (@doesitpew), about being a principal engineer. We cover topics around what it takes to be a principal engineer, how to facilitate your learning within an organization, what a good culture in an engineering team looks like, the considerations one might take to look at to rewrite code or build something from scratch, and the skills needed to be successful at this level of your career.\n\u00a0\nGuest:\nStacy Devino (@doesitpew) - Principal Engineer at Stitchfix\n\u00a0\nHost:\nTracy Lee (@ladyleet) - CEO, This Dot Labs\u00a0\n\u00a0\nThis episode is sponsored by\u00a0This Dot Labs.\u00a0"
-            },
-            "link": "https://modernweb.podbean.com/e/s07e14-modern-web-podcast-what-does-it-take-to-be-a-principal-engineer-interview-with-stacy-devino/",
-            "pubDate": "Wed, 02 Dec 2020 16:32:33 -0500",
-            "title": "S07E14 Modern Web Podcast - What Does It Take To Be a Principal Engineer? Interview with Stacy Devino"
         }
     ],
     "itunes": {
@@ -2644,7 +2644,7 @@
         "4269CC",
         "424878"
     ],
-    "pubDate": "Thu, 22 Feb 2024 14:34:28 -0500",
+    "pubDate": "Tue, 27 Feb 2024 10:53:56 -0500",
     "title": "Modern Web",
     "ttl": "1440"
 }

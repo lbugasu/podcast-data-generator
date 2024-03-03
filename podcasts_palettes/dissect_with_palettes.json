@@ -1,7 +1,7 @@
 {
     "copyright": "The Ringer",
     "description": "Analyzing the music and meaning of one album per season, one song per episode. Join host Cole Cuchna as he dives deep into albums by Kendrick Lamar, Kanye West, Beyonce, Frank Ocean, Mac Miller, and more. Let's Dissect.",
-    "feedUrl": "https://feeds-origin.megaphone.fm/dissectwide",
+    "feedUrl": "https://feeds.megaphone.fm/dissectwide",
     "image": {
         "link": "http://dissectpodcast.com",
         "title": "Dissect",
@@ -341,13 +341,13 @@
             "enclosure": {
                 "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://traffic.megaphone.fm/GLT2637514154.mp3?updated=1695074351"
+                "url": "https://traffic.megaphone.fm/GLT2637514154.mp3?updated=1708984679"
             },
             "guid": "e51729c8-566b-11ee-b6f6-37f0856eaa16",
             "isoDate": "2023-09-26T10:36:00.000Z",
             "itunes": {
                 "author": "The Ringer",
-                "duration": "3024",
+                "duration": "3084",
                 "episode": "1",
                 "episodeType": "full",
                 "image": "https://megaphone.imgix.net/podcasts/e51729c8-566b-11ee-b6f6-37f0856eaa16/image/93c5b7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
@@ -5843,7 +5843,7 @@
     "language": "en-us",
     "link": "http://dissectpodcast.com",
     "paginationLinks": {
-        "self": "https://feeds-origin.megaphone.fm/dissectwide"
+        "self": "https://feeds.megaphone.fm/dissectwide"
     },
     "palette": [
         "C36C55",
