@@ -10,6 +10,33 @@
     "items": [
         {
             "author": "IEEE Spectrum",
+            "content": "\n        <p>In this March roundup, <em>IEEE Spectrum</em>'s editor-in-chief <a href=\"https://spectrum.ieee.org/u/harry-goldstein\">Harry Goldstein</a> and senior editor <a href=\"https://spectrum.ieee.org/u/stephen-cass\">Stephen Cass</a> talk about some of the highlights of <em>Spectrum</em>'s recent coverage, including <a href=\"https://spectrum.ieee.org/lean-software-development\">a plea for programmers to stop producing bloated programs</a>, a <a href=\"https://spectrum.ieee.org/aluminum-nitride\">new transistor</a> that could help make how we handle electrical power smarter, and the potential return of <a href=\"https://spectrum.ieee.org/data-storage-petabit-optical-disc\">optical discs</a> as a high-density date storage medium.\u00a0</p>\n      ",
+            "content:encoded": "\n        <p>In this March roundup, <em>IEEE Spectrum</em>'s editor-in-chief <a href=\"https://spectrum.ieee.org/u/harry-goldstein\">Harry Goldstein</a> and senior editor <a href=\"https://spectrum.ieee.org/u/stephen-cass\">Stephen Cass</a> talk about some of the highlights of <em>Spectrum</em>'s recent coverage, including <a href=\"https://spectrum.ieee.org/lean-software-development\">a plea for programmers to stop producing bloated programs</a>, a <a href=\"https://spectrum.ieee.org/aluminum-nitride\">new transistor</a> that could help make how we handle electrical power smarter, and the potential return of <a href=\"https://spectrum.ieee.org/data-storage-petabit-optical-disc\">optical discs</a> as a high-density date storage medium.\u00a0</p>\n      ",
+            "content:encodedSnippet": "In this March roundup, IEEE Spectrum's editor-in-chief Harry Goldstein and senior editor Stephen Cass talk about some of the highlights of Spectrum's recent coverage, including a plea for programmers to stop producing bloated programs, a new transistor that could help make how we handle electrical power smarter, and the potential return of optical discs as a high-density date storage medium.",
+            "contentSnippet": "In this March roundup, IEEE Spectrum's editor-in-chief Harry Goldstein and senior editor Stephen Cass talk about some of the highlights of Spectrum's recent coverage, including a plea for programmers to stop producing bloated programs, a new transistor that could help make how we handle electrical power smarter, and the potential return of optical discs as a high-density date storage medium.",
+            "creator": "IEEE Spectrum",
+            "enclosure": {
+                "length": "69803944",
+                "type": "audio/mpeg",
+                "url": "https://media.transistor.fm/18a89222/b37909a1.mp3"
+            },
+            "guid": "830c9124-3704-4f3a-9509-1f84c718f6e1",
+            "isoDate": "2024-03-06T10:00:00.000Z",
+            "itunes": {
+                "author": "IEEE Spectrum",
+                "duration": "2181",
+                "episode": "59",
+                "episodeType": "full",
+                "explicit": "No",
+                "keywords": "Technology, software, power electronics",
+                "summary": "\n        <p>In this March roundup, <em>IEEE Spectrum</em>'s editor-in-chief <a href=\"https://spectrum.ieee.org/u/harry-goldstein\">Harry Goldstein</a> and senior editor <a href=\"https://spectrum.ieee.org/u/stephen-cass\">Stephen Cass</a> talk about some of the highlights of <em>Spectrum</em>'s recent coverage, including <a href=\"https://spectrum.ieee.org/lean-software-development\">a plea for programmers to stop producing bloated programs</a>, a <a href=\"https://spectrum.ieee.org/aluminum-nitride\">new transistor</a> that could help make how we handle electrical power smarter, and the potential return of <a href=\"https://spectrum.ieee.org/data-storage-petabit-optical-disc\">optical discs</a> as a high-density date storage medium.\u00a0</p>\n      "
+            },
+            "link": "https://share.transistor.fm/s/18a89222",
+            "pubDate": "Wed, 06 Mar 2024 05:00:00 -0500",
+            "title": "Lean Software, Power Electronics, and the Return of Optical Storage"
+        },
+        {
+            "author": "IEEE Spectrum",
             "content": "\n        <p>The Air Force Research Laboratory (AFRL) recently <a href=\"https://github.com/AFRL-ARES/ARES_OS\">released the open-source ARES_OS</a>, a key software component of their Autonomous Research System. ARES_OS allows relatively simple robots to perform experiments, and develop new experiments based on the results. The AFRL's Benji Maruyama talks with IEEE Spectrum associate editor Dina Genkina about how he hopes the system becomes not just an invaluable helper for grad students, but opens up research to many more people outside traditional labs and enables progress in tackling hard problems like climate change.\u00a0<br></p>\n      ",
             "content:encoded": "\n        <p>The Air Force Research Laboratory (AFRL) recently <a href=\"https://github.com/AFRL-ARES/ARES_OS\">released the open-source ARES_OS</a>, a key software component of their Autonomous Research System. ARES_OS allows relatively simple robots to perform experiments, and develop new experiments based on the results. The AFRL's Benji Maruyama talks with IEEE Spectrum associate editor Dina Genkina about how he hopes the system becomes not just an invaluable helper for grad students, but opens up research to many more people outside traditional labs and enables progress in tackling hard problems like climate change.\u00a0<br></p>\n      ",
             "content:encodedSnippet": "The Air Force Research Laboratory (AFRL) recently released the open-source ARES_OS, a key software component of their Autonomous Research System. ARES_OS allows relatively simple robots to perform experiments, and develop new experiments based on the results. The AFRL's Benji Maruyama talks with IEEE Spectrum associate editor Dina Genkina about how he hopes the system becomes not just an invaluable helper for grad students, but opens up research to many more people outside traditional labs and enables progress in tackling hard problems like climate change.",
@@ -1648,7 +1675,7 @@
         "summary": "Fixing the Future from IEEE Spectrum magazine is a weekly look at the cultural, business, and environmental consequences of technological solutions to hard problems like sustainability, climate change, and the ethics and scientific challenges posed by AI. IEEE Spectrum is the flagship magazine of IEEE, the world\u2019s largest professional organization devoted to engineering and the applied sciences."
     },
     "language": "en",
-    "lastBuildDate": "Wed, 21 Feb 2024 05:01:12 -0500",
+    "lastBuildDate": "Wed, 06 Mar 2024 05:02:26 -0500",
     "paginationLinks": {
         "self": "https://feeds.transistor.fm/radiospectrum"
     },
@@ -1660,6 +1687,6 @@
         "FAC887",
         "F64312"
     ],
-    "pubDate": "Wed, 21 Feb 2024 05:00:05 -0500",
+    "pubDate": "Wed, 06 Mar 2024 05:00:11 -0500",
     "title": "Fixing the Future"
 }
