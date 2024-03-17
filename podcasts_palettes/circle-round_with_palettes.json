@@ -13,6 +13,37 @@
                 "Arts",
                 "Books"
             ],
+            "content": "<p><span style=\"font-weight: 400;\">Adam Goldberg (The Equalizer) stars in this Portuguese tale about ambitions, imposters, and making the feathers fly!</span></p>",
+            "content:encoded": "<p><span style=\"font-weight: 400;\">Adam Goldberg (The Equalizer) stars in this Portuguese tale about ambitions, imposters, and making the feathers fly!</span></p>",
+            "content:encodedSnippet": "Adam Goldberg (The Equalizer) stars in this Portuguese tale about ambitions, imposters, and making the feathers fly!",
+            "contentSnippet": "Adam Goldberg (The Equalizer) stars in this Portuguese tale about ambitions, imposters, and making the feathers fly!",
+            "creator": "WBUR",
+            "dc:creator": "WBUR",
+            "enclosure": {
+                "length": "27097968",
+                "type": "audio/mpeg",
+                "url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR1646559212.mp3"
+            },
+            "guid": "77bc0f5f-de35-47e1-b322-624382e708a6",
+            "isoDate": "2024-03-12T19:00:00.000Z",
+            "itunes": {
+                "author": " WBUR ",
+                "duration": "00:28:14",
+                "episodeType": "full",
+                "explicit": "no",
+                "image": "https://wordpress.wbur.org/wp-content/uploads/2024/03/pigeon-scaled.jpg",
+                "subtitle": "Adam Goldberg (The Equalizer) stars in this Portuguese tale about ambitions, imposters, and making the feathers fly!",
+                "summary": "<span style=\"font-weight: 400;\">Adam Goldberg (The Equalizer) stars in this Portuguese tale about ambitions, imposters, and making the feathers fly!</span>"
+            },
+            "link": "https://www.wbur.org/circleround/2024/03/12/the-polka-dotted-pigeon",
+            "pubDate": "Tue, 12 Mar 2024 15:00:00 -0400",
+            "title": "The Polka-Dotted Pigeon"
+        },
+        {
+            "categories": [
+                "Arts",
+                "Books"
+            ],
             "content": "<p><span style=\"font-weight: 400;\">Recorded live at The Cowell Theater in San Francisco, this story with roots in Europe and Asia proves that wisdom can be found in unexpected places.</span></p>",
             "content:encoded": "<p><span style=\"font-weight: 400;\">Recorded live at The Cowell Theater in San Francisco, this story with roots in Europe and Asia proves that wisdom can be found in unexpected places.</span></p>",
             "content:encodedSnippet": "Recorded live at The Cowell Theater in San Francisco, this story with roots in Europe and Asia proves that wisdom can be found in unexpected places.",
@@ -9345,40 +9376,6 @@
             "link": "https://www.wbur.org/circleround/2018/07/24/the-unwelcome-guest-circle-round",
             "pubDate": "Tue, 24 Jul 2018 10:13:19 -0400",
             "title": "'The Unwelcome Guest' | feat. Richard Kind"
-        },
-        {
-            "categories": [
-                "Arts",
-                "Books",
-                "Education",
-                "Life",
-                "Uncategorized"
-            ],
-            "content": "<p>When the most powerful person in the land has never relied on himself, trouble ensues!  Keith David (\"Greenleaf\") and James Naughton (\"The Blacklist,\" \"Our Town\") co-star in a folktale that claims many homes--from Afghanistan to Greece.</p>",
-            "content:encoded": "<p>When the most powerful person in the land has never relied on himself, trouble ensues!  Keith David (\"Greenleaf\") and James Naughton (\"The Blacklist,\" \"Our Town\") co-star in a folktale that claims many homes--from Afghanistan to Greece.</p>",
-            "content:encodedSnippet": "When the most powerful person in the land has never relied on himself, trouble ensues!  Keith David (\"Greenleaf\") and James Naughton (\"The Blacklist,\" \"Our Town\") co-star in a folktale that claims many homes--from Afghanistan to Greece.",
-            "contentSnippet": "When the most powerful person in the land has never relied on himself, trouble ensues!  Keith David (\"Greenleaf\") and James Naughton (\"The Blacklist,\" \"Our Town\") co-star in a folktale that claims many homes--from Afghanistan to Greece.",
-            "creator": "WBUR",
-            "dc:creator": "WBUR",
-            "enclosure": {
-                "length": "20288731",
-                "type": "audio/mpeg",
-                "url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR7439743565.mp3"
-            },
-            "guid": "http://wbur.org/circleround/2018/07/17/the-king-and-the-cobbler-circle-round",
-            "isoDate": "2018-07-17T19:07:33.000Z",
-            "itunes": {
-                "author": " WBUR ",
-                "duration": "00:21:08",
-                "episodeType": "full",
-                "explicit": "no",
-                "image": "https://wordpress.wbur.org/wp-content/uploads/2018/07/cobbler.png",
-                "subtitle": "When the most powerful person in the land has never relied on himself, trouble ensues!  Keith David (\"Greenleaf\") and James Naughton (\"The Blacklist,\" \"Our Town\") co-star in a folktale that claims many homes--from Afghanistan to Greece.",
-                "summary": "When the most powerful person in the land has never relied on himself, trouble ensues!  Keith David (\"Greenleaf\") and James Naughton (\"The Blacklist,\" \"Our Town\") co-star in a folktale that claims many homes--from Afghanistan to Greece."
-            },
-            "link": "https://www.wbur.org/circleround/2018/07/17/the-king-and-the-cobbler-circle-round",
-            "pubDate": "Tue, 17 Jul 2018 15:07:33 -0400",
-            "title": "'The King And The Cobbler'  | feat. Keith David and James Naughton"
         }
     ],
     "itunes": {
@@ -9416,7 +9413,7 @@
         "summary": "Created and produced by parents of young children, WBUR's Circle Round adapts carefully-selected folktales from around the world into sound- and music-rich radio plays for kids ages 3-103. Each 15 to 25-minute episode explores important issues like kindness, persistence and generosity. And each episode ends with an activity that inspires a deeper conversation between children and grown-ups."
     },
     "language": "en-us",
-    "lastBuildDate": "Sat, 09 Mar 2024 19:17:33 -0500",
+    "lastBuildDate": "Sat, 16 Mar 2024 20:17:22 -0400",
     "link": "https://www.wbur.org/podcasts/circleround",
     "paginationLinks": {
         "self": "https://rss.wbur.org/circleround/podcast"
