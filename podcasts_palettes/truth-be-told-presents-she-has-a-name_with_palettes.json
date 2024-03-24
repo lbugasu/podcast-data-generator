@@ -1,13 +1,34 @@
 {
     "copyright": "Copyright 2024 Minnesota Public Radio",
-    "description": "\n      We\u2019re the friend you call after a long day. The one who gets it. Through soul-nourishing conversations, host Tonya Mosley explores Black liberation with some of the greatest thinkers of our time. Season 5 explores what the latest psychedelic renaissance means for the Black diaspora. Truth Be Told is a TMI Production in association with American Public Media. We are @DearTruthBeTold on Twitter and @deartbt on Instagram. Reach out to us using the hashtag #DearTBT.\n    ",
+    "description": "\n      She Has A Name blends elements of investigative journalism and memoir to tell the story of Anita, a sister that host Tonya Mosley learned about more than a decade after she went missing. Set against the backdrop of the drug epidemic in 1980s Detroit, She Has A Name is a story of loss and redemption, mending broken family ties, and facing the trauma experienced by countless individuals who've lost loved ones to violence.\n    ",
     "feedUrl": "https://feeds.publicradio.org/public_feeds/truth-be-told/rss/rss.rss",
     "image": {
         "link": "https://www.deartbt.com/",
-        "title": "Truth Be Told",
-        "url": "https://img.apmcdn.org/95c253b01ca884dbba6489942dbcebd58d6953b3/square/0b80d7-20230328-truth-be-told-podcast-tile-2000.jpg"
+        "title": "Truth Be Told Presents: She Has A Name",
+        "url": "https://img.apmcdn.org/491ed53d0437104edc7495393e1bee825ddbc68c/uncropped/0772bf-20240319-she-has-a-name-podcast-art-2000.jpg"
     },
     "items": [
+        {
+            "content": "\n        <p>Host Tonya Mosley has spent most of her career telling other people\u2019s stories, now she is focusing on her own family. In the summer of 1987, Tonya\u2019s sister Anita disappeared without a trace. It took 33 years of searching and her son\u2019s DNA to connect Anita to a grave just outside of Detroit. But finding the body was just the beginning: Anita had been murdered. This isn\u2019t just another whodunit, She Has A Name peels back the layers of Anita\u2019s murder to reveal a city fighting for its own survival.\u00a0</p>\n      ",
+            "contentSnippet": "Host Tonya Mosley has spent most of her career telling other people\u2019s stories, now she is focusing on her own family. In the summer of 1987, Tonya\u2019s sister Anita disappeared without a trace. It took 33 years of searching and her son\u2019s DNA to connect Anita to a grave just outside of Detroit. But finding the body was just the beginning: Anita had been murdered. This isn\u2019t just another whodunit, She Has A Name peels back the layers of Anita\u2019s murder to reveal a city fighting for its own survival.",
+            "enclosure": {
+                "length": "4835135",
+                "type": "audio/mpeg",
+                "url": "https://play.podtrac.com/APM-TruthBeTold/chrt.fm/track/3G835/play.publicradio.org/rss/o/ /americanpublicmedia/podcasts/she_has_a_name/episodes/2024/03/21/shehasaname_0_20240321_128.mp3"
+            },
+            "guid": "01HSBTJQVC5SYZ2ABW26BYE3FT",
+            "isoDate": "2024-03-21T09:00:00.000Z",
+            "itunes": {
+                "author": "American Public Media",
+                "duration": "00:04:58",
+                "episodeType": "trailer",
+                "explicit": "no",
+                "image": "https://img.apmcdn.org/491ed53d0437104edc7495393e1bee825ddbc68c/square/a70ace-20240319-she-has-a-name-podcast-art-2000.jpg",
+                "season": "6"
+            },
+            "pubDate": "Thu, 21 Mar 2024 09:00:00 +0000",
+            "title": "Introducing: She Has a Name"
+        },
         {
             "content": "\n        <p>Truth Be Told Presents: She Has A Name, a deeply personal story for host Tonya Mosley. The first episode of this family mystery podcast drops here on the Truth Be Told feed on Thursday, March 28th.\u00a0</p>\n      ",
             "contentSnippet": "Truth Be Told Presents: She Has A Name, a deeply personal story for host Tonya Mosley. The first episode of this family mystery podcast drops here on the Truth Be Told feed on Thursday, March 28th.",
@@ -1406,20 +1427,16 @@
     "itunes": {
         "author": "American Public Media",
         "categories": [
-            "Society & Culture"
+            "True Crime"
         ],
         "categoriesWithSubs": [
             {
-                "name": "Society & Culture",
-                "subs": [
-                    {
-                        "name": "Documentary"
-                    }
-                ]
+                "name": "True Crime",
+                "subs": null
             }
         ],
         "explicit": "no",
-        "image": "https://img.apmcdn.org/95c253b01ca884dbba6489942dbcebd58d6953b3/square/0b80d7-20230328-truth-be-told-podcast-tile-2000.jpg",
+        "image": "https://img.apmcdn.org/491ed53d0437104edc7495393e1bee825ddbc68c/uncropped/0772bf-20240319-she-has-a-name-podcast-art-2000.jpg",
         "owner": {
             "email": "podcasts@americanpublicmedia.org",
             "name": "American Public Media"
@@ -1431,13 +1448,13 @@
         "self": "https://feeds.publicradio.org/public_feeds/truth-be-told/rss/rss.rss"
     },
     "palette": [
-        "DD6711",
-        "11110F",
-        "E0EFF0",
-        "614A28",
-        "7C97A4",
-        "6A7F8F"
+        "3C2E3C",
+        "E295D5",
+        "8D2263",
+        "E15A43",
+        "CB7E7F",
+        "FAE0BC"
     ],
-    "title": "Truth Be Told",
+    "title": "Truth Be Told Presents: She Has A Name",
     "ttl": "60"
 }

@@ -10,6 +10,33 @@
     "items": [
         {
             "author": "IEEE Spectrum",
+            "content": "\n        <p><em>IEEE Spectrum</em>'s semiconductor expert, <a href=\"https://spectrum.ieee.org/u/samuel-k-moore\">Samuel K. Moore</a>, talks with <a href=\"https://spectrum.ieee.org/u/stephen-cass\">Stephen Cass</a> about his visit to one of the key conferences in emerging integrated circuit technology, <a href=\"https://www.isscc.org/\">ISSCC</a>. We talk about Meta's new <a href=\"https://spectrum.ieee.org/meta-ar-glasses\">3D chip-stacking tech for faster AR</a>, faster AI <a href=\"https://spectrum.ieee.org/cerebras-chip-cs3\">through in-memory computation</a>, and security technology that can cause a chip to <a href=\"https://spectrum.ieee.org/hardwired-to-self-destruct\">self-destruct if anyone tries to hack it</a>.</p>\n      ",
+            "content:encoded": "\n        <p><em>IEEE Spectrum</em>'s semiconductor expert, <a href=\"https://spectrum.ieee.org/u/samuel-k-moore\">Samuel K. Moore</a>, talks with <a href=\"https://spectrum.ieee.org/u/stephen-cass\">Stephen Cass</a> about his visit to one of the key conferences in emerging integrated circuit technology, <a href=\"https://www.isscc.org/\">ISSCC</a>. We talk about Meta's new <a href=\"https://spectrum.ieee.org/meta-ar-glasses\">3D chip-stacking tech for faster AR</a>, faster AI <a href=\"https://spectrum.ieee.org/cerebras-chip-cs3\">through in-memory computation</a>, and security technology that can cause a chip to <a href=\"https://spectrum.ieee.org/hardwired-to-self-destruct\">self-destruct if anyone tries to hack it</a>.</p>\n      ",
+            "content:encodedSnippet": "IEEE Spectrum's semiconductor expert, Samuel K. Moore, talks with Stephen Cass about his visit to one of the key conferences in emerging integrated circuit technology, ISSCC. We talk about Meta's new 3D chip-stacking tech for faster AR, faster AI through in-memory computation, and security technology that can cause a chip to self-destruct if anyone tries to hack it.",
+            "contentSnippet": "IEEE Spectrum's semiconductor expert, Samuel K. Moore, talks with Stephen Cass about his visit to one of the key conferences in emerging integrated circuit technology, ISSCC. We talk about Meta's new 3D chip-stacking tech for faster AR, faster AI through in-memory computation, and security technology that can cause a chip to self-destruct if anyone tries to hack it.",
+            "creator": "IEEE Spectrum",
+            "enclosure": {
+                "length": "28211319",
+                "type": "audio/mpeg",
+                "url": "https://media.transistor.fm/a1decc64/ea7be7bd.mp3"
+            },
+            "guid": "0fb3f69e-3d5e-4c43-bb63-04a513f168d3",
+            "isoDate": "2024-03-20T09:00:00.000Z",
+            "itunes": {
+                "author": "IEEE Spectrum",
+                "duration": "1761",
+                "episode": "60",
+                "episodeType": "full",
+                "explicit": "No",
+                "keywords": "Technology, Semiconductors, AI, AR, Meta",
+                "summary": "\n        <p><em>IEEE Spectrum</em>'s semiconductor expert, <a href=\"https://spectrum.ieee.org/u/samuel-k-moore\">Samuel K. Moore</a>, talks with <a href=\"https://spectrum.ieee.org/u/stephen-cass\">Stephen Cass</a> about his visit to one of the key conferences in emerging integrated circuit technology, <a href=\"https://www.isscc.org/\">ISSCC</a>. We talk about Meta's new <a href=\"https://spectrum.ieee.org/meta-ar-glasses\">3D chip-stacking tech for faster AR</a>, faster AI <a href=\"https://spectrum.ieee.org/cerebras-chip-cs3\">through in-memory computation</a>, and security technology that can cause a chip to <a href=\"https://spectrum.ieee.org/hardwired-to-self-destruct\">self-destruct if anyone tries to hack it</a>.</p>\n      "
+            },
+            "link": "https://share.transistor.fm/s/a1decc64",
+            "pubDate": "Wed, 20 Mar 2024 05:00:00 -0400",
+            "title": "The Cutting Edge of Integrated Circuits: Exploding Chips, How Meta's Stacking It Up For AR, and More"
+        },
+        {
+            "author": "IEEE Spectrum",
             "content": "\n        <p>In this March roundup, <em>IEEE Spectrum</em>'s editor-in-chief <a href=\"https://spectrum.ieee.org/u/harry-goldstein\">Harry Goldstein</a> and senior editor <a href=\"https://spectrum.ieee.org/u/stephen-cass\">Stephen Cass</a> talk about some of the highlights of <em>Spectrum</em>'s recent coverage, including <a href=\"https://spectrum.ieee.org/lean-software-development\">a plea for programmers to stop producing bloated programs</a>, a <a href=\"https://spectrum.ieee.org/aluminum-nitride\">new transistor</a> that could help make how we handle electrical power smarter, and the potential return of <a href=\"https://spectrum.ieee.org/data-storage-petabit-optical-disc\">optical discs</a> as a high-density date storage medium.\u00a0</p>\n      ",
             "content:encoded": "\n        <p>In this March roundup, <em>IEEE Spectrum</em>'s editor-in-chief <a href=\"https://spectrum.ieee.org/u/harry-goldstein\">Harry Goldstein</a> and senior editor <a href=\"https://spectrum.ieee.org/u/stephen-cass\">Stephen Cass</a> talk about some of the highlights of <em>Spectrum</em>'s recent coverage, including <a href=\"https://spectrum.ieee.org/lean-software-development\">a plea for programmers to stop producing bloated programs</a>, a <a href=\"https://spectrum.ieee.org/aluminum-nitride\">new transistor</a> that could help make how we handle electrical power smarter, and the potential return of <a href=\"https://spectrum.ieee.org/data-storage-petabit-optical-disc\">optical discs</a> as a high-density date storage medium.\u00a0</p>\n      ",
             "content:encodedSnippet": "In this March roundup, IEEE Spectrum's editor-in-chief Harry Goldstein and senior editor Stephen Cass talk about some of the highlights of Spectrum's recent coverage, including a plea for programmers to stop producing bloated programs, a new transistor that could help make how we handle electrical power smarter, and the potential return of optical discs as a high-density date storage medium.",
@@ -1675,7 +1702,7 @@
         "summary": "Fixing the Future from IEEE Spectrum magazine is a weekly look at the cultural, business, and environmental consequences of technological solutions to hard problems like sustainability, climate change, and the ethics and scientific challenges posed by AI. IEEE Spectrum is the flagship magazine of IEEE, the world\u2019s largest professional organization devoted to engineering and the applied sciences."
     },
     "language": "en",
-    "lastBuildDate": "Wed, 06 Mar 2024 05:02:26 -0500",
+    "lastBuildDate": "Wed, 20 Mar 2024 05:04:25 -0400",
     "paginationLinks": {
         "self": "https://feeds.transistor.fm/radiospectrum"
     },
@@ -1687,6 +1714,6 @@
         "FAC887",
         "F64312"
     ],
-    "pubDate": "Wed, 06 Mar 2024 05:00:11 -0500",
+    "pubDate": "Wed, 20 Mar 2024 05:00:27 -0400",
     "title": "Fixing the Future"
 }
