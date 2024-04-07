@@ -1,7 +1,7 @@
 {
     "copyright": "Copyright \u00a9 Dow Jones & Company, Inc. All rights reserved.",
     "description": "Every trading day, Numbers By Barron's breaks down the market's most important stories into three essential numbers.",
-    "feedUrl": "https://feeds-origin.megaphone.fm/WSJ1870998318?limit=20",
+    "feedUrl": "https://feeds.megaphone.fm/WSJ1870998318",
     "image": {
         "link": "https://www.barrons.com",
         "title": "Numbers by Barron's",
@@ -476,15 +476,15 @@
     "language": "en-us",
     "link": "https://www.barrons.com",
     "paginationLinks": {
-        "self": "https://feeds-origin.megaphone.fm/WSJ1870998318?limit=20"
+        "self": "https://feeds.megaphone.fm/WSJ1870998318"
     },
     "palette": [
         "056E82",
-        "F3BE22",
+        "F3BE23",
         "54BCB4",
         "0E97C4",
-        "629EAB",
-        "74994C"
+        "639EAB",
+        "74924C"
     ],
     "title": "Numbers by Barron's"
 }
