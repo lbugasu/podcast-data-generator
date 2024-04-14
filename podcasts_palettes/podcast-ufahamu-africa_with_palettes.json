@@ -1,7 +1,7 @@
 {
     "description": "A podcast about life and politics on the African continent",
     "feedUrl": "https://www.ufahamuafrica.com/category/podcast/feed/",
-    "generator": "https://www.ufahamuafrica.com?v=6.4.3",
+    "generator": "https://www.ufahamuafrica.com?v=6.4.4",
     "image": {
         "height": "32",
         "link": "https://www.ufahamuafrica.com",
@@ -10,6 +10,20 @@
         "width": "32"
     },
     "items": [
+        {
+            "categories": [
+                "Podcast"
+            ],
+            "content": "Today we have an extremely timely French-language episode on Senegal and the newly elected president, which is hosted by one of our non-resident fellows, Exp\u00e9dit Ologou. He talks with Mamadou Seck, who is the regional manager of the Natural Resource Governance Institute for Francophone West Africa and Central Africa, and is based in Dakar. Seck&#8217;s <a class=\"read-more\" href=\"https://www.ufahamuafrica.com/2024/04/13/ep-196-fellow-expedit-ologou-and-mamadou-seck-on-senegals-election-french/\">Read More...</a>",
+            "contentSnippet": "Today we have an extremely timely French-language episode on Senegal and the newly elected president, which is hosted by one of our non-resident fellows, Exp\u00e9dit Ologou. He talks with Mamadou Seck, who is the regional manager of the Natural Resource Governance Institute for Francophone West Africa and Central Africa, and is based in Dakar. Seck\u2019s Read More...",
+            "creator": "md963",
+            "dc:creator": "md963",
+            "guid": "https://blogs.cornell.edu/ufahamuafrica/?p=6253",
+            "isoDate": "2024-04-13T13:00:00.000Z",
+            "link": "https://www.ufahamuafrica.com/2024/04/13/ep-196-fellow-expedit-ologou-and-mamadou-seck-on-senegals-election-french/",
+            "pubDate": "Sat, 13 Apr 2024 13:00:00 +0000",
+            "title": "Ep. 196: Fellow Exp\u00e9dit Ologou and Mamadou Seck on Senegal\u2019s Election (French)"
+        },
         {
             "categories": [
                 "Podcast",
@@ -145,25 +159,10 @@
             "link": "https://www.ufahamuafrica.com/2024/01/13/ep-188-dominika-koter-on-democracy-in-benin/",
             "pubDate": "Sat, 13 Jan 2024 14:00:00 +0000",
             "title": "Ep. 188: Dominika Koter on Democracy in Benin"
-        },
-        {
-            "categories": [
-                "Podcast",
-                "Tunisia"
-            ],
-            "content": "&#160;Our African Studies Association panel continues this week with a case study on democracy in Tunisia from Cornell University&#8217;s Alexandra Blackman. You&#8217;ll hear her presentation on current events in Tunisia and a news wrap from Kim and Rachel on elections in the Democratic Republic of the Congo and a recent news story on a valuable <a class=\"read-more\" href=\"https://www.ufahamuafrica.com/2023/12/23/ep-187-alexandra-blackman-on-democracy-in-tunisia/\">Read More...</a>",
-            "contentSnippet": "Our African Studies Association panel continues this week with a case study on democracy in Tunisia from Cornell University\u2019s Alexandra Blackman. You\u2019ll hear her presentation on current events in Tunisia and a news wrap from Kim and Rachel on elections in the Democratic Republic of the Congo and a recent news story on a valuable Read More...",
-            "creator": "md963",
-            "dc:creator": "md963",
-            "guid": "https://blogs.cornell.edu/ufahamuafrica/?p=6121",
-            "isoDate": "2023-12-23T14:00:00.000Z",
-            "link": "https://www.ufahamuafrica.com/2023/12/23/ep-187-alexandra-blackman-on-democracy-in-tunisia/",
-            "pubDate": "Sat, 23 Dec 2023 14:00:00 +0000",
-            "title": "Ep. 187: Alexandra Blackman on Democracy in Tunisia"
         }
     ],
     "language": "en-US",
-    "lastBuildDate": "Sat, 30 Mar 2024 04:32:21 +0000",
+    "lastBuildDate": "Sat, 13 Apr 2024 03:30:41 +0000",
     "link": "https://www.ufahamuafrica.com",
     "paginationLinks": {
         "self": "https://www.ufahamuafrica.com/category/podcast/feed/"
