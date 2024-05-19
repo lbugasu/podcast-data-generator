@@ -1,5 +1,5 @@
 {
-    "description": "\n      <p><strong>Stay tuned for more information on The Jon Stewart Podcast.</strong></p>\n    ",
+    "description": "\n      <p>Stay tuned for more information on <strong>The Jon Stewart Podcast. </strong></p>\n    ",
     "feedUrl": "https://rss.art19.com/jon-stewart",
     "generator": "ART19",
     "image": {
@@ -34,21 +34,23 @@
     "itunes": {
         "author": "JTS Audio LLC",
         "categories": [
-            "TV & Film",
-            "Comedy",
-            "Society & Culture"
+            "News",
+            "Comedy"
         ],
         "categoriesWithSubs": [
             {
-                "name": "TV & Film",
-                "subs": null
+                "name": "News",
+                "subs": [
+                    {
+                        "name": "News Commentary"
+                    },
+                    {
+                        "name": "Politics"
+                    }
+                ]
             },
             {
                 "name": "Comedy",
-                "subs": null
-            },
-            {
-                "name": "Society & Culture",
                 "subs": null
             }
         ],
@@ -58,7 +60,7 @@
             "email": "dbo@dixontalent.com",
             "name": "JTS Audio LLC"
         },
-        "summary": "\n      <p><strong>Stay tuned for more information on The Jon Stewart Podcast.</strong></p>\n    "
+        "summary": "\n      <p>Stay tuned for more information on <strong>The Jon Stewart Podcast. </strong></p>\n    "
     },
     "language": "en",
     "link": "https://art19.com/shows/jon-stewart",

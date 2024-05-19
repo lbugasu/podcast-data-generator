@@ -11,6 +11,32 @@
     "items": [
         {
             "author": "scott@hanselman.com (Scott Hanselman)",
+            "content": "\n",
+            "contentSnippet": "",
+            "creator": "scott@hanselman.com (Scott Hanselman)",
+            "enclosure": {
+                "length": "28234782",
+                "type": "audio/mpeg",
+                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/326e2a63-912e-4374-9d3f-46bb171cf140/audio/1fd16c15-c1fc-4ca4-96f9-6d34ac53ae6c/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+            },
+            "guid": "392afd65-b5fa-4a53-89ed-b072d2522328",
+            "isoDate": "2024-05-16T21:00:00.000Z",
+            "itunes": {
+                "author": "Scott Hanselman",
+                "duration": "00:29:19",
+                "episode": "945",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://image.simplecastcdn.com/images/e464c34b-2f32-411b-bdd2-dcf02e5301eb/82ab41ae-e58b-456b-a7f0-eee5497a8a86/3000x3000/945.jpg?aid=rss_feed",
+                "subtitle": "",
+                "summary": ""
+            },
+            "link": "https://www.hanselminutes.com",
+            "pubDate": "Thu, 16 May 2024 21:00:00 +0000",
+            "title": "Community and content with Android Expert Madona Wambua"
+        },
+        {
+            "author": "scott@hanselman.com (Scott Hanselman)",
             "content": "<p>This week we talk to Knut Sveidqvist who brings over 20 years of software expertise to the table. Knut is the creator of the award-winning Mermaid open-source project, but he\u2019s also the CTO at Mermaid Chart, the powerful JavaScript-based diagramming and charting tool that is building their business on an Open Core Business Model.</p>\n",
             "content:encoded": "<p>This week we talk to Knut Sveidqvist who brings over 20 years of software expertise to the table. Knut is the creator of the award-winning Mermaid open-source project, but he\u2019s also the CTO at Mermaid Chart, the powerful JavaScript-based diagramming and charting tool that is building their business on an Open Core Business Model.</p>\n",
             "content:encodedSnippet": "This week we talk to Knut Sveidqvist who brings over 20 years of software expertise to the table. Knut is the creator of the award-winning Mermaid open-source project, but he\u2019s also the CTO at Mermaid Chart, the powerful JavaScript-based diagramming and charting tool that is building their business on an Open Core Business Model.",
@@ -16355,34 +16381,6 @@
         },
         {
             "author": "scott@hanselman.com (Scott Hanselman)",
-            "content": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
-            "content:encoded": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
-            "content:encodedSnippet": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.",
-            "contentSnippet": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.",
-            "creator": "scott@hanselman.com (Scott Hanselman)",
-            "enclosure": {
-                "length": "35504018",
-                "type": "audio/mpeg",
-                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/ada6609b-9aaa-4afa-87e1-1d89501e17a8/1f7fe125_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-            },
-            "guid": "http://www.hanselminutes.com/default.aspx?ShowID=379",
-            "isoDate": "2013-02-08T04:00:00.000Z",
-            "itunes": {
-                "author": "Scott Hanselman",
-                "duration": "00:36:53",
-                "episode": "359",
-                "episodeType": "full",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/ada6609b-9aaa-4afa-87e1-1d89501e17a8/3000x3000/1519423177artwork.jpg?aid=rss_feed",
-                "subtitle": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.\n\n",
-                "summary": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.\n\n"
-            },
-            "link": "https://www.hanselminutes.com",
-            "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
-            "title": "Git support within Visual Studio"
-        },
-        {
-            "author": "scott@hanselman.com (Scott Hanselman)",
             "content": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
             "content:encoded": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
             "content:encodedSnippet": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?",
@@ -16408,6 +16406,34 @@
             "link": "https://www.hanselminutes.com",
             "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
             "title": "Halo 4 - Services in Azure with Caitie McCaffrey"
+        },
+        {
+            "author": "scott@hanselman.com (Scott Hanselman)",
+            "content": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
+            "content:encoded": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
+            "content:encodedSnippet": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.",
+            "contentSnippet": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.",
+            "creator": "scott@hanselman.com (Scott Hanselman)",
+            "enclosure": {
+                "length": "35504018",
+                "type": "audio/mpeg",
+                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/ada6609b-9aaa-4afa-87e1-1d89501e17a8/1f7fe125_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+            },
+            "guid": "http://www.hanselminutes.com/default.aspx?ShowID=379",
+            "isoDate": "2013-02-08T04:00:00.000Z",
+            "itunes": {
+                "author": "Scott Hanselman",
+                "duration": "00:36:53",
+                "episode": "359",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/ada6609b-9aaa-4afa-87e1-1d89501e17a8/3000x3000/1519423177artwork.jpg?aid=rss_feed",
+                "subtitle": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.\n\n",
+                "summary": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.\n\n"
+            },
+            "link": "https://www.hanselminutes.com",
+            "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
+            "title": "Git support within Visual Studio"
         },
         {
             "author": "scott@hanselman.com (Scott Hanselman)",
@@ -26359,7 +26385,7 @@
         "summary": "Hanselminutes is Fresh Air for Developers. A weekly commute-time podcast that promotes fresh technology and fresh voices. Talk and Tech for Developers, Life-long Learners, and Technologists."
     },
     "language": "en-us",
-    "lastBuildDate": "Thu, 9 May 2024 21:00:11 +0000",
+    "lastBuildDate": "Thu, 16 May 2024 21:00:11 +0000",
     "link": "https://www.hanselminutes.com",
     "paginationLinks": {
         "self": "https://feeds.simplecast.com/gvtxUiIf"
@@ -26372,6 +26398,6 @@
         "848C89",
         "84848C"
     ],
-    "pubDate": "Thu, 9 May 2024 21:00:00 +0000",
+    "pubDate": "Thu, 16 May 2024 21:00:00 +0000",
     "title": "Hanselminutes with Scott Hanselman"
 }
