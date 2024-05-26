@@ -11,6 +11,34 @@
     "items": [
         {
             "author": "scott@hanselman.com (Scott Hanselman)",
+            "content": "<p>Casey Fiesler is an associate professor in the Department of Information Science (and Computer Science, by courtesy) at the University of Colorado Boulder. \u00a0She has a PhD in Human-Centered Computing from Georgia Tech and a JD from Vanderbilt Law School. This week she talks to Scott about AI and Ethics!</p>\n",
+            "content:encoded": "<p>Casey Fiesler is an associate professor in the Department of Information Science (and Computer Science, by courtesy) at the University of Colorado Boulder. \u00a0She has a PhD in Human-Centered Computing from Georgia Tech and a JD from Vanderbilt Law School. This week she talks to Scott about AI and Ethics!</p>\n",
+            "content:encodedSnippet": "Casey Fiesler is an associate professor in the Department of Information Science (and Computer Science, by courtesy) at the University of Colorado Boulder. \u00a0She has a PhD in Human-Centered Computing from Georgia Tech and a JD from Vanderbilt Law School. This week she talks to Scott about AI and Ethics!",
+            "contentSnippet": "Casey Fiesler is an associate professor in the Department of Information Science (and Computer Science, by courtesy) at the University of Colorado Boulder. \u00a0She has a PhD in Human-Centered Computing from Georgia Tech and a JD from Vanderbilt Law School. This week she talks to Scott about AI and Ethics!",
+            "creator": "scott@hanselman.com (Scott Hanselman)",
+            "enclosure": {
+                "length": "28119844",
+                "type": "audio/mpeg",
+                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/77444475-6e37-4d4a-bccf-10ff28c4b586/audio/16b82c99-00bf-4734-aca0-d44b4b013658/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+            },
+            "guid": "dcf8dd0d-9740-406b-a08b-ca1102073b24",
+            "isoDate": "2024-05-23T21:00:00.000Z",
+            "itunes": {
+                "author": "Scott Hanselman",
+                "duration": "00:29:12",
+                "episode": "946",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://image.simplecastcdn.com/images/e464c34b-2f32-411b-bdd2-dcf02e5301eb/db2414fe-4935-4b4a-a9e1-fc351d7c4810/3000x3000/946.jpg?aid=rss_feed",
+                "subtitle": "Casey Fiesler is an associate professor in the Department of Information Science (and Computer Science, by courtesy) at the University of Colorado Boulder.  She has a PhD in Human-Centered Computing from Georgia Tech and a JD from Vanderbilt Law School. This week she talks to Scott about AI and Ethics!",
+                "summary": "Casey Fiesler is an associate professor in the Department of Information Science (and Computer Science, by courtesy) at the University of Colorado Boulder.  She has a PhD in Human-Centered Computing from Georgia Tech and a JD from Vanderbilt Law School. This week she talks to Scott about AI and Ethics!"
+            },
+            "link": "https://www.hanselminutes.com",
+            "pubDate": "Thu, 23 May 2024 21:00:00 +0000",
+            "title": "Ethics, AI, and Human-centered Computing with Dr. Casey Fiesler"
+        },
+        {
+            "author": "scott@hanselman.com (Scott Hanselman)",
             "content": "\n",
             "contentSnippet": "",
             "creator": "scott@hanselman.com (Scott Hanselman)",
@@ -16381,34 +16409,6 @@
         },
         {
             "author": "scott@hanselman.com (Scott Hanselman)",
-            "content": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
-            "content:encoded": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
-            "content:encodedSnippet": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?",
-            "contentSnippet": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?",
-            "creator": "scott@hanselman.com (Scott Hanselman)",
-            "enclosure": {
-                "length": "31814349",
-                "type": "audio/mpeg",
-                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/f239e3a2_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-            },
-            "guid": "http://www.hanselminutes.com/default.aspx?ShowID=380",
-            "isoDate": "2013-02-08T04:00:00.000Z",
-            "itunes": {
-                "author": "Scott Hanselman",
-                "duration": "00:33:07",
-                "episode": "358",
-                "episodeType": "full",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/3000x3000/1519423024artwork.jpg?aid=rss_feed",
-                "subtitle": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
-                "summary": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n"
-            },
-            "link": "https://www.hanselminutes.com",
-            "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
-            "title": "Halo 4 - Services in Azure with Caitie McCaffrey"
-        },
-        {
-            "author": "scott@hanselman.com (Scott Hanselman)",
             "content": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
             "content:encoded": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
             "content:encodedSnippet": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.",
@@ -16434,6 +16434,34 @@
             "link": "https://www.hanselminutes.com",
             "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
             "title": "Git support within Visual Studio"
+        },
+        {
+            "author": "scott@hanselman.com (Scott Hanselman)",
+            "content": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
+            "content:encoded": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
+            "content:encodedSnippet": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?",
+            "contentSnippet": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?",
+            "creator": "scott@hanselman.com (Scott Hanselman)",
+            "enclosure": {
+                "length": "31814349",
+                "type": "audio/mpeg",
+                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/f239e3a2_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+            },
+            "guid": "http://www.hanselminutes.com/default.aspx?ShowID=380",
+            "isoDate": "2013-02-08T04:00:00.000Z",
+            "itunes": {
+                "author": "Scott Hanselman",
+                "duration": "00:33:07",
+                "episode": "358",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/3000x3000/1519423024artwork.jpg?aid=rss_feed",
+                "subtitle": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
+                "summary": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n"
+            },
+            "link": "https://www.hanselminutes.com",
+            "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
+            "title": "Halo 4 - Services in Azure with Caitie McCaffrey"
         },
         {
             "author": "scott@hanselman.com (Scott Hanselman)",
@@ -26385,7 +26413,7 @@
         "summary": "Hanselminutes is Fresh Air for Developers. A weekly commute-time podcast that promotes fresh technology and fresh voices. Talk and Tech for Developers, Life-long Learners, and Technologists."
     },
     "language": "en-us",
-    "lastBuildDate": "Thu, 16 May 2024 21:00:11 +0000",
+    "lastBuildDate": "Sat, 25 May 2024 01:37:06 +0000",
     "link": "https://www.hanselminutes.com",
     "paginationLinks": {
         "self": "https://feeds.simplecast.com/gvtxUiIf"
@@ -26398,6 +26426,6 @@
         "848C89",
         "84848C"
     ],
-    "pubDate": "Thu, 16 May 2024 21:00:00 +0000",
+    "pubDate": "Thu, 23 May 2024 21:00:00 +0000",
     "title": "Hanselminutes with Scott Hanselman"
 }

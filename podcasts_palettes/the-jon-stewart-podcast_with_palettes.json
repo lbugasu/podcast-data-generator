@@ -1,30 +1,32 @@
 {
-    "description": "\n      <p>Stay tuned for more information on <strong>The Jon Stewart Podcast. </strong></p>\n    ",
-    "feedUrl": "https://rss.art19.com/jon-stewart",
-    "generator": "ART19",
+    "copyright": "",
+    "description": "Stay tuned for more information on The Jon Stewart Podcast.",
+    "feedUrl": "https://feeds.megaphone.fm/BVLLC2163264914",
     "image": {
         "link": "https://art19.com/shows/jon-stewart",
         "title": "The Jon Stewart Podcast",
-        "url": "https://content.production.cdn.art19.com/images/db/7c/cf/d6/db7ccfd6-90d1-4413-ab8e-1960f9fb2b88/2aeec1854953d054d775c40411f914881d487f55739d8f7a95c400135972841eada97700a5b178a1eb065dbe1e90b78a6df4ef2659d2cab749308762b80ca860.jpeg"
+        "url": "https://megaphone.imgix.net/podcasts/7ead1b94-1938-11ef-8fb8-c377abd83739/image/1d4ea9274b025e9ca01121ddb0d0fd1a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     },
     "items": [
         {
-            "content": "\n        <p>Stay tuned for more information on The Jon Stewart Podcast.</p>\n      ",
-            "content:encoded": "\n        <p>Stay tuned for more information on The Jon Stewart Podcast.</p>\n      ",
+            "content": "Stay tuned for more information on The Jon Stewart Podcast.",
+            "content:encoded": "\n        \n        <p>Stay tuned for more information on The Jon Stewart Podcast.</p>\n      \n      ",
             "content:encodedSnippet": "Stay tuned for more information on The Jon Stewart Podcast.",
             "contentSnippet": "Stay tuned for more information on The Jon Stewart Podcast.",
             "enclosure": {
-                "length": "506984",
+                "length": "0",
                 "type": "audio/mpeg",
-                "url": "https://rss.art19.com/episodes/28c04db1-2e25-4234-b2a8-b0d8465c1664.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70"
+                "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/22GG1/traffic.megaphone.fm/BVLLC8207536593.mp3?updated=1716491892"
             },
             "guid": "gid://art19-episode-locator/V0/R-VW6IiYD5CHAScKtZXQm-LlkDqqB8KgKYqPYok2_fI",
             "isoDate": "2024-02-12T19:48:55.000Z",
             "itunes": {
-                "duration": "00:00:31",
+                "author": "JTS Audio LLC",
+                "duration": "31",
                 "episodeType": "trailer",
                 "explicit": "no",
-                "image": "https://content.production.cdn.art19.com/images/db/7c/cf/d6/db7ccfd6-90d1-4413-ab8e-1960f9fb2b88/2aeec1854953d054d775c40411f914881d487f55739d8f7a95c400135972841eada97700a5b178a1eb065dbe1e90b78a6df4ef2659d2cab749308762b80ca860.jpeg",
+                "image": "https://megaphone.imgix.net/podcasts/7f8191e4-1938-11ef-9858-73f11606bda1/image/1d4ea9274b025e9ca01121ddb0d0fd1a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+                "subtitle": "Stay tuned for more information on The Jon Stewart Podcast.",
                 "summary": "Stay tuned for more information on The Jon Stewart Podcast."
             },
             "pubDate": "Mon, 12 Feb 2024 19:48:55 -0000",
@@ -55,26 +57,26 @@
             }
         ],
         "explicit": "yes",
-        "image": "https://content.production.cdn.art19.com/images/db/7c/cf/d6/db7ccfd6-90d1-4413-ab8e-1960f9fb2b88/2aeec1854953d054d775c40411f914881d487f55739d8f7a95c400135972841eada97700a5b178a1eb065dbe1e90b78a6df4ef2659d2cab749308762b80ca860.jpeg",
+        "image": "https://megaphone.imgix.net/podcasts/7ead1b94-1938-11ef-8fb8-c377abd83739/image/1d4ea9274b025e9ca01121ddb0d0fd1a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
         "owner": {
-            "email": "dbo@dixontalent.com",
+            "email": "ainsley.rossitto@paramount.com",
             "name": "JTS Audio LLC"
         },
-        "summary": "\n      <p>Stay tuned for more information on <strong>The Jon Stewart Podcast. </strong></p>\n    "
+        "subtitle": "",
+        "summary": "Stay tuned for more information on The Jon Stewart Podcast."
     },
     "language": "en",
     "link": "https://art19.com/shows/jon-stewart",
-    "managingEditor": "dbo@dixontalent.com (JTS Audio LLC)",
     "paginationLinks": {
-        "self": "https://rss.art19.com/jon-stewart"
+        "self": "https://feeds.megaphone.fm/BVLLC2163264914"
     },
     "palette": [
-        "1C1C1F",
-        "C7A387",
-        "745848",
-        "525D66",
-        "889485",
-        "7C7994"
+        "1B1C1E",
+        "C7A587",
+        "745A47",
+        "535C66",
+        "8A96A2",
+        "808A98"
     ],
     "title": "The Jon Stewart Podcast"
 }
