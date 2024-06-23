@@ -9,6 +9,30 @@
     },
     "items": [
         {
+            "content": "Mary is pissed (at Dan), and you probably know why...",
+            "contentSnippet": "Mary is pissed (at Dan), and you probably know why...",
+            "enclosure": {
+                "length": "231524466",
+                "type": "audio/mpeg",
+                "url": "https://dts.podtrac.com/redirect.mp3/clrtpod.com/m/api.spreaker.com/download/episode/60402735/fe_episode83_audio_ad.mp3"
+            },
+            "guid": "https://api.spreaker.com/episode/60402735",
+            "isoDate": "2024-06-17T07:00:03.000Z",
+            "itunes": {
+                "author": "Fire Escape Cast",
+                "duration": "9626",
+                "episodeType": "full",
+                "explicit": "yes",
+                "image": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8ffaecd9208c087be4907353444aef1c.jpg",
+                "keywords": "fireescape,gaming,videogamepodcast",
+                "subtitle": "Mary is pissed (at Dan), and you probably know why...",
+                "summary": "Mary is pissed (at Dan), and you probably know why..."
+            },
+            "link": "https://www.spreaker.com/episode/fire-escape-cast-83--60402735",
+            "pubDate": "Mon, 17 Jun 2024 07:00:03 +0000",
+            "title": "Fire Escape Cast #83"
+        },
+        {
             "content": "Mike, Mary, and Dan are joined by... Dan's soundboard once again. The crew shares their developing thoughts on Animal Well, Lorelei and The Laser Eyes, and Hellblade 2.",
             "contentSnippet": "Mike, Mary, and Dan are joined by... Dan's soundboard once again. The crew shares their developing thoughts on Animal Well, Lorelei and The Laser Eyes, and Hellblade 2.",
             "enclosure": {
@@ -2019,18 +2043,18 @@
         "summary": "Dan Ryckert, Mary Kish, and Mike Mahardy can\u2019t shut down bars while talking about video games like they used to, so they created Fire Escape to keep those chats going from across the country. Support them at fireescapecast.com"
     },
     "language": "en",
-    "lastBuildDate": "Mon, 03 Jun 2024 07:03:30 +0000",
+    "lastBuildDate": "Mon, 17 Jun 2024 07:05:08 +0000",
     "link": "https://www.spreaker.com/show/fire-escape-cast",
     "paginationLinks": {
         "self": "https://www.spreaker.com/show/5008213/episodes/feed"
     },
     "palette": [
         "444B64",
-        "E8235E",
+        "E8225E",
         "F7E1B8",
-        "814B67",
-        "89847B",
-        "98989C"
+        "814C67",
+        "88837A",
+        "97989C"
     ],
     "title": "Fire Escape Cast"
 }
