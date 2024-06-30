@@ -2,9 +2,33 @@
     "author": "NPR",
     "creator": "NPR",
     "description": "Weekend Edition Sunday features interviews with newsmakers, artists, scientists, politicians, musicians, writers, theologians and historians. ",
-    "feedUrl": "https://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml",
+    "feedUrl": "http://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml",
     "generator": "KUOW Core Services",
     "items": [
+        {
+            "author": "KUOW Staff",
+            "content": "The 1996 film neo-noir thriller \"Bound\" pushed boundaries in its portrayals of sex and gender on screen. It was re-issued as part of the Criterion Collection this past week.",
+            "contentSnippet": "The 1996 film neo-noir thriller \"Bound\" pushed boundaries in its portrayals of sex and gender on screen. It was re-issued as part of the Criterion Collection this past week.",
+            "creator": "KUOW Staff",
+            "enclosure": {
+                "length": "5454000",
+                "type": "audio/mp3",
+                "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/06/20240623_wesun_years_before_intimacy_coordinators_on_hollywood_sets_there_was_the_1996_film_bound.mp3?size=4863836&d=303958&e=nx-s1-4893210"
+            },
+            "guid": "story-96548",
+            "isoDate": "2024-06-23T12:07:40.000Z",
+            "itunes": {
+                "author": "KUOW Staff",
+                "duration": "00:05:03",
+                "explicit": "false",
+                "image": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg",
+                "subtitle": "Years before intimacy coordinators on Hollywood sets, there was the 1996 film Bound",
+                "summary": "The 1996 film neo-noir thriller \"Bound\" pushed boundaries in its portrayals of sex and gender on screen. It was re-issued as part of the Criterion Collection this past week."
+            },
+            "link": "https://www.kuow.org/stories/years-before-intimacy-coordinators-on-hollywood-sets-there-was-the-1996-film-bound",
+            "pubDate": "Sun, 23 Jun 2024 05:07:40 -0700",
+            "title": "Years before intimacy coordinators on Hollywood sets, there was the 1996 film Bound"
+        },
         {
             "author": "Julia Carneiro",
             "content": "Protests have broken out across Brazil after lawmakers attempted to fast track legislation that would equate abortion after 22 weeks of pregnancy to murder.",
@@ -2380,30 +2404,6 @@
             "link": "https://www.kuow.org/stories/rising-tensions-in-the-middle-east-could-force-the-u-s-out-of-iraq",
             "pubDate": "Sun, 18 Feb 2024 05:28:51 -0800",
             "title": "Rising tensions in the Middle East could force the U.S. out of Iraq"
-        },
-        {
-            "author": "Don Gonyea",
-            "content": "NPR's Don Gonyea talks to former US Attorney Barbara McQuade about key filings to the US Supreme Court involving former President Donald Trump's immunity claims.",
-            "contentSnippet": "NPR's Don Gonyea talks to former US Attorney Barbara McQuade about key filings to the US Supreme Court involving former President Donald Trump's immunity claims.",
-            "creator": "Don Gonyea",
-            "enclosure": {
-                "length": "6552000",
-                "type": "audio/mp3",
-                "url": "https://play.podtrac.com/npr-10/ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/02/20240218_wesun_trump_immunity_update.mp3?orgId=1&topicId=1003&d=364&p=10&story=1232301923&ft=nprml&f=1232301923"
-            },
-            "guid": "story-89861",
-            "isoDate": "2024-02-18T13:04:25.000Z",
-            "itunes": {
-                "author": "Don Gonyea",
-                "duration": "00:06:04",
-                "explicit": "false",
-                "image": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg",
-                "subtitle": "After a busy week of cases, here's where Trump's claims of immunity stand",
-                "summary": "NPR's Don Gonyea talks to former US Attorney Barbara McQuade about key filings to the US Supreme Court involving former President Donald Trump's immunity claims."
-            },
-            "link": "https://www.kuow.org/stories/after-a-busy-week-of-cases-here-s-where-trump-s-claims-of-immunity-stand",
-            "pubDate": "Sun, 18 Feb 2024 05:04:25 -0800",
-            "title": "After a busy week of cases, here's where Trump's claims of immunity stand"
         }
     ],
     "itunes": {
@@ -2425,10 +2425,10 @@
         }
     },
     "language": "en",
-    "lastBuildDate": "Sat, 22 Jun 2024 23:55:13 +0000",
+    "lastBuildDate": "Sun, 30 Jun 2024 00:08:15 +0000",
     "link": "https://www.kuow.org/podcasts/weekendedition-sunday",
     "paginationLinks": {
-        "self": "https://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml"
+        "self": "http://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml"
     },
     "palette": [],
     "title": "Weekend Edition Sunday"

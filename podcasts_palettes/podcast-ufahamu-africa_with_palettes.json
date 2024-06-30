@@ -1,7 +1,7 @@
 {
     "description": "A podcast about life and politics on the African continent",
     "feedUrl": "https://www.ufahamuafrica.com/category/podcast/feed/",
-    "generator": "https://www.ufahamuafrica.com?v=6.4.4",
+    "generator": "https://www.ufahamuafrica.com?v=6.4.5",
     "image": {
         "height": "32",
         "link": "https://www.ufahamuafrica.com",
@@ -10,6 +10,20 @@
         "width": "32"
     },
     "items": [
+        {
+            "categories": [
+                "Podcast"
+            ],
+            "content": "This week we feature an episode by our nonresident fellows Fu Asiedu and Ami Tamakloe. They discuss the anti-LGBT bill in Ghana, providing some background on the bill and the politics surrounding it. They also convene a roundtable conversation of Ghanaians discussing the realities of everyday life under this bill. This is a really important <a class=\"read-more\" href=\"https://www.ufahamuafrica.com/2024/06/29/ep-203-fellows-fu-asiedu-and-ami-tamakloe-on-the-anti-lgbt-bill-in-ghana/\">Read More...</a>",
+            "contentSnippet": "This week we feature an episode by our nonresident fellows Fu Asiedu and Ami Tamakloe. They discuss the anti-LGBT bill in Ghana, providing some background on the bill and the politics surrounding it. They also convene a roundtable conversation of Ghanaians discussing the realities of everyday life under this bill. This is a really important Read More...",
+            "creator": "md963",
+            "dc:creator": "md963",
+            "guid": "https://blogs.cornell.edu/ufahamuafrica/?p=6334",
+            "isoDate": "2024-06-29T13:00:00.000Z",
+            "link": "https://www.ufahamuafrica.com/2024/06/29/ep-203-fellows-fu-asiedu-and-ami-tamakloe-on-the-anti-lgbt-bill-in-ghana/",
+            "pubDate": "Sat, 29 Jun 2024 13:00:00 +0000",
+            "title": "Ep. 203: Fellows Fu Asiedu and Ami Tamakloe on the Anti-LGBT Bill in Ghana"
+        },
         {
             "categories": [
                 "Podcast"
@@ -140,26 +154,10 @@
             "link": "https://www.ufahamuafrica.com/2024/04/13/ep-196-fellow-expedit-ologou-and-mamadou-seck-on-senegals-election-french/",
             "pubDate": "Sat, 13 Apr 2024 13:00:00 +0000",
             "title": "Ep. 196: Fellow Exp\u00e9dit Ologou and Mamadou Seck on Senegal\u2019s Election (French)"
-        },
-        {
-            "categories": [
-                "Podcast",
-                "Non-resident Fellow",
-                "South Africa"
-            ],
-            "content": "Fellow Gopolang Botlhokwane speaks to political analyst and media expert Dr. Metji Makgoba about the domestic implications of South Africa&#8217;s recent against Israel at The Hague in the Netherlands, and the country&#8217;s upcoming elections in which the ruling African National Congress is expected to lose its majority. Makgoba is also an academic and teaches communication <a class=\"read-more\" href=\"https://www.ufahamuafrica.com/2024/03/30/ep-195-fellow-gopolang-botlhokwane-and-south-africas-case-against-israel/\">Read More...</a>",
-            "contentSnippet": "Fellow Gopolang Botlhokwane speaks to political analyst and media expert Dr. Metji Makgoba about the domestic implications of South Africa\u2019s recent against Israel at The Hague in the Netherlands, and the country\u2019s upcoming elections in which the ruling African National Congress is expected to lose its majority. Makgoba is also an academic and teaches communication Read More...",
-            "creator": "md963",
-            "dc:creator": "md963",
-            "guid": "https://blogs.cornell.edu/ufahamuafrica/?p=6237",
-            "isoDate": "2024-03-30T13:00:00.000Z",
-            "link": "https://www.ufahamuafrica.com/2024/03/30/ep-195-fellow-gopolang-botlhokwane-and-south-africas-case-against-israel/",
-            "pubDate": "Sat, 30 Mar 2024 13:00:00 +0000",
-            "title": "Ep. 195: Fellow Gopolang Botlhokwane and South Africa\u2019s Case Against Israel"
         }
     ],
     "language": "en-US",
-    "lastBuildDate": "Sat, 22 Jun 2024 01:18:54 +0000",
+    "lastBuildDate": "Sat, 29 Jun 2024 05:10:19 +0000",
     "link": "https://www.ufahamuafrica.com",
     "paginationLinks": {
         "self": "https://www.ufahamuafrica.com/category/podcast/feed/"
