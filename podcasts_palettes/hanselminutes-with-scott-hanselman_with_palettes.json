@@ -11,6 +11,34 @@
     "items": [
         {
             "author": "scott@hanselman.com (Scott Hanselman)",
+            "content": "<p>Sam Rose creates visual introductions to computer science topics. Each post takes about a month to make, and he tries to cover foundational topics in a way that's accessible to beginners. Scott chats with Sam about the how and why of making such bespoke and sophisticated blog posts.</p><ul><li><a href=\"https://samwho.dev/\">Visit Sam Rose's site!</a><ul><li><a href=\"https://samwho.dev/load-balancing\">Load Balancing</a></li><li><a href=\"https://samwho.dev/memory-allocation\">Memory Allocation</a></li><li><a href=\"https://samwho.dev/hashing\">Hashing</a></li><li><a href=\"https://encore.dev/blog/retries\">Retries</a></li><li><a href=\"https://samwho.dev/bloom-filters\">Bloom Filters</a></li><li><a href=\"https://samwho.dev/numbers\">Numbers</a></li><li><a href=\"https://encore.dev/blog/queueing\">Queueing</a></li></ul></li><li><a href=\"https://ciechanow.ski/\">Bartosz Ciechanowski's Mechanical Watch</a></li><li><a href=\"https://andymatuschak.org/\">Andy Matuschak</a></li></ul>\n",
+            "content:encoded": "<p>Sam Rose creates visual introductions to computer science topics. Each post takes about a month to make, and he tries to cover foundational topics in a way that's accessible to beginners. Scott chats with Sam about the how and why of making such bespoke and sophisticated blog posts.</p><ul><li><a href=\"https://samwho.dev/\">Visit Sam Rose's site!</a><ul><li><a href=\"https://samwho.dev/load-balancing\">Load Balancing</a></li><li><a href=\"https://samwho.dev/memory-allocation\">Memory Allocation</a></li><li><a href=\"https://samwho.dev/hashing\">Hashing</a></li><li><a href=\"https://encore.dev/blog/retries\">Retries</a></li><li><a href=\"https://samwho.dev/bloom-filters\">Bloom Filters</a></li><li><a href=\"https://samwho.dev/numbers\">Numbers</a></li><li><a href=\"https://encore.dev/blog/queueing\">Queueing</a></li></ul></li><li><a href=\"https://ciechanow.ski/\">Bartosz Ciechanowski's Mechanical Watch</a></li><li><a href=\"https://andymatuschak.org/\">Andy Matuschak</a></li></ul>\n",
+            "content:encodedSnippet": "Sam Rose creates visual introductions to computer science topics. Each post takes about a month to make, and he tries to cover foundational topics in a way that's accessible to beginners. Scott chats with Sam about the how and why of making such bespoke and sophisticated blog posts.\n\nVisit Sam Rose's site!\nLoad Balancing\nMemory Allocation\nHashing\nRetries\nBloom Filters\nNumbers\nQueueing\n\nBartosz Ciechanowski's Mechanical Watch\nAndy Matuschak",
+            "contentSnippet": "Sam Rose creates visual introductions to computer science topics. Each post takes about a month to make, and he tries to cover foundational topics in a way that's accessible to beginners. Scott chats with Sam about the how and why of making such bespoke and sophisticated blog posts.\n\nVisit Sam Rose's site!\nLoad Balancing\nMemory Allocation\nHashing\nRetries\nBloom Filters\nNumbers\nQueueing\n\nBartosz Ciechanowski's Mechanical Watch\nAndy Matuschak",
+            "creator": "scott@hanselman.com (Scott Hanselman)",
+            "enclosure": {
+                "length": "32458672",
+                "type": "audio/mpeg",
+                "url": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/ce4d3605-a99d-4416-9252-9cef213f8cdb/audio/58b29268-b125-4829-9b84-c25e3791481b/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+            },
+            "guid": "12ed6b11-9dc4-4526-925d-5d399ed2dafd",
+            "isoDate": "2024-07-11T21:00:00.000Z",
+            "itunes": {
+                "author": "Scott Hanselman",
+                "duration": "00:33:43",
+                "episode": "953",
+                "episodeType": "full",
+                "explicit": "false",
+                "image": "https://image.simplecastcdn.com/images/e464c34b-2f32-411b-bdd2-dcf02e5301eb/49eb107a-d0b0-4801-b453-bd696a54912b/3000x3000/953.jpg?aid=rss_feed",
+                "subtitle": "Sam Rose creates visual introductions to computer science topics. Each post takes about a month to make, and he tries to cover foundational topics in a way that's accessible to beginners. Scott chats with Sam about the how and why of making such bespoke and sophisticated blog posts.",
+                "summary": "Sam Rose creates visual introductions to computer science topics. Each post takes about a month to make, and he tries to cover foundational topics in a way that's accessible to beginners. Scott chats with Sam about the how and why of making such bespoke and sophisticated blog posts."
+            },
+            "link": "https://www.hanselminutes.com",
+            "pubDate": "Thu, 11 Jul 2024 21:00:00 +0000",
+            "title": "Computer Science Visualizations with Sam Rose"
+        },
+        {
+            "author": "scott@hanselman.com (Scott Hanselman)",
             "content": "<p>.NET Aspire has folks talking - but why? What is .NET Aspire and what does it me for the average ASP.NET developer like me? Is it a thing for Kubernetes? Is it just for .NET Devs? Scott sits down with Damian Edwards to get a sense of what .NET Aspire <i>ahem</i> aspires to do, and where it's heading.</p>\n",
             "content:encoded": "<p>.NET Aspire has folks talking - but why? What is .NET Aspire and what does it me for the average ASP.NET developer like me? Is it a thing for Kubernetes? Is it just for .NET Devs? Scott sits down with Damian Edwards to get a sense of what .NET Aspire <i>ahem</i> aspires to do, and where it's heading.</p>\n",
             "content:encodedSnippet": ".NET Aspire has folks talking - but why? What is .NET Aspire and what does it me for the average ASP.NET developer like me? Is it a thing for Kubernetes? Is it just for .NET Devs? Scott sits down with Damian Edwards to get a sense of what .NET Aspire ahem aspires to do, and where it's heading.",
@@ -26581,7 +26609,7 @@
         "summary": "Hanselminutes is Fresh Air for Developers. A weekly commute-time podcast that promotes fresh technology and fresh voices. Talk and Tech for Developers, Life-long Learners, and Technologists."
     },
     "language": "en-us",
-    "lastBuildDate": "Thu, 4 Jul 2024 21:00:11 +0000",
+    "lastBuildDate": "Thu, 11 Jul 2024 21:00:12 +0000",
     "link": "https://www.hanselminutes.com",
     "paginationLinks": {
         "self": "https://feeds.simplecast.com/gvtxUiIf"
@@ -26594,6 +26622,6 @@
         "848C89",
         "84848C"
     ],
-    "pubDate": "Thu, 4 Jul 2024 21:00:00 +0000",
+    "pubDate": "Thu, 11 Jul 2024 21:00:00 +0000",
     "title": "Hanselminutes with Scott Hanselman"
 }
