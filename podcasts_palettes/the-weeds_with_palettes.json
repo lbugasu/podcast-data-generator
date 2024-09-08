@@ -1,6 +1,6 @@
 {
     "copyright": "\u00a9 2019 Vox Media, Inc. All Rights Reserved",
-    "description": "Politics is how people achieve power. Policy is what they do with it. On The Weeds, host Jonquilyn Hill and guests break down the policies that shape our lives, from abortion to financial regulations to affirmative action to housing. \n\nProduced by Vox and the Vox Media Podcast Network.\u00a0",
+    "description": "Politics is how people achieve power. Policy is what they do with it. On The Weeds, host Jonquilyn Hill and guests break down the policies that shape our lives, from abortion to financial regulations to affirmative action to housing.\n\nProduced by Vox and the Vox Media Podcast Network.\u00a0",
     "feedUrl": "https://feeds.megaphone.fm/theweeds",
     "image": {
         "link": "https://www.vox.com/the-weeds",
@@ -16794,26 +16794,24 @@
     "itunes": {
         "author": "Vox",
         "categories": [
-            "News",
-            "Science"
+            "Education",
+            "Society & Culture",
+            "News"
         ],
         "categoriesWithSubs": [
+            {
+                "name": "Education",
+                "subs": null
+            },
+            {
+                "name": "Society & Culture",
+                "subs": null
+            },
             {
                 "name": "News",
                 "subs": [
                     {
                         "name": "Politics"
-                    },
-                    {
-                        "name": "News Commentary"
-                    }
-                ]
-            },
-            {
-                "name": "Science",
-                "subs": [
-                    {
-                        "name": "Social Sciences"
                     }
                 ]
             }
@@ -16821,11 +16819,11 @@
         "explicit": "no",
         "image": "https://megaphone.imgix.net/podcasts/c3f826bc-e112-11e8-90b5-2f1c4d81c4e2/image/uploads_2F1585578364123-rcztsm1b6y-c1e630a7dd426cff08760d32dd9846b2_2FTile_3000x3000.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
         "owner": {
-            "email": "weeds@vox.com",
+            "email": "askvox@vox.com",
             "name": "Vox Media Podcast Network"
         },
         "subtitle": "A podcast for people who love policy",
-        "summary": "Politics is how people achieve power. Policy is what they do with it. On The Weeds, host Jonquilyn Hill and guests break down the policies that shape our lives, from abortion to financial regulations to affirmative action to housing. \n\nProduced by Vox and the Vox Media Podcast Network.\u00a0"
+        "summary": "Politics is how people achieve power. Policy is what they do with it. On The Weeds, host Jonquilyn Hill and guests break down the policies that shape our lives, from abortion to financial regulations to affirmative action to housing.\n\nProduced by Vox and the Vox Media Podcast Network.\u00a0"
     },
     "language": "en",
     "link": "https://www.vox.com/the-weeds",
