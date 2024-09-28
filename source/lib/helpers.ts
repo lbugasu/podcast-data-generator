@@ -57,7 +57,11 @@ async function parseXMLText(xmlString: string): Promise<JSONObject> {
 
 async function getDataFromXMLString(rssUrl: string): Promise<PodcastFeedData> {
   const feed = await parseRssFeed(rssUrl)
-  return { feed: feed }
+  if(!feed.feedUrl){
+    console.warn(`Found a feed without a feed Url: ${rssUrl}`)
+    feed.feedUrl = rssUrl
+  }
+  return { feed }
 }
 
 async function getDataFromXMLString2(rssUrl: string): Promise<PodcastFeedData> {
