@@ -6,7 +6,7 @@ on:
   # Run on cron - every week
   schedule:
     - cron: "0 0 * * 0"
-
+  workflow_dispatch:
 permissions: write-all
 
 jobs:
