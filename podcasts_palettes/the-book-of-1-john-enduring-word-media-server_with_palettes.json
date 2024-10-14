@@ -1,612 +1,588 @@
 {
-    "copyright": "Enduring Word 2018",
-    "description": "Audio and Video Server For Enduring Word",
-    "feedUrl": "https://media.enduringword.com/podcasts/1_john/feed/",
-    "generator": "https://wordpress.org/?v=5.0.22",
-    "items": [
-        {
-            "categories": [
-                "The Book of 1 John",
-                "Epistles",
-                "New Testament"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:slash": "http://purl.org/rss/1.0/modules/slash/",
+        "@xmlns:sy": "http://purl.org/rss/1.0/modules/syndication/",
+        "@xmlns:wfw": "http://wellformedweb.org/CommentAPI/",
+        "channel": {
+            "atom:link": {
+                "@href": "https://media.enduringword.com/podcasts/1_john/feed/",
+                "@rel": "self",
+                "@type": "application/rss+xml"
+            },
+            "copyright": "Enduring Word 2018",
+            "description": "Audio and Video Server For Enduring Word",
+            "generator": "https://wordpress.org/?v=5.0.22",
+            "item": [
+                {
+                    "category": [
+                        "The Book of 1 John",
+                        "Epistles",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/1-john-514-21-protecting-our-relationship-with-god/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26500-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John514_21.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John514_21.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John514_21.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/1John514_21.mp3",
+                    "enclosure": {
+                        "@length": "18207166",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/1John514_21.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/1-john-514-21-protecting-our-relationship-with-god/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John514_21.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/1John514_21.mp3",
+                    "link": "https://media.enduringword.com/1-john-514-21-protecting-our-relationship-with-god/",
+                    "pubDate": "Sun, 05 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "1 John 5:14-21 \u2013 Protecting Our Relationship with God",
+                    "wfw:commentRss": "https://media.enduringword.com/1-john-514-21-protecting-our-relationship-with-god/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 1 John",
+                        "Epistles",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/1-john-56-13-the-source-of-relationship/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26499-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John506_13.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John506_13.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John506_13.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/1John506_13.mp3",
+                    "enclosure": {
+                        "@length": "19547352",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/1John506_13.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/1-john-56-13-the-source-of-relationship/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John506_13.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/1John506_13.mp3",
+                    "link": "https://media.enduringword.com/1-john-56-13-the-source-of-relationship/",
+                    "pubDate": "Sat, 04 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "1 John 5:6-13 \u2013 The Source of Relationship",
+                    "wfw:commentRss": "https://media.enduringword.com/1-john-56-13-the-source-of-relationship/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 1 John",
+                        "Epistles",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/1-john-51-5-transforming-power-of-a-love-relationship/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26498-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John501_05.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John501_05.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John501_05.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/1John501_05.mp3",
+                    "enclosure": {
+                        "@length": "16518112",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/1John501_05.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/1-john-51-5-transforming-power-of-a-love-relationship/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John501_05.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/1John501_05.mp3",
+                    "link": "https://media.enduringword.com/1-john-51-5-transforming-power-of-a-love-relationship/",
+                    "pubDate": "Fri, 03 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "1 John 5:1-5 \u2013 Transforming Power of a Love Relationship",
+                    "wfw:commentRss": "https://media.enduringword.com/1-john-51-5-transforming-power-of-a-love-relationship/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 1 John",
+                        "Epistles",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/1-john-418-21-loves-reason-and-loves-commandment/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26497-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John418_21.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John418_21.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John418_21.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/1John418_21.mp3",
+                    "enclosure": {
+                        "@length": "18623164",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/1John418_21.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/1-john-418-21-loves-reason-and-loves-commandment/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John418_21.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/1John418_21.mp3",
+                    "link": "https://media.enduringword.com/1-john-418-21-loves-reason-and-loves-commandment/",
+                    "pubDate": "Thu, 02 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "1 John 4:18-21 \u2013 Love\u2019s Reason and Love\u2019s Commandment",
+                    "wfw:commentRss": "https://media.enduringword.com/1-john-418-21-loves-reason-and-loves-commandment/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 1 John",
+                        "Epistles",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/1-john-412-18-the-nature-of-a-love-relationship-with-god/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26496-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John412_18.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John412_18.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John412_18.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/1John412_18.mp3",
+                    "enclosure": {
+                        "@length": "18797662",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/1John412_18.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/1-john-412-18-the-nature-of-a-love-relationship-with-god/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John412_18.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/1John412_18.mp3",
+                    "link": "https://media.enduringword.com/1-john-412-18-the-nature-of-a-love-relationship-with-god/",
+                    "pubDate": "Wed, 01 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "1 John 4:12-18 \u2013 The Nature of a Love Relationship with God",
+                    "wfw:commentRss": "https://media.enduringword.com/1-john-412-18-the-nature-of-a-love-relationship-with-god/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 1 John",
+                        "Epistles",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/1-john-47-11-the-nature-of-gods-love/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26495-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John407_11.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John407_11.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John407_11.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/1John407_11.mp3",
+                    "enclosure": {
+                        "@length": "14564571",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/1John407_11.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/1-john-47-11-the-nature-of-gods-love/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John407_11.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/1John407_11.mp3",
+                    "link": "https://media.enduringword.com/1-john-47-11-the-nature-of-gods-love/",
+                    "pubDate": "Tue, 31 Oct 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "1 John 4:7-11 \u2013 The Nature of God\u2019s Love",
+                    "wfw:commentRss": "https://media.enduringword.com/1-john-47-11-the-nature-of-gods-love/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 1 John",
+                        "Epistles",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/1-john-41-6-deception-an-attack-on-relationship/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26494-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John401_06.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John401_06.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John401_06.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/1John401_06.mp3",
+                    "enclosure": {
+                        "@length": "14328923",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/1John401_06.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/1-john-41-6-deception-an-attack-on-relationship/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John401_06.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/1John401_06.mp3",
+                    "link": "https://media.enduringword.com/1-john-41-6-deception-an-attack-on-relationship/",
+                    "pubDate": "Mon, 30 Oct 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "1 John 4:1-6 \u2013 Deception: An Attack on Relationship",
+                    "wfw:commentRss": "https://media.enduringword.com/1-john-41-6-deception-an-attack-on-relationship/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 1 John",
+                        "Epistles",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/1-john-316-24-how-to-love-your-brother/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26493-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John316_24.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John316_24.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John316_24.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/1John316_24.mp3",
+                    "enclosure": {
+                        "@length": "17900802",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/1John316_24.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/1-john-316-24-how-to-love-your-brother/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John316_24.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/1John316_24.mp3",
+                    "link": "https://media.enduringword.com/1-john-316-24-how-to-love-your-brother/",
+                    "pubDate": "Sun, 29 Oct 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "1 John 3:16-24 \u2013 How to Love Your Brother",
+                    "wfw:commentRss": "https://media.enduringword.com/1-john-316-24-how-to-love-your-brother/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 1 John",
+                        "Epistles",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/1-john-310-15-hatred-an-attack-on-relationship/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26492-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John310_15.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John310_15.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John310_15.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/1John310_15.mp3",
+                    "enclosure": {
+                        "@length": "16405762",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/1John310_15.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/1-john-310-15-hatred-an-attack-on-relationship/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John310_15.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/1John310_15.mp3",
+                    "link": "https://media.enduringword.com/1-john-310-15-hatred-an-attack-on-relationship/",
+                    "pubDate": "Sat, 28 Oct 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "1 John 3:10-15 \u2013 Hatred: An Attack on Relationship",
+                    "wfw:commentRss": "https://media.enduringword.com/1-john-310-15-hatred-an-attack-on-relationship/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 1 John",
+                        "Epistles",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/1-john-34-9-sin-an-attack-on-relationship/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26491-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John304_09.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John304_09.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John304_09.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/1John304_09.mp3",
+                    "enclosure": {
+                        "@length": "14421710",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/1John304_09.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/1-john-34-9-sin-an-attack-on-relationship/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John304_09.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/1John304_09.mp3",
+                    "link": "https://media.enduringword.com/1-john-34-9-sin-an-attack-on-relationship/",
+                    "pubDate": "Fri, 27 Oct 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "1 John 3:4-9 \u2013 Sin: An Attack on Relationship",
+                    "wfw:commentRss": "https://media.enduringword.com/1-john-34-9-sin-an-attack-on-relationship/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 1 John",
+                        "Epistles",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/1-john-31-3-the-destiny-of-our-relationship/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26490-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John301_03.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John301_03.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John301_03.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/1John301_03.mp3",
+                    "enclosure": {
+                        "@length": "17910415",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/1John301_03.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/1-john-31-3-the-destiny-of-our-relationship/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John301_03.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/1John301_03.mp3",
+                    "link": "https://media.enduringword.com/1-john-31-3-the-destiny-of-our-relationship/",
+                    "pubDate": "Thu, 26 Oct 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "1 John 3:1-3 \u2013 The Destiny of our Relationship",
+                    "wfw:commentRss": "https://media.enduringword.com/1-john-31-3-the-destiny-of-our-relationship/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 1 John",
+                        "Epistles",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/1-john-224-29-abiding-preserving-our-relationship/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26489-24\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John224_29.mp3?_=24\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John224_29.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John224_29.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/1John224_29.mp3",
+                    "enclosure": {
+                        "@length": "17249413",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/1John224_29.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/1-john-224-29-abiding-preserving-our-relationship/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John224_29.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/1John224_29.mp3",
+                    "link": "https://media.enduringword.com/1-john-224-29-abiding-preserving-our-relationship/",
+                    "pubDate": "Wed, 25 Oct 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "1 John 2:24-29 \u2013 Abiding: Preserving our Relationship",
+                    "wfw:commentRss": "https://media.enduringword.com/1-john-224-29-abiding-preserving-our-relationship/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 1 John",
+                        "Epistles",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/1-john-218-23-the-antichrist-an-attack-on-relationship/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26488-26\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John218_23.mp3?_=26\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John218_23.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John218_23.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/1John218_23.mp3",
+                    "enclosure": {
+                        "@length": "19040287",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/1John218_23.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/1-john-218-23-the-antichrist-an-attack-on-relationship/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John218_23.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/1John218_23.mp3",
+                    "link": "https://media.enduringword.com/1-john-218-23-the-antichrist-an-attack-on-relationship/",
+                    "pubDate": "Tue, 24 Oct 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "1 John 2:18-23 \u2013 The Antichrist: An Attack on Relationship",
+                    "wfw:commentRss": "https://media.enduringword.com/1-john-218-23-the-antichrist-an-attack-on-relationship/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 1 John",
+                        "Epistles",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/1-john-215-17-the-world-an-attack-on-relationship/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26487-28\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John215_17.mp3?_=28\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John215_17.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John215_17.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/1John215_17.mp3",
+                    "enclosure": {
+                        "@length": "15220639",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/1John215_17.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/1-john-215-17-the-world-an-attack-on-relationship/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John215_17.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/1John215_17.mp3",
+                    "link": "https://media.enduringword.com/1-john-215-17-the-world-an-attack-on-relationship/",
+                    "pubDate": "Mon, 23 Oct 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "1 John 2:15-17 \u2013 The World: An Attack on Relationship",
+                    "wfw:commentRss": "https://media.enduringword.com/1-john-215-17-the-world-an-attack-on-relationship/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 1 John",
+                        "Epistles",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/1-john-27-1-the-measure-of-relationship/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26486-30\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John207_14.mp3?_=30\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John207_14.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John207_14.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/1John207_14.mp3",
+                    "enclosure": {
+                        "@length": "19799382",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/1John207_14.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/1-john-27-1-the-measure-of-relationship/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John207_14.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/1John207_14.mp3",
+                    "link": "https://media.enduringword.com/1-john-27-1-the-measure-of-relationship/",
+                    "pubDate": "Sun, 22 Oct 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "1 John 2:7-1 \u2013 The Measure of Relationship",
+                    "wfw:commentRss": "https://media.enduringword.com/1-john-27-1-the-measure-of-relationship/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 1 John",
+                        "Epistles",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/1-john-21-6-the-one-who-makes-relationship-possible/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26485-32\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John201_06.mp3?_=32\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John201_06.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John201_06.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/1John201_06.mp3",
+                    "enclosure": {
+                        "@length": "14408254",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/1John201_06.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/1-john-21-6-the-one-who-makes-relationship-possible/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John201_06.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/1John201_06.mp3",
+                    "link": "https://media.enduringword.com/1-john-21-6-the-one-who-makes-relationship-possible/",
+                    "pubDate": "Sat, 21 Oct 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "1 John 2:1-6 \u2013 The One Who Makes Relationship Possible",
+                    "wfw:commentRss": "https://media.enduringword.com/1-john-21-6-the-one-who-makes-relationship-possible/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 1 John",
+                        "Epistles",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/1-john-15-10-how-to-fix-relationship-with-god/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26484-34\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John105_10.mp3?_=34\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John105_10.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John105_10.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/1John105_10.mp3",
+                    "enclosure": {
+                        "@length": "17468632",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/1John105_10.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/1-john-15-10-how-to-fix-relationship-with-god/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John105_10.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/1John105_10.mp3",
+                    "link": "https://media.enduringword.com/1-john-15-10-how-to-fix-relationship-with-god/",
+                    "pubDate": "Fri, 20 Oct 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "1 John 1:5-10 \u2013 How to Fix Relationship with God",
+                    "wfw:commentRss": "https://media.enduringword.com/1-john-15-10-how-to-fix-relationship-with-god/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 1 John",
+                        "Epistles",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/1-john-11-4-the-foundation-of-relationship/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26483-36\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John101_04.mp3?_=36\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John101_04.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John101_04.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/1John101_04.mp3",
+                    "enclosure": {
+                        "@length": "16117370",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/1John101_04.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/1-john-11-4-the-foundation-of-relationship/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John101_04.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/1John101_04.mp3",
+                    "link": "https://media.enduringword.com/1-john-11-4-the-foundation-of-relationship/",
+                    "pubDate": "Thu, 19 Oct 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "1 John 1:1-4 \u2013 The Foundation of Relationship",
+                    "wfw:commentRss": "https://media.enduringword.com/1-john-11-4-the-foundation-of-relationship/feed/"
+                }
             ],
-            "comments": "https://media.enduringword.com/1-john-514-21-protecting-our-relationship-with-god/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/1John514_21.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26500-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John514_21.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John514_21.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John514_21.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John514_21.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John514_21.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18207166",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/1John514_21.mp3"
+            "itunes:author": "David Guzik",
+            "itunes:category": {
+                "@text": "Religion & Spirituality",
+                "itunes:category": {
+                    "@text": "Christianity"
+                }
             },
-            "guid": "https://media.enduringword.com/1-john-514-21-protecting-our-relationship-with-god/",
-            "isoDate": "2017-11-05T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John514_21.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/1John514_21.mp3"
+            "itunes:explicit": "no",
+            "itunes:image": {
+                "@href": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_062_1-john.jpg"
             },
-            "link": "https://media.enduringword.com/1-john-514-21-protecting-our-relationship-with-god/",
-            "pubDate": "Sun, 05 Nov 2017 07:00:00 +0000",
-            "title": "1 John 5:14-21 \u2013 Protecting Our Relationship with God"
-        },
-        {
-            "categories": [
-                "The Book of 1 John",
-                "Epistles",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/1-john-56-13-the-source-of-relationship/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/1John506_13.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26499-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John506_13.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John506_13.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John506_13.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John506_13.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John506_13.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "19547352",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/1John506_13.mp3"
+            "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
+            "itunes:owner": {
+                "itunes:email": "admin@enduringword.com",
+                "itunes:name": "David Guzik"
             },
-            "guid": "https://media.enduringword.com/1-john-56-13-the-source-of-relationship/",
-            "isoDate": "2017-11-04T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John506_13.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/1John506_13.mp3"
-            },
-            "link": "https://media.enduringword.com/1-john-56-13-the-source-of-relationship/",
-            "pubDate": "Sat, 04 Nov 2017 07:00:00 +0000",
-            "title": "1 John 5:6-13 \u2013 The Source of Relationship"
-        },
-        {
-            "categories": [
-                "The Book of 1 John",
-                "Epistles",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/1-john-51-5-transforming-power-of-a-love-relationship/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/1John501_05.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26498-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John501_05.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John501_05.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John501_05.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John501_05.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John501_05.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16518112",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/1John501_05.mp3"
-            },
-            "guid": "https://media.enduringword.com/1-john-51-5-transforming-power-of-a-love-relationship/",
-            "isoDate": "2017-11-03T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John501_05.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/1John501_05.mp3"
-            },
-            "link": "https://media.enduringword.com/1-john-51-5-transforming-power-of-a-love-relationship/",
-            "pubDate": "Fri, 03 Nov 2017 07:00:00 +0000",
-            "title": "1 John 5:1-5 \u2013 Transforming Power of a Love Relationship"
-        },
-        {
-            "categories": [
-                "The Book of 1 John",
-                "Epistles",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/1-john-418-21-loves-reason-and-loves-commandment/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/1John418_21.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26497-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John418_21.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John418_21.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John418_21.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John418_21.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John418_21.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18623164",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/1John418_21.mp3"
-            },
-            "guid": "https://media.enduringword.com/1-john-418-21-loves-reason-and-loves-commandment/",
-            "isoDate": "2017-11-02T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John418_21.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/1John418_21.mp3"
-            },
-            "link": "https://media.enduringword.com/1-john-418-21-loves-reason-and-loves-commandment/",
-            "pubDate": "Thu, 02 Nov 2017 07:00:00 +0000",
-            "title": "1 John 4:18-21 \u2013 Love\u2019s Reason and Love\u2019s Commandment"
-        },
-        {
-            "categories": [
-                "The Book of 1 John",
-                "Epistles",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/1-john-412-18-the-nature-of-a-love-relationship-with-god/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/1John412_18.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26496-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John412_18.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John412_18.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John412_18.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John412_18.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John412_18.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18797662",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/1John412_18.mp3"
-            },
-            "guid": "https://media.enduringword.com/1-john-412-18-the-nature-of-a-love-relationship-with-god/",
-            "isoDate": "2017-11-01T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John412_18.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/1John412_18.mp3"
-            },
-            "link": "https://media.enduringword.com/1-john-412-18-the-nature-of-a-love-relationship-with-god/",
-            "pubDate": "Wed, 01 Nov 2017 07:00:00 +0000",
-            "title": "1 John 4:12-18 \u2013 The Nature of a Love Relationship with God"
-        },
-        {
-            "categories": [
-                "The Book of 1 John",
-                "Epistles",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/1-john-47-11-the-nature-of-gods-love/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/1John407_11.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26495-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John407_11.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John407_11.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John407_11.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John407_11.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John407_11.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "14564571",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/1John407_11.mp3"
-            },
-            "guid": "https://media.enduringword.com/1-john-47-11-the-nature-of-gods-love/",
-            "isoDate": "2017-10-31T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John407_11.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/1John407_11.mp3"
-            },
-            "link": "https://media.enduringword.com/1-john-47-11-the-nature-of-gods-love/",
-            "pubDate": "Tue, 31 Oct 2017 07:00:00 +0000",
-            "title": "1 John 4:7-11 \u2013 The Nature of God\u2019s Love"
-        },
-        {
-            "categories": [
-                "The Book of 1 John",
-                "Epistles",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/1-john-41-6-deception-an-attack-on-relationship/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/1John401_06.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26494-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John401_06.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John401_06.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John401_06.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John401_06.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John401_06.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "14328923",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/1John401_06.mp3"
-            },
-            "guid": "https://media.enduringword.com/1-john-41-6-deception-an-attack-on-relationship/",
-            "isoDate": "2017-10-30T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John401_06.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/1John401_06.mp3"
-            },
-            "link": "https://media.enduringword.com/1-john-41-6-deception-an-attack-on-relationship/",
-            "pubDate": "Mon, 30 Oct 2017 07:00:00 +0000",
-            "title": "1 John 4:1-6 \u2013 Deception: An Attack on Relationship"
-        },
-        {
-            "categories": [
-                "The Book of 1 John",
-                "Epistles",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/1-john-316-24-how-to-love-your-brother/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/1John316_24.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26493-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John316_24.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John316_24.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John316_24.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John316_24.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John316_24.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "17900802",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/1John316_24.mp3"
-            },
-            "guid": "https://media.enduringword.com/1-john-316-24-how-to-love-your-brother/",
-            "isoDate": "2017-10-29T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John316_24.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/1John316_24.mp3"
-            },
-            "link": "https://media.enduringword.com/1-john-316-24-how-to-love-your-brother/",
-            "pubDate": "Sun, 29 Oct 2017 07:00:00 +0000",
-            "title": "1 John 3:16-24 \u2013 How to Love Your Brother"
-        },
-        {
-            "categories": [
-                "The Book of 1 John",
-                "Epistles",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/1-john-310-15-hatred-an-attack-on-relationship/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/1John310_15.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26492-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John310_15.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John310_15.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John310_15.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John310_15.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John310_15.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16405762",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/1John310_15.mp3"
-            },
-            "guid": "https://media.enduringword.com/1-john-310-15-hatred-an-attack-on-relationship/",
-            "isoDate": "2017-10-28T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John310_15.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/1John310_15.mp3"
-            },
-            "link": "https://media.enduringword.com/1-john-310-15-hatred-an-attack-on-relationship/",
-            "pubDate": "Sat, 28 Oct 2017 07:00:00 +0000",
-            "title": "1 John 3:10-15 \u2013 Hatred: An Attack on Relationship"
-        },
-        {
-            "categories": [
-                "The Book of 1 John",
-                "Epistles",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/1-john-34-9-sin-an-attack-on-relationship/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/1John304_09.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26491-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John304_09.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John304_09.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John304_09.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John304_09.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John304_09.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "14421710",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/1John304_09.mp3"
-            },
-            "guid": "https://media.enduringword.com/1-john-34-9-sin-an-attack-on-relationship/",
-            "isoDate": "2017-10-27T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John304_09.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/1John304_09.mp3"
-            },
-            "link": "https://media.enduringword.com/1-john-34-9-sin-an-attack-on-relationship/",
-            "pubDate": "Fri, 27 Oct 2017 07:00:00 +0000",
-            "title": "1 John 3:4-9 \u2013 Sin: An Attack on Relationship"
-        },
-        {
-            "categories": [
-                "The Book of 1 John",
-                "Epistles",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/1-john-31-3-the-destiny-of-our-relationship/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/1John301_03.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26490-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John301_03.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John301_03.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John301_03.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John301_03.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John301_03.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "17910415",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/1John301_03.mp3"
-            },
-            "guid": "https://media.enduringword.com/1-john-31-3-the-destiny-of-our-relationship/",
-            "isoDate": "2017-10-26T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John301_03.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/1John301_03.mp3"
-            },
-            "link": "https://media.enduringword.com/1-john-31-3-the-destiny-of-our-relationship/",
-            "pubDate": "Thu, 26 Oct 2017 07:00:00 +0000",
-            "title": "1 John 3:1-3 \u2013 The Destiny of our Relationship"
-        },
-        {
-            "categories": [
-                "The Book of 1 John",
-                "Epistles",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/1-john-224-29-abiding-preserving-our-relationship/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/1John224_29.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26489-24\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John224_29.mp3?_=24\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John224_29.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John224_29.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John224_29.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John224_29.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "17249413",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/1John224_29.mp3"
-            },
-            "guid": "https://media.enduringword.com/1-john-224-29-abiding-preserving-our-relationship/",
-            "isoDate": "2017-10-25T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John224_29.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/1John224_29.mp3"
-            },
-            "link": "https://media.enduringword.com/1-john-224-29-abiding-preserving-our-relationship/",
-            "pubDate": "Wed, 25 Oct 2017 07:00:00 +0000",
-            "title": "1 John 2:24-29 \u2013 Abiding: Preserving our Relationship"
-        },
-        {
-            "categories": [
-                "The Book of 1 John",
-                "Epistles",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/1-john-218-23-the-antichrist-an-attack-on-relationship/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/1John218_23.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26488-26\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John218_23.mp3?_=26\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John218_23.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John218_23.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John218_23.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John218_23.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "19040287",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/1John218_23.mp3"
-            },
-            "guid": "https://media.enduringword.com/1-john-218-23-the-antichrist-an-attack-on-relationship/",
-            "isoDate": "2017-10-24T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John218_23.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/1John218_23.mp3"
-            },
-            "link": "https://media.enduringword.com/1-john-218-23-the-antichrist-an-attack-on-relationship/",
-            "pubDate": "Tue, 24 Oct 2017 07:00:00 +0000",
-            "title": "1 John 2:18-23 \u2013 The Antichrist: An Attack on Relationship"
-        },
-        {
-            "categories": [
-                "The Book of 1 John",
-                "Epistles",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/1-john-215-17-the-world-an-attack-on-relationship/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/1John215_17.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26487-28\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John215_17.mp3?_=28\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John215_17.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John215_17.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John215_17.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John215_17.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "15220639",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/1John215_17.mp3"
-            },
-            "guid": "https://media.enduringword.com/1-john-215-17-the-world-an-attack-on-relationship/",
-            "isoDate": "2017-10-23T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John215_17.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/1John215_17.mp3"
-            },
-            "link": "https://media.enduringword.com/1-john-215-17-the-world-an-attack-on-relationship/",
-            "pubDate": "Mon, 23 Oct 2017 07:00:00 +0000",
-            "title": "1 John 2:15-17 \u2013 The World: An Attack on Relationship"
-        },
-        {
-            "categories": [
-                "The Book of 1 John",
-                "Epistles",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/1-john-27-1-the-measure-of-relationship/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/1John207_14.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26486-30\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John207_14.mp3?_=30\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John207_14.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John207_14.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John207_14.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John207_14.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "19799382",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/1John207_14.mp3"
-            },
-            "guid": "https://media.enduringword.com/1-john-27-1-the-measure-of-relationship/",
-            "isoDate": "2017-10-22T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John207_14.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/1John207_14.mp3"
-            },
-            "link": "https://media.enduringword.com/1-john-27-1-the-measure-of-relationship/",
-            "pubDate": "Sun, 22 Oct 2017 07:00:00 +0000",
-            "title": "1 John 2:7-1 \u2013 The Measure of Relationship"
-        },
-        {
-            "categories": [
-                "The Book of 1 John",
-                "Epistles",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/1-john-21-6-the-one-who-makes-relationship-possible/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/1John201_06.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26485-32\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John201_06.mp3?_=32\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John201_06.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John201_06.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John201_06.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John201_06.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "14408254",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/1John201_06.mp3"
-            },
-            "guid": "https://media.enduringword.com/1-john-21-6-the-one-who-makes-relationship-possible/",
-            "isoDate": "2017-10-21T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John201_06.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/1John201_06.mp3"
-            },
-            "link": "https://media.enduringword.com/1-john-21-6-the-one-who-makes-relationship-possible/",
-            "pubDate": "Sat, 21 Oct 2017 07:00:00 +0000",
-            "title": "1 John 2:1-6 \u2013 The One Who Makes Relationship Possible"
-        },
-        {
-            "categories": [
-                "The Book of 1 John",
-                "Epistles",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/1-john-15-10-how-to-fix-relationship-with-god/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/1John105_10.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26484-34\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John105_10.mp3?_=34\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John105_10.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John105_10.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John105_10.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John105_10.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "17468632",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/1John105_10.mp3"
-            },
-            "guid": "https://media.enduringword.com/1-john-15-10-how-to-fix-relationship-with-god/",
-            "isoDate": "2017-10-20T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John105_10.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/1John105_10.mp3"
-            },
-            "link": "https://media.enduringword.com/1-john-15-10-how-to-fix-relationship-with-god/",
-            "pubDate": "Fri, 20 Oct 2017 07:00:00 +0000",
-            "title": "1 John 1:5-10 \u2013 How to Fix Relationship with God"
-        },
-        {
-            "categories": [
-                "The Book of 1 John",
-                "Epistles",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/1-john-11-4-the-foundation-of-relationship/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/1John101_04.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26483-36\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/1John101_04.mp3?_=36\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/1John101_04.mp3\">https://storage.googleapis.com/enduring-word-media/audio/1John101_04.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John101_04.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/1John101_04.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16117370",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/1John101_04.mp3"
-            },
-            "guid": "https://media.enduringword.com/1-john-11-4-the-foundation-of-relationship/",
-            "isoDate": "2017-10-19T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,1,John",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/1John101_04.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/1John101_04.mp3"
-            },
-            "link": "https://media.enduringword.com/1-john-11-4-the-foundation-of-relationship/",
-            "pubDate": "Thu, 19 Oct 2017 07:00:00 +0000",
-            "title": "1 John 1:1-4 \u2013 The Foundation of Relationship"
+            "itunes:subtitle": "Enduring Word Commentary Series \u2013\u00a0The Book 1 John",
+            "itunes:summary": "Pastor David Guzik preaches through the New Testament Book of 1 John.",
+            "language": "en-US",
+            "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
+            "link": "https://media.enduringword.com",
+            "sy:updateFrequency": "1",
+            "sy:updatePeriod": "hourly",
+            "title": "The Book of 1 John \u2013 Enduring Word Media Server"
         }
-    ],
-    "itunes": {
-        "author": "David Guzik",
-        "categories": [
-            "Religion & Spirituality"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Religion & Spirituality",
-                "subs": [
-                    {
-                        "name": "Christianity"
-                    }
-                ]
-            }
-        ],
-        "explicit": "no",
-        "image": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_062_1-john.jpg",
-        "keywords": [
-            "Bible",
-            "David",
-            "Guzik",
-            "Enduring",
-            "Word",
-            "Commentary",
-            "New",
-            "Testament",
-            "Book",
-            "of",
-            "1",
-            "John"
-        ],
-        "owner": {
-            "email": "admin@enduringword.com",
-            "name": "David Guzik"
-        },
-        "subtitle": "Enduring Word Commentary Series \u2013\u00a0The Book 1 John",
-        "summary": "Pastor David Guzik preaches through the New Testament Book of 1 John."
-    },
-    "language": "en-US",
-    "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
-    "link": "https://media.enduringword.com",
-    "paginationLinks": {
-        "self": "https://media.enduringword.com/podcasts/1_john/feed/"
-    },
-    "palette": [],
-    "title": "The Book of 1 John \u2013 Enduring Word Media Server"
+    }
 }

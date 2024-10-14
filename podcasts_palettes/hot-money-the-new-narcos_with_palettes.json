@@ -1,529 +1,1155 @@
 {
-    "copyright": "2024 iHeartMedia, Inc. \u00a9 Any use of this intellectual property for text and data mining or computational analysis including as training material for artificial intelligence systems is strictly prohibited without express written consent from iHeartMedia",
-    "description": "<p>Hot Money is back. In this series, Financial Times reporter Miles Johnson investigates a mysterious murder in a small town that leads to a web of drugs, money laundering and state-sponsored assassinations stretching from Dublin to Dubai. At the centre is a cocaine super cartel that is revolutionising the global drugs market. This eight-part investigative podcast, published twice-weekly, probes the links between criminals and legitimate businesses, and between governments and gangsters.</p>",
-    "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/0f0d9558-3e6e-4af7-971b-ae860127535c/podcast.rss",
-    "image": {
-        "link": "https://www.iheart.com/podcast/1297-hot-money-who-rules-porn-97459449/",
-        "title": "Hot Money: The New Narcos",
-        "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/0f0d9558-3e6e-4af7-971b-ae860127535c/image.jpg?t=1700593033&size=Large"
-    },
-    "items": [
-        {
-            "content": "<p>Introducing <a href=\"https://podcasts.apple.com/us/podcast/against-the-rules-with-michael-lewis/id1455379351\">Against the Rules: Fans</a>, a new season from journalist and bestselling author Michael Lewis. Michael Lewis bets high and low to find out how Americans, and their state governments, got addicted to a new form of legalized gambling. This season, we\u2019ll meet bookies, lobbyists, lawyers and professional sharps. All in their own ways trying to figure out why fans might hitch their life savings to their favorite team\u2019s performance.\u00a0<br><br>Listen to the series wherever you get your podcasts.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>Introducing <a href=\"https://podcasts.apple.com/us/podcast/against-the-rules-with-michael-lewis/id1455379351\">Against the Rules: Fans</a>, a new season from journalist and bestselling author Michael Lewis. Michael Lewis bets high and low to find out how Americans, and their state governments, got addicted to a new form of legalized gambling. This season, we\u2019ll meet bookies, lobbyists, lawyers and professional sharps. All in their own ways trying to figure out why fans might hitch their life savings to their favorite team\u2019s performance.\u00a0<br><br>Listen to the series wherever you get your podcasts.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "Introducing Against the Rules: Fans, a new season from journalist and bestselling author Michael Lewis. Michael Lewis bets high and low to find out how Americans, and their state governments, got addicted to a new form of legalized gambling. This season, we\u2019ll meet bookies, lobbyists, lawyers and professional sharps. All in their own ways trying to figure out why fans might hitch their life savings to their favorite team\u2019s performance.\u00a0\nListen to the series wherever you get your podcasts.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "Introducing Against the Rules: Fans, a new season from journalist and bestselling author Michael Lewis. Michael Lewis bets high and low to find out how Americans, and their state governments, got addicted to a new form of legalized gambling. This season, we\u2019ll meet bookies, lobbyists, lawyers and professional sharps. All in their own ways trying to figure out why fans might hitch their life savings to their favorite team\u2019s performance.\u00a0\nListen to the series wherever you get your podcasts.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "2828486",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/2104cf5f-1b72-40e6-98e3-b1f401762550/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:acast": "https://schema.acast.com/1.0/",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:media": "http://search.yahoo.com/mrss/",
+        "@xmlns:omny": "https://omny.fm/rss-extensions",
+        "@xmlns:podcast": "https://podcastindex.org/namespace/1.0",
+        "@xmlns:psc": "http://podlove.org/simple-chapters",
+        "channel": {
+            "atom:link": [
+                {
+                    "@href": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/0f0d9558-3e6e-4af7-971b-ae860127535c/podcast.rss",
+                    "@rel": "self",
+                    "@type": "application/rss+xml"
+                },
+                {
+                    "@href": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/0f0d9558-3e6e-4af7-971b-ae860127535c/podcast.rss?page=1",
+                    "@rel": "first",
+                    "@type": "application/rss+xml"
+                },
+                {
+                    "@href": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/0f0d9558-3e6e-4af7-971b-ae860127535c/podcast.rss?page=1",
+                    "@rel": "last",
+                    "@type": "application/rss+xml"
+                }
+            ],
+            "copyright": "2024 iHeartMedia, Inc. \u00a9 Any use of this intellectual property for text and data mining or computational analysis including as training material for artificial intelligence systems is strictly prohibited without express written consent from iHeartMedia",
+            "description": "<p>Hot Money is back. In this series, Financial Times reporter Miles Johnson investigates a mysterious murder in a small town that leads to a web of drugs, money laundering and state-sponsored assassinations stretching from Dublin to Dubai. At the centre is a cocaine super cartel that is revolutionising the global drugs market. This eight-part investigative podcast, published twice-weekly, probes the links between criminals and legitimate businesses, and between governments and gangsters.</p>",
+            "image": {
+                "link": "https://www.iheart.com/podcast/1297-hot-money-who-rules-porn-97459449/",
+                "palette": [
+                    "6D310E",
+                    "E08E29",
+                    "170806",
+                    "A7A7A7",
+                    "9F7338",
+                    "929192"
+                ],
+                "title": "Hot Money: The New Narcos",
+                "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/0f0d9558-3e6e-4af7-971b-ae860127535c/image.jpg?t=1700593033&size=Large"
             },
-            "guid": "2104cf5f-1b72-40e6-98e3-b1f401762550",
-            "isoDate": "2024-09-24T09:00:00.000Z",
-            "itunes": {
-                "author": "Pushkin Industries & Financial Times",
-                "duration": "173",
-                "episodeType": "bonus",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/2104cf5f-1b72-40e6-98e3-b1f401762550/image.jpg?t=1727131858&size=Large",
-                "season": "2"
-            },
-            "link": "https://omny.fm/shows/hot-money/introducing-against-the-rules-fans",
-            "pubDate": "Tue, 24 Sep 2024 09:00:00 +0000",
-            "title": "Introducing Against the Rules: Fans"
-        },
-        {
-            "content": "<p>Law enforcement cuts off the Kinahan cartel, and a little red notebook in the back of a car might finally reveal who killed the electrician in Almere.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-stringify-link=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-sk=\"tooltip_parent\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to\u00a0<a href=\"http://www.pushkin.fm/plus\" data-stringify-link=\"http://www.pushkin.fm/plus\" data-sk=\"tooltip_parent\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>Law enforcement cuts off the Kinahan cartel, and a little red notebook in the back of a car might finally reveal who killed the electrician in Almere.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-stringify-link=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-sk=\"tooltip_parent\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to\u00a0<a href=\"http://www.pushkin.fm/plus\" data-stringify-link=\"http://www.pushkin.fm/plus\" data-sk=\"tooltip_parent\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "Law enforcement cuts off the Kinahan cartel, and a little red notebook in the back of a car might finally reveal who killed the electrician in Almere.\n For more from the FT, sign up for the\u00a0FT Edit App. To listen to Hot Money ad free, subscribe to\u00a0Pushkin+.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "Law enforcement cuts off the Kinahan cartel, and a little red notebook in the back of a car might finally reveal who killed the electrician in Almere.\n For more from the FT, sign up for the\u00a0FT Edit App. To listen to Hot Money ad free, subscribe to\u00a0Pushkin+.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "32166355",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/87d7d785-cce0-49d9-a81d-b0e000ffb22b/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
-            },
-            "guid": "87d7d785-cce0-49d9-a81d-b0e000ffb22b",
-            "isoDate": "2023-12-26T05:01:00.000Z",
-            "itunes": {
-                "author": "Pushkin Industries & Financial Times",
-                "duration": "2006",
-                "episode": "8",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/87d7d785-cce0-49d9-a81d-b0e000ffb22b/image.jpg?t=1703261437&size=Large",
-                "season": "2"
-            },
-            "link": "https://omny.fm/shows/hot-money/episode-8-the-red-notebook",
-            "pubDate": "Tue, 26 Dec 2023 05:01:00 +0000",
-            "title": "Episode 8 - The Red Notebook"
-        },
-        {
-            "content": "<p>Daniel Kinahan is more influential than ever, but law enforcement may finally be catching up.\u00a0</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-stringify-link=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-sk=\"tooltip_parent\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to\u00a0<a href=\"http://www.pushkin.fm/plus\" data-stringify-link=\"http://www.pushkin.fm/plus\" data-sk=\"tooltip_parent\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>Daniel Kinahan is more influential than ever, but law enforcement may finally be catching up.\u00a0</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-stringify-link=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-sk=\"tooltip_parent\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to\u00a0<a href=\"http://www.pushkin.fm/plus\" data-stringify-link=\"http://www.pushkin.fm/plus\" data-sk=\"tooltip_parent\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "Daniel Kinahan is more influential than ever, but law enforcement may finally be catching up.\u00a0\n For more from the FT, sign up for the\u00a0FT Edit App. To listen to Hot Money ad free, subscribe to\u00a0Pushkin+.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "Daniel Kinahan is more influential than ever, but law enforcement may finally be catching up.\u00a0\n For more from the FT, sign up for the\u00a0FT Edit App. To listen to Hot Money ad free, subscribe to\u00a0Pushkin+.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "33909246",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/ce7b949b-7454-404f-80ee-b0de0142fbf2/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
-            },
-            "guid": "ce7b949b-7454-404f-80ee-b0de0142fbf2",
-            "isoDate": "2023-12-21T05:01:00.000Z",
-            "itunes": {
-                "author": "Pushkin Industries & Financial Times",
-                "duration": "2115",
-                "episode": "7",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/ce7b949b-7454-404f-80ee-b0de0142fbf2/image.jpg?t=1703102108&size=Large",
-                "season": "2"
-            },
-            "link": "https://omny.fm/shows/hot-money/episode-7-against-the-ropes",
-            "pubDate": "Thu, 21 Dec 2023 05:01:00 +0000",
-            "title": "Episode 7 - Against the Ropes"
-        },
-        {
-            "content": "<p>An undercover operation in New York reveals a connection with Tehran.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>An undercover operation in New York reveals a connection with Tehran.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "An undercover operation in New York reveals a connection with Tehran.\n For more from the FT, sign up for the\u00a0FT Edit App. To listen to Hot Money ad free, subscribe to Pushkin+.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "An undercover operation in New York reveals a connection with Tehran.\n For more from the FT, sign up for the\u00a0FT Edit App. To listen to Hot Money ad free, subscribe to Pushkin+.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "31527714",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/d9d7e6f0-2953-4ad5-a2c3-b0dc01096f7d/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
-            },
-            "guid": "d9d7e6f0-2953-4ad5-a2c3-b0dc01096f7d",
-            "isoDate": "2023-12-19T03:30:00.000Z",
-            "itunes": {
-                "author": "Pushkin Industries & Financial Times",
-                "duration": "1966",
-                "episode": "6",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/d9d7e6f0-2953-4ad5-a2c3-b0dc01096f7d/image.jpg?t=1702916448&size=Large",
-                "season": "2"
-            },
-            "link": "https://omny.fm/shows/hot-money/episode-6-ties-with-tehran",
-            "pubDate": "Tue, 19 Dec 2023 03:30:00 +0000",
-            "title": "Episode 6 - Ties with Tehran"
-        },
-        {
-            "content": "<p>Back in the Netherlands, the high-tech unit of the Dutch police works to crack the murder case.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>Back in the Netherlands, the high-tech unit of the Dutch police works to crack the murder case.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "Back in the Netherlands, the high-tech unit of the Dutch police works to crack the murder case.\n For more from the FT, sign up for the\u00a0FT Edit App. To listen to Hot Money ad free, subscribe to Pushkin+.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "Back in the Netherlands, the high-tech unit of the Dutch police works to crack the murder case.\n For more from the FT, sign up for the\u00a0FT Edit App. To listen to Hot Money ad free, subscribe to Pushkin+.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "23733610",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/4e777b31-925e-48c2-9851-b0d601014b00/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
-            },
-            "guid": "4e777b31-925e-48c2-9851-b0d601014b00",
-            "isoDate": "2023-12-14T05:01:00.000Z",
-            "itunes": {
-                "author": "Pushkin Industries & Financial Times",
-                "duration": "1479",
-                "episode": "5",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/4e777b31-925e-48c2-9851-b0d601014b00/image.jpg?t=1702397628&size=Large",
-                "season": "2"
-            },
-            "link": "https://omny.fm/shows/hot-money/episode-5-nerds-vs-narcos",
-            "pubDate": "Thu, 14 Dec 2023 05:01:00 +0000",
-            "title": "Episode 5 - Nerds vs Narcos"
-        },
-        {
-            "content": "<p>No longer safe in Europe, the cartel bosses move to a city that is attracting criminals from around the globe.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>No longer safe in Europe, the cartel bosses move to a city that is attracting criminals from around the globe.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "No longer safe in Europe, the cartel bosses move to a city that is attracting criminals from around the globe.\n For more from the FT, sign up for the\u00a0FT Edit App. To listen to Hot Money ad free, subscribe to Pushkin+.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "No longer safe in Europe, the cartel bosses move to a city that is attracting criminals from around the globe.\n For more from the FT, sign up for the\u00a0FT Edit App. To listen to Hot Money ad free, subscribe to Pushkin+.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "32984722",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/9f2cdf45-b596-4840-8d17-b0d2010bacd0/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
-            },
-            "guid": "9f2cdf45-b596-4840-8d17-b0d2010bacd0",
-            "isoDate": "2023-12-12T03:30:00.000Z",
-            "itunes": {
-                "author": "Pushkin Industries & Financial Times",
-                "duration": "2057",
-                "episode": "4",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/9f2cdf45-b596-4840-8d17-b0d2010bacd0/image.jpg?t=1702052979&size=Large",
-                "season": "2"
-            },
-            "link": "https://omny.fm/shows/hot-money/episode-4-gangster-s-paradise",
-            "pubDate": "Tue, 12 Dec 2023 03:30:00 +0000",
-            "title": "Episode 4 - Gangster's Paradise"
-        },
-        {
-            "content": "<p>International law enforcement is after the Kinahan cartel, revealing just how big the operation has grown.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>International law enforcement is after the Kinahan cartel, revealing just how big the operation has grown.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "International law enforcement is after the Kinahan cartel, revealing just how big the operation has grown.\n For more from the FT, sign up for the\u00a0FT Edit App. To listen to Hot Money ad free, subscribe to Pushkin+.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "International law enforcement is after the Kinahan cartel, revealing just how big the operation has grown.\n For more from the FT, sign up for the\u00a0FT Edit App. To listen to Hot Money ad free, subscribe to Pushkin+.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "34323446",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/118dcbd8-f1b4-4551-a583-b0d00108a0f2/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
-            },
-            "guid": "118dcbd8-f1b4-4551-a583-b0d00108a0f2",
-            "isoDate": "2023-12-07T05:01:00.000Z",
-            "itunes": {
-                "author": "Pushkin Industries & Financial Times",
-                "duration": "2141",
-                "episode": "3",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/118dcbd8-f1b4-4551-a583-b0d00108a0f2/image.jpg?t=1701879218&size=Large",
-                "season": "2"
-            },
-            "link": "https://omny.fm/shows/hot-money/episode-3-sun-guns-sangria",
-            "pubDate": "Thu, 07 Dec 2023 05:01:00 +0000",
-            "title": "Episode 3 - Sun, Guns & Sangria"
-        },
-        {
-            "content": "<p>An enterprising Dublin drug dealer makes the most of a revolution sweeping across Europe\u2019s criminal economy.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>An enterprising Dublin drug dealer makes the most of a revolution sweeping across Europe\u2019s criminal economy.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "An enterprising Dublin drug dealer makes the most of a revolution sweeping across Europe\u2019s criminal economy.\n For more from the FT, sign up for the\u00a0FT Edit App. To listen to Hot Money ad free, subscribe to Pushkin+.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "An enterprising Dublin drug dealer makes the most of a revolution sweeping across Europe\u2019s criminal economy.\n For more from the FT, sign up for the\u00a0FT Edit App. To listen to Hot Money ad free, subscribe to Pushkin+.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "29993798",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/5315fc71-609b-4ad0-a19f-b0ce010af6b9/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
-            },
-            "guid": "5315fc71-609b-4ad0-a19f-b0ce010af6b9",
-            "isoDate": "2023-12-05T05:10:00.000Z",
-            "itunes": {
-                "author": "Pushkin Industries & Financial Times",
-                "duration": "1870",
-                "episode": "2",
-                "episodeType": "full",
-                "explicit": "yes",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/5315fc71-609b-4ad0-a19f-b0ce010af6b9/image.jpg?t=1701707036&size=Large",
-                "season": "2"
-            },
-            "link": "https://omny.fm/shows/hot-money/episode-2-cocaine-ceo",
-            "pubDate": "Tue, 05 Dec 2023 05:10:00 +0000",
-            "title": "Episode 2 - Cocaine CEO"
-        },
-        {
-            "content": "<p>When a Dutch crime reporter makes an unbelievable discovery, a small-town murder case begins to look like an international assassination plot.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>When a Dutch crime reporter makes an unbelievable discovery, a small-town murder case begins to look like an international assassination plot.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "When a Dutch crime reporter makes an unbelievable discovery, a small-town murder case begins to look like an international assassination plot.\n For more from the FT, sign up for the\u00a0FT Edit App. To listen to Hot Money ad free, subscribe to Pushkin+.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "When a Dutch crime reporter makes an unbelievable discovery, a small-town murder case begins to look like an international assassination plot.\n For more from the FT, sign up for the\u00a0FT Edit App. To listen to Hot Money ad free, subscribe to Pushkin+.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "28632926",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/de1c1ffa-3a64-4ae2-baf0-b0ce00f89803/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
-            },
-            "guid": "de1c1ffa-3a64-4ae2-baf0-b0ce00f89803",
-            "isoDate": "2023-12-05T05:05:00.000Z",
-            "itunes": {
-                "author": "Pushkin Industries & Financial Times",
-                "duration": "1785",
-                "episode": "1",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/de1c1ffa-3a64-4ae2-baf0-b0ce00f89803/image.jpg?t=1701703273&size=Large",
-                "season": "2"
-            },
-            "link": "https://omny.fm/shows/hot-money/episode-1-murder-brokers",
-            "pubDate": "Tue, 05 Dec 2023 05:05:00 +0000",
-            "title": "Episode 1 - Murder Brokers"
-        },
-        {
-            "content": "<p><a href=\"https://podcasts.apple.com/us/podcast/hot-money-who-rules-porn/id1621757273\">Hot Money</a> is back with a new season that begins with a mysterious murder in a small town and leads to a cocaine super cartel and a secret proxy war between democracies and dictatorships.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p><a href=\"https://podcasts.apple.com/us/podcast/hot-money-who-rules-porn/id1621757273\">Hot Money</a> is back with a new season that begins with a mysterious murder in a small town and leads to a cocaine super cartel and a secret proxy war between democracies and dictatorships.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "Hot Money is back with a new season that begins with a mysterious murder in a small town and leads to a cocaine super cartel and a secret proxy war between democracies and dictatorships.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "Hot Money is back with a new season that begins with a mysterious murder in a small town and leads to a cocaine super cartel and a secret proxy war between democracies and dictatorships.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "2877378",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/47436a63-e6a1-432a-a678-b0c101395a97/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
-            },
-            "guid": "47436a63-e6a1-432a-a678-b0c101395a97",
-            "isoDate": "2023-11-21T19:04:57.000Z",
-            "itunes": {
-                "author": "Pushkin Industries & Financial Times",
-                "duration": "175",
-                "episodeType": "trailer",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/47436a63-e6a1-432a-a678-b0c101395a97/image.jpg?t=1700593447&size=Large",
-                "season": "2"
-            },
-            "link": "https://omny.fm/shows/hot-money/introducing-hot-money-the-new-narcos",
-            "pubDate": "Tue, 21 Nov 2023 19:04:57 +0000",
-            "title": "Introducing Hot Money: The New Narcos"
-        },
-        {
-            "content": "<p>In the season finale, Alex and Patricia discover how Visa and MasterCard became the reluctant rulers of porn. And they figure out what being ruled by credit card companies means for the porn industry today.</p> <p>If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to subscribe to our <a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\">email list</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>In the season finale, Alex and Patricia discover how Visa and MasterCard became the reluctant rulers of porn. And they figure out what being ruled by credit card companies means for the porn industry today.</p> <p>If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to subscribe to our <a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\">email list</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "In the season finale, Alex and Patricia discover how Visa and MasterCard became the reluctant rulers of porn. And they figure out what being ruled by credit card companies means for the porn industry today.\n If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to subscribe to our email list.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "In the season finale, Alex and Patricia discover how Visa and MasterCard became the reluctant rulers of porn. And they figure out what being ruled by credit card companies means for the porn industry today.\n If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to subscribe to our email list.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "39209373",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/5eb2321f-1c89-4968-9378-aed60110f793/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
-            },
-            "guid": "5eb2321f-1c89-4968-9378-aed60110f793",
-            "isoDate": "2022-07-19T04:01:00.000Z",
-            "itunes": {
-                "author": "Pushkin Industries & Financial Times",
-                "duration": "2447",
-                "episode": "8",
-                "episodeType": "full",
-                "explicit": "yes",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/5eb2321f-1c89-4968-9378-aed60110f793/image.jpg?t=1658162720&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/hot-money/episode-8-inside-porns-star-chamber",
-            "pubDate": "Tue, 19 Jul 2022 04:01:00 +0000",
-            "title": "Episode 8: Inside Porn's Star Chamber"
-        },
-        {
-            "content": "<p>Alex and Patricia track down the family behind OnlyFans, the site that has transformed online porn by shifting power back to performers. But there is a whole other side to the OnlyFans story.\u00a0</p> <p>If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at\u00a0</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>Alex and Patricia track down the family behind OnlyFans, the site that has transformed online porn by shifting power back to performers. But there is a whole other side to the OnlyFans story.\u00a0</p> <p>If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at\u00a0</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "Alex and Patricia track down the family behind OnlyFans, the site that has transformed online porn by shifting power back to performers. But there is a whole other side to the OnlyFans story.\u00a0\n If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0sign up for our email list at\u00a0Pushkin.fm.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "Alex and Patricia track down the family behind OnlyFans, the site that has transformed online porn by shifting power back to performers. But there is a whole other side to the OnlyFans story.\u00a0\n If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0sign up for our email list at\u00a0Pushkin.fm.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "38435725",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/3398c79d-64bd-4bfc-8286-aed0001cc80a/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
-            },
-            "guid": "3398c79d-64bd-4bfc-8286-aed0001cc80a",
-            "isoDate": "2022-07-12T04:01:00.000Z",
-            "itunes": {
-                "author": "Pushkin Industries & Financial Times",
-                "duration": "2399",
-                "episode": "7",
-                "episodeType": "full",
-                "explicit": "yes",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/3398c79d-64bd-4bfc-8286-aed0001cc80a/image.jpg?t=1657590920&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/hot-money/episode-7-porn-meets-onlyfans",
-            "pubDate": "Tue, 12 Jul 2022 04:01:00 +0000",
-            "title": "Episode 7:  Porn Meets OnlyFans"
-        },
-        {
-            "content": "<p>One of the biggest porn companies in the world was forced to radically change its practices. But another porn giant changed almost nothing.</p> <p>Patricia travels to the company's Prague headquarters to understand why.\u00a0</p> <p>If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at\u00a0</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>One of the biggest porn companies in the world was forced to radically change its practices. But another porn giant changed almost nothing.</p> <p>Patricia travels to the company's Prague headquarters to understand why.\u00a0</p> <p>If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at\u00a0</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "One of the biggest porn companies in the world was forced to radically change its practices. But another porn giant changed almost nothing.\n Patricia travels to the company's Prague headquarters to understand why.\u00a0\n If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0sign up for our email list at\u00a0Pushkin.fm.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "One of the biggest porn companies in the world was forced to radically change its practices. But another porn giant changed almost nothing.\n Patricia travels to the company's Prague headquarters to understand why.\u00a0\n If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0sign up for our email list at\u00a0Pushkin.fm.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "39866416",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/a9bef4e0-5623-44e9-8ee4-aec800e99d95/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
-            },
-            "guid": "a9bef4e0-5623-44e9-8ee4-aec800e99d95",
-            "isoDate": "2022-07-05T04:01:00.000Z",
-            "itunes": {
-                "author": "Pushkin Industries & Financial Times",
-                "duration": "2488",
-                "episode": "6",
-                "episodeType": "full",
-                "explicit": "yes",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/a9bef4e0-5623-44e9-8ee4-aec800e99d95/image.jpg?t=1656943964&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/hot-money/knocking-on-the-door-of-a-porn-empire",
-            "pubDate": "Tue, 05 Jul 2022 04:01:00 +0000",
-            "title": "Episode 6: Knocking on the Door of a Porn Empire"
-        },
-        {
-            "content": "<p>A billionaire hedge fund manager reads a scathing column about a popular porn site. He<strong> </strong>sends an angry text to the CEO of MasterCard. Almost overnight, the biggest porn company in the world changes dramatically.</p> <p>If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at\u00a0</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>A billionaire hedge fund manager reads a scathing column about a popular porn site. He<strong> </strong>sends an angry text to the CEO of MasterCard. Almost overnight, the biggest porn company in the world changes dramatically.</p> <p>If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at\u00a0</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "A billionaire hedge fund manager reads a scathing column about a popular porn site. He sends an angry text to the CEO of MasterCard. Almost overnight, the biggest porn company in the world changes dramatically.\n If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0sign up for our email list at\u00a0Pushkin.fm.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "A billionaire hedge fund manager reads a scathing column about a popular porn site. He sends an angry text to the CEO of MasterCard. Almost overnight, the biggest porn company in the world changes dramatically.\n If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0sign up for our email list at\u00a0Pushkin.fm.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "36786054",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/b1f3bec8-e9fe-4eb3-9616-aec100ce9336/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
-            },
-            "guid": "b1f3bec8-e9fe-4eb3-9616-aec100ce9336",
-            "isoDate": "2022-06-28T04:01:00.000Z",
-            "itunes": {
-                "author": "Pushkin Industries & Financial Times",
-                "duration": "2295",
-                "episode": "5",
-                "episodeType": "full",
-                "explicit": "yes",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/b1f3bec8-e9fe-4eb3-9616-aec100ce9336/image.jpg?t=1656334086&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/hot-money/episode-5-the-billionaire-who-took-down-porn",
-            "pubDate": "Tue, 28 Jun 2022 04:01:00 +0000",
-            "title": "Episode 5: The Billionaire Who Took Down Porn"
-        },
-        {
-            "content": "<p>How is it legal for porn sites to host millions of videos uploaded by users? The answer is in the story of an Ohio family in the early 1990s.</p> <p>In this episode: a family IT business, an FBI raid and a court case that set the precedent for porn \u2013 and for tech giants like Facebook and Twitter.\u00a0</p> <p>If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at\u00a0</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>How is it legal for porn sites to host millions of videos uploaded by users? The answer is in the story of an Ohio family in the early 1990s.</p> <p>In this episode: a family IT business, an FBI raid and a court case that set the precedent for porn \u2013 and for tech giants like Facebook and Twitter.\u00a0</p> <p>If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at\u00a0</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "How is it legal for porn sites to host millions of videos uploaded by users? The answer is in the story of an Ohio family in the early 1990s.\n In this episode: a family IT business, an FBI raid and a court case that set the precedent for porn \u2013 and for tech giants like Facebook and Twitter.\u00a0\n If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0sign up for our email list at\u00a0Pushkin.fm.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "How is it legal for porn sites to host millions of videos uploaded by users? The answer is in the story of an Ohio family in the early 1990s.\n In this episode: a family IT business, an FBI raid and a court case that set the precedent for porn \u2013 and for tech giants like Facebook and Twitter.\u00a0\n If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0sign up for our email list at\u00a0Pushkin.fm.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "38183701",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/63d0dd7b-c2fc-44c2-910f-aeba013dd2d6/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
-            },
-            "guid": "63d0dd7b-c2fc-44c2-910f-aeba013dd2d6",
-            "isoDate": "2022-06-21T04:01:00.000Z",
-            "itunes": {
-                "author": "Pushkin Industries & Financial Times",
-                "duration": "2383",
-                "episode": "4",
-                "episodeType": "full",
-                "explicit": "yes",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/63d0dd7b-c2fc-44c2-910f-aeba013dd2d6/image.jpg?t=1655752786&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/hot-money/episode-4-playboy-vs-rusty-and-edie",
-            "pubDate": "Tue, 21 Jun 2022 04:01:00 +0000",
-            "title": "Episode 4: Playboy vs. Rusty and Edie"
-        },
-        {
-            "content": "<p>When Fabian Thylmann ran into trouble with the law, a former Goldman Sachs banker swooped in to buy his porn sites. But nobody knew who he was. He managed to keep his identity a secret for years --- until Patricia rumbled his game.&nbsp;</p> <p>If you&rsquo;d like to keep up with the most recent news from this and other Pushkin podcasts be sure to&nbsp;<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at&nbsp;</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>When Fabian Thylmann ran into trouble with the law, a former Goldman Sachs banker swooped in to buy his porn sites. But nobody knew who he was. He managed to keep his identity a secret for years --- until Patricia rumbled his game.&nbsp;</p> <p>If you&rsquo;d like to keep up with the most recent news from this and other Pushkin podcasts be sure to&nbsp;<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at&nbsp;</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "When Fabian Thylmann ran into trouble with the law, a former Goldman Sachs banker swooped in to buy his porn sites. But nobody knew who he was. He managed to keep his identity a secret for years --- until Patricia rumbled his game.\u00a0\n If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0sign up for our email list at\u00a0Pushkin.fm.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "When Fabian Thylmann ran into trouble with the law, a former Goldman Sachs banker swooped in to buy his porn sites. But nobody knew who he was. He managed to keep his identity a secret for years --- until Patricia rumbled his game.\u00a0\n If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0sign up for our email list at\u00a0Pushkin.fm.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "31311193",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/c053f422-e540-4121-8ec9-aeb3013b96d3/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
-            },
-            "guid": "c053f422-e540-4121-8ec9-aeb3013b96d3",
-            "isoDate": "2022-06-14T04:01:00.000Z",
-            "itunes": {
-                "author": "Pushkin Industries & Financial Times",
-                "duration": "1953",
-                "episode": "3",
-                "episodeType": "full",
-                "explicit": "yes",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/c053f422-e540-4121-8ec9-aeb3013b96d3/image.jpg?t=1655148031&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/hot-money/episode-3-mr-goldman-mr-sex",
-            "pubDate": "Tue, 14 Jun 2022 04:01:00 +0000",
-            "title": "Episode 3: Mr. Goldman, Mr. Sex"
-        },
-        {
-            "content": "<p>A decade ago, a computer programmer named Fabian Thylmann began to build one of the biggest porn empires in the world.</p> <p>How did Fabian do it? He was good with money in a business that was starved of finance. He convinced Wall Street to bankroll his vision to take control of the industry.</p> <p>If you&rsquo;d like to keep up with the most recent news from this and other Pushkin podcasts be sure to&nbsp;<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at&nbsp;</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>A decade ago, a computer programmer named Fabian Thylmann began to build one of the biggest porn empires in the world.</p> <p>How did Fabian do it? He was good with money in a business that was starved of finance. He convinced Wall Street to bankroll his vision to take control of the industry.</p> <p>If you&rsquo;d like to keep up with the most recent news from this and other Pushkin podcasts be sure to&nbsp;<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at&nbsp;</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "A decade ago, a computer programmer named Fabian Thylmann began to build one of the biggest porn empires in the world.\n How did Fabian do it? He was good with money in a business that was starved of finance. He convinced Wall Street to bankroll his vision to take control of the industry.\n If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0sign up for our email list at\u00a0Pushkin.fm.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "A decade ago, a computer programmer named Fabian Thylmann began to build one of the biggest porn empires in the world.\n How did Fabian do it? He was good with money in a business that was starved of finance. He convinced Wall Street to bankroll his vision to take control of the industry.\n If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0sign up for our email list at\u00a0Pushkin.fm.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "31716616",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/03c41443-af82-458d-abc5-aeac0144979b/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
-            },
-            "guid": "03c41443-af82-458d-abc5-aeac0144979b",
-            "isoDate": "2022-06-07T04:01:00.000Z",
-            "itunes": {
-                "author": "Pushkin Industries & Financial Times",
-                "duration": "1979",
-                "episode": "2",
-                "episodeType": "full",
-                "explicit": "yes",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/03c41443-af82-458d-abc5-aeac0144979b/image.jpg?t=1654545856&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/hot-money/the-darth-vader-of-porn",
-            "pubDate": "Tue, 07 Jun 2022 04:01:00 +0000",
-            "title": "Episode 2: The Darth Vader of Porn"
-        },
-        {
-            "content": "<p>Stoya is a porn star who saw first-hand how a firehose of free porn online transformed the adult industry.</p> <p>She sends hosts Alex Barker and Patricia Nilsson a quest: Find out who is in charge, and get to the bottom of how the business of porn really works.</p> <p>If you&rsquo;d like to keep up with the most recent news from this and other Pushkin podcasts be sure to&nbsp;<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at&nbsp;</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>Stoya is a porn star who saw first-hand how a firehose of free porn online transformed the adult industry.</p> <p>She sends hosts Alex Barker and Patricia Nilsson a quest: Find out who is in charge, and get to the bottom of how the business of porn really works.</p> <p>If you&rsquo;d like to keep up with the most recent news from this and other Pushkin podcasts be sure to&nbsp;<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at&nbsp;</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "Stoya is a porn star who saw first-hand how a firehose of free porn online transformed the adult industry.\n She sends hosts Alex Barker and Patricia Nilsson a quest: Find out who is in charge, and get to the bottom of how the business of porn really works.\n If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0sign up for our email list at\u00a0Pushkin.fm.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "Stoya is a porn star who saw first-hand how a firehose of free porn online transformed the adult industry.\n She sends hosts Alex Barker and Patricia Nilsson a quest: Find out who is in charge, and get to the bottom of how the business of porn really works.\n If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0sign up for our email list at\u00a0Pushkin.fm.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "31159894",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/b30e253a-6593-4aab-8ec8-aeac0135654a/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
-            },
-            "guid": "b30e253a-6593-4aab-8ec8-aeac0135654a",
-            "isoDate": "2022-06-06T19:35:27.000Z",
-            "itunes": {
-                "author": "Pushkin Industries & Financial Times",
-                "duration": "1944",
-                "episode": "1",
-                "episodeType": "full",
-                "explicit": "yes",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/b30e253a-6593-4aab-8ec8-aeac0135654a/image.jpg?t=1654542061&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/hot-money/porn-meets-the-internet",
-            "pubDate": "Mon, 06 Jun 2022 19:35:27 +0000",
-            "title": "Episode 1: Porn Meets the Internet"
-        },
-        {
-            "content": "<p>When Financial Times reporter Patricia Nilsson started digging into the porn industry, she made a shocking discovery: Nobody knew who controlled the biggest porn company in the world. Now, Nilsson and her editor, Alex Barker, have figured out who the guy was, and much more. Their reporting reveals a shadowy power structure that includes billionaires, tech geniuses and the most powerful finance companies in the world. Coming June 7th.&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>When Financial Times reporter Patricia Nilsson started digging into the porn industry, she made a shocking discovery: Nobody knew who controlled the biggest porn company in the world. Now, Nilsson and her editor, Alex Barker, have figured out who the guy was, and much more. Their reporting reveals a shadowy power structure that includes billionaires, tech geniuses and the most powerful finance companies in the world. Coming June 7th.&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "When Financial Times reporter Patricia Nilsson started digging into the porn industry, she made a shocking discovery: Nobody knew who controlled the biggest porn company in the world. Now, Nilsson and her editor, Alex Barker, have figured out who the guy was, and much more. Their reporting reveals a shadowy power structure that includes billionaires, tech geniuses and the most powerful finance companies in the world. Coming June 7th.\u00a0\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "When Financial Times reporter Patricia Nilsson started digging into the porn industry, she made a shocking discovery: Nobody knew who controlled the biggest porn company in the world. Now, Nilsson and her editor, Alex Barker, have figured out who the guy was, and much more. Their reporting reveals a shadowy power structure that includes billionaires, tech geniuses and the most powerful finance companies in the world. Coming June 7th.\u00a0\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "3097423",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/5a72d49b-6374-4855-b965-aea000b2b670/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
-            },
-            "guid": "5a72d49b-6374-4855-b965-aea000b2b670",
-            "isoDate": "2022-05-25T11:23:20.000Z",
-            "itunes": {
-                "author": "Pushkin Industries & Financial Times",
-                "duration": "190",
-                "episodeType": "trailer",
-                "explicit": "yes",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/5a72d49b-6374-4855-b965-aea000b2b670/image.jpg?t=1653477531&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/hot-money/hot-money-who-rules-porn",
-            "pubDate": "Wed, 25 May 2022 11:23:20 +0000",
-            "title": "Hot Money: Who Rules Porn?"
-        }
-    ],
-    "itunes": {
-        "author": "Pushkin Industries & Financial Times",
-        "categories": [
-            "Business",
-            "Society & Culture",
-            "Technology",
-            "Health & Fitness"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Business",
-                "subs": null
-            },
-            {
-                "name": "Society & Culture",
-                "subs": null
-            },
-            {
-                "name": "Technology",
-                "subs": null
-            },
-            {
-                "name": "Health & Fitness",
-                "subs": [
-                    {
-                        "name": "Sexuality"
+            "item": [
+                {
+                    "content:encoded": "<p>Introducing <a href=\"https://podcasts.apple.com/us/podcast/against-the-rules-with-michael-lewis/id1455379351\">Against the Rules: Fans</a>, a new season from journalist and bestselling author Michael Lewis. Michael Lewis bets high and low to find out how Americans, and their state governments, got addicted to a new form of legalized gambling. This season, we\u2019ll meet bookies, lobbyists, lawyers and professional sharps. All in their own ways trying to figure out why fans might hitch their life savings to their favorite team\u2019s performance.\u00a0<br><br>Listen to the series wherever you get your podcasts.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>Introducing <a href=\"https://podcasts.apple.com/us/podcast/against-the-rules-with-michael-lewis/id1455379351\">Against the Rules: Fans</a>, a new season from journalist and bestselling author Michael Lewis. Michael Lewis bets high and low to find out how Americans, and their state governments, got addicted to a new form of legalized gambling. This season, we\u2019ll meet bookies, lobbyists, lawyers and professional sharps. All in their own ways trying to figure out why fans might hitch their life savings to their favorite team\u2019s performance.\u00a0<br><br>Listen to the series wherever you get your podcasts.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "2828486",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/2104cf5f-1b72-40e6-98e3-b1f401762550/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
+                    },
+                    "guid": {
+                        "#text": "2104cf5f-1b72-40e6-98e3-b1f401762550",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries & Financial Times",
+                    "itunes:duration": "173",
+                    "itunes:episodeType": "bonus",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/2104cf5f-1b72-40e6-98e3-b1f401762550/image.jpg?t=1727131858&size=Large"
+                    },
+                    "itunes:season": "2",
+                    "itunes:title": "Introducing Against the Rules: Fans",
+                    "link": "https://omny.fm/shows/hot-money/introducing-against-the-rules-fans",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/2104cf5f-1b72-40e6-98e3-b1f401762550/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/hot-money/introducing-against-the-rules-fans/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/2104cf5f-1b72-40e6-98e3-b1f401762550/image.jpg?t=1727131858&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "2104cf5f-1b72-40e6-98e3-b1f401762550",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2104cf5f-1b72-40e6-98e3-b1f401762550/transcript?format=SubRip&t=1727168885"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2104cf5f-1b72-40e6-98e3-b1f401762550/transcript?format=WebVTT&t=1727168885"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2104cf5f-1b72-40e6-98e3-b1f401762550/transcript?format=TextWithTimestamps&t=1727168885"
+                        }
+                    ],
+                    "pubDate": "Tue, 24 Sep 2024 09:00:00 +0000",
+                    "title": "Introducing Against the Rules: Fans"
+                },
+                {
+                    "content:encoded": "<p>Law enforcement cuts off the Kinahan cartel, and a little red notebook in the back of a car might finally reveal who killed the electrician in Almere.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-stringify-link=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-sk=\"tooltip_parent\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to\u00a0<a href=\"http://www.pushkin.fm/plus\" data-stringify-link=\"http://www.pushkin.fm/plus\" data-sk=\"tooltip_parent\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>Law enforcement cuts off the Kinahan cartel, and a little red notebook in the back of a car might finally reveal who killed the electrician in Almere.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-stringify-link=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-sk=\"tooltip_parent\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to\u00a0<a href=\"http://www.pushkin.fm/plus\" data-stringify-link=\"http://www.pushkin.fm/plus\" data-sk=\"tooltip_parent\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "32166355",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/87d7d785-cce0-49d9-a81d-b0e000ffb22b/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
+                    },
+                    "guid": {
+                        "#text": "87d7d785-cce0-49d9-a81d-b0e000ffb22b",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries & Financial Times",
+                    "itunes:duration": "2006",
+                    "itunes:episode": "8",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/87d7d785-cce0-49d9-a81d-b0e000ffb22b/image.jpg?t=1703261437&size=Large"
+                    },
+                    "itunes:season": "2",
+                    "itunes:title": "Episode 8 - The Red Notebook",
+                    "link": "https://omny.fm/shows/hot-money/episode-8-the-red-notebook",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/87d7d785-cce0-49d9-a81d-b0e000ffb22b/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/hot-money/episode-8-the-red-notebook/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/87d7d785-cce0-49d9-a81d-b0e000ffb22b/image.jpg?t=1703261437&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "87d7d785-cce0-49d9-a81d-b0e000ffb22b",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/87d7d785-cce0-49d9-a81d-b0e000ffb22b/transcript?format=SubRip&t=1713695575"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/87d7d785-cce0-49d9-a81d-b0e000ffb22b/transcript?format=WebVTT&t=1713695575"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/87d7d785-cce0-49d9-a81d-b0e000ffb22b/transcript?format=TextWithTimestamps&t=1713695575"
+                        }
+                    ],
+                    "pubDate": "Tue, 26 Dec 2023 05:01:00 +0000",
+                    "title": "Episode 8 - The Red Notebook"
+                },
+                {
+                    "content:encoded": "<p>Daniel Kinahan is more influential than ever, but law enforcement may finally be catching up.\u00a0</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-stringify-link=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-sk=\"tooltip_parent\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to\u00a0<a href=\"http://www.pushkin.fm/plus\" data-stringify-link=\"http://www.pushkin.fm/plus\" data-sk=\"tooltip_parent\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>Daniel Kinahan is more influential than ever, but law enforcement may finally be catching up.\u00a0</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-stringify-link=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-sk=\"tooltip_parent\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to\u00a0<a href=\"http://www.pushkin.fm/plus\" data-stringify-link=\"http://www.pushkin.fm/plus\" data-sk=\"tooltip_parent\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "33909246",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/ce7b949b-7454-404f-80ee-b0de0142fbf2/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
+                    },
+                    "guid": {
+                        "#text": "ce7b949b-7454-404f-80ee-b0de0142fbf2",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries & Financial Times",
+                    "itunes:duration": "2115",
+                    "itunes:episode": "7",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/ce7b949b-7454-404f-80ee-b0de0142fbf2/image.jpg?t=1703102108&size=Large"
+                    },
+                    "itunes:season": "2",
+                    "itunes:title": "Episode 7 - Against the Ropes",
+                    "link": "https://omny.fm/shows/hot-money/episode-7-against-the-ropes",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/ce7b949b-7454-404f-80ee-b0de0142fbf2/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/hot-money/episode-7-against-the-ropes/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/ce7b949b-7454-404f-80ee-b0de0142fbf2/image.jpg?t=1703102108&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "ce7b949b-7454-404f-80ee-b0de0142fbf2",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ce7b949b-7454-404f-80ee-b0de0142fbf2/transcript?format=SubRip&t=1713702909"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ce7b949b-7454-404f-80ee-b0de0142fbf2/transcript?format=WebVTT&t=1713702909"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ce7b949b-7454-404f-80ee-b0de0142fbf2/transcript?format=TextWithTimestamps&t=1713702909"
+                        }
+                    ],
+                    "pubDate": "Thu, 21 Dec 2023 05:01:00 +0000",
+                    "title": "Episode 7 - Against the Ropes"
+                },
+                {
+                    "content:encoded": "<p>An undercover operation in New York reveals a connection with Tehran.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>An undercover operation in New York reveals a connection with Tehran.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "31527714",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/d9d7e6f0-2953-4ad5-a2c3-b0dc01096f7d/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
+                    },
+                    "guid": {
+                        "#text": "d9d7e6f0-2953-4ad5-a2c3-b0dc01096f7d",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries & Financial Times",
+                    "itunes:duration": "1966",
+                    "itunes:episode": "6",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/d9d7e6f0-2953-4ad5-a2c3-b0dc01096f7d/image.jpg?t=1702916448&size=Large"
+                    },
+                    "itunes:season": "2",
+                    "itunes:title": "Episode 6 - Ties with Tehran",
+                    "link": "https://omny.fm/shows/hot-money/episode-6-ties-with-tehran",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/d9d7e6f0-2953-4ad5-a2c3-b0dc01096f7d/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/hot-money/episode-6-ties-with-tehran/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/d9d7e6f0-2953-4ad5-a2c3-b0dc01096f7d/image.jpg?t=1702916448&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "d9d7e6f0-2953-4ad5-a2c3-b0dc01096f7d",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d9d7e6f0-2953-4ad5-a2c3-b0dc01096f7d/transcript?format=SubRip&t=1713709892"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d9d7e6f0-2953-4ad5-a2c3-b0dc01096f7d/transcript?format=WebVTT&t=1713709892"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d9d7e6f0-2953-4ad5-a2c3-b0dc01096f7d/transcript?format=TextWithTimestamps&t=1713709892"
+                        }
+                    ],
+                    "pubDate": "Tue, 19 Dec 2023 03:30:00 +0000",
+                    "title": "Episode 6 - Ties with Tehran"
+                },
+                {
+                    "content:encoded": "<p>Back in the Netherlands, the high-tech unit of the Dutch police works to crack the murder case.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>Back in the Netherlands, the high-tech unit of the Dutch police works to crack the murder case.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "23733610",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/4e777b31-925e-48c2-9851-b0d601014b00/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
+                    },
+                    "guid": {
+                        "#text": "4e777b31-925e-48c2-9851-b0d601014b00",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries & Financial Times",
+                    "itunes:duration": "1479",
+                    "itunes:episode": "5",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/4e777b31-925e-48c2-9851-b0d601014b00/image.jpg?t=1702397628&size=Large"
+                    },
+                    "itunes:season": "2",
+                    "itunes:title": "Episode 5 - Nerds vs Narcos",
+                    "link": "https://omny.fm/shows/hot-money/episode-5-nerds-vs-narcos",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/4e777b31-925e-48c2-9851-b0d601014b00/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/hot-money/episode-5-nerds-vs-narcos/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/4e777b31-925e-48c2-9851-b0d601014b00/image.jpg?t=1702397628&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "4e777b31-925e-48c2-9851-b0d601014b00",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4e777b31-925e-48c2-9851-b0d601014b00/transcript?format=SubRip&t=1713717803"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4e777b31-925e-48c2-9851-b0d601014b00/transcript?format=WebVTT&t=1713717803"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4e777b31-925e-48c2-9851-b0d601014b00/transcript?format=TextWithTimestamps&t=1713717803"
+                        }
+                    ],
+                    "pubDate": "Thu, 14 Dec 2023 05:01:00 +0000",
+                    "title": "Episode 5 - Nerds vs Narcos"
+                },
+                {
+                    "content:encoded": "<p>No longer safe in Europe, the cartel bosses move to a city that is attracting criminals from around the globe.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>No longer safe in Europe, the cartel bosses move to a city that is attracting criminals from around the globe.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "32984722",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/9f2cdf45-b596-4840-8d17-b0d2010bacd0/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
+                    },
+                    "guid": {
+                        "#text": "9f2cdf45-b596-4840-8d17-b0d2010bacd0",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries & Financial Times",
+                    "itunes:duration": "2057",
+                    "itunes:episode": "4",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/9f2cdf45-b596-4840-8d17-b0d2010bacd0/image.jpg?t=1702052979&size=Large"
+                    },
+                    "itunes:season": "2",
+                    "itunes:title": "Episode 4 - Gangster's Paradise",
+                    "link": "https://omny.fm/shows/hot-money/episode-4-gangster-s-paradise",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/9f2cdf45-b596-4840-8d17-b0d2010bacd0/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/hot-money/episode-4-gangster-s-paradise/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/9f2cdf45-b596-4840-8d17-b0d2010bacd0/image.jpg?t=1702052979&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "9f2cdf45-b596-4840-8d17-b0d2010bacd0",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9f2cdf45-b596-4840-8d17-b0d2010bacd0/transcript?format=SubRip&t=1713726104"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9f2cdf45-b596-4840-8d17-b0d2010bacd0/transcript?format=WebVTT&t=1713726104"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9f2cdf45-b596-4840-8d17-b0d2010bacd0/transcript?format=TextWithTimestamps&t=1713726104"
+                        }
+                    ],
+                    "pubDate": "Tue, 12 Dec 2023 03:30:00 +0000",
+                    "title": "Episode 4 - Gangster's Paradise"
+                },
+                {
+                    "content:encoded": "<p>International law enforcement is after the Kinahan cartel, revealing just how big the operation has grown.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>International law enforcement is after the Kinahan cartel, revealing just how big the operation has grown.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "34323446",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/118dcbd8-f1b4-4551-a583-b0d00108a0f2/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
+                    },
+                    "guid": {
+                        "#text": "118dcbd8-f1b4-4551-a583-b0d00108a0f2",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries & Financial Times",
+                    "itunes:duration": "2141",
+                    "itunes:episode": "3",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/118dcbd8-f1b4-4551-a583-b0d00108a0f2/image.jpg?t=1701879218&size=Large"
+                    },
+                    "itunes:season": "2",
+                    "itunes:title": "Episode 3 - Sun, Guns & Sangria",
+                    "link": "https://omny.fm/shows/hot-money/episode-3-sun-guns-sangria",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/118dcbd8-f1b4-4551-a583-b0d00108a0f2/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/hot-money/episode-3-sun-guns-sangria/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/118dcbd8-f1b4-4551-a583-b0d00108a0f2/image.jpg?t=1701879218&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "118dcbd8-f1b4-4551-a583-b0d00108a0f2",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/118dcbd8-f1b4-4551-a583-b0d00108a0f2/transcript?format=SubRip&t=1713735360"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/118dcbd8-f1b4-4551-a583-b0d00108a0f2/transcript?format=WebVTT&t=1713735360"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/118dcbd8-f1b4-4551-a583-b0d00108a0f2/transcript?format=TextWithTimestamps&t=1713735360"
+                        }
+                    ],
+                    "pubDate": "Thu, 07 Dec 2023 05:01:00 +0000",
+                    "title": "Episode 3 - Sun, Guns & Sangria"
+                },
+                {
+                    "content:encoded": "<p>An enterprising Dublin drug dealer makes the most of a revolution sweeping across Europe\u2019s criminal economy.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>An enterprising Dublin drug dealer makes the most of a revolution sweeping across Europe\u2019s criminal economy.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "29993798",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/5315fc71-609b-4ad0-a19f-b0ce010af6b9/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
+                    },
+                    "guid": {
+                        "#text": "5315fc71-609b-4ad0-a19f-b0ce010af6b9",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries & Financial Times",
+                    "itunes:duration": "1870",
+                    "itunes:episode": "2",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/5315fc71-609b-4ad0-a19f-b0ce010af6b9/image.jpg?t=1701707036&size=Large"
+                    },
+                    "itunes:season": "2",
+                    "itunes:title": "Episode 2 - Cocaine CEO",
+                    "link": "https://omny.fm/shows/hot-money/episode-2-cocaine-ceo",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/5315fc71-609b-4ad0-a19f-b0ce010af6b9/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/hot-money/episode-2-cocaine-ceo/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/5315fc71-609b-4ad0-a19f-b0ce010af6b9/image.jpg?t=1701707036&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "5315fc71-609b-4ad0-a19f-b0ce010af6b9",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5315fc71-609b-4ad0-a19f-b0ce010af6b9/transcript?format=SubRip&t=1713740538"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5315fc71-609b-4ad0-a19f-b0ce010af6b9/transcript?format=WebVTT&t=1713740538"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5315fc71-609b-4ad0-a19f-b0ce010af6b9/transcript?format=TextWithTimestamps&t=1713740538"
+                        }
+                    ],
+                    "pubDate": "Tue, 05 Dec 2023 05:10:00 +0000",
+                    "title": "Episode 2 - Cocaine CEO"
+                },
+                {
+                    "content:encoded": "<p>When a Dutch crime reporter makes an unbelievable discovery, a small-town murder case begins to look like an international assassination plot.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>When a Dutch crime reporter makes an unbelievable discovery, a small-town murder case begins to look like an international assassination plot.</p> <p>For more from the FT, sign up for the\u00a0<a href=\"https://ftedit.onelink.me/Ju3k/uea0bgn7\" data-saferedirecturl=\"https://www.google.com/url?q=https://ftedit.onelink.me/Ju3k/uea0bgn7&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw2AfgEHHJ2RnCMThfAwnP4H\">FT Edit App</a>. To listen to Hot Money ad free, subscribe to <a href=\"http://www.pushkin.fm/plus\" data-saferedirecturl=\"https://www.google.com/url?q=http://www.pushkin.fm/plus&amp;source=gmail&amp;ust=1701959522822000&amp;usg=AOvVaw20IgYCeyfuXud-xgxZNBOU\">Pushkin+</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "28632926",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/de1c1ffa-3a64-4ae2-baf0-b0ce00f89803/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
+                    },
+                    "guid": {
+                        "#text": "de1c1ffa-3a64-4ae2-baf0-b0ce00f89803",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries & Financial Times",
+                    "itunes:duration": "1785",
+                    "itunes:episode": "1",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/de1c1ffa-3a64-4ae2-baf0-b0ce00f89803/image.jpg?t=1701703273&size=Large"
+                    },
+                    "itunes:season": "2",
+                    "itunes:title": "Episode 1 - Murder Brokers",
+                    "link": "https://omny.fm/shows/hot-money/episode-1-murder-brokers",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/de1c1ffa-3a64-4ae2-baf0-b0ce00f89803/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/hot-money/episode-1-murder-brokers/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/de1c1ffa-3a64-4ae2-baf0-b0ce00f89803/image.jpg?t=1701703273&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "de1c1ffa-3a64-4ae2-baf0-b0ce00f89803",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/de1c1ffa-3a64-4ae2-baf0-b0ce00f89803/transcript?format=SubRip&t=1713740531"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/de1c1ffa-3a64-4ae2-baf0-b0ce00f89803/transcript?format=WebVTT&t=1713740531"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/de1c1ffa-3a64-4ae2-baf0-b0ce00f89803/transcript?format=TextWithTimestamps&t=1713740531"
+                        }
+                    ],
+                    "pubDate": "Tue, 05 Dec 2023 05:05:00 +0000",
+                    "title": "Episode 1 - Murder Brokers"
+                },
+                {
+                    "content:encoded": "<p><a href=\"https://podcasts.apple.com/us/podcast/hot-money-who-rules-porn/id1621757273\">Hot Money</a> is back with a new season that begins with a mysterious murder in a small town and leads to a cocaine super cartel and a secret proxy war between democracies and dictatorships.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p><a href=\"https://podcasts.apple.com/us/podcast/hot-money-who-rules-porn/id1621757273\">Hot Money</a> is back with a new season that begins with a mysterious murder in a small town and leads to a cocaine super cartel and a secret proxy war between democracies and dictatorships.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "2877378",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/47436a63-e6a1-432a-a678-b0c101395a97/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
+                    },
+                    "guid": {
+                        "#text": "47436a63-e6a1-432a-a678-b0c101395a97",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries & Financial Times",
+                    "itunes:duration": "175",
+                    "itunes:episodeType": "trailer",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/47436a63-e6a1-432a-a678-b0c101395a97/image.jpg?t=1700593447&size=Large"
+                    },
+                    "itunes:season": "2",
+                    "itunes:title": "Introducing Hot Money: The New Narcos",
+                    "link": "https://omny.fm/shows/hot-money/introducing-hot-money-the-new-narcos",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/47436a63-e6a1-432a-a678-b0c101395a97/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/hot-money/introducing-hot-money-the-new-narcos/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/47436a63-e6a1-432a-a678-b0c101395a97/image.jpg?t=1700593447&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "47436a63-e6a1-432a-a678-b0c101395a97",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/47436a63-e6a1-432a-a678-b0c101395a97/transcript?format=SubRip&t=1713756699"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/47436a63-e6a1-432a-a678-b0c101395a97/transcript?format=WebVTT&t=1713756699"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/47436a63-e6a1-432a-a678-b0c101395a97/transcript?format=TextWithTimestamps&t=1713756699"
+                        }
+                    ],
+                    "pubDate": "Tue, 21 Nov 2023 19:04:57 +0000",
+                    "title": "Introducing Hot Money: The New Narcos"
+                },
+                {
+                    "content:encoded": "<p>In the season finale, Alex and Patricia discover how Visa and MasterCard became the reluctant rulers of porn. And they figure out what being ruled by credit card companies means for the porn industry today.</p> <p>If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to subscribe to our <a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\">email list</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>In the season finale, Alex and Patricia discover how Visa and MasterCard became the reluctant rulers of porn. And they figure out what being ruled by credit card companies means for the porn industry today.</p> <p>If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to subscribe to our <a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\">email list</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "39209373",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/5eb2321f-1c89-4968-9378-aed60110f793/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
+                    },
+                    "guid": {
+                        "#text": "5eb2321f-1c89-4968-9378-aed60110f793",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries & Financial Times",
+                    "itunes:duration": "2447",
+                    "itunes:episode": "8",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/5eb2321f-1c89-4968-9378-aed60110f793/image.jpg?t=1658162720&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "Episode 8: Inside Porn's Star Chamber",
+                    "link": "https://omny.fm/shows/hot-money/episode-8-inside-porns-star-chamber",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/5eb2321f-1c89-4968-9378-aed60110f793/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/hot-money/episode-8-inside-porns-star-chamber/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/5eb2321f-1c89-4968-9378-aed60110f793/image.jpg?t=1658162720&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "5eb2321f-1c89-4968-9378-aed60110f793",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5eb2321f-1c89-4968-9378-aed60110f793/transcript?format=SubRip&t=1700529867"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5eb2321f-1c89-4968-9378-aed60110f793/transcript?format=WebVTT&t=1700529867"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5eb2321f-1c89-4968-9378-aed60110f793/transcript?format=TextWithTimestamps&t=1700529867"
+                        }
+                    ],
+                    "pubDate": "Tue, 19 Jul 2022 04:01:00 +0000",
+                    "title": "Episode 8: Inside Porn's Star Chamber"
+                },
+                {
+                    "content:encoded": "<p>Alex and Patricia track down the family behind OnlyFans, the site that has transformed online porn by shifting power back to performers. But there is a whole other side to the OnlyFans story.\u00a0</p> <p>If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at\u00a0</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>Alex and Patricia track down the family behind OnlyFans, the site that has transformed online porn by shifting power back to performers. But there is a whole other side to the OnlyFans story.\u00a0</p> <p>If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at\u00a0</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "38435725",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/3398c79d-64bd-4bfc-8286-aed0001cc80a/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
+                    },
+                    "guid": {
+                        "#text": "3398c79d-64bd-4bfc-8286-aed0001cc80a",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries & Financial Times",
+                    "itunes:duration": "2399",
+                    "itunes:episode": "7",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/3398c79d-64bd-4bfc-8286-aed0001cc80a/image.jpg?t=1657590920&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "Episode 7:  Porn Meets OnlyFans",
+                    "link": "https://omny.fm/shows/hot-money/episode-7-porn-meets-onlyfans",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/3398c79d-64bd-4bfc-8286-aed0001cc80a/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/hot-money/episode-7-porn-meets-onlyfans/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/3398c79d-64bd-4bfc-8286-aed0001cc80a/image.jpg?t=1657590920&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "3398c79d-64bd-4bfc-8286-aed0001cc80a",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3398c79d-64bd-4bfc-8286-aed0001cc80a/transcript?format=SubRip&t=1700529867"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3398c79d-64bd-4bfc-8286-aed0001cc80a/transcript?format=WebVTT&t=1700529867"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3398c79d-64bd-4bfc-8286-aed0001cc80a/transcript?format=TextWithTimestamps&t=1700529867"
+                        }
+                    ],
+                    "pubDate": "Tue, 12 Jul 2022 04:01:00 +0000",
+                    "title": "Episode 7:  Porn Meets OnlyFans"
+                },
+                {
+                    "content:encoded": "<p>One of the biggest porn companies in the world was forced to radically change its practices. But another porn giant changed almost nothing.</p> <p>Patricia travels to the company's Prague headquarters to understand why.\u00a0</p> <p>If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at\u00a0</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>One of the biggest porn companies in the world was forced to radically change its practices. But another porn giant changed almost nothing.</p> <p>Patricia travels to the company's Prague headquarters to understand why.\u00a0</p> <p>If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at\u00a0</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "39866416",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/a9bef4e0-5623-44e9-8ee4-aec800e99d95/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
+                    },
+                    "guid": {
+                        "#text": "a9bef4e0-5623-44e9-8ee4-aec800e99d95",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries & Financial Times",
+                    "itunes:duration": "2488",
+                    "itunes:episode": "6",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/a9bef4e0-5623-44e9-8ee4-aec800e99d95/image.jpg?t=1656943964&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "Episode 6: Knocking on the Door of a Porn Empire",
+                    "link": "https://omny.fm/shows/hot-money/knocking-on-the-door-of-a-porn-empire",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/a9bef4e0-5623-44e9-8ee4-aec800e99d95/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/hot-money/knocking-on-the-door-of-a-porn-empire/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/a9bef4e0-5623-44e9-8ee4-aec800e99d95/image.jpg?t=1656943964&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "a9bef4e0-5623-44e9-8ee4-aec800e99d95",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a9bef4e0-5623-44e9-8ee4-aec800e99d95/transcript?format=SubRip&t=1700529864"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a9bef4e0-5623-44e9-8ee4-aec800e99d95/transcript?format=WebVTT&t=1700529864"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a9bef4e0-5623-44e9-8ee4-aec800e99d95/transcript?format=TextWithTimestamps&t=1700529864"
+                        }
+                    ],
+                    "pubDate": "Tue, 05 Jul 2022 04:01:00 +0000",
+                    "title": "Episode 6: Knocking on the Door of a Porn Empire"
+                },
+                {
+                    "content:encoded": "<p>A billionaire hedge fund manager reads a scathing column about a popular porn site. He<strong> </strong>sends an angry text to the CEO of MasterCard. Almost overnight, the biggest porn company in the world changes dramatically.</p> <p>If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at\u00a0</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>A billionaire hedge fund manager reads a scathing column about a popular porn site. He<strong> </strong>sends an angry text to the CEO of MasterCard. Almost overnight, the biggest porn company in the world changes dramatically.</p> <p>If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at\u00a0</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "36786054",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/b1f3bec8-e9fe-4eb3-9616-aec100ce9336/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
+                    },
+                    "guid": {
+                        "#text": "b1f3bec8-e9fe-4eb3-9616-aec100ce9336",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries & Financial Times",
+                    "itunes:duration": "2295",
+                    "itunes:episode": "5",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/b1f3bec8-e9fe-4eb3-9616-aec100ce9336/image.jpg?t=1656334086&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "Episode 5: The Billionaire Who Took Down Porn",
+                    "link": "https://omny.fm/shows/hot-money/episode-5-the-billionaire-who-took-down-porn",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/b1f3bec8-e9fe-4eb3-9616-aec100ce9336/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/hot-money/episode-5-the-billionaire-who-took-down-porn/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/b1f3bec8-e9fe-4eb3-9616-aec100ce9336/image.jpg?t=1656334086&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "b1f3bec8-e9fe-4eb3-9616-aec100ce9336",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b1f3bec8-e9fe-4eb3-9616-aec100ce9336/transcript?format=SubRip&t=1700529864"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b1f3bec8-e9fe-4eb3-9616-aec100ce9336/transcript?format=WebVTT&t=1700529864"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b1f3bec8-e9fe-4eb3-9616-aec100ce9336/transcript?format=TextWithTimestamps&t=1700529864"
+                        }
+                    ],
+                    "pubDate": "Tue, 28 Jun 2022 04:01:00 +0000",
+                    "title": "Episode 5: The Billionaire Who Took Down Porn"
+                },
+                {
+                    "content:encoded": "<p>How is it legal for porn sites to host millions of videos uploaded by users? The answer is in the story of an Ohio family in the early 1990s.</p> <p>In this episode: a family IT business, an FBI raid and a court case that set the precedent for porn \u2013 and for tech giants like Facebook and Twitter.\u00a0</p> <p>If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at\u00a0</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>How is it legal for porn sites to host millions of videos uploaded by users? The answer is in the story of an Ohio family in the early 1990s.</p> <p>In this episode: a family IT business, an FBI raid and a court case that set the precedent for porn \u2013 and for tech giants like Facebook and Twitter.\u00a0</p> <p>If you\u2019d like to keep up with the most recent news from this and other Pushkin podcasts be sure to\u00a0<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at\u00a0</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "38183701",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/63d0dd7b-c2fc-44c2-910f-aeba013dd2d6/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
+                    },
+                    "guid": {
+                        "#text": "63d0dd7b-c2fc-44c2-910f-aeba013dd2d6",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries & Financial Times",
+                    "itunes:duration": "2383",
+                    "itunes:episode": "4",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/63d0dd7b-c2fc-44c2-910f-aeba013dd2d6/image.jpg?t=1655752786&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "Episode 4: Playboy vs. Rusty and Edie",
+                    "link": "https://omny.fm/shows/hot-money/episode-4-playboy-vs-rusty-and-edie",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/63d0dd7b-c2fc-44c2-910f-aeba013dd2d6/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/hot-money/episode-4-playboy-vs-rusty-and-edie/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/63d0dd7b-c2fc-44c2-910f-aeba013dd2d6/image.jpg?t=1655752786&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "63d0dd7b-c2fc-44c2-910f-aeba013dd2d6",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/63d0dd7b-c2fc-44c2-910f-aeba013dd2d6/transcript?format=SubRip&t=1700529864"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/63d0dd7b-c2fc-44c2-910f-aeba013dd2d6/transcript?format=WebVTT&t=1700529864"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/63d0dd7b-c2fc-44c2-910f-aeba013dd2d6/transcript?format=TextWithTimestamps&t=1700529864"
+                        }
+                    ],
+                    "pubDate": "Tue, 21 Jun 2022 04:01:00 +0000",
+                    "title": "Episode 4: Playboy vs. Rusty and Edie"
+                },
+                {
+                    "content:encoded": "<p>When Fabian Thylmann ran into trouble with the law, a former Goldman Sachs banker swooped in to buy his porn sites. But nobody knew who he was. He managed to keep his identity a secret for years --- until Patricia rumbled his game.&nbsp;</p> <p>If you&rsquo;d like to keep up with the most recent news from this and other Pushkin podcasts be sure to&nbsp;<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at&nbsp;</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>When Fabian Thylmann ran into trouble with the law, a former Goldman Sachs banker swooped in to buy his porn sites. But nobody knew who he was. He managed to keep his identity a secret for years --- until Patricia rumbled his game.&nbsp;</p> <p>If you&rsquo;d like to keep up with the most recent news from this and other Pushkin podcasts be sure to&nbsp;<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at&nbsp;</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "31311193",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/c053f422-e540-4121-8ec9-aeb3013b96d3/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
+                    },
+                    "guid": {
+                        "#text": "c053f422-e540-4121-8ec9-aeb3013b96d3",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries & Financial Times",
+                    "itunes:duration": "1953",
+                    "itunes:episode": "3",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/c053f422-e540-4121-8ec9-aeb3013b96d3/image.jpg?t=1655148031&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "Episode 3: Mr. Goldman, Mr. Sex",
+                    "link": "https://omny.fm/shows/hot-money/episode-3-mr-goldman-mr-sex",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/c053f422-e540-4121-8ec9-aeb3013b96d3/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/hot-money/episode-3-mr-goldman-mr-sex/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/c053f422-e540-4121-8ec9-aeb3013b96d3/image.jpg?t=1655148031&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "c053f422-e540-4121-8ec9-aeb3013b96d3",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c053f422-e540-4121-8ec9-aeb3013b96d3/transcript?format=SubRip&t=1700529864"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c053f422-e540-4121-8ec9-aeb3013b96d3/transcript?format=WebVTT&t=1700529864"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c053f422-e540-4121-8ec9-aeb3013b96d3/transcript?format=TextWithTimestamps&t=1700529864"
+                        }
+                    ],
+                    "pubDate": "Tue, 14 Jun 2022 04:01:00 +0000",
+                    "title": "Episode 3: Mr. Goldman, Mr. Sex"
+                },
+                {
+                    "content:encoded": "<p>A decade ago, a computer programmer named Fabian Thylmann began to build one of the biggest porn empires in the world.</p> <p>How did Fabian do it? He was good with money in a business that was starved of finance. He convinced Wall Street to bankroll his vision to take control of the industry.</p> <p>If you&rsquo;d like to keep up with the most recent news from this and other Pushkin podcasts be sure to&nbsp;<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at&nbsp;</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>A decade ago, a computer programmer named Fabian Thylmann began to build one of the biggest porn empires in the world.</p> <p>How did Fabian do it? He was good with money in a business that was starved of finance. He convinced Wall Street to bankroll his vision to take control of the industry.</p> <p>If you&rsquo;d like to keep up with the most recent news from this and other Pushkin podcasts be sure to&nbsp;<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at&nbsp;</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "31716616",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/03c41443-af82-458d-abc5-aeac0144979b/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
+                    },
+                    "guid": {
+                        "#text": "03c41443-af82-458d-abc5-aeac0144979b",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries & Financial Times",
+                    "itunes:duration": "1979",
+                    "itunes:episode": "2",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/03c41443-af82-458d-abc5-aeac0144979b/image.jpg?t=1654545856&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "Episode 2: The Darth Vader of Porn",
+                    "link": "https://omny.fm/shows/hot-money/the-darth-vader-of-porn",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/03c41443-af82-458d-abc5-aeac0144979b/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/hot-money/the-darth-vader-of-porn/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/03c41443-af82-458d-abc5-aeac0144979b/image.jpg?t=1654545856&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "03c41443-af82-458d-abc5-aeac0144979b",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/03c41443-af82-458d-abc5-aeac0144979b/transcript?format=SubRip&t=1700529862"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/03c41443-af82-458d-abc5-aeac0144979b/transcript?format=WebVTT&t=1700529862"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/03c41443-af82-458d-abc5-aeac0144979b/transcript?format=TextWithTimestamps&t=1700529862"
+                        }
+                    ],
+                    "pubDate": "Tue, 07 Jun 2022 04:01:00 +0000",
+                    "title": "Episode 2: The Darth Vader of Porn"
+                },
+                {
+                    "content:encoded": "<p>Stoya is a porn star who saw first-hand how a firehose of free porn online transformed the adult industry.</p> <p>She sends hosts Alex Barker and Patricia Nilsson a quest: Find out who is in charge, and get to the bottom of how the business of porn really works.</p> <p>If you&rsquo;d like to keep up with the most recent news from this and other Pushkin podcasts be sure to&nbsp;<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at&nbsp;</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>Stoya is a porn star who saw first-hand how a firehose of free porn online transformed the adult industry.</p> <p>She sends hosts Alex Barker and Patricia Nilsson a quest: Find out who is in charge, and get to the bottom of how the business of porn really works.</p> <p>If you&rsquo;d like to keep up with the most recent news from this and other Pushkin podcasts be sure to&nbsp;<a href=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-stringify-link=\"https://pushkin.us20.list-manage.com/subscribe?u=ec28005461416f0b42178894f&amp;id=1694c40f69\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">sign up for our email list at&nbsp;</a><a href=\"http://pushkin.fm/\" data-stringify-link=\"http://Pushkin.fm\" data-sk=\"tooltip_parent\" data-remove-tab-index=\"true\">Pushkin.fm</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "31159894",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/b30e253a-6593-4aab-8ec8-aeac0135654a/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
+                    },
+                    "guid": {
+                        "#text": "b30e253a-6593-4aab-8ec8-aeac0135654a",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries & Financial Times",
+                    "itunes:duration": "1944",
+                    "itunes:episode": "1",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/b30e253a-6593-4aab-8ec8-aeac0135654a/image.jpg?t=1654542061&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "Episode 1: Porn Meets the Internet",
+                    "link": "https://omny.fm/shows/hot-money/porn-meets-the-internet",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/b30e253a-6593-4aab-8ec8-aeac0135654a/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/hot-money/porn-meets-the-internet/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/b30e253a-6593-4aab-8ec8-aeac0135654a/image.jpg?t=1654542061&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "b30e253a-6593-4aab-8ec8-aeac0135654a",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b30e253a-6593-4aab-8ec8-aeac0135654a/transcript?format=SubRip&t=1700529858"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b30e253a-6593-4aab-8ec8-aeac0135654a/transcript?format=WebVTT&t=1700529858"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b30e253a-6593-4aab-8ec8-aeac0135654a/transcript?format=TextWithTimestamps&t=1700529858"
+                        }
+                    ],
+                    "pubDate": "Mon, 06 Jun 2022 19:35:27 +0000",
+                    "title": "Episode 1: Porn Meets the Internet"
+                },
+                {
+                    "content:encoded": "<p>When Financial Times reporter Patricia Nilsson started digging into the porn industry, she made a shocking discovery: Nobody knew who controlled the biggest porn company in the world. Now, Nilsson and her editor, Alex Barker, have figured out who the guy was, and much more. Their reporting reveals a shadowy power structure that includes billionaires, tech geniuses and the most powerful finance companies in the world. Coming June 7th.&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>When Financial Times reporter Patricia Nilsson started digging into the porn industry, she made a shocking discovery: Nobody knew who controlled the biggest porn company in the world. Now, Nilsson and her editor, Alex Barker, have figured out who the guy was, and much more. Their reporting reveals a shadowy power structure that includes billionaires, tech geniuses and the most powerful finance companies in the world. Coming June 7th.&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "3097423",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/5a72d49b-6374-4855-b965-aea000b2b670/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c"
+                    },
+                    "guid": {
+                        "#text": "5a72d49b-6374-4855-b965-aea000b2b670",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries & Financial Times",
+                    "itunes:duration": "190",
+                    "itunes:episodeType": "trailer",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/5a72d49b-6374-4855-b965-aea000b2b670/image.jpg?t=1653477531&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "Hot Money: Who Rules Porn?",
+                    "link": "https://omny.fm/shows/hot-money/hot-money-who-rules-porn",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/f2808b/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/5a72d49b-6374-4855-b965-aea000b2b670/audio.mp3?utm_source=Podcast&in_playlist=0f0d9558-3e6e-4af7-971b-ae860127535c",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/hot-money/hot-money-who-rules-porn/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/5a72d49b-6374-4855-b965-aea000b2b670/image.jpg?t=1653477531&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "5a72d49b-6374-4855-b965-aea000b2b670",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5a72d49b-6374-4855-b965-aea000b2b670/transcript?format=SubRip&t=1700529854"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5a72d49b-6374-4855-b965-aea000b2b670/transcript?format=WebVTT&t=1700529854"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5a72d49b-6374-4855-b965-aea000b2b670/transcript?format=TextWithTimestamps&t=1700529854"
+                        }
+                    ],
+                    "pubDate": "Wed, 25 May 2022 11:23:20 +0000",
+                    "title": "Hot Money: Who Rules Porn?"
+                }
+            ],
+            "itunes:author": "Pushkin Industries & Financial Times",
+            "itunes:category": [
+                {
+                    "@text": "Business"
+                },
+                {
+                    "@text": "Society & Culture"
+                },
+                {
+                    "@text": "Technology"
+                },
+                {
+                    "@text": "Health & Fitness",
+                    "itunes:category": {
+                        "@text": "Sexuality"
                     }
-                ]
-            }
-        ],
-        "explicit": "no",
-        "image": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/0f0d9558-3e6e-4af7-971b-ae860127535c/image.jpg?t=1700593033&size=Large",
-        "owner": {
-            "email": "feeds@pushkin.fm",
-            "name": "Pushkin Industries"
-        },
-        "summary": "Hot Money is back. In this series, Financial Times reporter Miles Johnson investigates a mysterious murder in a small town that leads to a web of drugs, money laundering and state-sponsored assassinations stretching from Dublin to Dubai. At the centre is a cocaine super cartel that is revolutionising the global drugs market. This eight-part investigative podcast, published twice-weekly, probes the links between criminals and legitimate businesses, and between governments and gangsters."
-    },
-    "language": "en-US",
-    "link": "https://www.iheart.com/podcast/1297-hot-money-who-rules-porn-97459449/",
-    "paginationLinks": {
-        "first": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/0f0d9558-3e6e-4af7-971b-ae860127535c/podcast.rss?page=1",
-        "last": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/0f0d9558-3e6e-4af7-971b-ae860127535c/podcast.rss?page=1",
-        "self": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/0f0d9558-3e6e-4af7-971b-ae860127535c/podcast.rss"
-    },
-    "palette": [
-        "6D310E",
-        "E08E29",
-        "170806",
-        "A7A7A7",
-        "9F7338",
-        "929192"
-    ],
-    "title": "Hot Money: The New Narcos"
+                }
+            ],
+            "itunes:explicit": "no",
+            "itunes:image": {
+                "@href": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/0f0d9558-3e6e-4af7-971b-ae860127535c/image.jpg?t=1700593033&size=Large"
+            },
+            "itunes:owner": {
+                "itunes:email": "feeds@pushkin.fm",
+                "itunes:name": "Pushkin Industries"
+            },
+            "itunes:summary": "Hot Money is back. In this series, Financial Times reporter Miles Johnson investigates a mysterious murder in a small town that leads to a web of drugs, money laundering and state-sponsored assassinations stretching from Dublin to Dubai. At the centre is a cocaine super cartel that is revolutionising the global drugs market. This eight-part investigative podcast, published twice-weekly, probes the links between criminals and legitimate businesses, and between governments and gangsters.",
+            "itunes:type": "serial",
+            "language": "en-US",
+            "link": "https://www.iheart.com/podcast/1297-hot-money-who-rules-porn-97459449/",
+            "omny:networkId": "de2d5a4d-9a01-4513-bc1d-ae3e01435926",
+            "omny:organizationId": "e73c998e-6e60-432f-8610-ae210140c5b1",
+            "omny:playlistId": "0f0d9558-3e6e-4af7-971b-ae860127535c",
+            "omny:programId": "6a4a4e0f-8e8d-40e5-9d99-ae8601259b78",
+            "title": "Hot Money: The New Narcos"
+        }
+    }
 }

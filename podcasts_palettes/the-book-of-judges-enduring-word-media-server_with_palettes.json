@@ -1,394 +1,378 @@
 {
-    "copyright": "Enduring Word 2018",
-    "description": "Audio and Video Server For Enduring Word",
-    "feedUrl": "https://media.enduringword.com/podcasts/judges/feed/",
-    "generator": "https://wordpress.org/?v=5.0.22",
-    "items": [
-        {
-            "categories": [
-                "The Book of Judges",
-                "History",
-                "Old Testament"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:slash": "http://purl.org/rss/1.0/modules/slash/",
+        "@xmlns:sy": "http://purl.org/rss/1.0/modules/syndication/",
+        "@xmlns:wfw": "http://wellformedweb.org/CommentAPI/",
+        "channel": {
+            "atom:link": {
+                "@href": "https://media.enduringword.com/podcasts/judges/feed/",
+                "@rel": "self",
+                "@type": "application/rss+xml"
+            },
+            "copyright": "Enduring Word 2018",
+            "description": "Audio and Video Server For Enduring Word",
+            "generator": "https://wordpress.org/?v=5.0.22",
+            "item": [
+                {
+                    "category": [
+                        "The Book of Judges",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/judges-20-21-a-tribe-nearly-destroyed-a-tribe-renewed/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26583-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges20-21-a-tribe-nearly-destroyed-a-tribe-renewed.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges20-21-a-tribe-nearly-destroyed-a-tribe-renewed.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges20-21-a-tribe-nearly-destroyed-a-tribe-renewed.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Judges20-21-a-tribe-nearly-destroyed-a-tribe-renewed.mp3",
+                    "enclosure": {
+                        "@length": "22638461",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Judges20-21-a-tribe-nearly-destroyed-a-tribe-renewed.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/judges-20-21-a-tribe-nearly-destroyed-a-tribe-renewed/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges20-21-a-tribe-nearly-destroyed-a-tribe-renewed.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges20-21-a-tribe-nearly-destroyed-a-tribe-renewed.mp3",
+                    "link": "https://media.enduringword.com/judges-20-21-a-tribe-nearly-destroyed-a-tribe-renewed/",
+                    "pubDate": "Sat, 13 Feb 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Judges 20-21 \u2013 A Tribe Nearly Destroyed, a Tribe Renewed",
+                    "wfw:commentRss": "https://media.enduringword.com/judges-20-21-a-tribe-nearly-destroyed-a-tribe-renewed/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Judges",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/judges-191-2011-gibeahs-crime/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26582-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges19_1-20_11-gibeahs-crime.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges19_1-20_11-gibeahs-crime.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges19_1-20_11-gibeahs-crime.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Judges19_1-20_11-gibeahs-crime.mp3",
+                    "enclosure": {
+                        "@length": "19554520",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Judges19_1-20_11-gibeahs-crime.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/judges-191-2011-gibeahs-crime/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges19_1-20_11-gibeahs-crime.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges19_1-20_11-gibeahs-crime.mp3",
+                    "link": "https://media.enduringword.com/judges-191-2011-gibeahs-crime/",
+                    "pubDate": "Fri, 12 Feb 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Judges 19:1-20:11 \u2013 Gibeah\u2019s Crime",
+                    "wfw:commentRss": "https://media.enduringword.com/judges-191-2011-gibeahs-crime/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Judges",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/judges-15-16-the-end-of-samson-the-cost-of-disobedience/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26581-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges15-16-end-of-samson-cost-of-disobedience.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges15-16-end-of-samson-cost-of-disobedience.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges15-16-end-of-samson-cost-of-disobedience.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Judges15-16-end-of-samson-cost-of-disobedience.mp3",
+                    "enclosure": {
+                        "@length": "22592690",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Judges15-16-end-of-samson-cost-of-disobedience.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/judges-15-16-the-end-of-samson-the-cost-of-disobedience/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges15-16-end-of-samson-cost-of-disobedience.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges15-16-end-of-samson-cost-of-disobedience.mp3",
+                    "link": "https://media.enduringword.com/judges-15-16-the-end-of-samson-the-cost-of-disobedience/",
+                    "pubDate": "Thu, 11 Feb 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Judges 15-16 \u2013 The End of Samson, the Cost of Disobedience",
+                    "wfw:commentRss": "https://media.enduringword.com/judges-15-16-the-end-of-samson-the-cost-of-disobedience/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Judges",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/judges-128-1420-samson/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26580-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges12_8-14_20-samson.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges12_8-14_20-samson.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges12_8-14_20-samson.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Judges12_8-14_20-samson.mp3",
+                    "enclosure": {
+                        "@length": "23503379",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Judges12_8-14_20-samson.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/judges-128-1420-samson/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges12_8-14_20-samson.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges12_8-14_20-samson.mp3",
+                    "link": "https://media.enduringword.com/judges-128-1420-samson/",
+                    "pubDate": "Wed, 10 Feb 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Judges 12:8-14:20 \u2013 Samson",
+                    "wfw:commentRss": "https://media.enduringword.com/judges-128-1420-samson/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Judges",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/judges-9-the-rise-and-fall-of-a-leader/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26579-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges09-rise-and-fall-of-a-leader.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges09-rise-and-fall-of-a-leader.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges09-rise-and-fall-of-a-leader.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Judges09-rise-and-fall-of-a-leader.mp3",
+                    "enclosure": {
+                        "@length": "19083277",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Judges09-rise-and-fall-of-a-leader.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/judges-9-the-rise-and-fall-of-a-leader/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges09-rise-and-fall-of-a-leader.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges09-rise-and-fall-of-a-leader.mp3",
+                    "link": "https://media.enduringword.com/judges-9-the-rise-and-fall-of-a-leader/",
+                    "pubDate": "Tue, 09 Feb 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Judges 9 \u2013 The Rise and Fall of a Leader",
+                    "wfw:commentRss": "https://media.enduringword.com/judges-9-the-rise-and-fall-of-a-leader/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Judges",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/judges-8-when-winning-wasnt-enough/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26578-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges08-when-winning-wasnt-enough.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges08-when-winning-wasnt-enough.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges08-when-winning-wasnt-enough.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Judges08-when-winning-wasnt-enough.mp3",
+                    "enclosure": {
+                        "@length": "22437187",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Judges08-when-winning-wasnt-enough.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/judges-8-when-winning-wasnt-enough/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges08-when-winning-wasnt-enough.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges08-when-winning-wasnt-enough.mp3",
+                    "link": "https://media.enduringword.com/judges-8-when-winning-wasnt-enough/",
+                    "pubDate": "Mon, 08 Feb 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Judges 8 \u2013 When Winning Wasn\u2019t Enough",
+                    "wfw:commentRss": "https://media.enduringword.com/judges-8-when-winning-wasnt-enough/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Judges",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/judges-6-the-call-of-gideon/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26577-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges06-call-of-gideon.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges06-call-of-gideon.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges06-call-of-gideon.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Judges06-call-of-gideon.mp3",
+                    "enclosure": {
+                        "@length": "25022465",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Judges06-call-of-gideon.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/judges-6-the-call-of-gideon/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges06-call-of-gideon.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges06-call-of-gideon.mp3",
+                    "link": "https://media.enduringword.com/judges-6-the-call-of-gideon/",
+                    "pubDate": "Sun, 07 Feb 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Judges 6 \u2013 The Call of Gideon",
+                    "wfw:commentRss": "https://media.enduringword.com/judges-6-the-call-of-gideon/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Judges",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/judges-4-5-deborah-and-barak/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26576-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges04-05-deborah-and-barak.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges04-05-deborah-and-barak.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges04-05-deborah-and-barak.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Judges04-05-deborah-and-barak.mp3",
+                    "enclosure": {
+                        "@length": "24506914",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Judges04-05-deborah-and-barak.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/judges-4-5-deborah-and-barak/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges04-05-deborah-and-barak.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges04-05-deborah-and-barak.mp3",
+                    "link": "https://media.enduringword.com/judges-4-5-deborah-and-barak/",
+                    "pubDate": "Sat, 06 Feb 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Judges 4-5 \u2013 Deborah and Barak",
+                    "wfw:commentRss": "https://media.enduringword.com/judges-4-5-deborah-and-barak/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Judges",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/judges-3-the-first-three-judges/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26575-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges03-the-first-three-judges.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges03-the-first-three-judges.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges03-the-first-three-judges.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Judges03-the-first-three-judges.mp3",
+                    "enclosure": {
+                        "@length": "21893000",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Judges03-the-first-three-judges.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/judges-3-the-first-three-judges/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges03-the-first-three-judges.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges03-the-first-three-judges.mp3",
+                    "link": "https://media.enduringword.com/judges-3-the-first-three-judges/",
+                    "pubDate": "Fri, 05 Feb 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Judges 3 \u2013 The First Three Judges",
+                    "wfw:commentRss": "https://media.enduringword.com/judges-3-the-first-three-judges/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Judges",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/judges-2-israels-failure-gods-mercy/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26574-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges02-israels-failure-gods-mercy.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges02-israels-failure-gods-mercy.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges02-israels-failure-gods-mercy.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Judges02-israels-failure-gods-mercy.mp3",
+                    "enclosure": {
+                        "@length": "24358556",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Judges02-israels-failure-gods-mercy.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/judges-2-israels-failure-gods-mercy/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges02-israels-failure-gods-mercy.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges02-israels-failure-gods-mercy.mp3",
+                    "link": "https://media.enduringword.com/judges-2-israels-failure-gods-mercy/",
+                    "pubDate": "Thu, 04 Feb 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Judges 2 \u2013 Israel\u2019s Failure, God\u2019s Mercy",
+                    "wfw:commentRss": "https://media.enduringword.com/judges-2-israels-failure-gods-mercy/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Judges",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/judges-1-victory-and-defeat-in-the-promised-land/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26573-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges01-victory-and-defeat-in-the-promised-land.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges01-victory-and-defeat-in-the-promised-land.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges01-victory-and-defeat-in-the-promised-land.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Judges01-victory-and-defeat-in-the-promised-land.mp3",
+                    "enclosure": {
+                        "@length": "23151500",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Judges01-victory-and-defeat-in-the-promised-land.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/judges-1-victory-and-defeat-in-the-promised-land/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges01-victory-and-defeat-in-the-promised-land.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges01-victory-and-defeat-in-the-promised-land.mp3",
+                    "link": "https://media.enduringword.com/judges-1-victory-and-defeat-in-the-promised-land/",
+                    "pubDate": "Wed, 03 Feb 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Judges 1 \u2013 Victory and Defeat in the Promised Land",
+                    "wfw:commentRss": "https://media.enduringword.com/judges-1-victory-and-defeat-in-the-promised-land/feed/"
+                }
             ],
-            "comments": "https://media.enduringword.com/judges-20-21-a-tribe-nearly-destroyed-a-tribe-renewed/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Judges20-21-a-tribe-nearly-destroyed-a-tribe-renewed.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26583-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges20-21-a-tribe-nearly-destroyed-a-tribe-renewed.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges20-21-a-tribe-nearly-destroyed-a-tribe-renewed.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges20-21-a-tribe-nearly-destroyed-a-tribe-renewed.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges20-21-a-tribe-nearly-destroyed-a-tribe-renewed.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges20-21-a-tribe-nearly-destroyed-a-tribe-renewed.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "22638461",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Judges20-21-a-tribe-nearly-destroyed-a-tribe-renewed.mp3"
+            "itunes:author": "David Guzik",
+            "itunes:category": {
+                "@text": "Religion & Spirituality",
+                "itunes:category": {
+                    "@text": "Christianity"
+                }
             },
-            "guid": "https://media.enduringword.com/judges-20-21-a-tribe-nearly-destroyed-a-tribe-renewed/",
-            "isoDate": "2016-02-13T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges20-21-a-tribe-nearly-destroyed-a-tribe-renewed.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges20-21-a-tribe-nearly-destroyed-a-tribe-renewed.mp3"
+            "itunes:explicit": "no",
+            "itunes:image": {
+                "@href": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_007_judges.jpg"
             },
-            "link": "https://media.enduringword.com/judges-20-21-a-tribe-nearly-destroyed-a-tribe-renewed/",
-            "pubDate": "Sat, 13 Feb 2016 07:00:00 +0000",
-            "title": "Judges 20-21 \u2013 A Tribe Nearly Destroyed, a Tribe Renewed"
-        },
-        {
-            "categories": [
-                "The Book of Judges",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/judges-191-2011-gibeahs-crime/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Judges19_1-20_11-gibeahs-crime.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26582-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges19_1-20_11-gibeahs-crime.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges19_1-20_11-gibeahs-crime.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges19_1-20_11-gibeahs-crime.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges19_1-20_11-gibeahs-crime.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges19_1-20_11-gibeahs-crime.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "19554520",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Judges19_1-20_11-gibeahs-crime.mp3"
+            "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
+            "itunes:owner": {
+                "itunes:email": "admin@enduringword.com",
+                "itunes:name": "David Guzik"
             },
-            "guid": "https://media.enduringword.com/judges-191-2011-gibeahs-crime/",
-            "isoDate": "2016-02-12T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges19_1-20_11-gibeahs-crime.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges19_1-20_11-gibeahs-crime.mp3"
-            },
-            "link": "https://media.enduringword.com/judges-191-2011-gibeahs-crime/",
-            "pubDate": "Fri, 12 Feb 2016 07:00:00 +0000",
-            "title": "Judges 19:1-20:11 \u2013 Gibeah\u2019s Crime"
-        },
-        {
-            "categories": [
-                "The Book of Judges",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/judges-15-16-the-end-of-samson-the-cost-of-disobedience/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Judges15-16-end-of-samson-cost-of-disobedience.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26581-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges15-16-end-of-samson-cost-of-disobedience.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges15-16-end-of-samson-cost-of-disobedience.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges15-16-end-of-samson-cost-of-disobedience.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges15-16-end-of-samson-cost-of-disobedience.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges15-16-end-of-samson-cost-of-disobedience.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "22592690",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Judges15-16-end-of-samson-cost-of-disobedience.mp3"
-            },
-            "guid": "https://media.enduringword.com/judges-15-16-the-end-of-samson-the-cost-of-disobedience/",
-            "isoDate": "2016-02-11T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges15-16-end-of-samson-cost-of-disobedience.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges15-16-end-of-samson-cost-of-disobedience.mp3"
-            },
-            "link": "https://media.enduringword.com/judges-15-16-the-end-of-samson-the-cost-of-disobedience/",
-            "pubDate": "Thu, 11 Feb 2016 07:00:00 +0000",
-            "title": "Judges 15-16 \u2013 The End of Samson, the Cost of Disobedience"
-        },
-        {
-            "categories": [
-                "The Book of Judges",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/judges-128-1420-samson/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Judges12_8-14_20-samson.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26580-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges12_8-14_20-samson.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges12_8-14_20-samson.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges12_8-14_20-samson.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges12_8-14_20-samson.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges12_8-14_20-samson.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "23503379",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Judges12_8-14_20-samson.mp3"
-            },
-            "guid": "https://media.enduringword.com/judges-128-1420-samson/",
-            "isoDate": "2016-02-10T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges12_8-14_20-samson.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges12_8-14_20-samson.mp3"
-            },
-            "link": "https://media.enduringword.com/judges-128-1420-samson/",
-            "pubDate": "Wed, 10 Feb 2016 07:00:00 +0000",
-            "title": "Judges 12:8-14:20 \u2013 Samson"
-        },
-        {
-            "categories": [
-                "The Book of Judges",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/judges-9-the-rise-and-fall-of-a-leader/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Judges09-rise-and-fall-of-a-leader.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26579-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges09-rise-and-fall-of-a-leader.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges09-rise-and-fall-of-a-leader.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges09-rise-and-fall-of-a-leader.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges09-rise-and-fall-of-a-leader.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges09-rise-and-fall-of-a-leader.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "19083277",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Judges09-rise-and-fall-of-a-leader.mp3"
-            },
-            "guid": "https://media.enduringword.com/judges-9-the-rise-and-fall-of-a-leader/",
-            "isoDate": "2016-02-09T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges09-rise-and-fall-of-a-leader.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges09-rise-and-fall-of-a-leader.mp3"
-            },
-            "link": "https://media.enduringword.com/judges-9-the-rise-and-fall-of-a-leader/",
-            "pubDate": "Tue, 09 Feb 2016 07:00:00 +0000",
-            "title": "Judges 9 \u2013 The Rise and Fall of a Leader"
-        },
-        {
-            "categories": [
-                "The Book of Judges",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/judges-8-when-winning-wasnt-enough/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Judges08-when-winning-wasnt-enough.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26578-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges08-when-winning-wasnt-enough.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges08-when-winning-wasnt-enough.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges08-when-winning-wasnt-enough.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges08-when-winning-wasnt-enough.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges08-when-winning-wasnt-enough.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "22437187",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Judges08-when-winning-wasnt-enough.mp3"
-            },
-            "guid": "https://media.enduringword.com/judges-8-when-winning-wasnt-enough/",
-            "isoDate": "2016-02-08T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges08-when-winning-wasnt-enough.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges08-when-winning-wasnt-enough.mp3"
-            },
-            "link": "https://media.enduringword.com/judges-8-when-winning-wasnt-enough/",
-            "pubDate": "Mon, 08 Feb 2016 07:00:00 +0000",
-            "title": "Judges 8 \u2013 When Winning Wasn\u2019t Enough"
-        },
-        {
-            "categories": [
-                "The Book of Judges",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/judges-6-the-call-of-gideon/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Judges06-call-of-gideon.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26577-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges06-call-of-gideon.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges06-call-of-gideon.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges06-call-of-gideon.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges06-call-of-gideon.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges06-call-of-gideon.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "25022465",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Judges06-call-of-gideon.mp3"
-            },
-            "guid": "https://media.enduringword.com/judges-6-the-call-of-gideon/",
-            "isoDate": "2016-02-07T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges06-call-of-gideon.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges06-call-of-gideon.mp3"
-            },
-            "link": "https://media.enduringword.com/judges-6-the-call-of-gideon/",
-            "pubDate": "Sun, 07 Feb 2016 07:00:00 +0000",
-            "title": "Judges 6 \u2013 The Call of Gideon"
-        },
-        {
-            "categories": [
-                "The Book of Judges",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/judges-4-5-deborah-and-barak/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Judges04-05-deborah-and-barak.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26576-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges04-05-deborah-and-barak.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges04-05-deborah-and-barak.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges04-05-deborah-and-barak.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges04-05-deborah-and-barak.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges04-05-deborah-and-barak.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "24506914",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Judges04-05-deborah-and-barak.mp3"
-            },
-            "guid": "https://media.enduringword.com/judges-4-5-deborah-and-barak/",
-            "isoDate": "2016-02-06T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges04-05-deborah-and-barak.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges04-05-deborah-and-barak.mp3"
-            },
-            "link": "https://media.enduringword.com/judges-4-5-deborah-and-barak/",
-            "pubDate": "Sat, 06 Feb 2016 07:00:00 +0000",
-            "title": "Judges 4-5 \u2013 Deborah and Barak"
-        },
-        {
-            "categories": [
-                "The Book of Judges",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/judges-3-the-first-three-judges/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Judges03-the-first-three-judges.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26575-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges03-the-first-three-judges.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges03-the-first-three-judges.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges03-the-first-three-judges.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges03-the-first-three-judges.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges03-the-first-three-judges.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "21893000",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Judges03-the-first-three-judges.mp3"
-            },
-            "guid": "https://media.enduringword.com/judges-3-the-first-three-judges/",
-            "isoDate": "2016-02-05T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges03-the-first-three-judges.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges03-the-first-three-judges.mp3"
-            },
-            "link": "https://media.enduringword.com/judges-3-the-first-three-judges/",
-            "pubDate": "Fri, 05 Feb 2016 07:00:00 +0000",
-            "title": "Judges 3 \u2013 The First Three Judges"
-        },
-        {
-            "categories": [
-                "The Book of Judges",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/judges-2-israels-failure-gods-mercy/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Judges02-israels-failure-gods-mercy.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26574-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges02-israels-failure-gods-mercy.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges02-israels-failure-gods-mercy.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges02-israels-failure-gods-mercy.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges02-israels-failure-gods-mercy.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges02-israels-failure-gods-mercy.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "24358556",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Judges02-israels-failure-gods-mercy.mp3"
-            },
-            "guid": "https://media.enduringword.com/judges-2-israels-failure-gods-mercy/",
-            "isoDate": "2016-02-04T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges02-israels-failure-gods-mercy.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges02-israels-failure-gods-mercy.mp3"
-            },
-            "link": "https://media.enduringword.com/judges-2-israels-failure-gods-mercy/",
-            "pubDate": "Thu, 04 Feb 2016 07:00:00 +0000",
-            "title": "Judges 2 \u2013 Israel\u2019s Failure, God\u2019s Mercy"
-        },
-        {
-            "categories": [
-                "The Book of Judges",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/judges-1-victory-and-defeat-in-the-promised-land/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Judges01-victory-and-defeat-in-the-promised-land.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26573-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Judges01-victory-and-defeat-in-the-promised-land.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Judges01-victory-and-defeat-in-the-promised-land.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Judges01-victory-and-defeat-in-the-promised-land.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges01-victory-and-defeat-in-the-promised-land.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Judges01-victory-and-defeat-in-the-promised-land.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "23151500",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Judges01-victory-and-defeat-in-the-promised-land.mp3"
-            },
-            "guid": "https://media.enduringword.com/judges-1-victory-and-defeat-in-the-promised-land/",
-            "isoDate": "2016-02-03T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,Judges",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Judges01-victory-and-defeat-in-the-promised-land.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Judges01-victory-and-defeat-in-the-promised-land.mp3"
-            },
-            "link": "https://media.enduringword.com/judges-1-victory-and-defeat-in-the-promised-land/",
-            "pubDate": "Wed, 03 Feb 2016 07:00:00 +0000",
-            "title": "Judges 1 \u2013 Victory and Defeat in the Promised Land"
+            "itunes:subtitle": "Enduring Word Commentary Series \u2013\u00a0The Book of Judges",
+            "itunes:summary": "Pastor David Guzik preaches through the Old Testament Book of Judges.",
+            "language": "en-US",
+            "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
+            "link": "https://media.enduringword.com",
+            "sy:updateFrequency": "1",
+            "sy:updatePeriod": "hourly",
+            "title": "The Book of Judges \u2013 Enduring Word Media Server"
         }
-    ],
-    "itunes": {
-        "author": "David Guzik",
-        "categories": [
-            "Religion & Spirituality"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Religion & Spirituality",
-                "subs": [
-                    {
-                        "name": "Christianity"
-                    }
-                ]
-            }
-        ],
-        "explicit": "no",
-        "image": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_007_judges.jpg",
-        "keywords": [
-            "Bible",
-            "David",
-            "Guzik",
-            "Enduring",
-            "Word",
-            "Commentary",
-            "Old",
-            "Testament",
-            "Book",
-            "of",
-            "Judges"
-        ],
-        "owner": {
-            "email": "admin@enduringword.com",
-            "name": "David Guzik"
-        },
-        "subtitle": "Enduring Word Commentary Series \u2013\u00a0The Book of Judges",
-        "summary": "Pastor David Guzik preaches through the Old Testament Book of Judges."
-    },
-    "language": "en-US",
-    "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
-    "link": "https://media.enduringword.com",
-    "paginationLinks": {
-        "self": "https://media.enduringword.com/podcasts/judges/feed/"
-    },
-    "palette": [],
-    "title": "The Book of Judges \u2013 Enduring Word Media Server"
+    }
 }

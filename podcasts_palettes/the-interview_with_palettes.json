@@ -1,706 +1,935 @@
 {
-    "copyright": "2024 The New York Times",
-    "description": "Conversations with the world\u2019s most fascinating people. Each week, hosts David Marchese and Lulu Garcia-Navarro talk to compelling, influential figures in culture, politics, business, sports and beyond \u2014 illuminating who they are, why they do what they do and how they impact the rest of us. New episodes every Saturday.",
-    "feedUrl": "https://feeds.simplecast.com/ksGYZ_Z3",
-    "generator": "https://simplecast.com",
-    "image": {
-        "link": "https://www.nytimes.com/column/the-interview",
-        "title": "The Interview",
-        "url": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/0bc389cf-b421-4727-8fda-e8c1fd983aba/3000x3000/nyt-theinterview-3000px.jpg?aid=rss_feed"
-    },
-    "items": [
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "The host of \"Last Week Tonight\" talks about what he\u2019s learned in the ten years of making the show, why he doesn't consider himself a journalist and not giving in to nihilism. \n",
-            "contentSnippet": "The host of \"Last Week Tonight\" talks about what he\u2019s learned in the ten years of making the show, why he doesn't consider himself a journalist and not giving in to nihilism.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "39363128",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/51f1655e-c565-4561-9650-90ad56475ddf/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=51f1655e-c565-4561-9650-90ad56475ddf&feed=ksGYZ_Z3"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:googleplay": "http://www.google.com/schemas/play-podcasts/1.0",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:media": "http://search.yahoo.com/mrss/",
+        "@xmlns:podcast": "https://podcastindex.org/namespace/1.0",
+        "channel": {
+            "atom:link": [
+                {
+                    "@href": "https://feeds.simplecast.com/ksGYZ_Z3",
+                    "@rel": "self",
+                    "@title": "MP3 Audio",
+                    "@type": "application/atom+xml"
+                },
+                {
+                    "@href": "https://simplecast.superfeedr.com",
+                    "@rel": "hub",
+                    "@xmlns": "http://www.w3.org/2005/Atom"
+                }
+            ],
+            "copyright": "2024 The New York Times",
+            "description": "Conversations with the world\u2019s most fascinating people. Each week, hosts David Marchese and Lulu Garcia-Navarro talk to compelling, influential figures in culture, politics, business, sports and beyond \u2014 illuminating who they are, why they do what they do and how they impact the rest of us. New episodes every Saturday.",
+            "generator": "https://simplecast.com",
+            "image": {
+                "link": "https://www.nytimes.com/column/the-interview",
+                "palette": [
+                    "232323",
+                    "A0A0A0",
+                    "6F6F6F",
+                    "8C8C8C",
+                    "949494",
+                    "5C5C5C"
+                ],
+                "title": "The Interview",
+                "url": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/0bc389cf-b421-4727-8fda-e8c1fd983aba/3000x3000/nyt-theinterview-3000px.jpg?aid=rss_feed"
             },
-            "guid": "bf166450-504f-4842-9eb3-922aa6ec9bd9",
-            "isoDate": "2024-09-28T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:41:00",
-                "episode": "24",
-                "episodeType": "full",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/77c9d93d-d8f7-43ae-9567-947dd4adc1af/3000x3000/28theinteview-oliver-applespotify-small.jpg?aid=rss_feed",
-                "subtitle": "The host of \"Last Week Tonight\" talks about what he\u2019s learned in the ten years of making the show, why he doesn't consider himself a journalist and not giving in to nihilism. ",
-                "summary": "The host of \"Last Week Tonight\" talks about what he\u2019s learned in the ten years of making the show, why he doesn't consider himself a journalist and not giving in to nihilism. "
+            "item": [
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "The Republican vice-presidential candidate rejects the idea that he\u2019s changed, defends his rhetoric and still won\u2019t say if Trump lost in 2020.\n",
+                    "enclosure": {
+                        "@length": "53949899",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/2fedb036-3bb7-40a7-9f45-27d1ab513590/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=2fedb036-3bb7-40a7-9f45-27d1ab513590&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "6f6e5c5e-93ff-44f5-95b9-ed8740db8d64",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:56:11",
+                    "itunes:episode": "26",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/ffa168de-9772-476b-b169-9353c6cc9e38/3000x3000/12interview-vance-applespotify-small.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "The Republican vice-presidential candidate rejects the idea that he\u2019s changed, defends his rhetoric and still won\u2019t say if Trump lost in 2020.",
+                    "itunes:summary": "The Republican vice-presidential candidate rejects the idea that he\u2019s changed, defends his rhetoric and still won\u2019t say if Trump lost in 2020.",
+                    "itunes:title": "A Conversation With JD Vance",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/e53d8a8e-c9f7-425d-ae5c-5bfc8784a412/12interview-vance-youtube.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 12 Oct 2024 09:00:00 +0000",
+                    "title": "A Conversation With JD Vance"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "A conversation with the legendary actor about, well, everything.\n",
+                    "enclosure": {
+                        "@length": "45911292",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/da675c1c-b8a7-443d-b702-27b7dbffb922/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=da675c1c-b8a7-443d-b702-27b7dbffb922&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "fe0e8584-f80a-42fa-9ff9-949515e53b56",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:47:49",
+                    "itunes:episode": "25",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/c3995475-fed1-4895-8a26-d7954fdb1cac/3000x3000/05theinterview-pacino-applespotify-small.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "A conversation with the legendary actor about, well, everything.",
+                    "itunes:summary": "A conversation with the legendary actor about, well, everything.",
+                    "itunes:title": "Al Pacino Is Still Going Big",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/9a62409d-e51b-4055-b3ce-0e78e61047c5/05theinterview-pacino-youtube.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 5 Oct 2024 09:00:00 +0000",
+                    "title": "Al Pacino Is Still Going Big"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "The host of \"Last Week Tonight\" talks about what he\u2019s learned in the ten years of making the show, why he doesn't consider himself a journalist and not giving in to nihilism. \n",
+                    "enclosure": {
+                        "@length": "39363128",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/51f1655e-c565-4561-9650-90ad56475ddf/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=51f1655e-c565-4561-9650-90ad56475ddf&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "bf166450-504f-4842-9eb3-922aa6ec9bd9",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:41:00",
+                    "itunes:episode": "24",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/77c9d93d-d8f7-43ae-9567-947dd4adc1af/3000x3000/28theinteview-oliver-applespotify-small.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "The host of \"Last Week Tonight\" talks about what he\u2019s learned in the ten years of making the show, why he doesn't consider himself a journalist and not giving in to nihilism. ",
+                    "itunes:summary": "The host of \"Last Week Tonight\" talks about what he\u2019s learned in the ten years of making the show, why he doesn't consider himself a journalist and not giving in to nihilism. ",
+                    "itunes:title": "John Oliver Is Still Working Through the Rage",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/c182ab35-1ff3-40e8-a8a7-a160e26dca87/28theinteview-oliver-youtube.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 28 Sep 2024 09:00:00 +0000",
+                    "title": "John Oliver Is Still Working Through the Rage"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "The star novelist discusses her public persona, the discourse around her work and why reinvention isn\u2019t her goal.\n",
+                    "enclosure": {
+                        "@length": "43306155",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/2049c2a0-a7b9-4e9f-972c-d64232f044fd/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=2049c2a0-a7b9-4e9f-972c-d64232f044fd&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "07b37bd4-f6b3-4499-8639-e20da9c50479",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:45:06",
+                    "itunes:episode": "23",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/5f57ab02-4ac8-4e05-ba49-54e748cd292f/3000x3000/21theinteview-applespotify-rooney-small.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "The star novelist discusses her public persona, the discourse around her work and why reinvention isn\u2019t her goal.",
+                    "itunes:summary": "The star novelist discusses her public persona, the discourse around her work and why reinvention isn\u2019t her goal.",
+                    "itunes:title": "Sally Rooney Thinks Career Growth Is Overrated",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/a4eed9d6-0b74-42ca-8f89-5e0d5a826206/21-interview-youtube-rooney.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 21 Sep 2024 09:00:00 +0000",
+                    "title": "Sally Rooney Thinks Career Growth Is Overrated"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "The actress discusses how her relationship to her body and fame has changed after decades in the public eye.\n",
+                    "enclosure": {
+                        "@length": "37234061",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/5f95ead6-b4e0-4684-bbf3-64da188a6ed5/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=5f95ead6-b4e0-4684-bbf3-64da188a6ed5&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "2159e722-4125-4547-8f53-72afac948710",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:38:47",
+                    "itunes:episode": "22",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/03356998-0bab-46e1-8dd1-18a67c26c2d8/3000x3000/14nyt-podcast-theinteview-applespotify-squoosh.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "The actress discusses how her relationship to her body and fame has changed after decades in the public eye.",
+                    "itunes:summary": "The actress discusses how her relationship to her body and fame has changed after decades in the public eye.",
+                    "itunes:title": "Demi Moore Is Done With the Male Gaze",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/bae7f14a-35e7-4d1f-a17f-be9d8d9572d7/14nyt-podcast-theinteview-youtube.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 14 Sep 2024 09:00:00 +0000",
+                    "title": "Demi Moore Is Done With the Male Gaze"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "The superstar comedian and his best friend and collaborator discuss the journey that deepened their friendship.\n",
+                    "enclosure": {
+                        "@length": "45042376",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/749a49c3-2f5e-48af-9239-0aa72d173b68/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=749a49c3-2f5e-48af-9239-0aa72d173b68&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "f1efb992-cb43-4d2c-a672-f548f539526c",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:46:55",
+                    "itunes:episode": "21",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/1bf941d2-4331-4eaa-91fc-e14dc4c79d0d/3000x3000/15maginterview-ferrell-steele-applespotify-sq.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "The superstar comedian and his best friend and collaborator discuss the journey that deepened their friendship.",
+                    "itunes:summary": "The superstar comedian and his best friend and collaborator discuss the journey that deepened their friendship.",
+                    "itunes:title": "Change Can Be Beautiful. Just Ask Will Ferrell and Harper Steele.",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/a8590dc5-55f3-4584-82fa-2135e0c39b32/15maginterview-ferrell-steele-youtube.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 7 Sep 2024 09:00:00 +0000",
+                    "title": "Change Can Be Beautiful. Just Ask Will Ferrell and Harper Steele."
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "content:encoded": "<p>We\u2019re off for Labor Day weekend, but are excited to bring you a great episode of The Book Review podcast. As part of The New York Times Book Review\u2019s recent<a href=\"https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html\"> 100 Best Books of the 21st Century</a> project, podcast host and Book Review editor Gilbert Cruz has been interviewing some of the authors whose books appeared on the list. In this episode, he talks to Jennifer Egan about her Pulitzer-winning novel, \u201cA Visit From the Goon Squad.\u201d They discuss the early challenges the book faced in finding an audience, the meaning of its title and Egan\u2019s initial reluctance to decide whether the book was a novel or a story collection.</p>\n",
+                    "description": "<p>We\u2019re off for Labor Day weekend, but are excited to bring you a great episode of The Book Review podcast. As part of The New York Times Book Review\u2019s recent<a href=\"https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html\"> 100 Best Books of the 21st Century</a> project, podcast host and Book Review editor Gilbert Cruz has been interviewing some of the authors whose books appeared on the list. In this episode, he talks to Jennifer Egan about her Pulitzer-winning novel, \u201cA Visit From the Goon Squad.\u201d They discuss the early challenges the book faced in finding an audience, the meaning of its title and Egan\u2019s initial reluctance to decide whether the book was a novel or a story collection.</p>\n",
+                    "enclosure": {
+                        "@length": "40517113",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/4908357e-8f49-4930-942c-ca079d317280/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=4908357e-8f49-4930-942c-ca079d317280&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "3f30319a-fa3b-4c73-974e-5f2758f8cedf",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:42:12",
+                    "itunes:episode": "20",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/0bc389cf-b421-4727-8fda-e8c1fd983aba/3000x3000/nyt-theinterview-3000px.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "We\u2019re off for Labor Day weekend, but are excited to bring you a great episode of The Book Review podcast. As part of The New York Times Book Review\u2019s recent 100 Best Books of the 21st Century project, podcast host and Book Review editor Gilbert Cruz has been interviewing some of the authors whose books appeared on the list. In this episode, he talks to Jennifer Egan about her Pulitzer-winning novel, \u201cA Visit From the Goon Squad.\u201d They discuss the early challenges the book faced in finding an audience, the meaning of its title and Egan\u2019s initial reluctance to decide whether the book was a novel or a story collection.",
+                    "itunes:summary": "We\u2019re off for Labor Day weekend, but are excited to bring you a great episode of The Book Review podcast. As part of The New York Times Book Review\u2019s recent 100 Best Books of the 21st Century project, podcast host and Book Review editor Gilbert Cruz has been interviewing some of the authors whose books appeared on the list. In this episode, he talks to Jennifer Egan about her Pulitzer-winning novel, \u201cA Visit From the Goon Squad.\u201d They discuss the early challenges the book faced in finding an audience, the meaning of its title and Egan\u2019s initial reluctance to decide whether the book was a novel or a story collection.",
+                    "itunes:title": "From The Book Review: Jennifer Egan on 'A Visit from the Goon Squad'",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/b6e895b4-2032-446a-8849-9a6a7c022823/nyt-podcast-theinteview-ytthumbnail-trailer.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 31 Aug 2024 09:00:00 +0000",
+                    "title": "From The Book Review: Jennifer Egan on 'A Visit from the Goon Squad'"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "The actress talks to Lulu Garcia-Navarro about learning to protect herself and the hard lessons of early fame.\n",
+                    "enclosure": {
+                        "@length": "41057971",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/3b0a446c-b244-4e42-b575-5bfae0c312c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=3b0a446c-b244-4e42-b575-5bfae0c312c9&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "d37d30d4-6a81-41f6-b3ad-cc618488df5f",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:42:46",
+                    "itunes:episode": "19",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/fdfa60d5-60cb-4400-b521-ff9c30daa1ed/3000x3000/jenna-ortega-hi-res-squoosh.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "The actress talks to Lulu Garcia-Navarro about learning to protect herself and the hard lessons of early fame.",
+                    "itunes:summary": "The actress talks to Lulu Garcia-Navarro about learning to protect herself and the hard lessons of early fame.",
+                    "itunes:title": "Jenna Ortega Is Still Recovering From Childhood Stardom",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/d20eda4b-8112-4038-8f08-a98acb7e21ed/jenna-youtube.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 24 Aug 2024 09:00:00 +0000",
+                    "title": "Jenna Ortega Is Still Recovering From Childhood Stardom"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "From jail and addiction to music stardom \u2014 the singer tells David Marchese he\u2019s living a \u201cmodern American fairy tale.\u201d\n",
+                    "enclosure": {
+                        "@length": "36009422",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/72d190e2-371e-41f4-ae6b-13dff5a76342/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=72d190e2-371e-41f4-ae6b-13dff5a76342&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "a3e8c4d2-a631-4229-badb-40ed7ffbf215",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:37:30",
+                    "itunes:episode": "18",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/afc1c558-1203-4602-adbc-480e799f1bfc/3000x3000/17nyt-podcast-theinteview-spotifyapple-squoosh.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "From jail and addiction to music stardom \u2014 the singer tells David Marchese he\u2019s living a \u201cmodern American fairy tale.\u201d",
+                    "itunes:summary": "From jail and addiction to music stardom \u2014 the singer tells David Marchese he\u2019s living a \u201cmodern American fairy tale.\u201d",
+                    "itunes:title": "Jelly Roll Cannot Believe How His Life Turned Out",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/a48bec98-1157-4a0c-9a9e-f545f56447c8/17nyt-podcast-theinteview-ytthumbnail.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 17 Aug 2024 09:00:00 +0000",
+                    "title": "Jelly Roll Cannot Believe How His Life Turned Out"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "The senator discusses how political calculations killed his border bill, the evangelical Christian vote and preparing for life after Trump.\n",
+                    "enclosure": {
+                        "@length": "42103279",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/29ccd73b-5ff8-4d40-9f6e-ff6805f1d152/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=29ccd73b-5ff8-4d40-9f6e-ff6805f1d152&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "7d2516e5-de8c-4859-873e-145d13e621b4",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:43:51",
+                    "itunes:episode": "17",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/ff875380-6095-41d1-ae88-a37f242fe59d/3000x3000/nyt-podcast-theinteview-applespotify-lankford-squoosh.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "The senator discusses how political calculations killed his border bill, the evangelical Christian vote and preparing for life after Trump.",
+                    "itunes:summary": "The senator discusses how political calculations killed his border bill, the evangelical Christian vote and preparing for life after Trump.",
+                    "itunes:title": "James Lankford, The Man Who Tried to Solve Immigration for the GOP",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/9675b0a2-8a64-45c3-8003-b5d1f7a12f71/nyt-podcast-theinteview-lankford-ytthumbnail.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 10 Aug 2024 09:00:00 +0000",
+                    "title": "James Lankford, The Man Who Tried to Solve Immigration for the GOP"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "I went in expecting a swaggering, overconfident guy. I found something much more interesting.\n",
+                    "enclosure": {
+                        "@length": "40145548",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/d3429cb3-2235-4432-9896-df6e29adaacf/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=d3429cb3-2235-4432-9896-df6e29adaacf&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "5690ba8c-950d-484b-acc6-157dcdd3e6b1",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:41:49",
+                    "itunes:episode": "16",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/77512ae0-e9be-4c6b-9a24-ca0dae3187e4/3000x3000/nyt-podcast-theinteview-applespotify-squoosh.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "I went in expecting a swaggering, overconfident guy. I found something much more interesting.",
+                    "itunes:summary": "I went in expecting a swaggering, overconfident guy. I found something much more interesting.",
+                    "itunes:title": "Vince Vaughn Turned This Interview Into Self-Help",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/36d07d68-1d44-437a-a2f6-04bb88f15150/nyt-podcast-theinteview-ytthumbnail-template.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 3 Aug 2024 09:00:00 +0000",
+                    "title": "Vince Vaughn Turned This Interview Into Self-Help"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "The billionaire philanthropist is turning 60, striking out on her own and getting political.\n",
+                    "enclosure": {
+                        "@length": "36123528",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/20d21cb7-d0ce-4494-9a12-39aceb3641a7/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=20d21cb7-d0ce-4494-9a12-39aceb3641a7&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "1220f0b0-a18f-417d-8b36-3292c4c665b9",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:37:37",
+                    "itunes:episode": "15",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/fc7ab15b-fe64-4c2c-a03a-6a5743dcb66f/3000x3000/nyt-podcast-theinteview-applespotify-gates-squoosh.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "The billionaire philanthropist is turning 60, striking out on her own and getting political.",
+                    "itunes:summary": "The billionaire philanthropist is turning 60, striking out on her own and getting political.",
+                    "itunes:title": "Melinda French Gates Is Ready to Take Sides",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/71666351-0000-4336-b707-87c898eaf5dd/nyt-podcast-theinteview-ytthumbnail-gates.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sun, 28 Jul 2024 09:00:00 +0000",
+                    "title": "Melinda French Gates Is Ready to Take Sides"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "The Democrat talks about the election vibe shift and what a Kamala Harris win would mean for both parties.\n",
+                    "enclosure": {
+                        "@length": "32259496",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/54a9e25a-8dea-4d23-97c7-5e8926fbc5e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=54a9e25a-8dea-4d23-97c7-5e8926fbc5e3&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "bfae95c0-da8c-4400-8f47-f6bb6a2a2169",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:33:36",
+                    "itunes:episode": "14",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/5ca57aab-c024-42a7-9e88-2365dcd9a68c/3000x3000/pete-art-squoosh.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "The Democrat talks about the election vibe shift and what a Kamala Harris win would mean for both parties.",
+                    "itunes:summary": "The Democrat talks about the election vibe shift and what a Kamala Harris win would mean for both parties.",
+                    "itunes:title": "Pete Buttigieg Thinks the Trump Fever Could Break",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/b8095ea4-b0f9-4b6a-b442-48f73f22e9bd/nyt-podcast-theinteview-ytthumbnail-pete.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 27 Jul 2024 09:00:00 +0000",
+                    "title": "Pete Buttigieg Thinks the Trump Fever Could Break"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "The N.B.A. star talks Philly cheesesteaks, Twitter trolling and playing for Team U.S.A. over France in the Olympics.\n",
+                    "enclosure": {
+                        "@length": "30882318",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/c822028e-3997-49aa-ab0e-720da863c3ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=c822028e-3997-49aa-ab0e-720da863c3ea&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "1408d5b5-521b-4374-b9dc-851755f297b0",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:32:10",
+                    "itunes:episode": "13",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/754d2c57-6c6e-4129-a124-c9d792760f3a/3000x3000/20theinteview-applespotify-squoosh.jpg?aid=rss_feed"
+                    },
+                    "itunes:keywords": "76ers, sixers, nba, basketball, embiid, new york times, nytimes",
+                    "itunes:subtitle": "The N.B.A. star talks Philly cheesesteaks, Twitter trolling and playing for Team U.S.A. over France in the Olympics.",
+                    "itunes:summary": "The N.B.A. star talks Philly cheesesteaks, Twitter trolling and playing for Team U.S.A. over France in the Olympics.",
+                    "itunes:title": "Joel Embiid Believes He Could Have Been the GOAT",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/1d15630e-1d4a-485e-9913-030a9b95f1be/20theinteview-ytthumbnail.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 20 Jul 2024 09:00:00 +0000",
+                    "title": "Joel Embiid Believes He Could Have Been the GOAT"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "The author of \u201cBowling Alone\u201d warned us about social isolation and its effect on democracy a quarter century ago. Things have only gotten worse.\n",
+                    "enclosure": {
+                        "@length": "39634385",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/0a8d81d3-680a-42b2-9dad-06636184d0f3/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=0a8d81d3-680a-42b2-9dad-06636184d0f3&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "e36a79ea-f502-469c-9e2a-2af3f7541248",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:41:17",
+                    "itunes:episode": "12",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/1db37ea7-4afc-44f1-bd8d-0b2feba0c670/3000x3000/13nyt-podcast-theinteview-applespotify-squoosh.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "The author of \u201cBowling Alone\u201d warned us about social isolation and its effect on democracy a quarter century ago. Things have only gotten worse.",
+                    "itunes:summary": "The author of \u201cBowling Alone\u201d warned us about social isolation and its effect on democracy a quarter century ago. Things have only gotten worse.",
+                    "itunes:title": "Robert Putnam Knows Why You\u2019re Lonely",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/c6b4acfa-4dfb-43b6-8d42-18e3ef1814ae/13nyt-podcast-theinteview-ytthumbnail-template.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 13 Jul 2024 09:00:00 +0000",
+                    "title": "Robert Putnam Knows Why You\u2019re Lonely"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "David Marchese talks to the comedy legend about navigating the minefield of fame, \u201cFamily Feud\u201d and changing Hollywood forever. \n",
+                    "enclosure": {
+                        "@length": "55969915",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/9504403e-fa84-474f-a35b-cce74351db06/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=9504403e-fa84-474f-a35b-cce74351db06&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "262456fc-6ec9-4daf-8f3f-5e41fa8a53a2",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:58:18",
+                    "itunes:episode": "11",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/77415a95-96ee-4d2b-bfdf-02a89ba7495b/3000x3000/nyt-podcast-theinteview-murphy-applespotify-squoosh.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "David Marchese talks to the comedy legend about navigating the minefield of fame, \u201cFamily Feud\u201d and changing Hollywood forever. ",
+                    "itunes:summary": "David Marchese talks to the comedy legend about navigating the minefield of fame, \u201cFamily Feud\u201d and changing Hollywood forever. ",
+                    "itunes:title": "Eddie Murphy Is Ready to Look Back",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/1fd71263-7e1b-4df6-afbc-03b050b13b83/nyt-podcast-theinteview-murphy-ytthumbnail.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 29 Jun 2024 09:00:00 +0000",
+                    "title": "Eddie Murphy Is Ready to Look Back"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "The governor of Michigan isn\u2019t saying it should be her, but she\u2019s not saying it shouldn\u2019t be, either. \n",
+                    "enclosure": {
+                        "@length": "40520044",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/ddbbde29-2347-4b1d-8241-7d1fb6120543/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=ddbbde29-2347-4b1d-8241-7d1fb6120543&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "a349369b-c973-4c48-9832-70eb89f9300b",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:42:12",
+                    "itunes:episode": "10",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/db46f4a1-c3dc-4094-a2b2-42c31e06afd0/3000x3000/nyt-podcast-theinteview-whitmer-applespotify-tinyjpg.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "The governor of Michigan isn\u2019t saying it should be her, but she\u2019s not saying it shouldn\u2019t be, either. ",
+                    "itunes:summary": "The governor of Michigan isn\u2019t saying it should be her, but she\u2019s not saying it shouldn\u2019t be, either. ",
+                    "itunes:title": "Gretchen Whitmer Wants a Gen X President \u2014 in 2028",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/0b8655b7-d8bc-453d-8bae-0e52c3f97434/nyt-podcast-theinteview-whitmer-ytthumbnail.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 22 Jun 2024 09:00:00 +0000",
+                    "title": "Gretchen Whitmer Wants a Gen X President \u2014 in 2028"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "The greatest women\u2019s tennis player of all time is trying to find her new normal in retirement.\n",
+                    "enclosure": {
+                        "@length": "26561878",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/817a81bc-f2a4-4390-a613-aac1704d13fd/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=817a81bc-f2a4-4390-a613-aac1704d13fd&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "349df410-0ba5-4e8e-973b-942e65bcbc8a",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:27:40",
+                    "itunes:episode": "9",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/07518e28-8f12-42f7-a518-9af813ec1db5/3000x3000/23mag-interview-williams-04-square640.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "The greatest women\u2019s tennis player of all time is trying to find her new normal in retirement.",
+                    "itunes:summary": "The greatest women\u2019s tennis player of all time is trying to find her new normal in retirement.",
+                    "itunes:title": "Serena Williams\u2019s Next Challenge? The Rest of Her Life.",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/3b6d7f95-4232-44d9-b078-67d2235d6fab/nyt-podcast-theinteview-ytthumbnail-williams.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 15 Jun 2024 09:00:00 +0000",
+                    "title": "Serena Williams\u2019s Next Challenge? The Rest of Her Life."
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "The actress is taking on serious roles, trying to overcome self-doubt and sharing more about her personal life \u2014 but she\u2019s not done being funny.\n",
+                    "enclosure": {
+                        "@length": "35122104",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/8d7942c9-a413-4e32-8827-84f6f59ca427/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=8d7942c9-a413-4e32-8827-84f6f59ca427&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "65c96d74-a796-4420-af71-5a17e6edaf48",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:36:35",
+                    "itunes:episode": "8",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/52487c21-58fd-436e-99ec-e08c73a557c2/3000x3000/16mag-interview-dreyfus-02-superjumbo.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "The actress is taking on serious roles, trying to overcome self-doubt and sharing more about her personal life \u2014 but she\u2019s not done being funny.",
+                    "itunes:summary": "The actress is taking on serious roles, trying to overcome self-doubt and sharing more about her personal life \u2014 but she\u2019s not done being funny.",
+                    "itunes:title": "Julia Louis-Dreyfus's Darker Side",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/8b5164b9-9b8d-41f7-91df-592ee29cbfa5/nyt-podcast-theinteview-jld-ytthumbnail-template.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 8 Jun 2024 09:00:00 +0000",
+                    "title": "Julia Louis-Dreyfus's Darker Side"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "David Marchese talks to the acclaimed director about his new film \u201cHit Man\u201d and life\u2019s big questions.\n",
+                    "enclosure": {
+                        "@length": "32489377",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/a99fbdf4-73ba-4163-9943-eb17550e99ab/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=a99fbdf4-73ba-4163-9943-eb17550e99ab&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "11eda083-dd81-455c-b74b-958e7554f82b",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:33:50",
+                    "itunes:episode": "7",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/76b0ec9a-9487-4374-9cd1-94880d73645b/3000x3000/nyt-podcast-theinteview-applespotify.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "David Marchese talks to the acclaimed director about his new film \u201cHit Man\u201d and life\u2019s big questions.",
+                    "itunes:summary": "David Marchese talks to the acclaimed director about his new film \u201cHit Man\u201d and life\u2019s big questions.",
+                    "itunes:title": "Richard Linklater Sees the Killer Inside Us All",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/8017bec8-0477-411c-b054-5218941367f9/nyt-podcast-theinteview-ytthumbnail-template.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 1 Jun 2024 09:00:00 +0000",
+                    "title": "Richard Linklater Sees the Killer Inside Us All"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "Netflix won the streaming battle, but the war for your attention isn\u2019t over.\n",
+                    "enclosure": {
+                        "@length": "36653880",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/812b27bb-ebd9-4419-9a94-56ac8414b255/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=812b27bb-ebd9-4419-9a94-56ac8414b255&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "595096a4-e870-4c4f-9656-1bba2eba8be8",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:38:10",
+                    "itunes:episode": "6",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/b371b0c1-81bc-4529-b5b9-d2e90050d2c8/3000x3000/nyt-podcast-theinteview-applespotify-saranos.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "Netflix won the streaming battle, but the war for your attention isn\u2019t over.",
+                    "itunes:summary": "Netflix won the streaming battle, but the war for your attention isn\u2019t over.",
+                    "itunes:title": "Ted Sarandos\u2019s Plan to Get You to Binge Even More",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/bd99aeaa-32e8-4f1f-8f8f-0643e9778608/nyt-podcast-theinteview-ytthumbnail-saranos.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 25 May 2024 09:00:00 +0000",
+                    "title": "Ted Sarandos\u2019s Plan to Get You to Binge Even More"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "The scientist talks to David Marchese about how to overcome the \u201csoft\u201d climate denial that keeps us buying junk.\n",
+                    "enclosure": {
+                        "@length": "26562461",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/6e278d26-534d-44a2-9b3a-0cc977bf7df2/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=6e278d26-534d-44a2-9b3a-0cc977bf7df2&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "03f024ea-dc22-4235-93a9-7da869089bbe",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:27:38",
+                    "itunes:episode": "5",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/4c183dc9-23ad-46bb-9be8-cb4578ba94ac/3000x3000/aejohnson.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "The scientist talks to David Marchese about how to overcome the \u201csoft\u201d climate denial that keeps us buying junk.",
+                    "itunes:summary": "The scientist talks to David Marchese about how to overcome the \u201csoft\u201d climate denial that keeps us buying junk.",
+                    "itunes:title": "Ayana Elizabeth Johnson Has an Antidote to Our Climate Delusions",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/cfdd988d-3167-40da-930a-df6bfe382392/aejohnson-yt.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 18 May 2024 09:00:00 +0000",
+                    "title": "Ayana Elizabeth Johnson Has an Antidote to Our Climate Delusions"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "content:encoded": null,
+                    "description": null,
+                    "enclosure": {
+                        "@length": "37088844",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/2f6341b2-8a64-40bd-baeb-7092ce311ab0/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=2f6341b2-8a64-40bd-baeb-7092ce311ab0&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "d51e4350-f666-43cd-aa45-5d76f50f93d5",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:38:35",
+                    "itunes:episode": "4",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/429e18ee-5ae6-453a-ac45-cef20ae87f30/3000x3000/11nyt-podcast-theinteview-applespotify-charlamagnethagod.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "The radio host talks to Lulu Garcia-Navarro about how he plans to wield his considerable political influence.",
+                    "itunes:summary": "The radio host talks to Lulu Garcia-Navarro about how he plans to wield his considerable political influence.",
+                    "itunes:title": "Charlamagne Tha God Won\u2019t Take Sides",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/8f5a41a9-f7ec-49df-81b9-d683a9dc689f/11nyt-podcast-theinteview-ytthumbnail-charlamagnethagod.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 11 May 2024 09:00:00 +0000",
+                    "title": "Charlamagne Tha God Won\u2019t Take Sides"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "The comedian talks to David Marchese on becoming a different person after unimaginable loss.\n",
+                    "enclosure": {
+                        "@length": "34569784",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/7960aad0-f672-422d-aa77-295c61028c4a/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=7960aad0-f672-422d-aa77-295c61028c4a&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "d757bbfa-ef81-4098-87d2-c629eedc5b11",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:35:58",
+                    "itunes:episode": "3",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/64b13a31-0641-4ad4-a2d6-3b47f32c5540/3000x3000/04mag-interview-wayans-3000x3000jpg.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "The comedian talks to David Marchese on becoming a different person after unimaginable loss.",
+                    "itunes:summary": "The comedian talks to David Marchese on becoming a different person after unimaginable loss.",
+                    "itunes:title": "Marlon Wayans Lost Nearly 60 Loved Ones. Comedy Saved Him.",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/4659147b-e7b6-4439-adf8-f92f273fec61/nyt-podcast-theinterview-ytthumbnail-ep3.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 4 May 2024 09:00:00 +0000",
+                    "title": "Marlon Wayans Lost Nearly 60 Loved Ones. Comedy Saved Him."
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "On the debut of \u2019The Interview,' the actress talks to David Marchese about learning to let go of other people\u2019s opinions.\n",
+                    "enclosure": {
+                        "@length": "40683111",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/d9504c78-91e5-4e1e-90ef-7de18e2aa0b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=d9504c78-91e5-4e1e-90ef-7de18e2aa0b4&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "1bc96146-78a0-4d38-955c-92d18da0601b",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:42:20",
+                    "itunes:episode": "1",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/171443ec-cde3-4d43-ab6f-744924ff7c09/3000x3000/27-mag-interview-hathaway-3000x3000px.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "On the debut of \u2019The Interview,' the actress talks to David Marchese about learning to let go of other people\u2019s opinions.",
+                    "itunes:summary": "On the debut of \u2019The Interview,' the actress talks to David Marchese about learning to let go of other people\u2019s opinions.",
+                    "itunes:title": "Anne Hathaway Is Done Trying to Please",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/b6e895b4-2032-446a-8849-9a6a7c022823/nyt-podcast-theinteview-ytthumbnail-trailer.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 27 Apr 2024 09:00:00 +0000",
+                    "title": "Anne Hathaway Is Done Trying to Please"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "Frustrated at the growing protest movement, the opposition leader defends his country\u2019s \u201cexistential\u201d war.\n",
+                    "enclosure": {
+                        "@length": "38363622",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/1171f300-4344-4804-af07-732f2e0bbfed/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=1171f300-4344-4804-af07-732f2e0bbfed&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "a0980d6b-56ae-4872-9ba8-023b564ba4b9",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:39:55",
+                    "itunes:episode": "2",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/462201a5-4aa0-484f-bcfe-959c379944c8/3000x3000/27mag-interview-lapid-3000x3000px.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "Frustrated at the growing protest movement, the opposition leader defends his country\u2019s \u201cexistential\u201d war.",
+                    "itunes:summary": "Frustrated at the growing protest movement, the opposition leader defends his country\u2019s \u201cexistential\u201d war.",
+                    "itunes:title": "Yair Lapid Says the World Misunderstands Israel",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/b6e895b4-2032-446a-8849-9a6a7c022823/nyt-podcast-theinteview-ytthumbnail-trailer.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Sat, 27 Apr 2024 08:55:00 +0000",
+                    "title": "Yair Lapid Says the World Misunderstands Israel"
+                },
+                {
+                    "author": "magazine@nytimes.com (The New York Times)",
+                    "description": "\u201cThe Interview\u201d is a new podcast from The New York Times, featuring in-depth conversations with fascinating people. Each week, David Marchese and Lulu Garcia-Navarro will chat with notable figures in the worlds of culture, politics, business, sports, wellness and beyond \u2014 illuminating who they are, why they do what they do and how they impact the rest of us.\n\nThe first episodes of \u201cThe Interview\u201d premiere on April 27, and new editions will be released weekly on Saturdays. The conversations will also appear online and in print. Follow this feed to stay connected with the show.\n",
+                    "enclosure": {
+                        "@length": "1551659",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/a5acbda1-b5b6-4760-b795-3c25be9dded4/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=a5acbda1-b5b6-4760-b795-3c25be9dded4&feed=ksGYZ_Z3"
+                    },
+                    "guid": {
+                        "#text": "cd5af2a3-fa78-4f1a-8ebd-fd63b9db3061",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The New York Times",
+                    "itunes:duration": "00:01:37",
+                    "itunes:episodeType": "trailer",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/6d9b5b7a-a179-4f57-bf7c-84010f28f40b/3000x3000/nyt-theinterview-3000px.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "\u201cThe Interview\u201d is a new podcast from The New York Times, featuring in-depth conversations with fascinating people. Each week, David Marchese and Lulu Garcia-Navarro will chat with notable figures in the worlds of culture, politics, business, sports, wellness and beyond \u2014 illuminating who they are, why they do what they do and how they impact the rest of us.\n\nThe first episodes of \u201cThe Interview\u201d premiere on April 27, and new editions will be released weekly on Saturdays. The conversations will also appear online and in print. Follow this feed to stay connected with the show.",
+                    "itunes:summary": "\u201cThe Interview\u201d is a new podcast from The New York Times, featuring in-depth conversations with fascinating people. Each week, David Marchese and Lulu Garcia-Navarro will chat with notable figures in the worlds of culture, politics, business, sports, wellness and beyond \u2014 illuminating who they are, why they do what they do and how they impact the rest of us.\n\nThe first episodes of \u201cThe Interview\u201d premiere on April 27, and new editions will be released weekly on Saturdays. The conversations will also appear online and in print. Follow this feed to stay connected with the show.",
+                    "itunes:title": "Introducing 'The Interview'",
+                    "link": "https://www.nytimes.com/column/the-interview",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/b6e895b4-2032-446a-8849-9a6a7c022823/nyt-podcast-theinteview-ytthumbnail-trailer.jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Fri, 19 Apr 2024 02:00:10 +0000",
+                    "title": "Introducing 'The Interview'"
+                }
+            ],
+            "itunes:author": "The New York Times",
+            "itunes:category": [
+                {
+                    "@text": "Society & Culture"
+                },
+                {
+                    "@text": "News"
+                }
+            ],
+            "itunes:explicit": "false",
+            "itunes:image": {
+                "@href": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/0bc389cf-b421-4727-8fda-e8c1fd983aba/3000x3000/nyt-theinterview-3000px.jpg?aid=rss_feed"
             },
+            "itunes:new-feed-url": "https://feeds.simplecast.com/ksGYZ_Z3",
+            "itunes:owner": {
+                "itunes:email": "magazine@nytimes.com",
+                "itunes:name": "The New York Times"
+            },
+            "itunes:summary": "Conversations with the world\u2019s most fascinating people. Each week, hosts David Marchese and Lulu Garcia-Navarro talk to compelling, influential figures in culture, politics, business, sports and beyond \u2014 illuminating who they are, why they do what they do and how they impact the rest of us. New episodes every Saturday.",
+            "itunes:type": "episodic",
+            "language": "en",
+            "lastBuildDate": "Sat, 12 Oct 2024 09:00:13 +0000",
             "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 28 Sep 2024 09:00:00 +0000",
-            "title": "John Oliver Is Still Working Through the Rage"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "The star novelist discusses her public persona, the discourse around her work and why reinvention isn\u2019t her goal.\n",
-            "contentSnippet": "The star novelist discusses her public persona, the discourse around her work and why reinvention isn\u2019t her goal.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "43306155",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/2049c2a0-a7b9-4e9f-972c-d64232f044fd/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=2049c2a0-a7b9-4e9f-972c-d64232f044fd&feed=ksGYZ_Z3"
-            },
-            "guid": "07b37bd4-f6b3-4499-8639-e20da9c50479",
-            "isoDate": "2024-09-21T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:45:06",
-                "episode": "23",
-                "episodeType": "full",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/5f57ab02-4ac8-4e05-ba49-54e748cd292f/3000x3000/21theinteview-applespotify-rooney-small.jpg?aid=rss_feed",
-                "subtitle": "The star novelist discusses her public persona, the discourse around her work and why reinvention isn\u2019t her goal.",
-                "summary": "The star novelist discusses her public persona, the discourse around her work and why reinvention isn\u2019t her goal."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 21 Sep 2024 09:00:00 +0000",
-            "title": "Sally Rooney Thinks Career Growth Is Overrated"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "The actress discusses how her relationship to her body and fame has changed after decades in the public eye.\n",
-            "contentSnippet": "The actress discusses how her relationship to her body and fame has changed after decades in the public eye.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "37234061",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/5f95ead6-b4e0-4684-bbf3-64da188a6ed5/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=5f95ead6-b4e0-4684-bbf3-64da188a6ed5&feed=ksGYZ_Z3"
-            },
-            "guid": "2159e722-4125-4547-8f53-72afac948710",
-            "isoDate": "2024-09-14T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:38:47",
-                "episode": "22",
-                "episodeType": "full",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/03356998-0bab-46e1-8dd1-18a67c26c2d8/3000x3000/14nyt-podcast-theinteview-applespotify-squoosh.jpg?aid=rss_feed",
-                "subtitle": "The actress discusses how her relationship to her body and fame has changed after decades in the public eye.",
-                "summary": "The actress discusses how her relationship to her body and fame has changed after decades in the public eye."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 14 Sep 2024 09:00:00 +0000",
-            "title": "Demi Moore Is Done With the Male Gaze"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "The superstar comedian and his best friend and collaborator discuss the journey that deepened their friendship.\n",
-            "contentSnippet": "The superstar comedian and his best friend and collaborator discuss the journey that deepened their friendship.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "45042376",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/749a49c3-2f5e-48af-9239-0aa72d173b68/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=749a49c3-2f5e-48af-9239-0aa72d173b68&feed=ksGYZ_Z3"
-            },
-            "guid": "f1efb992-cb43-4d2c-a672-f548f539526c",
-            "isoDate": "2024-09-07T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:46:55",
-                "episode": "21",
-                "episodeType": "full",
-                "explicit": "true",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/1bf941d2-4331-4eaa-91fc-e14dc4c79d0d/3000x3000/15maginterview-ferrell-steele-applespotify-sq.jpg?aid=rss_feed",
-                "subtitle": "The superstar comedian and his best friend and collaborator discuss the journey that deepened their friendship.",
-                "summary": "The superstar comedian and his best friend and collaborator discuss the journey that deepened their friendship."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 7 Sep 2024 09:00:00 +0000",
-            "title": "Change Can Be Beautiful. Just Ask Will Ferrell and Harper Steele."
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "<p>We\u2019re off for Labor Day weekend, but are excited to bring you a great episode of The Book Review podcast. As part of The New York Times Book Review\u2019s recent<a href=\"https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html\"> 100 Best Books of the 21st Century</a> project, podcast host and Book Review editor Gilbert Cruz has been interviewing some of the authors whose books appeared on the list. In this episode, he talks to Jennifer Egan about her Pulitzer-winning novel, \u201cA Visit From the Goon Squad.\u201d They discuss the early challenges the book faced in finding an audience, the meaning of its title and Egan\u2019s initial reluctance to decide whether the book was a novel or a story collection.</p>\n",
-            "content:encoded": "<p>We\u2019re off for Labor Day weekend, but are excited to bring you a great episode of The Book Review podcast. As part of The New York Times Book Review\u2019s recent<a href=\"https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html\"> 100 Best Books of the 21st Century</a> project, podcast host and Book Review editor Gilbert Cruz has been interviewing some of the authors whose books appeared on the list. In this episode, he talks to Jennifer Egan about her Pulitzer-winning novel, \u201cA Visit From the Goon Squad.\u201d They discuss the early challenges the book faced in finding an audience, the meaning of its title and Egan\u2019s initial reluctance to decide whether the book was a novel or a story collection.</p>\n",
-            "content:encodedSnippet": "We\u2019re off for Labor Day weekend, but are excited to bring you a great episode of The Book Review podcast. As part of The New York Times Book Review\u2019s recent 100 Best Books of the 21st Century project, podcast host and Book Review editor Gilbert Cruz has been interviewing some of the authors whose books appeared on the list. In this episode, he talks to Jennifer Egan about her Pulitzer-winning novel, \u201cA Visit From the Goon Squad.\u201d They discuss the early challenges the book faced in finding an audience, the meaning of its title and Egan\u2019s initial reluctance to decide whether the book was a novel or a story collection.",
-            "contentSnippet": "We\u2019re off for Labor Day weekend, but are excited to bring you a great episode of The Book Review podcast. As part of The New York Times Book Review\u2019s recent 100 Best Books of the 21st Century project, podcast host and Book Review editor Gilbert Cruz has been interviewing some of the authors whose books appeared on the list. In this episode, he talks to Jennifer Egan about her Pulitzer-winning novel, \u201cA Visit From the Goon Squad.\u201d They discuss the early challenges the book faced in finding an audience, the meaning of its title and Egan\u2019s initial reluctance to decide whether the book was a novel or a story collection.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "40517113",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/4908357e-8f49-4930-942c-ca079d317280/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=4908357e-8f49-4930-942c-ca079d317280&feed=ksGYZ_Z3"
-            },
-            "guid": "3f30319a-fa3b-4c73-974e-5f2758f8cedf",
-            "isoDate": "2024-08-31T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:42:12",
-                "episode": "20",
-                "episodeType": "full",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/0bc389cf-b421-4727-8fda-e8c1fd983aba/3000x3000/nyt-theinterview-3000px.jpg?aid=rss_feed",
-                "subtitle": "We\u2019re off for Labor Day weekend, but are excited to bring you a great episode of The Book Review podcast. As part of The New York Times Book Review\u2019s recent 100 Best Books of the 21st Century project, podcast host and Book Review editor Gilbert Cruz has been interviewing some of the authors whose books appeared on the list. In this episode, he talks to Jennifer Egan about her Pulitzer-winning novel, \u201cA Visit From the Goon Squad.\u201d They discuss the early challenges the book faced in finding an audience, the meaning of its title and Egan\u2019s initial reluctance to decide whether the book was a novel or a story collection.",
-                "summary": "We\u2019re off for Labor Day weekend, but are excited to bring you a great episode of The Book Review podcast. As part of The New York Times Book Review\u2019s recent 100 Best Books of the 21st Century project, podcast host and Book Review editor Gilbert Cruz has been interviewing some of the authors whose books appeared on the list. In this episode, he talks to Jennifer Egan about her Pulitzer-winning novel, \u201cA Visit From the Goon Squad.\u201d They discuss the early challenges the book faced in finding an audience, the meaning of its title and Egan\u2019s initial reluctance to decide whether the book was a novel or a story collection."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 31 Aug 2024 09:00:00 +0000",
-            "title": "From The Book Review: Jennifer Egan on 'A Visit from the Goon Squad'"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "The actress talks to Lulu Garcia-Navarro about learning to protect herself and the hard lessons of early fame.\n",
-            "contentSnippet": "The actress talks to Lulu Garcia-Navarro about learning to protect herself and the hard lessons of early fame.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "41057971",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/3b0a446c-b244-4e42-b575-5bfae0c312c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=3b0a446c-b244-4e42-b575-5bfae0c312c9&feed=ksGYZ_Z3"
-            },
-            "guid": "d37d30d4-6a81-41f6-b3ad-cc618488df5f",
-            "isoDate": "2024-08-24T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:42:46",
-                "episode": "19",
-                "episodeType": "full",
-                "explicit": "true",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/fdfa60d5-60cb-4400-b521-ff9c30daa1ed/3000x3000/jenna-ortega-hi-res-squoosh.jpg?aid=rss_feed",
-                "subtitle": "The actress talks to Lulu Garcia-Navarro about learning to protect herself and the hard lessons of early fame.",
-                "summary": "The actress talks to Lulu Garcia-Navarro about learning to protect herself and the hard lessons of early fame."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 24 Aug 2024 09:00:00 +0000",
-            "title": "Jenna Ortega Is Still Recovering From Childhood Stardom"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "From jail and addiction to music stardom \u2014 the singer tells David Marchese he\u2019s living a \u201cmodern American fairy tale.\u201d\n",
-            "contentSnippet": "From jail and addiction to music stardom \u2014 the singer tells David Marchese he\u2019s living a \u201cmodern American fairy tale.\u201d",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "36009422",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/72d190e2-371e-41f4-ae6b-13dff5a76342/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=72d190e2-371e-41f4-ae6b-13dff5a76342&feed=ksGYZ_Z3"
-            },
-            "guid": "a3e8c4d2-a631-4229-badb-40ed7ffbf215",
-            "isoDate": "2024-08-17T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:37:30",
-                "episode": "18",
-                "episodeType": "full",
-                "explicit": "true",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/afc1c558-1203-4602-adbc-480e799f1bfc/3000x3000/17nyt-podcast-theinteview-spotifyapple-squoosh.jpg?aid=rss_feed",
-                "subtitle": "From jail and addiction to music stardom \u2014 the singer tells David Marchese he\u2019s living a \u201cmodern American fairy tale.\u201d",
-                "summary": "From jail and addiction to music stardom \u2014 the singer tells David Marchese he\u2019s living a \u201cmodern American fairy tale.\u201d"
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 17 Aug 2024 09:00:00 +0000",
-            "title": "Jelly Roll Cannot Believe How His Life Turned Out"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "The senator discusses how political calculations killed his border bill, the evangelical Christian vote and preparing for life after Trump.\n",
-            "contentSnippet": "The senator discusses how political calculations killed his border bill, the evangelical Christian vote and preparing for life after Trump.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "42103279",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/29ccd73b-5ff8-4d40-9f6e-ff6805f1d152/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=29ccd73b-5ff8-4d40-9f6e-ff6805f1d152&feed=ksGYZ_Z3"
-            },
-            "guid": "7d2516e5-de8c-4859-873e-145d13e621b4",
-            "isoDate": "2024-08-10T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:43:51",
-                "episode": "17",
-                "episodeType": "full",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/ff875380-6095-41d1-ae88-a37f242fe59d/3000x3000/nyt-podcast-theinteview-applespotify-lankford-squoosh.jpg?aid=rss_feed",
-                "subtitle": "The senator discusses how political calculations killed his border bill, the evangelical Christian vote and preparing for life after Trump.",
-                "summary": "The senator discusses how political calculations killed his border bill, the evangelical Christian vote and preparing for life after Trump."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 10 Aug 2024 09:00:00 +0000",
-            "title": "James Lankford, The Man Who Tried to Solve Immigration for the GOP"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "I went in expecting a swaggering, overconfident guy. I found something much more interesting.\n",
-            "contentSnippet": "I went in expecting a swaggering, overconfident guy. I found something much more interesting.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "40145548",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/d3429cb3-2235-4432-9896-df6e29adaacf/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=d3429cb3-2235-4432-9896-df6e29adaacf&feed=ksGYZ_Z3"
-            },
-            "guid": "5690ba8c-950d-484b-acc6-157dcdd3e6b1",
-            "isoDate": "2024-08-03T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:41:49",
-                "episode": "16",
-                "episodeType": "full",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/77512ae0-e9be-4c6b-9a24-ca0dae3187e4/3000x3000/nyt-podcast-theinteview-applespotify-squoosh.jpg?aid=rss_feed",
-                "subtitle": "I went in expecting a swaggering, overconfident guy. I found something much more interesting.",
-                "summary": "I went in expecting a swaggering, overconfident guy. I found something much more interesting."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 3 Aug 2024 09:00:00 +0000",
-            "title": "Vince Vaughn Turned This Interview Into Self-Help"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "The billionaire philanthropist is turning 60, striking out on her own and getting political.\n",
-            "contentSnippet": "The billionaire philanthropist is turning 60, striking out on her own and getting political.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "36123528",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/20d21cb7-d0ce-4494-9a12-39aceb3641a7/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=20d21cb7-d0ce-4494-9a12-39aceb3641a7&feed=ksGYZ_Z3"
-            },
-            "guid": "1220f0b0-a18f-417d-8b36-3292c4c665b9",
-            "isoDate": "2024-07-28T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:37:37",
-                "episode": "15",
-                "episodeType": "full",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/fc7ab15b-fe64-4c2c-a03a-6a5743dcb66f/3000x3000/nyt-podcast-theinteview-applespotify-gates-squoosh.jpg?aid=rss_feed",
-                "subtitle": "The billionaire philanthropist is turning 60, striking out on her own and getting political.",
-                "summary": "The billionaire philanthropist is turning 60, striking out on her own and getting political."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sun, 28 Jul 2024 09:00:00 +0000",
-            "title": "Melinda French Gates Is Ready to Take Sides"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "The Democrat talks about the election vibe shift and what a Kamala Harris win would mean for both parties.\n",
-            "contentSnippet": "The Democrat talks about the election vibe shift and what a Kamala Harris win would mean for both parties.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "32259496",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/54a9e25a-8dea-4d23-97c7-5e8926fbc5e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=54a9e25a-8dea-4d23-97c7-5e8926fbc5e3&feed=ksGYZ_Z3"
-            },
-            "guid": "bfae95c0-da8c-4400-8f47-f6bb6a2a2169",
-            "isoDate": "2024-07-27T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:33:36",
-                "episode": "14",
-                "episodeType": "full",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/5ca57aab-c024-42a7-9e88-2365dcd9a68c/3000x3000/pete-art-squoosh.jpg?aid=rss_feed",
-                "subtitle": "The Democrat talks about the election vibe shift and what a Kamala Harris win would mean for both parties.",
-                "summary": "The Democrat talks about the election vibe shift and what a Kamala Harris win would mean for both parties."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 27 Jul 2024 09:00:00 +0000",
-            "title": "Pete Buttigieg Thinks the Trump Fever Could Break"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "The N.B.A. star talks Philly cheesesteaks, Twitter trolling and playing for Team U.S.A. over France in the Olympics.\n",
-            "contentSnippet": "The N.B.A. star talks Philly cheesesteaks, Twitter trolling and playing for Team U.S.A. over France in the Olympics.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "30882318",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/c822028e-3997-49aa-ab0e-720da863c3ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=c822028e-3997-49aa-ab0e-720da863c3ea&feed=ksGYZ_Z3"
-            },
-            "guid": "1408d5b5-521b-4374-b9dc-851755f297b0",
-            "isoDate": "2024-07-20T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:32:10",
-                "episode": "13",
-                "episodeType": "full",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/754d2c57-6c6e-4129-a124-c9d792760f3a/3000x3000/20theinteview-applespotify-squoosh.jpg?aid=rss_feed",
-                "keywords": "76ers, sixers, nba, basketball, embiid, new york times, nytimes",
-                "subtitle": "The N.B.A. star talks Philly cheesesteaks, Twitter trolling and playing for Team U.S.A. over France in the Olympics.",
-                "summary": "The N.B.A. star talks Philly cheesesteaks, Twitter trolling and playing for Team U.S.A. over France in the Olympics."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 20 Jul 2024 09:00:00 +0000",
-            "title": "Joel Embiid Believes He Could Have Been the GOAT"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "The author of \u201cBowling Alone\u201d warned us about social isolation and its effect on democracy a quarter century ago. Things have only gotten worse.\n",
-            "contentSnippet": "The author of \u201cBowling Alone\u201d warned us about social isolation and its effect on democracy a quarter century ago. Things have only gotten worse.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "39634385",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/0a8d81d3-680a-42b2-9dad-06636184d0f3/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=0a8d81d3-680a-42b2-9dad-06636184d0f3&feed=ksGYZ_Z3"
-            },
-            "guid": "e36a79ea-f502-469c-9e2a-2af3f7541248",
-            "isoDate": "2024-07-13T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:41:17",
-                "episode": "12",
-                "episodeType": "full",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/1db37ea7-4afc-44f1-bd8d-0b2feba0c670/3000x3000/13nyt-podcast-theinteview-applespotify-squoosh.jpg?aid=rss_feed",
-                "subtitle": "The author of \u201cBowling Alone\u201d warned us about social isolation and its effect on democracy a quarter century ago. Things have only gotten worse.",
-                "summary": "The author of \u201cBowling Alone\u201d warned us about social isolation and its effect on democracy a quarter century ago. Things have only gotten worse."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 13 Jul 2024 09:00:00 +0000",
-            "title": "Robert Putnam Knows Why You\u2019re Lonely"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "David Marchese talks to the comedy legend about navigating the minefield of fame, \u201cFamily Feud\u201d and changing Hollywood forever. \n",
-            "contentSnippet": "David Marchese talks to the comedy legend about navigating the minefield of fame, \u201cFamily Feud\u201d and changing Hollywood forever.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "55969915",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/9504403e-fa84-474f-a35b-cce74351db06/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=9504403e-fa84-474f-a35b-cce74351db06&feed=ksGYZ_Z3"
-            },
-            "guid": "262456fc-6ec9-4daf-8f3f-5e41fa8a53a2",
-            "isoDate": "2024-06-29T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:58:18",
-                "episode": "11",
-                "episodeType": "full",
-                "explicit": "true",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/77415a95-96ee-4d2b-bfdf-02a89ba7495b/3000x3000/nyt-podcast-theinteview-murphy-applespotify-squoosh.jpg?aid=rss_feed",
-                "subtitle": "David Marchese talks to the comedy legend about navigating the minefield of fame, \u201cFamily Feud\u201d and changing Hollywood forever. ",
-                "summary": "David Marchese talks to the comedy legend about navigating the minefield of fame, \u201cFamily Feud\u201d and changing Hollywood forever. "
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 29 Jun 2024 09:00:00 +0000",
-            "title": "Eddie Murphy Is Ready to Look Back"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "The governor of Michigan isn\u2019t saying it should be her, but she\u2019s not saying it shouldn\u2019t be, either. \n",
-            "contentSnippet": "The governor of Michigan isn\u2019t saying it should be her, but she\u2019s not saying it shouldn\u2019t be, either.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "40520044",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/ddbbde29-2347-4b1d-8241-7d1fb6120543/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=ddbbde29-2347-4b1d-8241-7d1fb6120543&feed=ksGYZ_Z3"
-            },
-            "guid": "a349369b-c973-4c48-9832-70eb89f9300b",
-            "isoDate": "2024-06-22T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:42:12",
-                "episode": "10",
-                "episodeType": "full",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/db46f4a1-c3dc-4094-a2b2-42c31e06afd0/3000x3000/nyt-podcast-theinteview-whitmer-applespotify-tinyjpg.jpg?aid=rss_feed",
-                "subtitle": "The governor of Michigan isn\u2019t saying it should be her, but she\u2019s not saying it shouldn\u2019t be, either. ",
-                "summary": "The governor of Michigan isn\u2019t saying it should be her, but she\u2019s not saying it shouldn\u2019t be, either. "
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 22 Jun 2024 09:00:00 +0000",
-            "title": "Gretchen Whitmer Wants a Gen X President \u2014 in 2028"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "The greatest women\u2019s tennis player of all time is trying to find her new normal in retirement.\n",
-            "contentSnippet": "The greatest women\u2019s tennis player of all time is trying to find her new normal in retirement.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "26561878",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/817a81bc-f2a4-4390-a613-aac1704d13fd/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=817a81bc-f2a4-4390-a613-aac1704d13fd&feed=ksGYZ_Z3"
-            },
-            "guid": "349df410-0ba5-4e8e-973b-942e65bcbc8a",
-            "isoDate": "2024-06-15T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:27:40",
-                "episode": "9",
-                "episodeType": "full",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/07518e28-8f12-42f7-a518-9af813ec1db5/3000x3000/23mag-interview-williams-04-square640.jpg?aid=rss_feed",
-                "subtitle": "The greatest women\u2019s tennis player of all time is trying to find her new normal in retirement.",
-                "summary": "The greatest women\u2019s tennis player of all time is trying to find her new normal in retirement."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 15 Jun 2024 09:00:00 +0000",
-            "title": "Serena Williams\u2019s Next Challenge? The Rest of Her Life."
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "The actress is taking on serious roles, trying to overcome self-doubt and sharing more about her personal life \u2014 but she\u2019s not done being funny.\n",
-            "contentSnippet": "The actress is taking on serious roles, trying to overcome self-doubt and sharing more about her personal life \u2014 but she\u2019s not done being funny.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "35122104",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/8d7942c9-a413-4e32-8827-84f6f59ca427/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=8d7942c9-a413-4e32-8827-84f6f59ca427&feed=ksGYZ_Z3"
-            },
-            "guid": "65c96d74-a796-4420-af71-5a17e6edaf48",
-            "isoDate": "2024-06-08T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:36:35",
-                "episode": "8",
-                "episodeType": "full",
-                "explicit": "true",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/52487c21-58fd-436e-99ec-e08c73a557c2/3000x3000/16mag-interview-dreyfus-02-superjumbo.jpg?aid=rss_feed",
-                "subtitle": "The actress is taking on serious roles, trying to overcome self-doubt and sharing more about her personal life \u2014 but she\u2019s not done being funny.",
-                "summary": "The actress is taking on serious roles, trying to overcome self-doubt and sharing more about her personal life \u2014 but she\u2019s not done being funny."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 8 Jun 2024 09:00:00 +0000",
-            "title": "Julia Louis-Dreyfus's Darker Side"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "David Marchese talks to the acclaimed director about his new film \u201cHit Man\u201d and life\u2019s big questions.\n",
-            "contentSnippet": "David Marchese talks to the acclaimed director about his new film \u201cHit Man\u201d and life\u2019s big questions.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "32489377",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/a99fbdf4-73ba-4163-9943-eb17550e99ab/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=a99fbdf4-73ba-4163-9943-eb17550e99ab&feed=ksGYZ_Z3"
-            },
-            "guid": "11eda083-dd81-455c-b74b-958e7554f82b",
-            "isoDate": "2024-06-01T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:33:50",
-                "episode": "7",
-                "episodeType": "full",
-                "explicit": "true",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/76b0ec9a-9487-4374-9cd1-94880d73645b/3000x3000/nyt-podcast-theinteview-applespotify.jpg?aid=rss_feed",
-                "subtitle": "David Marchese talks to the acclaimed director about his new film \u201cHit Man\u201d and life\u2019s big questions.",
-                "summary": "David Marchese talks to the acclaimed director about his new film \u201cHit Man\u201d and life\u2019s big questions."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 1 Jun 2024 09:00:00 +0000",
-            "title": "Richard Linklater Sees the Killer Inside Us All"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "Netflix won the streaming battle, but the war for your attention isn\u2019t over.\n",
-            "contentSnippet": "Netflix won the streaming battle, but the war for your attention isn\u2019t over.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "36653880",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/812b27bb-ebd9-4419-9a94-56ac8414b255/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=812b27bb-ebd9-4419-9a94-56ac8414b255&feed=ksGYZ_Z3"
-            },
-            "guid": "595096a4-e870-4c4f-9656-1bba2eba8be8",
-            "isoDate": "2024-05-25T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:38:10",
-                "episode": "6",
-                "episodeType": "full",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/b371b0c1-81bc-4529-b5b9-d2e90050d2c8/3000x3000/nyt-podcast-theinteview-applespotify-saranos.jpg?aid=rss_feed",
-                "subtitle": "Netflix won the streaming battle, but the war for your attention isn\u2019t over.",
-                "summary": "Netflix won the streaming battle, but the war for your attention isn\u2019t over."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 25 May 2024 09:00:00 +0000",
-            "title": "Ted Sarandos\u2019s Plan to Get You to Binge Even More"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "The scientist talks to David Marchese about how to overcome the \u201csoft\u201d climate denial that keeps us buying junk.\n",
-            "contentSnippet": "The scientist talks to David Marchese about how to overcome the \u201csoft\u201d climate denial that keeps us buying junk.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "26562461",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/6e278d26-534d-44a2-9b3a-0cc977bf7df2/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=6e278d26-534d-44a2-9b3a-0cc977bf7df2&feed=ksGYZ_Z3"
-            },
-            "guid": "03f024ea-dc22-4235-93a9-7da869089bbe",
-            "isoDate": "2024-05-18T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:27:38",
-                "episode": "5",
-                "episodeType": "full",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/4c183dc9-23ad-46bb-9be8-cb4578ba94ac/3000x3000/aejohnson.jpg?aid=rss_feed",
-                "subtitle": "The scientist talks to David Marchese about how to overcome the \u201csoft\u201d climate denial that keeps us buying junk.",
-                "summary": "The scientist talks to David Marchese about how to overcome the \u201csoft\u201d climate denial that keeps us buying junk."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 18 May 2024 09:00:00 +0000",
-            "title": "Ayana Elizabeth Johnson Has an Antidote to Our Climate Delusions"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "",
-            "content:encoded": "",
-            "contentSnippet": "",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "37088844",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/2f6341b2-8a64-40bd-baeb-7092ce311ab0/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=2f6341b2-8a64-40bd-baeb-7092ce311ab0&feed=ksGYZ_Z3"
-            },
-            "guid": "d51e4350-f666-43cd-aa45-5d76f50f93d5",
-            "isoDate": "2024-05-11T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:38:35",
-                "episode": "4",
-                "episodeType": "full",
-                "explicit": "true",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/429e18ee-5ae6-453a-ac45-cef20ae87f30/3000x3000/11nyt-podcast-theinteview-applespotify-charlamagnethagod.jpg?aid=rss_feed",
-                "subtitle": "The radio host talks to Lulu Garcia-Navarro about how he plans to wield his considerable political influence.",
-                "summary": "The radio host talks to Lulu Garcia-Navarro about how he plans to wield his considerable political influence."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 11 May 2024 09:00:00 +0000",
-            "title": "Charlamagne Tha God Won\u2019t Take Sides"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "The comedian talks to David Marchese on becoming a different person after unimaginable loss.\n",
-            "contentSnippet": "The comedian talks to David Marchese on becoming a different person after unimaginable loss.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "34569784",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/7960aad0-f672-422d-aa77-295c61028c4a/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=7960aad0-f672-422d-aa77-295c61028c4a&feed=ksGYZ_Z3"
-            },
-            "guid": "d757bbfa-ef81-4098-87d2-c629eedc5b11",
-            "isoDate": "2024-05-04T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:35:58",
-                "episode": "3",
-                "episodeType": "full",
-                "explicit": "true",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/64b13a31-0641-4ad4-a2d6-3b47f32c5540/3000x3000/04mag-interview-wayans-3000x3000jpg.jpg?aid=rss_feed",
-                "subtitle": "The comedian talks to David Marchese on becoming a different person after unimaginable loss.",
-                "summary": "The comedian talks to David Marchese on becoming a different person after unimaginable loss."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 4 May 2024 09:00:00 +0000",
-            "title": "Marlon Wayans Lost Nearly 60 Loved Ones. Comedy Saved Him."
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "On the debut of \u2019The Interview,' the actress talks to David Marchese about learning to let go of other people\u2019s opinions.\n",
-            "contentSnippet": "On the debut of \u2019The Interview,' the actress talks to David Marchese about learning to let go of other people\u2019s opinions.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "40683111",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/d9504c78-91e5-4e1e-90ef-7de18e2aa0b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=d9504c78-91e5-4e1e-90ef-7de18e2aa0b4&feed=ksGYZ_Z3"
-            },
-            "guid": "1bc96146-78a0-4d38-955c-92d18da0601b",
-            "isoDate": "2024-04-27T09:00:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:42:20",
-                "episode": "1",
-                "episodeType": "full",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/171443ec-cde3-4d43-ab6f-744924ff7c09/3000x3000/27-mag-interview-hathaway-3000x3000px.jpg?aid=rss_feed",
-                "subtitle": "On the debut of \u2019The Interview,' the actress talks to David Marchese about learning to let go of other people\u2019s opinions.",
-                "summary": "On the debut of \u2019The Interview,' the actress talks to David Marchese about learning to let go of other people\u2019s opinions."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 27 Apr 2024 09:00:00 +0000",
-            "title": "Anne Hathaway Is Done Trying to Please"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "Frustrated at the growing protest movement, the opposition leader defends his country\u2019s \u201cexistential\u201d war.\n",
-            "contentSnippet": "Frustrated at the growing protest movement, the opposition leader defends his country\u2019s \u201cexistential\u201d war.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "38363622",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/1171f300-4344-4804-af07-732f2e0bbfed/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=1171f300-4344-4804-af07-732f2e0bbfed&feed=ksGYZ_Z3"
-            },
-            "guid": "a0980d6b-56ae-4872-9ba8-023b564ba4b9",
-            "isoDate": "2024-04-27T08:55:00.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:39:55",
-                "episode": "2",
-                "episodeType": "full",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/89dbd88c-2405-42ec-ac2f-5f0877183f6d/462201a5-4aa0-484f-bcfe-959c379944c8/3000x3000/27mag-interview-lapid-3000x3000px.jpg?aid=rss_feed",
-                "subtitle": "Frustrated at the growing protest movement, the opposition leader defends his country\u2019s \u201cexistential\u201d war.",
-                "summary": "Frustrated at the growing protest movement, the opposition leader defends his country\u2019s \u201cexistential\u201d war."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Sat, 27 Apr 2024 08:55:00 +0000",
-            "title": "Yair Lapid Says the World Misunderstands Israel"
-        },
-        {
-            "author": "magazine@nytimes.com (The New York Times)",
-            "content": "\u201cThe Interview\u201d is a new podcast from The New York Times, featuring in-depth conversations with fascinating people. Each week, David Marchese and Lulu Garcia-Navarro will chat with notable figures in the worlds of culture, politics, business, sports, wellness and beyond \u2014 illuminating who they are, why they do what they do and how they impact the rest of us.\n\nThe first episodes of \u201cThe Interview\u201d premiere on April 27, and new editions will be released weekly on Saturdays. The conversations will also appear online and in print. Follow this feed to stay connected with the show.\n",
-            "contentSnippet": "\u201cThe Interview\u201d is a new podcast from The New York Times, featuring in-depth conversations with fascinating people. Each week, David Marchese and Lulu Garcia-Navarro will chat with notable figures in the worlds of culture, politics, business, sports, wellness and beyond \u2014 illuminating who they are, why they do what they do and how they impact the rest of us.\n\nThe first episodes of \u201cThe Interview\u201d premiere on April 27, and new editions will be released weekly on Saturdays. The conversations will also appear online and in print. Follow this feed to stay connected with the show.",
-            "creator": "magazine@nytimes.com (The New York Times)",
-            "enclosure": {
-                "length": "1551659",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/db4d7883-cea7-4c02-bd16-15ce235fa210/episodes/a5acbda1-b5b6-4760-b795-3c25be9dded4/audio/128/default.mp3?aid=rss_feed&awCollectionId=db4d7883-cea7-4c02-bd16-15ce235fa210&awEpisodeId=a5acbda1-b5b6-4760-b795-3c25be9dded4&feed=ksGYZ_Z3"
-            },
-            "guid": "cd5af2a3-fa78-4f1a-8ebd-fd63b9db3061",
-            "isoDate": "2024-04-19T02:00:10.000Z",
-            "itunes": {
-                "author": "The New York Times",
-                "duration": "00:01:37",
-                "episodeType": "trailer",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/6d9b5b7a-a179-4f57-bf7c-84010f28f40b/3000x3000/nyt-theinterview-3000px.jpg?aid=rss_feed",
-                "subtitle": "\u201cThe Interview\u201d is a new podcast from The New York Times, featuring in-depth conversations with fascinating people. Each week, David Marchese and Lulu Garcia-Navarro will chat with notable figures in the worlds of culture, politics, business, sports, wellness and beyond \u2014 illuminating who they are, why they do what they do and how they impact the rest of us.\n\nThe first episodes of \u201cThe Interview\u201d premiere on April 27, and new editions will be released weekly on Saturdays. The conversations will also appear online and in print. Follow this feed to stay connected with the show.",
-                "summary": "\u201cThe Interview\u201d is a new podcast from The New York Times, featuring in-depth conversations with fascinating people. Each week, David Marchese and Lulu Garcia-Navarro will chat with notable figures in the worlds of culture, politics, business, sports, wellness and beyond \u2014 illuminating who they are, why they do what they do and how they impact the rest of us.\n\nThe first episodes of \u201cThe Interview\u201d premiere on April 27, and new editions will be released weekly on Saturdays. The conversations will also appear online and in print. Follow this feed to stay connected with the show."
-            },
-            "link": "https://www.nytimes.com/column/the-interview",
-            "pubDate": "Fri, 19 Apr 2024 02:00:10 +0000",
-            "title": "Introducing 'The Interview'"
+            "pubDate": "Sat, 12 Oct 2024 09:00:00 +0000",
+            "title": "The Interview"
         }
-    ],
-    "itunes": {
-        "author": "The New York Times",
-        "categories": [
-            "Society & Culture",
-            "News"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Society & Culture",
-                "subs": null
-            },
-            {
-                "name": "News",
-                "subs": null
-            }
-        ],
-        "explicit": "false",
-        "image": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/0bc389cf-b421-4727-8fda-e8c1fd983aba/3000x3000/nyt-theinterview-3000px.jpg?aid=rss_feed",
-        "owner": {
-            "email": "magazine@nytimes.com",
-            "name": "The New York Times"
-        },
-        "summary": "Conversations with the world\u2019s most fascinating people. Each week, hosts David Marchese and Lulu Garcia-Navarro talk to compelling, influential figures in culture, politics, business, sports and beyond \u2014 illuminating who they are, why they do what they do and how they impact the rest of us. New episodes every Saturday."
-    },
-    "language": "en",
-    "lastBuildDate": "Sat, 28 Sep 2024 09:00:13 +0000",
-    "link": "https://www.nytimes.com/column/the-interview",
-    "paginationLinks": {
-        "self": "https://feeds.simplecast.com/ksGYZ_Z3"
-    },
-    "palette": [
-        "232323",
-        "A0A0A0",
-        "6F6F6F",
-        "8C8C8C",
-        "949494",
-        "5C5C5C"
-    ],
-    "pubDate": "Sat, 28 Sep 2024 09:00:00 +0000",
-    "title": "The Interview"
+    }
 }

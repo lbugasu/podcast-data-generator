@@ -1,766 +1,738 @@
 {
-    "copyright": "Enduring Word 2018",
-    "description": "Audio and Video Server For Enduring Word",
-    "feedUrl": "https://media.enduringword.com/podcasts/psalm_119/feed/",
-    "generator": "https://wordpress.org/?v=5.0.22",
-    "items": [
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:slash": "http://purl.org/rss/1.0/modules/slash/",
+        "@xmlns:sy": "http://purl.org/rss/1.0/modules/syndication/",
+        "@xmlns:wfw": "http://wellformedweb.org/CommentAPI/",
+        "channel": {
+            "atom:link": {
+                "@href": "https://media.enduringword.com/podcasts/psalm_119/feed/",
+                "@rel": "self",
+                "@type": "application/rss+xml"
+            },
+            "copyright": "Enduring Word 2018",
+            "description": "Audio and Video Server For Enduring Word",
+            "generator": "https://wordpress.org/?v=5.0.22",
+            "item": [
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/tav-sought-by-god-and-his-word/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26718-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_22.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_22.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_22.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_22.mp3",
+                    "enclosure": {
+                        "@length": "11449700",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_22.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/tav-sought-by-god-and-his-word/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_22.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_22.mp3",
+                    "link": "https://media.enduringword.com/tav-sought-by-god-and-his-word/",
+                    "pubDate": "Mon, 20 Jun 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Tav: Sought by God and His Word",
+                    "wfw:commentRss": "https://media.enduringword.com/tav-sought-by-god-and-his-word/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/shin-in-awe-of-gods-word/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26717-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_21.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_21.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_21.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_21.mp3",
+                    "enclosure": {
+                        "@length": "11731651",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_21.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/shin-in-awe-of-gods-word/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_21.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_21.mp3",
+                    "link": "https://media.enduringword.com/shin-in-awe-of-gods-word/",
+                    "pubDate": "Sun, 19 Jun 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Shin: In Awe of God\u2019s Word",
+                    "wfw:commentRss": "https://media.enduringword.com/shin-in-awe-of-gods-word/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/resh-revival-according-to-the-word-of-god/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26716-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_20.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_20.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_20.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_20.mp3",
+                    "enclosure": {
+                        "@length": "8321704",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_20.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/resh-revival-according-to-the-word-of-god/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_20.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_20.mp3",
+                    "link": "https://media.enduringword.com/resh-revival-according-to-the-word-of-god/",
+                    "pubDate": "Sat, 18 Jun 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Resh: Revival According to the Word of God",
+                    "wfw:commentRss": "https://media.enduringword.com/resh-revival-according-to-the-word-of-god/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/qof-praying-to-the-god-of-the-bible/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26715-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_19.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_19.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_19.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_19.mp3",
+                    "enclosure": {
+                        "@length": "12384470",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_19.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/qof-praying-to-the-god-of-the-bible/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_19.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_19.mp3",
+                    "link": "https://media.enduringword.com/qof-praying-to-the-god-of-the-bible/",
+                    "pubDate": "Fri, 17 Jun 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Qof: Praying to the God of the Bible",
+                    "wfw:commentRss": "https://media.enduringword.com/qof-praying-to-the-god-of-the-bible/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/tsadi-the-purity-and-truth-of-gods-word/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26714-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_18.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_18.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_18.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_18.mp3",
+                    "enclosure": {
+                        "@length": "11041840",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_18.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/tsadi-the-purity-and-truth-of-gods-word/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_18.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_18.mp3",
+                    "link": "https://media.enduringword.com/tsadi-the-purity-and-truth-of-gods-word/",
+                    "pubDate": "Thu, 16 Jun 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Tsadi: The Purity and Truth of God\u2019s Word",
+                    "wfw:commentRss": "https://media.enduringword.com/tsadi-the-purity-and-truth-of-gods-word/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/pe-steps-directed-by-gods-wonderful-word/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26713-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_17.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_17.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_17.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_17.mp3",
+                    "enclosure": {
+                        "@length": "12002939",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_17.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/pe-steps-directed-by-gods-wonderful-word/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_17.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_17.mp3",
+                    "link": "https://media.enduringword.com/pe-steps-directed-by-gods-wonderful-word/",
+                    "pubDate": "Wed, 15 Jun 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Pe: Steps Directed by God\u2019s Wonderful Word",
+                    "wfw:commentRss": "https://media.enduringword.com/pe-steps-directed-by-gods-wonderful-word/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/ayin-the-servant-seeks-the-word/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26712-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_16.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_16.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_16.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_16.mp3",
+                    "enclosure": {
+                        "@length": "9870860",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_16.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/ayin-the-servant-seeks-the-word/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_16.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_16.mp3",
+                    "link": "https://media.enduringword.com/ayin-the-servant-seeks-the-word/",
+                    "pubDate": "Tue, 14 Jun 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Ayin: The Servant Seeks the Word",
+                    "wfw:commentRss": "https://media.enduringword.com/ayin-the-servant-seeks-the-word/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/samekh-held-up-and-supported-by-the-word-of-god/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26711-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_15.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_15.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_15.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_15.mp3",
+                    "enclosure": {
+                        "@length": "14473025",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_15.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/samekh-held-up-and-supported-by-the-word-of-god/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_15.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_15.mp3",
+                    "link": "https://media.enduringword.com/samekh-held-up-and-supported-by-the-word-of-god/",
+                    "pubDate": "Mon, 13 Jun 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Samekh: Held Up and Supported by the Word of God",
+                    "wfw:commentRss": "https://media.enduringword.com/samekh-held-up-and-supported-by-the-word-of-god/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/nun-never-ending-confidence-in-gods-word/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26710-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_14.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_14.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_14.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_14.mp3",
+                    "enclosure": {
+                        "@length": "9835193",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_14.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/nun-never-ending-confidence-in-gods-word/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_14.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_14.mp3",
+                    "link": "https://media.enduringword.com/nun-never-ending-confidence-in-gods-word/",
+                    "pubDate": "Sun, 12 Jun 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Nun: Never-Ending Confidence in God\u2019s Word",
+                    "wfw:commentRss": "https://media.enduringword.com/nun-never-ending-confidence-in-gods-word/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mem-loving-the-sweetness-of-gods-word/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26709-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_13.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_13.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_13.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_13.mp3",
+                    "enclosure": {
+                        "@length": "14063052",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_13.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mem-loving-the-sweetness-of-gods-word/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_13.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_13.mp3",
+                    "link": "https://media.enduringword.com/mem-loving-the-sweetness-of-gods-word/",
+                    "pubDate": "Sat, 11 Jun 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mem: Loving the Sweetness of God\u2019s Word",
+                    "wfw:commentRss": "https://media.enduringword.com/mem-loving-the-sweetness-of-gods-word/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/lamed-saved-by-the-word-settled-in-heaven/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26708-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_12.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_12.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_12.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_12.mp3",
+                    "enclosure": {
+                        "@length": "12466185",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_12.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/lamed-saved-by-the-word-settled-in-heaven/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_12.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_12.mp3",
+                    "link": "https://media.enduringword.com/lamed-saved-by-the-word-settled-in-heaven/",
+                    "pubDate": "Fri, 10 Jun 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Lamed: Saved by the Word Settled in Heaven",
+                    "wfw:commentRss": "https://media.enduringword.com/lamed-saved-by-the-word-settled-in-heaven/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/kaf-fainting-from-affliction-revived-by-gods-word/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26707-24\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_11.mp3?_=24\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_11.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_11.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_11.mp3",
+                    "enclosure": {
+                        "@length": "10886586",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_11.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/kaf-fainting-from-affliction-revived-by-gods-word/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_11.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_11.mp3",
+                    "link": "https://media.enduringword.com/kaf-fainting-from-affliction-revived-by-gods-word/",
+                    "pubDate": "Thu, 09 Jun 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Kaf: Fainting from Affliction, Revived by God\u2019s Word",
+                    "wfw:commentRss": "https://media.enduringword.com/kaf-fainting-from-affliction-revived-by-gods-word/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/yod-confidence-in-the-creator-and-his-word/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26706-26\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_10.mp3?_=26\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_10.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_10.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_10.mp3",
+                    "enclosure": {
+                        "@length": "10456430",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_10.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/yod-confidence-in-the-creator-and-his-word/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_10.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_10.mp3",
+                    "link": "https://media.enduringword.com/yod-confidence-in-the-creator-and-his-word/",
+                    "pubDate": "Wed, 08 Jun 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Yod: Confidence in the Creator and His Word",
+                    "wfw:commentRss": "https://media.enduringword.com/yod-confidence-in-the-creator-and-his-word/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/tet-gods-word-brings-benefit-from-a-time-of-affliction/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26705-28\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_09.mp3?_=28\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_09.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_09.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_09.mp3",
+                    "enclosure": {
+                        "@length": "13966535",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_09.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/tet-gods-word-brings-benefit-from-a-time-of-affliction/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_09.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_09.mp3",
+                    "link": "https://media.enduringword.com/tet-gods-word-brings-benefit-from-a-time-of-affliction/",
+                    "pubDate": "Tue, 07 Jun 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Tet: God\u2019s Word Brings Benefit from a Time of Affliction",
+                    "wfw:commentRss": "https://media.enduringword.com/tet-gods-word-brings-benefit-from-a-time-of-affliction/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/het-hurrying-to-god-with-all-my-heart/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26704-30\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_08.mp3?_=30\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_08.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_08.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_08.mp3",
+                    "enclosure": {
+                        "@length": "7872810",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_08.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/het-hurrying-to-god-with-all-my-heart/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_08.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_08.mp3",
+                    "link": "https://media.enduringword.com/het-hurrying-to-god-with-all-my-heart/",
+                    "pubDate": "Mon, 06 Jun 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Het: Hurrying to God with All My Heart",
+                    "wfw:commentRss": "https://media.enduringword.com/het-hurrying-to-god-with-all-my-heart/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/zayin-the-power-of-gods-word-to-comfort-and-strengthen/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26703-32\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_07.mp3?_=32\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_07.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_07.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_07.mp3",
+                    "enclosure": {
+                        "@length": "7999959",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_07.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/zayin-the-power-of-gods-word-to-comfort-and-strengthen/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_07.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_07.mp3",
+                    "link": "https://media.enduringword.com/zayin-the-power-of-gods-word-to-comfort-and-strengthen/",
+                    "pubDate": "Sun, 05 Jun 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Zayin: The Power of God\u2019s Word to Comfort and Strengthen",
+                    "wfw:commentRss": "https://media.enduringword.com/zayin-the-power-of-gods-word-to-comfort-and-strengthen/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/vav-liberty-comes-from-loving-gods-word/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26702-34\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_06.mp3?_=34\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_06.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_06.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_06.mp3",
+                    "enclosure": {
+                        "@length": "8319040",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_06.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/vav-liberty-comes-from-loving-gods-word/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_06.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_06.mp3",
+                    "link": "https://media.enduringword.com/vav-liberty-comes-from-loving-gods-word/",
+                    "pubDate": "Sat, 04 Jun 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Vav: Liberty Comes from Loving God\u2019s Word",
+                    "wfw:commentRss": "https://media.enduringword.com/vav-liberty-comes-from-loving-gods-word/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/he-a-plea-for-guidance-and-life/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26701-36\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_05.mp3?_=36\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_05.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_05.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_05.mp3",
+                    "enclosure": {
+                        "@length": "8630773",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_05.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/he-a-plea-for-guidance-and-life/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_05.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_05.mp3",
+                    "link": "https://media.enduringword.com/he-a-plea-for-guidance-and-life/",
+                    "pubDate": "Fri, 03 Jun 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "He: A Plea for Guidance and Life",
+                    "wfw:commentRss": "https://media.enduringword.com/he-a-plea-for-guidance-and-life/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/dalet-revived-from-the-dust/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26700-38\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_04.mp3?_=38\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_04.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_04.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_04.mp3",
+                    "enclosure": {
+                        "@length": "6364802",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_04.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/dalet-revived-from-the-dust/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_04.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_04.mp3",
+                    "link": "https://media.enduringword.com/dalet-revived-from-the-dust/",
+                    "pubDate": "Thu, 02 Jun 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Dalet: Revived from the Dust",
+                    "wfw:commentRss": "https://media.enduringword.com/dalet-revived-from-the-dust/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/gimel-the-word-of-god-and-the-trials-of-life/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26699-40\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_03.mp3?_=40\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_03.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_03.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_03.mp3",
+                    "enclosure": {
+                        "@length": "7706050",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_03.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/gimel-the-word-of-god-and-the-trials-of-life/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_03.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_03.mp3",
+                    "link": "https://media.enduringword.com/gimel-the-word-of-god-and-the-trials-of-life/",
+                    "pubDate": "Wed, 01 Jun 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Gimel: The Word of God and the Trials of Life",
+                    "wfw:commentRss": "https://media.enduringword.com/gimel-the-word-of-god-and-the-trials-of-life/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/bet-purity-of-life-and-meditation-on-gods-word/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26698-42\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_02.mp3?_=42\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_02.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_02.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_02.mp3",
+                    "enclosure": {
+                        "@length": "10401742",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_02.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/bet-purity-of-life-and-meditation-on-gods-word/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_02.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_02.mp3",
+                    "link": "https://media.enduringword.com/bet-purity-of-life-and-meditation-on-gods-word/",
+                    "pubDate": "Tue, 31 May 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Bet: Purity of Life and Meditation on God\u2019s Word",
+                    "wfw:commentRss": "https://media.enduringword.com/bet-purity-of-life-and-meditation-on-gods-word/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/alef-the-blessedness-of-those-who-walk-in-gods-word/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26697-44\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_01.mp3?_=44\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_01.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_01.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_01.mp3",
+                    "enclosure": {
+                        "@length": "7996417",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_01.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/alef-the-blessedness-of-those-who-walk-in-gods-word/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_01.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_01.mp3",
+                    "link": "https://media.enduringword.com/alef-the-blessedness-of-those-who-walk-in-gods-word/",
+                    "pubDate": "Mon, 30 May 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Alef: The Blessedness of Those Who Walk in God\u2019s Word",
+                    "wfw:commentRss": "https://media.enduringword.com/alef-the-blessedness-of-those-who-walk-in-gods-word/feed/"
+                },
+                {
+                    "category": [
+                        "Psalm 119",
+                        "Hebrew Poetry",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/introduction-the-greatness-and-glory-of-gods-word/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26696-46\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_00.mp3?_=46\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_00.mp3",
+                    "enclosure": {
+                        "@length": "6613554",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/introduction-the-greatness-and-glory-of-gods-word/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_00.mp3",
+                    "link": "https://media.enduringword.com/introduction-the-greatness-and-glory-of-gods-word/",
+                    "pubDate": "Sun, 29 May 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Introduction: The Greatness and Glory of God\u2019s Word",
+                    "wfw:commentRss": "https://media.enduringword.com/introduction-the-greatness-and-glory-of-gods-word/feed/"
+                }
             ],
-            "comments": "https://media.enduringword.com/tav-sought-by-god-and-his-word/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_22.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26718-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_22.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_22.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_22.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_22.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_22.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "11449700",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_22.mp3"
+            "itunes:author": "David Guzik",
+            "itunes:category": {
+                "@text": "Religion & Spirituality",
+                "itunes:category": {
+                    "@text": "Christianity"
+                }
             },
-            "guid": "https://media.enduringword.com/tav-sought-by-god-and-his-word/",
-            "isoDate": "2016-06-20T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_22.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_22.mp3"
+            "itunes:explicit": "no",
+            "itunes:image": {
+                "@href": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_019_ps119_alm.jpg"
             },
-            "link": "https://media.enduringword.com/tav-sought-by-god-and-his-word/",
-            "pubDate": "Mon, 20 Jun 2016 07:00:00 +0000",
-            "title": "Tav: Sought by God and His Word"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/shin-in-awe-of-gods-word/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_21.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26717-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_21.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_21.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_21.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_21.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_21.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "11731651",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_21.mp3"
+            "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
+            "itunes:owner": {
+                "itunes:email": "admin@enduringword.com",
+                "itunes:name": "David Guzik"
             },
-            "guid": "https://media.enduringword.com/shin-in-awe-of-gods-word/",
-            "isoDate": "2016-06-19T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_21.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_21.mp3"
-            },
-            "link": "https://media.enduringword.com/shin-in-awe-of-gods-word/",
-            "pubDate": "Sun, 19 Jun 2016 07:00:00 +0000",
-            "title": "Shin: In Awe of God\u2019s Word"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/resh-revival-according-to-the-word-of-god/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_20.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26716-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_20.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_20.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_20.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_20.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_20.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "8321704",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_20.mp3"
-            },
-            "guid": "https://media.enduringword.com/resh-revival-according-to-the-word-of-god/",
-            "isoDate": "2016-06-18T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_20.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_20.mp3"
-            },
-            "link": "https://media.enduringword.com/resh-revival-according-to-the-word-of-god/",
-            "pubDate": "Sat, 18 Jun 2016 07:00:00 +0000",
-            "title": "Resh: Revival According to the Word of God"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/qof-praying-to-the-god-of-the-bible/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_19.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26715-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_19.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_19.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_19.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_19.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_19.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "12384470",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_19.mp3"
-            },
-            "guid": "https://media.enduringword.com/qof-praying-to-the-god-of-the-bible/",
-            "isoDate": "2016-06-17T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_19.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_19.mp3"
-            },
-            "link": "https://media.enduringword.com/qof-praying-to-the-god-of-the-bible/",
-            "pubDate": "Fri, 17 Jun 2016 07:00:00 +0000",
-            "title": "Qof: Praying to the God of the Bible"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/tsadi-the-purity-and-truth-of-gods-word/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_18.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26714-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_18.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_18.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_18.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_18.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_18.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "11041840",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_18.mp3"
-            },
-            "guid": "https://media.enduringword.com/tsadi-the-purity-and-truth-of-gods-word/",
-            "isoDate": "2016-06-16T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_18.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_18.mp3"
-            },
-            "link": "https://media.enduringword.com/tsadi-the-purity-and-truth-of-gods-word/",
-            "pubDate": "Thu, 16 Jun 2016 07:00:00 +0000",
-            "title": "Tsadi: The Purity and Truth of God\u2019s Word"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/pe-steps-directed-by-gods-wonderful-word/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_17.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26713-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_17.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_17.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_17.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_17.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_17.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "12002939",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_17.mp3"
-            },
-            "guid": "https://media.enduringword.com/pe-steps-directed-by-gods-wonderful-word/",
-            "isoDate": "2016-06-15T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_17.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_17.mp3"
-            },
-            "link": "https://media.enduringword.com/pe-steps-directed-by-gods-wonderful-word/",
-            "pubDate": "Wed, 15 Jun 2016 07:00:00 +0000",
-            "title": "Pe: Steps Directed by God\u2019s Wonderful Word"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/ayin-the-servant-seeks-the-word/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_16.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26712-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_16.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_16.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_16.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_16.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_16.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "9870860",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_16.mp3"
-            },
-            "guid": "https://media.enduringword.com/ayin-the-servant-seeks-the-word/",
-            "isoDate": "2016-06-14T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_16.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_16.mp3"
-            },
-            "link": "https://media.enduringword.com/ayin-the-servant-seeks-the-word/",
-            "pubDate": "Tue, 14 Jun 2016 07:00:00 +0000",
-            "title": "Ayin: The Servant Seeks the Word"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/samekh-held-up-and-supported-by-the-word-of-god/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_15.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26711-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_15.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_15.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_15.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_15.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_15.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "14473025",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_15.mp3"
-            },
-            "guid": "https://media.enduringword.com/samekh-held-up-and-supported-by-the-word-of-god/",
-            "isoDate": "2016-06-13T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_15.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_15.mp3"
-            },
-            "link": "https://media.enduringword.com/samekh-held-up-and-supported-by-the-word-of-god/",
-            "pubDate": "Mon, 13 Jun 2016 07:00:00 +0000",
-            "title": "Samekh: Held Up and Supported by the Word of God"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/nun-never-ending-confidence-in-gods-word/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_14.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26710-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_14.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_14.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_14.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_14.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_14.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "9835193",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_14.mp3"
-            },
-            "guid": "https://media.enduringword.com/nun-never-ending-confidence-in-gods-word/",
-            "isoDate": "2016-06-12T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_14.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_14.mp3"
-            },
-            "link": "https://media.enduringword.com/nun-never-ending-confidence-in-gods-word/",
-            "pubDate": "Sun, 12 Jun 2016 07:00:00 +0000",
-            "title": "Nun: Never-Ending Confidence in God\u2019s Word"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/mem-loving-the-sweetness-of-gods-word/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_13.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26709-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_13.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_13.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_13.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_13.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_13.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "14063052",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_13.mp3"
-            },
-            "guid": "https://media.enduringword.com/mem-loving-the-sweetness-of-gods-word/",
-            "isoDate": "2016-06-11T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_13.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_13.mp3"
-            },
-            "link": "https://media.enduringword.com/mem-loving-the-sweetness-of-gods-word/",
-            "pubDate": "Sat, 11 Jun 2016 07:00:00 +0000",
-            "title": "Mem: Loving the Sweetness of God\u2019s Word"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/lamed-saved-by-the-word-settled-in-heaven/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_12.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26708-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_12.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_12.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_12.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_12.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_12.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "12466185",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_12.mp3"
-            },
-            "guid": "https://media.enduringword.com/lamed-saved-by-the-word-settled-in-heaven/",
-            "isoDate": "2016-06-10T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_12.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_12.mp3"
-            },
-            "link": "https://media.enduringword.com/lamed-saved-by-the-word-settled-in-heaven/",
-            "pubDate": "Fri, 10 Jun 2016 07:00:00 +0000",
-            "title": "Lamed: Saved by the Word Settled in Heaven"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/kaf-fainting-from-affliction-revived-by-gods-word/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_11.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26707-24\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_11.mp3?_=24\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_11.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_11.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_11.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_11.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "10886586",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_11.mp3"
-            },
-            "guid": "https://media.enduringword.com/kaf-fainting-from-affliction-revived-by-gods-word/",
-            "isoDate": "2016-06-09T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_11.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_11.mp3"
-            },
-            "link": "https://media.enduringword.com/kaf-fainting-from-affliction-revived-by-gods-word/",
-            "pubDate": "Thu, 09 Jun 2016 07:00:00 +0000",
-            "title": "Kaf: Fainting from Affliction, Revived by God\u2019s Word"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/yod-confidence-in-the-creator-and-his-word/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_10.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26706-26\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_10.mp3?_=26\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_10.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_10.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_10.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_10.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "10456430",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_10.mp3"
-            },
-            "guid": "https://media.enduringword.com/yod-confidence-in-the-creator-and-his-word/",
-            "isoDate": "2016-06-08T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_10.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_10.mp3"
-            },
-            "link": "https://media.enduringword.com/yod-confidence-in-the-creator-and-his-word/",
-            "pubDate": "Wed, 08 Jun 2016 07:00:00 +0000",
-            "title": "Yod: Confidence in the Creator and His Word"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/tet-gods-word-brings-benefit-from-a-time-of-affliction/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_09.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26705-28\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_09.mp3?_=28\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_09.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_09.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_09.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_09.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "13966535",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_09.mp3"
-            },
-            "guid": "https://media.enduringword.com/tet-gods-word-brings-benefit-from-a-time-of-affliction/",
-            "isoDate": "2016-06-07T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_09.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_09.mp3"
-            },
-            "link": "https://media.enduringword.com/tet-gods-word-brings-benefit-from-a-time-of-affliction/",
-            "pubDate": "Tue, 07 Jun 2016 07:00:00 +0000",
-            "title": "Tet: God\u2019s Word Brings Benefit from a Time of Affliction"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/het-hurrying-to-god-with-all-my-heart/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_08.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26704-30\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_08.mp3?_=30\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_08.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_08.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_08.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_08.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "7872810",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_08.mp3"
-            },
-            "guid": "https://media.enduringword.com/het-hurrying-to-god-with-all-my-heart/",
-            "isoDate": "2016-06-06T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_08.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_08.mp3"
-            },
-            "link": "https://media.enduringword.com/het-hurrying-to-god-with-all-my-heart/",
-            "pubDate": "Mon, 06 Jun 2016 07:00:00 +0000",
-            "title": "Het: Hurrying to God with All My Heart"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/zayin-the-power-of-gods-word-to-comfort-and-strengthen/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_07.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26703-32\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_07.mp3?_=32\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_07.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_07.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_07.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_07.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "7999959",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_07.mp3"
-            },
-            "guid": "https://media.enduringword.com/zayin-the-power-of-gods-word-to-comfort-and-strengthen/",
-            "isoDate": "2016-06-05T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_07.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_07.mp3"
-            },
-            "link": "https://media.enduringword.com/zayin-the-power-of-gods-word-to-comfort-and-strengthen/",
-            "pubDate": "Sun, 05 Jun 2016 07:00:00 +0000",
-            "title": "Zayin: The Power of God\u2019s Word to Comfort and Strengthen"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/vav-liberty-comes-from-loving-gods-word/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_06.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26702-34\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_06.mp3?_=34\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_06.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_06.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_06.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_06.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "8319040",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_06.mp3"
-            },
-            "guid": "https://media.enduringword.com/vav-liberty-comes-from-loving-gods-word/",
-            "isoDate": "2016-06-04T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_06.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_06.mp3"
-            },
-            "link": "https://media.enduringword.com/vav-liberty-comes-from-loving-gods-word/",
-            "pubDate": "Sat, 04 Jun 2016 07:00:00 +0000",
-            "title": "Vav: Liberty Comes from Loving God\u2019s Word"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/he-a-plea-for-guidance-and-life/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_05.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26701-36\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_05.mp3?_=36\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_05.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_05.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_05.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_05.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "8630773",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_05.mp3"
-            },
-            "guid": "https://media.enduringword.com/he-a-plea-for-guidance-and-life/",
-            "isoDate": "2016-06-03T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_05.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_05.mp3"
-            },
-            "link": "https://media.enduringword.com/he-a-plea-for-guidance-and-life/",
-            "pubDate": "Fri, 03 Jun 2016 07:00:00 +0000",
-            "title": "He: A Plea for Guidance and Life"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/dalet-revived-from-the-dust/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_04.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26700-38\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_04.mp3?_=38\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_04.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_04.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_04.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_04.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "6364802",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_04.mp3"
-            },
-            "guid": "https://media.enduringword.com/dalet-revived-from-the-dust/",
-            "isoDate": "2016-06-02T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_04.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_04.mp3"
-            },
-            "link": "https://media.enduringword.com/dalet-revived-from-the-dust/",
-            "pubDate": "Thu, 02 Jun 2016 07:00:00 +0000",
-            "title": "Dalet: Revived from the Dust"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/gimel-the-word-of-god-and-the-trials-of-life/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_03.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26699-40\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_03.mp3?_=40\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_03.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_03.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_03.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_03.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "7706050",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_03.mp3"
-            },
-            "guid": "https://media.enduringword.com/gimel-the-word-of-god-and-the-trials-of-life/",
-            "isoDate": "2016-06-01T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_03.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_03.mp3"
-            },
-            "link": "https://media.enduringword.com/gimel-the-word-of-god-and-the-trials-of-life/",
-            "pubDate": "Wed, 01 Jun 2016 07:00:00 +0000",
-            "title": "Gimel: The Word of God and the Trials of Life"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/bet-purity-of-life-and-meditation-on-gods-word/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_02.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26698-42\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_02.mp3?_=42\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_02.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_02.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_02.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_02.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "10401742",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_02.mp3"
-            },
-            "guid": "https://media.enduringword.com/bet-purity-of-life-and-meditation-on-gods-word/",
-            "isoDate": "2016-05-31T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_02.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_02.mp3"
-            },
-            "link": "https://media.enduringword.com/bet-purity-of-life-and-meditation-on-gods-word/",
-            "pubDate": "Tue, 31 May 2016 07:00:00 +0000",
-            "title": "Bet: Purity of Life and Meditation on God\u2019s Word"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/alef-the-blessedness-of-those-who-walk-in-gods-word/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_01.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26697-44\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_01.mp3?_=44\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_01.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_01.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_01.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_01.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "7996417",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_01.mp3"
-            },
-            "guid": "https://media.enduringword.com/alef-the-blessedness-of-those-who-walk-in-gods-word/",
-            "isoDate": "2016-05-30T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_01.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_01.mp3"
-            },
-            "link": "https://media.enduringword.com/alef-the-blessedness-of-those-who-walk-in-gods-word/",
-            "pubDate": "Mon, 30 May 2016 07:00:00 +0000",
-            "title": "Alef: The Blessedness of Those Who Walk in God\u2019s Word"
-        },
-        {
-            "categories": [
-                "Psalm 119",
-                "Hebrew Poetry",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/introduction-the-greatness-and-glory-of-gods-word/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26696-46\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_00.mp3?_=46\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Psalm119_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Psalm119_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "6613554",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/introduction-the-greatness-and-glory-of-gods-word/",
-            "isoDate": "2016-05-29T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Psalms,199th,Psalm",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Psalm119_00.mp3"
-            },
-            "link": "https://media.enduringword.com/introduction-the-greatness-and-glory-of-gods-word/",
-            "pubDate": "Sun, 29 May 2016 07:00:00 +0000",
-            "title": "Introduction: The Greatness and Glory of God\u2019s Word"
+            "itunes:subtitle": "Enduring Word Commentary Series \u2013\u00a0The 119th Psalm",
+            "itunes:summary": "Pastor David Guzik preaches through the 119th Psalm in the Old Testament.",
+            "language": "en-US",
+            "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
+            "link": "https://media.enduringword.com",
+            "sy:updateFrequency": "1",
+            "sy:updatePeriod": "hourly",
+            "title": "Psalm 119 \u2013 Enduring Word Media Server"
         }
-    ],
-    "itunes": {
-        "author": "David Guzik",
-        "categories": [
-            "Religion & Spirituality"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Religion & Spirituality",
-                "subs": [
-                    {
-                        "name": "Christianity"
-                    }
-                ]
-            }
-        ],
-        "explicit": "no",
-        "image": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_019_ps119_alm.jpg",
-        "keywords": [
-            "Bible",
-            "David",
-            "Guzik",
-            "Enduring",
-            "Word",
-            "Commentary",
-            "Old",
-            "Testament",
-            "Psalms",
-            "199th",
-            "Psalm"
-        ],
-        "owner": {
-            "email": "admin@enduringword.com",
-            "name": "David Guzik"
-        },
-        "subtitle": "Enduring Word Commentary Series \u2013\u00a0The 119th Psalm",
-        "summary": "Pastor David Guzik preaches through the 119th Psalm in the Old Testament."
-    },
-    "language": "en-US",
-    "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
-    "link": "https://media.enduringword.com",
-    "paginationLinks": {
-        "self": "https://media.enduringword.com/podcasts/psalm_119/feed/"
-    },
-    "palette": [],
-    "title": "Psalm 119 \u2013 Enduring Word Media Server"
+    }
 }

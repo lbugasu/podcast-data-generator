@@ -1,284 +1,272 @@
 {
-    "copyright": "Enduring Word 2018",
-    "description": "Audio and Video Server For Enduring Word",
-    "feedUrl": "https://media.enduringword.com/podcasts/ephesians/feed/",
-    "generator": "https://wordpress.org/?v=5.0.22",
-    "items": [
-        {
-            "categories": [
-                "The Book of Ephesians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:slash": "http://purl.org/rss/1.0/modules/slash/",
+        "@xmlns:sy": "http://purl.org/rss/1.0/modules/syndication/",
+        "@xmlns:wfw": "http://wellformedweb.org/CommentAPI/",
+        "channel": {
+            "atom:link": {
+                "@href": "https://media.enduringword.com/podcasts/ephesians/feed/",
+                "@rel": "self",
+                "@type": "application/rss+xml"
+            },
+            "copyright": "Enduring Word 2018",
+            "description": "Audio and Video Server For Enduring Word",
+            "generator": "https://wordpress.org/?v=5.0.22",
+            "item": [
+                {
+                    "category": [
+                        "The Book of Ephesians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/ephesians-6-the-two-essentials-in-spiritual-warfare/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26432-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0600_00.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0600_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Eph0600_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Eph0600_00.mp3",
+                    "enclosure": {
+                        "@length": "32039923",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0600_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/ephesians-6-the-two-essentials-in-spiritual-warfare/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Ephesians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Eph0600_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Eph0600_00.mp3",
+                    "link": "https://media.enduringword.com/ephesians-6-the-two-essentials-in-spiritual-warfare/",
+                    "pubDate": "Tue, 29 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Ephesians 6 \u2013 The Two Essentials in Spiritual Warfare",
+                    "wfw:commentRss": "https://media.enduringword.com/ephesians-6-the-two-essentials-in-spiritual-warfare/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Ephesians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/ephesians-522-33-the-christian-marriage/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26431-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0522_33.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0522_33.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Eph0522_33.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Eph0522_33.mp3",
+                    "enclosure": {
+                        "@length": "37652680",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0522_33.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/ephesians-522-33-the-christian-marriage/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Ephesians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Eph0522_33.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Eph0522_33.mp3",
+                    "link": "https://media.enduringword.com/ephesians-522-33-the-christian-marriage/",
+                    "pubDate": "Mon, 28 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Ephesians 5:22-33 \u2013 The Christian Marriage",
+                    "wfw:commentRss": "https://media.enduringword.com/ephesians-522-33-the-christian-marriage/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Ephesians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/ephesians-425-521-the-new-man-and-walking-in-the-light/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26430-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0425_0521.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0425_0521.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Eph0425_0521.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Eph0425_0521.mp3",
+                    "enclosure": {
+                        "@length": "34462412",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0425_0521.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/ephesians-425-521-the-new-man-and-walking-in-the-light/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Ephesians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Eph0425_0521.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Eph0425_0521.mp3",
+                    "link": "https://media.enduringword.com/ephesians-425-521-the-new-man-and-walking-in-the-light/",
+                    "pubDate": "Sun, 27 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Ephesians 4:25-5:21 \u2013 The New Man and Walking in the Light",
+                    "wfw:commentRss": "https://media.enduringword.com/ephesians-425-521-the-new-man-and-walking-in-the-light/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Ephesians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/ephesians-41-24-the-walk-worthy-of-the-call/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26429-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0401_24.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0401_24.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Eph0401_24.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Eph0401_24.mp3",
+                    "enclosure": {
+                        "@length": "32390370",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0401_24.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/ephesians-41-24-the-walk-worthy-of-the-call/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Ephesians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Eph0401_24.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Eph0401_24.mp3",
+                    "link": "https://media.enduringword.com/ephesians-41-24-the-walk-worthy-of-the-call/",
+                    "pubDate": "Sat, 26 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Ephesians 4:1-24 \u2013 The Walk Worthy of the Call",
+                    "wfw:commentRss": "https://media.enduringword.com/ephesians-41-24-the-walk-worthy-of-the-call/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Ephesians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/ephesians-3-the-fellowship-of-the-mystery/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26428-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0300_00.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0300_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Eph0300_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Eph0300_00.mp3",
+                    "enclosure": {
+                        "@length": "32114101",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0300_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/ephesians-3-the-fellowship-of-the-mystery/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Ephesians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Eph0300_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Eph0300_00.mp3",
+                    "link": "https://media.enduringword.com/ephesians-3-the-fellowship-of-the-mystery/",
+                    "pubDate": "Fri, 25 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Ephesians 3 \u2013 The Fellowship of the Mystery",
+                    "wfw:commentRss": "https://media.enduringword.com/ephesians-3-the-fellowship-of-the-mystery/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Ephesians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/ephesians-2-gods-work-of-reconciliation/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26427-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0200_00.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0200_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Eph0200_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Eph0200_00.mp3",
+                    "enclosure": {
+                        "@length": "31853116",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0200_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/ephesians-2-gods-work-of-reconciliation/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Ephesians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Eph0200_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Eph0200_00.mp3",
+                    "link": "https://media.enduringword.com/ephesians-2-gods-work-of-reconciliation/",
+                    "pubDate": "Thu, 24 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Ephesians 2 \u2013 God\u2019s Work of Reconciliation",
+                    "wfw:commentRss": "https://media.enduringword.com/ephesians-2-gods-work-of-reconciliation/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Ephesians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/ephesians-1-the-work-of-the-father-son-and-holy-spirit-in-gods-eternal-plan/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26426-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0100_00.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0100_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Eph0100_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Eph0100_00.mp3",
+                    "enclosure": {
+                        "@length": "37668885",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0100_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/ephesians-1-the-work-of-the-father-son-and-holy-spirit-in-gods-eternal-plan/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Ephesians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Eph0100_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Eph0100_00.mp3",
+                    "link": "https://media.enduringword.com/ephesians-1-the-work-of-the-father-son-and-holy-spirit-in-gods-eternal-plan/",
+                    "pubDate": "Wed, 23 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Ephesians 1 \u2013 The Work of the Father, Son, and Holy Spirit in God\u2019s Eternal Plan",
+                    "wfw:commentRss": "https://media.enduringword.com/ephesians-1-the-work-of-the-father-son-and-holy-spirit-in-gods-eternal-plan/feed/"
+                }
             ],
-            "comments": "https://media.enduringword.com/ephesians-6-the-two-essentials-in-spiritual-warfare/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Eph0600_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26432-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0600_00.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0600_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Eph0600_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0600_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0600_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "32039923",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0600_00.mp3"
+            "itunes:author": "David Guzik",
+            "itunes:category": {
+                "@text": "Religion & Spirituality",
+                "itunes:category": {
+                    "@text": "Christianity"
+                }
             },
-            "guid": "https://media.enduringword.com/ephesians-6-the-two-essentials-in-spiritual-warfare/",
-            "isoDate": "2017-08-29T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Ephesians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Eph0600_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Eph0600_00.mp3"
+            "itunes:explicit": "no",
+            "itunes:image": {
+                "@href": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_049_ephesians.jpg"
             },
-            "link": "https://media.enduringword.com/ephesians-6-the-two-essentials-in-spiritual-warfare/",
-            "pubDate": "Tue, 29 Aug 2017 07:00:00 +0000",
-            "title": "Ephesians 6 \u2013 The Two Essentials in Spiritual Warfare"
-        },
-        {
-            "categories": [
-                "The Book of Ephesians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/ephesians-522-33-the-christian-marriage/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Eph0522_33.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26431-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0522_33.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0522_33.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Eph0522_33.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0522_33.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0522_33.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "37652680",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0522_33.mp3"
+            "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Ephesians",
+            "itunes:owner": {
+                "itunes:email": "admin@enduringword.com",
+                "itunes:name": "David Guzik"
             },
-            "guid": "https://media.enduringword.com/ephesians-522-33-the-christian-marriage/",
-            "isoDate": "2017-08-28T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Ephesians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Eph0522_33.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Eph0522_33.mp3"
-            },
-            "link": "https://media.enduringword.com/ephesians-522-33-the-christian-marriage/",
-            "pubDate": "Mon, 28 Aug 2017 07:00:00 +0000",
-            "title": "Ephesians 5:22-33 \u2013 The Christian Marriage"
-        },
-        {
-            "categories": [
-                "The Book of Ephesians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/ephesians-425-521-the-new-man-and-walking-in-the-light/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Eph0425_0521.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26430-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0425_0521.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0425_0521.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Eph0425_0521.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0425_0521.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0425_0521.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "34462412",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0425_0521.mp3"
-            },
-            "guid": "https://media.enduringword.com/ephesians-425-521-the-new-man-and-walking-in-the-light/",
-            "isoDate": "2017-08-27T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Ephesians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Eph0425_0521.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Eph0425_0521.mp3"
-            },
-            "link": "https://media.enduringword.com/ephesians-425-521-the-new-man-and-walking-in-the-light/",
-            "pubDate": "Sun, 27 Aug 2017 07:00:00 +0000",
-            "title": "Ephesians 4:25-5:21 \u2013 The New Man and Walking in the Light"
-        },
-        {
-            "categories": [
-                "The Book of Ephesians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/ephesians-41-24-the-walk-worthy-of-the-call/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Eph0401_24.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26429-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0401_24.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0401_24.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Eph0401_24.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0401_24.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0401_24.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "32390370",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0401_24.mp3"
-            },
-            "guid": "https://media.enduringword.com/ephesians-41-24-the-walk-worthy-of-the-call/",
-            "isoDate": "2017-08-26T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Ephesians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Eph0401_24.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Eph0401_24.mp3"
-            },
-            "link": "https://media.enduringword.com/ephesians-41-24-the-walk-worthy-of-the-call/",
-            "pubDate": "Sat, 26 Aug 2017 07:00:00 +0000",
-            "title": "Ephesians 4:1-24 \u2013 The Walk Worthy of the Call"
-        },
-        {
-            "categories": [
-                "The Book of Ephesians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/ephesians-3-the-fellowship-of-the-mystery/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Eph0300_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26428-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0300_00.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0300_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Eph0300_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0300_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0300_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "32114101",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0300_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/ephesians-3-the-fellowship-of-the-mystery/",
-            "isoDate": "2017-08-25T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Ephesians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Eph0300_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Eph0300_00.mp3"
-            },
-            "link": "https://media.enduringword.com/ephesians-3-the-fellowship-of-the-mystery/",
-            "pubDate": "Fri, 25 Aug 2017 07:00:00 +0000",
-            "title": "Ephesians 3 \u2013 The Fellowship of the Mystery"
-        },
-        {
-            "categories": [
-                "The Book of Ephesians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/ephesians-2-gods-work-of-reconciliation/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Eph0200_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26427-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0200_00.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0200_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Eph0200_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0200_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0200_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "31853116",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0200_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/ephesians-2-gods-work-of-reconciliation/",
-            "isoDate": "2017-08-24T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Ephesians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Eph0200_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Eph0200_00.mp3"
-            },
-            "link": "https://media.enduringword.com/ephesians-2-gods-work-of-reconciliation/",
-            "pubDate": "Thu, 24 Aug 2017 07:00:00 +0000",
-            "title": "Ephesians 2 \u2013 God\u2019s Work of Reconciliation"
-        },
-        {
-            "categories": [
-                "The Book of Ephesians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/ephesians-1-the-work-of-the-father-son-and-holy-spirit-in-gods-eternal-plan/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Eph0100_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26426-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0100_00.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Eph0100_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Eph0100_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0100_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Eph0100_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "37668885",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Eph0100_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/ephesians-1-the-work-of-the-father-son-and-holy-spirit-in-gods-eternal-plan/",
-            "isoDate": "2017-08-23T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Ephesians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Eph0100_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Eph0100_00.mp3"
-            },
-            "link": "https://media.enduringword.com/ephesians-1-the-work-of-the-father-son-and-holy-spirit-in-gods-eternal-plan/",
-            "pubDate": "Wed, 23 Aug 2017 07:00:00 +0000",
-            "title": "Ephesians 1 \u2013 The Work of the Father, Son, and Holy Spirit in God\u2019s Eternal Plan"
+            "itunes:subtitle": "Enduring Word Commentary Series \u2013\u00a0The Book Ephesians",
+            "itunes:summary": "Pastor David Guzik preaches through the New Testament Book of Ephesians.",
+            "language": "en-US",
+            "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
+            "link": "https://media.enduringword.com",
+            "sy:updateFrequency": "1",
+            "sy:updatePeriod": "hourly",
+            "title": "The Book of Ephesians \u2013 Enduring Word Media Server"
         }
-    ],
-    "itunes": {
-        "author": "David Guzik",
-        "categories": [
-            "Religion & Spirituality"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Religion & Spirituality",
-                "subs": [
-                    {
-                        "name": "Christianity"
-                    }
-                ]
-            }
-        ],
-        "explicit": "no",
-        "image": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_049_ephesians.jpg",
-        "keywords": [
-            "Bible",
-            "David",
-            "Guzik",
-            "Enduring",
-            "Word",
-            "Commentary",
-            "New",
-            "Testament",
-            "Book",
-            "of",
-            "Ephesians"
-        ],
-        "owner": {
-            "email": "admin@enduringword.com",
-            "name": "David Guzik"
-        },
-        "subtitle": "Enduring Word Commentary Series \u2013\u00a0The Book Ephesians",
-        "summary": "Pastor David Guzik preaches through the New Testament Book of Ephesians."
-    },
-    "language": "en-US",
-    "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
-    "link": "https://media.enduringword.com",
-    "paginationLinks": {
-        "self": "https://media.enduringword.com/podcasts/ephesians/feed/"
-    },
-    "palette": [],
-    "title": "The Book of Ephesians \u2013 Enduring Word Media Server"
+    }
 }

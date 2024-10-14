@@ -1,449 +1,463 @@
 {
-    "copyright": "Macmillan",
-    "description": "Award-winning broadcaster and educator Alvin Hall hits the road alongside activist and social justice trainer Jan\u00e9e Woods Weber. They drive from Detroit to New Orleans, collecting powerful, personal testimony about how Black Americans used the historic travel guide The Negro Motorist's Green Book during the height of segregation as a vital resource to quell fears, find safe havens, and travel with dignity. As he drives the Green Book, Alvin unearths both inspiring and heartbreaking tales that tell a different story from what Hollywood would have you believe. Driving the Green Book is a living history podcast that preserves a powerful legacy and honors the stories of those who lived through the era, supported and uplifted each other, and fought for equality. Please be sure to explore the Green Book on our exclusive Apple Maps Guide at apple.co/explorethegreenbook, listen to the show's Apple Music Playlist at apple.co/listentothegreenbook, and find recommended reading in Apple Books at apple.co/alvinhallcollection.",
-    "feedUrl": "https://feeds.simplecast.com/rzXeu9UA",
-    "generator": "https://simplecast.com",
-    "image": {
-        "link": "https://www.stitcher.com",
-        "title": "Driving the Green Book",
-        "url": "https://image.simplecastcdn.com/images/5b7d8c77-15ba-4eff-a999-2e725db21db5/f0eba1d8-17de-40c1-904d-a076ed8a9220/3000x3000/driving-the-green-book-cover.jpg?aid=rss_feed"
-    },
-    "items": [
-        {
-            "author": "podcasts@macmillan.com (Alvin Hall, Jan\u00e9e Woods Weber)",
-            "content": "<p>The Green Book, as it was commonly known, was the definitive guide for Black travelers seeking to, in the words of the guide\u2019s creator, \u201ctravel without aggravations and embarrassments.\u201d But what was it really like to use the Green Book as a traveling family? In this bonus episode of Driving the Green Book, host Alvin Hall and associate producer Jan\u00e9e Woods Weber talk with two women whose families used the guide and were eyewitnesses to the period of U.S. history covered in the podcast.</p><p>Driving the Green Book is now a book, available <a href=\"https://harperone.com/9780063271968/driving-the-green-book\">from HarperOne</a>! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i> from your local independent bookstore or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> for more information about the podcast.</p>\n",
-            "content:encoded": "<p>The Green Book, as it was commonly known, was the definitive guide for Black travelers seeking to, in the words of the guide\u2019s creator, \u201ctravel without aggravations and embarrassments.\u201d But what was it really like to use the Green Book as a traveling family? In this bonus episode of Driving the Green Book, host Alvin Hall and associate producer Jan\u00e9e Woods Weber talk with two women whose families used the guide and were eyewitnesses to the period of U.S. history covered in the podcast.</p><p>Driving the Green Book is now a book, available <a href=\"https://harperone.com/9780063271968/driving-the-green-book\">from HarperOne</a>! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i> from your local independent bookstore or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> for more information about the podcast.</p>\n",
-            "content:encodedSnippet": "The Green Book, as it was commonly known, was the definitive guide for Black travelers seeking to, in the words of the guide\u2019s creator, \u201ctravel without aggravations and embarrassments.\u201d But what was it really like to use the Green Book as a traveling family? In this bonus episode of Driving the Green Book, host Alvin Hall and associate producer Jan\u00e9e Woods Weber talk with two women whose families used the guide and were eyewitnesses to the period of U.S. history covered in the podcast.\nDriving the Green Book is now a book, available from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance from your local independent bookstore or from Amazon and Bookshop.org on the web.\nVisit www.drivingthegreenbook.com for more information about the podcast.",
-            "contentSnippet": "The Green Book, as it was commonly known, was the definitive guide for Black travelers seeking to, in the words of the guide\u2019s creator, \u201ctravel without aggravations and embarrassments.\u201d But what was it really like to use the Green Book as a traveling family? In this bonus episode of Driving the Green Book, host Alvin Hall and associate producer Jan\u00e9e Woods Weber talk with two women whose families used the guide and were eyewitnesses to the period of U.S. history covered in the podcast.\nDriving the Green Book is now a book, available from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance from your local independent bookstore or from Amazon and Bookshop.org on the web.\nVisit www.drivingthegreenbook.com for more information about the podcast.",
-            "creator": "podcasts@macmillan.com (Alvin Hall, Jan\u00e9e Woods Weber)",
-            "enclosure": {
-                "length": "26262858",
-                "type": "audio/mpeg",
-                "url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/3c77a7d0-4462-4614-a0fc-3d462f0723f3/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=3c77a7d0-4462-4614-a0fc-3d462f0723f3&feed=rzXeu9UA"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:googleplay": "http://www.google.com/schemas/play-podcasts/1.0",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:media": "http://search.yahoo.com/mrss/",
+        "@xmlns:podcast": "https://podcastindex.org/namespace/1.0",
+        "channel": {
+            "atom:link": [
+                {
+                    "@href": "https://feeds.simplecast.com/rzXeu9UA",
+                    "@rel": "self",
+                    "@title": "MP3 Audio",
+                    "@type": "application/atom+xml"
+                },
+                {
+                    "@href": "https://simplecast.superfeedr.com",
+                    "@rel": "hub",
+                    "@xmlns": "http://www.w3.org/2005/Atom"
+                }
+            ],
+            "copyright": "Macmillan",
+            "description": "Award-winning broadcaster and educator Alvin Hall hits the road alongside activist and social justice trainer Jan\u00e9e Woods Weber. They drive from Detroit to New Orleans, collecting powerful, personal testimony about how Black Americans used the historic travel guide The Negro Motorist's Green Book during the height of segregation as a vital resource to quell fears, find safe havens, and travel with dignity. As he drives the Green Book, Alvin unearths both inspiring and heartbreaking tales that tell a different story from what Hollywood would have you believe. Driving the Green Book is a living history podcast that preserves a powerful legacy and honors the stories of those who lived through the era, supported and uplifted each other, and fought for equality. Please be sure to explore the Green Book on our exclusive Apple Maps Guide at apple.co/explorethegreenbook, listen to the show's Apple Music Playlist at apple.co/listentothegreenbook, and find recommended reading in Apple Books at apple.co/alvinhallcollection.",
+            "generator": "https://simplecast.com",
+            "image": {
+                "link": "https://www.stitcher.com",
+                "palette": [
+                    "D5BA97",
+                    "172A2F",
+                    "5F6E68",
+                    "71A4A0",
+                    "465965",
+                    "69939C"
+                ],
+                "title": "Driving the Green Book",
+                "url": "https://image.simplecastcdn.com/images/5b7d8c77-15ba-4eff-a999-2e725db21db5/f0eba1d8-17de-40c1-904d-a076ed8a9220/3000x3000/driving-the-green-book-cover.jpg?aid=rss_feed"
             },
-            "guid": "a2fbc5dc-9129-41f4-ba39-7d25773b3eda",
-            "isoDate": "2023-04-24T12:00:00.000Z",
-            "itunes": {
-                "author": "Alvin Hall, Jan\u00e9e Woods Weber",
-                "duration": "00:27:19",
-                "episodeType": "bonus",
-                "explicit": "false",
-                "season": "1",
-                "subtitle": "In this bonus episode, Alvin and Jan\u00e9e talk with two women whose families used The Negro Motorist Green Book.",
-                "summary": "In this bonus episode, Alvin and Jan\u00e9e talk with two women whose families used The Negro Motorist Green Book."
+            "item": [
+                {
+                    "author": "podcasts@macmillan.com (Alvin Hall, Jan\u00e9e Woods Weber)",
+                    "content:encoded": "<p>The Green Book, as it was commonly known, was the definitive guide for Black travelers seeking to, in the words of the guide\u2019s creator, \u201ctravel without aggravations and embarrassments.\u201d But what was it really like to use the Green Book as a traveling family? In this bonus episode of Driving the Green Book, host Alvin Hall and associate producer Jan\u00e9e Woods Weber talk with two women whose families used the guide and were eyewitnesses to the period of U.S. history covered in the podcast.</p><p>Driving the Green Book is now a book, available <a href=\"https://harperone.com/9780063271968/driving-the-green-book\">from HarperOne</a>! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i> from your local independent bookstore or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> for more information about the podcast.</p>\n",
+                    "description": "<p>The Green Book, as it was commonly known, was the definitive guide for Black travelers seeking to, in the words of the guide\u2019s creator, \u201ctravel without aggravations and embarrassments.\u201d But what was it really like to use the Green Book as a traveling family? In this bonus episode of Driving the Green Book, host Alvin Hall and associate producer Jan\u00e9e Woods Weber talk with two women whose families used the guide and were eyewitnesses to the period of U.S. history covered in the podcast.</p><p>Driving the Green Book is now a book, available <a href=\"https://harperone.com/9780063271968/driving-the-green-book\">from HarperOne</a>! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i> from your local independent bookstore or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> for more information about the podcast.</p>\n",
+                    "enclosure": {
+                        "@length": "26262858",
+                        "@type": "audio/mpeg",
+                        "@url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/3c77a7d0-4462-4614-a0fc-3d462f0723f3/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=3c77a7d0-4462-4614-a0fc-3d462f0723f3&feed=rzXeu9UA"
+                    },
+                    "guid": {
+                        "#text": "a2fbc5dc-9129-41f4-ba39-7d25773b3eda",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Alvin Hall, Jan\u00e9e Woods Weber",
+                    "itunes:duration": "00:27:19",
+                    "itunes:episodeType": "bonus",
+                    "itunes:explicit": "false",
+                    "itunes:season": "1",
+                    "itunes:subtitle": "In this bonus episode, Alvin and Jan\u00e9e talk with two women whose families used The Negro Motorist Green Book.",
+                    "itunes:summary": "In this bonus episode, Alvin and Jan\u00e9e talk with two women whose families used The Negro Motorist Green Book.",
+                    "itunes:title": "Bonus: Two eyewitnesses to the Green Book",
+                    "link": "https://www.stitcher.com",
+                    "pubDate": "Mon, 24 Apr 2023 12:00:00 +0000",
+                    "title": "Bonus: Two eyewitnesses to the Green Book"
+                },
+                {
+                    "author": "podcasts@macmillan.com (Macmillan)",
+                    "content:encoded": "<p>Hear an excerpt from the new book, How We Can Win: Race, History, and Changing the Money Game That's Rigged. In it, author and activist Kimberly Jones delves into the impacts of systemic racism, revealing how her formative years in Chicago gave birth to a lifelong devotion to justice. It's inspired by her viral video during the George Floyd protests and her analysis of the enduring economic disparities Black Americans face. With an introduction from Green Book host Alvin Hall, you can hear the first chapter of the audio book now. Get your copy <a href=\"https://read.macmillan.com/lp/how-we-can-win-kimberly-jones-audiobook/?utm_source=podcast&utm_medium=linkinteaser&utm_term=na-shownotes&utm_content=na-listen-audexcerpt&utm_campaign=9781250807403\">here</a> or wherever books or audiobooks are sold.</p>\n",
+                    "description": "<p>Hear an excerpt from the new book, How We Can Win: Race, History, and Changing the Money Game That's Rigged. In it, author and activist Kimberly Jones delves into the impacts of systemic racism, revealing how her formative years in Chicago gave birth to a lifelong devotion to justice. It's inspired by her viral video during the George Floyd protests and her analysis of the enduring economic disparities Black Americans face. With an introduction from Green Book host Alvin Hall, you can hear the first chapter of the audio book now. Get your copy <a href=\"https://read.macmillan.com/lp/how-we-can-win-kimberly-jones-audiobook/?utm_source=podcast&utm_medium=linkinteaser&utm_term=na-shownotes&utm_content=na-listen-audexcerpt&utm_campaign=9781250807403\">here</a> or wherever books or audiobooks are sold.</p>\n",
+                    "enclosure": {
+                        "@length": "5386703",
+                        "@type": "audio/mpeg",
+                        "@url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/39f566eb-cd1f-4723-bbac-1058b167fd68/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=39f566eb-cd1f-4723-bbac-1058b167fd68&feed=rzXeu9UA"
+                    },
+                    "guid": {
+                        "#text": "2b1b6e61-c8cc-4deb-935a-ae3f0174cd70",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Macmillan",
+                    "itunes:duration": "00:05:33",
+                    "itunes:episodeType": "bonus",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/39f566eb-cd1f-4723-bbac-1058b167fd68/3000x3000/image.jpg?aid=rss_feed"
+                    },
+                    "itunes:season": "1",
+                    "itunes:subtitle": "Hear an excerpt from the new book, How We Can Win: Race, History, and Changing the Money Game That's Rigged. In it, author and activist Kimberly Jones delves into the impacts of systemic racism, revealing how her formative years in Chicago gave birth to a lifelong devotion to justice. It's inspired by her viral video during the George Floyd protests and her analysis of the enduring economic disparities Black Americans face. With an introduction from Green Book host Alvin Hall, you can hear the first chapter of the audio book now. Get your copy here or wherever books or audiobooks are sold.",
+                    "itunes:summary": "Hear an excerpt from the new book, How We Can Win: Race, History, and Changing the Money Game That's Rigged. In it, author and activist Kimberly Jones delves into the impacts of systemic racism, revealing how her formative years in Chicago gave birth to a lifelong devotion to justice. It's inspired by her viral video during the George Floyd protests and her analysis of the enduring economic disparities Black Americans face. With an introduction from Green Book host Alvin Hall, you can hear the first chapter of the audio book now. Get your copy here or wherever books or audiobooks are sold.",
+                    "itunes:title": "Book Preview: How We Can Win: Race, History, and Changing the Money Game That's Rigged",
+                    "link": "https://www.stitcher.com",
+                    "pubDate": "Fri, 18 Feb 2022 11:00:00 +0000",
+                    "title": "Book Preview: How We Can Win: Race, History, and Changing the Money Game That's Rigged"
+                },
+                {
+                    "author": "podcasts@macmillan.com (Macmillan)",
+                    "content:encoded": "<p>Although Driving the Green Book is over, today we're sharing a clip from another powerful story about the fight for racial equality. The new book <em>Buses Are A Comin'</em> by Charles Person is an account of the Freedom Riders movement, written by the youngest original Freedom Rider. In this exclusive excerpt, you'll hear the first chapter of the audiobook. Get your copy today <a href=\"https://amzn.to/32ELlBd\">here</a> or wherever books or audiobooks are sold. </p>\n",
+                    "description": "<p>Although Driving the Green Book is over, today we're sharing a clip from another powerful story about the fight for racial equality. The new book <em>Buses Are A Comin'</em> by Charles Person is an account of the Freedom Riders movement, written by the youngest original Freedom Rider. In this exclusive excerpt, you'll hear the first chapter of the audiobook. Get your copy today <a href=\"https://amzn.to/32ELlBd\">here</a> or wherever books or audiobooks are sold. </p>\n",
+                    "enclosure": {
+                        "@length": "22619648",
+                        "@type": "audio/mpeg",
+                        "@url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/1788aeaf-d7e7-41a3-b7cf-e5043effc7e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=1788aeaf-d7e7-41a3-b7cf-e5043effc7e0&feed=rzXeu9UA"
+                    },
+                    "guid": {
+                        "#text": "fd2a1136-20a2-42c1-8877-ad1300fc7e36",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Macmillan",
+                    "itunes:duration": "00:23:30",
+                    "itunes:episodeType": "bonus",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/1788aeaf-d7e7-41a3-b7cf-e5043effc7e0/3000x3000/image.jpg?aid=rss_feed"
+                    },
+                    "itunes:season": "1",
+                    "itunes:subtitle": "Although Driving the Green Book is over, today we're sharing a clip from another powerful story about the fight for racial equality. The new book Buses Are A Comin' by Charles Person is an account of the Freedom Riders movement, written by the youngest original Freedom Rider. In this exclusive excerpt, you'll hear the first chapter of the audiobook. Get your copy today here or wherever books or audiobooks are sold.\u00a0",
+                    "itunes:summary": "Although Driving the Green Book is over, today we're sharing a clip from another powerful story about the fight for racial equality. The new book Buses Are A Comin' by Charles Person is an account of the Freedom Riders movement, written by the youngest original Freedom Rider. In this exclusive excerpt, you'll hear the first chapter of the audiobook. Get your copy today here or wherever books or audiobooks are sold.\u00a0",
+                    "itunes:title": "Book Preview: Buses Are A Comin'",
+                    "link": "https://www.stitcher.com",
+                    "pubDate": "Tue, 27 Apr 2021 04:00:00 +0000",
+                    "title": "Book Preview: Buses Are A Comin'"
+                },
+                {
+                    "author": "podcasts@macmillan.com (Macmillan)",
+                    "content:encoded": "<p>Now a National Civil Rights Monument, and best-known as the site where Dr. Martin Luther King, Jr. was assassinated, the Lorraine Motel in Memphis, Tennessee hosted not only civil rights leaders, but a range of famous musicians and black celebrities during its heyday. In our final episode, we learn about the motel\u2019s owners, Walter and Loree Bailey, the efforts to preserve it as a national monument, and its complicated legacy as a symbol of both Black excellence and immense sadness.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "description": "<p>Now a National Civil Rights Monument, and best-known as the site where Dr. Martin Luther King, Jr. was assassinated, the Lorraine Motel in Memphis, Tennessee hosted not only civil rights leaders, but a range of famous musicians and black celebrities during its heyday. In our final episode, we learn about the motel\u2019s owners, Walter and Loree Bailey, the efforts to preserve it as a national monument, and its complicated legacy as a symbol of both Black excellence and immense sadness.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "enclosure": {
+                        "@length": "27831167",
+                        "@type": "audio/mpeg",
+                        "@url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/34c4aed1-c1f1-4411-9f5d-b624be20930f/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=34c4aed1-c1f1-4411-9f5d-b624be20930f&feed=rzXeu9UA"
+                    },
+                    "guid": {
+                        "#text": "2322e4f0-b32f-472b-a583-ac360139f173",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Macmillan",
+                    "itunes:duration": "00:28:56",
+                    "itunes:episode": "10",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/34c4aed1-c1f1-4411-9f5d-b624be20930f/3000x3000/image.jpg?aid=rss_feed"
+                    },
+                    "itunes:season": "1",
+                    "itunes:subtitle": "Now a National Civil Rights Monument, and best-known as the site where Dr. Martin Luther King, Jr. was assassinated, the Lorraine Motel in Memphis, Tennessee hosted not only civil rights leaders, but a range of famous musicians and black celebrities during its heyday.",
+                    "itunes:summary": "Now a National Civil Rights Monument, and best-known as the site where Dr. Martin Luther King, Jr. was assassinated, the Lorraine Motel in Memphis, Tennessee hosted not only civil rights leaders, but a range of famous musicians and black celebrities during its heyday.",
+                    "itunes:title": "The Lorraine Motel",
+                    "link": "https://www.stitcher.com",
+                    "pubDate": "Mon, 16 Nov 2020 05:00:00 +0000",
+                    "title": "The Lorraine Motel"
+                },
+                {
+                    "author": "podcasts@macmillan.com (Macmillan)",
+                    "content:encoded": "<p>Places like Paradise Valley in Detroit and Idlewild, Michigan, catered to African American communities, whether it be to create a thriving district of Black-owned businesses or allow your family to take a trip where you could be comfortable and free of any harassment or prejudice. In this episode, we discover how urban renewal has affected these locations and what remains of these communities today.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "description": "<p>Places like Paradise Valley in Detroit and Idlewild, Michigan, catered to African American communities, whether it be to create a thriving district of Black-owned businesses or allow your family to take a trip where you could be comfortable and free of any harassment or prejudice. In this episode, we discover how urban renewal has affected these locations and what remains of these communities today.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "enclosure": {
+                        "@length": "30899399",
+                        "@type": "audio/mpeg",
+                        "@url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/69fbf422-8617-4106-bdad-9e6113e6861e/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=69fbf422-8617-4106-bdad-9e6113e6861e&feed=rzXeu9UA"
+                    },
+                    "guid": {
+                        "#text": "34c54c27-e817-4972-8198-ac3601377ef9",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Macmillan",
+                    "itunes:duration": "00:32:08",
+                    "itunes:episode": "9",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/69fbf422-8617-4106-bdad-9e6113e6861e/3000x3000/image.jpg?aid=rss_feed"
+                    },
+                    "itunes:season": "1",
+                    "itunes:subtitle": "Places like Paradise Valley in Detroit and Idlewild, Michigan, catered to African American communities, whether it be to create a thriving district of Black-owned businesses or allow your family to take a trip where you could be comfortable and free of any harassment or prejudice.",
+                    "itunes:summary": "Places like Paradise Valley in Detroit and Idlewild, Michigan, catered to African American communities, whether it be to create a thriving district of Black-owned businesses or allow your family to take a trip where you could be comfortable and free of any harassment or prejudice.",
+                    "itunes:title": "Ghost Towns",
+                    "link": "https://www.stitcher.com",
+                    "pubDate": "Mon, 9 Nov 2020 05:00:00 +0000",
+                    "title": "Ghost Towns"
+                },
+                {
+                    "author": "podcasts@macmillan.com (Macmillan)",
+                    "content:encoded": "<p>The A.G. Gaston Motel in Birmingham, Alabama was considered top-tier lodging for African Americans and an epicenter for the civil rights movement during its heyday in the 1950s. In this episode we learn about the preservation efforts being undertaken by communities across the U.S. to save historic Green Book locations, like the A.G. Gaston and the Lorraine Motel in Memphis.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "description": "<p>The A.G. Gaston Motel in Birmingham, Alabama was considered top-tier lodging for African Americans and an epicenter for the civil rights movement during its heyday in the 1950s. In this episode we learn about the preservation efforts being undertaken by communities across the U.S. to save historic Green Book locations, like the A.G. Gaston and the Lorraine Motel in Memphis.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "enclosure": {
+                        "@length": "23571327",
+                        "@type": "audio/mpeg",
+                        "@url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/f8930759-0cc6-43fa-a5d4-e26099f7838a/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=f8930759-0cc6-43fa-a5d4-e26099f7838a&feed=rzXeu9UA"
+                    },
+                    "guid": {
+                        "#text": "4b83c456-7870-4235-acff-ac360135be87",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Macmillan",
+                    "itunes:duration": "00:24:30",
+                    "itunes:episode": "8",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/f8930759-0cc6-43fa-a5d4-e26099f7838a/3000x3000/image.jpg?aid=rss_feed"
+                    },
+                    "itunes:season": "1",
+                    "itunes:subtitle": "The A.G. Gaston Motel in Birmingham, Alabama was considered top-tier lodging for African Americans and an epicenter for the civil rights movement during its heyday in the 1950s.",
+                    "itunes:summary": "The A.G. Gaston Motel in Birmingham, Alabama was considered top-tier lodging for African Americans and an epicenter for the civil rights movement during its heyday in the 1950s.",
+                    "itunes:title": "Preserving History",
+                    "link": "https://www.stitcher.com",
+                    "pubDate": "Mon, 2 Nov 2020 05:00:00 +0000",
+                    "title": "Preserving History"
+                },
+                {
+                    "author": "podcasts@macmillan.com (Macmillan)",
+                    "content:encoded": "<p>We explore the emotional legacy of <i>The Negro Motorist Green Book</i> and the inherited wisdom passed down from generation to generation. We also hear from some of the artists and writers of today who have been inspired by and continue the work of the Green Book.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "description": "<p>We explore the emotional legacy of <i>The Negro Motorist Green Book</i> and the inherited wisdom passed down from generation to generation. We also hear from some of the artists and writers of today who have been inspired by and continue the work of the Green Book.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "enclosure": {
+                        "@length": "24752061",
+                        "@type": "audio/mpeg",
+                        "@url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/fe18cc58-3162-42ac-8b8a-a3a5f02bdc9b/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=fe18cc58-3162-42ac-8b8a-a3a5f02bdc9b&feed=rzXeu9UA"
+                    },
+                    "guid": {
+                        "#text": "772bb91e-65c0-4a11-8c28-ac3601349e0b",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Macmillan",
+                    "itunes:duration": "00:25:43",
+                    "itunes:episode": "7",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/fe18cc58-3162-42ac-8b8a-a3a5f02bdc9b/3000x3000/image.jpg?aid=rss_feed"
+                    },
+                    "itunes:season": "1",
+                    "itunes:subtitle": "We explore the emotional legacy of The Negro Motorist Green Book and the inherited wisdom passed down from generation to generation.",
+                    "itunes:summary": "We explore the emotional legacy of The Negro Motorist Green Book and the inherited wisdom passed down from generation to generation.",
+                    "itunes:title": "A Place to Put It",
+                    "link": "https://www.stitcher.com",
+                    "pubDate": "Mon, 26 Oct 2020 04:00:00 +0000",
+                    "title": "A Place to Put It"
+                },
+                {
+                    "author": "podcasts@macmillan.com (Macmillan)",
+                    "content:encoded": "<p>The elders who lived through segregation pass down the wisdom and knowledge they gained as they learned to safely navigate extremely tense, frightening, and humiliating situations. In this episode we learn from their example and find ways to move forward towards a more just future.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "description": "<p>The elders who lived through segregation pass down the wisdom and knowledge they gained as they learned to safely navigate extremely tense, frightening, and humiliating situations. In this episode we learn from their example and find ways to move forward towards a more just future.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "enclosure": {
+                        "@length": "28932498",
+                        "@type": "audio/mpeg",
+                        "@url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/5b18e304-52f5-46d6-9fac-3d2cf4dac0e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=5b18e304-52f5-46d6-9fac-3d2cf4dac0e3&feed=rzXeu9UA"
+                    },
+                    "guid": {
+                        "#text": "d320b06a-6c7f-44ac-af06-ac36013335a4",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Macmillan",
+                    "itunes:duration": "00:30:05",
+                    "itunes:episode": "6",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/5b18e304-52f5-46d6-9fac-3d2cf4dac0e3/3000x3000/image.jpg?aid=rss_feed"
+                    },
+                    "itunes:season": "1",
+                    "itunes:subtitle": "The elders who lived through segregation pass down the wisdom and knowledge they gained as they learned to safely navigate extremely tense, frightening, and humiliating situations.",
+                    "itunes:summary": "The elders who lived through segregation pass down the wisdom and knowledge they gained as they learned to safely navigate extremely tense, frightening, and humiliating situations.",
+                    "itunes:title": "The Elders, Living History",
+                    "link": "https://www.stitcher.com",
+                    "pubDate": "Mon, 19 Oct 2020 04:00:00 +0000",
+                    "title": "The Elders, Living History"
+                },
+                {
+                    "author": "podcasts@macmillan.com (Macmillan)",
+                    "content:encoded": "<p>We head to Nashville to trace the legacy of Jim Crow, segregation, and <i>The Negro Motorist Green Book</i> through different generations of one family: The Nettles. We also pay tribute to the female entrepreneurs who provided vital services to the African American community, but went unrecognized in The Green Book and throughout history.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "description": "<p>We head to Nashville to trace the legacy of Jim Crow, segregation, and <i>The Negro Motorist Green Book</i> through different generations of one family: The Nettles. We also pay tribute to the female entrepreneurs who provided vital services to the African American community, but went unrecognized in The Green Book and throughout history.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "enclosure": {
+                        "@length": "25101900",
+                        "@type": "audio/mpeg",
+                        "@url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/52084366-8030-40e7-bfbf-9f5b97a6bf7d/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=52084366-8030-40e7-bfbf-9f5b97a6bf7d&feed=rzXeu9UA"
+                    },
+                    "guid": {
+                        "#text": "ef173de7-a49b-4604-a76d-ac36012fffd5",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Macmillan",
+                    "itunes:duration": "00:26:05",
+                    "itunes:episode": "5",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/52084366-8030-40e7-bfbf-9f5b97a6bf7d/3000x3000/image.jpg?aid=rss_feed"
+                    },
+                    "itunes:season": "1",
+                    "itunes:subtitle": "We head to Nashville to trace the legacy of Jim Crow, segregation, and The Negro Motorist Green Book through different generations of one family: The Nettles.",
+                    "itunes:summary": "We head to Nashville to trace the legacy of Jim Crow, segregation, and The Negro Motorist Green Book through different generations of one family: The Nettles.",
+                    "itunes:title": "The Nettles of Nashville",
+                    "link": "https://www.stitcher.com",
+                    "pubDate": "Mon, 12 Oct 2020 04:00:00 +0000",
+                    "title": "The Nettles of Nashville"
+                },
+                {
+                    "author": "podcasts@macmillan.com (Macmillan)",
+                    "content:encoded": "<p>How did Black travelers use Mother Wit\u2014common sense insights\u2014to help them survive during the Jim Crow era? We hear how this intuition helped individuals and families navigate the roads, stay safe, and build networks and businesses that provided the services they were being denied.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "description": "<p>How did Black travelers use Mother Wit\u2014common sense insights\u2014to help them survive during the Jim Crow era? We hear how this intuition helped individuals and families navigate the roads, stay safe, and build networks and businesses that provided the services they were being denied.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "enclosure": {
+                        "@length": "29669762",
+                        "@type": "audio/mpeg",
+                        "@url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/b46bb80f-a881-482a-ac13-79d96735e6b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=b46bb80f-a881-482a-ac13-79d96735e6b5&feed=rzXeu9UA"
+                    },
+                    "guid": {
+                        "#text": "d3b863a5-1913-4907-aa6e-ac36012e4481",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Macmillan",
+                    "itunes:duration": "00:30:51",
+                    "itunes:episode": "4",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/b46bb80f-a881-482a-ac13-79d96735e6b5/3000x3000/image.jpg?aid=rss_feed"
+                    },
+                    "itunes:season": "1",
+                    "itunes:subtitle": "How did Black travelers use Mother Wit\u2014common sense insights\u2014to help them survive during the Jim Crow era?",
+                    "itunes:summary": "How did Black travelers use Mother Wit\u2014common sense insights\u2014to help them survive during the Jim Crow era?",
+                    "itunes:title": "Mother Wit",
+                    "link": "https://www.stitcher.com",
+                    "pubDate": "Mon, 5 Oct 2020 04:00:00 +0000",
+                    "title": "Mother Wit"
+                },
+                {
+                    "author": "podcasts@macmillan.com (Macmillan)",
+                    "content:encoded": "<p>We head to Jackson, Mississippi where we hear local residents and a former Motown musician reminisce about the vivacity of Farish Street\u2014the historic Black business district also known as \u201cLittle Harlem.\u201d</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "description": "<p>We head to Jackson, Mississippi where we hear local residents and a former Motown musician reminisce about the vivacity of Farish Street\u2014the historic Black business district also known as \u201cLittle Harlem.\u201d</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "enclosure": {
+                        "@length": "26695153",
+                        "@type": "audio/mpeg",
+                        "@url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/542d0a21-d77b-4656-bfe0-ddc2d8cc8966/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=542d0a21-d77b-4656-bfe0-ddc2d8cc8966&feed=rzXeu9UA"
+                    },
+                    "guid": {
+                        "#text": "7161ce35-1165-4a1a-93fc-ac36012bc2a7",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Macmillan",
+                    "itunes:duration": "00:27:45",
+                    "itunes:episode": "3",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/542d0a21-d77b-4656-bfe0-ddc2d8cc8966/3000x3000/image.jpg?aid=rss_feed"
+                    },
+                    "itunes:season": "1",
+                    "itunes:subtitle": "We head to Jackson, Mississippi where we hear local residents and a former Motown musician reminisce about the vivacity of Farish Street\u2014the historic Black business district also known as \u201cLittle Harlem.\u201d",
+                    "itunes:summary": "We head to Jackson, Mississippi where we hear local residents and a former Motown musician reminisce about the vivacity of Farish Street\u2014the historic Black business district also known as \u201cLittle Harlem.\u201d",
+                    "itunes:title": "Little Harlem, MS",
+                    "link": "https://www.stitcher.com",
+                    "pubDate": "Mon, 28 Sep 2020 12:23:00 +0000",
+                    "title": "Little Harlem, MS"
+                },
+                {
+                    "author": "podcasts@macmillan.com (Macmillan)",
+                    "content:encoded": "<p>Alma and Victor Hugo Green created <i>The Negro Motorist Green Book</i> to reduce the frustrations of African Americans traveling by car around the country. We visit the Schomburg Center in Harlem, New York to see the Green Book archive for ourselves and learn about the creators\u2019 aspirations for the guide and their hope that one day they would no longer need to publish it.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "description": "<p>Alma and Victor Hugo Green created <i>The Negro Motorist Green Book</i> to reduce the frustrations of African Americans traveling by car around the country. We visit the Schomburg Center in Harlem, New York to see the Green Book archive for ourselves and learn about the creators\u2019 aspirations for the guide and their hope that one day they would no longer need to publish it.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "enclosure": {
+                        "@length": "24327413",
+                        "@type": "audio/mpeg",
+                        "@url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/76c5aafd-95b3-4221-a683-d3ee95991ca2/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=76c5aafd-95b3-4221-a683-d3ee95991ca2&feed=rzXeu9UA"
+                    },
+                    "guid": {
+                        "#text": "f8471b2f-32f1-4dd4-9800-ac28014911fa",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Macmillan",
+                    "itunes:duration": "00:25:17",
+                    "itunes:episode": "2",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/76c5aafd-95b3-4221-a683-d3ee95991ca2/3000x3000/image.jpg?aid=rss_feed"
+                    },
+                    "itunes:season": "1",
+                    "itunes:subtitle": "Alma and Victor Hugo Green created The Negro Motorist Green Book to reduce the frustrations of African Americans traveling by car around the country.",
+                    "itunes:summary": "Alma and Victor Hugo Green created The Negro Motorist Green Book to reduce the frustrations of African Americans traveling by car around the country.",
+                    "itunes:title": "Victor and Alma",
+                    "link": "https://www.stitcher.com",
+                    "pubDate": "Tue, 22 Sep 2020 04:00:00 +0000",
+                    "title": "Victor and Alma"
+                },
+                {
+                    "author": "podcasts@macmillan.com (Macmillan)",
+                    "content:encoded": "<p>Host Alvin Hall and associate producer Jane\u00e9 Woods Weber take you on a trip from Detroit to New Orleans, stopping at locations listed in <i>The Negro Motorist Green Book</i> along the way. They hear stories from people who lived through the era of Jim Crow laws and segregation about the harassment they received on cross-country road trips and in their own cities.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "description": "<p>Host Alvin Hall and associate producer Jane\u00e9 Woods Weber take you on a trip from Detroit to New Orleans, stopping at locations listed in <i>The Negro Motorist Green Book</i> along the way. They hear stories from people who lived through the era of Jim Crow laws and segregation about the harassment they received on cross-country road trips and in their own cities.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "enclosure": {
+                        "@length": "25053422",
+                        "@type": "audio/mpeg",
+                        "@url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/af334811-7e51-4c2d-9fac-f73b8e786fb3/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=af334811-7e51-4c2d-9fac-f73b8e786fb3&feed=rzXeu9UA"
+                    },
+                    "guid": {
+                        "#text": "d0d7934a-1349-484b-b648-ac280104027d",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Macmillan",
+                    "itunes:duration": "00:26:02",
+                    "itunes:episode": "1",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/af334811-7e51-4c2d-9fac-f73b8e786fb3/3000x3000/image.jpg?aid=rss_feed"
+                    },
+                    "itunes:season": "1",
+                    "itunes:subtitle": "Host Alvin Hall and associate producer Jane\u00e9 Woods Weber take you on a trip from Detroit to New Orleans, stopping at locations listed in The Negro Motorist Green Book along the way.",
+                    "itunes:summary": "Host Alvin Hall and associate producer Jane\u00e9 Woods Weber take you on a trip from Detroit to New Orleans, stopping at locations listed in The Negro Motorist Green Book along the way.",
+                    "itunes:title": "In the Time of the Green Book",
+                    "link": "https://www.stitcher.com",
+                    "pubDate": "Mon, 14 Sep 2020 04:00:00 +0000",
+                    "title": "In the Time of the Green Book"
+                },
+                {
+                    "author": "podcasts@macmillan.com (Macmillan)",
+                    "content:encoded": "<p>What was it really like to travel as a Black person in America during the era of Jim Crow laws and segregation? Join host Alvin Hall and producer Jan\u00e9e Woods Weber as they drive south from Detroit to New Orleans. Along the way, they collect powerful personal testimony from African Americans who used <i>The Negro Motorist Green Book</i> to negotiate travel around the country. Hear sharp insights and eye-opening perspectives about this period in history that give critical context to the struggle for racial justice today. Coming September 15 from Macmillan Podcasts.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "description": "<p>What was it really like to travel as a Black person in America during the era of Jim Crow laws and segregation? Join host Alvin Hall and producer Jan\u00e9e Woods Weber as they drive south from Detroit to New Orleans. Along the way, they collect powerful personal testimony from African Americans who used <i>The Negro Motorist Green Book</i> to negotiate travel around the country. Hear sharp insights and eye-opening perspectives about this period in history that give critical context to the struggle for racial justice today. Coming September 15 from Macmillan Podcasts.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
+                    "enclosure": {
+                        "@length": "3710336",
+                        "@type": "audio/mpeg",
+                        "@url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/3d6741a1-b7c8-4ea0-ac32-d65c2d44137b/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=3d6741a1-b7c8-4ea0-ac32-d65c2d44137b&feed=rzXeu9UA"
+                    },
+                    "guid": {
+                        "#text": "cddd5654-8f2c-4a8b-b036-ac2401544705",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Macmillan",
+                    "itunes:duration": "00:03:48",
+                    "itunes:episodeType": "trailer",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/3d6741a1-b7c8-4ea0-ac32-d65c2d44137b/3000x3000/image.jpg?aid=rss_feed"
+                    },
+                    "itunes:season": "1",
+                    "itunes:subtitle": "What was it really like to travel as a Black person in America during the era of Jim Crow laws and segregation?",
+                    "itunes:summary": "What was it really like to travel as a Black person in America during the era of Jim Crow laws and segregation?",
+                    "itunes:title": "Introducing: Driving the Green Book",
+                    "link": "https://www.stitcher.com",
+                    "pubDate": "Tue, 1 Sep 2020 04:05:00 +0000",
+                    "title": "Introducing: Driving the Green Book"
+                }
+            ],
+            "itunes:author": "Macmillan",
+            "itunes:category": {
+                "@text": "Society & Culture"
             },
+            "itunes:explicit": "true",
+            "itunes:image": {
+                "@href": "https://image.simplecastcdn.com/images/5b7d8c77-15ba-4eff-a999-2e725db21db5/f0eba1d8-17de-40c1-904d-a076ed8a9220/3000x3000/driving-the-green-book-cover.jpg?aid=rss_feed"
+            },
+            "itunes:new-feed-url": "https://feeds.simplecast.com/rzXeu9UA",
+            "itunes:owner": {
+                "itunes:email": "podcasts@macmillan.com",
+                "itunes:name": "Macmillan"
+            },
+            "itunes:summary": "Award-winning broadcaster and educator Alvin Hall hits the road alongside activist and social justice trainer Jan\u00e9e Woods Weber. They drive from Detroit to New Orleans, collecting powerful, personal testimony about how Black Americans used the historic travel guide The Negro Motorist's Green Book during the height of segregation as a vital resource to quell fears, find safe havens, and travel with dignity. As he drives the Green Book, Alvin unearths both inspiring and heartbreaking tales that tell a different story from what Hollywood would have you believe. Driving the Green Book is a living history podcast that preserves a powerful legacy and honors the stories of those who lived through the era, supported and uplifted each other, and fought for equality. Please be sure to explore the Green Book on our exclusive Apple Maps Guide at apple.co/explorethegreenbook, listen to the show's Apple Music Playlist at apple.co/listentothegreenbook, and find recommended reading in Apple Books at apple.co/alvinhallcollection.",
+            "itunes:type": "serial",
+            "language": "en",
+            "lastBuildDate": "Tue, 4 Jun 2024 23:03:49 +0000",
             "link": "https://www.stitcher.com",
             "pubDate": "Mon, 24 Apr 2023 12:00:00 +0000",
-            "title": "Bonus: Two eyewitnesses to the Green Book"
-        },
-        {
-            "author": "podcasts@macmillan.com (Macmillan)",
-            "content": "<p>Hear an excerpt from the new book, How We Can Win: Race, History, and Changing the Money Game That's Rigged. In it, author and activist Kimberly Jones delves into the impacts of systemic racism, revealing how her formative years in Chicago gave birth to a lifelong devotion to justice. It's inspired by her viral video during the George Floyd protests and her analysis of the enduring economic disparities Black Americans face. With an introduction from Green Book host Alvin Hall, you can hear the first chapter of the audio book now. Get your copy <a href=\"https://read.macmillan.com/lp/how-we-can-win-kimberly-jones-audiobook/?utm_source=podcast&utm_medium=linkinteaser&utm_term=na-shownotes&utm_content=na-listen-audexcerpt&utm_campaign=9781250807403\">here</a> or wherever books or audiobooks are sold.</p>\n",
-            "content:encoded": "<p>Hear an excerpt from the new book, How We Can Win: Race, History, and Changing the Money Game That's Rigged. In it, author and activist Kimberly Jones delves into the impacts of systemic racism, revealing how her formative years in Chicago gave birth to a lifelong devotion to justice. It's inspired by her viral video during the George Floyd protests and her analysis of the enduring economic disparities Black Americans face. With an introduction from Green Book host Alvin Hall, you can hear the first chapter of the audio book now. Get your copy <a href=\"https://read.macmillan.com/lp/how-we-can-win-kimberly-jones-audiobook/?utm_source=podcast&utm_medium=linkinteaser&utm_term=na-shownotes&utm_content=na-listen-audexcerpt&utm_campaign=9781250807403\">here</a> or wherever books or audiobooks are sold.</p>\n",
-            "content:encodedSnippet": "Hear an excerpt from the new book, How We Can Win: Race, History, and Changing the Money Game That's Rigged. In it, author and activist Kimberly Jones delves into the impacts of systemic racism, revealing how her formative years in Chicago gave birth to a lifelong devotion to justice. It's inspired by her viral video during the George Floyd protests and her analysis of the enduring economic disparities Black Americans face. With an introduction from Green Book host Alvin Hall, you can hear the first chapter of the audio book now. Get your copy here or wherever books or audiobooks are sold.",
-            "contentSnippet": "Hear an excerpt from the new book, How We Can Win: Race, History, and Changing the Money Game That's Rigged. In it, author and activist Kimberly Jones delves into the impacts of systemic racism, revealing how her formative years in Chicago gave birth to a lifelong devotion to justice. It's inspired by her viral video during the George Floyd protests and her analysis of the enduring economic disparities Black Americans face. With an introduction from Green Book host Alvin Hall, you can hear the first chapter of the audio book now. Get your copy here or wherever books or audiobooks are sold.",
-            "creator": "podcasts@macmillan.com (Macmillan)",
-            "enclosure": {
-                "length": "5386703",
-                "type": "audio/mpeg",
-                "url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/39f566eb-cd1f-4723-bbac-1058b167fd68/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=39f566eb-cd1f-4723-bbac-1058b167fd68&feed=rzXeu9UA"
-            },
-            "guid": "2b1b6e61-c8cc-4deb-935a-ae3f0174cd70",
-            "isoDate": "2022-02-18T11:00:00.000Z",
-            "itunes": {
-                "author": "Macmillan",
-                "duration": "00:05:33",
-                "episodeType": "bonus",
-                "explicit": "true",
-                "image": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/39f566eb-cd1f-4723-bbac-1058b167fd68/3000x3000/image.jpg?aid=rss_feed",
-                "season": "1",
-                "subtitle": "Hear an excerpt from the new book, How We Can Win: Race, History, and Changing the Money Game That's Rigged. In it, author and activist Kimberly Jones delves into the impacts of systemic racism, revealing how her formative years in Chicago gave birth to a lifelong devotion to justice. It's inspired by her viral video during the George Floyd protests and her analysis of the enduring economic disparities Black Americans face. With an introduction from Green Book host Alvin Hall, you can hear the first chapter of the audio book now. Get your copy here or wherever books or audiobooks are sold.",
-                "summary": "Hear an excerpt from the new book, How We Can Win: Race, History, and Changing the Money Game That's Rigged. In it, author and activist Kimberly Jones delves into the impacts of systemic racism, revealing how her formative years in Chicago gave birth to a lifelong devotion to justice. It's inspired by her viral video during the George Floyd protests and her analysis of the enduring economic disparities Black Americans face. With an introduction from Green Book host Alvin Hall, you can hear the first chapter of the audio book now. Get your copy here or wherever books or audiobooks are sold."
-            },
-            "link": "https://www.stitcher.com",
-            "pubDate": "Fri, 18 Feb 2022 11:00:00 +0000",
-            "title": "Book Preview: How We Can Win: Race, History, and Changing the Money Game That's Rigged"
-        },
-        {
-            "author": "podcasts@macmillan.com (Macmillan)",
-            "content": "<p>Although Driving the Green Book is over, today we're sharing a clip from another powerful story about the fight for racial equality. The new book <em>Buses Are A Comin'</em> by Charles Person is an account of the Freedom Riders movement, written by the youngest original Freedom Rider. In this exclusive excerpt, you'll hear the first chapter of the audiobook. Get your copy today <a href=\"https://amzn.to/32ELlBd\">here</a> or wherever books or audiobooks are sold. </p>\n",
-            "content:encoded": "<p>Although Driving the Green Book is over, today we're sharing a clip from another powerful story about the fight for racial equality. The new book <em>Buses Are A Comin'</em> by Charles Person is an account of the Freedom Riders movement, written by the youngest original Freedom Rider. In this exclusive excerpt, you'll hear the first chapter of the audiobook. Get your copy today <a href=\"https://amzn.to/32ELlBd\">here</a> or wherever books or audiobooks are sold. </p>\n",
-            "content:encodedSnippet": "Although Driving the Green Book is over, today we're sharing a clip from another powerful story about the fight for racial equality. The new book Buses Are A Comin' by Charles Person is an account of the Freedom Riders movement, written by the youngest original Freedom Rider. In this exclusive excerpt, you'll hear the first chapter of the audiobook. Get your copy today here or wherever books or audiobooks are sold.",
-            "contentSnippet": "Although Driving the Green Book is over, today we're sharing a clip from another powerful story about the fight for racial equality. The new book Buses Are A Comin' by Charles Person is an account of the Freedom Riders movement, written by the youngest original Freedom Rider. In this exclusive excerpt, you'll hear the first chapter of the audiobook. Get your copy today here or wherever books or audiobooks are sold.",
-            "creator": "podcasts@macmillan.com (Macmillan)",
-            "enclosure": {
-                "length": "22619648",
-                "type": "audio/mpeg",
-                "url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/1788aeaf-d7e7-41a3-b7cf-e5043effc7e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=1788aeaf-d7e7-41a3-b7cf-e5043effc7e0&feed=rzXeu9UA"
-            },
-            "guid": "fd2a1136-20a2-42c1-8877-ad1300fc7e36",
-            "isoDate": "2021-04-27T04:00:00.000Z",
-            "itunes": {
-                "author": "Macmillan",
-                "duration": "00:23:30",
-                "episodeType": "bonus",
-                "explicit": "true",
-                "image": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/1788aeaf-d7e7-41a3-b7cf-e5043effc7e0/3000x3000/image.jpg?aid=rss_feed",
-                "season": "1",
-                "subtitle": "Although Driving the Green Book is over, today we're sharing a clip from another powerful story about the fight for racial equality. The new book Buses Are A Comin' by Charles Person is an account of the Freedom Riders movement, written by the youngest original Freedom Rider. In this exclusive excerpt, you'll hear the first chapter of the audiobook. Get your copy today here or wherever books or audiobooks are sold.\u00a0",
-                "summary": "Although Driving the Green Book is over, today we're sharing a clip from another powerful story about the fight for racial equality. The new book Buses Are A Comin' by Charles Person is an account of the Freedom Riders movement, written by the youngest original Freedom Rider. In this exclusive excerpt, you'll hear the first chapter of the audiobook. Get your copy today here or wherever books or audiobooks are sold.\u00a0"
-            },
-            "link": "https://www.stitcher.com",
-            "pubDate": "Tue, 27 Apr 2021 04:00:00 +0000",
-            "title": "Book Preview: Buses Are A Comin'"
-        },
-        {
-            "author": "podcasts@macmillan.com (Macmillan)",
-            "content": "<p>Now a National Civil Rights Monument, and best-known as the site where Dr. Martin Luther King, Jr. was assassinated, the Lorraine Motel in Memphis, Tennessee hosted not only civil rights leaders, but a range of famous musicians and black celebrities during its heyday. In our final episode, we learn about the motel\u2019s owners, Walter and Loree Bailey, the efforts to preserve it as a national monument, and its complicated legacy as a symbol of both Black excellence and immense sadness.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encoded": "<p>Now a National Civil Rights Monument, and best-known as the site where Dr. Martin Luther King, Jr. was assassinated, the Lorraine Motel in Memphis, Tennessee hosted not only civil rights leaders, but a range of famous musicians and black celebrities during its heyday. In our final episode, we learn about the motel\u2019s owners, Walter and Loree Bailey, the efforts to preserve it as a national monument, and its complicated legacy as a symbol of both Black excellence and immense sadness.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encodedSnippet": "Now a National Civil Rights Monument, and best-known as the site where Dr. Martin Luther King, Jr. was assassinated, the Lorraine Motel in Memphis, Tennessee hosted not only civil rights leaders, but a range of famous musicians and black celebrities during its heyday. In our final episode, we learn about the motel\u2019s owners, Walter and Loree Bailey, the efforts to preserve it as a national monument, and its complicated legacy as a symbol of both Black excellence and immense sadness.\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "contentSnippet": "Now a National Civil Rights Monument, and best-known as the site where Dr. Martin Luther King, Jr. was assassinated, the Lorraine Motel in Memphis, Tennessee hosted not only civil rights leaders, but a range of famous musicians and black celebrities during its heyday. In our final episode, we learn about the motel\u2019s owners, Walter and Loree Bailey, the efforts to preserve it as a national monument, and its complicated legacy as a symbol of both Black excellence and immense sadness.\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "creator": "podcasts@macmillan.com (Macmillan)",
-            "enclosure": {
-                "length": "27831167",
-                "type": "audio/mpeg",
-                "url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/34c4aed1-c1f1-4411-9f5d-b624be20930f/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=34c4aed1-c1f1-4411-9f5d-b624be20930f&feed=rzXeu9UA"
-            },
-            "guid": "2322e4f0-b32f-472b-a583-ac360139f173",
-            "isoDate": "2020-11-16T05:00:00.000Z",
-            "itunes": {
-                "author": "Macmillan",
-                "duration": "00:28:56",
-                "episode": "10",
-                "episodeType": "full",
-                "explicit": "true",
-                "image": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/34c4aed1-c1f1-4411-9f5d-b624be20930f/3000x3000/image.jpg?aid=rss_feed",
-                "season": "1",
-                "subtitle": "Now a National Civil Rights Monument, and best-known as the site where Dr. Martin Luther King, Jr. was assassinated, the Lorraine Motel in Memphis, Tennessee hosted not only civil rights leaders, but a range of famous musicians and black celebrities during its heyday.",
-                "summary": "Now a National Civil Rights Monument, and best-known as the site where Dr. Martin Luther King, Jr. was assassinated, the Lorraine Motel in Memphis, Tennessee hosted not only civil rights leaders, but a range of famous musicians and black celebrities during its heyday."
-            },
-            "link": "https://www.stitcher.com",
-            "pubDate": "Mon, 16 Nov 2020 05:00:00 +0000",
-            "title": "The Lorraine Motel"
-        },
-        {
-            "author": "podcasts@macmillan.com (Macmillan)",
-            "content": "<p>Places like Paradise Valley in Detroit and Idlewild, Michigan, catered to African American communities, whether it be to create a thriving district of Black-owned businesses or allow your family to take a trip where you could be comfortable and free of any harassment or prejudice. In this episode, we discover how urban renewal has affected these locations and what remains of these communities today.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encoded": "<p>Places like Paradise Valley in Detroit and Idlewild, Michigan, catered to African American communities, whether it be to create a thriving district of Black-owned businesses or allow your family to take a trip where you could be comfortable and free of any harassment or prejudice. In this episode, we discover how urban renewal has affected these locations and what remains of these communities today.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encodedSnippet": "Places like Paradise Valley in Detroit and Idlewild, Michigan, catered to African American communities, whether it be to create a thriving district of Black-owned businesses or allow your family to take a trip where you could be comfortable and free of any harassment or prejudice. In this episode, we discover how urban renewal has affected these locations and what remains of these communities today.\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "contentSnippet": "Places like Paradise Valley in Detroit and Idlewild, Michigan, catered to African American communities, whether it be to create a thriving district of Black-owned businesses or allow your family to take a trip where you could be comfortable and free of any harassment or prejudice. In this episode, we discover how urban renewal has affected these locations and what remains of these communities today.\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "creator": "podcasts@macmillan.com (Macmillan)",
-            "enclosure": {
-                "length": "30899399",
-                "type": "audio/mpeg",
-                "url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/69fbf422-8617-4106-bdad-9e6113e6861e/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=69fbf422-8617-4106-bdad-9e6113e6861e&feed=rzXeu9UA"
-            },
-            "guid": "34c54c27-e817-4972-8198-ac3601377ef9",
-            "isoDate": "2020-11-09T05:00:00.000Z",
-            "itunes": {
-                "author": "Macmillan",
-                "duration": "00:32:08",
-                "episode": "9",
-                "episodeType": "full",
-                "explicit": "true",
-                "image": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/69fbf422-8617-4106-bdad-9e6113e6861e/3000x3000/image.jpg?aid=rss_feed",
-                "season": "1",
-                "subtitle": "Places like Paradise Valley in Detroit and Idlewild, Michigan, catered to African American communities, whether it be to create a thriving district of Black-owned businesses or allow your family to take a trip where you could be comfortable and free of any harassment or prejudice.",
-                "summary": "Places like Paradise Valley in Detroit and Idlewild, Michigan, catered to African American communities, whether it be to create a thriving district of Black-owned businesses or allow your family to take a trip where you could be comfortable and free of any harassment or prejudice."
-            },
-            "link": "https://www.stitcher.com",
-            "pubDate": "Mon, 9 Nov 2020 05:00:00 +0000",
-            "title": "Ghost Towns"
-        },
-        {
-            "author": "podcasts@macmillan.com (Macmillan)",
-            "content": "<p>The A.G. Gaston Motel in Birmingham, Alabama was considered top-tier lodging for African Americans and an epicenter for the civil rights movement during its heyday in the 1950s. In this episode we learn about the preservation efforts being undertaken by communities across the U.S. to save historic Green Book locations, like the A.G. Gaston and the Lorraine Motel in Memphis.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encoded": "<p>The A.G. Gaston Motel in Birmingham, Alabama was considered top-tier lodging for African Americans and an epicenter for the civil rights movement during its heyday in the 1950s. In this episode we learn about the preservation efforts being undertaken by communities across the U.S. to save historic Green Book locations, like the A.G. Gaston and the Lorraine Motel in Memphis.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encodedSnippet": "The A.G. Gaston Motel in Birmingham, Alabama was considered top-tier lodging for African Americans and an epicenter for the civil rights movement during its heyday in the 1950s. In this episode we learn about the preservation efforts being undertaken by communities across the U.S. to save historic Green Book locations, like the A.G. Gaston and the Lorraine Motel in Memphis.\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "contentSnippet": "The A.G. Gaston Motel in Birmingham, Alabama was considered top-tier lodging for African Americans and an epicenter for the civil rights movement during its heyday in the 1950s. In this episode we learn about the preservation efforts being undertaken by communities across the U.S. to save historic Green Book locations, like the A.G. Gaston and the Lorraine Motel in Memphis.\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "creator": "podcasts@macmillan.com (Macmillan)",
-            "enclosure": {
-                "length": "23571327",
-                "type": "audio/mpeg",
-                "url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/f8930759-0cc6-43fa-a5d4-e26099f7838a/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=f8930759-0cc6-43fa-a5d4-e26099f7838a&feed=rzXeu9UA"
-            },
-            "guid": "4b83c456-7870-4235-acff-ac360135be87",
-            "isoDate": "2020-11-02T05:00:00.000Z",
-            "itunes": {
-                "author": "Macmillan",
-                "duration": "00:24:30",
-                "episode": "8",
-                "episodeType": "full",
-                "explicit": "true",
-                "image": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/f8930759-0cc6-43fa-a5d4-e26099f7838a/3000x3000/image.jpg?aid=rss_feed",
-                "season": "1",
-                "subtitle": "The A.G. Gaston Motel in Birmingham, Alabama was considered top-tier lodging for African Americans and an epicenter for the civil rights movement during its heyday in the 1950s.",
-                "summary": "The A.G. Gaston Motel in Birmingham, Alabama was considered top-tier lodging for African Americans and an epicenter for the civil rights movement during its heyday in the 1950s."
-            },
-            "link": "https://www.stitcher.com",
-            "pubDate": "Mon, 2 Nov 2020 05:00:00 +0000",
-            "title": "Preserving History"
-        },
-        {
-            "author": "podcasts@macmillan.com (Macmillan)",
-            "content": "<p>We explore the emotional legacy of <i>The Negro Motorist Green Book</i> and the inherited wisdom passed down from generation to generation. We also hear from some of the artists and writers of today who have been inspired by and continue the work of the Green Book.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encoded": "<p>We explore the emotional legacy of <i>The Negro Motorist Green Book</i> and the inherited wisdom passed down from generation to generation. We also hear from some of the artists and writers of today who have been inspired by and continue the work of the Green Book.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encodedSnippet": "We explore the emotional legacy of The Negro Motorist Green Book and the inherited wisdom passed down from generation to generation. We also hear from some of the artists and writers of today who have been inspired by and continue the work of the Green Book.\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "contentSnippet": "We explore the emotional legacy of The Negro Motorist Green Book and the inherited wisdom passed down from generation to generation. We also hear from some of the artists and writers of today who have been inspired by and continue the work of the Green Book.\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "creator": "podcasts@macmillan.com (Macmillan)",
-            "enclosure": {
-                "length": "24752061",
-                "type": "audio/mpeg",
-                "url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/fe18cc58-3162-42ac-8b8a-a3a5f02bdc9b/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=fe18cc58-3162-42ac-8b8a-a3a5f02bdc9b&feed=rzXeu9UA"
-            },
-            "guid": "772bb91e-65c0-4a11-8c28-ac3601349e0b",
-            "isoDate": "2020-10-26T04:00:00.000Z",
-            "itunes": {
-                "author": "Macmillan",
-                "duration": "00:25:43",
-                "episode": "7",
-                "episodeType": "full",
-                "explicit": "true",
-                "image": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/fe18cc58-3162-42ac-8b8a-a3a5f02bdc9b/3000x3000/image.jpg?aid=rss_feed",
-                "season": "1",
-                "subtitle": "We explore the emotional legacy of The Negro Motorist Green Book and the inherited wisdom passed down from generation to generation.",
-                "summary": "We explore the emotional legacy of The Negro Motorist Green Book and the inherited wisdom passed down from generation to generation."
-            },
-            "link": "https://www.stitcher.com",
-            "pubDate": "Mon, 26 Oct 2020 04:00:00 +0000",
-            "title": "A Place to Put It"
-        },
-        {
-            "author": "podcasts@macmillan.com (Macmillan)",
-            "content": "<p>The elders who lived through segregation pass down the wisdom and knowledge they gained as they learned to safely navigate extremely tense, frightening, and humiliating situations. In this episode we learn from their example and find ways to move forward towards a more just future.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encoded": "<p>The elders who lived through segregation pass down the wisdom and knowledge they gained as they learned to safely navigate extremely tense, frightening, and humiliating situations. In this episode we learn from their example and find ways to move forward towards a more just future.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encodedSnippet": "The elders who lived through segregation pass down the wisdom and knowledge they gained as they learned to safely navigate extremely tense, frightening, and humiliating situations. In this episode we learn from their example and find ways to move forward towards a more just future.\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "contentSnippet": "The elders who lived through segregation pass down the wisdom and knowledge they gained as they learned to safely navigate extremely tense, frightening, and humiliating situations. In this episode we learn from their example and find ways to move forward towards a more just future.\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "creator": "podcasts@macmillan.com (Macmillan)",
-            "enclosure": {
-                "length": "28932498",
-                "type": "audio/mpeg",
-                "url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/5b18e304-52f5-46d6-9fac-3d2cf4dac0e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=5b18e304-52f5-46d6-9fac-3d2cf4dac0e3&feed=rzXeu9UA"
-            },
-            "guid": "d320b06a-6c7f-44ac-af06-ac36013335a4",
-            "isoDate": "2020-10-19T04:00:00.000Z",
-            "itunes": {
-                "author": "Macmillan",
-                "duration": "00:30:05",
-                "episode": "6",
-                "episodeType": "full",
-                "explicit": "true",
-                "image": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/5b18e304-52f5-46d6-9fac-3d2cf4dac0e3/3000x3000/image.jpg?aid=rss_feed",
-                "season": "1",
-                "subtitle": "The elders who lived through segregation pass down the wisdom and knowledge they gained as they learned to safely navigate extremely tense, frightening, and humiliating situations.",
-                "summary": "The elders who lived through segregation pass down the wisdom and knowledge they gained as they learned to safely navigate extremely tense, frightening, and humiliating situations."
-            },
-            "link": "https://www.stitcher.com",
-            "pubDate": "Mon, 19 Oct 2020 04:00:00 +0000",
-            "title": "The Elders, Living History"
-        },
-        {
-            "author": "podcasts@macmillan.com (Macmillan)",
-            "content": "<p>We head to Nashville to trace the legacy of Jim Crow, segregation, and <i>The Negro Motorist Green Book</i> through different generations of one family: The Nettles. We also pay tribute to the female entrepreneurs who provided vital services to the African American community, but went unrecognized in The Green Book and throughout history.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encoded": "<p>We head to Nashville to trace the legacy of Jim Crow, segregation, and <i>The Negro Motorist Green Book</i> through different generations of one family: The Nettles. We also pay tribute to the female entrepreneurs who provided vital services to the African American community, but went unrecognized in The Green Book and throughout history.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encodedSnippet": "We head to Nashville to trace the legacy of Jim Crow, segregation, and The Negro Motorist Green Book through different generations of one family: The Nettles. We also pay tribute to the female entrepreneurs who provided vital services to the African American community, but went unrecognized in The Green Book and throughout history.\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "contentSnippet": "We head to Nashville to trace the legacy of Jim Crow, segregation, and The Negro Motorist Green Book through different generations of one family: The Nettles. We also pay tribute to the female entrepreneurs who provided vital services to the African American community, but went unrecognized in The Green Book and throughout history.\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "creator": "podcasts@macmillan.com (Macmillan)",
-            "enclosure": {
-                "length": "25101900",
-                "type": "audio/mpeg",
-                "url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/52084366-8030-40e7-bfbf-9f5b97a6bf7d/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=52084366-8030-40e7-bfbf-9f5b97a6bf7d&feed=rzXeu9UA"
-            },
-            "guid": "ef173de7-a49b-4604-a76d-ac36012fffd5",
-            "isoDate": "2020-10-12T04:00:00.000Z",
-            "itunes": {
-                "author": "Macmillan",
-                "duration": "00:26:05",
-                "episode": "5",
-                "episodeType": "full",
-                "explicit": "true",
-                "image": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/52084366-8030-40e7-bfbf-9f5b97a6bf7d/3000x3000/image.jpg?aid=rss_feed",
-                "season": "1",
-                "subtitle": "We head to Nashville to trace the legacy of Jim Crow, segregation, and The Negro Motorist Green Book through different generations of one family: The Nettles.",
-                "summary": "We head to Nashville to trace the legacy of Jim Crow, segregation, and The Negro Motorist Green Book through different generations of one family: The Nettles."
-            },
-            "link": "https://www.stitcher.com",
-            "pubDate": "Mon, 12 Oct 2020 04:00:00 +0000",
-            "title": "The Nettles of Nashville"
-        },
-        {
-            "author": "podcasts@macmillan.com (Macmillan)",
-            "content": "<p>How did Black travelers use Mother Wit\u2014common sense insights\u2014to help them survive during the Jim Crow era? We hear how this intuition helped individuals and families navigate the roads, stay safe, and build networks and businesses that provided the services they were being denied.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encoded": "<p>How did Black travelers use Mother Wit\u2014common sense insights\u2014to help them survive during the Jim Crow era? We hear how this intuition helped individuals and families navigate the roads, stay safe, and build networks and businesses that provided the services they were being denied.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encodedSnippet": "How did Black travelers use Mother Wit\u2014common sense insights\u2014to help them survive during the Jim Crow era? We hear how this intuition helped individuals and families navigate the roads, stay safe, and build networks and businesses that provided the services they were being denied.\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "contentSnippet": "How did Black travelers use Mother Wit\u2014common sense insights\u2014to help them survive during the Jim Crow era? We hear how this intuition helped individuals and families navigate the roads, stay safe, and build networks and businesses that provided the services they were being denied.\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "creator": "podcasts@macmillan.com (Macmillan)",
-            "enclosure": {
-                "length": "29669762",
-                "type": "audio/mpeg",
-                "url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/b46bb80f-a881-482a-ac13-79d96735e6b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=b46bb80f-a881-482a-ac13-79d96735e6b5&feed=rzXeu9UA"
-            },
-            "guid": "d3b863a5-1913-4907-aa6e-ac36012e4481",
-            "isoDate": "2020-10-05T04:00:00.000Z",
-            "itunes": {
-                "author": "Macmillan",
-                "duration": "00:30:51",
-                "episode": "4",
-                "episodeType": "full",
-                "explicit": "true",
-                "image": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/b46bb80f-a881-482a-ac13-79d96735e6b5/3000x3000/image.jpg?aid=rss_feed",
-                "season": "1",
-                "subtitle": "How did Black travelers use Mother Wit\u2014common sense insights\u2014to help them survive during the Jim Crow era?",
-                "summary": "How did Black travelers use Mother Wit\u2014common sense insights\u2014to help them survive during the Jim Crow era?"
-            },
-            "link": "https://www.stitcher.com",
-            "pubDate": "Mon, 5 Oct 2020 04:00:00 +0000",
-            "title": "Mother Wit"
-        },
-        {
-            "author": "podcasts@macmillan.com (Macmillan)",
-            "content": "<p>We head to Jackson, Mississippi where we hear local residents and a former Motown musician reminisce about the vivacity of Farish Street\u2014the historic Black business district also known as \u201cLittle Harlem.\u201d</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encoded": "<p>We head to Jackson, Mississippi where we hear local residents and a former Motown musician reminisce about the vivacity of Farish Street\u2014the historic Black business district also known as \u201cLittle Harlem.\u201d</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encodedSnippet": "We head to Jackson, Mississippi where we hear local residents and a former Motown musician reminisce about the vivacity of Farish Street\u2014the historic Black business district also known as \u201cLittle Harlem.\u201d\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "contentSnippet": "We head to Jackson, Mississippi where we hear local residents and a former Motown musician reminisce about the vivacity of Farish Street\u2014the historic Black business district also known as \u201cLittle Harlem.\u201d\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "creator": "podcasts@macmillan.com (Macmillan)",
-            "enclosure": {
-                "length": "26695153",
-                "type": "audio/mpeg",
-                "url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/542d0a21-d77b-4656-bfe0-ddc2d8cc8966/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=542d0a21-d77b-4656-bfe0-ddc2d8cc8966&feed=rzXeu9UA"
-            },
-            "guid": "7161ce35-1165-4a1a-93fc-ac36012bc2a7",
-            "isoDate": "2020-09-28T12:23:00.000Z",
-            "itunes": {
-                "author": "Macmillan",
-                "duration": "00:27:45",
-                "episode": "3",
-                "episodeType": "full",
-                "explicit": "true",
-                "image": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/542d0a21-d77b-4656-bfe0-ddc2d8cc8966/3000x3000/image.jpg?aid=rss_feed",
-                "season": "1",
-                "subtitle": "We head to Jackson, Mississippi where we hear local residents and a former Motown musician reminisce about the vivacity of Farish Street\u2014the historic Black business district also known as \u201cLittle Harlem.\u201d",
-                "summary": "We head to Jackson, Mississippi where we hear local residents and a former Motown musician reminisce about the vivacity of Farish Street\u2014the historic Black business district also known as \u201cLittle Harlem.\u201d"
-            },
-            "link": "https://www.stitcher.com",
-            "pubDate": "Mon, 28 Sep 2020 12:23:00 +0000",
-            "title": "Little Harlem, MS"
-        },
-        {
-            "author": "podcasts@macmillan.com (Macmillan)",
-            "content": "<p>Alma and Victor Hugo Green created <i>The Negro Motorist Green Book</i> to reduce the frustrations of African Americans traveling by car around the country. We visit the Schomburg Center in Harlem, New York to see the Green Book archive for ourselves and learn about the creators\u2019 aspirations for the guide and their hope that one day they would no longer need to publish it.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encoded": "<p>Alma and Victor Hugo Green created <i>The Negro Motorist Green Book</i> to reduce the frustrations of African Americans traveling by car around the country. We visit the Schomburg Center in Harlem, New York to see the Green Book archive for ourselves and learn about the creators\u2019 aspirations for the guide and their hope that one day they would no longer need to publish it.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encodedSnippet": "Alma and Victor Hugo Green created The Negro Motorist Green Book to reduce the frustrations of African Americans traveling by car around the country. We visit the Schomburg Center in Harlem, New York to see the Green Book archive for ourselves and learn about the creators\u2019 aspirations for the guide and their hope that one day they would no longer need to publish it.\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "contentSnippet": "Alma and Victor Hugo Green created The Negro Motorist Green Book to reduce the frustrations of African Americans traveling by car around the country. We visit the Schomburg Center in Harlem, New York to see the Green Book archive for ourselves and learn about the creators\u2019 aspirations for the guide and their hope that one day they would no longer need to publish it.\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "creator": "podcasts@macmillan.com (Macmillan)",
-            "enclosure": {
-                "length": "24327413",
-                "type": "audio/mpeg",
-                "url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/76c5aafd-95b3-4221-a683-d3ee95991ca2/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=76c5aafd-95b3-4221-a683-d3ee95991ca2&feed=rzXeu9UA"
-            },
-            "guid": "f8471b2f-32f1-4dd4-9800-ac28014911fa",
-            "isoDate": "2020-09-22T04:00:00.000Z",
-            "itunes": {
-                "author": "Macmillan",
-                "duration": "00:25:17",
-                "episode": "2",
-                "episodeType": "full",
-                "explicit": "true",
-                "image": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/76c5aafd-95b3-4221-a683-d3ee95991ca2/3000x3000/image.jpg?aid=rss_feed",
-                "season": "1",
-                "subtitle": "Alma and Victor Hugo Green created The Negro Motorist Green Book to reduce the frustrations of African Americans traveling by car around the country.",
-                "summary": "Alma and Victor Hugo Green created The Negro Motorist Green Book to reduce the frustrations of African Americans traveling by car around the country."
-            },
-            "link": "https://www.stitcher.com",
-            "pubDate": "Tue, 22 Sep 2020 04:00:00 +0000",
-            "title": "Victor and Alma"
-        },
-        {
-            "author": "podcasts@macmillan.com (Macmillan)",
-            "content": "<p>Host Alvin Hall and associate producer Jane\u00e9 Woods Weber take you on a trip from Detroit to New Orleans, stopping at locations listed in <i>The Negro Motorist Green Book</i> along the way. They hear stories from people who lived through the era of Jim Crow laws and segregation about the harassment they received on cross-country road trips and in their own cities.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encoded": "<p>Host Alvin Hall and associate producer Jane\u00e9 Woods Weber take you on a trip from Detroit to New Orleans, stopping at locations listed in <i>The Negro Motorist Green Book</i> along the way. They hear stories from people who lived through the era of Jim Crow laws and segregation about the harassment they received on cross-country road trips and in their own cities.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encodedSnippet": "Host Alvin Hall and associate producer Jane\u00e9 Woods Weber take you on a trip from Detroit to New Orleans, stopping at locations listed in The Negro Motorist Green Book along the way. They hear stories from people who lived through the era of Jim Crow laws and segregation about the harassment they received on cross-country road trips and in their own cities.\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "contentSnippet": "Host Alvin Hall and associate producer Jane\u00e9 Woods Weber take you on a trip from Detroit to New Orleans, stopping at locations listed in The Negro Motorist Green Book along the way. They hear stories from people who lived through the era of Jim Crow laws and segregation about the harassment they received on cross-country road trips and in their own cities.\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "creator": "podcasts@macmillan.com (Macmillan)",
-            "enclosure": {
-                "length": "25053422",
-                "type": "audio/mpeg",
-                "url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/af334811-7e51-4c2d-9fac-f73b8e786fb3/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=af334811-7e51-4c2d-9fac-f73b8e786fb3&feed=rzXeu9UA"
-            },
-            "guid": "d0d7934a-1349-484b-b648-ac280104027d",
-            "isoDate": "2020-09-14T04:00:00.000Z",
-            "itunes": {
-                "author": "Macmillan",
-                "duration": "00:26:02",
-                "episode": "1",
-                "episodeType": "full",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/af334811-7e51-4c2d-9fac-f73b8e786fb3/3000x3000/image.jpg?aid=rss_feed",
-                "season": "1",
-                "subtitle": "Host Alvin Hall and associate producer Jane\u00e9 Woods Weber take you on a trip from Detroit to New Orleans, stopping at locations listed in The Negro Motorist Green Book along the way.",
-                "summary": "Host Alvin Hall and associate producer Jane\u00e9 Woods Weber take you on a trip from Detroit to New Orleans, stopping at locations listed in The Negro Motorist Green Book along the way."
-            },
-            "link": "https://www.stitcher.com",
-            "pubDate": "Mon, 14 Sep 2020 04:00:00 +0000",
-            "title": "In the Time of the Green Book"
-        },
-        {
-            "author": "podcasts@macmillan.com (Macmillan)",
-            "content": "<p>What was it really like to travel as a Black person in America during the era of Jim Crow laws and segregation? Join host Alvin Hall and producer Jan\u00e9e Woods Weber as they drive south from Detroit to New Orleans. Along the way, they collect powerful personal testimony from African Americans who used <i>The Negro Motorist Green Book</i> to negotiate travel around the country. Hear sharp insights and eye-opening perspectives about this period in history that give critical context to the struggle for racial justice today. Coming September 15 from Macmillan Podcasts.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encoded": "<p>What was it really like to travel as a Black person in America during the era of Jim Crow laws and segregation? Join host Alvin Hall and producer Jan\u00e9e Woods Weber as they drive south from Detroit to New Orleans. Along the way, they collect powerful personal testimony from African Americans who used <i>The Negro Motorist Green Book</i> to negotiate travel around the country. Hear sharp insights and eye-opening perspectives about this period in history that give critical context to the struggle for racial justice today. Coming September 15 from Macmillan Podcasts.</p><p>Visit <a href=\"http://www.drivingthegreenbook.com/\">www.drivingthegreenbook.com</a> or follow us on Twitter at <a href=\"https://www.twitter.com/greenbookpod\">www.twitter.com/greenbookpod</a> for more, including bonus content, photos, and transcripts.</p><p>Driving the Green Book is now a book, available now from HarperOne! Get your copy of <i>Driving the Green Book: A Road Trip Through the Living History of Black Resistance</i>, from your local independent bookstore, or from <a href=\"https://amzn.to/404yV0x\">Amazon</a> and <a href=\"https://bookshop.org/a/4908/9780063271968\">Bookshop.org</a> on the web.</p><p>Explore the Green Book on our exclusive Apple Maps Guide at <a href=\"https://apple.co/explorethegreenbook\">https://apple.co/explorethegreenbook</a>.</p><p>Listen to the show's Apple Music Playlist at <a href=\"https://apple.co/listentothegreenbook\">https://apple.co/listentothegreenbook</a>.</p><p>Find recommended reading in Apple Books at <a href=\"https://apple.co/alvinhallcollection\">https://apple.co/alvinhallcollection</a>.</p><p>To share your own Green Book stories with us, email <a href=\"mailto:greenbook@macmillan.com\">greenbook@macmillan.com</a>.</p>\n",
-            "content:encodedSnippet": "What was it really like to travel as a Black person in America during the era of Jim Crow laws and segregation? Join host Alvin Hall and producer Jan\u00e9e Woods Weber as they drive south from Detroit to New Orleans. Along the way, they collect powerful personal testimony from African Americans who used The Negro Motorist Green Book to negotiate travel around the country. Hear sharp insights and eye-opening perspectives about this period in history that give critical context to the struggle for racial justice today. Coming September 15 from Macmillan Podcasts.\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "contentSnippet": "What was it really like to travel as a Black person in America during the era of Jim Crow laws and segregation? Join host Alvin Hall and producer Jan\u00e9e Woods Weber as they drive south from Detroit to New Orleans. Along the way, they collect powerful personal testimony from African Americans who used The Negro Motorist Green Book to negotiate travel around the country. Hear sharp insights and eye-opening perspectives about this period in history that give critical context to the struggle for racial justice today. Coming September 15 from Macmillan Podcasts.\nVisit www.drivingthegreenbook.com or follow us on Twitter at www.twitter.com/greenbookpod for more, including bonus content, photos, and transcripts.\nDriving the Green Book is now a book, available now from HarperOne! Get your copy of Driving the Green Book: A Road Trip Through the Living History of Black Resistance, from your local independent bookstore, or from Amazon and Bookshop.org on the web.\nExplore the Green Book on our exclusive Apple Maps Guide at https://apple.co/explorethegreenbook.\nListen to the show's Apple Music Playlist at https://apple.co/listentothegreenbook.\nFind recommended reading in Apple Books at https://apple.co/alvinhallcollection.\nTo share your own Green Book stories with us, email greenbook@macmillan.com.",
-            "creator": "podcasts@macmillan.com (Macmillan)",
-            "enclosure": {
-                "length": "3710336",
-                "type": "audio/mpeg",
-                "url": "https://stitcher.simplecastaudio.com/1e59041f-8b22-4dc2-947d-848b2c15ce35/episodes/3d6741a1-b7c8-4ea0-ac32-d65c2d44137b/audio/128/default.mp3?aid=rss_feed&awCollectionId=1e59041f-8b22-4dc2-947d-848b2c15ce35&awEpisodeId=3d6741a1-b7c8-4ea0-ac32-d65c2d44137b&feed=rzXeu9UA"
-            },
-            "guid": "cddd5654-8f2c-4a8b-b036-ac2401544705",
-            "isoDate": "2020-09-01T04:05:00.000Z",
-            "itunes": {
-                "author": "Macmillan",
-                "duration": "00:03:48",
-                "episodeType": "trailer",
-                "explicit": "false",
-                "image": "https://image.simplecastcdn.com/images/1e5904/1e59041f-8b22-4dc2-947d-848b2c15ce35/3d6741a1-b7c8-4ea0-ac32-d65c2d44137b/3000x3000/image.jpg?aid=rss_feed",
-                "season": "1",
-                "subtitle": "What was it really like to travel as a Black person in America during the era of Jim Crow laws and segregation?",
-                "summary": "What was it really like to travel as a Black person in America during the era of Jim Crow laws and segregation?"
-            },
-            "link": "https://www.stitcher.com",
-            "pubDate": "Tue, 1 Sep 2020 04:05:00 +0000",
-            "title": "Introducing: Driving the Green Book"
+            "title": "Driving the Green Book"
         }
-    ],
-    "itunes": {
-        "author": "Macmillan",
-        "categories": [
-            "Society & Culture"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Society & Culture",
-                "subs": null
-            }
-        ],
-        "explicit": "true",
-        "image": "https://image.simplecastcdn.com/images/5b7d8c77-15ba-4eff-a999-2e725db21db5/f0eba1d8-17de-40c1-904d-a076ed8a9220/3000x3000/driving-the-green-book-cover.jpg?aid=rss_feed",
-        "owner": {
-            "email": "podcasts@macmillan.com",
-            "name": "Macmillan"
-        },
-        "summary": "Award-winning broadcaster and educator Alvin Hall hits the road alongside activist and social justice trainer Jan\u00e9e Woods Weber. They drive from Detroit to New Orleans, collecting powerful, personal testimony about how Black Americans used the historic travel guide The Negro Motorist's Green Book during the height of segregation as a vital resource to quell fears, find safe havens, and travel with dignity. As he drives the Green Book, Alvin unearths both inspiring and heartbreaking tales that tell a different story from what Hollywood would have you believe. Driving the Green Book is a living history podcast that preserves a powerful legacy and honors the stories of those who lived through the era, supported and uplifted each other, and fought for equality. Please be sure to explore the Green Book on our exclusive Apple Maps Guide at apple.co/explorethegreenbook, listen to the show's Apple Music Playlist at apple.co/listentothegreenbook, and find recommended reading in Apple Books at apple.co/alvinhallcollection."
-    },
-    "language": "en",
-    "lastBuildDate": "Tue, 4 Jun 2024 23:03:49 +0000",
-    "link": "https://www.stitcher.com",
-    "paginationLinks": {
-        "self": "https://feeds.simplecast.com/rzXeu9UA"
-    },
-    "palette": [
-        "D5BA97",
-        "172A2F",
-        "5F6E68",
-        "71A4A0",
-        "465965",
-        "69939C"
-    ],
-    "pubDate": "Mon, 24 Apr 2023 12:00:00 +0000",
-    "title": "Driving the Green Book"
+    }
 }

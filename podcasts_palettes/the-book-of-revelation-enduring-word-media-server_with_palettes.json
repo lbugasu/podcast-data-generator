@@ -1,735 +1,708 @@
 {
-    "copyright": "Enduring Word 2018",
-    "description": "Audio and Video Server For Enduring Word",
-    "feedUrl": "https://media.enduringword.com/podcasts/revelation/feed/",
-    "generator": "https://wordpress.org/?v=5.0.22",
-    "items": [
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:slash": "http://purl.org/rss/1.0/modules/slash/",
+        "@xmlns:sy": "http://purl.org/rss/1.0/modules/syndication/",
+        "@xmlns:wfw": "http://wellformedweb.org/CommentAPI/",
+        "channel": {
+            "atom:link": {
+                "@href": "https://media.enduringword.com/podcasts/revelation/feed/",
+                "@rel": "self",
+                "@type": "application/rss+xml"
+            },
+            "copyright": "Enduring Word 2018",
+            "description": "Audio and Video Server For Enduring Word",
+            "generator": "https://wordpress.org/?v=5.0.22",
+            "item": [
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-22-come-lord-jesus/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26522-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev2200_00.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev2200_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev2200_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev2200_00.mp3",
+                    "enclosure": {
+                        "@length": "25157449",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev2200_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-22-come-lord-jesus/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev2200_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev2200_00.mp3",
+                    "link": "https://media.enduringword.com/revelation-22-come-lord-jesus/",
+                    "pubDate": "Thu, 30 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 22 \u2013 Come, Lord Jesus",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-22-come-lord-jesus/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-21-a-new-heaven-a-new-earth-and-a-new-jerusalem/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26521-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev2100_00.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev2100_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev2100_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev2100_00.mp3",
+                    "enclosure": {
+                        "@length": "22918919",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev2100_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-21-a-new-heaven-a-new-earth-and-a-new-jerusalem/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev2100_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev2100_00.mp3",
+                    "link": "https://media.enduringword.com/revelation-21-a-new-heaven-a-new-earth-and-a-new-jerusalem/",
+                    "pubDate": "Wed, 29 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 21 \u2013 A New Heaven, a New Earth, and a New Jerusalem",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-21-a-new-heaven-a-new-earth-and-a-new-jerusalem/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-20-the-meaning-of-the-millennium/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26520-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev2000_00.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev2000_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev2000_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev2000_00.mp3",
+                    "enclosure": {
+                        "@length": "26590657",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev2000_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-20-the-meaning-of-the-millennium/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev2000_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev2000_00.mp3",
+                    "link": "https://media.enduringword.com/revelation-20-the-meaning-of-the-millennium/",
+                    "pubDate": "Tue, 28 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 20 \u2013 The Meaning of the Millennium",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-20-the-meaning-of-the-millennium/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-19-jesus-returns-as-conquering-lord/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26519-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1900_00.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1900_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev1900_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev1900_00.mp3",
+                    "enclosure": {
+                        "@length": "24360223",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev1900_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-19-jesus-returns-as-conquering-lord/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev1900_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev1900_00.mp3",
+                    "link": "https://media.enduringword.com/revelation-19-jesus-returns-as-conquering-lord/",
+                    "pubDate": "Mon, 27 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 19 \u2013 Jesus Returns as Conquering Lord",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-19-jesus-returns-as-conquering-lord/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-18-the-fall-of-commercial-babylon/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26518-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1800_00.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1800_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev1800_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev1800_00.mp3",
+                    "enclosure": {
+                        "@length": "20454809",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev1800_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-18-the-fall-of-commercial-babylon/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev1800_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev1800_00.mp3",
+                    "link": "https://media.enduringword.com/revelation-18-the-fall-of-commercial-babylon/",
+                    "pubDate": "Sun, 26 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 18 \u2013 The Fall of Commercial Babylon",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-18-the-fall-of-commercial-babylon/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-17-the-fall-of-religious-babylon/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26517-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1700_00.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1700_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev1700_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev1700_00.mp3",
+                    "enclosure": {
+                        "@length": "25651711",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev1700_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-17-the-fall-of-religious-babylon/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev1700_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev1700_00.mp3",
+                    "link": "https://media.enduringword.com/revelation-17-the-fall-of-religious-babylon/",
+                    "pubDate": "Sat, 25 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 17 \u2013 The Fall of Religious Babylon",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-17-the-fall-of-religious-babylon/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-15-16-the-bowl-judgments/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26516-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1516_00.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1516_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev1516_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev1516_00.mp3",
+                    "enclosure": {
+                        "@length": "25793592",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev1516_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-15-16-the-bowl-judgments/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev1516_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev1516_00.mp3",
+                    "link": "https://media.enduringword.com/revelation-15-16-the-bowl-judgments/",
+                    "pubDate": "Fri, 24 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 15-16 \u2013 The Bowl Judgments",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-15-16-the-bowl-judgments/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-14-gods-victory-and-satans-defeat/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26515-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1400_00.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1400_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev1400_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev1400_00.mp3",
+                    "enclosure": {
+                        "@length": "25873863",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev1400_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-14-gods-victory-and-satans-defeat/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev1400_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev1400_00.mp3",
+                    "link": "https://media.enduringword.com/revelation-14-gods-victory-and-satans-defeat/",
+                    "pubDate": "Thu, 23 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 14 \u2013 God\u2019s Victory and Satan\u2019s Defeat",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-14-gods-victory-and-satans-defeat/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-13-all-about-the-antichrist/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26514-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1300_00.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1300_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev1300_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev1300_00.mp3",
+                    "enclosure": {
+                        "@length": "34031574",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev1300_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-13-all-about-the-antichrist/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev1300_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev1300_00.mp3",
+                    "link": "https://media.enduringword.com/revelation-13-all-about-the-antichrist/",
+                    "pubDate": "Wed, 22 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 13 \u2013 All About the Antichrist",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-13-all-about-the-antichrist/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-12-the-woman-the-child-and-the-dragon/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26513-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1200_00.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1200_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev1200_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev1200_00.mp3",
+                    "enclosure": {
+                        "@length": "26960146",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev1200_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-12-the-woman-the-child-and-the-dragon/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev1200_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev1200_00.mp3",
+                    "link": "https://media.enduringword.com/revelation-12-the-woman-the-child-and-the-dragon/",
+                    "pubDate": "Tue, 21 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 12 \u2013 The Woman, the Child, and the Dragon",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-12-the-woman-the-child-and-the-dragon/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-10-11-a-bitter-sweet-time/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26512-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1011_00.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1011_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev1011_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev1011_00.mp3",
+                    "enclosure": {
+                        "@length": "28840726",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev1011_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-10-11-a-bitter-sweet-time/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev1011_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev1011_00.mp3",
+                    "link": "https://media.enduringword.com/revelation-10-11-a-bitter-sweet-time/",
+                    "pubDate": "Mon, 20 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 10-11 \u2013 A Bitter-Sweet Time",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-10-11-a-bitter-sweet-time/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-8-9-trumpeting-the-judgment-of-god/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26511-24\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0809_00.mp3?_=24\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0809_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev0809_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev0809_00.mp3",
+                    "enclosure": {
+                        "@length": "23219820",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev0809_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-8-9-trumpeting-the-judgment-of-god/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev0809_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev0809_00.mp3",
+                    "link": "https://media.enduringword.com/revelation-8-9-trumpeting-the-judgment-of-god/",
+                    "pubDate": "Sun, 19 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 8-9 \u2013 Trumpeting the Judgment of God",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-8-9-trumpeting-the-judgment-of-god/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-7-two-important-groups-from-the-great-tribulation/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26510-26\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0700_00.mp3?_=26\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0700_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev0700_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev0700_00.mp3",
+                    "enclosure": {
+                        "@length": "25026896",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev0700_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-7-two-important-groups-from-the-great-tribulation/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev0700_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev0700_00.mp3",
+                    "link": "https://media.enduringword.com/revelation-7-two-important-groups-from-the-great-tribulation/",
+                    "pubDate": "Sat, 18 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 7 \u2013 Two Important Groups from the Great Tribulation",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-7-two-important-groups-from-the-great-tribulation/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-6-unsealing-the-great-tribulation/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26509-28\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0600_00.mp3?_=28\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0600_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev0600_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev0600_00.mp3",
+                    "enclosure": {
+                        "@length": "21042668",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev0600_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-6-unsealing-the-great-tribulation/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev0600_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev0600_00.mp3",
+                    "link": "https://media.enduringword.com/revelation-6-unsealing-the-great-tribulation/",
+                    "pubDate": "Fri, 17 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 6 \u2013 Unsealing the Great Tribulation",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-6-unsealing-the-great-tribulation/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-5-who-is-worthy-to-hold-history/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26508-30\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0500_00.mp3?_=30\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0500_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev0500_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev0500_00.mp3",
+                    "enclosure": {
+                        "@length": "25497066",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev0500_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-5-who-is-worthy-to-hold-history/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev0500_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev0500_00.mp3",
+                    "link": "https://media.enduringword.com/revelation-5-who-is-worthy-to-hold-history/",
+                    "pubDate": "Thu, 16 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 5 \u2013 Who is Worthy to Hold History?",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-5-who-is-worthy-to-hold-history/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-4-what-heaven-is-like/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26507-32\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0400_00.mp3?_=32\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0400_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev0400_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev0400_00.mp3",
+                    "enclosure": {
+                        "@length": "28070209",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev0400_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-4-what-heaven-is-like/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev0400_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev0400_00.mp3",
+                    "link": "https://media.enduringword.com/revelation-4-what-heaven-is-like/",
+                    "pubDate": "Wed, 15 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 4 \u2013 What Heaven is Like",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-4-what-heaven-is-like/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-2-3-survey-the-seven-churches-of-revelation-in-history/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26506-34\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev037Chrch.mp3?_=34\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev037Chrch.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev037Chrch.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev037Chrch.mp3",
+                    "enclosure": {
+                        "@length": "28074042",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev037Chrch.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-2-3-survey-the-seven-churches-of-revelation-in-history/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev037Chrch.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev037Chrch.mp3",
+                    "link": "https://media.enduringword.com/revelation-2-3-survey-the-seven-churches-of-revelation-in-history/",
+                    "pubDate": "Tue, 14 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 2-3 (Survey) \u2013 The Seven Churches of Revelation in History",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-2-3-survey-the-seven-churches-of-revelation-in-history/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-37-22-letters-to-seven-churches/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26505-36\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0307_22.mp3?_=36\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0307_22.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev0307_22.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev0307_22.mp3",
+                    "enclosure": {
+                        "@length": "28927048",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev0307_22.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-37-22-letters-to-seven-churches/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev0307_22.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev0307_22.mp3",
+                    "link": "https://media.enduringword.com/revelation-37-22-letters-to-seven-churches/",
+                    "pubDate": "Mon, 13 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 3:7-22 \u2013 Letters to Seven Churches",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-37-22-letters-to-seven-churches/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-218-36-letters-to-seven-churches/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26504-38\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0218_07.mp3?_=38\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0218_07.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev0218_07.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev0218_07.mp3",
+                    "enclosure": {
+                        "@length": "30143314",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev0218_07.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-218-36-letters-to-seven-churches/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev0218_07.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev0218_07.mp3",
+                    "link": "https://media.enduringword.com/revelation-218-36-letters-to-seven-churches/",
+                    "pubDate": "Sun, 12 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 2:18-3:6 \u2013 Letters to Seven Churches",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-218-36-letters-to-seven-churches/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-28-217-letters-to-seven-churches/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26503-40\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0208_17.mp3?_=40\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0208_17.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev0208_17.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev0208_17.mp3",
+                    "enclosure": {
+                        "@length": "29524316",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev0208_17.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-28-217-letters-to-seven-churches/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev0208_17.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev0208_17.mp3",
+                    "link": "https://media.enduringword.com/revelation-28-217-letters-to-seven-churches/",
+                    "pubDate": "Sat, 11 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 2:8-2:17 \u2013 Letters to Seven Churches",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-28-217-letters-to-seven-churches/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-19-27-the-revelation-of-jesus-christ/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26502-42\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0109_02.mp3?_=42\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0109_02.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev0109_02.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev0109_02.mp3",
+                    "enclosure": {
+                        "@length": "27660226",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev0109_02.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-19-27-the-revelation-of-jesus-christ/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev0109_02.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev0109_02.mp3",
+                    "link": "https://media.enduringword.com/revelation-19-27-the-revelation-of-jesus-christ/",
+                    "pubDate": "Fri, 10 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 1:9-2:7 \u2013 The Revelation of Jesus Christ",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-19-27-the-revelation-of-jesus-christ/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Revelation",
+                        "Apocalypse",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/revelation-11-8-revealing-revelation/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26501-44\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0101_08.mp3?_=44\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0101_08.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev0101_08.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Rev0101_08.mp3",
+                    "enclosure": {
+                        "@length": "26073002",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Rev0101_08.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/revelation-11-8-revealing-revelation/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev0101_08.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev0101_08.mp3",
+                    "link": "https://media.enduringword.com/revelation-11-8-revealing-revelation/",
+                    "pubDate": "Thu, 09 Nov 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Revelation 1:1-8 \u2013 Revealing Revelation",
+                    "wfw:commentRss": "https://media.enduringword.com/revelation-11-8-revealing-revelation/feed/"
+                }
             ],
-            "comments": "https://media.enduringword.com/revelation-22-come-lord-jesus/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev2200_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26522-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev2200_00.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev2200_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev2200_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev2200_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev2200_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "25157449",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev2200_00.mp3"
+            "itunes:author": "David Guzik",
+            "itunes:category": {
+                "@text": "Religion & Spirituality",
+                "itunes:category": {
+                    "@text": "Christianity"
+                }
             },
-            "guid": "https://media.enduringword.com/revelation-22-come-lord-jesus/",
-            "isoDate": "2017-11-30T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev2200_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev2200_00.mp3"
+            "itunes:explicit": "no",
+            "itunes:image": {
+                "@href": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_066_revelation.jpg"
             },
-            "link": "https://media.enduringword.com/revelation-22-come-lord-jesus/",
-            "pubDate": "Thu, 30 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 22 \u2013 Come, Lord Jesus"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-21-a-new-heaven-a-new-earth-and-a-new-jerusalem/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev2100_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26521-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev2100_00.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev2100_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev2100_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev2100_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev2100_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "22918919",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev2100_00.mp3"
+            "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
+            "itunes:owner": {
+                "itunes:email": "admin@enduringword.com",
+                "itunes:name": "David Guzik"
             },
-            "guid": "https://media.enduringword.com/revelation-21-a-new-heaven-a-new-earth-and-a-new-jerusalem/",
-            "isoDate": "2017-11-29T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev2100_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev2100_00.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-21-a-new-heaven-a-new-earth-and-a-new-jerusalem/",
-            "pubDate": "Wed, 29 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 21 \u2013 A New Heaven, a New Earth, and a New Jerusalem"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-20-the-meaning-of-the-millennium/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev2000_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26520-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev2000_00.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev2000_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev2000_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev2000_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev2000_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "26590657",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev2000_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/revelation-20-the-meaning-of-the-millennium/",
-            "isoDate": "2017-11-28T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev2000_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev2000_00.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-20-the-meaning-of-the-millennium/",
-            "pubDate": "Tue, 28 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 20 \u2013 The Meaning of the Millennium"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-19-jesus-returns-as-conquering-lord/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev1900_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26519-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1900_00.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1900_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev1900_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev1900_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev1900_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "24360223",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev1900_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/revelation-19-jesus-returns-as-conquering-lord/",
-            "isoDate": "2017-11-27T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev1900_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev1900_00.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-19-jesus-returns-as-conquering-lord/",
-            "pubDate": "Mon, 27 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 19 \u2013 Jesus Returns as Conquering Lord"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-18-the-fall-of-commercial-babylon/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev1800_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26518-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1800_00.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1800_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev1800_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev1800_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev1800_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "20454809",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev1800_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/revelation-18-the-fall-of-commercial-babylon/",
-            "isoDate": "2017-11-26T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev1800_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev1800_00.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-18-the-fall-of-commercial-babylon/",
-            "pubDate": "Sun, 26 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 18 \u2013 The Fall of Commercial Babylon"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-17-the-fall-of-religious-babylon/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev1700_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26517-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1700_00.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1700_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev1700_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev1700_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev1700_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "25651711",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev1700_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/revelation-17-the-fall-of-religious-babylon/",
-            "isoDate": "2017-11-25T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev1700_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev1700_00.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-17-the-fall-of-religious-babylon/",
-            "pubDate": "Sat, 25 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 17 \u2013 The Fall of Religious Babylon"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-15-16-the-bowl-judgments/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev1516_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26516-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1516_00.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1516_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev1516_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev1516_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev1516_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "25793592",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev1516_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/revelation-15-16-the-bowl-judgments/",
-            "isoDate": "2017-11-24T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev1516_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev1516_00.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-15-16-the-bowl-judgments/",
-            "pubDate": "Fri, 24 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 15-16 \u2013 The Bowl Judgments"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-14-gods-victory-and-satans-defeat/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev1400_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26515-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1400_00.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1400_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev1400_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev1400_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev1400_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "25873863",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev1400_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/revelation-14-gods-victory-and-satans-defeat/",
-            "isoDate": "2017-11-23T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev1400_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev1400_00.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-14-gods-victory-and-satans-defeat/",
-            "pubDate": "Thu, 23 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 14 \u2013 God\u2019s Victory and Satan\u2019s Defeat"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-13-all-about-the-antichrist/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev1300_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26514-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1300_00.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1300_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev1300_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev1300_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev1300_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "34031574",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev1300_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/revelation-13-all-about-the-antichrist/",
-            "isoDate": "2017-11-22T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev1300_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev1300_00.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-13-all-about-the-antichrist/",
-            "pubDate": "Wed, 22 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 13 \u2013 All About the Antichrist"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-12-the-woman-the-child-and-the-dragon/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev1200_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26513-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1200_00.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1200_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev1200_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev1200_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev1200_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "26960146",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev1200_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/revelation-12-the-woman-the-child-and-the-dragon/",
-            "isoDate": "2017-11-21T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev1200_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev1200_00.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-12-the-woman-the-child-and-the-dragon/",
-            "pubDate": "Tue, 21 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 12 \u2013 The Woman, the Child, and the Dragon"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-10-11-a-bitter-sweet-time/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev1011_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26512-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1011_00.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev1011_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev1011_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev1011_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev1011_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "28840726",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev1011_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/revelation-10-11-a-bitter-sweet-time/",
-            "isoDate": "2017-11-20T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev1011_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev1011_00.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-10-11-a-bitter-sweet-time/",
-            "pubDate": "Mon, 20 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 10-11 \u2013 A Bitter-Sweet Time"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-8-9-trumpeting-the-judgment-of-god/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev0809_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26511-24\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0809_00.mp3?_=24\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0809_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev0809_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev0809_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev0809_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "23219820",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev0809_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/revelation-8-9-trumpeting-the-judgment-of-god/",
-            "isoDate": "2017-11-19T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev0809_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev0809_00.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-8-9-trumpeting-the-judgment-of-god/",
-            "pubDate": "Sun, 19 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 8-9 \u2013 Trumpeting the Judgment of God"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-7-two-important-groups-from-the-great-tribulation/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev0700_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26510-26\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0700_00.mp3?_=26\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0700_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev0700_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev0700_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev0700_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "25026896",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev0700_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/revelation-7-two-important-groups-from-the-great-tribulation/",
-            "isoDate": "2017-11-18T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev0700_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev0700_00.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-7-two-important-groups-from-the-great-tribulation/",
-            "pubDate": "Sat, 18 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 7 \u2013 Two Important Groups from the Great Tribulation"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-6-unsealing-the-great-tribulation/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev0600_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26509-28\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0600_00.mp3?_=28\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0600_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev0600_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev0600_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev0600_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "21042668",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev0600_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/revelation-6-unsealing-the-great-tribulation/",
-            "isoDate": "2017-11-17T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev0600_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev0600_00.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-6-unsealing-the-great-tribulation/",
-            "pubDate": "Fri, 17 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 6 \u2013 Unsealing the Great Tribulation"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-5-who-is-worthy-to-hold-history/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev0500_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26508-30\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0500_00.mp3?_=30\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0500_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev0500_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev0500_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev0500_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "25497066",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev0500_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/revelation-5-who-is-worthy-to-hold-history/",
-            "isoDate": "2017-11-16T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev0500_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev0500_00.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-5-who-is-worthy-to-hold-history/",
-            "pubDate": "Thu, 16 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 5 \u2013 Who is Worthy to Hold History?"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-4-what-heaven-is-like/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev0400_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26507-32\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0400_00.mp3?_=32\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0400_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev0400_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev0400_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev0400_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "28070209",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev0400_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/revelation-4-what-heaven-is-like/",
-            "isoDate": "2017-11-15T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev0400_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev0400_00.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-4-what-heaven-is-like/",
-            "pubDate": "Wed, 15 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 4 \u2013 What Heaven is Like"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-2-3-survey-the-seven-churches-of-revelation-in-history/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev037Chrch.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26506-34\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev037Chrch.mp3?_=34\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev037Chrch.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev037Chrch.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev037Chrch.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev037Chrch.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "28074042",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev037Chrch.mp3"
-            },
-            "guid": "https://media.enduringword.com/revelation-2-3-survey-the-seven-churches-of-revelation-in-history/",
-            "isoDate": "2017-11-14T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev037Chrch.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev037Chrch.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-2-3-survey-the-seven-churches-of-revelation-in-history/",
-            "pubDate": "Tue, 14 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 2-3 (Survey) \u2013 The Seven Churches of Revelation in History"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-37-22-letters-to-seven-churches/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev0307_22.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26505-36\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0307_22.mp3?_=36\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0307_22.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev0307_22.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev0307_22.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev0307_22.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "28927048",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev0307_22.mp3"
-            },
-            "guid": "https://media.enduringword.com/revelation-37-22-letters-to-seven-churches/",
-            "isoDate": "2017-11-13T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev0307_22.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev0307_22.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-37-22-letters-to-seven-churches/",
-            "pubDate": "Mon, 13 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 3:7-22 \u2013 Letters to Seven Churches"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-218-36-letters-to-seven-churches/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev0218_07.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26504-38\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0218_07.mp3?_=38\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0218_07.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev0218_07.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev0218_07.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev0218_07.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "30143314",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev0218_07.mp3"
-            },
-            "guid": "https://media.enduringword.com/revelation-218-36-letters-to-seven-churches/",
-            "isoDate": "2017-11-12T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev0218_07.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev0218_07.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-218-36-letters-to-seven-churches/",
-            "pubDate": "Sun, 12 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 2:18-3:6 \u2013 Letters to Seven Churches"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-28-217-letters-to-seven-churches/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev0208_17.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26503-40\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0208_17.mp3?_=40\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0208_17.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev0208_17.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev0208_17.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev0208_17.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "29524316",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev0208_17.mp3"
-            },
-            "guid": "https://media.enduringword.com/revelation-28-217-letters-to-seven-churches/",
-            "isoDate": "2017-11-11T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev0208_17.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev0208_17.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-28-217-letters-to-seven-churches/",
-            "pubDate": "Sat, 11 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 2:8-2:17 \u2013 Letters to Seven Churches"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-19-27-the-revelation-of-jesus-christ/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev0109_02.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26502-42\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0109_02.mp3?_=42\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0109_02.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev0109_02.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev0109_02.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev0109_02.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "27660226",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev0109_02.mp3"
-            },
-            "guid": "https://media.enduringword.com/revelation-19-27-the-revelation-of-jesus-christ/",
-            "isoDate": "2017-11-10T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev0109_02.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev0109_02.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-19-27-the-revelation-of-jesus-christ/",
-            "pubDate": "Fri, 10 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 1:9-2:7 \u2013 The Revelation of Jesus Christ"
-        },
-        {
-            "categories": [
-                "The Book of Revelation",
-                "Apocalypse",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/revelation-11-8-revealing-revelation/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Rev0101_08.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26501-44\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0101_08.mp3?_=44\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Rev0101_08.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Rev0101_08.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev0101_08.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Rev0101_08.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "26073002",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Rev0101_08.mp3"
-            },
-            "guid": "https://media.enduringword.com/revelation-11-8-revealing-revelation/",
-            "isoDate": "2017-11-09T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Revelation",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Rev0101_08.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Rev0101_08.mp3"
-            },
-            "link": "https://media.enduringword.com/revelation-11-8-revealing-revelation/",
-            "pubDate": "Thu, 09 Nov 2017 07:00:00 +0000",
-            "title": "Revelation 1:1-8 \u2013 Revealing Revelation"
+            "itunes:subtitle": "Enduring Word Commentary Series \u2013\u00a0The Book of Revelation",
+            "itunes:summary": "Pastor David Guzik preaches through the New Testament Book of Revelation.",
+            "language": "en-US",
+            "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
+            "link": "https://media.enduringword.com",
+            "sy:updateFrequency": "1",
+            "sy:updatePeriod": "hourly",
+            "title": "The Book of Revelation \u2013 Enduring Word Media Server"
         }
-    ],
-    "itunes": {
-        "author": "David Guzik",
-        "categories": [
-            "Religion & Spirituality"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Religion & Spirituality",
-                "subs": [
-                    {
-                        "name": "Christianity"
-                    }
-                ]
-            }
-        ],
-        "explicit": "no",
-        "image": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_066_revelation.jpg",
-        "keywords": [
-            "Bible",
-            "David",
-            "Guzik",
-            "Enduring",
-            "Word",
-            "Commentary",
-            "New",
-            "Testament",
-            "Book",
-            "of",
-            "Revelation"
-        ],
-        "owner": {
-            "email": "admin@enduringword.com",
-            "name": "David Guzik"
-        },
-        "subtitle": "Enduring Word Commentary Series \u2013\u00a0The Book of Revelation",
-        "summary": "Pastor David Guzik preaches through the New Testament Book of Revelation."
-    },
-    "language": "en-US",
-    "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
-    "link": "https://media.enduringword.com",
-    "paginationLinks": {
-        "self": "https://media.enduringword.com/podcasts/revelation/feed/"
-    },
-    "palette": [],
-    "title": "The Book of Revelation \u2013 Enduring Word Media Server"
+    }
 }

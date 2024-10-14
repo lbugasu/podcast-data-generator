@@ -1,426 +1,408 @@
 {
-    "copyright": "Enduring Word 2018",
-    "description": "Audio and Video Server For Enduring Word",
-    "feedUrl": "https://media.enduringword.com/podcasts/2_kings/feed/",
-    "generator": "https://wordpress.org/?v=5.0.22",
-    "items": [
-        {
-            "categories": [
-                "The Book of 2 Kings",
-                "History",
-                "Old Testament"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:slash": "http://purl.org/rss/1.0/modules/slash/",
+        "@xmlns:sy": "http://purl.org/rss/1.0/modules/syndication/",
+        "@xmlns:wfw": "http://wellformedweb.org/CommentAPI/",
+        "channel": {
+            "atom:link": {
+                "@href": "https://media.enduringword.com/podcasts/2_kings/feed/",
+                "@rel": "self",
+                "@type": "application/rss+xml"
+            },
+            "copyright": "Enduring Word 2018",
+            "description": "Audio and Video Server For Enduring Word",
+            "generator": "https://wordpress.org/?v=5.0.22",
+            "item": [
+                {
+                    "category": [
+                        "The Book of 2 Kings",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-kings-23-25-four-bad-kings-the-fall-of-judah-and-a-glimmer-of-hope/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26681-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings23_25.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings23_25.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings23_25.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Kings23_25.mp3",
+                    "enclosure": {
+                        "@length": "35632954",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings23_25.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-kings-23-25-four-bad-kings-the-fall-of-judah-and-a-glimmer-of-hope/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings23_25.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings23_25.mp3",
+                    "link": "https://media.enduringword.com/2-kings-23-25-four-bad-kings-the-fall-of-judah-and-a-glimmer-of-hope/",
+                    "pubDate": "Sat, 14 May 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Kings 23-25 \u2013 Four Bad Kings, the Fall of Judah, and a Glimmer of Hope",
+                    "wfw:commentRss": "https://media.enduringword.com/2-kings-23-25-four-bad-kings-the-fall-of-judah-and-a-glimmer-of-hope/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Kings",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-kings-21-22-the-late-repentance-of-a-bad-king/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26680-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings21_22.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings21_22.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings21_22.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Kings21_22.mp3",
+                    "enclosure": {
+                        "@length": "27309483",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings21_22.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-kings-21-22-the-late-repentance-of-a-bad-king/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings21_22.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings21_22.mp3",
+                    "link": "https://media.enduringword.com/2-kings-21-22-the-late-repentance-of-a-bad-king/",
+                    "pubDate": "Fri, 13 May 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Kings 21-22 \u2013 The Late Repentance of a Bad King",
+                    "wfw:commentRss": "https://media.enduringword.com/2-kings-21-22-the-late-repentance-of-a-bad-king/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Kings",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-kings-19-20-the-poor-finish-of-a-great-king/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26679-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings19_20.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings19_20.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings19_20.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Kings19_20.mp3",
+                    "enclosure": {
+                        "@length": "30823264",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings19_20.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-kings-19-20-the-poor-finish-of-a-great-king/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings19_20.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings19_20.mp3",
+                    "link": "https://media.enduringword.com/2-kings-19-20-the-poor-finish-of-a-great-king/",
+                    "pubDate": "Thu, 12 May 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Kings 19-20 \u2013 The Poor Finish of a Great King",
+                    "wfw:commentRss": "https://media.enduringword.com/2-kings-19-20-the-poor-finish-of-a-great-king/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Kings",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-kings-17-18-the-fall-of-the-northern-kingdom-of-israel/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26678-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings17_18.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings17_18.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings17_18.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Kings17_18.mp3",
+                    "enclosure": {
+                        "@length": "31827422",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings17_18.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-kings-17-18-the-fall-of-the-northern-kingdom-of-israel/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings17_18.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings17_18.mp3",
+                    "link": "https://media.enduringword.com/2-kings-17-18-the-fall-of-the-northern-kingdom-of-israel/",
+                    "pubDate": "Wed, 11 May 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Kings 17-18 \u2013 The Fall of the Northern Kingdom of Israel",
+                    "wfw:commentRss": "https://media.enduringword.com/2-kings-17-18-the-fall-of-the-northern-kingdom-of-israel/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Kings",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-kings-15-16-judahs-worst-king-and-the-church-in-the-21st-century/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26677-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings15_16.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings15_16.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings15_16.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Kings15_16.mp3",
+                    "enclosure": {
+                        "@length": "30795547",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings15_16.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-kings-15-16-judahs-worst-king-and-the-church-in-the-21st-century/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings15_16.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings15_16.mp3",
+                    "link": "https://media.enduringword.com/2-kings-15-16-judahs-worst-king-and-the-church-in-the-21st-century/",
+                    "pubDate": "Tue, 10 May 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Kings 15-16 \u2013 Judah\u2019s Worst King and the Church in the 21st Century",
+                    "wfw:commentRss": "https://media.enduringword.com/2-kings-15-16-judahs-worst-king-and-the-church-in-the-21st-century/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Kings",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-kings-13-14-keep-shooting-in-faith/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26676-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings13_14.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings13_14.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings13_14.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Kings13_14.mp3",
+                    "enclosure": {
+                        "@length": "31083434",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings13_14.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-kings-13-14-keep-shooting-in-faith/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings13_14.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings13_14.mp3",
+                    "link": "https://media.enduringword.com/2-kings-13-14-keep-shooting-in-faith/",
+                    "pubDate": "Mon, 09 May 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Kings 13-14 \u2013 Keep Shooting in Faith",
+                    "wfw:commentRss": "https://media.enduringword.com/2-kings-13-14-keep-shooting-in-faith/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Kings",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-kings-11-12-the-queen-of-judah-and-the-boy-king/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26675-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings11_12.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings11_12.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings11_12.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Kings11_12.mp3",
+                    "enclosure": {
+                        "@length": "25375797",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings11_12.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-kings-11-12-the-queen-of-judah-and-the-boy-king/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings11_12.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings11_12.mp3",
+                    "link": "https://media.enduringword.com/2-kings-11-12-the-queen-of-judah-and-the-boy-king/",
+                    "pubDate": "Sun, 08 May 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Kings 11-12 \u2013 The Queen of Judah and the Boy King",
+                    "wfw:commentRss": "https://media.enduringword.com/2-kings-11-12-the-queen-of-judah-and-the-boy-king/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Kings",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-kings-9-10-jehu-zealous-but-not-enough/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26674-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings09_10.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings09_10.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings09_10.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Kings09_10.mp3",
+                    "enclosure": {
+                        "@length": "27240933",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings09_10.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-kings-9-10-jehu-zealous-but-not-enough/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings09_10.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings09_10.mp3",
+                    "link": "https://media.enduringword.com/2-kings-9-10-jehu-zealous-but-not-enough/",
+                    "pubDate": "Sat, 07 May 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Kings 9-10 \u2013 Jehu: Zealous, but Not Enough",
+                    "wfw:commentRss": "https://media.enduringword.com/2-kings-9-10-jehu-zealous-but-not-enough/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Kings",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-kings-7-8-outcasts-and-kings/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26673-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings07_08.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings07_08.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings07_08.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Kings07_08.mp3",
+                    "enclosure": {
+                        "@length": "26802483",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings07_08.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-kings-7-8-outcasts-and-kings/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings07_08.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings07_08.mp3",
+                    "link": "https://media.enduringword.com/2-kings-7-8-outcasts-and-kings/",
+                    "pubDate": "Fri, 06 May 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Kings 7-8 \u2013 Outcasts and Kings",
+                    "wfw:commentRss": "https://media.enduringword.com/2-kings-7-8-outcasts-and-kings/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Kings",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-kings-5-6-two-lepers-and-the-blind-men/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26672-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings05_06.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings05_06.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings05_06.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Kings05_06.mp3",
+                    "enclosure": {
+                        "@length": "25472338",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings05_06.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-kings-5-6-two-lepers-and-the-blind-men/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings05_06.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings05_06.mp3",
+                    "link": "https://media.enduringword.com/2-kings-5-6-two-lepers-and-the-blind-men/",
+                    "pubDate": "Thu, 05 May 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Kings 5-6 \u2013 Two Lepers and the Blind Men",
+                    "wfw:commentRss": "https://media.enduringword.com/2-kings-5-6-two-lepers-and-the-blind-men/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Kings",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-kings-3-4-how-to-prepare-for-blessing/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26671-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings03_04.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings03_04.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings03_04.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Kings03_04.mp3",
+                    "enclosure": {
+                        "@length": "28759168",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings03_04.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-kings-3-4-how-to-prepare-for-blessing/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings03_04.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings03_04.mp3",
+                    "link": "https://media.enduringword.com/2-kings-3-4-how-to-prepare-for-blessing/",
+                    "pubDate": "Wed, 04 May 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Kings 3-4 \u2013 How to Prepare for Blessing",
+                    "wfw:commentRss": "https://media.enduringword.com/2-kings-3-4-how-to-prepare-for-blessing/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Kings",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-kings-1-2-a-prophet-and-his-protege/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26670-24\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings01_02.mp3?_=24\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings01_02.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings01_02.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Kings01_02.mp3",
+                    "enclosure": {
+                        "@length": "24016374",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings01_02.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-kings-1-2-a-prophet-and-his-protege/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings01_02.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings01_02.mp3",
+                    "link": "https://media.enduringword.com/2-kings-1-2-a-prophet-and-his-protege/",
+                    "pubDate": "Tue, 03 May 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Kings 1-2 \u2013 A Prophet and His Prot\u00e9g\u00e9",
+                    "wfw:commentRss": "https://media.enduringword.com/2-kings-1-2-a-prophet-and-his-protege/feed/"
+                }
             ],
-            "comments": "https://media.enduringword.com/2-kings-23-25-four-bad-kings-the-fall-of-judah-and-a-glimmer-of-hope/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Kings23_25.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26681-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings23_25.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings23_25.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings23_25.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings23_25.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings23_25.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "35632954",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings23_25.mp3"
+            "itunes:author": "David Guzik",
+            "itunes:category": {
+                "@text": "Religion & Spirituality",
+                "itunes:category": {
+                    "@text": "Christianity"
+                }
             },
-            "guid": "https://media.enduringword.com/2-kings-23-25-four-bad-kings-the-fall-of-judah-and-a-glimmer-of-hope/",
-            "isoDate": "2016-05-14T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings23_25.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings23_25.mp3"
+            "itunes:explicit": "no",
+            "itunes:image": {
+                "@href": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_012_2-kings.jpg"
             },
-            "link": "https://media.enduringword.com/2-kings-23-25-four-bad-kings-the-fall-of-judah-and-a-glimmer-of-hope/",
-            "pubDate": "Sat, 14 May 2016 07:00:00 +0000",
-            "title": "2 Kings 23-25 \u2013 Four Bad Kings, the Fall of Judah, and a Glimmer of Hope"
-        },
-        {
-            "categories": [
-                "The Book of 2 Kings",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-kings-21-22-the-late-repentance-of-a-bad-king/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Kings21_22.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26680-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings21_22.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings21_22.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings21_22.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings21_22.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings21_22.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "27309483",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings21_22.mp3"
+            "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
+            "itunes:owner": {
+                "itunes:email": "admin@enduringword.com",
+                "itunes:name": "David Guzik"
             },
-            "guid": "https://media.enduringword.com/2-kings-21-22-the-late-repentance-of-a-bad-king/",
-            "isoDate": "2016-05-13T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings21_22.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings21_22.mp3"
-            },
-            "link": "https://media.enduringword.com/2-kings-21-22-the-late-repentance-of-a-bad-king/",
-            "pubDate": "Fri, 13 May 2016 07:00:00 +0000",
-            "title": "2 Kings 21-22 \u2013 The Late Repentance of a Bad King"
-        },
-        {
-            "categories": [
-                "The Book of 2 Kings",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-kings-19-20-the-poor-finish-of-a-great-king/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Kings19_20.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26679-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings19_20.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings19_20.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings19_20.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings19_20.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings19_20.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "30823264",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings19_20.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-kings-19-20-the-poor-finish-of-a-great-king/",
-            "isoDate": "2016-05-12T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings19_20.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings19_20.mp3"
-            },
-            "link": "https://media.enduringword.com/2-kings-19-20-the-poor-finish-of-a-great-king/",
-            "pubDate": "Thu, 12 May 2016 07:00:00 +0000",
-            "title": "2 Kings 19-20 \u2013 The Poor Finish of a Great King"
-        },
-        {
-            "categories": [
-                "The Book of 2 Kings",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-kings-17-18-the-fall-of-the-northern-kingdom-of-israel/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Kings17_18.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26678-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings17_18.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings17_18.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings17_18.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings17_18.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings17_18.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "31827422",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings17_18.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-kings-17-18-the-fall-of-the-northern-kingdom-of-israel/",
-            "isoDate": "2016-05-11T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings17_18.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings17_18.mp3"
-            },
-            "link": "https://media.enduringword.com/2-kings-17-18-the-fall-of-the-northern-kingdom-of-israel/",
-            "pubDate": "Wed, 11 May 2016 07:00:00 +0000",
-            "title": "2 Kings 17-18 \u2013 The Fall of the Northern Kingdom of Israel"
-        },
-        {
-            "categories": [
-                "The Book of 2 Kings",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-kings-15-16-judahs-worst-king-and-the-church-in-the-21st-century/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Kings15_16.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26677-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings15_16.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings15_16.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings15_16.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings15_16.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings15_16.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "30795547",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings15_16.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-kings-15-16-judahs-worst-king-and-the-church-in-the-21st-century/",
-            "isoDate": "2016-05-10T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings15_16.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings15_16.mp3"
-            },
-            "link": "https://media.enduringword.com/2-kings-15-16-judahs-worst-king-and-the-church-in-the-21st-century/",
-            "pubDate": "Tue, 10 May 2016 07:00:00 +0000",
-            "title": "2 Kings 15-16 \u2013 Judah\u2019s Worst King and the Church in the 21st Century"
-        },
-        {
-            "categories": [
-                "The Book of 2 Kings",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-kings-13-14-keep-shooting-in-faith/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Kings13_14.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26676-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings13_14.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings13_14.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings13_14.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings13_14.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings13_14.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "31083434",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings13_14.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-kings-13-14-keep-shooting-in-faith/",
-            "isoDate": "2016-05-09T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings13_14.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings13_14.mp3"
-            },
-            "link": "https://media.enduringword.com/2-kings-13-14-keep-shooting-in-faith/",
-            "pubDate": "Mon, 09 May 2016 07:00:00 +0000",
-            "title": "2 Kings 13-14 \u2013 Keep Shooting in Faith"
-        },
-        {
-            "categories": [
-                "The Book of 2 Kings",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-kings-11-12-the-queen-of-judah-and-the-boy-king/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Kings11_12.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26675-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings11_12.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings11_12.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings11_12.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings11_12.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings11_12.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "25375797",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings11_12.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-kings-11-12-the-queen-of-judah-and-the-boy-king/",
-            "isoDate": "2016-05-08T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings11_12.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings11_12.mp3"
-            },
-            "link": "https://media.enduringword.com/2-kings-11-12-the-queen-of-judah-and-the-boy-king/",
-            "pubDate": "Sun, 08 May 2016 07:00:00 +0000",
-            "title": "2 Kings 11-12 \u2013 The Queen of Judah and the Boy King"
-        },
-        {
-            "categories": [
-                "The Book of 2 Kings",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-kings-9-10-jehu-zealous-but-not-enough/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Kings09_10.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26674-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings09_10.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings09_10.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings09_10.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings09_10.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings09_10.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "27240933",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings09_10.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-kings-9-10-jehu-zealous-but-not-enough/",
-            "isoDate": "2016-05-07T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings09_10.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings09_10.mp3"
-            },
-            "link": "https://media.enduringword.com/2-kings-9-10-jehu-zealous-but-not-enough/",
-            "pubDate": "Sat, 07 May 2016 07:00:00 +0000",
-            "title": "2 Kings 9-10 \u2013 Jehu: Zealous, but Not Enough"
-        },
-        {
-            "categories": [
-                "The Book of 2 Kings",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-kings-7-8-outcasts-and-kings/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Kings07_08.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26673-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings07_08.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings07_08.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings07_08.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings07_08.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings07_08.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "26802483",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings07_08.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-kings-7-8-outcasts-and-kings/",
-            "isoDate": "2016-05-06T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings07_08.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings07_08.mp3"
-            },
-            "link": "https://media.enduringword.com/2-kings-7-8-outcasts-and-kings/",
-            "pubDate": "Fri, 06 May 2016 07:00:00 +0000",
-            "title": "2 Kings 7-8 \u2013 Outcasts and Kings"
-        },
-        {
-            "categories": [
-                "The Book of 2 Kings",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-kings-5-6-two-lepers-and-the-blind-men/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Kings05_06.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26672-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings05_06.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings05_06.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings05_06.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings05_06.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings05_06.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "25472338",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings05_06.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-kings-5-6-two-lepers-and-the-blind-men/",
-            "isoDate": "2016-05-05T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings05_06.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings05_06.mp3"
-            },
-            "link": "https://media.enduringword.com/2-kings-5-6-two-lepers-and-the-blind-men/",
-            "pubDate": "Thu, 05 May 2016 07:00:00 +0000",
-            "title": "2 Kings 5-6 \u2013 Two Lepers and the Blind Men"
-        },
-        {
-            "categories": [
-                "The Book of 2 Kings",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-kings-3-4-how-to-prepare-for-blessing/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Kings03_04.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26671-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings03_04.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings03_04.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings03_04.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings03_04.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings03_04.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "28759168",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings03_04.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-kings-3-4-how-to-prepare-for-blessing/",
-            "isoDate": "2016-05-04T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings03_04.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings03_04.mp3"
-            },
-            "link": "https://media.enduringword.com/2-kings-3-4-how-to-prepare-for-blessing/",
-            "pubDate": "Wed, 04 May 2016 07:00:00 +0000",
-            "title": "2 Kings 3-4 \u2013 How to Prepare for Blessing"
-        },
-        {
-            "categories": [
-                "The Book of 2 Kings",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-kings-1-2-a-prophet-and-his-protege/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Kings01_02.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26670-24\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings01_02.mp3?_=24\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Kings01_02.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Kings01_02.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings01_02.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Kings01_02.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "24016374",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Kings01_02.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-kings-1-2-a-prophet-and-his-protege/",
-            "isoDate": "2016-05-03T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Kings",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Kings01_02.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Kings01_02.mp3"
-            },
-            "link": "https://media.enduringword.com/2-kings-1-2-a-prophet-and-his-protege/",
-            "pubDate": "Tue, 03 May 2016 07:00:00 +0000",
-            "title": "2 Kings 1-2 \u2013 A Prophet and His Prot\u00e9g\u00e9"
+            "itunes:subtitle": "Enduring Word Commentary Series \u2013\u00a0The Book of 2 Kings",
+            "itunes:summary": "Pastor David Guzik preaches through the Old Testament Book of 2 Kings.",
+            "language": "en-US",
+            "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
+            "link": "https://media.enduringword.com",
+            "sy:updateFrequency": "1",
+            "sy:updatePeriod": "hourly",
+            "title": "The Book of 2 Kings \u2013 Enduring Word Media Server"
         }
-    ],
-    "itunes": {
-        "author": "David Guzik",
-        "categories": [
-            "Religion & Spirituality"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Religion & Spirituality",
-                "subs": [
-                    {
-                        "name": "Christianity"
-                    }
-                ]
-            }
-        ],
-        "explicit": "no",
-        "image": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_012_2-kings.jpg",
-        "keywords": [
-            "Bible",
-            "David",
-            "Guzik",
-            "Enduring",
-            "Word",
-            "Commentary",
-            "Old",
-            "Testament",
-            "Book",
-            "of",
-            "2",
-            "Kings"
-        ],
-        "owner": {
-            "email": "admin@enduringword.com",
-            "name": "David Guzik"
-        },
-        "subtitle": "Enduring Word Commentary Series \u2013\u00a0The Book of 2 Kings",
-        "summary": "Pastor David Guzik preaches through the Old Testament Book of 2 Kings."
-    },
-    "language": "en-US",
-    "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
-    "link": "https://media.enduringword.com",
-    "paginationLinks": {
-        "self": "https://media.enduringword.com/podcasts/2_kings/feed/"
-    },
-    "palette": [],
-    "title": "The Book of 2 Kings \u2013 Enduring Word Media Server"
+    }
 }

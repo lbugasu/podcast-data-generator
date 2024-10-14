@@ -1,173 +1,189 @@
 {
-    "copyright": "\u00a9 The Washington Post",
-    "description": "This five-part miniseries explores what happens when your parents come from two different countries, cultures, or races. Host Alex Laughlin shares her own stories and interviews multiracial people about what their racial identities mean to them. Five episodes, five themes and a whole bunch of stories to make you think about what it means to be an American.",
-    "feedUrl": "http://podcast.posttv.com/itunes-58f136e5e4b058d61ff66b15.xml",
-    "items": [
-        {
-            "content": "In the podcast finale, we talk to author Ruth Ozeki and actor Katie Malia about not seeing their perspectives reflected in pop culture -- and about the power of creating a culture that does.",
-            "contentSnippet": "In the podcast finale, we talk to author Ruth Ozeki and actor Katie Malia about not seeing their perspectives reflected in pop culture -- and about the power of creating a culture that does.",
-            "creator": "The Washington Post",
-            "dc:creator": "The Washington Post",
-            "enclosure": {
-                "length": "21219395",
-                "type": "audio/mpeg",
-                "url": "http://www.podtrac.com/pts/redirect.mp3/podcast.posttv.com/washpost-production/58f136e5e4b058d61ff66b15/20170428/5903b32ce4b058d61ff66bee/5903b330e4b00249e68a0db0_1351620000001-300030_t_1493414711243_44100_160_2.mp3"
+    "rss": {
+        "@version": "2.0",
+        "@xml:base": "http://washingtonpost.com/",
+        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "@xmlns:feedburner": "http://rssnamespace.org/feedburner/ext/1.0",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "channel": {
+            "copyright": "\u00a9 The Washington Post",
+            "description": "This five-part miniseries explores what happens when your parents come from two different countries, cultures, or races. Host Alex Laughlin shares her own stories and interviews multiracial people about what their racial identities mean to them. Five episodes, five themes and a whole bunch of stories to make you think about what it means to be an American.",
+            "item": [
+                {
+                    "dc:creator": "The Washington Post",
+                    "description": "In the podcast finale, we talk to author Ruth Ozeki and actor Katie Malia about not seeing their perspectives reflected in pop culture -- and about the power of creating a culture that does.",
+                    "enclosure": {
+                        "@length": "21219395",
+                        "@type": "audio/mpeg",
+                        "@url": "http://www.podtrac.com/pts/redirect.mp3/podcast.posttv.com/washpost-production/58f136e5e4b058d61ff66b15/20170428/5903b32ce4b058d61ff66bee/5903b330e4b00249e68a0db0_1351620000001-300030_t_1493414711243_44100_160_2.mp3"
+                    },
+                    "feedburner:origLink": "https://www.washingtonpost.com/podcasts/other-mixed-race-in-america/a-magical-web-series-a-rock-concert-and-transplant-shock/?tid=aud_rsslink",
+                    "guid": {
+                        "#text": "5903b32ce4b058d61ff66bee",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Washington Post",
+                    "itunes:duration": "1061",
+                    "itunes:image": {
+                        "@href": "http://podcast.posttv.com/covers/podcast/5903b32ce4b058d61ff66bee/2048px_Other_podcast_Ep5.jpg"
+                    },
+                    "itunes:subtitle": "In the podcast finale, we talk to author Ruth Ozeki and actor Katie Malia about not seeing their perspectives reflected in pop culture -- and about the power of creating a culture that does.",
+                    "itunes:summary": "In the podcast finale, we talk to author Ruth Ozeki and actor Katie Malia about not seeing their perspectives reflected in pop culture -- and about the power of creating a culture that does.",
+                    "link": "https://www.washingtonpost.com/podcasts/other-mixed-race-in-america/a-magical-web-series-a-rock-concert-and-transplant-shock/?tid=aud_rsslink",
+                    "pubDate": "Fri, 05 May 2017 07:00:00 +0000",
+                    "title": "A magical web series, a rock concert, and transplant shock"
+                },
+                {
+                    "dc:creator": "The Washington Post",
+                    "description": "The question of who counts as 'American' has been around as long as the country has. In this episode, we tell the story of Virginia Matsuoka, a half-Japanese woman who was interned during World War II.",
+                    "enclosure": {
+                        "@length": "19196998",
+                        "@type": "audio/mpeg",
+                        "@url": "http://www.podtrac.com/pts/redirect.mp3/podcast.posttv.com/washpost-production/58f136e5e4b058d61ff66b15/20170428/5903b20de4b058d61ff66be0/5903b212e4b00249e68a0da3_1351620000001-300030_t_1493414430625_44100_160_2.mp3"
+                    },
+                    "feedburner:origLink": "https://www.washingtonpost.com/podcasts/other-mixed-race-in-america/im-not-a-jap-im-a-half-jap/?tid=aud_rsslink",
+                    "guid": {
+                        "#text": "5903b20de4b058d61ff66be0",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Washington Post",
+                    "itunes:duration": "960",
+                    "itunes:image": {
+                        "@href": "http://podcast.posttv.com/covers/podcast/5903b20de4b058d61ff66be0/2048px_Other_podcast_Ep4.jpg"
+                    },
+                    "itunes:subtitle": "The question of who counts as 'American' has been around as long as the country has. In this episode, we tell the story of Virginia Matsuoka, a half-Japanese woman who was interned during World War II.",
+                    "itunes:summary": "The question of who counts as 'American' has been around as long as the country has. In this episode, we tell the story of Virginia Matsuoka, a half-Japanese woman who was interned during World War II.",
+                    "link": "https://www.washingtonpost.com/podcasts/other-mixed-race-in-america/im-not-a-jap-im-a-half-jap/?tid=aud_rsslink",
+                    "pubDate": "Thu, 04 May 2017 07:00:00 +0000",
+                    "title": "'I\u2019m not a Jap, I\u2019m a half-Jap'"
+                },
+                {
+                    "dc:creator": "The Washington Post",
+                    "description": "In this episode we look into the history of African Americans passing as white in the U.S. Karin Tanabe, author of 'The Gilded Years' joins us to share the story of Anita Hemmings, Vassar College\u2019s first black graduate.",
+                    "enclosure": {
+                        "@length": "23032819",
+                        "@type": "audio/mpeg",
+                        "@url": "http://www.podtrac.com/pts/redirect.mp3/podcast.posttv.com/washpost-production/58f136e5e4b058d61ff66b15/20170428/5903b14fe4b058d61ff66bd2/5903b152e4b00249e68a0d95_1351620000001-300030_t_1493414238497_44100_160_2.mp3"
+                    },
+                    "feedburner:origLink": "https://www.washingtonpost.com/podcasts/other-mixed-race-in-america/when-you-dont-look-black/?tid=aud_rsslink",
+                    "guid": {
+                        "#text": "5903b14fe4b058d61ff66bd2",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Washington Post",
+                    "itunes:duration": "1152",
+                    "itunes:image": {
+                        "@href": "http://podcast.posttv.com/covers/podcast/5903b14fe4b058d61ff66bd2/2048px_Other_podcast_Ep3.jpg"
+                    },
+                    "itunes:subtitle": "In this episode we look into the history of African Americans passing as white in the U.S. Karin Tanabe, author of 'The Gilded Years' joins us to share the story of Anita Hemmings, Vassar College\u2019s first black graduate.",
+                    "itunes:summary": "In this episode we look into the history of African Americans passing as white in the U.S. Karin Tanabe, author of 'The Gilded Years' joins us to share the story of Anita Hemmings, Vassar College\u2019s first black graduate.",
+                    "link": "https://www.washingtonpost.com/podcasts/other-mixed-race-in-america/when-you-dont-look-black/?tid=aud_rsslink",
+                    "pubDate": "Wed, 03 May 2017 07:00:00 +0000",
+                    "title": "When you don\u2019t 'look black'"
+                },
+                {
+                    "dc:creator": "The Washington Post",
+                    "description": "We talk with Amy S. Choi of The Mashup Americans about what it means to be a mashup family. Then, we share a story about Sulome Anderson, a journalist who has spent her career humanizing the people responsible for the pain and discord in her life.",
+                    "enclosure": {
+                        "@length": "19768345",
+                        "@type": "audio/mpeg",
+                        "@url": "http://www.podtrac.com/pts/redirect.mp3/podcast.posttv.com/washpost-production/58f136e5e4b058d61ff66b15/20170428/5903b020e4b058d61ff66bc4/5903b025e4b00249e68a0d6b_1351620000001-300040_t_1493413941837_44100_128_2.mp3"
+                    },
+                    "feedburner:origLink": "https://www.washingtonpost.com/podcasts/other-mixed-race-in-america/the-bridges-we-build-within-our-families----and-the-ones-we-cant/?tid=aud_rsslink",
+                    "guid": {
+                        "#text": "5903b020e4b058d61ff66bc4",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Washington Post",
+                    "itunes:duration": "1236",
+                    "itunes:image": {
+                        "@href": "http://podcast.posttv.com/covers/podcast/5903b020e4b058d61ff66bc4/2048px_Other_podcast_Ep2.jpg"
+                    },
+                    "itunes:subtitle": "We talk with Amy S. Choi of The Mashup Americans about what it means to be a mashup family. Then, we share a story about Sulome Anderson, a journalist who has spent her career humanizing the people responsible for the pain and discord in her life.",
+                    "itunes:summary": "We talk with Amy S. Choi of The Mashup Americans about what it means to be a mashup family. Then, we share a story about Sulome Anderson, a journalist who has spent her career humanizing the people responsible for the pain and discord in her life.",
+                    "link": "https://www.washingtonpost.com/podcasts/other-mixed-race-in-america/the-bridges-we-build-within-our-families----and-the-ones-we-cant/?tid=aud_rsslink",
+                    "pubDate": "Tue, 02 May 2017 07:00:00 +0000",
+                    "title": "The bridges we build within our families -- and the ones we can\u2019t"
+                },
+                {
+                    "dc:creator": "The Washington Post",
+                    "description": "In the first episode of Other: Mixed Race in America, we investigate the supercharged (and super awkward) microaggressions that multiracial people face in romantic situations.",
+                    "enclosure": {
+                        "@length": "18687086",
+                        "@type": "audio/mpeg",
+                        "@url": "http://www.podtrac.com/pts/redirect.mp3/podcast.posttv.com/washpost-production/58f136e5e4b058d61ff66b15/20170428/5903af6ae4b058d61ff66bb6/5903af6ee4b00249e68a0d5e_1351620000001-300040_t_1493413758734_44100_128_2.mp3"
+                    },
+                    "feedburner:origLink": "https://www.washingtonpost.com/podcasts/other-mixed-race-in-america/am-i-an-asian-y-trinket-to-you/?tid=aud_rsslink",
+                    "guid": {
+                        "#text": "5903af6ae4b058d61ff66bb6",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Washington Post",
+                    "itunes:duration": "1168",
+                    "itunes:image": {
+                        "@href": "http://podcast.posttv.com/covers/podcast/5903af6ae4b058d61ff66bb6/2048px_Other_podcast_Ep1.jpg"
+                    },
+                    "itunes:subtitle": "In the first episode of Other: Mixed Race in America, we investigate the supercharged (and super awkward) microaggressions that multiracial people face in romantic situations.",
+                    "itunes:summary": "In the first episode of Other: Mixed Race in America, we investigate the supercharged (and super awkward) microaggressions that multiracial people face in romantic situations.",
+                    "link": "https://www.washingtonpost.com/podcasts/other-mixed-race-in-america/am-i-an-asian-y-trinket-to-you/?tid=aud_rsslink",
+                    "pubDate": "Mon, 01 May 2017 07:00:00 +0000",
+                    "title": "'Am I an Asian-y trinket to you?'"
+                },
+                {
+                    "dc:creator": "The Washington Post",
+                    "description": "Starting May 1, this five-part miniseries will introduce you to stories of mixed race Americans. Five episodes, five themes, and a whole bunch of stories to make you think about what it means to be an American.",
+                    "enclosure": {
+                        "@length": "2557512",
+                        "@type": "audio/mpeg",
+                        "@url": "http://www.podtrac.com/pts/redirect.mp3/podcast.posttv.com/washpost-production/58f136e5e4b058d61ff66b15/20170423/58fcfde3e4b058d61ff66b63/58fcfde7e4b00249e689fd9e_1351620000001-300030_t_1492975092797_44100_160_2.mp3"
+                    },
+                    "feedburner:origLink": "https://www.washingtonpost.com/podcasts/other-mixed-race-in-america/introducing-other-mixed-race-in-america/?tid=aud_rsslink",
+                    "guid": {
+                        "#text": "58fcfde3e4b058d61ff66b63",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Washington Post",
+                    "itunes:duration": "128",
+                    "itunes:image": {
+                        "@href": "http://podcast.posttv.com/covers/podcast/58fcfde3e4b058d61ff66b63/Other_podcast_FINAL_resize.jpg"
+                    },
+                    "itunes:subtitle": "Starting May 1, this five-part miniseries will introduce you to stories of mixed race Americans. Five episodes, five themes, and a whole bunch of stories to make you think about what it means to be an American.",
+                    "itunes:summary": "Starting May 1, this five-part miniseries will introduce you to stories of mixed race Americans. Five episodes, five themes, and a whole bunch of stories to make you think about what it means to be an American.",
+                    "link": "https://www.washingtonpost.com/podcasts/other-mixed-race-in-america/introducing-other-mixed-race-in-america/?tid=aud_rsslink",
+                    "pubDate": "Mon, 24 Apr 2017 07:00:00 +0000",
+                    "title": "Introducing 'Other: Mixed Race in America'"
+                }
+            ],
+            "itunes:author": "The Washington Post",
+            "itunes:category": {
+                "@text": "Society & Culture",
+                "itunes:category": {
+                    "@text": "Documentary"
+                }
             },
-            "guid": "5903b32ce4b058d61ff66bee",
-            "isoDate": "2017-05-05T07:00:00.000Z",
-            "itunes": {
-                "author": "The Washington Post",
-                "duration": "1061",
-                "image": "http://podcast.posttv.com/covers/podcast/5903b32ce4b058d61ff66bee/2048px_Other_podcast_Ep5.jpg",
-                "subtitle": "In the podcast finale, we talk to author Ruth Ozeki and actor Katie Malia about not seeing their perspectives reflected in pop culture -- and about the power of creating a culture that does.",
-                "summary": "In the podcast finale, we talk to author Ruth Ozeki and actor Katie Malia about not seeing their perspectives reflected in pop culture -- and about the power of creating a culture that does."
+            "itunes:complete": "yes",
+            "itunes:explicit": "no",
+            "itunes:image": {
+                "@href": "https://podcast.posttv.com/series/20180206/t_1517943337128_name_other_cover.jpg"
             },
-            "link": "https://www.washingtonpost.com/podcasts/other-mixed-race-in-america/a-magical-web-series-a-rock-concert-and-transplant-shock/?tid=aud_rsslink",
-            "pubDate": "Fri, 05 May 2017 07:00:00 +0000",
-            "title": "A magical web series, a rock concert, and transplant shock"
-        },
-        {
-            "content": "The question of who counts as 'American' has been around as long as the country has. In this episode, we tell the story of Virginia Matsuoka, a half-Japanese woman who was interned during World War II.",
-            "contentSnippet": "The question of who counts as 'American' has been around as long as the country has. In this episode, we tell the story of Virginia Matsuoka, a half-Japanese woman who was interned during World War II.",
-            "creator": "The Washington Post",
-            "dc:creator": "The Washington Post",
-            "enclosure": {
-                "length": "19196998",
-                "type": "audio/mpeg",
-                "url": "http://www.podtrac.com/pts/redirect.mp3/podcast.posttv.com/washpost-production/58f136e5e4b058d61ff66b15/20170428/5903b20de4b058d61ff66be0/5903b212e4b00249e68a0da3_1351620000001-300030_t_1493414430625_44100_160_2.mp3"
+            "itunes:owner": {
+                "itunes:email": "jessica.stahl@washpost.com",
+                "itunes:name": "The Washington Post"
             },
-            "guid": "5903b20de4b058d61ff66be0",
-            "isoDate": "2017-05-04T07:00:00.000Z",
-            "itunes": {
-                "author": "The Washington Post",
-                "duration": "960",
-                "image": "http://podcast.posttv.com/covers/podcast/5903b20de4b058d61ff66be0/2048px_Other_podcast_Ep4.jpg",
-                "subtitle": "The question of who counts as 'American' has been around as long as the country has. In this episode, we tell the story of Virginia Matsuoka, a half-Japanese woman who was interned during World War II.",
-                "summary": "The question of who counts as 'American' has been around as long as the country has. In this episode, we tell the story of Virginia Matsuoka, a half-Japanese woman who was interned during World War II."
-            },
-            "link": "https://www.washingtonpost.com/podcasts/other-mixed-race-in-america/im-not-a-jap-im-a-half-jap/?tid=aud_rsslink",
-            "pubDate": "Thu, 04 May 2017 07:00:00 +0000",
-            "title": "'I\u2019m not a Jap, I\u2019m a half-Jap'"
-        },
-        {
-            "content": "In this episode we look into the history of African Americans passing as white in the U.S. Karin Tanabe, author of 'The Gilded Years' joins us to share the story of Anita Hemmings, Vassar College\u2019s first black graduate.",
-            "contentSnippet": "In this episode we look into the history of African Americans passing as white in the U.S. Karin Tanabe, author of 'The Gilded Years' joins us to share the story of Anita Hemmings, Vassar College\u2019s first black graduate.",
-            "creator": "The Washington Post",
-            "dc:creator": "The Washington Post",
-            "enclosure": {
-                "length": "23032819",
-                "type": "audio/mpeg",
-                "url": "http://www.podtrac.com/pts/redirect.mp3/podcast.posttv.com/washpost-production/58f136e5e4b058d61ff66b15/20170428/5903b14fe4b058d61ff66bd2/5903b152e4b00249e68a0d95_1351620000001-300030_t_1493414238497_44100_160_2.mp3"
-            },
-            "guid": "5903b14fe4b058d61ff66bd2",
-            "isoDate": "2017-05-03T07:00:00.000Z",
-            "itunes": {
-                "author": "The Washington Post",
-                "duration": "1152",
-                "image": "http://podcast.posttv.com/covers/podcast/5903b14fe4b058d61ff66bd2/2048px_Other_podcast_Ep3.jpg",
-                "subtitle": "In this episode we look into the history of African Americans passing as white in the U.S. Karin Tanabe, author of 'The Gilded Years' joins us to share the story of Anita Hemmings, Vassar College\u2019s first black graduate.",
-                "summary": "In this episode we look into the history of African Americans passing as white in the U.S. Karin Tanabe, author of 'The Gilded Years' joins us to share the story of Anita Hemmings, Vassar College\u2019s first black graduate."
-            },
-            "link": "https://www.washingtonpost.com/podcasts/other-mixed-race-in-america/when-you-dont-look-black/?tid=aud_rsslink",
-            "pubDate": "Wed, 03 May 2017 07:00:00 +0000",
-            "title": "When you don\u2019t 'look black'"
-        },
-        {
-            "content": "We talk with Amy S. Choi of The Mashup Americans about what it means to be a mashup family. Then, we share a story about Sulome Anderson, a journalist who has spent her career humanizing the people responsible for the pain and discord in her life.",
-            "contentSnippet": "We talk with Amy S. Choi of The Mashup Americans about what it means to be a mashup family. Then, we share a story about Sulome Anderson, a journalist who has spent her career humanizing the people responsible for the pain and discord in her life.",
-            "creator": "The Washington Post",
-            "dc:creator": "The Washington Post",
-            "enclosure": {
-                "length": "19768345",
-                "type": "audio/mpeg",
-                "url": "http://www.podtrac.com/pts/redirect.mp3/podcast.posttv.com/washpost-production/58f136e5e4b058d61ff66b15/20170428/5903b020e4b058d61ff66bc4/5903b025e4b00249e68a0d6b_1351620000001-300040_t_1493413941837_44100_128_2.mp3"
-            },
-            "guid": "5903b020e4b058d61ff66bc4",
-            "isoDate": "2017-05-02T07:00:00.000Z",
-            "itunes": {
-                "author": "The Washington Post",
-                "duration": "1236",
-                "image": "http://podcast.posttv.com/covers/podcast/5903b020e4b058d61ff66bc4/2048px_Other_podcast_Ep2.jpg",
-                "subtitle": "We talk with Amy S. Choi of The Mashup Americans about what it means to be a mashup family. Then, we share a story about Sulome Anderson, a journalist who has spent her career humanizing the people responsible for the pain and discord in her life.",
-                "summary": "We talk with Amy S. Choi of The Mashup Americans about what it means to be a mashup family. Then, we share a story about Sulome Anderson, a journalist who has spent her career humanizing the people responsible for the pain and discord in her life."
-            },
-            "link": "https://www.washingtonpost.com/podcasts/other-mixed-race-in-america/the-bridges-we-build-within-our-families----and-the-ones-we-cant/?tid=aud_rsslink",
-            "pubDate": "Tue, 02 May 2017 07:00:00 +0000",
-            "title": "The bridges we build within our families -- and the ones we can\u2019t"
-        },
-        {
-            "content": "In the first episode of Other: Mixed Race in America, we investigate the supercharged (and super awkward) microaggressions that multiracial people face in romantic situations.",
-            "contentSnippet": "In the first episode of Other: Mixed Race in America, we investigate the supercharged (and super awkward) microaggressions that multiracial people face in romantic situations.",
-            "creator": "The Washington Post",
-            "dc:creator": "The Washington Post",
-            "enclosure": {
-                "length": "18687086",
-                "type": "audio/mpeg",
-                "url": "http://www.podtrac.com/pts/redirect.mp3/podcast.posttv.com/washpost-production/58f136e5e4b058d61ff66b15/20170428/5903af6ae4b058d61ff66bb6/5903af6ee4b00249e68a0d5e_1351620000001-300040_t_1493413758734_44100_128_2.mp3"
-            },
-            "guid": "5903af6ae4b058d61ff66bb6",
-            "isoDate": "2017-05-01T07:00:00.000Z",
-            "itunes": {
-                "author": "The Washington Post",
-                "duration": "1168",
-                "image": "http://podcast.posttv.com/covers/podcast/5903af6ae4b058d61ff66bb6/2048px_Other_podcast_Ep1.jpg",
-                "subtitle": "In the first episode of Other: Mixed Race in America, we investigate the supercharged (and super awkward) microaggressions that multiracial people face in romantic situations.",
-                "summary": "In the first episode of Other: Mixed Race in America, we investigate the supercharged (and super awkward) microaggressions that multiracial people face in romantic situations."
-            },
-            "link": "https://www.washingtonpost.com/podcasts/other-mixed-race-in-america/am-i-an-asian-y-trinket-to-you/?tid=aud_rsslink",
-            "pubDate": "Mon, 01 May 2017 07:00:00 +0000",
-            "title": "'Am I an Asian-y trinket to you?'"
-        },
-        {
-            "content": "Starting May 1, this five-part miniseries will introduce you to stories of mixed race Americans. Five episodes, five themes, and a whole bunch of stories to make you think about what it means to be an American.",
-            "contentSnippet": "Starting May 1, this five-part miniseries will introduce you to stories of mixed race Americans. Five episodes, five themes, and a whole bunch of stories to make you think about what it means to be an American.",
-            "creator": "The Washington Post",
-            "dc:creator": "The Washington Post",
-            "enclosure": {
-                "length": "2557512",
-                "type": "audio/mpeg",
-                "url": "http://www.podtrac.com/pts/redirect.mp3/podcast.posttv.com/washpost-production/58f136e5e4b058d61ff66b15/20170423/58fcfde3e4b058d61ff66b63/58fcfde7e4b00249e689fd9e_1351620000001-300030_t_1492975092797_44100_160_2.mp3"
-            },
-            "guid": "58fcfde3e4b058d61ff66b63",
-            "isoDate": "2017-04-24T07:00:00.000Z",
-            "itunes": {
-                "author": "The Washington Post",
-                "duration": "128",
-                "image": "http://podcast.posttv.com/covers/podcast/58fcfde3e4b058d61ff66b63/Other_podcast_FINAL_resize.jpg",
-                "subtitle": "Starting May 1, this five-part miniseries will introduce you to stories of mixed race Americans. Five episodes, five themes, and a whole bunch of stories to make you think about what it means to be an American.",
-                "summary": "Starting May 1, this five-part miniseries will introduce you to stories of mixed race Americans. Five episodes, five themes, and a whole bunch of stories to make you think about what it means to be an American."
-            },
-            "link": "https://www.washingtonpost.com/podcasts/other-mixed-race-in-america/introducing-other-mixed-race-in-america/?tid=aud_rsslink",
-            "pubDate": "Mon, 24 Apr 2017 07:00:00 +0000",
-            "title": "Introducing 'Other: Mixed Race in America'"
+            "itunes:subtitle": "Other: Mixed Race in America",
+            "itunes:summary": "This five-part miniseries explores what happens when your parents come from two different countries, cultures, or races. Host Alex Laughlin shares her own stories and interviews multiracial people about what their racial identities mean to them. Five episodes, five themes and a whole bunch of stories to make you think about what it means to be an American.",
+            "itunes:type": "serial",
+            "language": "en-us",
+            "link": [
+                "http://wapo.st/other",
+                {
+                    "@href": "https://podcast.posttv.com/itunes-58f136e5e4b058d61ff66b15.xml",
+                    "@rel": "self",
+                    "@type": "application/rss+xml",
+                    "@xmlns:atom10": "http://www.w3.org/2005/Atom"
+                }
+            ],
+            "title": "Other: Mixed Race in America"
         }
-    ],
-    "itunes": {
-        "author": "The Washington Post",
-        "categories": [
-            "Society & Culture"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Society & Culture",
-                "subs": [
-                    {
-                        "name": "Documentary"
-                    }
-                ]
-            }
-        ],
-        "explicit": "no",
-        "image": "https://podcast.posttv.com/series/20180206/t_1517943337128_name_other_cover.jpg",
-        "owner": {
-            "email": "jessica.stahl@washpost.com",
-            "name": "The Washington Post"
-        },
-        "subtitle": "Other: Mixed Race in America",
-        "summary": "This five-part miniseries explores what happens when your parents come from two different countries, cultures, or races. Host Alex Laughlin shares her own stories and interviews multiracial people about what their racial identities mean to them. Five episodes, five themes and a whole bunch of stories to make you think about what it means to be an American."
-    },
-    "language": "en-us",
-    "link": "http://wapo.st/other",
-    "palette": [],
-    "title": "Other: Mixed Race in America"
+    }
 }

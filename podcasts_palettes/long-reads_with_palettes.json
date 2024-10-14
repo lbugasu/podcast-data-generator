@@ -1,0 +1,372 @@
+{
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:anchor": "https://anchor.fm/xmlns",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "channel": {
+            "atom:link": [
+                {
+                    "@href": "https://anchor.fm/s/f1835800/podcast/rss",
+                    "@rel": "self",
+                    "@type": "application/rss+xml"
+                },
+                {
+                    "@href": "https://pubsubhubbub.appspot.com/",
+                    "@rel": "hub"
+                }
+            ],
+            "author": "Rest of World",
+            "copyright": "Rest of World",
+            "description": "Listen to Rest of World's best stories about the way technology is reshaping the globe. Narrated by our staff of writers and editors.\n\nNearly four billion internet users live outside the West. We're telling their stories, with in-depth, on-the-ground reporting on topics like Big Tech\u2019s global influence, e-commerce, cryptocurrency, the struggles of the gig economy, and the rise of EVs.\n",
+            "generator": "Anchor Podcasts",
+            "image": {
+                "link": "https://restofworld.org/",
+                "palette": [
+                    "0444EC",
+                    "DA4AB1",
+                    "F398E3",
+                    "FBBFF7",
+                    "8B4ED1",
+                    "648CFC"
+                ],
+                "title": "Long Reads",
+                "url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40419168/40419168-1707244556582-4b9800e2e58e2.jpg"
+            },
+            "item": [
+                {
+                    "dc:creator": "Rest of World",
+                    "description": "<p>Amid economic, political, and environmental uncertainty, Pakistanis are increasingly seeking guidance from digital astrologers for a sense of reassurance. In this narrated feature, <em>Rest of World</em> profiles celebrity astrologers who are revitalizing the practice in one of the world\u2019s most populous Muslim nations, using their growing platforms to advocate for astrology\u2019s place in Islam. </p>\n<p>Written by M. Z. Adnan. Narrated by Mithila Phadke.</p>\n<p><br></p>\n<p>Original story: <a href=\"https://restofworld.org/2024/youtube-astrology-stars-pakistan/\" target=\"_blank\" rel=\"noopener noreferer\">https://restofworld.org/2024/youtube-astrology-stars-pakistan/</a></p>\n",
+                    "enclosure": {
+                        "@length": "74348139",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f1835800/podcast/play/91911908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-19%2F5aa9aba9-c1c0-897e-e2ec-667c07c5225e.mp3"
+                    },
+                    "guid": {
+                        "#text": "0c6a8a29-ad6a-44cd-86d5-8c7e11ad9032",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:30:58",
+                    "itunes:episode": "13",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40419168/40419168-1726741699615-86db75b433fd4.jpg"
+                    },
+                    "itunes:summary": "<p>Amid economic, political, and environmental uncertainty, Pakistanis are increasingly seeking guidance from digital astrologers for a sense of reassurance. In this narrated feature, <em>Rest of World</em> profiles celebrity astrologers who are revitalizing the practice in one of the world\u2019s most populous Muslim nations, using their growing platforms to advocate for astrology\u2019s place in Islam. </p>\n<p>Written by M. Z. Adnan. Narrated by Mithila Phadke.</p>\n<p><br></p>\n<p>Original story: <a href=\"https://restofworld.org/2024/youtube-astrology-stars-pakistan/\" target=\"_blank\" rel=\"noopener noreferer\">https://restofworld.org/2024/youtube-astrology-stars-pakistan/</a></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/long-reads/episodes/Destined-for-clicks-YouTube-is-driving-an-astrology-boom-in-Pakistan-e2oje94",
+                    "pubDate": "Thu, 19 Sep 2024 10:32:16 GMT",
+                    "title": "Destined for clicks: YouTube is driving an astrology boom in Pakistan"
+                },
+                {
+                    "dc:creator": "Rest of World",
+                    "description": "<p>Amid a life of upheaval and poverty, Jeffter Wekesa tried and failed to found three churches in Kenya. Then he started preaching on TikTok, and his fortunes changed.</p>\n<p>In this episode, Rest of World takes you inside the emerging virtual-preaching economy in internet-obsessed Kenya. Livestream churches \u2014 backed by viewer donations \u2014 are increasingly popular. Is this the future of religion, or just a post-Covid fad?</p>\n<p>Written by Vincent Owino. Narrated by Jane Seidel. </p>\n<p><br></p>\n<p>Original story: <a href=\"https://restofworld.org/2024/kenya-virtual-churches-preachers/\" target=\"_blank\" rel=\"noopener noreferer\">https://restofworld.org/2024/kenya-virtual-churches-preachers/</a></p>\n",
+                    "enclosure": {
+                        "@length": "68822311",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f1835800/podcast/play/89937747/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-2%2F075ebf5b-a032-3f8f-f42a-a70deafe6db6.mp3"
+                    },
+                    "guid": {
+                        "#text": "a8d67531-740d-4202-b442-5a79ea7beabd",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:28:40",
+                    "itunes:episode": "12",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40419168/40419168-1722524327853-0225cf9321f75.jpg"
+                    },
+                    "itunes:summary": "<p>Amid a life of upheaval and poverty, Jeffter Wekesa tried and failed to found three churches in Kenya. Then he started preaching on TikTok, and his fortunes changed.</p>\n<p>In this episode, Rest of World takes you inside the emerging virtual-preaching economy in internet-obsessed Kenya. Livestream churches \u2014 backed by viewer donations \u2014 are increasingly popular. Is this the future of religion, or just a post-Covid fad?</p>\n<p>Written by Vincent Owino. Narrated by Jane Seidel. </p>\n<p><br></p>\n<p>Original story: <a href=\"https://restofworld.org/2024/kenya-virtual-churches-preachers/\" target=\"_blank\" rel=\"noopener noreferer\">https://restofworld.org/2024/kenya-virtual-churches-preachers/</a></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/long-reads/episodes/Can-a-church-exist-exclusively-on-the-internet-e2mn6cj",
+                    "pubDate": "Thu, 01 Aug 2024 15:03:16 GMT",
+                    "title": "Can a church exist exclusively on the internet?"
+                },
+                {
+                    "dc:creator": "Rest of World",
+                    "description": "<p>For years, Mauricio Bustos used his YouTube channel to try and break into the music industry. Then he discovered AI. Overnight, he could rap like Bad Bunny and sing like Justin Bieber. He went viral. Now, he\u2019s at the forefront of a global debate: Is AI art really art?</p>\n<p>Written by Charis McGowan. Narrated by Daniela Dib. </p>\n<p><br></p>\n<p>Original story: <a href=\"https://restofworld.org/2024/ai-song-flowgpt-bad-bunny/\" target=\"_blank\" rel=\"noopener noreferer\">https://restofworld.org/2024/ai-song-flowgpt-bad-bunny/</a></p>\n",
+                    "enclosure": {
+                        "@length": "53761152",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f1835800/podcast/play/89130894/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-12%2Fbd271367-6767-526c-7376-7a2524abed33.mp3"
+                    },
+                    "guid": {
+                        "#text": "a815ac79-f9f1-4a3e-95a5-ed1b16c94106",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:22:24",
+                    "itunes:episode": "11",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "Yes",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40419168/40419168-1720772370977-421021aa138b4.jpg"
+                    },
+                    "itunes:summary": "<p>For years, Mauricio Bustos used his YouTube channel to try and break into the music industry. Then he discovered AI. Overnight, he could rap like Bad Bunny and sing like Justin Bieber. He went viral. Now, he\u2019s at the forefront of a global debate: Is AI art really art?</p>\n<p>Written by Charis McGowan. Narrated by Daniela Dib. </p>\n<p><br></p>\n<p>Original story: <a href=\"https://restofworld.org/2024/ai-song-flowgpt-bad-bunny/\" target=\"_blank\" rel=\"noopener noreferer\">https://restofworld.org/2024/ai-song-flowgpt-bad-bunny/</a></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/long-reads/episodes/The-AI-artist-who-used-Bad-Bunnys-voice--and-shot-to-fame-e2luiee",
+                    "pubDate": "Fri, 12 Jul 2024 08:22:35 GMT",
+                    "title": "The AI artist who used Bad Bunny\u2019s voice \u2014 and shot to fame"
+                },
+                {
+                    "dc:creator": "Rest of World",
+                    "description": "<p>Los Angeles-based Trilogy Media took \u201cscambaiting\u201d to a new level, but some claim they\u2019re gaining viral fame at others\u2019 expense.</p>\n<p>In this story from our archive, <em>Rest of World</em>, profiles the Trilogy Media YouTubers who travel from L.A. to India to harass call center scammers. </p>\n<p>They release dozens of cockroaches in their office and secretly film the whole prank via hacked security cameras. Did they take things too far?</p>\n<p>Written by Andrew Deck and Raksha Kumar. Narrated by Jane Seidel. </p>\n<p><br></p>\n<p>Original story: <a href=\"https://restofworld.org/2023/youtube-scam-call-vigilantes/\" target=\"_blank\" rel=\"noopener noreferer\">https://restofworld.org/2023/youtube-scam-call-vigilantes/</a></p>\n<p><br></p>\n",
+                    "enclosure": {
+                        "@length": "82579192",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f1835800/podcast/play/87689478/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-6%2F6cacea89-4847-fa2b-218d-c640d2df7e01.mp3"
+                    },
+                    "guid": {
+                        "#text": "fd6ed33f-b832-4541-bf79-96b8393926f2",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:34:24",
+                    "itunes:episode": "10",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "Yes",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40419168/40419168-1717665564914-191f12632d41d.jpg"
+                    },
+                    "itunes:summary": "<p>Los Angeles-based Trilogy Media took \u201cscambaiting\u201d to a new level, but some claim they\u2019re gaining viral fame at others\u2019 expense.</p>\n<p>In this story from our archive, <em>Rest of World</em>, profiles the Trilogy Media YouTubers who travel from L.A. to India to harass call center scammers. </p>\n<p>They release dozens of cockroaches in their office and secretly film the whole prank via hacked security cameras. Did they take things too far?</p>\n<p>Written by Andrew Deck and Raksha Kumar. Narrated by Jane Seidel. </p>\n<p><br></p>\n<p>Original story: <a href=\"https://restofworld.org/2023/youtube-scam-call-vigilantes/\" target=\"_blank\" rel=\"noopener noreferer\">https://restofworld.org/2023/youtube-scam-call-vigilantes/</a></p>\n<p><br></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/long-reads/episodes/Vigilantes-for-views-The-YouTube-pranksters-harassing-suspected-scam-callers-in-India-e2kiiq6",
+                    "pubDate": "Thu, 06 Jun 2024 09:20:03 GMT",
+                    "title": "Vigilantes for views: The YouTube pranksters harassing suspected scam callers in India"
+                },
+                {
+                    "dc:creator": "Rest of World",
+                    "description": "<p>The average age for delivery workers is 29 and the average age for ride-hailing drivers is 36, but many older individuals are turning to gig work, too.</p>\n<p><em>Rest of World</em> spoke to 52 workers above the age of 50 who ventured into gig work to keep up with rising living costs or because they cannot find employment elsewhere. As more and more workers transition to informal gig employment and populations age, the lack of social safety nets poses significant challenges.</p>\n<p>Written by La\u00eds Martins, Kimberly Mutandiro, Lam Le and Zuha Siddiqui. Narrated by Victoria Turk.\u00a0\u00a0</p>\n<p><br></p>\n<p>Original story: <a href=\"https://restofworld.org/2024/aging-global-gig-workers/\">https://restofworld.org/2024/aging-global-gig-workers/</a></p>\n<p><br><br></p>\n",
+                    "enclosure": {
+                        "@length": "50324655",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f1835800/podcast/play/87015784/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-21%2Fc57f52f4-977c-0224-c0d4-cda4f34c66dd.mp3"
+                    },
+                    "guid": {
+                        "#text": "3799f716-8906-467b-8598-5d1f01c22b7c",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:20:57",
+                    "itunes:episode": "9",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40419168/40419168-1716281553019-1aeb4c300db71.jpg"
+                    },
+                    "itunes:summary": "<p>The average age for delivery workers is 29 and the average age for ride-hailing drivers is 36, but many older individuals are turning to gig work, too.</p>\n<p><em>Rest of World</em> spoke to 52 workers above the age of 50 who ventured into gig work to keep up with rising living costs or because they cannot find employment elsewhere. As more and more workers transition to informal gig employment and populations age, the lack of social safety nets poses significant challenges.</p>\n<p>Written by La\u00eds Martins, Kimberly Mutandiro, Lam Le and Zuha Siddiqui. Narrated by Victoria Turk.\u00a0\u00a0</p>\n<p><br></p>\n<p>Original story: <a href=\"https://restofworld.org/2024/aging-global-gig-workers/\">https://restofworld.org/2024/aging-global-gig-workers/</a></p>\n<p><br><br></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/long-reads/episodes/The-graying-gig-economy-e2ju0t8",
+                    "pubDate": "Tue, 21 May 2024 08:54:17 GMT",
+                    "title": "The graying gig economy"
+                },
+                {
+                    "dc:creator": "Rest of World",
+                    "description": "<p>As millions of Indians vote, there\u2019s one platform most of them will turn to for information: WhatsApp. And no one controls the political narrative on WhatsApp like the BJP, the ruling party helmed by Prime Minister Modi.</p>\n<p>In partnership with the Pulitzer Center on Crisis Reporting and Digital Witness Lab, <em>Rest of World</em> spent several months in northern India to explore how the BJP turned its WhatsApp strategy into an election-winning machine. Just in Mandi, a tiny Indian town with a population of 26,000, party volunteers run a network of more than 400 WhatsApp groups. Our analysis of thousands of messages sent in these groups shows how India\u2019s ruling party is able to maintain a sophisticated operation on WhatsApp, and optimize its political campaign on the platform far away from public scrutiny.</p>\n<p>Written by Srishti Jaswal. Narrated by Mithila Phadke.\u00a0</p>\n<p><br><strong>Original story: </strong><a href=\"https://restofworld.org/2024/bjp-whatsapp-modi/\">https://restofworld.org/2024/bjp-whatsapp-modi/</a></p>\n",
+                    "enclosure": {
+                        "@length": "67938237",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f1835800/podcast/play/86853472/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-17%2F354ee19a-f3a9-2407-b0a0-448c56515617.mp3"
+                    },
+                    "guid": {
+                        "#text": "d1d3ff34-54cb-4752-b0ed-1b037bfd87f3",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:28:18",
+                    "itunes:episode": "8",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40419168/40419168-1715934336276-4b703152ff29b.jpg"
+                    },
+                    "itunes:summary": "<p>As millions of Indians vote, there\u2019s one platform most of them will turn to for information: WhatsApp. And no one controls the political narrative on WhatsApp like the BJP, the ruling party helmed by Prime Minister Modi.</p>\n<p>In partnership with the Pulitzer Center on Crisis Reporting and Digital Witness Lab, <em>Rest of World</em> spent several months in northern India to explore how the BJP turned its WhatsApp strategy into an election-winning machine. Just in Mandi, a tiny Indian town with a population of 26,000, party volunteers run a network of more than 400 WhatsApp groups. Our analysis of thousands of messages sent in these groups shows how India\u2019s ruling party is able to maintain a sophisticated operation on WhatsApp, and optimize its political campaign on the platform far away from public scrutiny.</p>\n<p>Written by Srishti Jaswal. Narrated by Mithila Phadke.\u00a0</p>\n<p><br><strong>Original story: </strong><a href=\"https://restofworld.org/2024/bjp-whatsapp-modi/\">https://restofworld.org/2024/bjp-whatsapp-modi/</a></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/long-reads/episodes/Inside-the-BJPs-WhatsApp-machine-e2jp2d0",
+                    "pubDate": "Fri, 17 May 2024 09:20:14 GMT",
+                    "title": "Inside the BJP\u2019s WhatsApp machine"
+                },
+                {
+                    "dc:creator": "Rest of World",
+                    "description": "<p>Taiwan Semiconductor Manufacturing Company (TSMC) was slated to open a plant in Phoenix, Arizona in 2024. It aimed to bring thousands of jobs, but the expansion hasn\u2019t taken off.</p>\n<p>In this story, <em>Rest of World</em> follows the experience of an American engineer, Bruce, as well as others employed by TSMC, and explores how missed deadlines and tension among Taiwanese and American coworkers are plaguing the chip giant\u2019s Phoenix expansion.</p>\n<p>Written by Viola Zhou. Narrated by Daniela Dib. </p>\n<p>Original story: <a href=\"https://restofworld.org/2024/tsmc-arizona-expansion/\" target=\"_blank\" rel=\"noopener noreferer\">https://restofworld.org/2024/tsmc-arizona-expansion/</a></p>\n",
+                    "enclosure": {
+                        "@length": "81470297",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f1835800/podcast/play/85914378/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-25%2F8ec1fc9f-dfc1-b6f2-1d60-1e3154d144c7.mp3"
+                    },
+                    "guid": {
+                        "#text": "d9b2f745-366e-4cee-aefe-f10cb6e1f74a",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:33:56",
+                    "itunes:episode": "6",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40419168/40419168-1714057974884-0b8449712ec06.jpg"
+                    },
+                    "itunes:summary": "<p>Taiwan Semiconductor Manufacturing Company (TSMC) was slated to open a plant in Phoenix, Arizona in 2024. It aimed to bring thousands of jobs, but the expansion hasn\u2019t taken off.</p>\n<p>In this story, <em>Rest of World</em> follows the experience of an American engineer, Bruce, as well as others employed by TSMC, and explores how missed deadlines and tension among Taiwanese and American coworkers are plaguing the chip giant\u2019s Phoenix expansion.</p>\n<p>Written by Viola Zhou. Narrated by Daniela Dib. </p>\n<p>Original story: <a href=\"https://restofworld.org/2024/tsmc-arizona-expansion/\" target=\"_blank\" rel=\"noopener noreferer\">https://restofworld.org/2024/tsmc-arizona-expansion/</a></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/long-reads/episodes/Inside-TSMCs-struggle-to-build-a-chip-factory-in-the-U-S--suburbs-e2isdaa",
+                    "pubDate": "Thu, 25 Apr 2024 15:14:19 GMT",
+                    "title": "Inside TSMC\u2019s struggle to build a chip factory in the U.S. suburbs"
+                },
+                {
+                    "dc:creator": "Rest of World",
+                    "description": "<p>Mass protests used to offer a degree of safety in numbers. Facial recognition technology changes the equation.</p>\n<p>This story explores how thanks to new facial recognition technology, protesters\u2019 safety in numbers is becoming a thing of the past. We take a look at three case studies \u2014 in Russia, India, and Iran \u2014 to show the proliferation of facial recognition as a tool to control and curtail protest.</p>\n<p>Written by Darren Loucaides. Narrated by Jane Seidel.\u00a0</p>\n<p>Original story:<a href=\"https://restofworld.org/2024/facial-recognition-government-protest-surveillance/\"> https://restofworld.org/2024/facial-recognition-government-protest-surveillance/</a></p>\n",
+                    "enclosure": {
+                        "@length": "79623296",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f1835800/podcast/play/84662104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-28%2Fbbc277df-42c2-a963-3215-08209b659fab.mp3"
+                    },
+                    "guid": {
+                        "#text": "ce6455fc-cddc-4595-8ee8-ea6272555591",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:33:10",
+                    "itunes:episode": "6",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40419168/40419168-1711630341154-351c393fd5138.jpg"
+                    },
+                    "itunes:summary": "<p>Mass protests used to offer a degree of safety in numbers. Facial recognition technology changes the equation.</p>\n<p>This story explores how thanks to new facial recognition technology, protesters\u2019 safety in numbers is becoming a thing of the past. We take a look at three case studies \u2014 in Russia, India, and Iran \u2014 to show the proliferation of facial recognition as a tool to control and curtail protest.</p>\n<p>Written by Darren Loucaides. Narrated by Jane Seidel.\u00a0</p>\n<p>Original story:<a href=\"https://restofworld.org/2024/facial-recognition-government-protest-surveillance/\"> https://restofworld.org/2024/facial-recognition-government-protest-surveillance/</a></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/long-reads/episodes/The-changing-face-of-protest-e2hm6co",
+                    "pubDate": "Thu, 28 Mar 2024 12:53:08 GMT",
+                    "title": "The changing face of protest"
+                },
+                {
+                    "dc:creator": "Rest of World",
+                    "description": "<p>Generaci\u00f3n Zoe\u2019s Leonardo Cositorto was charged with fraud in Argentina in April 2022. His and staff arrests have users asking, \u201c\u00bfQu\u00e9 pas\u00f3 con generacion Zoe?\u201d</p>\n<p><br></p>\n<p>In this feature from our archive, <em>Rest of World </em>visits Cositorto as he awaits trial in prison, we speak with some of his loyal followers and alleged victims, and chart the rise and fall of Generaci\u00f3n Zoe, the \u201ceducational and resource-creating community for personal, professional, financial and spiritual development\u201d.\u00a0This is a tale of a celebrity salesman, stock-trading \u201crobots,\u201d and millions of lost dollars.</p>\n<p>Written by Facundo Iglesia. Narrated by Daniela Dib.\u00a0</p>\n<p><br></p>\n<p>Original story:<a href=\"https://restofworld.org/2023/generacion-zoe-leonardo-cositorto/\" target=\"_blank\">https://restofworld.org/2023/generacion-zoe-leonardo-cositorto/</a></p>\n",
+                    "enclosure": {
+                        "@length": "112266754",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f1835800/podcast/play/84036040/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-14%2F935ae58f-f264-76fd-5bb9-36807791f04d.mp3"
+                    },
+                    "guid": {
+                        "#text": "3469776f-9d56-4378-823d-23ddf00c471c",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:46:46",
+                    "itunes:episode": "1",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40419168/40419168-1710429930945-567d038fbad14.jpg"
+                    },
+                    "itunes:summary": "<p>Generaci\u00f3n Zoe\u2019s Leonardo Cositorto was charged with fraud in Argentina in April 2022. His and staff arrests have users asking, \u201c\u00bfQu\u00e9 pas\u00f3 con generacion Zoe?\u201d</p>\n<p><br></p>\n<p>In this feature from our archive, <em>Rest of World </em>visits Cositorto as he awaits trial in prison, we speak with some of his loyal followers and alleged victims, and chart the rise and fall of Generaci\u00f3n Zoe, the \u201ceducational and resource-creating community for personal, professional, financial and spiritual development\u201d.\u00a0This is a tale of a celebrity salesman, stock-trading \u201crobots,\u201d and millions of lost dollars.</p>\n<p>Written by Facundo Iglesia. Narrated by Daniela Dib.\u00a0</p>\n<p><br></p>\n<p>Original story:<a href=\"https://restofworld.org/2023/generacion-zoe-leonardo-cositorto/\" target=\"_blank\">https://restofworld.org/2023/generacion-zoe-leonardo-cositorto/</a></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/long-reads/episodes/The-rise-and-fall-of-Argentinas-celebrity-crypto-pastor-e2h3308",
+                    "pubDate": "Thu, 14 Mar 2024 15:31:25 GMT",
+                    "title": "The rise and fall of Argentina\u2019s celebrity crypto pastor"
+                },
+                {
+                    "dc:creator": "Rest of World",
+                    "description": "<p>From toxic skies to health hazards: <em>Rest of World</em> measured air quality for riders in Lahore, New Delhi, and Dhaka. The results were devastating.</p>\n<p>Pollution is worsening in South Asia\u2019s major cities, but few occupations face more risk than gig riders. Many have no options for alternate work, and receive little help from employers. we spoke to 25 gig workers in Lahore, New Delhi, and Dhaka, all of whom reported symptoms that health experts believe are the consequence of routine exposure to carcinogenic pollutants.\u00a0</p>\n<p>Listen to our reporting to find out just how poisonous the air has become.</p>\n<p>Written by Zuha Siddiqui, Samriddhi Sakunia and Faisal Mahmud. Narrated by Mithila Phadke.\u00a0</p>\n<p>Original story: <a href=\"https://restofworld.org/2024/riders-in-the-smog-gig-workers-pollution/\" target=\"_blank\">https://restofworld.org/2024/riders-in-the-smog-gig-workers-pollution/</a></p>\n",
+                    "enclosure": {
+                        "@length": "52535023",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f1835800/podcast/play/83382763/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-29%2F0b9353af-1154-0c31-8c01-b07bacbad6c5.mp3"
+                    },
+                    "guid": {
+                        "#text": "603b3261-c3fd-42b6-b12d-c3db8f3772eb",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:21:52",
+                    "itunes:episode": "4",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40419168/40419168-1709226301491-9367807bcda3d.jpg"
+                    },
+                    "itunes:summary": "<p>From toxic skies to health hazards: <em>Rest of World</em> measured air quality for riders in Lahore, New Delhi, and Dhaka. The results were devastating.</p>\n<p>Pollution is worsening in South Asia\u2019s major cities, but few occupations face more risk than gig riders. Many have no options for alternate work, and receive little help from employers. we spoke to 25 gig workers in Lahore, New Delhi, and Dhaka, all of whom reported symptoms that health experts believe are the consequence of routine exposure to carcinogenic pollutants.\u00a0</p>\n<p>Listen to our reporting to find out just how poisonous the air has become.</p>\n<p>Written by Zuha Siddiqui, Samriddhi Sakunia and Faisal Mahmud. Narrated by Mithila Phadke.\u00a0</p>\n<p>Original story: <a href=\"https://restofworld.org/2024/riders-in-the-smog-gig-workers-pollution/\" target=\"_blank\">https://restofworld.org/2024/riders-in-the-smog-gig-workers-pollution/</a></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/long-reads/episodes/Riders-in-the-smog-e2gf51b",
+                    "pubDate": "Thu, 29 Feb 2024 17:06:07 GMT",
+                    "title": "Riders in the smog"
+                },
+                {
+                    "dc:creator": "Rest of World",
+                    "description": "<p>In this feature from our archive, Rest of World follows the story of exotic animal trader as he capitalizes on Vietnam&#39;s growing digital connectivity \u2014 and Facebook\u2019s negligence \u2014 to build an online wildlife trafficking empire, and the people trying to bring him down.</p>\n<p><br></p>\n<p>Written by Ashley Lampard. Narrated by Jane Seidel.</p>\n<p><br></p>\n<p>Original story: <a href=\"https://restofworld.org/2021/the-fall-of-the-king-of-squirrels/\" target=\"_blank\" rel=\"noopener noreferer\">https://restofworld.org/2021/the-fall-of-the-king-of-squirrels/</a></p>\n<p><br></p>\n",
+                    "enclosure": {
+                        "@length": "58316972",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f1835800/podcast/play/82701421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-15%2F462b4da9-873f-eb7c-f824-fa128625971a.mp3"
+                    },
+                    "guid": {
+                        "#text": "348d637e-8fae-443b-a40f-9ec955db73ea",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:24:17",
+                    "itunes:episode": "3",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "Yes",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40419168/40419168-1707991271670-c319970832396.jpg"
+                    },
+                    "itunes:summary": "<p>In this feature from our archive, Rest of World follows the story of exotic animal trader as he capitalizes on Vietnam&#39;s growing digital connectivity \u2014 and Facebook\u2019s negligence \u2014 to build an online wildlife trafficking empire, and the people trying to bring him down.</p>\n<p><br></p>\n<p>Written by Ashley Lampard. Narrated by Jane Seidel.</p>\n<p><br></p>\n<p>Original story: <a href=\"https://restofworld.org/2021/the-fall-of-the-king-of-squirrels/\" target=\"_blank\" rel=\"noopener noreferer\">https://restofworld.org/2021/the-fall-of-the-king-of-squirrels/</a></p>\n<p><br></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/long-reads/episodes/The-fall-of-the-King-of-Squirrels-e2fqbld",
+                    "pubDate": "Thu, 15 Feb 2024 10:06:13 GMT",
+                    "title": "The fall of the King of Squirrels"
+                },
+                {
+                    "dc:creator": "Rest of World",
+                    "description": "<p>Foxconn is flying engineers from China to India to train the next generation of iPhone builders. But both the Chinese engineers and Indian assembly line workers describe a serious culture clash.</p>\n<p><br></p>\n<p>In this episode, <em>Rest of World</em> follows the development and expansion of a new iPhone factory in India, as Foxconn manufactures the iPhone 15 outside of China for the first time. We spoke with two dozen assembly line workers, technicians, engineers, and managers to get the inside story of how Foxconn achieved this feat.</p>\n<p>Written by Viola Zhou and Nilesh Christopher. Narrated by Mithila Phadke.</p>\n<p><br></p>\n<p>Original Story: <a href=\"https://restofworld.org/2023/foxconn-india-iphone-factory/\" target=\"_blank\" rel=\"noopener noreferer\">https://restofworld.org/2023/foxconn-india-iphone-factory/</a></p>\n<p><br></p>\n",
+                    "enclosure": {
+                        "@length": "89421405",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f1835800/podcast/play/82402027/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-8%2F4f20bde8-0503-f423-2260-eb0961c53473.mp3"
+                    },
+                    "guid": {
+                        "#text": "c6a592c9-897b-4b4a-9734-a58fafca4b4c",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:37:15",
+                    "itunes:episode": "2",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40419168/40419168-1707394673096-3045d0549769a.jpg"
+                    },
+                    "itunes:summary": "<p>Foxconn is flying engineers from China to India to train the next generation of iPhone builders. But both the Chinese engineers and Indian assembly line workers describe a serious culture clash.</p>\n<p><br></p>\n<p>In this episode, <em>Rest of World</em> follows the development and expansion of a new iPhone factory in India, as Foxconn manufactures the iPhone 15 outside of China for the first time. We spoke with two dozen assembly line workers, technicians, engineers, and managers to get the inside story of how Foxconn achieved this feat.</p>\n<p>Written by Viola Zhou and Nilesh Christopher. Narrated by Mithila Phadke.</p>\n<p><br></p>\n<p>Original Story: <a href=\"https://restofworld.org/2023/foxconn-india-iphone-factory/\" target=\"_blank\" rel=\"noopener noreferer\">https://restofworld.org/2023/foxconn-india-iphone-factory/</a></p>\n<p><br></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/long-reads/episodes/Inside-Foxconns-struggle-to-manufacture-iPhones-in-India-e2fh79b",
+                    "pubDate": "Thu, 08 Feb 2024 12:18:41 GMT",
+                    "title": "Inside Foxconn\u2019s struggle to manufacture iPhones in India"
+                },
+                {
+                    "dc:creator": "Rest of World",
+                    "description": "<p>What happens to cities when they become digital nomad hotspots?</p>\n<p>In this narrated feature, <em>Rest of World</em> looks at how the remote work revolution is changing life in places like Medell\u00edn and Bali.</p>\n<p><br></p>\n<p>Written by Stephen Witt. Narrated by Victoria Turk.</p>\n<p><br></p>\n<p>Original story: <a href=\"What happens to cities when they become digital nomad hotspots? In this narrated feature, Rest of World looks at how the remote work revolution is changing life in places like Medell\u00edn and Bali. Written by Stephen Witt. Narrated by Victoria Turk. Original story: https://restofworld.org/2023/digital-nomads-visa-pricing-out-locals/\" target=\"_blank\" rel=\"noopener noreferer\">https://restofworld.org/2023/digital-nomads-visa-pricing-out-locals/</a></p>\n<p><br></p>\n",
+                    "enclosure": {
+                        "@length": "67736580",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f1835800/podcast/play/82321725/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-6%2Ffee8609b-9b99-4868-6c55-fc3ad4ce2bdd.mp3"
+                    },
+                    "guid": {
+                        "#text": "93c4d81c-e15b-492e-b52f-7b2dcb4c1f8b",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:28:13",
+                    "itunes:episode": "1",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/40419168/40419168-1707243442686-346b26e399c1e.jpg"
+                    },
+                    "itunes:summary": "<p>What happens to cities when they become digital nomad hotspots?</p>\n<p>In this narrated feature, <em>Rest of World</em> looks at how the remote work revolution is changing life in places like Medell\u00edn and Bali.</p>\n<p><br></p>\n<p>Written by Stephen Witt. Narrated by Victoria Turk.</p>\n<p><br></p>\n<p>Original story: <a href=\"What happens to cities when they become digital nomad hotspots? In this narrated feature, Rest of World looks at how the remote work revolution is changing life in places like Medell\u00edn and Bali. Written by Stephen Witt. Narrated by Victoria Turk. Original story: https://restofworld.org/2023/digital-nomads-visa-pricing-out-locals/\" target=\"_blank\" rel=\"noopener noreferer\">https://restofworld.org/2023/digital-nomads-visa-pricing-out-locals/</a></p>\n<p><br></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/long-reads/episodes/When-digital-nomads-come-to-town-e2feort",
+                    "pubDate": "Tue, 06 Feb 2024 18:37:08 GMT",
+                    "title": "When digital nomads come to town"
+                }
+            ],
+            "itunes:author": "Rest of World",
+            "itunes:category": {
+                "@text": "Technology"
+            },
+            "itunes:explicit": "No",
+            "itunes:image": {
+                "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40419168/40419168-1707244556582-4b9800e2e58e2.jpg"
+            },
+            "itunes:owner": {
+                "itunes:email": "hello@restofworld.org",
+                "itunes:name": "Rest of World"
+            },
+            "itunes:summary": "Listen to Rest of World's best stories about the way technology is reshaping the globe. Narrated by our staff of writers and editors.\n\nNearly four billion internet users live outside the West. We're telling their stories, with in-depth, on-the-ground reporting on topics like Big Tech\u2019s global influence, e-commerce, cryptocurrency, the struggles of the gig economy, and the rise of EVs.\n",
+            "itunes:type": "episodic",
+            "language": "en-us",
+            "lastBuildDate": "Thu, 10 Oct 2024 11:38:51 GMT",
+            "link": "https://restofworld.org/",
+            "title": "Long Reads"
+        }
+    }
+}

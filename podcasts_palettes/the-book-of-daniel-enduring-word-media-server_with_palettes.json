@@ -1,436 +1,420 @@
 {
-    "copyright": "Enduring Word 2018",
-    "description": "Audio and Video Server For Enduring Word",
-    "feedUrl": "https://media.enduringword.com/podcasts/daniel/feed/",
-    "generator": "https://wordpress.org/?v=5.0.22",
-    "items": [
-        {
-            "categories": [
-                "The Book of Daniel",
-                "Major Prophets",
-                "Old Testament",
-                "Prophets"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:slash": "http://purl.org/rss/1.0/modules/slash/",
+        "@xmlns:sy": "http://purl.org/rss/1.0/modules/syndication/",
+        "@xmlns:wfw": "http://wellformedweb.org/CommentAPI/",
+        "channel": {
+            "atom:link": {
+                "@href": "https://media.enduringword.com/podcasts/daniel/feed/",
+                "@rel": "self",
+                "@type": "application/rss+xml"
+            },
+            "copyright": "Enduring Word 2018",
+            "description": "Audio and Video Server For Enduring Word",
+            "generator": "https://wordpress.org/?v=5.0.22",
+            "item": [
+                {
+                    "category": [
+                        "The Book of Daniel",
+                        "Major Prophets",
+                        "Old Testament",
+                        "Prophets"
+                    ],
+                    "comments": "https://media.enduringword.com/daniel-12-israels-time-of-trouble/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26804-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel1200_00.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel1200_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel1200_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Daniel1200_00.mp3",
+                    "enclosure": {
+                        "@length": "20521259",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel1200_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/daniel-12-israels-time-of-trouble/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel1200_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel1200_00.mp3",
+                    "link": "https://media.enduringword.com/daniel-12-israels-time-of-trouble/",
+                    "pubDate": "Wed, 14 Sep 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Daniel 12 \u2013 Israel\u2019s Time of Trouble",
+                    "wfw:commentRss": "https://media.enduringword.com/daniel-12-israels-time-of-trouble/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Daniel",
+                        "Major Prophets",
+                        "Old Testament",
+                        "Prophets"
+                    ],
+                    "comments": "https://media.enduringword.com/daniel-10-11-antiochus-and-antichrist-revisited/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26803-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel1000_11.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel1000_11.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel1000_11.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Daniel1000_11.mp3",
+                    "enclosure": {
+                        "@length": "28683149",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel1000_11.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/daniel-10-11-antiochus-and-antichrist-revisited/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel1000_11.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel1000_11.mp3",
+                    "link": "https://media.enduringword.com/daniel-10-11-antiochus-and-antichrist-revisited/",
+                    "pubDate": "Tue, 13 Sep 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Daniel 10-11 \u2013 Antiochus and Antichrist Revisited",
+                    "wfw:commentRss": "https://media.enduringword.com/daniel-10-11-antiochus-and-antichrist-revisited/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Daniel",
+                        "Major Prophets",
+                        "Old Testament",
+                        "Prophets"
+                    ],
+                    "comments": "https://media.enduringword.com/daniel-920-27-the-70-weeks-of-daniel/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26802-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0920_27.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0920_27.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel0920_27.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0920_27.mp3",
+                    "enclosure": {
+                        "@length": "30772933",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0920_27.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/daniel-920-27-the-70-weeks-of-daniel/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0920_27.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0920_27.mp3",
+                    "link": "https://media.enduringword.com/daniel-920-27-the-70-weeks-of-daniel/",
+                    "pubDate": "Mon, 12 Sep 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Daniel 9:20-27 \u2013 The 70 Weeks of Daniel",
+                    "wfw:commentRss": "https://media.enduringword.com/daniel-920-27-the-70-weeks-of-daniel/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Daniel",
+                        "Major Prophets",
+                        "Old Testament",
+                        "Prophets"
+                    ],
+                    "comments": "https://media.enduringword.com/daniel-91-19-daniel-the-intercessor/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26801-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0901_19.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0901_19.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel0901_19.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0901_19.mp3",
+                    "enclosure": {
+                        "@length": "25791904",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0901_19.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/daniel-91-19-daniel-the-intercessor/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0901_19.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0901_19.mp3",
+                    "link": "https://media.enduringword.com/daniel-91-19-daniel-the-intercessor/",
+                    "pubDate": "Sun, 11 Sep 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Daniel 9:1-19 \u2013 Daniel the Intercessor",
+                    "wfw:commentRss": "https://media.enduringword.com/daniel-91-19-daniel-the-intercessor/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Daniel",
+                        "Major Prophets",
+                        "Old Testament",
+                        "Prophets"
+                    ],
+                    "comments": "https://media.enduringword.com/daniel-8-antiochus-and-antichrist/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26800-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0800_00.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0800_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel0800_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0800_00.mp3",
+                    "enclosure": {
+                        "@length": "27082146",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0800_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/daniel-8-antiochus-and-antichrist/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0800_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0800_00.mp3",
+                    "link": "https://media.enduringword.com/daniel-8-antiochus-and-antichrist/",
+                    "pubDate": "Sat, 10 Sep 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Daniel 8 \u2013 Antiochus and Antichrist",
+                    "wfw:commentRss": "https://media.enduringword.com/daniel-8-antiochus-and-antichrist/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Daniel",
+                        "Major Prophets",
+                        "Old Testament",
+                        "Prophets"
+                    ],
+                    "comments": "https://media.enduringword.com/daniel-7-a-survey-of-five-world-empires/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26799-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0700_00.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0700_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel0700_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0700_00.mp3",
+                    "enclosure": {
+                        "@length": "26631801",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0700_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/daniel-7-a-survey-of-five-world-empires/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0700_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0700_00.mp3",
+                    "link": "https://media.enduringword.com/daniel-7-a-survey-of-five-world-empires/",
+                    "pubDate": "Fri, 09 Sep 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Daniel 7 \u2013 A Survey of Five World Empires",
+                    "wfw:commentRss": "https://media.enduringword.com/daniel-7-a-survey-of-five-world-empires/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Daniel",
+                        "Major Prophets",
+                        "Old Testament",
+                        "Prophets"
+                    ],
+                    "comments": "https://media.enduringword.com/daniel-6-in-the-lions-den/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26798-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0600_00.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0600_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel0600_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0600_00.mp3",
+                    "enclosure": {
+                        "@length": "21941052",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0600_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/daniel-6-in-the-lions-den/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0600_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0600_00.mp3",
+                    "link": "https://media.enduringword.com/daniel-6-in-the-lions-den/",
+                    "pubDate": "Thu, 08 Sep 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Daniel 6 \u2013 In the Lion\u2019s Den",
+                    "wfw:commentRss": "https://media.enduringword.com/daniel-6-in-the-lions-den/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Daniel",
+                        "Major Prophets",
+                        "Old Testament",
+                        "Prophets"
+                    ],
+                    "comments": "https://media.enduringword.com/daniel-5-the-writing-on-the-wall/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26797-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0500_00.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0500_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel0500_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0500_00.mp3",
+                    "enclosure": {
+                        "@length": "24155386",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0500_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/daniel-5-the-writing-on-the-wall/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0500_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0500_00.mp3",
+                    "link": "https://media.enduringword.com/daniel-5-the-writing-on-the-wall/",
+                    "pubDate": "Wed, 07 Sep 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Daniel 5 \u2013 The Writing on the Wall",
+                    "wfw:commentRss": "https://media.enduringword.com/daniel-5-the-writing-on-the-wall/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Daniel",
+                        "Major Prophets",
+                        "Old Testament",
+                        "Prophets"
+                    ],
+                    "comments": "https://media.enduringword.com/daniel-4-the-fall-and-rise-of-nebuchadnezzar/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26796-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0400_00.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0400_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel0400_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0400_00.mp3",
+                    "enclosure": {
+                        "@length": "20910154",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0400_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/daniel-4-the-fall-and-rise-of-nebuchadnezzar/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0400_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0400_00.mp3",
+                    "link": "https://media.enduringword.com/daniel-4-the-fall-and-rise-of-nebuchadnezzar/",
+                    "pubDate": "Tue, 06 Sep 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Daniel 4 \u2013 The Fall and Rise of Nebuchadnezzar",
+                    "wfw:commentRss": "https://media.enduringword.com/daniel-4-the-fall-and-rise-of-nebuchadnezzar/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Daniel",
+                        "Major Prophets",
+                        "Old Testament",
+                        "Prophets"
+                    ],
+                    "comments": "https://media.enduringword.com/daniel-3-wouldnt-bow-wouldnt-bend-wouldnt-burn/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26795-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0300_00.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0300_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel0300_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0300_00.mp3",
+                    "enclosure": {
+                        "@length": "23848459",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0300_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/daniel-3-wouldnt-bow-wouldnt-bend-wouldnt-burn/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0300_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0300_00.mp3",
+                    "link": "https://media.enduringword.com/daniel-3-wouldnt-bow-wouldnt-bend-wouldnt-burn/",
+                    "pubDate": "Mon, 05 Sep 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Daniel 3 \u2013 Wouldn\u2019t Bow, Wouldn\u2019t Bend, Wouldn\u2019t Burn",
+                    "wfw:commentRss": "https://media.enduringword.com/daniel-3-wouldnt-bow-wouldnt-bend-wouldnt-burn/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Daniel",
+                        "Major Prophets",
+                        "Old Testament",
+                        "Prophets"
+                    ],
+                    "comments": "https://media.enduringword.com/daniel-2-nebuchadnezzars-dream/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26794-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0200_00.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0200_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel0200_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0200_00.mp3",
+                    "enclosure": {
+                        "@length": "25585666",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0200_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/daniel-2-nebuchadnezzars-dream/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0200_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0200_00.mp3",
+                    "link": "https://media.enduringword.com/daniel-2-nebuchadnezzars-dream/",
+                    "pubDate": "Sun, 04 Sep 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Daniel 2 \u2013 Nebuchadnezzar\u2019s Dream",
+                    "wfw:commentRss": "https://media.enduringword.com/daniel-2-nebuchadnezzars-dream/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Daniel",
+                        "Major Prophets",
+                        "Old Testament",
+                        "Prophets"
+                    ],
+                    "comments": "https://media.enduringword.com/daniel-1-purity-in-the-face-of-adversity/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26793-24\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0100_00.mp3?_=24\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0100_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel0100_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0100_00.mp3",
+                    "enclosure": {
+                        "@length": "25051498",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0100_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/daniel-1-purity-in-the-face-of-adversity/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0100_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0100_00.mp3",
+                    "link": "https://media.enduringword.com/daniel-1-purity-in-the-face-of-adversity/",
+                    "pubDate": "Sat, 03 Sep 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Daniel 1 \u2013 Purity in the Face of Adversity",
+                    "wfw:commentRss": "https://media.enduringword.com/daniel-1-purity-in-the-face-of-adversity/feed/"
+                }
             ],
-            "comments": "https://media.enduringword.com/daniel-12-israels-time-of-trouble/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Daniel1200_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26804-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel1200_00.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel1200_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel1200_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel1200_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel1200_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "20521259",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel1200_00.mp3"
+            "itunes:author": "David Guzik",
+            "itunes:category": {
+                "@text": "Religion & Spirituality",
+                "itunes:category": {
+                    "@text": "Christianity"
+                }
             },
-            "guid": "https://media.enduringword.com/daniel-12-israels-time-of-trouble/",
-            "isoDate": "2016-09-14T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel1200_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel1200_00.mp3"
+            "itunes:explicit": "no",
+            "itunes:image": {
+                "@href": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_027_daniel.jpg"
             },
-            "link": "https://media.enduringword.com/daniel-12-israels-time-of-trouble/",
-            "pubDate": "Wed, 14 Sep 2016 07:00:00 +0000",
-            "title": "Daniel 12 \u2013 Israel\u2019s Time of Trouble"
-        },
-        {
-            "categories": [
-                "The Book of Daniel",
-                "Major Prophets",
-                "Old Testament",
-                "Prophets"
-            ],
-            "comments": "https://media.enduringword.com/daniel-10-11-antiochus-and-antichrist-revisited/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Daniel1000_11.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26803-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel1000_11.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel1000_11.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel1000_11.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel1000_11.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel1000_11.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "28683149",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel1000_11.mp3"
+            "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
+            "itunes:owner": {
+                "itunes:email": "admin@enduringword.com",
+                "itunes:name": "David Guzik"
             },
-            "guid": "https://media.enduringword.com/daniel-10-11-antiochus-and-antichrist-revisited/",
-            "isoDate": "2016-09-13T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel1000_11.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel1000_11.mp3"
-            },
-            "link": "https://media.enduringword.com/daniel-10-11-antiochus-and-antichrist-revisited/",
-            "pubDate": "Tue, 13 Sep 2016 07:00:00 +0000",
-            "title": "Daniel 10-11 \u2013 Antiochus and Antichrist Revisited"
-        },
-        {
-            "categories": [
-                "The Book of Daniel",
-                "Major Prophets",
-                "Old Testament",
-                "Prophets"
-            ],
-            "comments": "https://media.enduringword.com/daniel-920-27-the-70-weeks-of-daniel/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0920_27.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26802-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0920_27.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0920_27.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel0920_27.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0920_27.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0920_27.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "30772933",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0920_27.mp3"
-            },
-            "guid": "https://media.enduringword.com/daniel-920-27-the-70-weeks-of-daniel/",
-            "isoDate": "2016-09-12T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0920_27.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0920_27.mp3"
-            },
-            "link": "https://media.enduringword.com/daniel-920-27-the-70-weeks-of-daniel/",
-            "pubDate": "Mon, 12 Sep 2016 07:00:00 +0000",
-            "title": "Daniel 9:20-27 \u2013 The 70 Weeks of Daniel"
-        },
-        {
-            "categories": [
-                "The Book of Daniel",
-                "Major Prophets",
-                "Old Testament",
-                "Prophets"
-            ],
-            "comments": "https://media.enduringword.com/daniel-91-19-daniel-the-intercessor/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0901_19.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26801-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0901_19.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0901_19.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel0901_19.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0901_19.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0901_19.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "25791904",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0901_19.mp3"
-            },
-            "guid": "https://media.enduringword.com/daniel-91-19-daniel-the-intercessor/",
-            "isoDate": "2016-09-11T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0901_19.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0901_19.mp3"
-            },
-            "link": "https://media.enduringword.com/daniel-91-19-daniel-the-intercessor/",
-            "pubDate": "Sun, 11 Sep 2016 07:00:00 +0000",
-            "title": "Daniel 9:1-19 \u2013 Daniel the Intercessor"
-        },
-        {
-            "categories": [
-                "The Book of Daniel",
-                "Major Prophets",
-                "Old Testament",
-                "Prophets"
-            ],
-            "comments": "https://media.enduringword.com/daniel-8-antiochus-and-antichrist/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0800_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26800-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0800_00.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0800_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel0800_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0800_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0800_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "27082146",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0800_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/daniel-8-antiochus-and-antichrist/",
-            "isoDate": "2016-09-10T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0800_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0800_00.mp3"
-            },
-            "link": "https://media.enduringword.com/daniel-8-antiochus-and-antichrist/",
-            "pubDate": "Sat, 10 Sep 2016 07:00:00 +0000",
-            "title": "Daniel 8 \u2013 Antiochus and Antichrist"
-        },
-        {
-            "categories": [
-                "The Book of Daniel",
-                "Major Prophets",
-                "Old Testament",
-                "Prophets"
-            ],
-            "comments": "https://media.enduringword.com/daniel-7-a-survey-of-five-world-empires/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0700_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26799-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0700_00.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0700_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel0700_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0700_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0700_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "26631801",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0700_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/daniel-7-a-survey-of-five-world-empires/",
-            "isoDate": "2016-09-09T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0700_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0700_00.mp3"
-            },
-            "link": "https://media.enduringword.com/daniel-7-a-survey-of-five-world-empires/",
-            "pubDate": "Fri, 09 Sep 2016 07:00:00 +0000",
-            "title": "Daniel 7 \u2013 A Survey of Five World Empires"
-        },
-        {
-            "categories": [
-                "The Book of Daniel",
-                "Major Prophets",
-                "Old Testament",
-                "Prophets"
-            ],
-            "comments": "https://media.enduringword.com/daniel-6-in-the-lions-den/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0600_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26798-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0600_00.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0600_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel0600_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0600_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0600_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "21941052",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0600_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/daniel-6-in-the-lions-den/",
-            "isoDate": "2016-09-08T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0600_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0600_00.mp3"
-            },
-            "link": "https://media.enduringword.com/daniel-6-in-the-lions-den/",
-            "pubDate": "Thu, 08 Sep 2016 07:00:00 +0000",
-            "title": "Daniel 6 \u2013 In the Lion\u2019s Den"
-        },
-        {
-            "categories": [
-                "The Book of Daniel",
-                "Major Prophets",
-                "Old Testament",
-                "Prophets"
-            ],
-            "comments": "https://media.enduringword.com/daniel-5-the-writing-on-the-wall/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0500_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26797-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0500_00.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0500_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel0500_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0500_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0500_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "24155386",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0500_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/daniel-5-the-writing-on-the-wall/",
-            "isoDate": "2016-09-07T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0500_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0500_00.mp3"
-            },
-            "link": "https://media.enduringword.com/daniel-5-the-writing-on-the-wall/",
-            "pubDate": "Wed, 07 Sep 2016 07:00:00 +0000",
-            "title": "Daniel 5 \u2013 The Writing on the Wall"
-        },
-        {
-            "categories": [
-                "The Book of Daniel",
-                "Major Prophets",
-                "Old Testament",
-                "Prophets"
-            ],
-            "comments": "https://media.enduringword.com/daniel-4-the-fall-and-rise-of-nebuchadnezzar/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0400_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26796-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0400_00.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0400_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel0400_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0400_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0400_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "20910154",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0400_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/daniel-4-the-fall-and-rise-of-nebuchadnezzar/",
-            "isoDate": "2016-09-06T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0400_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0400_00.mp3"
-            },
-            "link": "https://media.enduringword.com/daniel-4-the-fall-and-rise-of-nebuchadnezzar/",
-            "pubDate": "Tue, 06 Sep 2016 07:00:00 +0000",
-            "title": "Daniel 4 \u2013 The Fall and Rise of Nebuchadnezzar"
-        },
-        {
-            "categories": [
-                "The Book of Daniel",
-                "Major Prophets",
-                "Old Testament",
-                "Prophets"
-            ],
-            "comments": "https://media.enduringword.com/daniel-3-wouldnt-bow-wouldnt-bend-wouldnt-burn/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0300_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26795-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0300_00.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0300_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel0300_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0300_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0300_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "23848459",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0300_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/daniel-3-wouldnt-bow-wouldnt-bend-wouldnt-burn/",
-            "isoDate": "2016-09-05T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0300_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0300_00.mp3"
-            },
-            "link": "https://media.enduringword.com/daniel-3-wouldnt-bow-wouldnt-bend-wouldnt-burn/",
-            "pubDate": "Mon, 05 Sep 2016 07:00:00 +0000",
-            "title": "Daniel 3 \u2013 Wouldn\u2019t Bow, Wouldn\u2019t Bend, Wouldn\u2019t Burn"
-        },
-        {
-            "categories": [
-                "The Book of Daniel",
-                "Major Prophets",
-                "Old Testament",
-                "Prophets"
-            ],
-            "comments": "https://media.enduringword.com/daniel-2-nebuchadnezzars-dream/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0200_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26794-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0200_00.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0200_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel0200_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0200_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0200_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "25585666",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0200_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/daniel-2-nebuchadnezzars-dream/",
-            "isoDate": "2016-09-04T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0200_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0200_00.mp3"
-            },
-            "link": "https://media.enduringword.com/daniel-2-nebuchadnezzars-dream/",
-            "pubDate": "Sun, 04 Sep 2016 07:00:00 +0000",
-            "title": "Daniel 2 \u2013 Nebuchadnezzar\u2019s Dream"
-        },
-        {
-            "categories": [
-                "The Book of Daniel",
-                "Major Prophets",
-                "Old Testament",
-                "Prophets"
-            ],
-            "comments": "https://media.enduringword.com/daniel-1-purity-in-the-face-of-adversity/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0100_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26793-24\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0100_00.mp3?_=24\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Daniel0100_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Daniel0100_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0100_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0100_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "25051498",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0100_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/daniel-1-purity-in-the-face-of-adversity/",
-            "isoDate": "2016-09-03T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Prophet,Daniel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0100_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Daniel0100_00.mp3"
-            },
-            "link": "https://media.enduringword.com/daniel-1-purity-in-the-face-of-adversity/",
-            "pubDate": "Sat, 03 Sep 2016 07:00:00 +0000",
-            "title": "Daniel 1 \u2013 Purity in the Face of Adversity"
+            "itunes:subtitle": "Enduring Word Commentary Series \u2013\u00a0The Book of Daniel",
+            "itunes:summary": "Pastor David Guzik preaches through the Old Testament, the Book of Daniel.",
+            "language": "en-US",
+            "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
+            "link": "https://media.enduringword.com",
+            "sy:updateFrequency": "1",
+            "sy:updatePeriod": "hourly",
+            "title": "The Book of Daniel \u2013 Enduring Word Media Server"
         }
-    ],
-    "itunes": {
-        "author": "David Guzik",
-        "categories": [
-            "Religion & Spirituality"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Religion & Spirituality",
-                "subs": [
-                    {
-                        "name": "Christianity"
-                    }
-                ]
-            }
-        ],
-        "explicit": "no",
-        "image": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_027_daniel.jpg",
-        "keywords": [
-            "Bible",
-            "David",
-            "Guzik",
-            "Enduring",
-            "Word",
-            "Commentary",
-            "Old",
-            "Testament",
-            "Prophet",
-            "Daniel"
-        ],
-        "owner": {
-            "email": "admin@enduringword.com",
-            "name": "David Guzik"
-        },
-        "subtitle": "Enduring Word Commentary Series \u2013\u00a0The Book of Daniel",
-        "summary": "Pastor David Guzik preaches through the Old Testament, the Book of Daniel."
-    },
-    "language": "en-US",
-    "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
-    "link": "https://media.enduringword.com",
-    "paginationLinks": {
-        "self": "https://media.enduringword.com/podcasts/daniel/feed/"
-    },
-    "palette": [],
-    "title": "The Book of Daniel \u2013 Enduring Word Media Server"
+    }
 }

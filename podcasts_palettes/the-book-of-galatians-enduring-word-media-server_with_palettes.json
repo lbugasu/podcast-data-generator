@@ -1,647 +1,624 @@
 {
-    "copyright": "Enduring Word 2018",
-    "description": "Audio and Video Server For Enduring Word",
-    "feedUrl": "https://media.enduringword.com/podcasts/galatians/feed/",
-    "generator": "https://wordpress.org/?v=5.0.22",
-    "items": [
-        {
-            "categories": [
-                "The Book of Galatians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:slash": "http://purl.org/rss/1.0/modules/slash/",
+        "@xmlns:sy": "http://purl.org/rss/1.0/modules/syndication/",
+        "@xmlns:wfw": "http://wellformedweb.org/CommentAPI/",
+        "channel": {
+            "atom:link": {
+                "@href": "https://media.enduringword.com/podcasts/galatians/feed/",
+                "@rel": "self",
+                "@type": "application/rss+xml"
+            },
+            "copyright": "Enduring Word 2018",
+            "description": "Audio and Video Server For Enduring Word",
+            "generator": "https://wordpress.org/?v=5.0.22",
+            "item": [
+                {
+                    "category": [
+                        "The Book of Galatians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/galatians-611-18-dead-to-the-world/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26425-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal6_11_18.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal6_11_18.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal6_11_18.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Gal6_11_18.mp3",
+                    "enclosure": {
+                        "@length": "19545123",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Gal6_11_18.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/galatians-611-18-dead-to-the-world/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal6_11_18.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal6_11_18.mp3",
+                    "link": "https://media.enduringword.com/galatians-611-18-dead-to-the-world/",
+                    "pubDate": "Tue, 22 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Galatians 6:11-18 \u2013 Dead to the World",
+                    "wfw:commentRss": "https://media.enduringword.com/galatians-611-18-dead-to-the-world/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Galatians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/galatians-61-10-dont-give-up-doing-good/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26424-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal6_01_10.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal6_01_10.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal6_01_10.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Gal6_01_10.mp3",
+                    "enclosure": {
+                        "@length": "16275044",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Gal6_01_10.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/galatians-61-10-dont-give-up-doing-good/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal6_01_10.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal6_01_10.mp3",
+                    "link": "https://media.enduringword.com/galatians-61-10-dont-give-up-doing-good/",
+                    "pubDate": "Mon, 21 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Galatians 6:1-10 \u2013 Don\u2019t Give Up Doing Good",
+                    "wfw:commentRss": "https://media.enduringword.com/galatians-61-10-dont-give-up-doing-good/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Galatians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/galatians-522-26-the-fruit-of-the-spirit/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26423-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal5_22_26.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal5_22_26.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal5_22_26.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_22_26.mp3",
+                    "enclosure": {
+                        "@length": "17819166",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_22_26.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/galatians-522-26-the-fruit-of-the-spirit/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_22_26.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_22_26.mp3",
+                    "link": "https://media.enduringword.com/galatians-522-26-the-fruit-of-the-spirit/",
+                    "pubDate": "Sun, 20 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Galatians 5:22-26 \u2013 The Fruit of the Spirit",
+                    "wfw:commentRss": "https://media.enduringword.com/galatians-522-26-the-fruit-of-the-spirit/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Galatians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/galatians-519-21-the-works-of-the-flesh/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26422-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal5_19_21.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal5_19_21.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal5_19_21.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_19_21.mp3",
+                    "enclosure": {
+                        "@length": "18031070",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_19_21.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/galatians-519-21-the-works-of-the-flesh/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_19_21.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_19_21.mp3",
+                    "link": "https://media.enduringword.com/galatians-519-21-the-works-of-the-flesh/",
+                    "pubDate": "Sat, 19 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Galatians 5:19-21 \u2013 The Works of the Flesh",
+                    "wfw:commentRss": "https://media.enduringword.com/galatians-519-21-the-works-of-the-flesh/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Galatians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/galatians-513-18-how-to-live-in-the-liberty-of-jesus/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26421-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal5_13_18.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal5_13_18.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal5_13_18.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_13_18.mp3",
+                    "enclosure": {
+                        "@length": "17743109",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_13_18.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/galatians-513-18-how-to-live-in-the-liberty-of-jesus/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_13_18.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_13_18.mp3",
+                    "link": "https://media.enduringword.com/galatians-513-18-how-to-live-in-the-liberty-of-jesus/",
+                    "pubDate": "Fri, 18 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Galatians 5:13-18 \u2013 How to Live in the Liberty of Jesus",
+                    "wfw:commentRss": "https://media.enduringword.com/galatians-513-18-how-to-live-in-the-liberty-of-jesus/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Galatians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/galatians-51-12-standing-fast-in-the-liberty-of-jesus/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26420-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal5_01_12.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal5_01_12.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal5_01_12.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_01_12.mp3",
+                    "enclosure": {
+                        "@length": "16337306",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_01_12.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/galatians-51-12-standing-fast-in-the-liberty-of-jesus/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_01_12.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_01_12.mp3",
+                    "link": "https://media.enduringword.com/galatians-51-12-standing-fast-in-the-liberty-of-jesus/",
+                    "pubDate": "Thu, 17 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Galatians 5:1-12 \u2013 Standing Fast in the Liberty of Jesus",
+                    "wfw:commentRss": "https://media.enduringword.com/galatians-51-12-standing-fast-in-the-liberty-of-jesus/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Galatians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/galatians-421-31-isaac-or-ishmael/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26419-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal4_21_31.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal4_21_31.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal4_21_31.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_21_31.mp3",
+                    "enclosure": {
+                        "@length": "15337945",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_21_31.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/galatians-421-31-isaac-or-ishmael/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_21_31.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_21_31.mp3",
+                    "link": "https://media.enduringword.com/galatians-421-31-isaac-or-ishmael/",
+                    "pubDate": "Wed, 16 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Galatians 4:21-31 \u2013 Isaac or Ishmael?",
+                    "wfw:commentRss": "https://media.enduringword.com/galatians-421-31-isaac-or-ishmael/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Galatians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/galatians-412-20-appealing-from-the-heart-of-an-apostle/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26418-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal4_12_20.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal4_12_20.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal4_12_20.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_12_20.mp3",
+                    "enclosure": {
+                        "@length": "16356115",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_12_20.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/galatians-412-20-appealing-from-the-heart-of-an-apostle/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_12_20.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_12_20.mp3",
+                    "link": "https://media.enduringword.com/galatians-412-20-appealing-from-the-heart-of-an-apostle/",
+                    "pubDate": "Tue, 15 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Galatians 4:12-20 \u2013 Appealing from the Heart of an Apostle",
+                    "wfw:commentRss": "https://media.enduringword.com/galatians-412-20-appealing-from-the-heart-of-an-apostle/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Galatians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/galatians-41-11-the-privilege-of-calling-god-daddy/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26417-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal4_01_11.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal4_01_11.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal4_01_11.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_01_11.mp3",
+                    "enclosure": {
+                        "@length": "16835342",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_01_11.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/galatians-41-11-the-privilege-of-calling-god-daddy/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_01_11.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_01_11.mp3",
+                    "link": "https://media.enduringword.com/galatians-41-11-the-privilege-of-calling-god-daddy/",
+                    "pubDate": "Mon, 14 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Galatians 4:1-11 \u2013 The Privilege of Calling God \u201cDaddy\u201d",
+                    "wfw:commentRss": "https://media.enduringword.com/galatians-41-11-the-privilege-of-calling-god-daddy/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Galatians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/galatians-323-29-your-identity-in-three-dimensions/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26416-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal3_23_29.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal3_23_29.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal3_23_29.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_23_29.mp3",
+                    "enclosure": {
+                        "@length": "13879911",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_23_29.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/galatians-323-29-your-identity-in-three-dimensions/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_23_29.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_23_29.mp3",
+                    "link": "https://media.enduringword.com/galatians-323-29-your-identity-in-three-dimensions/",
+                    "pubDate": "Sun, 13 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Galatians 3:23-29 \u2013 Your Identity in Three Dimensions",
+                    "wfw:commentRss": "https://media.enduringword.com/galatians-323-29-your-identity-in-three-dimensions/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Galatians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/galatians-310-22-gods-kind-of-jailbreak/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26415-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal3_10_22.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal3_10_22.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal3_10_22.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_10_22.mp3",
+                    "enclosure": {
+                        "@length": "16906578",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_10_22.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/galatians-310-22-gods-kind-of-jailbreak/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_10_22.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_10_22.mp3",
+                    "link": "https://media.enduringword.com/galatians-310-22-gods-kind-of-jailbreak/",
+                    "pubDate": "Sat, 12 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Galatians 3:10-22 \u2013 God\u2019s Kind of Jailbreak",
+                    "wfw:commentRss": "https://media.enduringword.com/galatians-310-22-gods-kind-of-jailbreak/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Galatians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/galatians-36-9-father-abraham-had-many-sons/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26414-24\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal3_06_09.mp3?_=24\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal3_06_09.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal3_06_09.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_06_09.mp3",
+                    "enclosure": {
+                        "@length": "14900353",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_06_09.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/galatians-36-9-father-abraham-had-many-sons/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_06_09.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_06_09.mp3",
+                    "link": "https://media.enduringword.com/galatians-36-9-father-abraham-had-many-sons/",
+                    "pubDate": "Fri, 11 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Galatians 3:6-9 \u2013 Father Abraham Had Many Sons",
+                    "wfw:commentRss": "https://media.enduringword.com/galatians-36-9-father-abraham-had-many-sons/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Galatians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/galatians-31-5-your-own-life-proves-it/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26413-26\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal3_01_05.mp3?_=26\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal3_01_05.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal3_01_05.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_01_05.mp3",
+                    "enclosure": {
+                        "@length": "14269439",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_01_05.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/galatians-31-5-your-own-life-proves-it/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_01_05.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_01_05.mp3",
+                    "link": "https://media.enduringword.com/galatians-31-5-your-own-life-proves-it/",
+                    "pubDate": "Thu, 10 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Galatians 3:1-5 \u2013 Your Own Life Proves It",
+                    "wfw:commentRss": "https://media.enduringword.com/galatians-31-5-your-own-life-proves-it/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Galatians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/galatians-215-21-by-what-we-do-or-by-what-jesus-has-done/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26412-28\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal2_15_21.mp3?_=28\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal2_15_21.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal2_15_21.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_15_21.mp3",
+                    "enclosure": {
+                        "@length": "14301848",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_15_21.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/galatians-215-21-by-what-we-do-or-by-what-jesus-has-done/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_15_21.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_15_21.mp3",
+                    "link": "https://media.enduringword.com/galatians-215-21-by-what-we-do-or-by-what-jesus-has-done/",
+                    "pubDate": "Wed, 09 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Galatians 2:15-21 \u2013 By What We Do or by What Jesus has Done?",
+                    "wfw:commentRss": "https://media.enduringword.com/galatians-215-21-by-what-we-do-or-by-what-jesus-has-done/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Galatians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/galatians-211-14-when-paul-rebuked-peter/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26411-30\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal2_11_14.mp3?_=30\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal2_11_14.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal2_11_14.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_11_14.mp3",
+                    "enclosure": {
+                        "@length": "18659473",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_11_14.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/galatians-211-14-when-paul-rebuked-peter/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_11_14.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_11_14.mp3",
+                    "link": "https://media.enduringword.com/galatians-211-14-when-paul-rebuked-peter/",
+                    "pubDate": "Tue, 08 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Galatians 2:11-14 \u2013 When Paul Rebuked Peter",
+                    "wfw:commentRss": "https://media.enduringword.com/galatians-211-14-when-paul-rebuked-peter/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Galatians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/galatians-21-10-pauls-visit-to-jerusalem-the-false-brethren/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26410-32\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal2_01_10.mp3?_=32\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal2_01_10.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal2_01_10.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_01_10.mp3",
+                    "enclosure": {
+                        "@length": "18420263",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_01_10.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/galatians-21-10-pauls-visit-to-jerusalem-the-false-brethren/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_01_10.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_01_10.mp3",
+                    "link": "https://media.enduringword.com/galatians-21-10-pauls-visit-to-jerusalem-the-false-brethren/",
+                    "pubDate": "Mon, 07 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Galatians 2:1-10 \u2013 Paul\u2019s Visit to Jerusalem & the False Brethren",
+                    "wfw:commentRss": "https://media.enduringword.com/galatians-21-10-pauls-visit-to-jerusalem-the-false-brethren/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Galatians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/galatians-110-24-where-the-gospel-comes-from/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26409-34\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal1_10_24.mp3?_=34\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal1_10_24.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal1_10_24.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Gal1_10_24.mp3",
+                    "enclosure": {
+                        "@length": "15812757",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Gal1_10_24.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/galatians-110-24-where-the-gospel-comes-from/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal1_10_24.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal1_10_24.mp3",
+                    "link": "https://media.enduringword.com/galatians-110-24-where-the-gospel-comes-from/",
+                    "pubDate": "Sun, 06 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Galatians 1:10-24 \u2013 Where the Gospel Comes From",
+                    "wfw:commentRss": "https://media.enduringword.com/galatians-110-24-where-the-gospel-comes-from/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of Galatians",
+                        "Epistles",
+                        "New Testament",
+                        "Paul",
+                        "Pauline Epistle"
+                    ],
+                    "comments": "https://media.enduringword.com/galatians-11-9-danger-of-a-different-gospel/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26408-36\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal1_01_09.mp3?_=36\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal1_01_09.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal1_01_09.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Gal1_01_09.mp3",
+                    "enclosure": {
+                        "@length": "19002622",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Gal1_01_09.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/galatians-11-9-danger-of-a-different-gospel/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal1_01_09.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal1_01_09.mp3",
+                    "link": "https://media.enduringword.com/galatians-11-9-danger-of-a-different-gospel/",
+                    "pubDate": "Sat, 05 Aug 2017 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Galatians 1:1-9 \u2013 Danger of a Different Gospel",
+                    "wfw:commentRss": "https://media.enduringword.com/galatians-11-9-danger-of-a-different-gospel/feed/"
+                }
             ],
-            "comments": "https://media.enduringword.com/galatians-611-18-dead-to-the-world/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Gal6_11_18.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26425-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal6_11_18.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal6_11_18.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal6_11_18.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal6_11_18.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal6_11_18.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "19545123",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Gal6_11_18.mp3"
+            "itunes:author": "David Guzik",
+            "itunes:category": {
+                "@text": "Religion & Spirituality",
+                "itunes:category": {
+                    "@text": "Christianity"
+                }
             },
-            "guid": "https://media.enduringword.com/galatians-611-18-dead-to-the-world/",
-            "isoDate": "2017-08-22T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal6_11_18.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal6_11_18.mp3"
+            "itunes:explicit": "no",
+            "itunes:image": {
+                "@href": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_048_galatians.jpg"
             },
-            "link": "https://media.enduringword.com/galatians-611-18-dead-to-the-world/",
-            "pubDate": "Tue, 22 Aug 2017 07:00:00 +0000",
-            "title": "Galatians 6:11-18 \u2013 Dead to the World"
-        },
-        {
-            "categories": [
-                "The Book of Galatians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/galatians-61-10-dont-give-up-doing-good/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Gal6_01_10.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26424-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal6_01_10.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal6_01_10.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal6_01_10.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal6_01_10.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal6_01_10.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16275044",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Gal6_01_10.mp3"
+            "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
+            "itunes:owner": {
+                "itunes:email": "admin@enduringword.com",
+                "itunes:name": "David Guzik"
             },
-            "guid": "https://media.enduringword.com/galatians-61-10-dont-give-up-doing-good/",
-            "isoDate": "2017-08-21T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal6_01_10.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal6_01_10.mp3"
-            },
-            "link": "https://media.enduringword.com/galatians-61-10-dont-give-up-doing-good/",
-            "pubDate": "Mon, 21 Aug 2017 07:00:00 +0000",
-            "title": "Galatians 6:1-10 \u2013 Don\u2019t Give Up Doing Good"
-        },
-        {
-            "categories": [
-                "The Book of Galatians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/galatians-522-26-the-fruit-of-the-spirit/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_22_26.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26423-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal5_22_26.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal5_22_26.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal5_22_26.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_22_26.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_22_26.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "17819166",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_22_26.mp3"
-            },
-            "guid": "https://media.enduringword.com/galatians-522-26-the-fruit-of-the-spirit/",
-            "isoDate": "2017-08-20T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_22_26.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_22_26.mp3"
-            },
-            "link": "https://media.enduringword.com/galatians-522-26-the-fruit-of-the-spirit/",
-            "pubDate": "Sun, 20 Aug 2017 07:00:00 +0000",
-            "title": "Galatians 5:22-26 \u2013 The Fruit of the Spirit"
-        },
-        {
-            "categories": [
-                "The Book of Galatians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/galatians-519-21-the-works-of-the-flesh/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_19_21.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26422-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal5_19_21.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal5_19_21.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal5_19_21.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_19_21.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_19_21.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18031070",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_19_21.mp3"
-            },
-            "guid": "https://media.enduringword.com/galatians-519-21-the-works-of-the-flesh/",
-            "isoDate": "2017-08-19T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_19_21.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_19_21.mp3"
-            },
-            "link": "https://media.enduringword.com/galatians-519-21-the-works-of-the-flesh/",
-            "pubDate": "Sat, 19 Aug 2017 07:00:00 +0000",
-            "title": "Galatians 5:19-21 \u2013 The Works of the Flesh"
-        },
-        {
-            "categories": [
-                "The Book of Galatians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/galatians-513-18-how-to-live-in-the-liberty-of-jesus/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_13_18.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26421-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal5_13_18.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal5_13_18.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal5_13_18.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_13_18.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_13_18.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "17743109",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_13_18.mp3"
-            },
-            "guid": "https://media.enduringword.com/galatians-513-18-how-to-live-in-the-liberty-of-jesus/",
-            "isoDate": "2017-08-18T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_13_18.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_13_18.mp3"
-            },
-            "link": "https://media.enduringword.com/galatians-513-18-how-to-live-in-the-liberty-of-jesus/",
-            "pubDate": "Fri, 18 Aug 2017 07:00:00 +0000",
-            "title": "Galatians 5:13-18 \u2013 How to Live in the Liberty of Jesus"
-        },
-        {
-            "categories": [
-                "The Book of Galatians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/galatians-51-12-standing-fast-in-the-liberty-of-jesus/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_01_12.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26420-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal5_01_12.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal5_01_12.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal5_01_12.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_01_12.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_01_12.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16337306",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_01_12.mp3"
-            },
-            "guid": "https://media.enduringword.com/galatians-51-12-standing-fast-in-the-liberty-of-jesus/",
-            "isoDate": "2017-08-17T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_01_12.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal5_01_12.mp3"
-            },
-            "link": "https://media.enduringword.com/galatians-51-12-standing-fast-in-the-liberty-of-jesus/",
-            "pubDate": "Thu, 17 Aug 2017 07:00:00 +0000",
-            "title": "Galatians 5:1-12 \u2013 Standing Fast in the Liberty of Jesus"
-        },
-        {
-            "categories": [
-                "The Book of Galatians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/galatians-421-31-isaac-or-ishmael/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_21_31.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26419-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal4_21_31.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal4_21_31.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal4_21_31.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_21_31.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_21_31.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "15337945",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_21_31.mp3"
-            },
-            "guid": "https://media.enduringword.com/galatians-421-31-isaac-or-ishmael/",
-            "isoDate": "2017-08-16T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_21_31.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_21_31.mp3"
-            },
-            "link": "https://media.enduringword.com/galatians-421-31-isaac-or-ishmael/",
-            "pubDate": "Wed, 16 Aug 2017 07:00:00 +0000",
-            "title": "Galatians 4:21-31 \u2013 Isaac or Ishmael?"
-        },
-        {
-            "categories": [
-                "The Book of Galatians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/galatians-412-20-appealing-from-the-heart-of-an-apostle/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_12_20.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26418-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal4_12_20.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal4_12_20.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal4_12_20.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_12_20.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_12_20.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16356115",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_12_20.mp3"
-            },
-            "guid": "https://media.enduringword.com/galatians-412-20-appealing-from-the-heart-of-an-apostle/",
-            "isoDate": "2017-08-15T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_12_20.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_12_20.mp3"
-            },
-            "link": "https://media.enduringword.com/galatians-412-20-appealing-from-the-heart-of-an-apostle/",
-            "pubDate": "Tue, 15 Aug 2017 07:00:00 +0000",
-            "title": "Galatians 4:12-20 \u2013 Appealing from the Heart of an Apostle"
-        },
-        {
-            "categories": [
-                "The Book of Galatians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/galatians-41-11-the-privilege-of-calling-god-daddy/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_01_11.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26417-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal4_01_11.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal4_01_11.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal4_01_11.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_01_11.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_01_11.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16835342",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_01_11.mp3"
-            },
-            "guid": "https://media.enduringword.com/galatians-41-11-the-privilege-of-calling-god-daddy/",
-            "isoDate": "2017-08-14T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_01_11.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal4_01_11.mp3"
-            },
-            "link": "https://media.enduringword.com/galatians-41-11-the-privilege-of-calling-god-daddy/",
-            "pubDate": "Mon, 14 Aug 2017 07:00:00 +0000",
-            "title": "Galatians 4:1-11 \u2013 The Privilege of Calling God \u201cDaddy\u201d"
-        },
-        {
-            "categories": [
-                "The Book of Galatians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/galatians-323-29-your-identity-in-three-dimensions/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_23_29.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26416-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal3_23_29.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal3_23_29.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal3_23_29.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_23_29.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_23_29.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "13879911",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_23_29.mp3"
-            },
-            "guid": "https://media.enduringword.com/galatians-323-29-your-identity-in-three-dimensions/",
-            "isoDate": "2017-08-13T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_23_29.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_23_29.mp3"
-            },
-            "link": "https://media.enduringword.com/galatians-323-29-your-identity-in-three-dimensions/",
-            "pubDate": "Sun, 13 Aug 2017 07:00:00 +0000",
-            "title": "Galatians 3:23-29 \u2013 Your Identity in Three Dimensions"
-        },
-        {
-            "categories": [
-                "The Book of Galatians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/galatians-310-22-gods-kind-of-jailbreak/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_10_22.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26415-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal3_10_22.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal3_10_22.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal3_10_22.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_10_22.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_10_22.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16906578",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_10_22.mp3"
-            },
-            "guid": "https://media.enduringword.com/galatians-310-22-gods-kind-of-jailbreak/",
-            "isoDate": "2017-08-12T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_10_22.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_10_22.mp3"
-            },
-            "link": "https://media.enduringword.com/galatians-310-22-gods-kind-of-jailbreak/",
-            "pubDate": "Sat, 12 Aug 2017 07:00:00 +0000",
-            "title": "Galatians 3:10-22 \u2013 God\u2019s Kind of Jailbreak"
-        },
-        {
-            "categories": [
-                "The Book of Galatians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/galatians-36-9-father-abraham-had-many-sons/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_06_09.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26414-24\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal3_06_09.mp3?_=24\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal3_06_09.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal3_06_09.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_06_09.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_06_09.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "14900353",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_06_09.mp3"
-            },
-            "guid": "https://media.enduringword.com/galatians-36-9-father-abraham-had-many-sons/",
-            "isoDate": "2017-08-11T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_06_09.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_06_09.mp3"
-            },
-            "link": "https://media.enduringword.com/galatians-36-9-father-abraham-had-many-sons/",
-            "pubDate": "Fri, 11 Aug 2017 07:00:00 +0000",
-            "title": "Galatians 3:6-9 \u2013 Father Abraham Had Many Sons"
-        },
-        {
-            "categories": [
-                "The Book of Galatians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/galatians-31-5-your-own-life-proves-it/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_01_05.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26413-26\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal3_01_05.mp3?_=26\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal3_01_05.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal3_01_05.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_01_05.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_01_05.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "14269439",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_01_05.mp3"
-            },
-            "guid": "https://media.enduringword.com/galatians-31-5-your-own-life-proves-it/",
-            "isoDate": "2017-08-10T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_01_05.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal3_01_05.mp3"
-            },
-            "link": "https://media.enduringword.com/galatians-31-5-your-own-life-proves-it/",
-            "pubDate": "Thu, 10 Aug 2017 07:00:00 +0000",
-            "title": "Galatians 3:1-5 \u2013 Your Own Life Proves It"
-        },
-        {
-            "categories": [
-                "The Book of Galatians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/galatians-215-21-by-what-we-do-or-by-what-jesus-has-done/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_15_21.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26412-28\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal2_15_21.mp3?_=28\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal2_15_21.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal2_15_21.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_15_21.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_15_21.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "14301848",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_15_21.mp3"
-            },
-            "guid": "https://media.enduringword.com/galatians-215-21-by-what-we-do-or-by-what-jesus-has-done/",
-            "isoDate": "2017-08-09T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_15_21.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_15_21.mp3"
-            },
-            "link": "https://media.enduringword.com/galatians-215-21-by-what-we-do-or-by-what-jesus-has-done/",
-            "pubDate": "Wed, 09 Aug 2017 07:00:00 +0000",
-            "title": "Galatians 2:15-21 \u2013 By What We Do or by What Jesus has Done?"
-        },
-        {
-            "categories": [
-                "The Book of Galatians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/galatians-211-14-when-paul-rebuked-peter/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_11_14.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26411-30\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal2_11_14.mp3?_=30\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal2_11_14.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal2_11_14.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_11_14.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_11_14.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18659473",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_11_14.mp3"
-            },
-            "guid": "https://media.enduringword.com/galatians-211-14-when-paul-rebuked-peter/",
-            "isoDate": "2017-08-08T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_11_14.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_11_14.mp3"
-            },
-            "link": "https://media.enduringword.com/galatians-211-14-when-paul-rebuked-peter/",
-            "pubDate": "Tue, 08 Aug 2017 07:00:00 +0000",
-            "title": "Galatians 2:11-14 \u2013 When Paul Rebuked Peter"
-        },
-        {
-            "categories": [
-                "The Book of Galatians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/galatians-21-10-pauls-visit-to-jerusalem-the-false-brethren/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_01_10.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26410-32\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal2_01_10.mp3?_=32\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal2_01_10.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal2_01_10.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_01_10.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_01_10.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18420263",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_01_10.mp3"
-            },
-            "guid": "https://media.enduringword.com/galatians-21-10-pauls-visit-to-jerusalem-the-false-brethren/",
-            "isoDate": "2017-08-07T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_01_10.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal2_01_10.mp3"
-            },
-            "link": "https://media.enduringword.com/galatians-21-10-pauls-visit-to-jerusalem-the-false-brethren/",
-            "pubDate": "Mon, 07 Aug 2017 07:00:00 +0000",
-            "title": "Galatians 2:1-10 \u2013 Paul\u2019s Visit to Jerusalem & the False Brethren"
-        },
-        {
-            "categories": [
-                "The Book of Galatians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/galatians-110-24-where-the-gospel-comes-from/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Gal1_10_24.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26409-34\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal1_10_24.mp3?_=34\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal1_10_24.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal1_10_24.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal1_10_24.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal1_10_24.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "15812757",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Gal1_10_24.mp3"
-            },
-            "guid": "https://media.enduringword.com/galatians-110-24-where-the-gospel-comes-from/",
-            "isoDate": "2017-08-06T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal1_10_24.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal1_10_24.mp3"
-            },
-            "link": "https://media.enduringword.com/galatians-110-24-where-the-gospel-comes-from/",
-            "pubDate": "Sun, 06 Aug 2017 07:00:00 +0000",
-            "title": "Galatians 1:10-24 \u2013 Where the Gospel Comes From"
-        },
-        {
-            "categories": [
-                "The Book of Galatians",
-                "Epistles",
-                "New Testament",
-                "Paul",
-                "Pauline Epistle"
-            ],
-            "comments": "https://media.enduringword.com/galatians-11-9-danger-of-a-different-gospel/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Gal1_01_09.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26408-36\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Gal1_01_09.mp3?_=36\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Gal1_01_09.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Gal1_01_09.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal1_01_09.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Gal1_01_09.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "19002622",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Gal1_01_09.mp3"
-            },
-            "guid": "https://media.enduringword.com/galatians-11-9-danger-of-a-different-gospel/",
-            "isoDate": "2017-08-05T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,New,Testament,Book,of,Galatians",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Gal1_01_09.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Gal1_01_09.mp3"
-            },
-            "link": "https://media.enduringword.com/galatians-11-9-danger-of-a-different-gospel/",
-            "pubDate": "Sat, 05 Aug 2017 07:00:00 +0000",
-            "title": "Galatians 1:1-9 \u2013 Danger of a Different Gospel"
+            "itunes:subtitle": "Enduring Word Commentary Series \u2013\u00a0The Book of Galatians",
+            "itunes:summary": "Pastor David Guzik preaches through the New Testament Book of Galatians.",
+            "language": "en-US",
+            "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
+            "link": "https://media.enduringword.com",
+            "sy:updateFrequency": "1",
+            "sy:updatePeriod": "hourly",
+            "title": "The Book of Galatians \u2013 Enduring Word Media Server"
         }
-    ],
-    "itunes": {
-        "author": "David Guzik",
-        "categories": [
-            "Religion & Spirituality"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Religion & Spirituality",
-                "subs": [
-                    {
-                        "name": "Christianity"
-                    }
-                ]
-            }
-        ],
-        "explicit": "no",
-        "image": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_048_galatians.jpg",
-        "keywords": [
-            "Bible",
-            "David",
-            "Guzik",
-            "Enduring",
-            "Word",
-            "Commentary",
-            "New",
-            "Testament",
-            "Book",
-            "of",
-            "Galatians"
-        ],
-        "owner": {
-            "email": "admin@enduringword.com",
-            "name": "David Guzik"
-        },
-        "subtitle": "Enduring Word Commentary Series \u2013\u00a0The Book of Galatians",
-        "summary": "Pastor David Guzik preaches through the New Testament Book of Galatians."
-    },
-    "language": "en-US",
-    "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
-    "link": "https://media.enduringword.com",
-    "paginationLinks": {
-        "self": "https://media.enduringword.com/podcasts/galatians/feed/"
-    },
-    "palette": [],
-    "title": "The Book of Galatians \u2013 Enduring Word Media Server"
+    }
 }

@@ -1,0 +1,258 @@
+{
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:anchor": "https://anchor.fm/xmlns",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "channel": {
+            "atom:link": [
+                {
+                    "@href": "https://anchor.fm/s/f75f321c/podcast/rss",
+                    "@rel": "self",
+                    "@type": "application/rss+xml"
+                },
+                {
+                    "@href": "https://pubsubhubbub.appspot.com/",
+                    "@rel": "hub"
+                }
+            ],
+            "author": "Setapp",
+            "copyright": "Setapp",
+            "description": "The inventor of facial recognition software was years ahead of the competition but never got credit for his work because it was kept secret by the CIA. The first VR glove was a groundbreaking piece of tech that would eventually become one of the gaming industry's biggest flops. And when Kodak execs were shown an early prototype of the first digital camera, they flat out rejected the idea. \n\nIn each episode of Ahead of Its Time, you'll explore the forgotten origins of today\u2019s most transformative technology, hear from the people who first imagined it, delve into their past and relive their eureka moments. \n\nJoin host, podcast producer and queen of tech storytelling Julia Furlan to discover why these inventors struggled to get their ideas off the ground. Then meet the next generation of innovators who are building on the work of the tech underdogs who came before them.",
+            "generator": "Anchor Podcasts",
+            "image": {
+                "link": "https://ahead-of-its-time.simplecast.com",
+                "palette": [
+                    "353541",
+                    "96C4CA",
+                    "C99856",
+                    "EEC794",
+                    "5F5E68",
+                    "8A8279"
+                ],
+                "title": "Ahead of Its Time",
+                "url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41402111/9d9b1905120fe979.jpg"
+            },
+            "item": [
+                {
+                    "dc:creator": "Setapp",
+                    "description": "Every person\u2019s face is unique. We intuitively know that to be true. But what exactly makes your face different from another person? And how can we measure and quantify that difference to make the world more accessible for the visually impaired?\n\nIn this episode, journalist Shaun Raviv tells us how he uncovered the top secret history of facial recognition technology and its inventor, Woody Bledsoe. Then Karthik Kannan explains how a conversation with a group of visually impaired students inspired him to build glasses that can recognize human faces.\n",
+                    "enclosure": {
+                        "@length": "23875000",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f75f321c/podcast/play/87780959/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-8%2F380107220-44100-2-5791c10ce2affed1.mp3"
+                    },
+                    "guid": {
+                        "#text": "56e7422c-41d6-41a8-abc0-e756d1ea1cde",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:24:44",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41402111/92f9d7dbaa1be7f6.jpg"
+                    },
+                    "itunes:summary": "Every person\u2019s face is unique. We intuitively know that to be true. But what exactly makes your face different from another person? And how can we measure and quantify that difference to make the world more accessible for the visually impaired?\n\nIn this episode, journalist Shaun Raviv tells us how he uncovered the top secret history of facial recognition technology and its inventor, Woody Bledsoe. Then Karthik Kannan explains how a conversation with a group of visually impaired students inspired him to build glasses that can recognize human faces.\n",
+                    "link": "https://podcasters.spotify.com/pod/show/setapp5/episodes/Facial-Recognition-How-a-forgotten-AI-pioneer--the-CIA--and-Google-Glass-are-helping-the-visually-impaired-e2klc4v",
+                    "pubDate": "Tue, 18 Oct 2022 04:05:00 GMT",
+                    "title": "Facial Recognition: How a forgotten AI pioneer, the CIA, and Google Glass are helping the visually impaired"
+                },
+                {
+                    "dc:creator": "Setapp",
+                    "description": "In an age where gas-powered vehicles account for nearly half of greenhouse gas emissions in the transportation sector, electric vehicles are a way to help slow global warming. Over the last decade, the EV industry grew by leaps and bounds and Tesla has arguably done more for the industry than any other company. But the next big thing for EVs\u2026 might be making them smaller. \n\nIn this episode, Wally Rippel remembers gazing out his classroom window at the air pollution hanging over LA one smoggy day and how that led to building what would become GM\u2019s infamous EV1. Then Wim Ouboter recalls how his homemade push scooter started a chain of events that inspired him to build a miniature electric bubble car named the Microlino.\n",
+                    "enclosure": {
+                        "@length": "26985578",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f75f321c/podcast/play/87780957/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-8%2F380107215-44100-2-e64b7ad48aa920a8.mp3"
+                    },
+                    "guid": {
+                        "#text": "487a570a-2fdc-43ba-8cd6-77314ad8d479",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:28:06",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41402111/73cfac67f058dff0.jpg"
+                    },
+                    "itunes:summary": "In an age where gas-powered vehicles account for nearly half of greenhouse gas emissions in the transportation sector, electric vehicles are a way to help slow global warming. Over the last decade, the EV industry grew by leaps and bounds and Tesla has arguably done more for the industry than any other company. But the next big thing for EVs\u2026 might be making them smaller. \n\nIn this episode, Wally Rippel remembers gazing out his classroom window at the air pollution hanging over LA one smoggy day and how that led to building what would become GM\u2019s infamous EV1. Then Wim Ouboter recalls how his homemade push scooter started a chain of events that inspired him to build a miniature electric bubble car named the Microlino.\n",
+                    "link": "https://podcasters.spotify.com/pod/show/setapp5/episodes/Electric-Cars-The-story-of-L-A--smog--a-homemade-scooter-and-the-ultimate-redemption-e2klc4t",
+                    "pubDate": "Tue, 04 Oct 2022 04:05:00 GMT",
+                    "title": "Electric Cars: The story of L.A. smog, a homemade scooter and the ultimate redemption"
+                },
+                {
+                    "dc:creator": "Setapp",
+                    "description": "At our core, humans are storytellers. And books are one of the oldest technologies we use to document and preserve our stories. But the printed book has remained relatively unchanged for hundreds of years so it might just be ready for a makeover.\n\nIn this episode, Greg Newby tells us the story of his friend Michael Hart who, roused by an impressive display of fireworks one 4th of July, invented the eBook. Then Manolis Kelaidis explains how he designed a new print/digital hybrid book that got the attention of Penguin publishing and big Silicon Valley investors.\n",
+                    "enclosure": {
+                        "@length": "25921872",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f75f321c/podcast/play/87780958/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-8%2F380107221-44100-2-90c46947d5bb8893.mp3"
+                    },
+                    "guid": {
+                        "#text": "99f3cf2e-c099-44b7-97af-931906171e8f",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:27:00",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41402111/81aa811a5f0d9f5a.jpg"
+                    },
+                    "itunes:summary": "At our core, humans are storytellers. And books are one of the oldest technologies we use to document and preserve our stories. But the printed book has remained relatively unchanged for hundreds of years so it might just be ready for a makeover.\n\nIn this episode, Greg Newby tells us the story of his friend Michael Hart who, roused by an impressive display of fireworks one 4th of July, invented the eBook. Then Manolis Kelaidis explains how he designed a new print/digital hybrid book that got the attention of Penguin publishing and big Silicon Valley investors.\n",
+                    "link": "https://podcasters.spotify.com/pod/show/setapp5/episodes/eBooks-A-snack-run-and-the-Declaration-of-Independence-changed-the-way-we-read-e2klc4u",
+                    "pubDate": "Tue, 20 Sep 2022 04:05:00 GMT",
+                    "title": "eBooks: A snack run and the Declaration of Independence changed the way we read"
+                },
+                {
+                    "dc:creator": "Setapp",
+                    "description": "In just one hour, the earth catches enough solar energy to power the world for a year. Big solar farms, home installations and increasingly efficient solar cells are slowly, but surely, converting more and more of the sun\u2019s energy into electricity every year. And some of the poorest people, living in the most remote villages have helped usher in this new era of solar power.\n\nIn this episode, you'll hear how Calvin Fuller\u2019s difficult childhood and adolescent interest in explosives catalyzed the invention of the first silicon solar cell. Then Bob Freling explains how witnessing the installation of a solar panel in a remote Chinese village changed his life forever.\n",
+                    "enclosure": {
+                        "@length": "27707706",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f75f321c/podcast/play/87780963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-8%2F380107223-44100-2-812f3cd7bfa30210.mp3"
+                    },
+                    "guid": {
+                        "#text": "c0ae44c5-5b7a-4951-a151-be46bcad9024",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:28:03",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41402111/fe92d4471997da90.jpg"
+                    },
+                    "itunes:summary": "In just one hour, the earth catches enough solar energy to power the world for a year. Big solar farms, home installations and increasingly efficient solar cells are slowly, but surely, converting more and more of the sun\u2019s energy into electricity every year. And some of the poorest people, living in the most remote villages have helped usher in this new era of solar power.\n\nIn this episode, you'll hear how Calvin Fuller\u2019s difficult childhood and adolescent interest in explosives catalyzed the invention of the first silicon solar cell. Then Bob Freling explains how witnessing the installation of a solar panel in a remote Chinese village changed his life forever.\n",
+                    "link": "https://podcasters.spotify.com/pod/show/setapp5/episodes/Solar-Panels-A-flashlight-powered-windmill-and-electrifying-the-worlds-most-remote-villages-e2klc53",
+                    "pubDate": "Tue, 06 Sep 2022 04:05:00 GMT",
+                    "title": "Solar Panels: A flashlight-powered windmill and electrifying the world\u2019s most remote villages"
+                },
+                {
+                    "dc:creator": "Setapp",
+                    "description": "There are over 20-billion connected wireless devices in the world today. So right now, whether you\u2019re sitting on your couch or on your way to work, there are likely dozens of invisible WiFi signals all around you. But what if we didn\u2019t get our data from WiFi routers?\n\nIn this episode, filmmaker Alexandra Dean tells the story of Hollywood starlet Hedy Lamarr and how she invented what became the basis for WiFi and wireless communication. Then Harald Haas explains how he\u2019s reinventing wireless communication by turning light bulbs into wireless transmitters or, as he calls it, LiFi.\n",
+                    "enclosure": {
+                        "@length": "26645531",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f75f321c/podcast/play/87780952/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-8%2F380107214-44100-2-ddd5dc9d7af12d64.mp3"
+                    },
+                    "guid": {
+                        "#text": "eef6f4e5-333a-4863-a01f-de16ad7c6f84",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:27:42",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41402111/04e2730728449f09.jpg"
+                    },
+                    "itunes:summary": "There are over 20-billion connected wireless devices in the world today. So right now, whether you\u2019re sitting on your couch or on your way to work, there are likely dozens of invisible WiFi signals all around you. But what if we didn\u2019t get our data from WiFi routers?\n\nIn this episode, filmmaker Alexandra Dean tells the story of Hollywood starlet Hedy Lamarr and how she invented what became the basis for WiFi and wireless communication. Then Harald Haas explains how he\u2019s reinventing wireless communication by turning light bulbs into wireless transmitters or, as he calls it, LiFi.\n",
+                    "link": "https://podcasters.spotify.com/pod/show/setapp5/episodes/WiFi--Wireless-Comms-A-Hollywood-starlets-quest-to-defeat-Hitler-led-to-lightbulbs-that-transmit-the-internet-e2klc4o",
+                    "pubDate": "Tue, 23 Aug 2022 04:05:00 GMT",
+                    "title": "WiFi & Wireless Comms: A Hollywood starlet\u2019s quest to defeat Hitler led to lightbulbs that transmit the internet"
+                },
+                {
+                    "dc:creator": "Setapp",
+                    "description": "Your cell phone is more than just a phone. It\u2019s your camera, address book, wallet, alarm clock, music player, map, newspaper\u2026 you get the point. And it\u2019s changed how we interact with each other and how we navigate the world. And no cell phone has been quite as revolutionary as the iPhone.\n\nIn this episode, Marty Cooper relives the rivalry between Motorola and Bell for cellular supremacy and the historic call he made using the world\u2019s first cell phone. Then Bas Ordering gives us a behind the scenes look into working with Steve Jobs at Apple and helping design the iPhone.\n",
+                    "enclosure": {
+                        "@length": "23649846",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f75f321c/podcast/play/87780953/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-8%2F380107218-44100-2-8e234eede890df24.mp3"
+                    },
+                    "guid": {
+                        "#text": "83d0f68a-e591-47bf-bb86-840477d60631",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:24:38",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41402111/e518e444d35804e8.jpg"
+                    },
+                    "itunes:summary": "Your cell phone is more than just a phone. It\u2019s your camera, address book, wallet, alarm clock, music player, map, newspaper\u2026 you get the point. And it\u2019s changed how we interact with each other and how we navigate the world. And no cell phone has been quite as revolutionary as the iPhone.\n\nIn this episode, Marty Cooper relives the rivalry between Motorola and Bell for cellular supremacy and the historic call he made using the world\u2019s first cell phone. Then Bas Ordering gives us a behind the scenes look into working with Steve Jobs at Apple and helping design the iPhone.\n",
+                    "link": "https://podcasters.spotify.com/pod/show/setapp5/episodes/Cell-Phones-The-portable-police-radio-and-Apples-secret-project-that-changed-the-way-we-communicate-e2klc4p",
+                    "pubDate": "Tue, 09 Aug 2022 04:05:00 GMT",
+                    "title": "Cell Phones: The portable police radio and Apple\u2019s secret project that changed the way we communicate"
+                },
+                {
+                    "dc:creator": "Setapp",
+                    "description": "If you want a taste of just how profoundly the digital age changed photography, consider this: more pictures will be taken worldwide in the next two minutes, than were taken during the first 150 years of photography.\n\nIn this episode, Steven Sasson remembers how he tinkered with a weird new image sensing technology called CCDs to invent the world's first digital camera. Then we\u2019ll hear from his good friend Eric Fossum who explains how he miniaturized that technology to help NASA explore the solar system.\n",
+                    "enclosure": {
+                        "@length": "24818042",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f75f321c/podcast/play/87780954/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-8%2F380107217-44100-2-e79dd70b7a39a307.mp3"
+                    },
+                    "guid": {
+                        "#text": "8314a8f1-dd0a-4ae7-b8ad-1a44641631d2",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:25:51",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41402111/14f3d280c92e5264.jpg"
+                    },
+                    "itunes:summary": "If you want a taste of just how profoundly the digital age changed photography, consider this: more pictures will be taken worldwide in the next two minutes, than were taken during the first 150 years of photography.\n\nIn this episode, Steven Sasson remembers how he tinkered with a weird new image sensing technology called CCDs to invent the world's first digital camera. Then we\u2019ll hear from his good friend Eric Fossum who explains how he miniaturized that technology to help NASA explore the solar system.\n",
+                    "link": "https://podcasters.spotify.com/pod/show/setapp5/episodes/Digital-Cameras-How-Kodaks-blunder-and-the-camera-on-a-computer-chip-could-help-us-see-further-into-space-e2klc4q",
+                    "pubDate": "Tue, 26 Jul 2022 04:05:00 GMT",
+                    "title": "Digital Cameras: How Kodak\u2019s blunder and the camera on a computer chip could help us see further into space"
+                },
+                {
+                    "dc:creator": "Setapp",
+                    "description": "When you think of virtual reality, your next thought is probably gaming. And while it\u2019s certainly a mainstay in the gaming industry, VR has more applications than you realize.\n\nIn this episode, Tom Zimmerman remembers how his love for air guitar spawned the development of his groundbreaking VR technology that would morph into the Nintendo Power Glove. Then Bob Crockett tells the story of how a college dropout convinced him to start a VR company that could one day transform healthcare.\n",
+                    "enclosure": {
+                        "@length": "24742883",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f75f321c/podcast/play/87780955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-8%2F380107219-44100-2-63f4e05244c03dd4.mp3"
+                    },
+                    "guid": {
+                        "#text": "9ffc8318-ebd8-4c51-9221-2ff1579473f3",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:25:01",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/41402111/f2f6e9c78c0d5bdb.jpg"
+                    },
+                    "itunes:summary": "When you think of virtual reality, your next thought is probably gaming. And while it\u2019s certainly a mainstay in the gaming industry, VR has more applications than you realize.\n\nIn this episode, Tom Zimmerman remembers how his love for air guitar spawned the development of his groundbreaking VR technology that would morph into the Nintendo Power Glove. Then Bob Crockett tells the story of how a college dropout convinced him to start a VR company that could one day transform healthcare.\n",
+                    "link": "https://podcasters.spotify.com/pod/show/setapp5/episodes/VR-Gloves-Where-air-guitar-meets-a-Nintendo-flop--meets-the-future-of-remote-surgery-e2klc4r",
+                    "pubDate": "Tue, 12 Jul 2022 04:05:00 GMT",
+                    "title": "VR Gloves: Where air guitar meets a Nintendo flop, meets the future of remote surgery"
+                },
+                {
+                    "dc:creator": "Setapp",
+                    "description": "Welcome to a new show about the tech underdogs no one realized would shape the future. You'll explore the forgotten origins of today\u2019s most transformative technology and relive the eureka moments of the people who first imagined it. Discover why these inventors struggled to get their ideas off the ground and meet the next generation of innovators building on the work of the tech pioneers who came before them.\n",
+                    "enclosure": {
+                        "@length": "1458770",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/f75f321c/podcast/play/87780925/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-8%2F380107213-44100-1-0a33538f3db75bb4.mp3"
+                    },
+                    "guid": {
+                        "#text": "3631d370-a6dd-4797-bba3-637e7987e768",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:01:56",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41402111/9d9b1905120fe979.jpg"
+                    },
+                    "itunes:summary": "Welcome to a new show about the tech underdogs no one realized would shape the future. You'll explore the forgotten origins of today\u2019s most transformative technology and relive the eureka moments of the people who first imagined it. Discover why these inventors struggled to get their ideas off the ground and meet the next generation of innovators building on the work of the tech pioneers who came before them.\n",
+                    "link": "https://podcasters.spotify.com/pod/show/setapp5/episodes/Introducing-Ahead-of-Its-Time-e2klc3t",
+                    "pubDate": "Mon, 25 Apr 2022 21:45:47 GMT",
+                    "title": "Introducing Ahead of Its Time"
+                }
+            ],
+            "itunes:author": "Setapp",
+            "itunes:category": {
+                "@text": "Technology"
+            },
+            "itunes:explicit": "No",
+            "itunes:image": {
+                "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41402111/9d9b1905120fe979.jpg"
+            },
+            "itunes:owner": {
+                "itunes:email": "content@setapp.com",
+                "itunes:name": "Setapp"
+            },
+            "itunes:summary": "The inventor of facial recognition software was years ahead of the competition but never got credit for his work because it was kept secret by the CIA. The first VR glove was a groundbreaking piece of tech that would eventually become one of the gaming industry's biggest flops. And when Kodak execs were shown an early prototype of the first digital camera, they flat out rejected the idea. \n\nIn each episode of Ahead of Its Time, you'll explore the forgotten origins of today\u2019s most transformative technology, hear from the people who first imagined it, delve into their past and relive their eureka moments. \n\nJoin host, podcast producer and queen of tech storytelling Julia Furlan to discover why these inventors struggled to get their ideas off the ground. Then meet the next generation of innovators who are building on the work of the tech underdogs who came before them.",
+            "itunes:type": "episodic",
+            "language": "en-us",
+            "lastBuildDate": "Tue, 08 Oct 2024 10:39:59 GMT",
+            "link": "https://ahead-of-its-time.simplecast.com",
+            "title": "Ahead of Its Time"
+        }
+    }
+}

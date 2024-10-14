@@ -1,433 +1,464 @@
 {
-    "copyright": "Radio France",
-    "description": "L'\u00e9clairage des pr\u00e9c\u00e9dents historiques sur l'actualit\u00e9 Rendez-vous sur l'application Radio France pour d\u00e9couvrir tous les autres \u00e9pisodes.",
-    "feedUrl": "https://radiofrance-podcast.net/podcast09/35099478-7c72-4f9e-a6de-1b928400e9e5/rss_16278.xml",
-    "generator": "Radio France",
-    "image": {
-        "link": "http://www.radiofrance.fr/chaines/france-culture2/emissions/concordance/index.php?emission_id=8",
-        "title": "Concordance des temps",
-        "url": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/417de754-d0bb-4edc-b19d-096e28c55f71/1400x1400_rf_omm_0000034488_ite.jpg"
-    },
-    "items": [
-        {
-            "author": "podcast@radiofrance.com (Radio France)",
-            "categories": [
-                "Society & Culture"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:googleplay": "http://www.google.com/schemas/play-podcasts/1.0",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:pa": "http://podcastaddict.com",
+        "@xmlns:podcastRF": "http://radiofrance.fr/Lancelot/Podcast#",
+        "channel": {
+            "copyright": "Radio France",
+            "description": "L'\u00e9clairage des pr\u00e9c\u00e9dents historiques sur l'actualit\u00e9 Rendez-vous sur l'application Radio France pour d\u00e9couvrir tous les autres \u00e9pisodes.",
+            "generator": "Radio France",
+            "googleplay:block": "yes",
+            "image": {
+                "link": "http://www.radiofrance.fr/chaines/france-culture2/emissions/concordance/index.php?emission_id=8",
+                "palette": [
+                    "65437F",
+                    "16151D",
+                    "DECFD2",
+                    "2E776D",
+                    "84A9B0",
+                    "7546E7"
+                ],
+                "title": "Concordance des temps",
+                "url": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/417de754-d0bb-4edc-b19d-096e28c55f71/1400x1400_rf_omm_0000034488_ite.jpg"
+            },
+            "item": [
+                {
+                    "author": "podcast@radiofrance.com (Radio France)",
+                    "category": "Society & Culture",
+                    "description": "dur\u00e9e : 00:59:19 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Comment en est-on arriv\u00e9 \u00e0 1789 ? \u00c0 partir des rumeurs, des gazettes et des chansons, mais aussi des troubles et insurrections qui parcourent le royaume et surtout Paris tout au long du XVIIIe si\u00e8cle, Robert Darnton reconstitue l'\"humeur r\u00e9volutionnaire\" qui conduisit \u00e0 la prise de la Bastille.  - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Robert Darnton Historien am\u00e9ricain, sp\u00e9cialiste des Lumi\u00e8res et de l'histoire du livre sous l'ancien r\u00e9gime. Ancien directeur de la Harvard University Library. ",
+                    "enclosure": {
+                        "@length": "56987088",
+                        "@type": "audio/mpeg",
+                        "@url": "https://rf.proxycast.org/02130e65-7069-4e48-8cd0-5c4984a52492/16278-12.10.2024-ITEMA_23890573-2024C6278S0286-21.mp3"
+                    },
+                    "googleplay:block": "yes",
+                    "guid": {
+                        "#text": "5a44e0df-205f-4c0d-b715-c7614172e7d6-NET_MFC_F0DD1101-980C-42A0-B46D-EC68B644354E",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "France Culture",
+                    "itunes:duration": "00:59:19",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg"
+                    },
+                    "itunes:keywords": "Avant,89,,Paris,en,col\u00e8re,,d\u00e9j\u00e0",
+                    "itunes:subtitle": "Avant 89, Paris en col\u00e8re, d\u00e9j\u00e0",
+                    "itunes:summary": "dur\u00e9e : 00:59:19 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Comment en est-on arriv\u00e9 \u00e0 1789 ? \u00c0 partir des rumeurs, des gazettes et des chansons, mais aussi des troubles et insurrections qui parcourent le royaume et surtout Paris tout au long du XVIIIe si\u00e8cle, Robert Darnton reconstitue l'\"humeur r\u00e9volutionnaire\" qui conduisit \u00e0 la prise de la Bastille.  - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Robert Darnton Historien am\u00e9ricain, sp\u00e9cialiste des Lumi\u00e8res et de l'histoire du livre sous l'ancien r\u00e9gime. Ancien directeur de la Harvard University Library. ",
+                    "itunes:title": "Avant 89, Paris en col\u00e8re, d\u00e9j\u00e0",
+                    "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/avant-89-paris-en-colere-deja-1573600",
+                    "podcastRF:businessReference": "6278",
+                    "podcastRF:magnetothequeID": "2024C6278S0286",
+                    "pubDate": "Sat, 12 Oct 2024 10:58:45 +0200",
+                    "title": "Avant 89, Paris en col\u00e8re, d\u00e9j\u00e0"
+                },
+                {
+                    "author": "podcast@radiofrance.com (Radio France)",
+                    "category": "Society & Culture",
+                    "description": "dur\u00e9e : 00:58:15 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Les castors ont connu une \u00e9volution originale, d'une quasi-disparition au d\u00e9but du XXe si\u00e8cle \u00e0 un net regain depuis, notamment en Europe. En cette ann\u00e9e du castor, R\u00e9mi Luglia rappelle la longue histoire de cet animal \u00e0 l'image ambivalente, entre nuisible, ressource et esp\u00e8ce \u00e0 prot\u00e9ger. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : R\u00e9mi Luglia Professeur agr\u00e9g\u00e9, docteur en histoire, chercheur associ\u00e9 aux Universit\u00e9s de Caen-Normandie et de Tours, et pr\u00e9sident de la Soci\u00e9t\u00e9 nationale de protection de la nature (SNPN). ",
+                    "enclosure": {
+                        "@length": "55952231",
+                        "@type": "audio/mpeg",
+                        "@url": "https://rf.proxycast.org/1c2cd7d4-7231-416d-a4ec-bebe0a062844/16278-05.10.2024-ITEMA_23883119-2024C6278E0041-21.mp3"
+                    },
+                    "googleplay:block": "yes",
+                    "guid": {
+                        "#text": "d771264d-8691-411f-ad9d-7407ae13738f-NET_MFC_AC4CDEB4-E7EC-422F-8FC6-519E37119F71",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "France Culture",
+                    "itunes:duration": "00:58:15",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg"
+                    },
+                    "itunes:keywords": "L\u2019homme,et,le,castor,:,un,dialogue,heurt\u00e9,",
+                    "itunes:subtitle": "L\u2019homme et le castor : un dialogue heurt\u00e9 ",
+                    "itunes:summary": "dur\u00e9e : 00:58:15 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Les castors ont connu une \u00e9volution originale, d'une quasi-disparition au d\u00e9but du XXe si\u00e8cle \u00e0 un net regain depuis, notamment en Europe. En cette ann\u00e9e du castor, R\u00e9mi Luglia rappelle la longue histoire de cet animal \u00e0 l'image ambivalente, entre nuisible, ressource et esp\u00e8ce \u00e0 prot\u00e9ger. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : R\u00e9mi Luglia Professeur agr\u00e9g\u00e9, docteur en histoire, chercheur associ\u00e9 aux Universit\u00e9s de Caen-Normandie et de Tours, et pr\u00e9sident de la Soci\u00e9t\u00e9 nationale de protection de la nature (SNPN). ",
+                    "itunes:title": "L\u2019homme et le castor : un dialogue heurt\u00e9 ",
+                    "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/l-homme-et-le-castor-un-dialogue-heurte-5935026",
+                    "podcastRF:businessReference": "6278",
+                    "podcastRF:magnetothequeID": "2024C6278E0041",
+                    "pubDate": "Sat, 05 Oct 2024 10:58:45 +0200",
+                    "title": "L\u2019homme et le castor : un dialogue heurt\u00e9 "
+                },
+                {
+                    "author": "podcast@radiofrance.com (Radio France)",
+                    "category": "Society & Culture",
+                    "description": "dur\u00e9e : 00:58:33 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - D\u00e9sormais prises en compte par la soci\u00e9t\u00e9, les souffrances \u00e0 l'\u00e9cole ont longtemps \u00e9t\u00e9 minimis\u00e9es. Jean-Fran\u00e7ois Chanet les replace dans la longue histoire de l'institution scolaire et souligne leurs effets parfois dramatiques \u00e0 la fois sur les enfants et les adultes. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Jean-Fran\u00e7ois Chanet Historien de l'\u00e9ducation et de la d\u00e9fense, ancien Recteur de l'Acad\u00e9mie de Besan\u00e7on et de la r\u00e9gion acad\u00e9mique Bourgogne Franche-Comt\u00e9, professeur \u00e0 Sciences Po ",
+                    "enclosure": {
+                        "@length": "56249333",
+                        "@type": "audio/mpeg",
+                        "@url": "https://rf.proxycast.org/a021a35f-e3a9-45c9-9b0d-e70dc1f09143/16278-28.09.2024-ITEMA_23875609-2024C6278E0040-21.mp3"
+                    },
+                    "googleplay:block": "yes",
+                    "guid": {
+                        "#text": "fb2f61f6-9f98-47c7-941e-3393de07904b-ITE_00144378_RSCE",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "France Culture",
+                    "itunes:duration": "00:58:33",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg"
+                    },
+                    "itunes:keywords": "\u00c9coliers,en,souffrance,,une,longue,histoire",
+                    "itunes:subtitle": "\u00c9coliers en souffrance, une longue histoire",
+                    "itunes:summary": "dur\u00e9e : 00:58:33 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - D\u00e9sormais prises en compte par la soci\u00e9t\u00e9, les souffrances \u00e0 l'\u00e9cole ont longtemps \u00e9t\u00e9 minimis\u00e9es. Jean-Fran\u00e7ois Chanet les replace dans la longue histoire de l'institution scolaire et souligne leurs effets parfois dramatiques \u00e0 la fois sur les enfants et les adultes. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Jean-Fran\u00e7ois Chanet Historien de l'\u00e9ducation et de la d\u00e9fense, ancien Recteur de l'Acad\u00e9mie de Besan\u00e7on et de la r\u00e9gion acad\u00e9mique Bourgogne Franche-Comt\u00e9, professeur \u00e0 Sciences Po ",
+                    "itunes:title": "\u00c9coliers en souffrance, une longue histoire",
+                    "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/ecoliers-en-souffrance-une-longue-histoire-6192481",
+                    "podcastRF:businessReference": "6278",
+                    "podcastRF:magnetothequeID": "2024C6278E0040",
+                    "pubDate": "Sat, 28 Sep 2024 10:58:45 +0200",
+                    "title": "\u00c9coliers en souffrance, une longue histoire"
+                },
+                {
+                    "author": "podcast@radiofrance.com (Radio France)",
+                    "category": "Society & Culture",
+                    "description": "dur\u00e9e : 00:58:26 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Au cours des si\u00e8cles, le travestissement a \u00e9t\u00e9 le plus souvent condamn\u00e9, parfois tol\u00e9r\u00e9. Sylvie Steinberg revient sur cette pratique dont la justice, la religion et la litt\u00e9rature se sont empar\u00e9s.  - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Sylvie Steinberg Historienne, directrice d'\u00e9tudes \u00e0 l\u2019EHESS, sp\u00e9cialiste de l'histoire de la sexualit\u00e9 et du genre \u00e0 l'\u00e9poque moderne ",
+                    "enclosure": {
+                        "@length": "56139305",
+                        "@type": "audio/mpeg",
+                        "@url": "https://rf.proxycast.org/d9a79be1-35c5-46d6-9424-3774e9fbeab2/16278-21.09.2024-ITEMA_23868071-2024C6278E0039-21.mp3"
+                    },
+                    "googleplay:block": "yes",
+                    "guid": {
+                        "#text": "fcff9138-c0ff-4e7a-881d-3be3f0c5d2d3-ITE_00144153_RSCE",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Jean-No\u00ebl Jeanneney",
+                    "itunes:duration": "00:58:26",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg"
+                    },
+                    "itunes:keywords": "Un,sexe,ou,l\u2019autre,?,Le,travestissement,,jadis,",
+                    "itunes:subtitle": "Un sexe ou l\u2019autre ? Le travestissement, jadis ",
+                    "itunes:summary": "dur\u00e9e : 00:58:26 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Au cours des si\u00e8cles, le travestissement a \u00e9t\u00e9 le plus souvent condamn\u00e9, parfois tol\u00e9r\u00e9. Sylvie Steinberg revient sur cette pratique dont la justice, la religion et la litt\u00e9rature se sont empar\u00e9s.  - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Sylvie Steinberg Historienne, directrice d'\u00e9tudes \u00e0 l\u2019EHESS, sp\u00e9cialiste de l'histoire de la sexualit\u00e9 et du genre \u00e0 l'\u00e9poque moderne ",
+                    "itunes:title": "Un sexe ou l\u2019autre ? Le travestissement, jadis ",
+                    "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/un-sexe-ou-l-autre-le-travestissement-jadis-6678701",
+                    "podcastRF:businessReference": "6278",
+                    "podcastRF:magnetothequeID": "2024C6278E0039",
+                    "pubDate": "Sat, 21 Sep 2024 10:58:45 +0200",
+                    "title": "Un sexe ou l\u2019autre ? Le travestissement, jadis "
+                },
+                {
+                    "author": "podcast@radiofrance.com (Radio France)",
+                    "category": "Society & Culture",
+                    "description": "dur\u00e9e : 00:58:31 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Quels furent les ressorts qui ont fait de Garibaldi un h\u00e9ros toujours c\u00e9l\u00e9br\u00e9 ? Gilles P\u00e9cout revient sur la vie de cet aventurier prodigieux, son r\u00f4le dans l\u2019unit\u00e9 italienne et la raison pour laquelle sa gloire s\u2019est trouv\u00e9e quasiment universelle.  - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Gilles Pecout Historien, pr\u00e9sident de la BNF  ",
+                    "enclosure": {
+                        "@length": "56220041",
+                        "@type": "audio/mpeg",
+                        "@url": "https://rf.proxycast.org/a29b7b76-7dc8-4217-b740-3bd3393fb076/16278-14.09.2024-ITEMA_23860420-2024C6278E0038-21.mp3"
+                    },
+                    "googleplay:block": "yes",
+                    "guid": {
+                        "#text": "bb07ce0d-8527-48ff-a01e-946401b08491-ITE_00144011_RSCE",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Jean-No\u00ebl JEANNENEY",
+                    "itunes:duration": "00:58:31",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg"
+                    },
+                    "itunes:keywords": "Garibaldi,,l\u00e9gende,d'un,si\u00e8cle",
+                    "itunes:subtitle": "Garibaldi, l\u00e9gende d'un si\u00e8cle",
+                    "itunes:summary": "dur\u00e9e : 00:58:31 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Quels furent les ressorts qui ont fait de Garibaldi un h\u00e9ros toujours c\u00e9l\u00e9br\u00e9 ? Gilles P\u00e9cout revient sur la vie de cet aventurier prodigieux, son r\u00f4le dans l\u2019unit\u00e9 italienne et la raison pour laquelle sa gloire s\u2019est trouv\u00e9e quasiment universelle.  - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Gilles Pecout Historien, pr\u00e9sident de la BNF  ",
+                    "itunes:title": "Garibaldi, l\u00e9gende d'un si\u00e8cle",
+                    "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/garibaldi-legende-d-un-siecle-4615454",
+                    "podcastRF:businessReference": "6278",
+                    "podcastRF:magnetothequeID": "2024C6278E0038",
+                    "pubDate": "Sat, 14 Sep 2024 10:58:30 +0200",
+                    "title": "Garibaldi, l\u00e9gende d'un si\u00e8cle"
+                },
+                {
+                    "author": "podcast@radiofrance.com (Radio France)",
+                    "category": "Society & Culture",
+                    "description": "dur\u00e9e : 00:58:08 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Bambi, Mickey, Donald, Blanche-Neige, Cendrillon... L'\u00e9vocation de son nom fait surgir d'innombrables figures mythiques de nos m\u00e9moires. Olivier Cotte revient sur la vie et l'oeuvre de Walter Elias Disney qui \u00e9tait tout \u00e0 la fois dessinateur, cr\u00e9ateur, entrepreneur et b\u00e2tisseur d\u2019empire... - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Olivier Cotte Sc\u00e9nariste de BD ",
+                    "enclosure": {
+                        "@length": "55846025",
+                        "@type": "audio/mpeg",
+                        "@url": "https://rf.proxycast.org/777937bc-3f6c-41eb-b166-8e67ca88cf5b/16278-07.09.2024-ITEMA_23852840-2024C6278E0037-21.mp3"
+                    },
+                    "googleplay:block": "yes",
+                    "guid": {
+                        "#text": "afe80364-d511-404b-a181-0162e523bfaa-ITE_00143884_RSCE",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "France Culture",
+                    "itunes:duration": "00:58:08",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg"
+                    },
+                    "itunes:keywords": "Walt,Disney,,g\u00e9niteur,d'un,monde",
+                    "itunes:subtitle": "Walt Disney, g\u00e9niteur d'un monde",
+                    "itunes:summary": "dur\u00e9e : 00:58:08 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Bambi, Mickey, Donald, Blanche-Neige, Cendrillon... L'\u00e9vocation de son nom fait surgir d'innombrables figures mythiques de nos m\u00e9moires. Olivier Cotte revient sur la vie et l'oeuvre de Walter Elias Disney qui \u00e9tait tout \u00e0 la fois dessinateur, cr\u00e9ateur, entrepreneur et b\u00e2tisseur d\u2019empire... - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Olivier Cotte Sc\u00e9nariste de BD ",
+                    "itunes:title": "Walt Disney, g\u00e9niteur d'un monde",
+                    "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/walt-disney-geniteur-d-un-monde-6100502",
+                    "podcastRF:businessReference": "6278",
+                    "podcastRF:magnetothequeID": "2024C6278E0037",
+                    "pubDate": "Sat, 07 Sep 2024 10:58:45 +0200",
+                    "title": "Walt Disney, g\u00e9niteur d'un monde"
+                },
+                {
+                    "author": "podcast@radiofrance.com (Radio France)",
+                    "category": "Society & Culture",
+                    "description": "dur\u00e9e : 00:58:26 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Depuis sa fondation au VIIIe si\u00e8cle avant JC, Naples est une des plus anciennes m\u00e9tropoles du monde. Laurent Bolard revient sur l'histoire d'une ville dont la situation g\u00e9ographique a fait un enjeu pour toutes les convoitises des pouvoirs. Une ville dont l'originalit\u00e9 ne laisse personne indiff\u00e9rent. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Laurent Bolard Historien de l'art, sp\u00e9cialiste de la peinture italienne du XVe au XVIIIe si\u00e8cle ",
+                    "enclosure": {
+                        "@length": "56138988",
+                        "@type": "audio/mpeg",
+                        "@url": "https://rf.proxycast.org/9ec99b1b-552d-4cb3-917a-3ecbefdb3b6e/16278-31.08.2024-ITEMA_23845101-2024C6278E0036-21.mp3"
+                    },
+                    "googleplay:block": "yes",
+                    "guid": {
+                        "#text": "2042073f-3368-4e2d-9c4c-36af3e3d4a7e-ITE_00143689_RSCE",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "France Culture",
+                    "itunes:duration": "00:58:26",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg"
+                    },
+                    "itunes:keywords": "Naples,,la,coruscante",
+                    "itunes:subtitle": "Naples, la coruscante",
+                    "itunes:summary": "dur\u00e9e : 00:58:26 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Depuis sa fondation au VIIIe si\u00e8cle avant JC, Naples est une des plus anciennes m\u00e9tropoles du monde. Laurent Bolard revient sur l'histoire d'une ville dont la situation g\u00e9ographique a fait un enjeu pour toutes les convoitises des pouvoirs. Une ville dont l'originalit\u00e9 ne laisse personne indiff\u00e9rent. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Laurent Bolard Historien de l'art, sp\u00e9cialiste de la peinture italienne du XVe au XVIIIe si\u00e8cle ",
+                    "itunes:title": "Naples, la coruscante",
+                    "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/naples-la-coruscante-3293587",
+                    "podcastRF:businessReference": "6278",
+                    "podcastRF:magnetothequeID": "2024C6278E0036",
+                    "pubDate": "Sat, 31 Aug 2024 10:58:26 +0200",
+                    "title": "Naples, la coruscante"
+                },
+                {
+                    "author": "podcast@radiofrance.com (Radio France)",
+                    "category": "Society & Culture",
+                    "description": "dur\u00e9e : 00:58:19 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Ma\u00eetre du vaudeville, Georges Feydeau a encha\u00een\u00e9 les pi\u00e8ces \u00e0 succ\u00e8s, des ann\u00e9es 1880 aux ann\u00e9es 1910. Portes qui claquent et adult\u00e8res bourgeois s'ins\u00e8rent dans une machinerie dramaturgique complexe et sont le miroir de la Belle \u00c9poque, comme le rappelle Violaine Heyraud. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Violaine Heyraud Ma\u00eetre de conf\u00e9rences \u00e0 l'Universit\u00e9 Sorbonne Nouvelle - Paris 3. ",
+                    "enclosure": {
+                        "@length": "56024366",
+                        "@type": "audio/mpeg",
+                        "@url": "https://rf.proxycast.org/a5dc967b-0f2f-490a-9353-49182fbbeb42/16278-24.08.2024-ITEMA_23837131-2024C6278E0035-21.mp3"
+                    },
+                    "googleplay:block": "yes",
+                    "guid": {
+                        "#text": "65d591a5-d3b2-4192-a9e6-4d92e3b1cb90-ITE_00142983_RSCE",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "France Culture",
+                    "itunes:duration": "00:58:19",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg"
+                    },
+                    "itunes:keywords": "Feydeau,,le,rire,Belle,\u00c9poque",
+                    "itunes:subtitle": "Feydeau, le rire Belle \u00c9poque",
+                    "itunes:summary": "dur\u00e9e : 00:58:19 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Ma\u00eetre du vaudeville, Georges Feydeau a encha\u00een\u00e9 les pi\u00e8ces \u00e0 succ\u00e8s, des ann\u00e9es 1880 aux ann\u00e9es 1910. Portes qui claquent et adult\u00e8res bourgeois s'ins\u00e8rent dans une machinerie dramaturgique complexe et sont le miroir de la Belle \u00c9poque, comme le rappelle Violaine Heyraud. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Violaine Heyraud Ma\u00eetre de conf\u00e9rences \u00e0 l'Universit\u00e9 Sorbonne Nouvelle - Paris 3. ",
+                    "itunes:title": "Feydeau, le rire Belle \u00c9poque",
+                    "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/feydeau-le-rire-belle-epoque-6503973",
+                    "podcastRF:businessReference": "6278",
+                    "podcastRF:magnetothequeID": "2024C6278E0035",
+                    "pubDate": "Sat, 24 Aug 2024 10:58:18 +0200",
+                    "title": "Feydeau, le rire Belle \u00c9poque"
+                },
+                {
+                    "author": "podcast@radiofrance.com (Radio France)",
+                    "category": "Society & Culture",
+                    "description": "dur\u00e9e : 00:58:31 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Du 12e au 14e si\u00e8cle, l'Empire mongol a domin\u00e9 de larges pans de l'Europe et de l'Asie, gr\u00e2ce \u00e0 ses structures de pouvoir originales. Marie Favereau restitue l'importance de cet \u00c9tat nomade, \u00e0 la remarquable puissance commerciale et diplomatique, jalon manquant entre Moyen \u00c2ge et \u00e9poque moderne. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Marie Favereau Ma\u00eetresse de conf\u00e9rences en histoire m\u00e9di\u00e9vale \u00e0 l\u2019Universit\u00e9 Paris Nanterre, sp\u00e9cialiste de l\u2019empire mongol ",
+                    "enclosure": {
+                        "@length": "56218717",
+                        "@type": "audio/mpeg",
+                        "@url": "https://rf.proxycast.org/16f9ad6b-8b90-4ba0-ac2f-ab631ba6bb21/16278-17.08.2024-ITEMA_23828949-2024C6278E0027-21.mp3"
+                    },
+                    "googleplay:block": "yes",
+                    "guid": {
+                        "#text": "639bd423-f67b-41c4-b19a-870ceb8cb62f-ITE_00142982_RSCE",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "France Culture",
+                    "itunes:duration": "00:58:31",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg"
+                    },
+                    "itunes:keywords": "Les,Mongols,,un,empire,sans,pareil\u00a0?",
+                    "itunes:subtitle": "Les Mongols, un empire sans pareil\u00a0?",
+                    "itunes:summary": "dur\u00e9e : 00:58:31 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Du 12e au 14e si\u00e8cle, l'Empire mongol a domin\u00e9 de larges pans de l'Europe et de l'Asie, gr\u00e2ce \u00e0 ses structures de pouvoir originales. Marie Favereau restitue l'importance de cet \u00c9tat nomade, \u00e0 la remarquable puissance commerciale et diplomatique, jalon manquant entre Moyen \u00c2ge et \u00e9poque moderne. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Marie Favereau Ma\u00eetresse de conf\u00e9rences en histoire m\u00e9di\u00e9vale \u00e0 l\u2019Universit\u00e9 Paris Nanterre, sp\u00e9cialiste de l\u2019empire mongol ",
+                    "itunes:title": "Les Mongols, un empire sans pareil\u00a0?",
+                    "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/les-mongols-un-empire-sans-pareil-6872114",
+                    "podcastRF:businessReference": "6278",
+                    "podcastRF:magnetothequeID": "2024C6278E0027",
+                    "pubDate": "Sat, 17 Aug 2024 10:58:30 +0200",
+                    "title": "Les Mongols, un empire sans pareil\u00a0?"
+                },
+                {
+                    "author": "podcast@radiofrance.com (Radio France)",
+                    "category": "Society & Culture",
+                    "description": "dur\u00e9e : 00:58:26 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - La chanteuse Barbara occupe une place \u00e0 part dans le paysage musical fran\u00e7ais. Si elle ne s'est jamais d\u00e9finie comme une chanteuse engag\u00e9e, ses textes humanistes et son rapport au public se doublent, \u00e0 partir des ann\u00e9es 1980, de prises de position politiques et sociales, \u00e9voqu\u00e9es par S\u00e9bastien Bost. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : S\u00e9bastien Bost  professeur agr\u00e9g\u00e9 de lettres, charg\u00e9 de cours en arts du spectacle \u00e0 l'universit\u00e9 de Tours ",
+                    "enclosure": {
+                        "@length": "56140048",
+                        "@type": "audio/mpeg",
+                        "@url": "https://rf.proxycast.org/879e1854-e117-486a-add8-c1fc882c3ee8/16278-10.08.2024-ITEMA_23822929-2024C6278E0034-21.mp3"
+                    },
+                    "googleplay:block": "yes",
+                    "guid": {
+                        "#text": "48d48e53-2bad-45c7-8761-ec971daa16f0-ITE_00142975_RSCE",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "France Culture",
+                    "itunes:duration": "00:58:26",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg"
+                    },
+                    "itunes:keywords": "Barbara,citoyenne",
+                    "itunes:subtitle": "Barbara citoyenne",
+                    "itunes:summary": "dur\u00e9e : 00:58:26 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - La chanteuse Barbara occupe une place \u00e0 part dans le paysage musical fran\u00e7ais. Si elle ne s'est jamais d\u00e9finie comme une chanteuse engag\u00e9e, ses textes humanistes et son rapport au public se doublent, \u00e0 partir des ann\u00e9es 1980, de prises de position politiques et sociales, \u00e9voqu\u00e9es par S\u00e9bastien Bost. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : S\u00e9bastien Bost  professeur agr\u00e9g\u00e9 de lettres, charg\u00e9 de cours en arts du spectacle \u00e0 l'universit\u00e9 de Tours ",
+                    "itunes:title": "Barbara citoyenne",
+                    "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/barbara-dans-la-cite-2913409",
+                    "podcastRF:businessReference": "6278",
+                    "podcastRF:magnetothequeID": "2024C6278E0034",
+                    "pubDate": "Sat, 10 Aug 2024 10:58:26 +0200",
+                    "title": "Barbara citoyenne"
+                },
+                {
+                    "author": "podcast@radiofrance.com (Radio France)",
+                    "category": "Society & Culture",
+                    "description": "dur\u00e9e : 00:58:08 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Inlassable arpenteur de J\u00e9rusalem, l'historien Vincent Lemire raconte avec tendresse et lucidit\u00e9 les quartiers de la ville trois fois sainte dont il conna\u00eet intimement le pass\u00e9.  - r\u00e9alisation : Patrick Molinier - invit\u00e9s : Vincent Lemire Historien fran\u00e7ais ",
+                    "enclosure": {
+                        "@length": "55840464",
+                        "@type": "audio/mpeg",
+                        "@url": "https://rf.proxycast.org/f314bdbe-1e36-4fa1-9080-182df9d3b1ef/16278-03.08.2024-ITEMA_23818443-2024C6278E0026-21.mp3"
+                    },
+                    "googleplay:block": "yes",
+                    "guid": {
+                        "#text": "ae55062f-84d6-4d69-8ef7-f8fe4c528865-ITE_00142693_RSCE",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "France Culture",
+                    "itunes:duration": "00:58:08",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/417de754-d0bb-4edc-b19d-096e28c55f71/1400x1400_rf_omm_0000034488_ite.jpg"
+                    },
+                    "itunes:keywords": "J\u00e9rusalem,au,d\u00e9but,du,20e,si\u00e8cle",
+                    "itunes:subtitle": "J\u00e9rusalem au d\u00e9but du 20e si\u00e8cle",
+                    "itunes:summary": "dur\u00e9e : 00:58:08 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Inlassable arpenteur de J\u00e9rusalem, l'historien Vincent Lemire raconte avec tendresse et lucidit\u00e9 les quartiers de la ville trois fois sainte dont il conna\u00eet intimement le pass\u00e9.  - r\u00e9alisation : Patrick Molinier - invit\u00e9s : Vincent Lemire Historien fran\u00e7ais ",
+                    "itunes:title": "J\u00e9rusalem au d\u00e9but du 20e si\u00e8cle",
+                    "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/il-y-a-cent-ans-jerusalem-7474699",
+                    "podcastRF:businessReference": "6278",
+                    "podcastRF:magnetothequeID": "2024C6278E0026",
+                    "pubDate": "Sat, 03 Aug 2024 10:58:08 +0200",
+                    "title": "J\u00e9rusalem au d\u00e9but du 20e si\u00e8cle"
+                },
+                {
+                    "author": "podcast@radiofrance.com (Radio France)",
+                    "category": "Society & Culture",
+                    "description": "dur\u00e9e : 00:58:19 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Compagne de Victor Hugo pendant pr\u00e8s d'un demi-si\u00e8cle, Juliette Drouet a longtemps \u00e9t\u00e9 consid\u00e9r\u00e9e uniquement dans l'ombre du grand homme. Florence Naugrette dessine le portrait d'une femme sur laquelle les regards ont \u00e9volu\u00e9, \u00e0 l'image des sensibilit\u00e9s, du XIXe si\u00e8cle \u00e0 nos jours.  - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Florence Naugrette Professeur de litt\u00e9rature fran\u00e7aise \u00e0 l'Universit\u00e9 Paris-Sorbonne ",
+                    "enclosure": {
+                        "@length": "56020193",
+                        "@type": "audio/mpeg",
+                        "@url": "https://rf.proxycast.org/dcd1b108-1ca6-4317-b093-2205cfc004fb/16278-27.07.2024-ITEMA_23813528-2024C6278E0033-21.mp3"
+                    },
+                    "googleplay:block": "yes",
+                    "guid": {
+                        "#text": "52ed536e-d486-492d-b2d5-d8b0bfbdd785-ITE_00142641_RSCE",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "France Culture",
+                    "itunes:duration": "00:58:19",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg"
+                    },
+                    "itunes:keywords": "Juliette,Drouet,,la,l\u00e9gende,d\u2019un,si\u00e8cle",
+                    "itunes:subtitle": "Juliette Drouet, la l\u00e9gende d\u2019un si\u00e8cle",
+                    "itunes:summary": "dur\u00e9e : 00:58:19 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Compagne de Victor Hugo pendant pr\u00e8s d'un demi-si\u00e8cle, Juliette Drouet a longtemps \u00e9t\u00e9 consid\u00e9r\u00e9e uniquement dans l'ombre du grand homme. Florence Naugrette dessine le portrait d'une femme sur laquelle les regards ont \u00e9volu\u00e9, \u00e0 l'image des sensibilit\u00e9s, du XIXe si\u00e8cle \u00e0 nos jours.  - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Florence Naugrette Professeur de litt\u00e9rature fran\u00e7aise \u00e0 l'Universit\u00e9 Paris-Sorbonne ",
+                    "itunes:title": "Juliette Drouet, la l\u00e9gende d\u2019un si\u00e8cle",
+                    "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/juliette-drouet-la-legende-d-un-siecle-9097093",
+                    "podcastRF:businessReference": "6278",
+                    "podcastRF:magnetothequeID": "2024C6278E0033",
+                    "pubDate": "Sat, 27 Jul 2024 10:58:19 +0200",
+                    "title": "Juliette Drouet, la l\u00e9gende d\u2019un si\u00e8cle"
+                },
+                {
+                    "author": "podcast@radiofrance.com (Radio France)",
+                    "category": "Society & Culture",
+                    "description": "dur\u00e9e : 00:58:17 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - En compagnie de Georges Vigarello, sp\u00e9cialiste de l'histoire du sport, Jean-No\u00ebl Jeanneney revient sur la mani\u00e8re dont le spectacle qui n'\u00e9tait pourtant pas au coeur des premiers sports s'est impos\u00e9, pour finalement devenir aujourd'hui un des \" shows \" majeurs de notre soci\u00e9t\u00e9. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Georges Vigarello Historien, philosophe, directeur d'\u00e9tudes \u00e0 l'\u00c9cole des hautes \u00e9tudes en sciences sociales ",
+                    "enclosure": {
+                        "@length": "55981879",
+                        "@type": "audio/mpeg",
+                        "@url": "https://rf.proxycast.org/0d3ed464-1db1-402d-81ec-6fe05cd395a9/16278-20.07.2024-ITEMA_23806850-2024C6278E0025-21.mp3"
+                    },
+                    "googleplay:block": "yes",
+                    "guid": {
+                        "#text": "2f33679b-03f6-4bd5-a1ff-f2987510e300-ITE_00142613_RSCE",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "France Culture",
+                    "itunes:duration": "00:58:17",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg"
+                    },
+                    "itunes:keywords": "Stades\u00a0:,le,spectacle,sportif,des,tribunes,aux,\u00e9crans",
+                    "itunes:subtitle": "Stades\u00a0: le spectacle sportif des tribunes aux \u00e9crans",
+                    "itunes:summary": "dur\u00e9e : 00:58:17 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - En compagnie de Georges Vigarello, sp\u00e9cialiste de l'histoire du sport, Jean-No\u00ebl Jeanneney revient sur la mani\u00e8re dont le spectacle qui n'\u00e9tait pourtant pas au coeur des premiers sports s'est impos\u00e9, pour finalement devenir aujourd'hui un des \" shows \" majeurs de notre soci\u00e9t\u00e9. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Georges Vigarello Historien, philosophe, directeur d'\u00e9tudes \u00e0 l'\u00c9cole des hautes \u00e9tudes en sciences sociales ",
+                    "itunes:title": "Stades\u00a0: le spectacle sportif des tribunes aux \u00e9crans",
+                    "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/stades-le-spectacle-sportif-des-tribunes-aux-ecrans-1881772",
+                    "podcastRF:businessReference": "6278",
+                    "podcastRF:magnetothequeID": "2024C6278E0025",
+                    "pubDate": "Sat, 20 Jul 2024 10:58:16 +0200",
+                    "title": "Stades\u00a0: le spectacle sportif des tribunes aux \u00e9crans"
+                },
+                {
+                    "author": "podcast@radiofrance.com (Radio France)",
+                    "description": "Retrouvez tous les \u00e9pisodes sur l\u2019appli Radio France",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://media.radiofrance-podcast.net/podcast09/autopromo_replay_franceculture.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.radiofrance-podcast.net/podcast09/autopromo_replay_franceculture.mp3",
+                        "@isPermaLink": "true"
+                    },
+                    "itunes:author": "Radio France",
+                    "itunes:duration": "00:00:12",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://www.radiofrance.fr/s3/cruiser-production/2022/01/04f722eb-ed54-439f-9be6-532ecad002c9/1400x1400_radio-france-avatar.jpg"
+                    },
+                    "itunes:subtitle": "Retrouvez tous les \u00e9pisodes sur l\u2019appli Radio France",
+                    "itunes:summary": "Retrouvez tous les \u00e9pisodes sur l\u2019appli Radio France",
+                    "itunes:title": "Retrouvez tous les \u00e9pisodes sur l\u2019appli Radio France",
+                    "link": "https://www.radiofrance.fr/application-mobile-radio-france",
+                    "pubDate": "Wed, 30 Nov 2005 23:59:59 +0100",
+                    "title": "Retrouvez tous les \u00e9pisodes sur l\u2019appli Radio France"
+                }
             ],
-            "content": "dur\u00e9e : 00:58:33 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - D\u00e9sormais prises en compte par la soci\u00e9t\u00e9, les souffrances \u00e0 l'\u00e9cole ont longtemps \u00e9t\u00e9 minimis\u00e9es. Jean-Fran\u00e7ois Chanet les replace dans la longue histoire de l'institution scolaire et souligne leurs effets parfois dramatiques \u00e0 la fois sur les enfants et les adultes. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Jean-Fran\u00e7ois Chanet Historien de l'\u00e9ducation et de la d\u00e9fense, ancien Recteur de l'Acad\u00e9mie de Besan\u00e7on et de la r\u00e9gion acad\u00e9mique Bourgogne Franche-Comt\u00e9, professeur \u00e0 Sciences Po ",
-            "contentSnippet": "dur\u00e9e : 00:58:33 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - D\u00e9sormais prises en compte par la soci\u00e9t\u00e9, les souffrances \u00e0 l'\u00e9cole ont longtemps \u00e9t\u00e9 minimis\u00e9es. Jean-Fran\u00e7ois Chanet les replace dans la longue histoire de l'institution scolaire et souligne leurs effets parfois dramatiques \u00e0 la fois sur les enfants et les adultes. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Jean-Fran\u00e7ois Chanet Historien de l'\u00e9ducation et de la d\u00e9fense, ancien Recteur de l'Acad\u00e9mie de Besan\u00e7on et de la r\u00e9gion acad\u00e9mique Bourgogne Franche-Comt\u00e9, professeur \u00e0 Sciences Po",
-            "creator": "podcast@radiofrance.com (Radio France)",
-            "enclosure": {
-                "length": "56249333",
-                "type": "audio/mpeg",
-                "url": "https://rf.proxycast.org/a021a35f-e3a9-45c9-9b0d-e70dc1f09143/16278-28.09.2024-ITEMA_23875609-2024C6278E0040-21.mp3"
+            "itunes:author": "France Culture",
+            "itunes:category": {
+                "@text": "Society & Culture"
             },
-            "guid": "fb2f61f6-9f98-47c7-941e-3393de07904b-ITE_00144378_RSCE",
-            "isoDate": "2024-09-28T08:58:45.000Z",
-            "itunes": {
-                "author": "France Culture",
-                "duration": "00:58:33",
-                "explicit": "no",
-                "image": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg",
-                "keywords": "\u00c9coliers,en,souffrance,,une,longue,histoire",
-                "subtitle": "\u00c9coliers en souffrance, une longue histoire",
-                "summary": "dur\u00e9e : 00:58:33 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - D\u00e9sormais prises en compte par la soci\u00e9t\u00e9, les souffrances \u00e0 l'\u00e9cole ont longtemps \u00e9t\u00e9 minimis\u00e9es. Jean-Fran\u00e7ois Chanet les replace dans la longue histoire de l'institution scolaire et souligne leurs effets parfois dramatiques \u00e0 la fois sur les enfants et les adultes. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Jean-Fran\u00e7ois Chanet Historien de l'\u00e9ducation et de la d\u00e9fense, ancien Recteur de l'Acad\u00e9mie de Besan\u00e7on et de la r\u00e9gion acad\u00e9mique Bourgogne Franche-Comt\u00e9, professeur \u00e0 Sciences Po "
+            "itunes:explicit": "no",
+            "itunes:image": {
+                "@href": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/417de754-d0bb-4edc-b19d-096e28c55f71/1400x1400_rf_omm_0000034488_ite.jpg"
             },
-            "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/ecoliers-en-souffrance-une-longue-histoire-6192481",
-            "pubDate": "Sat, 28 Sep 2024 10:58:45 +0200",
-            "title": "\u00c9coliers en souffrance, une longue histoire"
-        },
-        {
-            "author": "podcast@radiofrance.com (Radio France)",
-            "categories": [
-                "Society & Culture"
-            ],
-            "content": "dur\u00e9e : 00:58:26 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Au cours des si\u00e8cles, le travestissement a \u00e9t\u00e9 le plus souvent condamn\u00e9, parfois tol\u00e9r\u00e9. Sylvie Steinberg revient sur cette pratique dont la justice, la religion et la litt\u00e9rature se sont empar\u00e9s.  - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Sylvie Steinberg Historienne, directrice d'\u00e9tudes \u00e0 l\u2019EHESS, sp\u00e9cialiste de l'histoire de la sexualit\u00e9 et du genre \u00e0 l'\u00e9poque moderne ",
-            "contentSnippet": "dur\u00e9e : 00:58:26 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Au cours des si\u00e8cles, le travestissement a \u00e9t\u00e9 le plus souvent condamn\u00e9, parfois tol\u00e9r\u00e9. Sylvie Steinberg revient sur cette pratique dont la justice, la religion et la litt\u00e9rature se sont empar\u00e9s.  - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Sylvie Steinberg Historienne, directrice d'\u00e9tudes \u00e0 l\u2019EHESS, sp\u00e9cialiste de l'histoire de la sexualit\u00e9 et du genre \u00e0 l'\u00e9poque moderne",
-            "creator": "podcast@radiofrance.com (Radio France)",
-            "enclosure": {
-                "length": "56139305",
-                "type": "audio/mpeg",
-                "url": "https://rf.proxycast.org/d9a79be1-35c5-46d6-9424-3774e9fbeab2/16278-21.09.2024-ITEMA_23868071-2024C6278E0039-21.mp3"
+            "itunes:owner": {
+                "itunes:email": "podcast@radiofrance.com",
+                "itunes:name": "Radio France"
             },
-            "guid": "fcff9138-c0ff-4e7a-881d-3be3f0c5d2d3-ITE_00144153_RSCE",
-            "isoDate": "2024-09-21T08:58:45.000Z",
-            "itunes": {
-                "author": "Jean-No\u00ebl Jeanneney",
-                "duration": "00:58:26",
-                "explicit": "no",
-                "image": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg",
-                "keywords": "Un,sexe,ou,l\u2019autre,?,Le,travestissement,,jadis,",
-                "subtitle": "Un sexe ou l\u2019autre ? Le travestissement, jadis ",
-                "summary": "dur\u00e9e : 00:58:26 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Au cours des si\u00e8cles, le travestissement a \u00e9t\u00e9 le plus souvent condamn\u00e9, parfois tol\u00e9r\u00e9. Sylvie Steinberg revient sur cette pratique dont la justice, la religion et la litt\u00e9rature se sont empar\u00e9s.  - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Sylvie Steinberg Historienne, directrice d'\u00e9tudes \u00e0 l\u2019EHESS, sp\u00e9cialiste de l'histoire de la sexualit\u00e9 et du genre \u00e0 l'\u00e9poque moderne "
-            },
-            "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/un-sexe-ou-l-autre-le-travestissement-jadis-6678701",
-            "pubDate": "Sat, 21 Sep 2024 10:58:45 +0200",
-            "title": "Un sexe ou l\u2019autre ? Le travestissement, jadis "
-        },
-        {
-            "author": "podcast@radiofrance.com (Radio France)",
-            "categories": [
-                "Society & Culture"
-            ],
-            "content": "dur\u00e9e : 00:58:31 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Quels furent les ressorts qui ont fait de Garibaldi un h\u00e9ros toujours c\u00e9l\u00e9br\u00e9 ? Gilles P\u00e9cout revient sur la vie de cet aventurier prodigieux, son r\u00f4le dans l\u2019unit\u00e9 italienne et la raison pour laquelle sa gloire s\u2019est trouv\u00e9e quasiment universelle.  - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Gilles Pecout Historien, pr\u00e9sident de la BNF  ",
-            "contentSnippet": "dur\u00e9e : 00:58:31 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Quels furent les ressorts qui ont fait de Garibaldi un h\u00e9ros toujours c\u00e9l\u00e9br\u00e9 ? Gilles P\u00e9cout revient sur la vie de cet aventurier prodigieux, son r\u00f4le dans l\u2019unit\u00e9 italienne et la raison pour laquelle sa gloire s\u2019est trouv\u00e9e quasiment universelle.  - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Gilles Pecout Historien, pr\u00e9sident de la BNF",
-            "creator": "podcast@radiofrance.com (Radio France)",
-            "enclosure": {
-                "length": "56220041",
-                "type": "audio/mpeg",
-                "url": "https://rf.proxycast.org/a29b7b76-7dc8-4217-b740-3bd3393fb076/16278-14.09.2024-ITEMA_23860420-2024C6278E0038-21.mp3"
-            },
-            "guid": "bb07ce0d-8527-48ff-a01e-946401b08491-ITE_00144011_RSCE",
-            "isoDate": "2024-09-14T08:58:30.000Z",
-            "itunes": {
-                "author": "Jean-No\u00ebl JEANNENEY",
-                "duration": "00:58:31",
-                "explicit": "no",
-                "image": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg",
-                "keywords": "Garibaldi,,l\u00e9gende,d'un,si\u00e8cle",
-                "subtitle": "Garibaldi, l\u00e9gende d'un si\u00e8cle",
-                "summary": "dur\u00e9e : 00:58:31 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Quels furent les ressorts qui ont fait de Garibaldi un h\u00e9ros toujours c\u00e9l\u00e9br\u00e9 ? Gilles P\u00e9cout revient sur la vie de cet aventurier prodigieux, son r\u00f4le dans l\u2019unit\u00e9 italienne et la raison pour laquelle sa gloire s\u2019est trouv\u00e9e quasiment universelle.  - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Gilles Pecout Historien, pr\u00e9sident de la BNF  "
-            },
-            "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/garibaldi-legende-d-un-siecle-4615454",
-            "pubDate": "Sat, 14 Sep 2024 10:58:30 +0200",
-            "title": "Garibaldi, l\u00e9gende d'un si\u00e8cle"
-        },
-        {
-            "author": "podcast@radiofrance.com (Radio France)",
-            "categories": [
-                "Society & Culture"
-            ],
-            "content": "dur\u00e9e : 00:58:08 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Bambi, Mickey, Donald, Blanche-Neige, Cendrillon... L'\u00e9vocation de son nom fait surgir d'innombrables figures mythiques de nos m\u00e9moires. Olivier Cotte revient sur la vie et l'oeuvre de Walter Elias Disney qui \u00e9tait tout \u00e0 la fois dessinateur, cr\u00e9ateur, entrepreneur et b\u00e2tisseur d\u2019empire... - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Olivier Cotte Sc\u00e9nariste de BD ",
-            "contentSnippet": "dur\u00e9e : 00:58:08 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Bambi, Mickey, Donald, Blanche-Neige, Cendrillon... L'\u00e9vocation de son nom fait surgir d'innombrables figures mythiques de nos m\u00e9moires. Olivier Cotte revient sur la vie et l'oeuvre de Walter Elias Disney qui \u00e9tait tout \u00e0 la fois dessinateur, cr\u00e9ateur, entrepreneur et b\u00e2tisseur d\u2019empire... - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Olivier Cotte Sc\u00e9nariste de BD",
-            "creator": "podcast@radiofrance.com (Radio France)",
-            "enclosure": {
-                "length": "55846025",
-                "type": "audio/mpeg",
-                "url": "https://rf.proxycast.org/777937bc-3f6c-41eb-b166-8e67ca88cf5b/16278-07.09.2024-ITEMA_23852840-2024C6278E0037-21.mp3"
-            },
-            "guid": "afe80364-d511-404b-a181-0162e523bfaa-ITE_00143884_RSCE",
-            "isoDate": "2024-09-07T08:58:45.000Z",
-            "itunes": {
-                "author": "France Culture",
-                "duration": "00:58:08",
-                "explicit": "no",
-                "image": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg",
-                "keywords": "Walt,Disney,,g\u00e9niteur,d'un,monde",
-                "subtitle": "Walt Disney, g\u00e9niteur d'un monde",
-                "summary": "dur\u00e9e : 00:58:08 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Bambi, Mickey, Donald, Blanche-Neige, Cendrillon... L'\u00e9vocation de son nom fait surgir d'innombrables figures mythiques de nos m\u00e9moires. Olivier Cotte revient sur la vie et l'oeuvre de Walter Elias Disney qui \u00e9tait tout \u00e0 la fois dessinateur, cr\u00e9ateur, entrepreneur et b\u00e2tisseur d\u2019empire... - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Olivier Cotte Sc\u00e9nariste de BD "
-            },
-            "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/walt-disney-geniteur-d-un-monde-6100502",
-            "pubDate": "Sat, 07 Sep 2024 10:58:45 +0200",
-            "title": "Walt Disney, g\u00e9niteur d'un monde"
-        },
-        {
-            "author": "podcast@radiofrance.com (Radio France)",
-            "categories": [
-                "Society & Culture"
-            ],
-            "content": "dur\u00e9e : 00:58:26 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Depuis sa fondation au VIIIe si\u00e8cle avant JC, Naples est une des plus anciennes m\u00e9tropoles du monde. Laurent Bolard revient sur l'histoire d'une ville dont la situation g\u00e9ographique a fait un enjeu pour toutes les convoitises des pouvoirs. Une ville dont l'originalit\u00e9 ne laisse personne indiff\u00e9rent. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Laurent Bolard Historien de l'art, sp\u00e9cialiste de la peinture italienne du XVe au XVIIIe si\u00e8cle ",
-            "contentSnippet": "dur\u00e9e : 00:58:26 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Depuis sa fondation au VIIIe si\u00e8cle avant JC, Naples est une des plus anciennes m\u00e9tropoles du monde. Laurent Bolard revient sur l'histoire d'une ville dont la situation g\u00e9ographique a fait un enjeu pour toutes les convoitises des pouvoirs. Une ville dont l'originalit\u00e9 ne laisse personne indiff\u00e9rent. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Laurent Bolard Historien de l'art, sp\u00e9cialiste de la peinture italienne du XVe au XVIIIe si\u00e8cle",
-            "creator": "podcast@radiofrance.com (Radio France)",
-            "enclosure": {
-                "length": "56138988",
-                "type": "audio/mpeg",
-                "url": "https://rf.proxycast.org/9ec99b1b-552d-4cb3-917a-3ecbefdb3b6e/16278-31.08.2024-ITEMA_23845101-2024C6278E0036-21.mp3"
-            },
-            "guid": "2042073f-3368-4e2d-9c4c-36af3e3d4a7e-ITE_00143689_RSCE",
-            "isoDate": "2024-08-31T08:58:26.000Z",
-            "itunes": {
-                "author": "France Culture",
-                "duration": "00:58:26",
-                "explicit": "no",
-                "image": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg",
-                "keywords": "Naples,,la,coruscante",
-                "subtitle": "Naples, la coruscante",
-                "summary": "dur\u00e9e : 00:58:26 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Depuis sa fondation au VIIIe si\u00e8cle avant JC, Naples est une des plus anciennes m\u00e9tropoles du monde. Laurent Bolard revient sur l'histoire d'une ville dont la situation g\u00e9ographique a fait un enjeu pour toutes les convoitises des pouvoirs. Une ville dont l'originalit\u00e9 ne laisse personne indiff\u00e9rent. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Laurent Bolard Historien de l'art, sp\u00e9cialiste de la peinture italienne du XVe au XVIIIe si\u00e8cle "
-            },
-            "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/naples-la-coruscante-3293587",
-            "pubDate": "Sat, 31 Aug 2024 10:58:26 +0200",
-            "title": "Naples, la coruscante"
-        },
-        {
-            "author": "podcast@radiofrance.com (Radio France)",
-            "categories": [
-                "Society & Culture"
-            ],
-            "content": "dur\u00e9e : 00:58:19 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Ma\u00eetre du vaudeville, Georges Feydeau a encha\u00een\u00e9 les pi\u00e8ces \u00e0 succ\u00e8s, des ann\u00e9es 1880 aux ann\u00e9es 1910. Portes qui claquent et adult\u00e8res bourgeois s'ins\u00e8rent dans une machinerie dramaturgique complexe et sont le miroir de la Belle \u00c9poque, comme le rappelle Violaine Heyraud. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Violaine Heyraud Ma\u00eetre de conf\u00e9rences \u00e0 l'Universit\u00e9 Sorbonne Nouvelle - Paris 3. ",
-            "contentSnippet": "dur\u00e9e : 00:58:19 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Ma\u00eetre du vaudeville, Georges Feydeau a encha\u00een\u00e9 les pi\u00e8ces \u00e0 succ\u00e8s, des ann\u00e9es 1880 aux ann\u00e9es 1910. Portes qui claquent et adult\u00e8res bourgeois s'ins\u00e8rent dans une machinerie dramaturgique complexe et sont le miroir de la Belle \u00c9poque, comme le rappelle Violaine Heyraud. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Violaine Heyraud Ma\u00eetre de conf\u00e9rences \u00e0 l'Universit\u00e9 Sorbonne Nouvelle - Paris 3.",
-            "creator": "podcast@radiofrance.com (Radio France)",
-            "enclosure": {
-                "length": "56024366",
-                "type": "audio/mpeg",
-                "url": "https://rf.proxycast.org/a5dc967b-0f2f-490a-9353-49182fbbeb42/16278-24.08.2024-ITEMA_23837131-2024C6278E0035-21.mp3"
-            },
-            "guid": "65d591a5-d3b2-4192-a9e6-4d92e3b1cb90-ITE_00142983_RSCE",
-            "isoDate": "2024-08-24T08:58:18.000Z",
-            "itunes": {
-                "author": "France Culture",
-                "duration": "00:58:19",
-                "explicit": "no",
-                "image": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg",
-                "keywords": "Feydeau,,le,rire,Belle,\u00c9poque",
-                "subtitle": "Feydeau, le rire Belle \u00c9poque",
-                "summary": "dur\u00e9e : 00:58:19 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Ma\u00eetre du vaudeville, Georges Feydeau a encha\u00een\u00e9 les pi\u00e8ces \u00e0 succ\u00e8s, des ann\u00e9es 1880 aux ann\u00e9es 1910. Portes qui claquent et adult\u00e8res bourgeois s'ins\u00e8rent dans une machinerie dramaturgique complexe et sont le miroir de la Belle \u00c9poque, comme le rappelle Violaine Heyraud. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Violaine Heyraud Ma\u00eetre de conf\u00e9rences \u00e0 l'Universit\u00e9 Sorbonne Nouvelle - Paris 3. "
-            },
-            "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/feydeau-le-rire-belle-epoque-6503973",
-            "pubDate": "Sat, 24 Aug 2024 10:58:18 +0200",
-            "title": "Feydeau, le rire Belle \u00c9poque"
-        },
-        {
-            "author": "podcast@radiofrance.com (Radio France)",
-            "categories": [
-                "Society & Culture"
-            ],
-            "content": "dur\u00e9e : 00:58:31 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Du 12e au 14e si\u00e8cle, l'Empire mongol a domin\u00e9 de larges pans de l'Europe et de l'Asie, gr\u00e2ce \u00e0 ses structures de pouvoir originales. Marie Favereau restitue l'importance de cet \u00c9tat nomade, \u00e0 la remarquable puissance commerciale et diplomatique, jalon manquant entre Moyen \u00c2ge et \u00e9poque moderne. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Marie Favereau Ma\u00eetresse de conf\u00e9rences en histoire m\u00e9di\u00e9vale \u00e0 l\u2019Universit\u00e9 Paris Nanterre, sp\u00e9cialiste de l\u2019empire mongol ",
-            "contentSnippet": "dur\u00e9e : 00:58:31 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Du 12e au 14e si\u00e8cle, l'Empire mongol a domin\u00e9 de larges pans de l'Europe et de l'Asie, gr\u00e2ce \u00e0 ses structures de pouvoir originales. Marie Favereau restitue l'importance de cet \u00c9tat nomade, \u00e0 la remarquable puissance commerciale et diplomatique, jalon manquant entre Moyen \u00c2ge et \u00e9poque moderne. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Marie Favereau Ma\u00eetresse de conf\u00e9rences en histoire m\u00e9di\u00e9vale \u00e0 l\u2019Universit\u00e9 Paris Nanterre, sp\u00e9cialiste de l\u2019empire mongol",
-            "creator": "podcast@radiofrance.com (Radio France)",
-            "enclosure": {
-                "length": "56218717",
-                "type": "audio/mpeg",
-                "url": "https://rf.proxycast.org/16f9ad6b-8b90-4ba0-ac2f-ab631ba6bb21/16278-17.08.2024-ITEMA_23828949-2024C6278E0027-21.mp3"
-            },
-            "guid": "639bd423-f67b-41c4-b19a-870ceb8cb62f-ITE_00142982_RSCE",
-            "isoDate": "2024-08-17T08:58:30.000Z",
-            "itunes": {
-                "author": "France Culture",
-                "duration": "00:58:31",
-                "explicit": "no",
-                "image": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg",
-                "keywords": "Les,Mongols,,un,empire,sans,pareil\u00a0?",
-                "subtitle": "Les Mongols, un empire sans pareil\u00a0?",
-                "summary": "dur\u00e9e : 00:58:31 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Du 12e au 14e si\u00e8cle, l'Empire mongol a domin\u00e9 de larges pans de l'Europe et de l'Asie, gr\u00e2ce \u00e0 ses structures de pouvoir originales. Marie Favereau restitue l'importance de cet \u00c9tat nomade, \u00e0 la remarquable puissance commerciale et diplomatique, jalon manquant entre Moyen \u00c2ge et \u00e9poque moderne. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Marie Favereau Ma\u00eetresse de conf\u00e9rences en histoire m\u00e9di\u00e9vale \u00e0 l\u2019Universit\u00e9 Paris Nanterre, sp\u00e9cialiste de l\u2019empire mongol "
-            },
-            "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/les-mongols-un-empire-sans-pareil-6872114",
-            "pubDate": "Sat, 17 Aug 2024 10:58:30 +0200",
-            "title": "Les Mongols, un empire sans pareil\u00a0?"
-        },
-        {
-            "author": "podcast@radiofrance.com (Radio France)",
-            "categories": [
-                "Society & Culture"
-            ],
-            "content": "dur\u00e9e : 00:58:26 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - La chanteuse Barbara occupe une place \u00e0 part dans le paysage musical fran\u00e7ais. Si elle ne s'est jamais d\u00e9finie comme une chanteuse engag\u00e9e, ses textes humanistes et son rapport au public se doublent, \u00e0 partir des ann\u00e9es 1980, de prises de position politiques et sociales, \u00e9voqu\u00e9es par S\u00e9bastien Bost. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : S\u00e9bastien Bost  professeur agr\u00e9g\u00e9 de lettres, charg\u00e9 de cours en arts du spectacle \u00e0 l'universit\u00e9 de Tours ",
-            "contentSnippet": "dur\u00e9e : 00:58:26 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - La chanteuse Barbara occupe une place \u00e0 part dans le paysage musical fran\u00e7ais. Si elle ne s'est jamais d\u00e9finie comme une chanteuse engag\u00e9e, ses textes humanistes et son rapport au public se doublent, \u00e0 partir des ann\u00e9es 1980, de prises de position politiques et sociales, \u00e9voqu\u00e9es par S\u00e9bastien Bost. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : S\u00e9bastien Bost  professeur agr\u00e9g\u00e9 de lettres, charg\u00e9 de cours en arts du spectacle \u00e0 l'universit\u00e9 de Tours",
-            "creator": "podcast@radiofrance.com (Radio France)",
-            "enclosure": {
-                "length": "56140048",
-                "type": "audio/mpeg",
-                "url": "https://rf.proxycast.org/879e1854-e117-486a-add8-c1fc882c3ee8/16278-10.08.2024-ITEMA_23822929-2024C6278E0034-21.mp3"
-            },
-            "guid": "48d48e53-2bad-45c7-8761-ec971daa16f0-ITE_00142975_RSCE",
-            "isoDate": "2024-08-10T08:58:26.000Z",
-            "itunes": {
-                "author": "France Culture",
-                "duration": "00:58:26",
-                "explicit": "no",
-                "image": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg",
-                "keywords": "Barbara,citoyenne",
-                "subtitle": "Barbara citoyenne",
-                "summary": "dur\u00e9e : 00:58:26 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - La chanteuse Barbara occupe une place \u00e0 part dans le paysage musical fran\u00e7ais. Si elle ne s'est jamais d\u00e9finie comme une chanteuse engag\u00e9e, ses textes humanistes et son rapport au public se doublent, \u00e0 partir des ann\u00e9es 1980, de prises de position politiques et sociales, \u00e9voqu\u00e9es par S\u00e9bastien Bost. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : S\u00e9bastien Bost  professeur agr\u00e9g\u00e9 de lettres, charg\u00e9 de cours en arts du spectacle \u00e0 l'universit\u00e9 de Tours "
-            },
-            "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/barbara-dans-la-cite-2913409",
-            "pubDate": "Sat, 10 Aug 2024 10:58:26 +0200",
-            "title": "Barbara citoyenne"
-        },
-        {
-            "author": "podcast@radiofrance.com (Radio France)",
-            "categories": [
-                "Society & Culture"
-            ],
-            "content": "dur\u00e9e : 00:58:08 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Inlassable arpenteur de J\u00e9rusalem, l'historien Vincent Lemire raconte avec tendresse et lucidit\u00e9 les quartiers de la ville trois fois sainte dont il conna\u00eet intimement le pass\u00e9.  - r\u00e9alisation : Patrick Molinier - invit\u00e9s : Vincent Lemire Historien fran\u00e7ais ",
-            "contentSnippet": "dur\u00e9e : 00:58:08 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Inlassable arpenteur de J\u00e9rusalem, l'historien Vincent Lemire raconte avec tendresse et lucidit\u00e9 les quartiers de la ville trois fois sainte dont il conna\u00eet intimement le pass\u00e9.  - r\u00e9alisation : Patrick Molinier - invit\u00e9s : Vincent Lemire Historien fran\u00e7ais",
-            "creator": "podcast@radiofrance.com (Radio France)",
-            "enclosure": {
-                "length": "55840464",
-                "type": "audio/mpeg",
-                "url": "https://rf.proxycast.org/f314bdbe-1e36-4fa1-9080-182df9d3b1ef/16278-03.08.2024-ITEMA_23818443-2024C6278E0026-21.mp3"
-            },
-            "guid": "ae55062f-84d6-4d69-8ef7-f8fe4c528865-ITE_00142693_RSCE",
-            "isoDate": "2024-08-03T08:58:08.000Z",
-            "itunes": {
-                "author": "France Culture",
-                "duration": "00:58:08",
-                "explicit": "no",
-                "image": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/417de754-d0bb-4edc-b19d-096e28c55f71/1400x1400_rf_omm_0000034488_ite.jpg",
-                "keywords": "J\u00e9rusalem,au,d\u00e9but,du,20e,si\u00e8cle",
-                "subtitle": "J\u00e9rusalem au d\u00e9but du 20e si\u00e8cle",
-                "summary": "dur\u00e9e : 00:58:08 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Inlassable arpenteur de J\u00e9rusalem, l'historien Vincent Lemire raconte avec tendresse et lucidit\u00e9 les quartiers de la ville trois fois sainte dont il conna\u00eet intimement le pass\u00e9.  - r\u00e9alisation : Patrick Molinier - invit\u00e9s : Vincent Lemire Historien fran\u00e7ais "
-            },
-            "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/il-y-a-cent-ans-jerusalem-7474699",
-            "pubDate": "Sat, 03 Aug 2024 10:58:08 +0200",
-            "title": "J\u00e9rusalem au d\u00e9but du 20e si\u00e8cle"
-        },
-        {
-            "author": "podcast@radiofrance.com (Radio France)",
-            "categories": [
-                "Society & Culture"
-            ],
-            "content": "dur\u00e9e : 00:58:19 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Compagne de Victor Hugo pendant pr\u00e8s d'un demi-si\u00e8cle, Juliette Drouet a longtemps \u00e9t\u00e9 consid\u00e9r\u00e9e uniquement dans l'ombre du grand homme. Florence Naugrette dessine le portrait d'une femme sur laquelle les regards ont \u00e9volu\u00e9, \u00e0 l'image des sensibilit\u00e9s, du XIXe si\u00e8cle \u00e0 nos jours.  - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Florence Naugrette Professeur de litt\u00e9rature fran\u00e7aise \u00e0 l'Universit\u00e9 Paris-Sorbonne ",
-            "contentSnippet": "dur\u00e9e : 00:58:19 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Compagne de Victor Hugo pendant pr\u00e8s d'un demi-si\u00e8cle, Juliette Drouet a longtemps \u00e9t\u00e9 consid\u00e9r\u00e9e uniquement dans l'ombre du grand homme. Florence Naugrette dessine le portrait d'une femme sur laquelle les regards ont \u00e9volu\u00e9, \u00e0 l'image des sensibilit\u00e9s, du XIXe si\u00e8cle \u00e0 nos jours.  - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Florence Naugrette Professeur de litt\u00e9rature fran\u00e7aise \u00e0 l'Universit\u00e9 Paris-Sorbonne",
-            "creator": "podcast@radiofrance.com (Radio France)",
-            "enclosure": {
-                "length": "56020193",
-                "type": "audio/mpeg",
-                "url": "https://rf.proxycast.org/dcd1b108-1ca6-4317-b093-2205cfc004fb/16278-27.07.2024-ITEMA_23813528-2024C6278E0033-21.mp3"
-            },
-            "guid": "52ed536e-d486-492d-b2d5-d8b0bfbdd785-ITE_00142641_RSCE",
-            "isoDate": "2024-07-27T08:58:19.000Z",
-            "itunes": {
-                "author": "France Culture",
-                "duration": "00:58:19",
-                "explicit": "no",
-                "image": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg",
-                "keywords": "Juliette,Drouet,,la,l\u00e9gende,d\u2019un,si\u00e8cle",
-                "subtitle": "Juliette Drouet, la l\u00e9gende d\u2019un si\u00e8cle",
-                "summary": "dur\u00e9e : 00:58:19 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Compagne de Victor Hugo pendant pr\u00e8s d'un demi-si\u00e8cle, Juliette Drouet a longtemps \u00e9t\u00e9 consid\u00e9r\u00e9e uniquement dans l'ombre du grand homme. Florence Naugrette dessine le portrait d'une femme sur laquelle les regards ont \u00e9volu\u00e9, \u00e0 l'image des sensibilit\u00e9s, du XIXe si\u00e8cle \u00e0 nos jours.  - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Florence Naugrette Professeur de litt\u00e9rature fran\u00e7aise \u00e0 l'Universit\u00e9 Paris-Sorbonne "
-            },
-            "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/juliette-drouet-la-legende-d-un-siecle-9097093",
-            "pubDate": "Sat, 27 Jul 2024 10:58:19 +0200",
-            "title": "Juliette Drouet, la l\u00e9gende d\u2019un si\u00e8cle"
-        },
-        {
-            "author": "podcast@radiofrance.com (Radio France)",
-            "categories": [
-                "Society & Culture"
-            ],
-            "content": "dur\u00e9e : 00:58:17 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - En compagnie de Georges Vigarello, sp\u00e9cialiste de l'histoire du sport, Jean-No\u00ebl Jeanneney revient sur la mani\u00e8re dont le spectacle qui n'\u00e9tait pourtant pas au coeur des premiers sports s'est impos\u00e9, pour finalement devenir aujourd'hui un des \" shows \" majeurs de notre soci\u00e9t\u00e9. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Georges Vigarello Historien, philosophe, directeur d'\u00e9tudes \u00e0 l'\u00c9cole des hautes \u00e9tudes en sciences sociales ",
-            "contentSnippet": "dur\u00e9e : 00:58:17 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - En compagnie de Georges Vigarello, sp\u00e9cialiste de l'histoire du sport, Jean-No\u00ebl Jeanneney revient sur la mani\u00e8re dont le spectacle qui n'\u00e9tait pourtant pas au coeur des premiers sports s'est impos\u00e9, pour finalement devenir aujourd'hui un des \" shows \" majeurs de notre soci\u00e9t\u00e9. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Georges Vigarello Historien, philosophe, directeur d'\u00e9tudes \u00e0 l'\u00c9cole des hautes \u00e9tudes en sciences sociales",
-            "creator": "podcast@radiofrance.com (Radio France)",
-            "enclosure": {
-                "length": "55981879",
-                "type": "audio/mpeg",
-                "url": "https://rf.proxycast.org/0d3ed464-1db1-402d-81ec-6fe05cd395a9/16278-20.07.2024-ITEMA_23806850-2024C6278E0025-21.mp3"
-            },
-            "guid": "2f33679b-03f6-4bd5-a1ff-f2987510e300-ITE_00142613_RSCE",
-            "isoDate": "2024-07-20T08:58:16.000Z",
-            "itunes": {
-                "author": "France Culture",
-                "duration": "00:58:17",
-                "explicit": "no",
-                "image": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg",
-                "keywords": "Stades\u00a0:,le,spectacle,sportif,des,tribunes,aux,\u00e9crans",
-                "subtitle": "Stades\u00a0: le spectacle sportif des tribunes aux \u00e9crans",
-                "summary": "dur\u00e9e : 00:58:17 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - En compagnie de Georges Vigarello, sp\u00e9cialiste de l'histoire du sport, Jean-No\u00ebl Jeanneney revient sur la mani\u00e8re dont le spectacle qui n'\u00e9tait pourtant pas au coeur des premiers sports s'est impos\u00e9, pour finalement devenir aujourd'hui un des \" shows \" majeurs de notre soci\u00e9t\u00e9. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Georges Vigarello Historien, philosophe, directeur d'\u00e9tudes \u00e0 l'\u00c9cole des hautes \u00e9tudes en sciences sociales "
-            },
-            "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/stades-le-spectacle-sportif-des-tribunes-aux-ecrans-1881772",
-            "pubDate": "Sat, 20 Jul 2024 10:58:16 +0200",
-            "title": "Stades\u00a0: le spectacle sportif des tribunes aux \u00e9crans"
-        },
-        {
-            "author": "podcast@radiofrance.com (Radio France)",
-            "categories": [
-                "Society & Culture"
-            ],
-            "content": "dur\u00e9e : 00:58:13 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Alors qu'au d\u00e9but du XXe si\u00e8cle les femmes portaient encore ombrelles et chapeaux pour se prot\u00e9ger du soleil, le discours sur le soleil change dans les ann\u00e9es 1930 : les maillots de bain s'\u00e9chancrent et les bains de soleil sont pr\u00e9conis\u00e9s contre l'acn\u00e9 et la cellulite ! Avec Pascal Ory. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Pascal Ory Historien, Acad\u00e9micien, sp\u00e9cialiste d\u2019histoire culturelle sous l'Occupation ",
-            "contentSnippet": "dur\u00e9e : 00:58:13 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Alors qu'au d\u00e9but du XXe si\u00e8cle les femmes portaient encore ombrelles et chapeaux pour se prot\u00e9ger du soleil, le discours sur le soleil change dans les ann\u00e9es 1930 : les maillots de bain s'\u00e9chancrent et les bains de soleil sont pr\u00e9conis\u00e9s contre l'acn\u00e9 et la cellulite ! Avec Pascal Ory. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Pascal Ory Historien, Acad\u00e9micien, sp\u00e9cialiste d\u2019histoire culturelle sous l'Occupation",
-            "creator": "podcast@radiofrance.com (Radio France)",
-            "enclosure": {
-                "length": "55932004",
-                "type": "audio/mpeg",
-                "url": "https://rf.proxycast.org/3cd9aaa5-1c4e-4a0a-8706-dcca4eb4b3b0/16278-13.07.2024-ITEMA_23801568-2024C6278E0032-21.mp3"
-            },
-            "guid": "58132ae1-68ca-420f-84ef-236c1529f311-ITE_00142609_RSCE",
-            "isoDate": "2024-07-13T08:58:13.000Z",
-            "itunes": {
-                "author": "France Culture",
-                "duration": "00:58:13",
-                "explicit": "no",
-                "image": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg",
-                "keywords": "Bronzer,en,1930,:,la,fin,des,ombrelles",
-                "subtitle": "Bronzer en 1930 : la fin des ombrelles",
-                "summary": "dur\u00e9e : 00:58:13 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - Alors qu'au d\u00e9but du XXe si\u00e8cle les femmes portaient encore ombrelles et chapeaux pour se prot\u00e9ger du soleil, le discours sur le soleil change dans les ann\u00e9es 1930 : les maillots de bain s'\u00e9chancrent et les bains de soleil sont pr\u00e9conis\u00e9s contre l'acn\u00e9 et la cellulite ! Avec Pascal Ory. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Pascal Ory Historien, Acad\u00e9micien, sp\u00e9cialiste d\u2019histoire culturelle sous l'Occupation "
-            },
-            "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/bronzer-en-1930-la-fin-des-ombrelles-5806207",
-            "pubDate": "Sat, 13 Jul 2024 10:58:13 +0200",
-            "title": "Bronzer en 1930 : la fin des ombrelles"
-        },
-        {
-            "author": "podcast@radiofrance.com (Radio France)",
-            "categories": [
-                "Society & Culture"
-            ],
-            "content": "dur\u00e9e : 00:58:17 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - La soci\u00e9t\u00e9 d'Ancien R\u00e9gime n'est pas une soci\u00e9t\u00e9 fig\u00e9e et immobile. Pouss\u00e9s par la n\u00e9cessit\u00e9 ou par la curiosit\u00e9, les voyageurs sont de plus en plus nombreux aux XVIIe et XVIIIe si\u00e8cles. Daniel Roche restitue la circulation des hommes et des femmes dans l'Europe moderne. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Daniel Roche Historien fran\u00e7ais, professeur au Coll\u00e8ge de France et sp\u00e9cialiste de l'histoire culturelle et sociale de la France de l'Ancien R\u00e9gime. ",
-            "contentSnippet": "dur\u00e9e : 00:58:17 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - La soci\u00e9t\u00e9 d'Ancien R\u00e9gime n'est pas une soci\u00e9t\u00e9 fig\u00e9e et immobile. Pouss\u00e9s par la n\u00e9cessit\u00e9 ou par la curiosit\u00e9, les voyageurs sont de plus en plus nombreux aux XVIIe et XVIIIe si\u00e8cles. Daniel Roche restitue la circulation des hommes et des femmes dans l'Europe moderne. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Daniel Roche Historien fran\u00e7ais, professeur au Coll\u00e8ge de France et sp\u00e9cialiste de l'histoire culturelle et sociale de la France de l'Ancien R\u00e9gime.",
-            "creator": "podcast@radiofrance.com (Radio France)",
-            "enclosure": {
-                "length": "55985619",
-                "type": "audio/mpeg",
-                "url": "https://rf.proxycast.org/1cd79313-da5c-4387-803c-68d468479734/16278-06.07.2024-ITEMA_23796243-2024C6278E0023-21.mp3"
-            },
-            "guid": "6cd8ffbf-fbf7-488f-aec9-11d04db96fda-ITE_00142547_RSCE",
-            "isoDate": "2024-07-06T08:58:17.000Z",
-            "itunes": {
-                "author": "France Culture",
-                "duration": "00:58:17",
-                "explicit": "no",
-                "image": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/8efe4f72-23c5-46e1-950f-c6ea9dcc460d/1400x1400_concordance-des-temps.jpg",
-                "keywords": "Humeurs,vagabondes,:,les,voyages,au,XVIIIe,si\u00e8cle",
-                "subtitle": "Humeurs vagabondes : les voyages au XVIIIe si\u00e8cle",
-                "summary": "dur\u00e9e : 00:58:17 - Concordance des temps - par : Jean-No\u00ebl Jeanneney - La soci\u00e9t\u00e9 d'Ancien R\u00e9gime n'est pas une soci\u00e9t\u00e9 fig\u00e9e et immobile. Pouss\u00e9s par la n\u00e9cessit\u00e9 ou par la curiosit\u00e9, les voyageurs sont de plus en plus nombreux aux XVIIe et XVIIIe si\u00e8cles. Daniel Roche restitue la circulation des hommes et des femmes dans l'Europe moderne. - r\u00e9alisation : Vincent Abouchar - invit\u00e9s : Daniel Roche Historien fran\u00e7ais, professeur au Coll\u00e8ge de France et sp\u00e9cialiste de l'histoire culturelle et sociale de la France de l'Ancien R\u00e9gime. "
-            },
-            "link": "https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/humeurs-vagabondes-les-voyages-au-xviiie-siecle-1765372",
-            "pubDate": "Sat, 06 Jul 2024 10:58:17 +0200",
-            "title": "Humeurs vagabondes : les voyages au XVIIIe si\u00e8cle"
-        },
-        {
-            "author": "podcast@radiofrance.com (Radio France)",
-            "content": "Retrouvez tous les \u00e9pisodes sur l\u2019appli Radio France",
-            "contentSnippet": "Retrouvez tous les \u00e9pisodes sur l\u2019appli Radio France",
-            "creator": "podcast@radiofrance.com (Radio France)",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://media.radiofrance-podcast.net/podcast09/autopromo_replay_franceculture.mp3"
-            },
-            "guid": "https://media.radiofrance-podcast.net/podcast09/autopromo_replay_franceculture.mp3",
-            "isoDate": "2005-11-30T22:59:59.000Z",
-            "itunes": {
-                "author": "Radio France",
-                "duration": "00:00:12",
-                "explicit": "no",
-                "image": "https://www.radiofrance.fr/s3/cruiser-production/2022/01/04f722eb-ed54-439f-9be6-532ecad002c9/1400x1400_radio-france-avatar.jpg",
-                "subtitle": "Retrouvez tous les \u00e9pisodes sur l\u2019appli Radio France",
-                "summary": "Retrouvez tous les \u00e9pisodes sur l\u2019appli Radio France"
-            },
-            "link": "https://www.radiofrance.fr/application-mobile-radio-france",
-            "pubDate": "Wed, 30 Nov 2005 23:59:59 +0100",
-            "title": "Retrouvez tous les \u00e9pisodes sur l\u2019appli Radio France"
+            "itunes:subtitle": "Concordance des temps",
+            "itunes:summary": "L'\u00e9clairage des pr\u00e9c\u00e9dents historiques sur l'actualit\u00e9 Rendez-vous sur l'application Radio France pour d\u00e9couvrir tous les autres \u00e9pisodes.",
+            "language": "fr",
+            "lastBuildDate": "Mon, 14 Oct 2024 12:21:59 +0200",
+            "link": "http://www.radiofrance.fr/chaines/france-culture2/emissions/concordance/index.php?emission_id=8",
+            "podcastRF:originStation": "5",
+            "title": "Concordance des temps"
         }
-    ],
-    "itunes": {
-        "author": "France Culture",
-        "categories": [
-            "Society & Culture"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Society & Culture",
-                "subs": null
-            }
-        ],
-        "explicit": "no",
-        "image": "https://www.radiofrance.fr/s3/cruiser-production/2022/04/417de754-d0bb-4edc-b19d-096e28c55f71/1400x1400_rf_omm_0000034488_ite.jpg",
-        "owner": {
-            "email": "podcast@radiofrance.com",
-            "name": "Radio France"
-        },
-        "subtitle": "Concordance des temps",
-        "summary": "L'\u00e9clairage des pr\u00e9c\u00e9dents historiques sur l'actualit\u00e9 Rendez-vous sur l'application Radio France pour d\u00e9couvrir tous les autres \u00e9pisodes."
-    },
-    "language": "fr",
-    "lastBuildDate": "Mon, 30 Sep 2024 15:35:56 +0200",
-    "link": "http://www.radiofrance.fr/chaines/france-culture2/emissions/concordance/index.php?emission_id=8",
-    "palette": [
-        "65437F",
-        "16151D",
-        "DECFD2",
-        "2E776D",
-        "84A9B0",
-        "7546E7"
-    ],
-    "title": "Concordance des temps"
+    }
 }

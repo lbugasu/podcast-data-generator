@@ -1,491 +1,459 @@
 {
-    "copyright": "Copyright \u00a9 Dow Jones & Company, Inc. All Rights Reserved.",
-    "description": "What's News brings you the biggest news of the day, from business and finance to global and political developments that move markets. Get caught up in minutes twice a day on weekdays, then take a step back with our What\u2019s News in Markets wrap-up on Saturday and our What\u2019s News Sunday deep dive.",
-    "feedUrl": "https://feeds.megaphone.fm/WSJ4886593505",
-    "image": {
-        "link": "https://www.wsj.com/podcasts/whats-news",
-        "title": "WSJ What\u2019s News",
-        "url": "https://megaphone.imgix.net/podcasts/7297a16a-9f81-11e5-8821-232b0d194322/image/WSJ_Podcast_Whats_News.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
-    },
-    "items": [
-        {
-            "content": "P.M. Edition for Sept. 30. Fed Chair Jerome Powell said today that interest rate cuts can sustain a soft landing. And WSJ reporter Paul Berger on how a possible dockworker strike threatens to rattle the American economy five weeks ahead of the presidential election. Plus, Jeep owner Stellantis warns of a deteriorating global car market. The Journal\u2019s Stephen Wilmot explains the automaker\u2019s challenges. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>P.M. Edition for Sept. 30. Fed Chair Jerome Powell said today that interest rate cuts <a href=\"https://www.wsj.com/economy/central-banking/feds-powell-says-rate-cuts-can-continue-to-support-soft-landing-8792c77a?st=WSnDP6&amp;reflink=desktopwebshare_permalink\">can sustain a soft landing</a>. And WSJ reporter <a href=\"https://www.wsj.com/news/author/paul-berger\">Paul Berger</a> on how a possible dockworker strike <a href=\"https://www.wsj.com/articles/dockworkers-union-strike-shipping-economy-81301038?st=gN9JBz&amp;reflink=desktopwebshare_permalink\">threatens to rattle the American economy</a> five weeks ahead of the presidential election. Plus, Jeep owner Stellantis warns of <a href=\"https://www.wsj.com/business/earnings/stellantis-cuts-full-year-guidance-6eaf0e92?st=qcgMda&amp;reflink=desktopwebshare_permalink\">a deteriorating global car market</a>. The Journal\u2019s <a href=\"https://www.wsj.com/news/author/stephen-wilmot\">Stephen Wilmot</a> explains the automaker\u2019s challenges. Tracie Hunte hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ's free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What's News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "P.M. Edition for Sept. 30. Fed Chair Jerome Powell said today that interest rate cuts can sustain a soft landing. And WSJ reporter Paul Berger on how a possible dockworker strike threatens to rattle the American economy five weeks ahead of the presidential election. Plus, Jeep owner Stellantis warns of a deteriorating global car market. The Journal\u2019s Stephen Wilmot explains the automaker\u2019s challenges. Tracie Hunte hosts.\n\nSign up for the WSJ's free What's News newsletter.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "P.M. Edition for Sept. 30. Fed Chair Jerome Powell said today that interest rate cuts can sustain a soft landing. And WSJ reporter Paul Berger on how a possible dockworker strike threatens to rattle the American economy five weeks ahead of the presidential election. Plus, Jeep owner Stellantis warns of a deteriorating global car market. The Journal\u2019s Stephen Wilmot explains the automaker\u2019s challenges. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8022127689.mp3?updated=1727731606"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:googleplay": "http://www.google.com/schemas/play-podcasts/1.0",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:media": "http://search.yahoo.com/mrss/",
+        "channel": {
+            "atom:link": {
+                "@href": "https://feeds.megaphone.fm/WSJ4886593505",
+                "@rel": "self",
+                "@type": "application/rss+xml"
             },
-            "guid": "8c58eeae-7f71-11ef-94ec-8f92f73156ba",
-            "isoDate": "2024-09-30T21:01:00.000Z",
-            "itunes": {
-                "author": "The Wall Street Journal",
-                "duration": "810",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "P.M. Edition for Sept. 30. Fed Chair Jerome Powell said today that interest rate cuts can sustain a soft landing. And WSJ reporter Paul Berger on how a possible dockworker strike threatens to rattle the American economy five weeks ahead of the presidential election. Plus, Jeep owner Stellantis warns of a deteriorating global car market. The Journal\u2019s Stephen Wilmot explains the automaker\u2019s challenges. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
+            "content:encoded": "<p>What's News brings you the biggest news of the day, from business and finance to global and political developments that move markets. Get caught up in minutes twice a day on weekdays, then take a step back with our What\u2019s News in Markets wrap-up on Saturday and our What\u2019s News Sunday deep dive.</p>",
+            "copyright": "Copyright \u00a9 Dow Jones & Company, Inc. All Rights Reserved.",
+            "description": "What's News brings you the biggest news of the day, from business and finance to global and political developments that move markets. Get caught up in minutes twice a day on weekdays, then take a step back with our What\u2019s News in Markets wrap-up on Saturday and our What\u2019s News Sunday deep dive.",
+            "image": {
+                "link": "https://www.wsj.com/podcasts/whats-news",
+                "palette": [
+                    "934980",
+                    "27254B",
+                    "E6C67A",
+                    "EA6B90",
+                    "7F0E36",
+                    "F4A1CE"
+                ],
+                "title": "WSJ What\u2019s News",
+                "url": "https://megaphone.imgix.net/podcasts/7297a16a-9f81-11e5-8821-232b0d194322/image/WSJ_Podcast_Whats_News.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
             },
-            "pubDate": "Mon, 30 Sep 2024 21:01:00 -0000",
-            "title": "Powell Says More Rate Cuts Coming, but No Need to Rush"
-        },
-        {
-            "content": "A.M. Edition for Sept. 30. Israel\u2019s special forces have been launching the targeted raids for weeks as they probe Hezbollah\u2019s capabilities. The WSJ\u2019s Stephen Kalin says the group is in disarray after the killing of leader Hassan Nasrallah. Plus, states rush to provide aid as the death toll from Hurricane Helene rises to more than 90. And, Americans are more reliant than ever on government aid. The WSJ\u2019s Aaron Zitner explains why that matters for the presidential election. Kate Bullivant hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter .\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>A.M. Edition for Sept. 30. Israel\u2019s special forces have been launching the targeted raids for weeks as they <a href=\"https://www.wsj.com/world/middle-east/israeli-special-forces-launch-raids-into-lebanon-ahead-of-possible-ground-incursion-bf2fe94d?st=hwn3KQ&amp;reflink=desktopwebshare_permalink\">probe Hezbollah\u2019s capabilities</a>. The WSJ\u2019s <a href=\"https://www.wsj.com/news/author/stephen-kalin\">Stephen Kalin</a> says the group is <a href=\"https://www.wsj.com/world/middle-east/hezbollah-next-leader-91c16101?st=wWjWvi&amp;reflink=desktopwebshare_permalink\">in disarray after the killing of leader Hassan Nasrallah</a>. Plus, states rush to provide aid as the death toll from Hurricane Helene <a href=\"https://www.wsj.com/politics/elections/americans-government-aid-social-security-medicare-unemployment-34e92b19?st=c7GvT6&amp;reflink=desktopwebshare_permalink\">rises to more than 90</a>. And, Americans are more reliant than ever on government aid. The WSJ\u2019s Aaron Zitner explains why that matters for the presidential election. Kate Bullivant hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ\u2019s free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What\u2019s News newsletter</a> .</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "A.M. Edition for Sept. 30. Israel\u2019s special forces have been launching the targeted raids for weeks as they probe Hezbollah\u2019s capabilities. The WSJ\u2019s Stephen Kalin says the group is in disarray after the killing of leader Hassan Nasrallah. Plus, states rush to provide aid as the death toll from Hurricane Helene rises to more than 90. And, Americans are more reliant than ever on government aid. The WSJ\u2019s Aaron Zitner explains why that matters for the presidential election. Kate Bullivant hosts.\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter .\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "A.M. Edition for Sept. 30. Israel\u2019s special forces have been launching the targeted raids for weeks as they probe Hezbollah\u2019s capabilities. The WSJ\u2019s Stephen Kalin says the group is in disarray after the killing of leader Hassan Nasrallah. Plus, states rush to provide aid as the death toll from Hurricane Helene rises to more than 90. And, Americans are more reliant than ever on government aid. The WSJ\u2019s Aaron Zitner explains why that matters for the presidential election. Kate Bullivant hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter .\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1178252918.mp3?updated=1727694036"
+            "item": [
+                {
+                    "content:encoded": "<p>A.M. Edition for Oct. 14. A sharp drop in venture-capital funding is leading the Chinese government to get <a href=\"https://www.wsj.com/world/china/for-chinese-tech-startups-beijing-fills-a-funding-void-left-by-vcs-deeb0e2c?st=XAZgMJ&amp;reflink=desktopwebshare_permalink\">more involved in grooming</a> the country\u2019s tech industry. The WSJ\u2019s <a href=\"https://www.wsj.com/news/author/liza-lin\">Liza Lin</a> says that in the long run, that strategy could handicap China\u2019s efforts to catch up with Western advances. Plus, a drone launched by Hezbollah hits a military base, highlighting <a href=\"https://www.wsj.com/world/middle-east/hezbollah-drone-strike-kills-4-israeli-soldiers-injures-dozens-911aa861?st=8uCmj3&amp;reflink=desktopwebshare_permalink\">a weak spot in Israel\u2019s air-defense systems</a>. And, most economists surveyed by WSJ think <a href=\"https://www.wsj.com/politics/elections/economists-say-inflation-deficits-will-be-higher-under-trump-than-harris-0365588e?st=wtaLRx&amp;reflink=desktopwebshare_permalink\">inflation would be higher</a> under the policies of Donald Trump than those of Kamala Harris. Luke Vargas hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ\u2019s free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What\u2019s News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "A.M. Edition for Oct. 14. A sharp drop in venture-capital funding is leading the Chinese government to get more involved in grooming the country\u2019s tech industry. The WSJ\u2019s Liza Lin says that in the long run, that strategy could handicap China\u2019s efforts to catch up with Western advances. Plus, a drone launched by Hezbollah hits a military base, highlighting a weak spot in Israel\u2019s air-defense systems. And, most economists surveyed by WSJ think inflation would be higher under the policies of Donald Trump than those of Kamala Harris. Luke Vargas hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9228876371.mp3?updated=1728904414"
+                    },
+                    "guid": {
+                        "#text": "22ea1ebe-8a13-11ef-a9e9-c752f2a73ced",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Wall Street Journal",
+                    "itunes:duration": "753",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "A.M. Edition for Oct. 14. A sharp drop in venture-capital funding is leading the Chinese government to get more involved in grooming the country\u2019s tech industry. The WSJ\u2019s Liza Lin says that in the long run, that strategy could handicap China\u2019s efforts to catch up with Western advances. Plus, a drone launched by Hezbollah hits a military base, highlighting a weak spot in Israel\u2019s air-defense systems. And, most economists surveyed by WSJ think inflation would be higher under the policies of Donald Trump than those of Kamala Harris. Luke Vargas hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Mon, 14 Oct 2024 09:56:00 -0000",
+                    "title": "Beijing Steps In to Fund Chinese Tech Startups"
+                },
+                {
+                    "content:encoded": "<p>This spring the U.S. fertility rate dropped to another historic low. And a potential American baby bust has become a campaign issue. WSJ Chief Economics Commentator <a href=\"https://www.wsj.com/news/author/greg-ip\">Greg Ip</a> answers your questions on the causes and consequences of the falling fertility rate in the U.S. And reporter <a href=\"https://www.wsj.com/news/author/liz-essley-whyte\">Liz Whyte</a> explains what policies the presidential candidates are proposing and how they may\u2014or may not\u2014make an impact. Charlotte Gartenberg hosts.\u00a0</p>\n<p>\u00a0</p>\n<p>Further Reading</p>\n<p><a href=\"https://www.wsj.com/politics/policy/increase-america-birth-rate-policies-election-2024-d81b4417?mod=djem10point\">How America\u2019s Baby Bust Became an Election Issue</a>\u00a0</p>\n<p><a href=\"https://www.wsj.com/video/series/wsj-explains/why-tech-elites-want-us-all-to-have-more-kids/C281E006-0B58-49F1-B872-5B765BEDC96A\">Why Tech Elites Want Us All to Have More Kids</a>\u00a0</p>\n<p><a href=\"https://www.wsj.com/economy/more-cash-for-kids-is-popular-it-might-not-be-wise-13c30a42\">More Cash for Kids Is Popular. It Might Not Be Wise.</a>\u00a0</p>\n<p><a href=\"https://www.wsj.com/world/birthrates-global-decline-cause-ddaf8be2\">Suddenly There Aren\u2019t Enough Babies. The Whole World Is Alarmed.</a>\u00a0</p>\n<p><a href=\"https://www.wsj.com/politics/elections/why-jd-vance-worries-about-childlessness-00bb96cb\">Why JD Vance Worries About Childlessness</a>\u00a0</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "This spring the U.S. fertility rate dropped to another historic low. And a potential American baby bust has become a campaign issue. WSJ Chief Economics Commentator Greg Ip answers your questions on the causes and consequences of the falling fertility rate in the U.S. And reporter Liz Whyte explains what policies the presidential candidates are proposing and how they may\u2014or may not\u2014make an impact. Charlotte Gartenberg hosts.\u00a0\n\n\u00a0\n\nFurther Reading\n\nHow America\u2019s Baby Bust Became an Election Issue\u00a0\n\nWhy Tech Elites Want Us All to Have More Kids\u00a0\n\nMore Cash for Kids Is Popular. It Might Not Be Wise.\u00a0\n\nSuddenly There Aren\u2019t Enough Babies. The Whole World Is Alarmed.\u00a0\n\nWhy JD Vance Worries About Childlessness\u00a0\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7458457467.mp3?updated=1728814045"
+                    },
+                    "guid": {
+                        "#text": "f35e146c-8949-11ef-bc8b-e309a582dbcb",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Wall Street Journal",
+                    "itunes:duration": "918",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "This spring the U.S. fertility rate dropped to another historic low. And a potential American baby bust has become a campaign issue. WSJ Chief Economics Commentator Greg Ip answers your questions on the causes and consequences of the falling fertility rate in the U.S. And reporter Liz Whyte explains what policies the presidential candidates are proposing and how they may\u2014or may not\u2014make an impact. Charlotte Gartenberg hosts.\u00a0\n\n\u00a0\n\nFurther Reading\n\nHow America\u2019s Baby Bust Became an Election Issue\u00a0\n\nWhy Tech Elites Want Us All to Have More Kids\u00a0\n\nMore Cash for Kids Is Popular. It Might Not Be Wise.\u00a0\n\nSuddenly There Aren\u2019t Enough Babies. The Whole World Is Alarmed.\u00a0\n\nWhy JD Vance Worries About Childlessness\u00a0\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Sun, 13 Oct 2024 10:00:00 -0000",
+                    "title": "Americans Are Having Fewer Babies Than Ever. What Can Be Done About It?"
+                },
+                {
+                    "content:encoded": "<p>What turned Monday into a super day for Super Micro? And what did the CrowdStrike meltdown cost Delta Airlines? Plus, why did Tesla\u2019s robotaxi fail to wow investors? Host Francesca Fontana discusses the biggest stock moves of the week and the news that drove them.</p>\n<p><br></p>\n<p>Sign up for the WSJ's free <a href=\"https://www.wsj.com/newsletters/markets-am?mod=WSJ_YMBPOD\">Markets A.M. newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "What turned Monday into a super day for Super Micro? And what did the CrowdStrike meltdown cost Delta Airlines? Plus, why did Tesla\u2019s robotaxi fail to wow investors? Host Francesca Fontana discusses the biggest stock moves of the week and the news that drove them.\n\n\n\nSign up for the WSJ's free Markets A.M. newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9716826132.mp3?updated=1728727570"
+                    },
+                    "guid": {
+                        "#text": "c86da200-8880-11ef-88dc-57f83aee53b9",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Wall Street Journal",
+                    "itunes:duration": "331",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "What turned Monday into a super day for Super Micro? And what did the CrowdStrike meltdown cost Delta Airlines? Plus, why did Tesla\u2019s robotaxi fail to wow investors? Host Francesca Fontana discusses the biggest stock moves of the week and the news that drove them.\n\n\n\nSign up for the WSJ's free Markets A.M. newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Sat, 12 Oct 2024 10:00:00 -0000",
+                    "title": "What\u2019s News in Markets: Super Micro Boost, Delta's Dip, Robotaxi Disappoints"
+                },
+                {
+                    "content:encoded": "<p>P.M. Edition for Oct. 11. WSJ reporter <a href=\"https://www.wsj.com/news/author/sarah-nassauer\">Sarah Nassauer</a> explains why retailers like IKEA and Nike are <a href=\"https://www.wsj.com/business/retail/after-years-of-increases-companies-are-rolling-back-prices-b9d0a448?st=MFMK8s&amp;reflink=desktopwebshare_permalink\">lowering prices now</a>. And the Journal\u2019s banking reporter <a href=\"https://www.wsj.com/news/author/gina-heeb\">Gina Heeb</a> discusses JPMorgan Chase\u2019s call that the U.S. economy has made <a href=\"https://www.wsj.com/finance/banking/jpmorgan-chase-jpm-q3-earnings-report-2024-84b76ab9?st=yydr1M&amp;reflink=desktopwebshare_permalink\">a soft landing</a>. Plus, a report alleges Donald Trump sent <a href=\"https://www.wsj.com/politics/donald-trump-vladimir-putin-covid-test-kremlin-05d6c6eb?st=DQtjfD&amp;reflink=desktopwebshare_permalink\">scarce Covid-19 testing equipment</a> to the Kremlin at the height of the pandemic. Tracie Hunte hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ's free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What's News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "P.M. Edition for Oct. 11. WSJ reporter Sarah Nassauer explains why retailers like IKEA and Nike are lowering prices now. And the Journal\u2019s banking reporter Gina Heeb discusses JPMorgan Chase\u2019s call that the U.S. economy has made a soft landing. Plus, a report alleges Donald Trump sent scarce Covid-19 testing equipment to the Kremlin at the height of the pandemic. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7107017165.mp3?updated=1728681532"
+                    },
+                    "guid": {
+                        "#text": "253b116e-8815-11ef-b6bd-abf73186ec75",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Wall Street Journal",
+                    "itunes:duration": "803",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "P.M. Edition for Oct. 11. WSJ reporter Sarah Nassauer explains why retailers like IKEA and Nike are lowering prices now. And the Journal\u2019s banking reporter Gina Heeb discusses JPMorgan Chase\u2019s call that the U.S. economy has made a soft landing. Plus, a report alleges Donald Trump sent scarce Covid-19 testing equipment to the Kremlin at the height of the pandemic. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Fri, 11 Oct 2024 21:09:00 -0000",
+                    "title": "How U.S. Retailers Are Luring Back Customers With Discounts"
+                },
+                {
+                    "content:encoded": "<p>A.M. Edition for Oct. 11. Voters in the nation\u2019s seven battleground states <a href=\"https://www.wsj.com/politics/elections/trump-harris-swing-state-poll-october-2024-c3ca9414?st=MLqFr4&amp;reflink=desktopwebshare_permalink\">see Donald Trump as better equipped</a> to handle the issues they care about most, yet are divided about evenly over who should lead the nation. The WSJ\u2019s <a href=\"https://www.wsj.com/news/author/aaron-zitner\">Aaron Zitner</a> breaks down our latest poll. Plus, <a href=\"https://www.wsj.com/world/middle-east/irans-secret-warning-to-u-s-allies-dont-help-israel-or-youre-next-ccfa5fa0?st=tHGr8P&amp;reflink=desktopwebshare_permalink\">Tehran threatens to target U.S. allies</a> in the Middle East if they aid an attack on Iran. And, <a href=\"https://www.wsj.com/business/autos/elon-musk-tesla-robotaxi-acfc5e3b?st=HiW6jC&amp;reflink=desktopwebshare_permalink\">Elon Musk unveils not one, but two new vehicles</a> at the long-anticipated Robotaxi event. Kate Bullivant hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ\u2019s free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What\u2019s News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "A.M. Edition for Oct. 11. Voters in the nation\u2019s seven battleground states see Donald Trump as better equipped to handle the issues they care about most, yet are divided about evenly over who should lead the nation. The WSJ\u2019s Aaron Zitner breaks down our latest poll. Plus, Tehran threatens to target U.S. allies in the Middle East if they aid an attack on Iran. And, Elon Musk unveils not one, but two new vehicles at the long-anticipated Robotaxi event. Kate Bullivant hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5086807475.mp3?updated=1728641353"
+                    },
+                    "guid": {
+                        "#text": "a2adca14-87b7-11ef-bedb-e3b6e905cad9",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Wall Street Journal",
+                    "itunes:duration": "880",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "A.M. Edition for Oct. 11. Voters in the nation\u2019s seven battleground states see Donald Trump as better equipped to handle the issues they care about most, yet are divided about evenly over who should lead the nation. The WSJ\u2019s Aaron Zitner breaks down our latest poll. Plus, Tehran threatens to target U.S. allies in the Middle East if they aid an attack on Iran. And, Elon Musk unveils not one, but two new vehicles at the long-anticipated Robotaxi event. Kate Bullivant hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Fri, 11 Oct 2024 09:44:00 -0000",
+                    "title": "Trump and Harris Tied in Swing States, WSJ Poll Shows"
+                },
+                {
+                    "content:encoded": "<p>P.M. Edition for Oct. 10. WSJ real estate reporter <a href=\"https://www.wsj.com/news/author/kate-king\">Kate King</a> talks about <a href=\"https://www.wsj.com/real-estate/at-a-brooklyn-warehouse-robots-are-reshaping-the-grocery-delivery-business-f7b4551b?st=T19gw8&amp;reflink=desktopwebshare_permalink\">reinventing grocery delivery with robotics</a>. And WSJ economics reporter <a href=\"https://www.wsj.com/news/author/harriet-torry\">Harriet Torry</a> on what the <a href=\"https://www.wsj.com/economy/central-banking/cpi-report-inflation-september-interest-rate-06f596b0?st=9RsuJA&amp;reflink=desktopwebshare_permalink\">new U.S. inflation data</a> mean for future interest-rate cuts. Plus, Donald Trump says he wants to make car-loan interest payments <a href=\"https://www.wsj.com/politics/elections/donald-trump-calls-for-making-car-loan-interest-tax-deductible-977c7092?st=nmosNB&amp;reflink=desktopwebshare_permalink\">tax free</a>. Tracie Hunte hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ's free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What's News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "P.M. Edition for Oct. 10. WSJ real estate reporter Kate King talks about reinventing grocery delivery with robotics. And WSJ economics reporter Harriet Torry on what the new U.S. inflation data mean for future interest-rate cuts. Plus, Donald Trump says he wants to make car-loan interest payments tax free. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5614410884.mp3?updated=1728599364"
+                    },
+                    "guid": {
+                        "#text": "51fb2d60-8748-11ef-b5d0-23a0497fa79f",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Wall Street Journal",
+                    "itunes:duration": "781",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "P.M. Edition for Oct. 10. WSJ real estate reporter Kate King talks about reinventing grocery delivery with robotics. And WSJ economics reporter Harriet Torry on what the new U.S. inflation data mean for future interest-rate cuts. Plus, Donald Trump says he wants to make car-loan interest payments tax free. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Thu, 10 Oct 2024 20:42:00 -0000",
+                    "title": "How Robots Are Changing the Grocery-Delivery Business"
+                },
+                {
+                    "content:encoded": "<p>A.M. Edition for Oct. 10. Millions are left without power after Hurricane Milton <a href=\"https://www.wsj.com/us-news/climate-environment/hurricane-milton-makes-landfall-in-florida-as-category-3-storm-3d75b819?st=XhMvey&amp;reflink=desktopwebshare_permalink\">makes landfall as a Category 3 storm</a>. Plus, Donald Trump <a href=\"https://www.wsj.com/us-news/climate-environment/hurricane-milton-makes-landfall-in-florida-as-category-3-storm-3d75b819?st=XhMvey&amp;reflink=desktopwebshare_permalink\">pledges to end \u201cdouble taxation\u201d</a> for Americans who live abroad. And, despite mounting geopolitical tensions, China is <a href=\"https://www.wsj.com/world/china/despite-geopolitical-tensions-china-is-big-business-for-western-consulting-firms-dfde9114?st=ArKF9X&amp;reflink=desktopwebshare_permalink\">big business for Western consultants</a>. The WSJ\u2019s <a href=\"https://www.wsj.com/news/author/aruna-viswanatha\">Aruna Viswanatha</a> says consulting firms are allowed to work there, but are treading a fine line. Kate Bullivant hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ\u2019s free What\u2019s News newsletter.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "A.M. Edition for Oct. 10. Millions are left without power after Hurricane Milton makes landfall as a Category 3 storm. Plus, Donald Trump pledges to end \u201cdouble taxation\u201d for Americans who live abroad. And, despite mounting geopolitical tensions, China is big business for Western consultants. The WSJ\u2019s Aruna Viswanatha says consulting firms are allowed to work there, but are treading a fine line. Kate Bullivant hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ2215626646.mp3?updated=1728554927"
+                    },
+                    "guid": {
+                        "#text": "65300d1a-86ee-11ef-9446-7b0e265728f7",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Wall Street Journal",
+                    "itunes:duration": "862",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "A.M. Edition for Oct. 10. Millions are left without power after Hurricane Milton makes landfall as a Category 3 storm. Plus, Donald Trump pledges to end \u201cdouble taxation\u201d for Americans who live abroad. And, despite mounting geopolitical tensions, China is big business for Western consultants. The WSJ\u2019s Aruna Viswanatha says consulting firms are allowed to work there, but are treading a fine line. Kate Bullivant hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Thu, 10 Oct 2024 09:55:00 -0000",
+                    "title": "Hurricane Milton Pummels Florida"
+                },
+                {
+                    "content:encoded": "<p>P.M. Edition for Oct. 9. More Americans <a href=\"https://www.wsj.com/politics/elections/more-americans-identify-as-republican-than-democrat-heres-what-that-means-for-the-election-150e12ae?st=pEyWBX&amp;reflink=desktopwebshare_permalink\">identify</a> as Republican than Democrats. WSJ reporter <a href=\"https://www.wsj.com/news/author/aaron-zitner\">Aaron Zitner</a> discusses what it might mean for the presidential election. And as millions of Florida residents brace for Hurricane Milton, the Journal\u2019s <a href=\"https://www.wsj.com/news/author/michelle-hackman\">Michelle Hackman</a> explains how misinformation is <a href=\"https://www.wsj.com/politics/fema-hurricane-misinformation-38e88386?st=FEJ16m&amp;reflink=desktopwebshare_permalink\">complicating</a> FEMA\u2019s efforts. Plus, WSJ\u2019s <a href=\"https://www.wsj.com/news/author/nate-rattner\">Nate Rattner</a> on the growing influence of \u201c<a href=\"https://www.wsj.com/politics/elections/tiktok-news-influencers-social-media-politics-14c1595d?st=dTcc3N&amp;reflink=desktopwebshare_permalink\">news influencers</a>.\u201d Tracie Hunte hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ's free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What's News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "P.M. Edition for Oct. 9. More Americans identify as Republican than Democrats. WSJ reporter Aaron Zitner discusses what it might mean for the presidential election. And as millions of Florida residents brace for Hurricane Milton, the Journal\u2019s Michelle Hackman explains how misinformation is complicating FEMA\u2019s efforts. Plus, WSJ\u2019s Nate Rattner on the growing influence of \u201cnews influencers.\u201d Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7682942782.mp3?updated=1728509290"
+                    },
+                    "guid": {
+                        "#text": "257c2d58-8684-11ef-b9b0-b7e8d01aeffb",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Wall Street Journal",
+                    "itunes:duration": "827",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "P.M. Edition for Oct. 9. More Americans identify as Republican than Democrats. WSJ reporter Aaron Zitner discusses what it might mean for the presidential election. And as millions of Florida residents brace for Hurricane Milton, the Journal\u2019s Michelle Hackman explains how misinformation is complicating FEMA\u2019s efforts. Plus, WSJ\u2019s Nate Rattner on the growing influence of \u201cnews influencers.\u201d Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Wed, 09 Oct 2024 20:21:00 -0000",
+                    "title": "More Americans Identify as Republican. What It Means for the Election."
+                },
+                {
+                    "content:encoded": "<p>A.M. Edition for Oct. 9. The WSJ\u2019s <a href=\"https://www.wsj.com/news/author/katy-stechferek\">Katy Stech Ferek</a> goes over the <a href=\"https://www.wsj.com/us-news/climate-environment/florida-braces-for-direct-hit-as-hurricane-milton-strengthens-to-category-5-fae261f0?st=TRKzRQ&amp;reflink=desktopwebshare_permalink\">key races and issues</a> that could determine who wins the House majority. Plus, millions are put under evacuation orders in Florida as Hurricane <a href=\"https://www.wsj.com/us-news/climate-environment/florida-braces-for-direct-hit-as-hurricane-milton-strengthens-to-category-5-fae261f0?st=TRKzRQ&amp;reflink=desktopwebshare_permalink\">Milton strengthens to a Category 5 storm</a>. And, U.S. antitrust officials <a href=\"https://www.wsj.com/us-news/climate-environment/florida-braces-for-direct-hit-as-hurricane-milton-strengthens-to-category-5-fae261f0?st=TRKzRQ&amp;reflink=desktopwebshare_permalink\">consider</a> <a href=\"https://www.wsj.com/us-news/climate-environment/florida-braces-for-direct-hit-as-hurricane-milton-strengthens-to-category-5-fae261f0?st=TRKzRQ&amp;reflink=desktopwebshare_permalink\"> breaking up Google</a>. Azhar Sukri hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ\u2019s free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What\u2019s News newsletter.</a></p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "A.M. Edition for Oct. 9. The WSJ\u2019s Katy Stech Ferek goes over the key races and issues that could determine who wins the House majority. Plus, millions are put under evacuation orders in Florida as Hurricane Milton strengthens to a Category 5 storm. And, U.S. antitrust officials consider  breaking up Google. Azhar Sukri hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1671069375.mp3?updated=1728472168"
+                    },
+                    "guid": {
+                        "#text": "a9445d4c-8628-11ef-a660-0fcc273f22ae",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Wall Street Journal",
+                    "itunes:duration": "814",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "A.M. Edition for Oct. 9. The WSJ\u2019s Katy Stech Ferek goes over the key races and issues that could determine who wins the House majority. Plus, millions are put under evacuation orders in Florida as Hurricane Milton strengthens to a Category 5 storm. And, U.S. antitrust officials consider  breaking up Google. Azhar Sukri hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Wed, 09 Oct 2024 10:06:00 -0000",
+                    "title": "The Battle for Control of the House Goes Down to the Wire"
+                },
+                {
+                    "content:encoded": "<p>P.M. Edition for Oct. 8. WSJ markets reporter <a href=\"https://www.wsj.com/news/author/hardika-singh\">Hardika Singh</a> discusses whether the third quarter earnings reports can show there\u2019s <a href=\"https://www.wsj.com/finance/stocks/a-less-glamorous-group-of-stocks-steps-into-the-spotlight-384f07b3?st=MxremM&amp;reflink=desktopwebshare_permalink\">more</a> to the S&amp;P 500 than just the Magnificent Seven. And WSJ\u2019s <a href=\"https://www.wsj.com/news/author/jared-s-hopkins\">Jared Hopkins</a> explains what\u2019s <a href=\"https://www.wsj.com/health/pharma/why-pfizer-will-find-it-hard-to-appease-its-activist-investor-21f1d249?st=aAiuXK&amp;reflink=desktopwebshare_permalink\">next</a> for Pfizer after an activist investor revealed a $1 billion stake. Plus, the U.S. deficit tops <a href=\"https://www.wsj.com/politics/policy/budget-deficit-national-debt-2024-079d8d13?st=zm7XdP&amp;reflink=desktopwebshare_permalink\">$1.8 trillion</a> in 2024. Tracie Hunte hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ's free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What's News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "P.M. Edition for Oct. 8. WSJ markets reporter Hardika Singh discusses whether the third quarter earnings reports can show there\u2019s more to the S&P 500 than just the Magnificent Seven. And WSJ\u2019s Jared Hopkins explains what\u2019s next for Pfizer after an activist investor revealed a $1 billion stake. Plus, the U.S. deficit tops $1.8 trillion in 2024. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7230169920.mp3?updated=1728422448"
+                    },
+                    "guid": {
+                        "#text": "ff5f9e18-85b9-11ef-a75a-ef8fcc829047",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Wall Street Journal",
+                    "itunes:duration": "805",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "P.M. Edition for Oct. 8. WSJ markets reporter Hardika Singh discusses whether the third quarter earnings reports can show there\u2019s more to the S&P 500 than just the Magnificent Seven. And WSJ\u2019s Jared Hopkins explains what\u2019s next for Pfizer after an activist investor revealed a $1 billion stake. Plus, the U.S. deficit tops $1.8 trillion in 2024. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Tue, 08 Oct 2024 21:02:00 -0000",
+                    "title": "The Magnificent Seven Aren\u2019t This Market\u2019s Only Winners"
+                },
+                {
+                    "content:encoded": "<p>A.M. Edition for Oct. 8. The WSJ\u2019s <a href=\"https://www.wsj.com/news/author/tarini-parti\">Tarini Parti</a> and <a href=\"https://www.wsj.com/news/author/natalie-andrews\">Natalie</a> <a href=\"https://www.wsj.com/news/author/natalie-andrews\">Andrews</a> talk us through the issues\u2013from <a href=\"https://www.wsj.com/politics/elections/five-issues-where-donald-trump-flip-flopped-29123a30\">abortion</a> and <a href=\"https://www.wsj.com/politics/elections/kamala-harris-policy-position-changes-80ea3f7f?st=FEu6KL&amp;reflink=desktopwebshare_permalink\">Medicare</a> to fracking and marijuana\u2013that Vice President Kamala Harris and former President Donald Trump have changed their stance on as they try to win votes. Plus, a judge rules that Google must make it easier for app stores to <a href=\"https://www.wsj.com/tech/google-must-make-it-easier-for-app-stores-to-compete-on-android-judge-rules-20d40053?st=NPtjrC&amp;reflink=desktopwebshare_permalink\">compete on Android</a>. And, <a href=\"https://www.wsj.com/tech/google-must-make-it-easier-for-app-stores-to-compete-on-android-judge-rules-20d40053?st=NPtjrC&amp;reflink=desktopwebshare_permalink\">Samsung issues a rare apology</a> over an expected earnings miss. Azhar Sukri hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ\u2019s free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What\u2019s News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "A.M. Edition for Oct. 8. The WSJ\u2019s Tarini Parti and Natalie Andrews talk us through the issues\u2013from abortion and Medicare to fracking and marijuana\u2013that Vice President Kamala Harris and former President Donald Trump have changed their stance on as they try to win votes. Plus, a judge rules that Google must make it easier for app stores to compete on Android. And, Samsung issues a rare apology over an expected earnings miss. Azhar Sukri hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7419579453.mp3?updated=1728382854"
+                    },
+                    "guid": {
+                        "#text": "dac1d2bc-855d-11ef-a888-d3706fd21f01",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Wall Street Journal",
+                    "itunes:duration": "846",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "A.M. Edition for Oct. 8. The WSJ\u2019s Tarini Parti and Natalie Andrews talk us through the issues\u2013from abortion and Medicare to fracking and marijuana\u2013that Vice President Kamala Harris and former President Donald Trump have changed their stance on as they try to win votes. Plus, a judge rules that Google must make it easier for app stores to compete on Android. And, Samsung issues a rare apology over an expected earnings miss. Azhar Sukri hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Tue, 08 Oct 2024 10:07:00 -0000",
+                    "title": "A Look at Harris and Trump\u2019s Policy Flip Flops"
+                },
+                {
+                    "content:encoded": "<p>P.M. Edition for Oct. 7. The Wall Street Journal\u2019s deputy bureau chief for the Middle East and North Africa <a href=\"https://www.wsj.com/news/author/shayndi-raice\">Shayndi Raice</a> discusses how the Hamas attacks changed <a href=\"https://www.wsj.com/world/middle-east/israel-sees-future-at-war-oct-7-770d67ee?st=n1kDrD&amp;reflink=desktopwebshare_permalink\">Israel\u2019s security strategy</a>. And as it recovers from Hurricane Helene, <a href=\"https://www.wsj.com/us-news/climate-environment/hurricane-milton-now-a-category-3-storm-on-track-to-batter-florida-0b11f25f?st=MDsf9G&amp;reflink=desktopwebshare_permalink\">Florida braces for Category 5 storm Milton</a>. Plus, <a href=\"https://www.wsj.com/finance/stocks/stock-market-rally-corporate-insiders-2bb59974?st=vBub3a&amp;reflink=desktopwebshare_permalink\">corporate insiders haven\u2019t been buying their own stocks</a>. WSJ reporter <a href=\"https://www.wsj.com/news/author/karen-langley\">Karen Langley</a> explains what that might mean for other investors. Tracie Hunte hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ's free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What's News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "P.M. Edition for Oct. 7. The Wall Street Journal\u2019s deputy bureau chief for the Middle East and North Africa Shayndi Raice discusses how the Hamas attacks changed Israel\u2019s security strategy. And as it recovers from Hurricane Helene, Florida braces for Category 5 storm Milton. Plus, corporate insiders haven\u2019t been buying their own stocks. WSJ reporter Karen Langley explains what that might mean for other investors. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1770770023.mp3?updated=1728335531"
+                    },
+                    "guid": {
+                        "#text": "82c60db2-84ef-11ef-8d39-0bdcbd487eac",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Wall Street Journal",
+                    "itunes:duration": "775",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "P.M. Edition for Oct. 7. The Wall Street Journal\u2019s deputy bureau chief for the Middle East and North Africa Shayndi Raice discusses how the Hamas attacks changed Israel\u2019s security strategy. And as it recovers from Hurricane Helene, Florida braces for Category 5 storm Milton. Plus, corporate insiders haven\u2019t been buying their own stocks. WSJ reporter Karen Langley explains what that might mean for other investors. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Mon, 07 Oct 2024 21:02:00 -0000",
+                    "title": "One Year After Oct. 7, Israel Prepares for Years of War"
+                },
+                {
+                    "content:encoded": "<p>A.M. Edition for Oct. 7. Russian weapons dealer <a href=\"https://www.wsj.com/world/russia/putins-merchant-of-death-is-back-in-the-arms-business-this-time-selling-to-the-houthis-10b7f521?st=K3HKJc&amp;reflink=desktopwebshare_permalink\">Viktor Bout is trying to broker the sale of small arms</a> to Yemen\u2019s Houthi militants, just two years after he was released from a U.S. jail in a trade with Moscow for American basketball star Brittney Griner. Plus, the WSJ\u2019s <a href=\"https://www.wsj.com/news/author/anat-peled\">Anat Peled</a> brings us  an update on the humanitarian situation in Gaza, one year on from Hamas\u2019s surprise attack on Israel. And, with a <a href=\"https://www.wsj.com/us-news/climate-environment/tropical-storm-milton-could-hit-florida-as-a-hurricane-midweek-cd2fb86b?st=PxgUt9&amp;reflink=desktopwebshare_permalink\">new hurricane headed toward Florida</a>, the WSJ\u2019s <a href=\"https://www.wsj.com/news/author/deborah-acosta\">Deborah Acosta</a> explains the  <a href=\"https://www.wsj.com/us-news/climate-environment/tropical-storm-milton-could-hit-florida-as-a-hurricane-midweek-cd2fb86b?st=XtjPzD&amp;reflink=desktopwebshare_permalink\">effects of extreme weather on the real-estate market</a>. Azhar Sukri hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ\u2019s free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What\u2019s News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "A.M. Edition for Oct. 7. Russian weapons dealer Viktor Bout is trying to broker the sale of small arms to Yemen\u2019s Houthi militants, just two years after he was released from a U.S. jail in a trade with Moscow for American basketball star Brittney Griner. Plus, the WSJ\u2019s Anat Peled brings us  an update on the humanitarian situation in Gaza, one year on from Hamas\u2019s surprise attack on Israel. And, with a new hurricane headed toward Florida, the WSJ\u2019s Deborah Acosta explains the  effects of extreme weather on the real-estate market. Azhar Sukri hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8568309911.mp3?updated=1728297621"
+                    },
+                    "guid": {
+                        "#text": "3fcb00ce-8497-11ef-9bd3-2b499b56314f",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Wall Street Journal",
+                    "itunes:duration": "810",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "A.M. Edition for Oct. 7. Russian weapons dealer Viktor Bout is trying to broker the sale of small arms to Yemen\u2019s Houthi militants, just two years after he was released from a U.S. jail in a trade with Moscow for American basketball star Brittney Griner. Plus, the WSJ\u2019s Anat Peled brings us  an update on the humanitarian situation in Gaza, one year on from Hamas\u2019s surprise attack on Israel. And, with a new hurricane headed toward Florida, the WSJ\u2019s Deborah Acosta explains the  effects of extreme weather on the real-estate market. Azhar Sukri hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Mon, 07 Oct 2024 10:14:00 -0000",
+                    "title": "Putin\u2019s \u2018Merchant of Death\u2019 Is Selling Arms to the Houthis"
+                },
+                {
+                    "content:encoded": "<p>Nevada has more non-partisan voters than either Republicans or Democrats, and many were dreading a rematch between President Biden and former President Donald Trump. Polls showed double-digit support for Robert F. Kennedy Jr. before he dropped out of the race and endorsed Trump, and before Kamala Harris replaced Biden atop the Democratic ticket. WSJ political reporter Jimmy Vielkind travels to the battleground state to find out how voters responded to the candidates\u2019 shifts going into November.</p>\n<p><br></p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "Nevada has more non-partisan voters than either Republicans or Democrats, and many were dreading a rematch between President Biden and former President Donald Trump. Polls showed double-digit support for Robert F. Kennedy Jr. before he dropped out of the race and endorsed Trump, and before Kamala Harris replaced Biden atop the Democratic ticket. WSJ political reporter Jimmy Vielkind travels to the battleground state to find out how voters responded to the candidates\u2019 shifts going into November.\n\n\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4227338323.mp3?updated=1728200942"
+                    },
+                    "guid": {
+                        "#text": "cc14eb2c-83b0-11ef-9b2a-df7dae2d8ae9",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Wall Street Journal",
+                    "itunes:duration": "1179",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://megaphone.imgix.net/podcasts/cc14eb2c-83b0-11ef-9b2a-df7dae2d8ae9/image/3e48033414a8b137730959b98e344827.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+                    },
+                    "itunes:subtitle": null,
+                    "itunes:summary": "Nevada has more non-partisan voters than either Republicans or Democrats, and many were dreading a rematch between President Biden and former President Donald Trump. Polls showed double-digit support for Robert F. Kennedy Jr. before he dropped out of the race and endorsed Trump, and before Kamala Harris replaced Biden atop the Democratic ticket. WSJ political reporter Jimmy Vielkind travels to the battleground state to find out how voters responded to the candidates\u2019 shifts going into November.\n\n\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Sun, 06 Oct 2024 07:01:00 -0000",
+                    "title": "Chasing the Vote: Nevada\u2019s \u2018None of the Above\u2019 Voters"
+                },
+                {
+                    "content:encoded": "<p>Why are global automakers hitting the brakes? And why did Tesla's stock fall despite the company delivering more vehicles? Plus, what sent Spirit Airlines shares into a tailspin? Host Francesca Fontana discusses the biggest stock moves of the week and the news that drove them.</p>\n<p><br></p>\n<p>Sign up for the WSJ's free <a href=\"https://www.wsj.com/newsletters/markets-am?mod=WSJ_YMBPOD\">Markets A.M. newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "Why are global automakers hitting the brakes? And why did Tesla's stock fall despite the company delivering more vehicles? Plus, what sent Spirit Airlines shares into a tailspin? Host Francesca Fontana discusses the biggest stock moves of the week and the news that drove them.\n\n\n\nSign up for the WSJ's free Markets A.M. newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ3512837405.mp3?updated=1728134614"
+                    },
+                    "guid": {
+                        "#text": "a319173a-8300-11ef-8a7a-d7c6a830a820",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Wall Street Journal",
+                    "itunes:duration": "351",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "Why are global automakers hitting the brakes? And why did Tesla's stock fall despite the company delivering more vehicles? Plus, what sent Spirit Airlines shares into a tailspin? Host Francesca Fontana discusses the biggest stock moves of the week and the news that drove them.\n\n\n\nSign up for the WSJ's free Markets A.M. newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Sat, 05 Oct 2024 10:00:00 -0000",
+                    "title": "What's News in Markets: Tesla Deliveries, Spirit's Nosedive, Carmakers' Roadblocks"
+                },
+                {
+                    "content:encoded": "<p>P.M. Edition for Oct. 4. Wall Street Journal national security reporter <a href=\"https://www.wsj.com/news/author/lara-seligman\">Lara Seligman</a> on the U.S.'s <a href=\"https://www.wsj.com/politics/national-security/biden-sidelined-as-israel-reshapes-middle-east-46ae9825?st=14Pm2k&amp;reflink=desktopwebshare_permalink\">diminished influence</a> over its closest ally in the Middle East. And September\u2019s U.S. jobs report was <a href=\"https://www.wsj.com/economy/jobs/jobs-report-september-unemployment-economy-dfa7c99f?st=CHE2x2&amp;reflink=desktopwebshare_permalink\">better than expected</a>. We find out why from Journal reporter <a href=\"https://www.wsj.com/news/author/harriet-torry#:~:text=Harriet%20Torry%20is%20The%20Wall,Journal's%20Washington%2C%20D.C.%2C%20bureau\">Harriet Torry</a>. Plus, <a href=\"https://www.wsj.com/real-estate/commercial/openai-is-putting-down-office-roots-in-new-york-86194c6c?st=R6L2Ep&amp;reflink=desktopwebshare_permalink\">OpenAI</a> is opening an office in Manhattan. Tracie Hunte hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ's free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What's News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "P.M. Edition for Oct. 4. Wall Street Journal national security reporter Lara Seligman on the U.S.'s diminished influence over its closest ally in the Middle East. And September\u2019s U.S. jobs report was better than expected. We find out why from Journal reporter Harriet Torry. Plus, OpenAI is opening an office in Manhattan. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6741045693.mp3?updated=1728077401"
+                    },
+                    "guid": {
+                        "#text": "f5675a5e-8294-11ef-bb8e-e3463d32aed0",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Wall Street Journal",
+                    "itunes:duration": "807",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "P.M. Edition for Oct. 4. Wall Street Journal national security reporter Lara Seligman on the U.S.'s diminished influence over its closest ally in the Middle East. And September\u2019s U.S. jobs report was better than expected. We find out why from Journal reporter Harriet Torry. Plus, OpenAI is opening an office in Manhattan. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Fri, 04 Oct 2024 21:03:00 -0000",
+                    "title": "Biden Sidelined as Israel Plans Retaliatory Iran Strike"
+                },
+                {
+                    "content:encoded": "<p>A.M. Edition for Oct. 4. Dockworkers agree to return to work after port operators offer a <a href=\"https://www.wsj.com/business/logistics/port-operators-to-offer-62-raises-to-end-dockworkers-strike-a6032db5?st=fpuDLn&amp;reflink=desktopwebshare_permalink\">62% wage increase over six years</a>, ending a shutdown that threatened to disrupt the economy. But there\u2019s still a lot to be hashed out between the union and employers, the WSJ\u2019s <a href=\"https://www.wsj.com/news/author/paul-berger\">Paul Berger</a> says. Plus, Spirit Airlines <a href=\"https://www.wsj.com/articles/spirit-airlines-in-talks-with-bondholders-over-terms-of-potential-bankruptcy-filing-fdd23fae?st=pJNwEC&amp;reflink=desktopwebshare_permalink\">explores a bankruptcy filing</a>. And, the WSJ\u2019s <a href=\"https://www.wsj.com/news/author/rebecca-feng\">Rebecca Feng</a> explains why <a href=\"https://www.wsj.com/world/china/china-housing-glut-population-economy-09cffa6a?st=nNmJVR&amp;reflink=desktopwebshare_permalink\">China\u2019s ghost cities</a> are haunting policymakers. Azhar Sukri hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ\u2019s free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What\u2019s News newsletter</a>.\u00a0</p>\n<p><br></p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "A.M. Edition for Oct. 4. Dockworkers agree to return to work after port operators offer a 62% wage increase over six years, ending a shutdown that threatened to disrupt the economy. But there\u2019s still a lot to be hashed out between the union and employers, the WSJ\u2019s Paul Berger says. Plus, Spirit Airlines explores a bankruptcy filing. And, the WSJ\u2019s Rebecca Feng explains why China\u2019s ghost cities are haunting policymakers. Azhar Sukri hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\u00a0\n\n\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6664987470.mp3?updated=1728037685"
+                    },
+                    "guid": {
+                        "#text": "e2774bea-8238-11ef-80ee-77e4c0b04920",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Wall Street Journal",
+                    "itunes:duration": "821",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "A.M. Edition for Oct. 4. Dockworkers agree to return to work after port operators offer a 62% wage increase over six years, ending a shutdown that threatened to disrupt the economy. But there\u2019s still a lot to be hashed out between the union and employers, the WSJ\u2019s Paul Berger says. Plus, Spirit Airlines explores a bankruptcy filing. And, the WSJ\u2019s Rebecca Feng explains why China\u2019s ghost cities are haunting policymakers. Azhar Sukri hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\u00a0\n\n\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Fri, 04 Oct 2024 10:04:00 -0000",
+                    "title": "Workers Agree to End Massive U.S. Port Strike"
+                },
+                {
+                    "content:encoded": "<p>P.M. Edition for Oct. 3. A <a href=\"https://www.wsj.com/finance/commodities-futures/oil-surges-after-biden-says-u-s-discussing-israel-attack-on-iran-facilities-a59bc990?st=RvmvGk&amp;reflink=desktopwebshare_permalink\">possible strike on Iran\u2019s oil facilities</a> could push prices higher just weeks before the U.S. presidential election. And <a href=\"https://www.wsj.com/business/machine-lockout-rules-are-being-violated-its-killing-workers-ac50059f?st=yVSVNK&amp;reflink=desktopwebshare_permalink\">deadly workplace accidents</a> continue despite a regulation meant to prevent them. WSJ reporter <a href=\"https://www.wsj.com/news/author/john-keilman\">John Keilman</a> explains why. Plus, credit reporter <a href=\"https://www.wsj.com/news/author/matt-wirz\">Matt Wirz</a> on the Wall Street rush to get ordinary investors into <a href=\"https://www.wsj.com/finance/investing/wall-street-races-to-bring-private-credit-to-the-masses-8a25b624?st=qwc5i7&amp;reflink=desktopwebshare_permalink\">private credit</a>. Tracie Hunte hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ's free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What's News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "P.M. Edition for Oct. 3. A possible strike on Iran\u2019s oil facilities could push prices higher just weeks before the U.S. presidential election. And deadly workplace accidents continue despite a regulation meant to prevent them. WSJ reporter John Keilman explains why. Plus, credit reporter Matt Wirz on the Wall Street rush to get ordinary investors into private credit. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8378142478.mp3?updated=1727992156"
+                    },
+                    "guid": {
+                        "#text": "4c89b290-81ce-11ef-9b78-dbd8e1e19a15",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Wall Street Journal",
+                    "itunes:duration": "843",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "P.M. Edition for Oct. 3. A possible strike on Iran\u2019s oil facilities could push prices higher just weeks before the U.S. presidential election. And deadly workplace accidents continue despite a regulation meant to prevent them. WSJ reporter John Keilman explains why. Plus, credit reporter Matt Wirz on the Wall Street rush to get ordinary investors into private credit. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Thu, 03 Oct 2024 21:26:00 -0000",
+                    "title": "Oil Surges After Biden Comment on Possible Israeli Strike on Iran Oil"
+                },
+                {
+                    "content:encoded": "<p>A.M. Edition for Oct. 3. Elon Musk <a href=\"https://www.wsj.com/politics/policy/elon-musk-political-donations-stephen-miller-desantis-39464294?st=2NKHcF&amp;reflink=desktopwebshare_permalink\">quietly gave tens of millions of dollars</a> to groups with ties to Trump aide Stephen Miller and supporters of Florida Gov. Ron DeSantis\u2019s presidential bid. Plus, an <a href=\"https://www.wsj.com/world/middle-east/israel-strikes-in-beirut-battles-hezbollah-in-southern-lebanon-14123636?st=Ua9gCT&amp;reflink=desktopwebshare_permalink\">Israeli strike on Beirut</a> kills six people, and special counsel Jack Smith says Donald Trump \u201c<a href=\"https://www.wsj.com/politics/elections/special-counsel-says-trump-committed-private-crimes-in-bid-to-stay-in-power-8697e1e8?st=JPdE6Y&amp;reflink=desktopwebshare_permalink\">resorted to crimes</a> \u201d to remain in power after the 2020 election. And, the WSJ\u2019s <a href=\"https://www.wsj.com/news/author/ruth-simon\">Ruth Simon</a> reports that the Fed\u2019s <a href=\"https://www.wsj.com/business/entrepreneurship/fed-interest-rate-cut-small-business-spending-abfed941?st=oeHFgu&amp;reflink=desktopwebshare_permalink\">rate cut has jolted some entrepreneurs</a> to spend again. Azhar Sukri hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ\u2019s free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What\u2019s News newsletter</a>.\u00a0</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "A.M. Edition for Oct. 3. Elon Musk quietly gave tens of millions of dollars to groups with ties to Trump aide Stephen Miller and supporters of Florida Gov. Ron DeSantis\u2019s presidential bid. Plus, an Israeli strike on Beirut kills six people, and special counsel Jack Smith says Donald Trump \u201cresorted to crimes \u201d to remain in power after the 2020 election. And, the WSJ\u2019s Ruth Simon reports that the Fed\u2019s rate cut has jolted some entrepreneurs to spend again. Azhar Sukri hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\u00a0\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ2258112019.mp3?updated=1727952004"
+                    },
+                    "guid": {
+                        "#text": "abfd79d2-816f-11ef-b7ad-c359fea56dee",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Wall Street Journal",
+                    "itunes:duration": "862",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "A.M. Edition for Oct. 3. Elon Musk quietly gave tens of millions of dollars to groups with ties to Trump aide Stephen Miller and supporters of Florida Gov. Ron DeSantis\u2019s presidential bid. Plus, an Israeli strike on Beirut kills six people, and special counsel Jack Smith says Donald Trump \u201cresorted to crimes \u201d to remain in power after the 2020 election. And, the WSJ\u2019s Ruth Simon reports that the Fed\u2019s rate cut has jolted some entrepreneurs to spend again. Azhar Sukri hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\u00a0\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Thu, 03 Oct 2024 09:59:00 -0000",
+                    "title": "Musk\u2019s Support for Republican Causes Started Years Ago"
+                },
+                {
+                    "content:encoded": "<p>P.M. Edition for Oct. 2. WSJ reporter <a href=\"https://www.wsj.com/news/author/theo-francis\">Theo Francis</a> on why converting the startup behind ChatGPT <a href=\"https://www.wsj.com/tech/ai/openais-complex-path-to-becoming-a-for-profit-company-bad21a42?st=1v7neJ&amp;reflink=desktopwebshare_permalink\">from a nonprofit to a for-profit company</a> is enormously complex. And Wall Street Journal White House reporter <a href=\"https://www.wsj.com/news/author/annie-linskey\">Annie Linskey</a> discusses how the devastation from Hurricane Helene in two crucial swing states means U.S. presidential candidates have to show <a href=\"https://www.wsj.com/politics/policy/hurricane-helene-scrambles-campaign-calculus-for-harris-and-trump-1eb47baa?st=31SfaZ&amp;reflink=desktopwebshare_permalink\">command and empathy</a>\u2014without appearing to politicize a disaster. Plus, WSJ correspondent <a href=\"https://www.wsj.com/news/author/georgi-kantchev\">Georgi Kantchev</a> explains why <a href=\"https://www.wsj.com/world/svalbard-russia-china-arctic-trade-e6187bd8?st=zTYGJs&amp;reflink=desktopwebshare_permalink\">an archipelago above the Arctic Circle</a> is emerging as a front line for Russia, China and NATO. Tracie Hunte hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ's free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What's News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "P.M. Edition for Oct. 2. WSJ reporter Theo Francis on why converting the startup behind ChatGPT from a nonprofit to a for-profit company is enormously complex. And Wall Street Journal White House reporter Annie Linskey discusses how the devastation from Hurricane Helene in two crucial swing states means U.S. presidential candidates have to show command and empathy\u2014without appearing to politicize a disaster. Plus, WSJ correspondent Georgi Kantchev explains why an archipelago above the Arctic Circle is emerging as a front line for Russia, China and NATO. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6516860712.mp3?updated=1727906722"
+                    },
+                    "guid": {
+                        "#text": "c36d2d1a-8106-11ef-80ea-9ba61c343592",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Wall Street Journal",
+                    "itunes:duration": "828",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "P.M. Edition for Oct. 2. WSJ reporter Theo Francis on why converting the startup behind ChatGPT from a nonprofit to a for-profit company is enormously complex. And Wall Street Journal White House reporter Annie Linskey discusses how the devastation from Hurricane Helene in two crucial swing states means U.S. presidential candidates have to show command and empathy\u2014without appearing to politicize a disaster. Plus, WSJ correspondent Georgi Kantchev explains why an archipelago above the Arctic Circle is emerging as a front line for Russia, China and NATO. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Wed, 02 Oct 2024 21:38:00 -0000",
+                    "title": "OpenAI Nearly Doubles Its Valuation. Turning For-Profit May Be Harder"
+                }
+            ],
+            "itunes:author": "The Wall Street Journal",
+            "itunes:category": {
+                "@text": "News",
+                "itunes:category": {
+                    "@text": "Daily News"
+                }
             },
-            "guid": "322ca7c4-7f1a-11ef-8c61-63fd571516c0",
-            "isoDate": "2024-09-30T10:49:00.000Z",
-            "itunes": {
-                "author": "The Wall Street Journal",
-                "duration": "837",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "A.M. Edition for Sept. 30. Israel\u2019s special forces have been launching the targeted raids for weeks as they probe Hezbollah\u2019s capabilities. The WSJ\u2019s Stephen Kalin says the group is in disarray after the killing of leader Hassan Nasrallah. Plus, states rush to provide aid as the death toll from Hurricane Helene rises to more than 90. And, Americans are more reliant than ever on government aid. The WSJ\u2019s Aaron Zitner explains why that matters for the presidential election. Kate Bullivant hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter .\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
+            "itunes:explicit": "no",
+            "itunes:image": {
+                "@href": "https://megaphone.imgix.net/podcasts/7297a16a-9f81-11e5-8821-232b0d194322/image/WSJ_Podcast_Whats_News.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
             },
-            "pubDate": "Mon, 30 Sep 2024 10:49:00 -0000",
-            "title": "Israel Carries Out Raids Into Lebanon Ahead of Possible Ground Incursion"
-        },
-        {
-            "content": "The first anniversary of the Israel-Hamas war is days away, but how close is the conflict to coming to an end? WSJ Middle East editor Andrew Dowell and Tel Aviv-based reporter Anat Peled answer your questions on the ceasefire talks and what\u2019s likely to happen if a deal remains elusive. Luke Vargas hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\u00a0\n\n\n\nFurther Reading\n\nU.S. and Allies Call for Three-Week Pause to Head Off Israel-Hezbollah Ground War\u00a0\n\nAn Isolated Netanyahu Resists Pressure to End Conflicts\u00a0\n\nNetanyahu Allies Make the Case for Firing Israel\u2019s Defense Minister\u00a0\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>The first anniversary of the Israel-Hamas war is days away, but how close is the conflict to coming to an end? WSJ Middle East editor <a href=\"https://www.wsj.com/news/author/drew-dowell\">Andrew Dowell</a> and Tel Aviv-based reporter <a href=\"https://www.wsj.com/news/author/anat-peled\">Anat Peled</a> answer your questions on the ceasefire talks and what\u2019s likely to happen if a deal remains elusive. Luke Vargas hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ\u2019s free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What\u2019s News newsletter</a>.\u00a0</p>\n<p><br></p>\n<p>Further Reading</p>\n<p><a href=\"https://www.wsj.com/world/middle-east/biden-administration-floats-temporary-cease-fire-to-head-off-israel-hezbollah-ground-war-6dac4767\">U.S. and Allies Call for Three-Week Pause to Head Off Israel-Hezbollah Ground War</a>\u00a0</p>\n<p><a href=\"https://www.wsj.com/world/middle-east/an-isolated-netanyahu-resists-pressure-to-end-conflicts-4193e7bf\">An Isolated Netanyahu Resists Pressure to End Conflicts</a>\u00a0</p>\n<p><a href=\"https://www.wsj.com/world/middle-east/netanyahu-allies-make-the-case-for-firing-israeli-defense-minister-c745ecc8?st=hskmdnjv7bgw09e\">Netanyahu Allies Make the Case for Firing Israel\u2019s Defense Minister</a>\u00a0</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "The first anniversary of the Israel-Hamas war is days away, but how close is the conflict to coming to an end? WSJ Middle East editor Andrew Dowell and Tel Aviv-based reporter Anat Peled answer your questions on the ceasefire talks and what\u2019s likely to happen if a deal remains elusive. Luke Vargas hosts.\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\u00a0\n\nFurther Reading\nU.S. and Allies Call for Three-Week Pause to Head Off Israel-Hezbollah Ground War\u00a0\nAn Isolated Netanyahu Resists Pressure to End Conflicts\u00a0\nNetanyahu Allies Make the Case for Firing Israel\u2019s Defense Minister\u00a0\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "The first anniversary of the Israel-Hamas war is days away, but how close is the conflict to coming to an end? WSJ Middle East editor Andrew Dowell and Tel Aviv-based reporter Anat Peled answer your questions on the ceasefire talks and what\u2019s likely to happen if a deal remains elusive. Luke Vargas hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\u00a0\n\n\n\nFurther Reading\n\nU.S. and Allies Call for Three-Week Pause to Head Off Israel-Hezbollah Ground War\u00a0\n\nAn Isolated Netanyahu Resists Pressure to End Conflicts\u00a0\n\nNetanyahu Allies Make the Case for Firing Israel\u2019s Defense Minister\u00a0\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5309028678.mp3?updated=1727604481"
+            "itunes:owner": {
+                "itunes:email": "podcasts@dowjones.com",
+                "itunes:name": "The Wall Street Journal"
             },
-            "guid": "9f34f7e4-7e49-11ef-9e63-abd758fd4bcf",
-            "isoDate": "2024-09-29T10:00:00.000Z",
-            "itunes": {
-                "author": "The Wall Street Journal",
-                "duration": "826",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "The first anniversary of the Israel-Hamas war is days away, but how close is the conflict to coming to an end? WSJ Middle East editor Andrew Dowell and Tel Aviv-based reporter Anat Peled answer your questions on the ceasefire talks and what\u2019s likely to happen if a deal remains elusive. Luke Vargas hosts.\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\u00a0\n\n\n\nFurther Reading\n\nU.S. and Allies Call for Three-Week Pause to Head Off Israel-Hezbollah Ground War\u00a0\n\nAn Isolated Netanyahu Resists Pressure to End Conflicts\u00a0\n\nNetanyahu Allies Make the Case for Firing Israel\u2019s Defense Minister\u00a0\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Sun, 29 Sep 2024 10:00:00 -0000",
-            "title": "The War in Gaza, One Year On: Your Questions Answered"
-        },
-        {
-            "content": "What did investors make of changes to Southwest\u2019s famous seating strategy? And why did two big AI tech-stock names go in opposite directions? Plus, why did Costco shares get a markdown? Host Francesca Fontana discusses the biggest stock moves of the week and the news that drove them.\n\n\n\nSign up for the WSJ's free Markets A.M. newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>What did investors make of changes to Southwest\u2019s famous seating strategy? And why did two big AI tech-stock names go in opposite directions? Plus, why did Costco shares get a markdown? Host Francesca Fontana discusses the biggest stock moves of the week and the news that drove them.</p>\n<p><br></p>\n<p>Sign up for the WSJ's free <a href=\"https://www.wsj.com/newsletters/markets-am?mod=WSJ_YMBPOD\">Markets A.M. newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "What did investors make of changes to Southwest\u2019s famous seating strategy? And why did two big AI tech-stock names go in opposite directions? Plus, why did Costco shares get a markdown? Host Francesca Fontana discusses the biggest stock moves of the week and the news that drove them.\n\nSign up for the WSJ's free Markets A.M. newsletter.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "What did investors make of changes to Southwest\u2019s famous seating strategy? And why did two big AI tech-stock names go in opposite directions? Plus, why did Costco shares get a markdown? Host Francesca Fontana discusses the biggest stock moves of the week and the news that drove them.\n\n\n\nSign up for the WSJ's free Markets A.M. newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1171215588.mp3?updated=1727517978"
-            },
-            "guid": "75fdbea2-7d80-11ef-943f-57ab5034d86a",
-            "isoDate": "2024-09-28T10:00:00.000Z",
-            "itunes": {
-                "author": "The Wall Street Journal",
-                "duration": "320",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "What did investors make of changes to Southwest\u2019s famous seating strategy? And why did two big AI tech-stock names go in opposite directions? Plus, why did Costco shares get a markdown? Host Francesca Fontana discusses the biggest stock moves of the week and the news that drove them.\n\n\n\nSign up for the WSJ's free Markets A.M. newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Sat, 28 Sep 2024 10:00:00 -0000",
-            "title": "What\u2019s News in Markets: Southwest Soars, AI Divergence, Costco\u2019s Markdown"
-        },
-        {
-            "content": "P.M. Edition for Sept. 27. Wall Street Journal White House reporter Ken Thomas on why electric vehicles are becoming a big issue in the presidential election. And Israel targets Hezbollah leader Hassan Nasrallah with a massive airstrike in Beirut. Plus, scaling up is proving tough for many clean energy startups. The Journal\u2019s Amrith Ramkumar explains one company\u2019s growing pains. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>P.M. Edition for Sept. 27. Wall Street Journal White House reporter <a href=\"https://www.wsj.com/news/author/ken-thomas\">Ken Thomas</a> on why electric vehicles are becoming a <a href=\"https://www.wsj.com/politics/elections/harris-tiptoes-away-from-electric-vehicle-stance-as-trump-seizes-an-opening-in-michigan-dd52d03d?st=e9JNP9&amp;reflink=desktopwebshare_permalink\">big issue</a> in the presidential election. And Israel targets Hezbollah leader Hassan Nasrallah with a <a href=\"https://www.wsj.com/world/middle-east/israel-says-it-shot-down-missile-fired-from-yemen-b67c7dc5?st=Vmo8vy&amp;reflink=desktopwebshare_permalink\">massive airstrike</a> in Beirut. Plus, scaling up is proving tough for many clean energy startups. The Journal\u2019s <a href=\"https://www.wsj.com/news/author/amrith-ramkumar\">Amrith Ramkumar</a> explains one company\u2019s <a href=\"https://www.wsj.com/business/energy-oil/a-high-profile-clean-energy-startup-is-running-short-on-cash-e05d28ff?st=s6rnCV&amp;reflink=desktopwebshare_permalink\">growing pains</a>. Tracie Hunte hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ's free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What's News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "P.M. Edition for Sept. 27. Wall Street Journal White House reporter Ken Thomas on why electric vehicles are becoming a big issue in the presidential election. And Israel targets Hezbollah leader Hassan Nasrallah with a massive airstrike in Beirut. Plus, scaling up is proving tough for many clean energy startups. The Journal\u2019s Amrith Ramkumar explains one company\u2019s growing pains. Tracie Hunte hosts.\n\nSign up for the WSJ's free What's News newsletter.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "P.M. Edition for Sept. 27. Wall Street Journal White House reporter Ken Thomas on why electric vehicles are becoming a big issue in the presidential election. And Israel targets Hezbollah leader Hassan Nasrallah with a massive airstrike in Beirut. Plus, scaling up is proving tough for many clean energy startups. The Journal\u2019s Amrith Ramkumar explains one company\u2019s growing pains. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5024490215.mp3?updated=1727471252"
-            },
-            "guid": "587b81a6-7d13-11ef-a6ae-4f0734e063d3",
-            "isoDate": "2024-09-27T20:58:00.000Z",
-            "itunes": {
-                "author": "The Wall Street Journal",
-                "duration": "839",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "P.M. Edition for Sept. 27. Wall Street Journal White House reporter Ken Thomas on why electric vehicles are becoming a big issue in the presidential election. And Israel targets Hezbollah leader Hassan Nasrallah with a massive airstrike in Beirut. Plus, scaling up is proving tough for many clean energy startups. The Journal\u2019s Amrith Ramkumar explains one company\u2019s growing pains. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Fri, 27 Sep 2024 20:58:00 -0000",
-            "title": "EVs Become a Campaign Issue in the U.S. Presidential Election"
-        },
-        {
-            "content": "A.M. Edition for Sept. 27. Chinese stocks rally to close out their best week in years. The WSJ\u2019s Jonathan Cheng says a raft of stimulus measures indicates that Beijing has gotten over its reluctance to intervene more forcefully on the economy. Plus, Hurricane Helene rips through Florida and heads north, leaving millions without power. And, the WSJ\u2019s Peter Landers explains what Japan\u2019s next leader, Shigeru Ishiba, could mean for markets and for the country\u2019s relationship with Washington. Luke Vargas hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\u00a0\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>A.M. Edition for Sept. 27. Chinese stocks rally to close out their best week in years. The WSJ\u2019s <a href=\"https://www.wsj.com/news/author/jonathan-cheng\">Jonathan Cheng</a> says a raft of stimulus measures indicates that <a href=\"https://www.wsj.com/world/china/china-politburo-pledges-stronger-policy-support-9fa86d52?st=NVuk4s&amp;reflink=desktopwebshare_permalink\">Beijing has gotten over its reluctance</a> to intervene more forcefully on the economy. Plus, Hurricane Helene rips through Florida and heads north, leaving <a href=\"https://www.wsj.com/world/asia/japans-next-leader-shigeru-ishiba-pushes-to-remake-military-alliance-with-u-s-5da81109?st=kXDhPp&amp;reflink=desktopwebshare_permalink\">millions without power</a>. And, the WSJ\u2019s <a href=\"https://www.wsj.com/news/author/peter-landers\">Peter Landers</a> explains what <a href=\"https://www.wsj.com/world/asia/japans-next-leader-shigeru-ishiba-pushes-to-remake-military-alliance-with-u-s-5da81109?st=kXDhPp&amp;reflink=desktopwebshare_permalink\">Japan\u2019s next leader</a>, Shigeru Ishiba, could mean for markets and for the country\u2019s relationship with Washington. Luke Vargas hosts.\u00a0</p>\n<p><br></p>\n<p>Sign up for the WSJ\u2019s free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What\u2019s News newsletter.</a>\u00a0</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "A.M. Edition for Sept. 27. Chinese stocks rally to close out their best week in years. The WSJ\u2019s Jonathan Cheng says a raft of stimulus measures indicates that Beijing has gotten over its reluctance to intervene more forcefully on the economy. Plus, Hurricane Helene rips through Florida and heads north, leaving millions without power. And, the WSJ\u2019s Peter Landers explains what Japan\u2019s next leader, Shigeru Ishiba, could mean for markets and for the country\u2019s relationship with Washington. Luke Vargas hosts.\u00a0\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\u00a0\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "A.M. Edition for Sept. 27. Chinese stocks rally to close out their best week in years. The WSJ\u2019s Jonathan Cheng says a raft of stimulus measures indicates that Beijing has gotten over its reluctance to intervene more forcefully on the economy. Plus, Hurricane Helene rips through Florida and heads north, leaving millions without power. And, the WSJ\u2019s Peter Landers explains what Japan\u2019s next leader, Shigeru Ishiba, could mean for markets and for the country\u2019s relationship with Washington. Luke Vargas hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\u00a0\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5615244429.mp3?updated=1727433032"
-            },
-            "guid": "84de6546-7cba-11ef-beee-5b0e866b8c7b",
-            "isoDate": "2024-09-27T10:11:00.000Z",
-            "itunes": {
-                "author": "The Wall Street Journal",
-                "duration": "759",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "A.M. Edition for Sept. 27. Chinese stocks rally to close out their best week in years. The WSJ\u2019s Jonathan Cheng says a raft of stimulus measures indicates that Beijing has gotten over its reluctance to intervene more forcefully on the economy. Plus, Hurricane Helene rips through Florida and heads north, leaving millions without power. And, the WSJ\u2019s Peter Landers explains what Japan\u2019s next leader, Shigeru Ishiba, could mean for markets and for the country\u2019s relationship with Washington. Luke Vargas hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\u00a0\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Fri, 27 Sep 2024 10:11:00 -0000",
-            "title": "Chinese Markets Cheer \u2018Economic Bazooka\u2019"
-        },
-        {
-            "content": "P.M. Edition for Sept. 26. Federal prosecutors say Adams sought and accepted illegal foreign political contributions. Journal reporter Corinne Ramey discusses the charges. And WSJ lead writer Gunjan Banerji on why American investors are sticking with money market funds. Plus, what counts as a supermarket? WSJ\u2019s Jinjoo Lee explains why this is a big question rocking the grocery industry. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\n\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>P.M. Edition for Sept. 26. Federal prosecutors say Adams sought and accepted illegal foreign political contributions. Journal reporter <a href=\"https://www.wsj.com/news/author/corinne-ramey\">Corinne Ramey</a> discusses the <a href=\"https://www.wsj.com/us-news/eric-adams-indictment-unsealed-new-york-mayor-0dfb33c3?st=5SLjYS&amp;reflink=desktopwebshare_permalink\">charges</a>. And WSJ lead writer <a href=\"https://www.wsj.com/news/author/gunjan-banerj\">Gunjan Banerji</a> on why American investors are <a href=\"https://www.wsj.com/finance/investing/when-will-money-market-funds-lose-their-allure-952c3805?st=4h8zGf&amp;reflink=desktopwebshare_permalink\">sticking</a> with money market funds. Plus, what counts as a supermarket? WSJ\u2019s <a href=\"https://www.wsj.com/news/author/jinjoo-lee\">Jinjoo Lee</a> explains why this is a big question <a href=\"https://www.wsj.com/business/deals/kroger-antitrust-case-could-open-up-new-bag-of-m-a-possibilities-25c7f2a8?st=gPJtP9&amp;reflink=desktopwebshare_permalink\">rocking</a> the grocery industry. Tracie Hunte hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ's free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What's News newsletter</a>.</p>\n<p><br></p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "P.M. Edition for Sept. 26. Federal prosecutors say Adams sought and accepted illegal foreign political contributions. Journal reporter Corinne Ramey discusses the charges. And WSJ lead writer Gunjan Banerji on why American investors are sticking with money market funds. Plus, what counts as a supermarket? WSJ\u2019s Jinjoo Lee explains why this is a big question rocking the grocery industry. Tracie Hunte hosts.\n\nSign up for the WSJ's free What's News newsletter.\n\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "P.M. Edition for Sept. 26. Federal prosecutors say Adams sought and accepted illegal foreign political contributions. Journal reporter Corinne Ramey discusses the charges. And WSJ lead writer Gunjan Banerji on why American investors are sticking with money market funds. Plus, what counts as a supermarket? WSJ\u2019s Jinjoo Lee explains why this is a big question rocking the grocery industry. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\n\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ3251602046.mp3?updated=1727385446"
-            },
-            "guid": "aa8b061a-7c4b-11ef-be89-f3d53b1f2707",
-            "isoDate": "2024-09-26T21:08:00.000Z",
-            "itunes": {
-                "author": "The Wall Street Journal",
-                "duration": "776",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "P.M. Edition for Sept. 26. Federal prosecutors say Adams sought and accepted illegal foreign political contributions. Journal reporter Corinne Ramey discusses the charges. And WSJ lead writer Gunjan Banerji on why American investors are sticking with money market funds. Plus, what counts as a supermarket? WSJ\u2019s Jinjoo Lee explains why this is a big question rocking the grocery industry. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\n\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Thu, 26 Sep 2024 21:08:00 -0000",
-            "title": "New York City Mayor Eric Adams Charged With Bribery and Corruption"
-        },
-        {
-            "content": "A.M. Edition for Sept. 26. Eric Adams says he has no plans to resign as federal prosecutors in Manhattan prepare to announce details of the case. Plus, OpenAI looks to become a for-profit enterprise, in part to appeal to investors, and parts ways with Chief Technology Officer Mira Murati. And, as Donald Trump and Kamala Harris talk economic policy this week, the WSJ\u2019s Richard Rubin explains why the federal deficit remains the multi-trillion-dollar elephant in the room. Luke Vargas hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\n\n\nCorrection: Israeli Prime Minister Benjamin Netanyahu is due to speak at the U.N. General Assembly on Friday. An earlier version of this podcast incorrectly said he was due to speak there on Thursday. (Corrected on Sept. 26)\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>A.M. Edition for Sept. 26. Eric Adams says he has <a href=\"https://www.wsj.com/us-news/law/mayor-eric-adams-indicted-5d82f761?st=XkZK7X&amp;reflink=desktopwebshare_permalink\">no plans to resign</a> as federal prosecutors in Manhattan prepare to announce details of the case. Plus, <a href=\"https://www.wsj.com/tech/ai/openai-chief-technology-officer-resigns-7a8b4639?st=i1sCft&amp;reflink=desktopwebshare_permalink\">OpenAI looks to become a for-profit enterprise</a>, in part to appeal to investors, and parts ways with Chief Technology Officer Mira Murati. And, as Donald Trump and Kamala Harris talk economic policy this week, the WSJ\u2019s <a href=\"https://www.wsj.com/news/author/richard-rubin\">Richard Rubin</a> explains why the federal deficit remains <a href=\"https://www.wsj.com/politics/policy/federal-debt-deficit-trump-harris-5a0d30d2?st=cFw1Bz&amp;reflink=desktopwebshare_permalink\">the multi-trillion-dollar elephant in the room</a>. Luke Vargas hosts.\u00a0</p>\n<p><br></p>\n<p>Sign up for the WSJ\u2019s free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What\u2019s News newsletter</a>.</p>\n<p><br></p>\n<p>Correction: Israeli Prime Minister Benjamin Netanyahu is due to speak at the U.N. General Assembly on Friday. An earlier version of this podcast incorrectly said he was due to speak there on Thursday. (Corrected on Sept. 26)</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "A.M. Edition for Sept. 26. Eric Adams says he has no plans to resign as federal prosecutors in Manhattan prepare to announce details of the case. Plus, OpenAI looks to become a for-profit enterprise, in part to appeal to investors, and parts ways with Chief Technology Officer Mira Murati. And, as Donald Trump and Kamala Harris talk economic policy this week, the WSJ\u2019s Richard Rubin explains why the federal deficit remains the multi-trillion-dollar elephant in the room. Luke Vargas hosts.\u00a0\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nCorrection: Israeli Prime Minister Benjamin Netanyahu is due to speak at the U.N. General Assembly on Friday. An earlier version of this podcast incorrectly said he was due to speak there on Thursday. (Corrected on Sept. 26)\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "A.M. Edition for Sept. 26. Eric Adams says he has no plans to resign as federal prosecutors in Manhattan prepare to announce details of the case. Plus, OpenAI looks to become a for-profit enterprise, in part to appeal to investors, and parts ways with Chief Technology Officer Mira Murati. And, as Donald Trump and Kamala Harris talk economic policy this week, the WSJ\u2019s Richard Rubin explains why the federal deficit remains the multi-trillion-dollar elephant in the room. Luke Vargas hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\n\n\nCorrection: Israeli Prime Minister Benjamin Netanyahu is due to speak at the U.N. General Assembly on Friday. An earlier version of this podcast incorrectly said he was due to speak there on Thursday. (Corrected on Sept. 26)\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8330216316.mp3?updated=1727358611"
-            },
-            "guid": "c6cf0d74-7be4-11ef-adfb-7737785fb13d",
-            "isoDate": "2024-09-26T08:27:00.000Z",
-            "itunes": {
-                "author": "The Wall Street Journal",
-                "duration": "820",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "A.M. Edition for Sept. 26. Eric Adams says he has no plans to resign as federal prosecutors in Manhattan prepare to announce details of the case. Plus, OpenAI looks to become a for-profit enterprise, in part to appeal to investors, and parts ways with Chief Technology Officer Mira Murati. And, as Donald Trump and Kamala Harris talk economic policy this week, the WSJ\u2019s Richard Rubin explains why the federal deficit remains the multi-trillion-dollar elephant in the room. Luke Vargas hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\n\n\nCorrection: Israeli Prime Minister Benjamin Netanyahu is due to speak at the U.N. General Assembly on Friday. An earlier version of this podcast incorrectly said he was due to speak there on Thursday. (Corrected on Sept. 26)\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Thu, 26 Sep 2024 08:27:00 -0000",
-            "title": "NYC Mayor Indicted on Federal Charges"
-        },
-        {
-            "content": "P.M. Edition for Sept. 25. The cyberattack, called Salt Typhoon, is one of many intrusions U.S. investigators have linked to China in recent years. And as world leaders gather for the U.N. General Assembly, The Wall Street Journal\u2019s Shayndi Raice discusses how Israel has resisted international pressure over its war in Gaza and conflict with Hezbollah. Plus, the art market is tanking, but Sotheby\u2019s has bigger problems. WSJ reporter Kelly Crow explains why. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>P.M. Edition for Sept. 25. The cyberattack, called <a href=\"https://www.wsj.com/politics/national-security/china-cyberattack-internet-providers-260bd835?st=GYkVpA&amp;reflink=desktopwebshare_permalink\">Salt Typhoon</a>, is one of many intrusions U.S. investigators have linked to China in recent years. And as world leaders gather for the U.N. General Assembly, The Wall Street Journal\u2019s <a href=\"https://www.wsj.com/news/author/shayndi-raice\">Shayndi Raice</a> discusses how Israel has <a href=\"https://www.wsj.com/world/middle-east/an-isolated-netanyahu-resists-pressure-to-end-conflicts-4193e7bf?st=QfK89z&amp;reflink=desktopwebshare_permalink\">resisted</a> international pressure over its war in Gaza and conflict with Hezbollah. Plus, the art market is tanking, but Sotheby\u2019s has <a href=\"https://www.wsj.com/arts-culture/fine-art/art-market-sothebys-problems-6fa55009?st=a7Jxxr&amp;reflink=desktopwebshare_permalink\">bigger problems</a>. WSJ reporter <a href=\"https://www.wsj.com/news/author/kelly-crow\">Kelly Crow</a> explains why. Tracie Hunte hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ's free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What's News newsletter.</a></p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "P.M. Edition for Sept. 25. The cyberattack, called Salt Typhoon, is one of many intrusions U.S. investigators have linked to China in recent years. And as world leaders gather for the U.N. General Assembly, The Wall Street Journal\u2019s Shayndi Raice discusses how Israel has resisted international pressure over its war in Gaza and conflict with Hezbollah. Plus, the art market is tanking, but Sotheby\u2019s has bigger problems. WSJ reporter Kelly Crow explains why. Tracie Hunte hosts.\n\nSign up for the WSJ's free What's News newsletter.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "P.M. Edition for Sept. 25. The cyberattack, called Salt Typhoon, is one of many intrusions U.S. investigators have linked to China in recent years. And as world leaders gather for the U.N. General Assembly, The Wall Street Journal\u2019s Shayndi Raice discusses how Israel has resisted international pressure over its war in Gaza and conflict with Hezbollah. Plus, the art market is tanking, but Sotheby\u2019s has bigger problems. WSJ reporter Kelly Crow explains why. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1845371572.mp3?updated=1727298519"
-            },
-            "guid": "fb98051a-7b80-11ef-890a-672e340908fe",
-            "isoDate": "2024-09-25T20:56:00.000Z",
-            "itunes": {
-                "author": "The Wall Street Journal",
-                "duration": "788",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "P.M. Edition for Sept. 25. The cyberattack, called Salt Typhoon, is one of many intrusions U.S. investigators have linked to China in recent years. And as world leaders gather for the U.N. General Assembly, The Wall Street Journal\u2019s Shayndi Raice discusses how Israel has resisted international pressure over its war in Gaza and conflict with Hezbollah. Plus, the art market is tanking, but Sotheby\u2019s has bigger problems. WSJ reporter Kelly Crow explains why. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Wed, 25 Sep 2024 20:56:00 -0000",
-            "title": "How China-Linked Hackers Attacked U.S. Internet Providers"
-        },
-        {
-            "content": "A.M. Edition for Sept. 25. With many top executives undecided on which candidate to support, the WSJ\u2019s Tarini Parti says Kamala Harris is making a quiet play for Corporate America\u2019s backing. Plus, Israel intercepts a Hezbollah missile headed for Tel Aviv. And, WSJ Heard on the Street columnist Carol Ryan explains how widely diverging OPEC and IEA forecasts about how much oil the world needs are roiling the sector. Luke Vargas hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>A.M. Edition for Sept. 25. With many <a href=\"https://www.wsj.com/politics/elections/kamala-harris-campaign-ceos-investors-68e1bda1?st=dou2zr&amp;reflink=desktopwebshare_permalink\">top executives undecided on which candidate to support</a>, the WSJ\u2019s <a href=\"https://www.wsj.com/news/author/tarini-parti\">Tarini Parti</a> says Kamala Harris is making a quiet play for Corporate America\u2019s backing. Plus, Israel intercepts a Hezbollah <a href=\"https://www.wsj.com/world/middle-east/israel-intercepts-missile-fired-at-tel-aviv-as-fighting-escalates-ac9f8d17?st=cRDWQL&amp;reflink=desktopwebshare_permalink\">missile headed for Tel Aviv</a>. And, WSJ Heard on the Street columnist <a href=\"https://www.wsj.com/news/author/carol-ryan\">Carol Ryan</a> explains how <a href=\"https://www.wsj.com/business/energy-oil/the-high-stakes-spat-over-how-much-oil-the-world-really-needs-efab8c74?st=iXgxvy&amp;reflink=desktopwebshare_permalink\">widely diverging OPEC and IEA forecasts</a> about how much oil the world needs are roiling the sector. Luke Vargas hosts.\u00a0</p>\n<p><br></p>\n<p>Sign up for the WSJ\u2019s free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What\u2019s News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "A.M. Edition for Sept. 25. With many top executives undecided on which candidate to support, the WSJ\u2019s Tarini Parti says Kamala Harris is making a quiet play for Corporate America\u2019s backing. Plus, Israel intercepts a Hezbollah missile headed for Tel Aviv. And, WSJ Heard on the Street columnist Carol Ryan explains how widely diverging OPEC and IEA forecasts about how much oil the world needs are roiling the sector. Luke Vargas hosts.\u00a0\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "A.M. Edition for Sept. 25. With many top executives undecided on which candidate to support, the WSJ\u2019s Tarini Parti says Kamala Harris is making a quiet play for Corporate America\u2019s backing. Plus, Israel intercepts a Hezbollah missile headed for Tel Aviv. And, WSJ Heard on the Street columnist Carol Ryan explains how widely diverging OPEC and IEA forecasts about how much oil the world needs are roiling the sector. Luke Vargas hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6642167486.mp3?updated=1727350698"
-            },
-            "guid": "2d954f06-7b26-11ef-ab47-976fddc02ca4",
-            "isoDate": "2024-09-25T10:04:00.000Z",
-            "itunes": {
-                "author": "The Wall Street Journal",
-                "duration": "806",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "A.M. Edition for Sept. 25. With many top executives undecided on which candidate to support, the WSJ\u2019s Tarini Parti says Kamala Harris is making a quiet play for Corporate America\u2019s backing. Plus, Israel intercepts a Hezbollah missile headed for Tel Aviv. And, WSJ Heard on the Street columnist Carol Ryan explains how widely diverging OPEC and IEA forecasts about how much oil the world needs are roiling the sector. Luke Vargas hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Wed, 25 Sep 2024 10:04:00 -0000",
-            "title": "Harris Privately Courts Business Leaders"
-        },
-        {
-            "content": "P.M. Edition for Sept. 24. Heard of the Street columnist Dan Gallagher discusses Intel\u2019s many challenges as it becomes a takeover target. And the U.S. Justice Department sued Visa, alleging it violated antitrust laws. Plus, The Wall Street Journal\u2019s Georgia Wells on why Telegram has started cooperating with law enforcement. Tracie Hunte hosts.\u00a0\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>P.M. Edition for Sept. 24. Heard of the Street columnist <a href=\"https://www.wsj.com/news/author/dan-gallagher\">Dan Gallagher</a> discusses Intel\u2019s many challenges as it becomes a takeover <a href=\"https://www.wsj.com/business/telecom/dont-count-on-a-megadeal-to-save-intel-3a4df5c2?st=KjeHqQ&amp;reflink=desktopwebshare_permalink\">target</a>. And the U.S. Justice Department sued Visa, alleging it <a href=\"https://www.wsj.com/finance/justice-department-sues-visa-alleges-illegal-monopoly-in-debit-card-payments-a9ecd39c?st=TNKmYF&amp;reflink=desktopwebshare_permalink\">violated</a> antitrust laws. Plus, The Wall Street Journal\u2019s <a href=\"https://www.wsj.com/news/author/georgia-wells\">Georgia Wells</a> on why Telegram has <a href=\"https://www.wsj.com/business/telecom/telegram-founder-ignored-warnings-about-apps-content-e7814a78?st=5xZn71&amp;reflink=desktopwebshare_permalink\">started</a> cooperating with law enforcement. Tracie Hunte hosts.\u00a0</p>\n<p><br></p>\n<p>Sign up for the WSJ's free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What's News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "P.M. Edition for Sept. 24. Heard of the Street columnist Dan Gallagher discusses Intel\u2019s many challenges as it becomes a takeover target. And the U.S. Justice Department sued Visa, alleging it violated antitrust laws. Plus, The Wall Street Journal\u2019s Georgia Wells on why Telegram has started cooperating with law enforcement. Tracie Hunte hosts.\u00a0\n\nSign up for the WSJ's free What's News newsletter.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "P.M. Edition for Sept. 24. Heard of the Street columnist Dan Gallagher discusses Intel\u2019s many challenges as it becomes a takeover target. And the U.S. Justice Department sued Visa, alleging it violated antitrust laws. Plus, The Wall Street Journal\u2019s Georgia Wells on why Telegram has started cooperating with law enforcement. Tracie Hunte hosts.\u00a0\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9037507397.mp3?updated=1727212106"
-            },
-            "guid": "97bae5cc-7ab7-11ef-a3e4-4b73b3aff487",
-            "isoDate": "2024-09-24T20:56:00.000Z",
-            "itunes": {
-                "author": "The Wall Street Journal",
-                "duration": "767",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "P.M. Edition for Sept. 24. Heard of the Street columnist Dan Gallagher discusses Intel\u2019s many challenges as it becomes a takeover target. And the U.S. Justice Department sued Visa, alleging it violated antitrust laws. Plus, The Wall Street Journal\u2019s Georgia Wells on why Telegram has started cooperating with law enforcement. Tracie Hunte hosts.\u00a0\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Tue, 24 Sep 2024 20:56:00 -0000",
-            "title": "Intel Has Never Been Cheaper. But Is It a Good Deal?"
-        },
-        {
-            "content": "A.M. Edition for Sept. 24. The WSJ\u2019s Rory Jones updates us on Israel\u2019s intensifying military campaign against Hezbollah. Plus, we interview California Attorney General Rob Bonta about the message he hopes to send by suing Exxon Mobil for allegedly misleading consumers about the recyclability of plastic products. And, China cuts interest rates and dangles loans for stock-market investors amid concerns that its economy risks missing its growth target. Luke Vargas hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter .\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>A.M. Edition for Sept. 24. The WSJ\u2019s <a href=\"https://www.wsj.com/news/author/rory-jones\">Rory Jones</a> updates us on Israel\u2019s <a href=\"https://www.wsj.com/world/middle-east/lebanese-flee-homes-as-israeli-strikes-targeting-hezbollah-intensify-434fb647?st=8idrg8&amp;reflink=desktopwebshare_permalink\">intensifying military campaign</a> against Hezbollah. Plus, we interview California Attorney General Rob Bonta about the message he hopes to send by <a href=\"https://www.wsj.com/us-news/law/california-sues-exxon-alleges-plastics-deception-5ca5c938?st=PegRF2&amp;reflink=desktopwebshare_permalink\">suing Exxon Mobil</a> for allegedly misleading consumers about the recyclability of plastic products. And, <a href=\"https://www.wsj.com/world/china/china-central-bank-takes-more-steps-to-boost-flagging-economy-b43e8aef?st=FnvDBD&amp;reflink=desktopwebshare_permalink\">China cuts interest rates and dangles loans</a> for stock-market investors amid concerns that its economy risks missing its growth target. Luke Vargas hosts.\u00a0</p>\n<p><br></p>\n<p>Sign up for the WSJ\u2019s free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What\u2019s News newsletter</a> .</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "A.M. Edition for Sept. 24. The WSJ\u2019s Rory Jones updates us on Israel\u2019s intensifying military campaign against Hezbollah. Plus, we interview California Attorney General Rob Bonta about the message he hopes to send by suing Exxon Mobil for allegedly misleading consumers about the recyclability of plastic products. And, China cuts interest rates and dangles loans for stock-market investors amid concerns that its economy risks missing its growth target. Luke Vargas hosts.\u00a0\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter .\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "A.M. Edition for Sept. 24. The WSJ\u2019s Rory Jones updates us on Israel\u2019s intensifying military campaign against Hezbollah. Plus, we interview California Attorney General Rob Bonta about the message he hopes to send by suing Exxon Mobil for allegedly misleading consumers about the recyclability of plastic products. And, China cuts interest rates and dangles loans for stock-market investors amid concerns that its economy risks missing its growth target. Luke Vargas hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter .\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1109325048.mp3?updated=1727238095"
-            },
-            "guid": "f0b59e96-7a5e-11ef-ac7a-d752aa1eef64",
-            "isoDate": "2024-09-24T10:16:00.000Z",
-            "itunes": {
-                "author": "The Wall Street Journal",
-                "duration": "846",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "A.M. Edition for Sept. 24. The WSJ\u2019s Rory Jones updates us on Israel\u2019s intensifying military campaign against Hezbollah. Plus, we interview California Attorney General Rob Bonta about the message he hopes to send by suing Exxon Mobil for allegedly misleading consumers about the recyclability of plastic products. And, China cuts interest rates and dangles loans for stock-market investors amid concerns that its economy risks missing its growth target. Luke Vargas hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter .\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Tue, 24 Sep 2024 10:16:00 -0000",
-            "title": "Thousands of Lebanese Flee as Israel-Hezbollah Fighting Flares"
-        },
-        {
-            "content": "P.M. Edition for Sept. 23. In an exclusive report, The Wall Street Journal\u2019s Andrew Tangel reveals how GPS spoofing attacks cause problems for hundreds of daily flights. And California takes Exxon to court over pollution and plastics recycling claims. Plus, the U.S. is on pace to hit a record high in its homeless population. The Journal\u2019s Jon Kamp on what\u2019s behind the rising numbers. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>P.M. Edition for Sept. 23. In an exclusive report, The Wall Street Journal\u2019s <a href=\"https://www.wsj.com/news/author/andrew-tangel\">Andrew Tangel</a> reveals how <a href=\"https://www.wsj.com/business/airlines/electronic-warfare-spooks-airlines-pilots-and-air-safety-officials-60959bbd?st=XmvHKe&amp;reflink=desktopwebshare_permalink\">GPS spoofing attacks</a> cause problems for hundreds of daily flights. And California takes Exxon to <a href=\"https://www.wsj.com/us-news/law/california-sues-exxon-alleges-plastics-deception-5ca5c938?st=sHQWou&amp;reflink=desktopwebshare_permalink\">court</a> over pollution and plastics recycling claims. Plus, the U.S. is on pace to hit a <a href=\"https://www.wsj.com/us-news/homeless-population-grows-putting-u-s-on-track-for-another-record-19ea8fb4?st=5Kb7pr&amp;reflink=desktopwebshare_permalink\">record high</a> in its homeless population. The Journal\u2019s <a href=\"https://www.wsj.com/news/author/jon-kamp\">Jon Kamp</a> on what\u2019s behind the rising numbers. Tracie Hunte hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ's free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What's News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "P.M. Edition for Sept. 23. In an exclusive report, The Wall Street Journal\u2019s Andrew Tangel reveals how GPS spoofing attacks cause problems for hundreds of daily flights. And California takes Exxon to court over pollution and plastics recycling claims. Plus, the U.S. is on pace to hit a record high in its homeless population. The Journal\u2019s Jon Kamp on what\u2019s behind the rising numbers. Tracie Hunte hosts.\n\nSign up for the WSJ's free What's News newsletter.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "P.M. Edition for Sept. 23. In an exclusive report, The Wall Street Journal\u2019s Andrew Tangel reveals how GPS spoofing attacks cause problems for hundreds of daily flights. And California takes Exxon to court over pollution and plastics recycling claims. Plus, the U.S. is on pace to hit a record high in its homeless population. The Journal\u2019s Jon Kamp on what\u2019s behind the rising numbers. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ2624681133.mp3?updated=1727126052"
-            },
-            "guid": "77033f82-79ef-11ef-9be0-d7447f0c1514",
-            "isoDate": "2024-09-23T21:04:00.000Z",
-            "itunes": {
-                "author": "The Wall Street Journal",
-                "duration": "837",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "P.M. Edition for Sept. 23. In an exclusive report, The Wall Street Journal\u2019s Andrew Tangel reveals how GPS spoofing attacks cause problems for hundreds of daily flights. And California takes Exxon to court over pollution and plastics recycling claims. Plus, the U.S. is on pace to hit a record high in its homeless population. The Journal\u2019s Jon Kamp on what\u2019s behind the rising numbers. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Mon, 23 Sep 2024 21:04:00 -0000",
-            "title": "How Electronic Warfare Spooks Commercial Planes"
-        },
-        {
-            "content": "\u00a0A.M. Edition for Sept. 23. Israel and Hezbollah intensify their cross-border attacks, bringing them as close to full-out war as they have been in their nearly year-long conflict. Plus, chip giants TSMC and Samsung discuss building megafactories in the United Arab Emirates. And, Novo Nordisk and Eli Lilly dangle big discounts for their weight-loss drugs. The WSJ\u2019s Peter Loftus  explains who stands to win in this price war. Azhar Sukri hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>\u00a0A.M. Edition for Sept. 23. Israel and Hezbollah intensify their <a href=\"https://www.wsj.com/world/middle-east/israel-calls-on-civilians-near-hezbollah-targets-to-evacuate-as-strikes-intensify-2a2748c0?st=UZrQ8R&amp;reflink=desktopwebshare_permalink\">cross-border attacks</a>, bringing them as close to full-out war as they have been in their nearly year-long conflict. Plus, chip giants TSMC and Samsung discuss building <a href=\"https://www.wsj.com/tech/ai/chip-giants-tsmc-and-samsung-discuss-building-middle-eastern-megafactories-65adc854?st=jfF3a7&amp;reflink=desktopwebshare_permalink\">megafactories in the United Arab Emirates</a>. And, Novo Nordisk and Eli Lilly dangle big discounts for their weight-loss drugs. The WSJ\u2019s <a href=\"https://www.wsj.com/news/author/peter-loftus\">Peter Loftus</a>  explains <a href=\"https://www.wsj.com/health/pharma/eli-lilly-novo-nordisk-price-discounts-7b8828bd?st=puViHV&amp;reflink=desktopwebshare_permalink\">who stands to win in this price war</a>. Azhar Sukri hosts.\u00a0</p>\n<p><br></p>\n<p>Sign up for the WSJ\u2019s free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What\u2019s News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "A.M. Edition for Sept. 23. Israel and Hezbollah intensify their cross-border attacks, bringing them as close to full-out war as they have been in their nearly year-long conflict. Plus, chip giants TSMC and Samsung discuss building megafactories in the United Arab Emirates. And, Novo Nordisk and Eli Lilly dangle big discounts for their weight-loss drugs. The WSJ\u2019s Peter Loftus  explains who stands to win in this price war. Azhar Sukri hosts.\u00a0\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "A.M. Edition for Sept. 23. Israel and Hezbollah intensify their cross-border attacks, bringing them as close to full-out war as they have been in their nearly year-long conflict. Plus, chip giants TSMC and Samsung discuss building megafactories in the United Arab Emirates. And, Novo Nordisk and Eli Lilly dangle big discounts for their weight-loss drugs. The WSJ\u2019s Peter Loftus  explains who stands to win in this price war. Azhar Sukri hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ2422309427.mp3?updated=1727088068"
-            },
-            "guid": "b2572872-7996-11ef-b624-9776f2ae8def",
-            "isoDate": "2024-09-23T10:11:00.000Z",
-            "itunes": {
-                "author": "The Wall Street Journal",
-                "duration": "775",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "\u00a0A.M. Edition for Sept. 23. Israel and Hezbollah intensify their cross-border attacks, bringing them as close to full-out war as they have been in their nearly year-long conflict. Plus, chip giants TSMC and Samsung discuss building megafactories in the United Arab Emirates. And, Novo Nordisk and Eli Lilly dangle big discounts for their weight-loss drugs. The WSJ\u2019s Peter Loftus  explains who stands to win in this price war. Azhar Sukri hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Mon, 23 Sep 2024 10:11:00 -0000",
-            "title": "Israel Tells Civilians Near Hezbollah Targets to Evacuate"
-        },
-        {
-            "content": "Top Democrats have argued that democracy is on the line in the presidential election because Republican nominee Donald Trump is a threat to American political norms. They often bring up his actions after the 2020 election, which are the subject of a criminal case in Georgia. Trump has pleaded not guilty and says it is just political bluster. Republicans also say democracy is on the line, but their worries center on government overreach and the potential for voter fraud. WSJ political reporter Jimmy Vielkind travels to the battleground state to find out which version of the argument is swaying voters.\n\n\n\nRelevant links: \n\nGeorgia Election Rule Prompts Concerns of Chaos and Delays\u00a0\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>Top Democrats have argued that democracy is on the line in the presidential election because Republican nominee Donald Trump is a threat to American political norms. They often bring up his actions after the 2020 election, which are the subject of a criminal case in Georgia. Trump has pleaded not guilty and says it is just political bluster. Republicans also say democracy is on the line, but their worries center on government overreach and the potential for voter fraud. WSJ political reporter Jimmy Vielkind travels to the battleground state to find out which version of the argument is swaying voters.</p>\n<p><br></p>\n<p>Relevant links: </p>\n<p><a href=\"https://www.wsj.com/politics/elections/georgia-election-rule-prompts-concerns-of-chaos-and-delays-87c73749?st=zMR2HC&amp;reflink=desktopwebshare_permalink\">Georgia Election Rule Prompts Concerns of Chaos and Delays</a>\u00a0</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "Top Democrats have argued that democracy is on the line in the presidential election because Republican nominee Donald Trump is a threat to American political norms. They often bring up his actions after the 2020 election, which are the subject of a criminal case in Georgia. Trump has pleaded not guilty and says it is just political bluster. Republicans also say democracy is on the line, but their worries center on government overreach and the potential for voter fraud. WSJ political reporter Jimmy Vielkind travels to the battleground state to find out which version of the argument is swaying voters.\n\nRelevant links: \nGeorgia Election Rule Prompts Concerns of Chaos and Delays\u00a0\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "Top Democrats have argued that democracy is on the line in the presidential election because Republican nominee Donald Trump is a threat to American political norms. They often bring up his actions after the 2020 election, which are the subject of a criminal case in Georgia. Trump has pleaded not guilty and says it is just political bluster. Republicans also say democracy is on the line, but their worries center on government overreach and the potential for voter fraud. WSJ political reporter Jimmy Vielkind travels to the battleground state to find out which version of the argument is swaying voters.\n\n\n\nRelevant links: \n\nGeorgia Election Rule Prompts Concerns of Chaos and Delays\u00a0\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6977650609.mp3?updated=1727043380"
-            },
-            "guid": "752060e0-78b0-11ef-adba-eb21f0054820",
-            "isoDate": "2024-09-22T07:01:00.000Z",
-            "itunes": {
-                "author": "The Wall Street Journal",
-                "duration": "1314",
-                "episodeType": "full",
-                "image": "https://megaphone.imgix.net/podcasts/752060e0-78b0-11ef-adba-eb21f0054820/image/3e48033414a8b137730959b98e344827.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-                "subtitle": "",
-                "summary": "Top Democrats have argued that democracy is on the line in the presidential election because Republican nominee Donald Trump is a threat to American political norms. They often bring up his actions after the 2020 election, which are the subject of a criminal case in Georgia. Trump has pleaded not guilty and says it is just political bluster. Republicans also say democracy is on the line, but their worries center on government overreach and the potential for voter fraud. WSJ political reporter Jimmy Vielkind travels to the battleground state to find out which version of the argument is swaying voters.\n\n\n\nRelevant links: \n\nGeorgia Election Rule Prompts Concerns of Chaos and Delays\u00a0\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Sun, 22 Sep 2024 07:01:00 -0000",
-            "title": "Chasing the Vote: How Election-Fraud Claims Go Over in Georgia"
-        },
-        {
-            "content": "Space exploration company Intuitive Machines got a big NASA contract, so did its stock go to the moon? And what did investors think of getting Olive Garden delivered? Plus, why did FedEx and Nike shares go in opposite directions? Host Francesca Fontana discusses the biggest stock moves of the week and the news that drove them.\n\n\n\nSign up for the WSJ's free Markets A.M. newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>Space exploration company Intuitive Machines got a big NASA contract, so did its stock go to the moon? And what did investors think of getting Olive Garden delivered? Plus, why did FedEx and Nike shares go in opposite directions? Host Francesca Fontana discusses the biggest stock moves of the week and the news that drove them.</p>\n<p><br></p>\n<p>Sign up for the WSJ's free <a href=\"https://www.wsj.com/newsletters/markets-am?mod=WSJ_YMBPOD\">Markets A.M. newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "Space exploration company Intuitive Machines got a big NASA contract, so did its stock go to the moon? And what did investors think of getting Olive Garden delivered? Plus, why did FedEx and Nike shares go in opposite directions? Host Francesca Fontana discusses the biggest stock moves of the week and the news that drove them.\n\nSign up for the WSJ's free Markets A.M. newsletter.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "Space exploration company Intuitive Machines got a big NASA contract, so did its stock go to the moon? And what did investors think of getting Olive Garden delivered? Plus, why did FedEx and Nike shares go in opposite directions? Host Francesca Fontana discusses the biggest stock moves of the week and the news that drove them.\n\n\n\nSign up for the WSJ's free Markets A.M. newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1150122564.mp3?updated=1726913301"
-            },
-            "guid": "4c420116-7800-11ef-a6f2-533747216612",
-            "isoDate": "2024-09-21T10:00:00.000Z",
-            "itunes": {
-                "author": "The Wall Street Journal",
-                "duration": "344",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "Space exploration company Intuitive Machines got a big NASA contract, so did its stock go to the moon? And what did investors think of getting Olive Garden delivered? Plus, why did FedEx and Nike shares go in opposite directions? Host Francesca Fontana discusses the biggest stock moves of the week and the news that drove them.\n\n\n\nSign up for the WSJ's free Markets A.M. newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Sat, 21 Sep 2024 10:00:00 -0000",
-            "title": "What\u2019s News in Markets: Lunar Shot, Garden Delivery, Big Movers"
-        },
-        {
-            "content": "P.M. Edition for Sept. 20. The WSJ\u2019s Ben Foldy explains why crypto investors are throwing their support behind Republican presidential nominee Donald Trump. And we are exclusively reporting that chip maker Qualcomm has made a takeover approach to rival Intel. Plus, Microsoft is giving Three Mile Island, the site of the worst nuclear accident in U.S. history, a jump-start. WSJ energy reporter Jennifer Hiller explains the software company\u2019s plan for the nuclear plant. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>P.M. Edition for Sept. 20. The WSJ\u2019s <a href=\"https://www.wsj.com/news/author/ben-foldy\">Ben Foldy</a> explains why <a href=\"https://www.wsj.com/politics/elections/donald-trump-campaign-crypto-bitcoin-7a2e2e4f?st=vSPpL6&amp;reflink=desktopwebshare_permalink\">crypto investors are throwing their support</a> behind Republican presidential nominee Donald Trump. And we are exclusively reporting that chip maker Qualcomm has made a <a href=\"https://www.wsj.com/business/deals/qualcomm-approached-intel-about-a-takeover-in-recent-days-fa114f9d?st=SzXyQ3&amp;reflink=desktopwebshare_permalink\">takeover approach to rival Intel</a>. Plus, Microsoft is giving <a href=\"https://www.wsj.com/business/energy-oil/three-mile-islands-nuclear-plant-to-reopen-help-power-microsofts-ai-centers-aebfb3c8?st=HtiNoL&amp;reflink=desktopwebshare_permalink\">Three Mile Island</a>, the site of the worst nuclear accident in U.S. history, a jump-start. WSJ energy reporter <a href=\"https://www.wsj.com/news/author/jennifer-hiller\">Jennifer Hiller</a> explains the software company\u2019s plan for the nuclear plant. Tracie Hunte hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ's free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What's News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "P.M. Edition for Sept. 20. The WSJ\u2019s Ben Foldy explains why crypto investors are throwing their support behind Republican presidential nominee Donald Trump. And we are exclusively reporting that chip maker Qualcomm has made a takeover approach to rival Intel. Plus, Microsoft is giving Three Mile Island, the site of the worst nuclear accident in U.S. history, a jump-start. WSJ energy reporter Jennifer Hiller explains the software company\u2019s plan for the nuclear plant. Tracie Hunte hosts.\n\nSign up for the WSJ's free What's News newsletter.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "P.M. Edition for Sept. 20. The WSJ\u2019s Ben Foldy explains why crypto investors are throwing their support behind Republican presidential nominee Donald Trump. And we are exclusively reporting that chip maker Qualcomm has made a takeover approach to rival Intel. Plus, Microsoft is giving Three Mile Island, the site of the worst nuclear accident in U.S. history, a jump-start. WSJ energy reporter Jennifer Hiller explains the software company\u2019s plan for the nuclear plant. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7675801025.mp3?updated=1726867978"
-            },
-            "guid": "801f7e74-7796-11ef-9ea3-9f91fbe2183f",
-            "isoDate": "2024-09-20T21:21:00.000Z",
-            "itunes": {
-                "author": "The Wall Street Journal",
-                "duration": "814",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "P.M. Edition for Sept. 20. The WSJ\u2019s Ben Foldy explains why crypto investors are throwing their support behind Republican presidential nominee Donald Trump. And we are exclusively reporting that chip maker Qualcomm has made a takeover approach to rival Intel. Plus, Microsoft is giving Three Mile Island, the site of the worst nuclear accident in U.S. history, a jump-start. WSJ energy reporter Jennifer Hiller explains the software company\u2019s plan for the nuclear plant. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Fri, 20 Sep 2024 21:21:00 -0000",
-            "title": "Donald Trump Woos the Crypto Crowd"
-        },
-        {
-            "content": "A.M. Edition for Sept. 20. Behind closed doors, senior U.S. officials acknowledge they don\u2019t expect Israel and Hamas to reach an agreement before the end of President Biden\u2019s term. The WSJ\u2019s Anat Peled says after months of talks, the mood among negotiating parties is gloomy. Plus, Nike\u2019s CEO ends a five-year tenure marked by a series of missteps. And, the WSJ\u2019s Laurence Norman explains how European countries are trying to balance a tougher approach on immigration with a need for workers to power their economies. Azhar Sukri hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>A.M. Edition for Sept. 20. Behind closed doors, senior U.S. officials acknowledge they <a href=\"https://www.wsj.com/business/nike-ceo-john-donahoe-replaced-elliott-hill-ea3d8691?st=JxmhFG&amp;reflink=desktopwebshare_permalink\">don\u2019t expect Israel and Hamas to reach an agreement</a> before the end of President Biden\u2019s term. The WSJ\u2019s <a href=\"https://www.wsj.com/news/author/anat-peled\">Anat Peled</a> says after months of talks, the mood among negotiating parties is gloomy. Plus, Nike\u2019s CEO ends a five-year tenure marked by <a href=\"https://www.wsj.com/business/nike-ceo-john-donahoe-replaced-elliott-hill-ea3d8691?st=JxmhFG&amp;reflink=desktopwebshare_permalink\">a series of missteps</a>. And, the WSJ\u2019s <a href=\"https://www.wsj.com/news/author/laurence-norman\">Laurence Norman</a> explains how European countries are trying to balance a tougher approach on immigration with a need for workers to power their economies. Azhar Sukri hosts.\u00a0</p>\n<p><br></p>\n<p>Sign up for the WSJ\u2019s free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What\u2019s News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "A.M. Edition for Sept. 20. Behind closed doors, senior U.S. officials acknowledge they don\u2019t expect Israel and Hamas to reach an agreement before the end of President Biden\u2019s term. The WSJ\u2019s Anat Peled says after months of talks, the mood among negotiating parties is gloomy. Plus, Nike\u2019s CEO ends a five-year tenure marked by a series of missteps. And, the WSJ\u2019s Laurence Norman explains how European countries are trying to balance a tougher approach on immigration with a need for workers to power their economies. Azhar Sukri hosts.\u00a0\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "A.M. Edition for Sept. 20. Behind closed doors, senior U.S. officials acknowledge they don\u2019t expect Israel and Hamas to reach an agreement before the end of President Biden\u2019s term. The WSJ\u2019s Anat Peled says after months of talks, the mood among negotiating parties is gloomy. Plus, Nike\u2019s CEO ends a five-year tenure marked by a series of missteps. And, the WSJ\u2019s Laurence Norman explains how European countries are trying to balance a tougher approach on immigration with a need for workers to power their economies. Azhar Sukri hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7645720181.mp3?updated=1726834305"
-            },
-            "guid": "7cc99368-773c-11ef-bfad-3b64726e6cbf",
-            "isoDate": "2024-09-20T10:35:00.000Z",
-            "itunes": {
-                "author": "The Wall Street Journal",
-                "duration": "832",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "A.M. Edition for Sept. 20. Behind closed doors, senior U.S. officials acknowledge they don\u2019t expect Israel and Hamas to reach an agreement before the end of President Biden\u2019s term. The WSJ\u2019s Anat Peled says after months of talks, the mood among negotiating parties is gloomy. Plus, Nike\u2019s CEO ends a five-year tenure marked by a series of missteps. And, the WSJ\u2019s Laurence Norman explains how European countries are trying to balance a tougher approach on immigration with a need for workers to power their economies. Azhar Sukri hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Fri, 20 Sep 2024 10:35:00 -0000",
-            "title": "Breakthrough in Gaza Talks Looks Far Off, U.S. Officials Admit"
-        },
-        {
-            "content": "P.M. Edition for Sept. 19. The attacks using booby-trapped Hezbollah devices was a tactical win for Israel. National security and foreign policy correspondent Michael Gordon discusses whether it was a strategic one as well. And U.S. home sales were down in August. The Journal\u2019s Nicole Friedman talks about why lower mortgage rates can\u2019t offset rising home prices. Plus, WSJ reporter Will Parker explains how property investors capitalize on the American Sunbelt\u2019s manufacturing boom. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>P.M. Edition for Sept. 19. The attacks using booby-trapped Hezbollah devices was <a href=\"https://www.wsj.com/world/middle-east/israel-scored-a-stunning-blow-against-hezbollah-its-path-to-victory-is-less-clear-788031d9?st=karL1V&amp;reflink=desktopwebshare_permalink\">a tactical win</a> for Israel. National security and foreign policy correspondent <a href=\"https://www.wsj.com/news/author/michael-r-gordon\">Michael Gordon</a> discusses whether it was a strategic one as well. And U.S. home sales were down in August. The Journal\u2019s <a href=\"https://www.wsj.com/news/author/nicole-friedman\">Nicole Friedman</a> talks about why lower mortgage rates can\u2019t offset <a href=\"https://www.wsj.com/economy/housing/u-s-home-sales-slipped-in-august-despite-falling-mortgage-rates-f44d3bdf?st=qvNZ63&amp;reflink=desktopwebshare_permalink\">rising home prices</a>. Plus, WSJ reporter <a href=\"https://www.wsj.com/news/author/will-parker\">Will Parker</a> explains how property investors capitalize on <a href=\"https://www.wsj.com/real-estate/sunbelt-manufacturing-boom-lures-property-investors-6b0d1988?st=aDdT5A&amp;reflink=desktopwebshare_permalink\">the American Sunbelt\u2019s manufacturing boom</a>. Tracie Hunte hosts.</p>\n<p><br></p>\n<p>Sign up for the WSJ's free <a href=\"https://www.wsj.com/newsletters/whats-news?mod=WSJ_WNPOD\">What's News newsletter</a>.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "P.M. Edition for Sept. 19. The attacks using booby-trapped Hezbollah devices was a tactical win for Israel. National security and foreign policy correspondent Michael Gordon discusses whether it was a strategic one as well. And U.S. home sales were down in August. The Journal\u2019s Nicole Friedman talks about why lower mortgage rates can\u2019t offset rising home prices. Plus, WSJ reporter Will Parker explains how property investors capitalize on the American Sunbelt\u2019s manufacturing boom. Tracie Hunte hosts.\n\nSign up for the WSJ's free What's News newsletter.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "P.M. Edition for Sept. 19. The attacks using booby-trapped Hezbollah devices was a tactical win for Israel. National security and foreign policy correspondent Michael Gordon discusses whether it was a strategic one as well. And U.S. home sales were down in August. The Journal\u2019s Nicole Friedman talks about why lower mortgage rates can\u2019t offset rising home prices. Plus, WSJ reporter Will Parker explains how property investors capitalize on the American Sunbelt\u2019s manufacturing boom. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4887027945.mp3?updated=1726781603"
-            },
-            "guid": "7408cbc8-76cd-11ef-959b-4f17ade9a169",
-            "isoDate": "2024-09-19T21:22:00.000Z",
-            "itunes": {
-                "author": "The Wall Street Journal",
-                "duration": "829",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "P.M. Edition for Sept. 19. The attacks using booby-trapped Hezbollah devices was a tactical win for Israel. National security and foreign policy correspondent Michael Gordon discusses whether it was a strategic one as well. And U.S. home sales were down in August. The Journal\u2019s Nicole Friedman talks about why lower mortgage rates can\u2019t offset rising home prices. Plus, WSJ reporter Will Parker explains how property investors capitalize on the American Sunbelt\u2019s manufacturing boom. Tracie Hunte hosts.\n\n\n\nSign up for the WSJ's free What's News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Thu, 19 Sep 2024 21:22:00 -0000",
-            "title": "What Has Israel Gained by Attacking Hezbollah?"
-        },
-        {
-            "content": "A.M. Edition for Sept. 19. Global stocks rise and U.S. futures rally after the Federal Reserve moves to lower interest rates by a half-point. Plus, the Pentagon worries Israel is close to launching a ground war in Lebanon. And, the WSJ\u2019s Georgi Kantchev says Vladimir Putin\u2019s attempt to rewire global trade and circumvent sanctions has run into some serious obstacles. Azhar Sukri hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>A.M. Edition for Sept. 19. Global stocks rise and <a href=\"https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-09-19-2024\">U.S. futures rally</a> after the Federal Reserve moves to lower interest rates by a half-point. Plus, the Pentagon worries Israel is close to launching a <a href=\"https://web.descript.com/be82985c-8b4e-411d-8e20-96839e10ce6c/36ab2\">ground war in Lebanon</a>. And, the WSJ\u2019s <a href=\"https://www.wsj.com/news/author/georgi-kantchev\">Georgi Kantchev</a> says Vladimir Putin\u2019s attempt to rewire global trade and circumvent sanctions has run into some serious obstacles. Azhar Sukri hosts.\u00a0</p>\n<p><br></p>\n<p>Sign up for the WSJ\u2019s free What\u2019s News newsletter.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "A.M. Edition for Sept. 19. Global stocks rise and U.S. futures rally after the Federal Reserve moves to lower interest rates by a half-point. Plus, the Pentagon worries Israel is close to launching a ground war in Lebanon. And, the WSJ\u2019s Georgi Kantchev says Vladimir Putin\u2019s attempt to rewire global trade and circumvent sanctions has run into some serious obstacles. Azhar Sukri hosts.\u00a0\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "A.M. Edition for Sept. 19. Global stocks rise and U.S. futures rally after the Federal Reserve moves to lower interest rates by a half-point. Plus, the Pentagon worries Israel is close to launching a ground war in Lebanon. And, the WSJ\u2019s Georgi Kantchev says Vladimir Putin\u2019s attempt to rewire global trade and circumvent sanctions has run into some serious obstacles. Azhar Sukri hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4164599026.mp3?updated=1726745224"
-            },
-            "guid": "68902816-7675-11ef-b99d-8b0001b91762",
-            "isoDate": "2024-09-19T10:32:00.000Z",
-            "itunes": {
-                "author": "The Wall Street Journal",
-                "duration": "834",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "A.M. Edition for Sept. 19. Global stocks rise and U.S. futures rally after the Federal Reserve moves to lower interest rates by a half-point. Plus, the Pentagon worries Israel is close to launching a ground war in Lebanon. And, the WSJ\u2019s Georgi Kantchev says Vladimir Putin\u2019s attempt to rewire global trade and circumvent sanctions has run into some serious obstacles. Azhar Sukri hosts.\u00a0\n\n\n\nSign up for the WSJ\u2019s free What\u2019s News newsletter.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Thu, 19 Sep 2024 10:32:00 -0000",
-            "title": "Investors Welcome Fed\u2019s Bold Rate Cut"
+            "itunes:subtitle": "",
+            "itunes:summary": "What's News brings you the biggest news of the day, from business and finance to global and political developments that move markets. Get caught up in minutes twice a day on weekdays, then take a step back with our What\u2019s News in Markets wrap-up on Saturday and our What\u2019s News Sunday deep dive.",
+            "itunes:type": "episodic",
+            "language": "en-us",
+            "link": "https://www.wsj.com/podcasts/whats-news",
+            "title": "WSJ What\u2019s News"
         }
-    ],
-    "itunes": {
-        "author": "The Wall Street Journal",
-        "categories": [
-            "News"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "News",
-                "subs": [
-                    {
-                        "name": "Daily News"
-                    }
-                ]
-            }
-        ],
-        "explicit": "no",
-        "image": "https://megaphone.imgix.net/podcasts/7297a16a-9f81-11e5-8821-232b0d194322/image/WSJ_Podcast_Whats_News.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-        "owner": {
-            "email": "podcasts@dowjones.com",
-            "name": "The Wall Street Journal"
-        },
-        "subtitle": "",
-        "summary": "What's News brings you the biggest news of the day, from business and finance to global and political developments that move markets. Get caught up in minutes twice a day on weekdays, then take a step back with our What\u2019s News in Markets wrap-up on Saturday and our What\u2019s News Sunday deep dive."
-    },
-    "language": "en-us",
-    "link": "https://www.wsj.com/podcasts/whats-news",
-    "paginationLinks": {
-        "self": "https://feeds.megaphone.fm/WSJ4886593505"
-    },
-    "palette": [
-        "934980",
-        "27254B",
-        "E6C67A",
-        "EA6B90",
-        "7F0E36",
-        "F4A1CE"
-    ],
-    "title": "WSJ What\u2019s News"
+    }
 }

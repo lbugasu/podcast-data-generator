@@ -1,404 +1,904 @@
 {
-    "copyright": "2024 iHeartMedia, Inc. \u00a9 Any use of this intellectual property for text and data mining or computational analysis including as training material for artificial intelligence systems is strictly prohibited without express written consent from iHeartMedia",
-    "description": "<p>In the 1940s, a group of Mormon dreamers started a town in the Mexican desert. But what began as a utopian vision quickly turned sour when the founding family&rsquo;s son, Ervil LeBaron, struggled for control of the community and unleashed a multi-generational crimewave &ndash; the ripples of which are still being felt today.</p>\r\n<p>From bank robbery to drug smuggling, auto theft rings to multiple murders, a deadly cult evolved into a sophisticated organized crime family. In Deliver Us From Ervil, journalist Jesse Hyde tells the story of Ervil LeBaron and the unlikely ensemble of reporters, cops, survivors and family insiders trying to halt his bloody legacy.</p>\r\n<p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p>",
-    "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/2c904ce8-4a15-453a-bde3-ae7d0114315f/podcast.rss",
-    "image": {
-        "link": "https://www.iheart.com/podcast/1119-deliver-us-from-ervil-96084334/",
-        "title": "Deliver Us From Ervil",
-        "url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
-    },
-    "items": [
-        {
-            "content": "<p>The Fighty Pucks is the story of the most violent hockey team on the planet. A team of lovable bad boys, misfits and bruisers, led by a teenage boy - AJ Galante. Together with his father, a powerful business man with a dark past, AJ ran the team as they went rampaging on a path to glory. But all the while, the team was being secretly watched by their toughest opponent of all - the FBI.</p> <p>The Fighty Pucks is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit<a href=\"http://novel.audio\"> novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>The Fighty Pucks is the story of the most violent hockey team on the planet. A team of lovable bad boys, misfits and bruisers, led by a teenage boy - AJ Galante. Together with his father, a powerful business man with a dark past, AJ ran the team as they went rampaging on a path to glory. But all the while, the team was being secretly watched by their toughest opponent of all - the FBI.</p> <p>The Fighty Pucks is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit<a href=\"http://novel.audio\"> novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "The Fighty Pucks is the story of the most violent hockey team on the planet. A team of lovable bad boys, misfits and bruisers, led by a teenage boy - AJ Galante. Together with his father, a powerful business man with a dark past, AJ ran the team as they went rampaging on a path to glory. But all the while, the team was being secretly watched by their toughest opponent of all - the FBI.\n The Fighty Pucks is produced by Novel for iHeartRadio.\n For more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "The Fighty Pucks is the story of the most violent hockey team on the planet. A team of lovable bad boys, misfits and bruisers, led by a teenage boy - AJ Galante. Together with his father, a powerful business man with a dark past, AJ ran the team as they went rampaging on a path to glory. But all the while, the team was being secretly watched by their toughest opponent of all - the FBI.\n The Fighty Pucks is produced by Novel for iHeartRadio.\n For more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "2149682",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/9ec1084a-83eb-4e49-8541-b01200dd0b9e/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:acast": "https://schema.acast.com/1.0/",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:media": "http://search.yahoo.com/mrss/",
+        "@xmlns:omny": "https://omny.fm/rss-extensions",
+        "@xmlns:podcast": "https://podcastindex.org/namespace/1.0",
+        "@xmlns:psc": "http://podlove.org/simple-chapters",
+        "channel": {
+            "atom:link": [
+                {
+                    "@href": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/2c904ce8-4a15-453a-bde3-ae7d0114315f/podcast.rss",
+                    "@rel": "self",
+                    "@type": "application/rss+xml"
+                },
+                {
+                    "@href": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/2c904ce8-4a15-453a-bde3-ae7d0114315f/podcast.rss?page=1",
+                    "@rel": "first",
+                    "@type": "application/rss+xml"
+                },
+                {
+                    "@href": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/2c904ce8-4a15-453a-bde3-ae7d0114315f/podcast.rss?page=1",
+                    "@rel": "last",
+                    "@type": "application/rss+xml"
+                }
+            ],
+            "copyright": "2024 iHeartMedia, Inc. \u00a9 Any use of this intellectual property for text and data mining or computational analysis including as training material for artificial intelligence systems is strictly prohibited without express written consent from iHeartMedia",
+            "description": "<p>In the 1940s, a group of Mormon dreamers started a town in the Mexican desert. But what began as a utopian vision quickly turned sour when the founding family&rsquo;s son, Ervil LeBaron, struggled for control of the community and unleashed a multi-generational crimewave &ndash; the ripples of which are still being felt today.</p>\n<p>From bank robbery to drug smuggling, auto theft rings to multiple murders, a deadly cult evolved into a sophisticated organized crime family. In Deliver Us From Ervil, journalist Jesse Hyde tells the story of Ervil LeBaron and the unlikely ensemble of reporters, cops, survivors and family insiders trying to halt his bloody legacy.</p>\n<p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p>",
+            "image": {
+                "link": "https://www.iheart.com/podcast/1119-deliver-us-from-ervil-96084334/",
+                "palette": [
+                    "1C1C23",
+                    "BD683E",
+                    "ECDDC8",
+                    "734F31",
+                    "ACA7A8",
+                    "62280B"
+                ],
+                "title": "Deliver Us From Ervil",
+                "url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
             },
-            "guid": "9ec1084a-83eb-4e49-8541-b01200dd0b9e",
-            "isoDate": "2023-05-30T13:27:31.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts and Novel",
-                "duration": "131",
-                "episodeType": "bonus",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/9ec1084a-83eb-4e49-8541-b01200dd0b9e/image.jpg?t=1685453273&size=Large"
-            },
-            "link": "https://omny.fm/shows/deliver-us-from-ervil/introducing-the-fighty-pucks",
-            "pubDate": "Tue, 30 May 2023 13:27:31 +0000",
-            "title": "Introducing The Fighty Pucks"
-        },
-        {
-            "content": "<p>Over a decade after she first escaped the clutches of law enforcement, the final suspect in the 4 O\u2019Clock Murders is finally caught. She was living in hiding, for years, in Honduras. She\u2019s charged, convicted and sentenced, but has her imprisonment finally brought the bloody legacy of Ervil LeBaron to an end? Jesse Hyde explores whether the threat of Ervil LeBaron is really over and whether those that spent so long pursuing the cult believe this multigenerational cycle of crime and abuse is finally at an end. Jesse travels back to Colonia LeBaron, where this whole story began, to find some surprising connections being made.</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>Over a decade after she first escaped the clutches of law enforcement, the final suspect in the 4 O\u2019Clock Murders is finally caught. She was living in hiding, for years, in Honduras. She\u2019s charged, convicted and sentenced, but has her imprisonment finally brought the bloody legacy of Ervil LeBaron to an end? Jesse Hyde explores whether the threat of Ervil LeBaron is really over and whether those that spent so long pursuing the cult believe this multigenerational cycle of crime and abuse is finally at an end. Jesse travels back to Colonia LeBaron, where this whole story began, to find some surprising connections being made.</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "Over a decade after she first escaped the clutches of law enforcement, the final suspect in the 4 O\u2019Clock Murders is finally caught. She was living in hiding, for years, in Honduras. She\u2019s charged, convicted and sentenced, but has her imprisonment finally brought the bloody legacy of Ervil LeBaron to an end? Jesse Hyde explores whether the threat of Ervil LeBaron is really over and whether those that spent so long pursuing the cult believe this multigenerational cycle of crime and abuse is finally at an end. Jesse travels back to Colonia LeBaron, where this whole story began, to find some surprising connections being made.\n Deliver Us From Ervil is produced by Novel for iHeartRadio.\n For more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "Over a decade after she first escaped the clutches of law enforcement, the final suspect in the 4 O\u2019Clock Murders is finally caught. She was living in hiding, for years, in Honduras. She\u2019s charged, convicted and sentenced, but has her imprisonment finally brought the bloody legacy of Ervil LeBaron to an end? Jesse Hyde explores whether the threat of Ervil LeBaron is really over and whether those that spent so long pursuing the cult believe this multigenerational cycle of crime and abuse is finally at an end. Jesse travels back to Colonia LeBaron, where this whole story began, to find some surprising connections being made.\n Deliver Us From Ervil is produced by Novel for iHeartRadio.\n For more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "54308023",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/5efb2a73-d139-4739-a583-aed7012cbfd1/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
-            },
-            "guid": "5efb2a73-d139-4739-a583-aed7012cbfd1",
-            "isoDate": "2022-07-20T04:00:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts and Novel",
-                "duration": "3392",
-                "episode": "13",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
-            },
-            "link": "https://omny.fm/shows/deliver-us-from-ervil/13-chasing-ghosts",
-            "pubDate": "Wed, 20 Jul 2022 04:00:00 +0000",
-            "title": "13: Chasing Ghosts"
-        },
-        {
-            "content": "<p>In the aftermath of the 4 O\u2019Clock Murders, the Kingdom of God is facing a crisis. For Gabriela and her siblings, the early 90s marked a turning point for the cult. Meanwhile, investigators from across the country have formed a team named after the youngest victim: the Jenny Task Force. Their progress is slow, until a chance auto theft arrest in Phoenix, Arizona seems to snare several of the cops\u2019 main suspects: some of Ervil LeBaron\u2019s eldest children, using fake aliases. But there\u2019s one influential cult leader who is still on the run.\u00a0</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>In the aftermath of the 4 O\u2019Clock Murders, the Kingdom of God is facing a crisis. For Gabriela and her siblings, the early 90s marked a turning point for the cult. Meanwhile, investigators from across the country have formed a team named after the youngest victim: the Jenny Task Force. Their progress is slow, until a chance auto theft arrest in Phoenix, Arizona seems to snare several of the cops\u2019 main suspects: some of Ervil LeBaron\u2019s eldest children, using fake aliases. But there\u2019s one influential cult leader who is still on the run.\u00a0</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "In the aftermath of the 4 O\u2019Clock Murders, the Kingdom of God is facing a crisis. For Gabriela and her siblings, the early 90s marked a turning point for the cult. Meanwhile, investigators from across the country have formed a team named after the youngest victim: the Jenny Task Force. Their progress is slow, until a chance auto theft arrest in Phoenix, Arizona seems to snare several of the cops\u2019 main suspects: some of Ervil LeBaron\u2019s eldest children, using fake aliases. But there\u2019s one influential cult leader who is still on the run.\u00a0\n Deliver Us From Ervil is produced by Novel for iHeartRadio.\n \nFor more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "In the aftermath of the 4 O\u2019Clock Murders, the Kingdom of God is facing a crisis. For Gabriela and her siblings, the early 90s marked a turning point for the cult. Meanwhile, investigators from across the country have formed a team named after the youngest victim: the Jenny Task Force. Their progress is slow, until a chance auto theft arrest in Phoenix, Arizona seems to snare several of the cops\u2019 main suspects: some of Ervil LeBaron\u2019s eldest children, using fake aliases. But there\u2019s one influential cult leader who is still on the run.\u00a0\n Deliver Us From Ervil is produced by Novel for iHeartRadio.\n \nFor more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "51909355",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/2e70f30f-9edf-483d-b71c-aecf0102cd8e/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
-            },
-            "guid": "2e70f30f-9edf-483d-b71c-aecf0102cd8e",
-            "isoDate": "2022-07-13T04:00:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts and Novel",
-                "duration": "3242",
-                "episode": "12",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
-            },
-            "link": "https://omny.fm/shows/deliver-us-from-ervil/12-the-tide-turns",
-            "pubDate": "Wed, 13 Jul 2022 04:00:00 +0000",
-            "title": "12: The Tide Turns"
-        },
-        {
-            "content": "<p>It\u2019s 1988. One summer\u2019s day, in a sleepy suburb of Houston, a team of experienced police officers are called to the scene of the first in a series of horrific crimes. Several murders have been carried out in different parts of Texas at exactly the same time: 4 o\u2019clock. There\u2019s another link too, all the victims were former associates of Ervil LeBaron. The brutally executed assassinations send shockwaves through the public, and bring together investigators and prosecutors from across the country, all united in their goal of bringing the multi-generational crimewave sparked by Ervil LeBaron\u2019s legacy to a grinding halt. But first, they\u2019ll need to work out who, exactly, was responsible. <br><br>Deliver Us From Ervil is produced by Novel for iHeartRadio.<br><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>It\u2019s 1988. One summer\u2019s day, in a sleepy suburb of Houston, a team of experienced police officers are called to the scene of the first in a series of horrific crimes. Several murders have been carried out in different parts of Texas at exactly the same time: 4 o\u2019clock. There\u2019s another link too, all the victims were former associates of Ervil LeBaron. The brutally executed assassinations send shockwaves through the public, and bring together investigators and prosecutors from across the country, all united in their goal of bringing the multi-generational crimewave sparked by Ervil LeBaron\u2019s legacy to a grinding halt. But first, they\u2019ll need to work out who, exactly, was responsible. <br><br>Deliver Us From Ervil is produced by Novel for iHeartRadio.<br><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "It\u2019s 1988. One summer\u2019s day, in a sleepy suburb of Houston, a team of experienced police officers are called to the scene of the first in a series of horrific crimes. Several murders have been carried out in different parts of Texas at exactly the same time: 4 o\u2019clock. There\u2019s another link too, all the victims were former associates of Ervil LeBaron. The brutally executed assassinations send shockwaves through the public, and bring together investigators and prosecutors from across the country, all united in their goal of bringing the multi-generational crimewave sparked by Ervil LeBaron\u2019s legacy to a grinding halt. But first, they\u2019ll need to work out who, exactly, was responsible. \nDeliver Us From Ervil is produced by Novel for iHeartRadio.\nFor more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "It\u2019s 1988. One summer\u2019s day, in a sleepy suburb of Houston, a team of experienced police officers are called to the scene of the first in a series of horrific crimes. Several murders have been carried out in different parts of Texas at exactly the same time: 4 o\u2019clock. There\u2019s another link too, all the victims were former associates of Ervil LeBaron. The brutally executed assassinations send shockwaves through the public, and bring together investigators and prosecutors from across the country, all united in their goal of bringing the multi-generational crimewave sparked by Ervil LeBaron\u2019s legacy to a grinding halt. But first, they\u2019ll need to work out who, exactly, was responsible. \nDeliver Us From Ervil is produced by Novel for iHeartRadio.\nFor more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "40161362",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/6a26a522-2cec-46cb-9df9-aec80117ebbb/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
-            },
-            "guid": "6a26a522-2cec-46cb-9df9-aec80117ebbb",
-            "isoDate": "2022-07-06T04:00:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts and Novel",
-                "duration": "2507",
-                "episode": "11",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
-            },
-            "link": "https://omny.fm/shows/deliver-us-from-ervil/11-at-four-o-clock",
-            "pubDate": "Wed, 06 Jul 2022 04:00:00 +0000",
-            "title": "11: At Four O\u2019Clock"
-        },
-        {
-            "content": "<p>For years, Dan Jordan was Ervil LeBaron\u2019s right-hand man. But by the time Ervil was imprisoned, the relationship between the two men had soured and Dan Jordan was marked for death in the Book of the New Covenant. In the autumn of 1987, Utah law enforcement are called to investigate a mysterious hunting incident involving Dan Jordan, and a campground full of Ervil LeBaron\u2019s children. But will they be able to put the pieces together? <br><br>Deliver Us From Ervil is produced by Novel for iHeartRadio.<br><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>For years, Dan Jordan was Ervil LeBaron\u2019s right-hand man. But by the time Ervil was imprisoned, the relationship between the two men had soured and Dan Jordan was marked for death in the Book of the New Covenant. In the autumn of 1987, Utah law enforcement are called to investigate a mysterious hunting incident involving Dan Jordan, and a campground full of Ervil LeBaron\u2019s children. But will they be able to put the pieces together? <br><br>Deliver Us From Ervil is produced by Novel for iHeartRadio.<br><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "For years, Dan Jordan was Ervil LeBaron\u2019s right-hand man. But by the time Ervil was imprisoned, the relationship between the two men had soured and Dan Jordan was marked for death in the Book of the New Covenant. In the autumn of 1987, Utah law enforcement are called to investigate a mysterious hunting incident involving Dan Jordan, and a campground full of Ervil LeBaron\u2019s children. But will they be able to put the pieces together? \nDeliver Us From Ervil is produced by Novel for iHeartRadio.\nFor more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "For years, Dan Jordan was Ervil LeBaron\u2019s right-hand man. But by the time Ervil was imprisoned, the relationship between the two men had soured and Dan Jordan was marked for death in the Book of the New Covenant. In the autumn of 1987, Utah law enforcement are called to investigate a mysterious hunting incident involving Dan Jordan, and a campground full of Ervil LeBaron\u2019s children. But will they be able to put the pieces together? \nDeliver Us From Ervil is produced by Novel for iHeartRadio.\nFor more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "40378283",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/b70c338a-8828-4f8f-99e4-aebe009a9502/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
-            },
-            "guid": "b70c338a-8828-4f8f-99e4-aebe009a9502",
-            "isoDate": "2022-06-29T04:00:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts and Novel",
-                "duration": "2521",
-                "episode": "10",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
-            },
-            "link": "https://omny.fm/shows/deliver-us-from-ervil/10-the-book-of-daniel",
-            "pubDate": "Wed, 29 Jun 2022 04:00:00 +0000",
-            "title": "10: The Book of Daniel"
-        },
-        {
-            "content": "<p>In the aftermath of Arthur\u2019s death, Ervil\u2019s son Heber LeBaron takes over the mantle of the \u201cOne Mighty and Strong\u201d. 19-years-old, and raised in an extremist and violent faith, Heber\u2019s leadership evolves the Kingdom of God into a kind of organised crime family: drug smuggling, auto-theft and of course, violent retribution against their father\u2019s enemies.</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>In the aftermath of Arthur\u2019s death, Ervil\u2019s son Heber LeBaron takes over the mantle of the \u201cOne Mighty and Strong\u201d. 19-years-old, and raised in an extremist and violent faith, Heber\u2019s leadership evolves the Kingdom of God into a kind of organised crime family: drug smuggling, auto-theft and of course, violent retribution against their father\u2019s enemies.</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "In the aftermath of Arthur\u2019s death, Ervil\u2019s son Heber LeBaron takes over the mantle of the \u201cOne Mighty and Strong\u201d. 19-years-old, and raised in an extremist and violent faith, Heber\u2019s leadership evolves the Kingdom of God into a kind of organised crime family: drug smuggling, auto-theft and of course, violent retribution against their father\u2019s enemies.\n Deliver Us From Ervil is produced by Novel for iHeartRadio.\n For more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "In the aftermath of Arthur\u2019s death, Ervil\u2019s son Heber LeBaron takes over the mantle of the \u201cOne Mighty and Strong\u201d. 19-years-old, and raised in an extremist and violent faith, Heber\u2019s leadership evolves the Kingdom of God into a kind of organised crime family: drug smuggling, auto-theft and of course, violent retribution against their father\u2019s enemies.\n Deliver Us From Ervil is produced by Novel for iHeartRadio.\n For more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "34926425",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/dd64f7d1-59be-4b79-943f-aebb0120acb7/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
-            },
-            "guid": "dd64f7d1-59be-4b79-943f-aebb0120acb7",
-            "isoDate": "2022-06-22T04:00:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts and Novel",
-                "duration": "2180",
-                "episode": "9",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
-            },
-            "link": "https://omny.fm/shows/deliver-us-from-ervil/9-who-wears-the-crown",
-            "pubDate": "Wed, 22 Jun 2022 04:00:00 +0000",
-            "title": "9: Who Wears The Crown?"
-        },
-        {
-            "content": "<p>Ervil LeBaron spent two years in a Utah State Prison before his death in 1981. It left him with plenty of time to write a 500-page-long manifesto on his enemies. The Book of the New Covenant would go on to become a sacred text to Ervil&rsquo;s many children, who had been raised in poverty, neglect and violence. Jesse Hyde sits down with one of Ervil&rsquo;s daughters, Gabriela, to get an unprecedented look inside the lives of Ervil&rsquo;s indoctrinated children who, after his death, would be led by Ervil&rsquo;s eldest son Arthur. To them, the Book of the New Covenant was more than just scripture: it was a hit list.&nbsp;</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a>&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>Ervil LeBaron spent two years in a Utah State Prison before his death in 1981. It left him with plenty of time to write a 500-page-long manifesto on his enemies. The Book of the New Covenant would go on to become a sacred text to Ervil&rsquo;s many children, who had been raised in poverty, neglect and violence. Jesse Hyde sits down with one of Ervil&rsquo;s daughters, Gabriela, to get an unprecedented look inside the lives of Ervil&rsquo;s indoctrinated children who, after his death, would be led by Ervil&rsquo;s eldest son Arthur. To them, the Book of the New Covenant was more than just scripture: it was a hit list.&nbsp;</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a>&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "Ervil LeBaron spent two years in a Utah State Prison before his death in 1981. It left him with plenty of time to write a 500-page-long manifesto on his enemies. The Book of the New Covenant would go on to become a sacred text to Ervil\u2019s many children, who had been raised in poverty, neglect and violence. Jesse Hyde sits down with one of Ervil\u2019s daughters, Gabriela, to get an unprecedented look inside the lives of Ervil\u2019s indoctrinated children who, after his death, would be led by Ervil\u2019s eldest son Arthur. To them, the Book of the New Covenant was more than just scripture: it was a hit list.\u00a0\n Deliver Us From Ervil is produced by Novel for iHeartRadio.\n \nFor more from Novel visit novel.audio\u00a0\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "Ervil LeBaron spent two years in a Utah State Prison before his death in 1981. It left him with plenty of time to write a 500-page-long manifesto on his enemies. The Book of the New Covenant would go on to become a sacred text to Ervil\u2019s many children, who had been raised in poverty, neglect and violence. Jesse Hyde sits down with one of Ervil\u2019s daughters, Gabriela, to get an unprecedented look inside the lives of Ervil\u2019s indoctrinated children who, after his death, would be led by Ervil\u2019s eldest son Arthur. To them, the Book of the New Covenant was more than just scripture: it was a hit list.\u00a0\n Deliver Us From Ervil is produced by Novel for iHeartRadio.\n \nFor more from Novel visit novel.audio\u00a0\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "49678293",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/52f6877d-eae7-4b60-a946-aeb4011c2be9/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
-            },
-            "guid": "52f6877d-eae7-4b60-a946-aeb4011c2be9",
-            "isoDate": "2022-06-15T04:00:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts and Novel",
-                "duration": "3102",
-                "episode": "8",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
-            },
-            "link": "https://omny.fm/shows/deliver-us-from-ervil/8-the-reign-of-arthur",
-            "pubDate": "Wed, 15 Jun 2022 04:00:00 +0000",
-            "title": "8: The Reign of Arthur"
-        },
-        {
-            "content": "<p>Cops and prosecutors try for another conviction against the cult of Ervil LeBaron. Difficulties arise when their key witness suddenly dies but events finally swing round in their favor when Ervil is arrested and, finally, locked behind bars. Jesse Hyde hears how in 1979 the spell seemed finally to have been broken. But if the law thought Ervil&rsquo;s reign was over they were about to be disappointed.</p> <p>Deliver Us From Ervil&nbsp; is produced by Novel for iHeartRadio.</p> <p><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a>&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>Cops and prosecutors try for another conviction against the cult of Ervil LeBaron. Difficulties arise when their key witness suddenly dies but events finally swing round in their favor when Ervil is arrested and, finally, locked behind bars. Jesse Hyde hears how in 1979 the spell seemed finally to have been broken. But if the law thought Ervil&rsquo;s reign was over they were about to be disappointed.</p> <p>Deliver Us From Ervil&nbsp; is produced by Novel for iHeartRadio.</p> <p><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a>&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "Cops and prosecutors try for another conviction against the cult of Ervil LeBaron. Difficulties arise when their key witness suddenly dies but events finally swing round in their favor when Ervil is arrested and, finally, locked behind bars. Jesse Hyde hears how in 1979 the spell seemed finally to have been broken. But if the law thought Ervil\u2019s reign was over they were about to be disappointed.\n Deliver Us From Ervil\u00a0 is produced by Novel for iHeartRadio.\n \nFor more from Novel visit novel.audio\u00a0\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "Cops and prosecutors try for another conviction against the cult of Ervil LeBaron. Difficulties arise when their key witness suddenly dies but events finally swing round in their favor when Ervil is arrested and, finally, locked behind bars. Jesse Hyde hears how in 1979 the spell seemed finally to have been broken. But if the law thought Ervil\u2019s reign was over they were about to be disappointed.\n Deliver Us From Ervil\u00a0 is produced by Novel for iHeartRadio.\n \nFor more from Novel visit novel.audio\u00a0\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "47892769",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/372848d6-bf37-4a77-a58e-aead0130c663/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
-            },
-            "guid": "372848d6-bf37-4a77-a58e-aead0130c663",
-            "isoDate": "2022-06-08T04:00:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts and Novel",
-                "duration": "2991",
-                "episode": "7",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
-            },
-            "link": "https://omny.fm/shows/deliver-us-from-ervil/7-ervil-comes-home",
-            "pubDate": "Wed, 08 Jun 2022 04:00:00 +0000",
-            "title": "7: Ervil Comes Home"
-        },
-        {
-            "content": "<p>Police try to gain information from new insiders in Ervil&rsquo;s cult. As more members of the cult break away to talk to the police the cops swoop in to make arrests. By 1978 Ervil remains on the run but prosectors now have enough evidence for a murder trial on his most high profile killings. As the trial leads to an unexpected conclusion, Ervil&rsquo;s reputation causes further woes for the cops.&nbsp;</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>Police try to gain information from new insiders in Ervil&rsquo;s cult. As more members of the cult break away to talk to the police the cops swoop in to make arrests. By 1978 Ervil remains on the run but prosectors now have enough evidence for a murder trial on his most high profile killings. As the trial leads to an unexpected conclusion, Ervil&rsquo;s reputation causes further woes for the cops.&nbsp;</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "Police try to gain information from new insiders in Ervil\u2019s cult. As more members of the cult break away to talk to the police the cops swoop in to make arrests. By 1978 Ervil remains on the run but prosectors now have enough evidence for a murder trial on his most high profile killings. As the trial leads to an unexpected conclusion, Ervil\u2019s reputation causes further woes for the cops.\u00a0\n Deliver Us From Ervil is produced by Novel for iHeartRadio.\n For more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "Police try to gain information from new insiders in Ervil\u2019s cult. As more members of the cult break away to talk to the police the cops swoop in to make arrests. By 1978 Ervil remains on the run but prosectors now have enough evidence for a murder trial on his most high profile killings. As the trial leads to an unexpected conclusion, Ervil\u2019s reputation causes further woes for the cops.\u00a0\n Deliver Us From Ervil is produced by Novel for iHeartRadio.\n For more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "46144441",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/bdc6aaef-5743-4ae1-8b6c-aea600ebb114/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
-            },
-            "guid": "bdc6aaef-5743-4ae1-8b6c-aea600ebb114",
-            "isoDate": "2022-06-01T04:00:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts and Novel",
-                "duration": "2881",
-                "episode": "6",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
-            },
-            "link": "https://omny.fm/shows/deliver-us-from-ervil/6-the-betrayal",
-            "pubDate": "Wed, 01 Jun 2022 04:00:00 +0000",
-            "title": "6: The Betrayal"
-        },
-        {
-            "content": "<p>We hear the astonishing confessions of one of Ervil LeBaron&rsquo;s most influential cult members, who was groomed from childhood as both his wife and assassin. Over the course of an interrogation that lasts days, we listen in as the inner workings of this cult and organised crime family are revealed, murder-by-murder. As her interrogator continues to push, a strangely intimate picture of cult life emerges and builds to a startling conclusion.&nbsp;</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>We hear the astonishing confessions of one of Ervil LeBaron&rsquo;s most influential cult members, who was groomed from childhood as both his wife and assassin. Over the course of an interrogation that lasts days, we listen in as the inner workings of this cult and organised crime family are revealed, murder-by-murder. As her interrogator continues to push, a strangely intimate picture of cult life emerges and builds to a startling conclusion.&nbsp;</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "We hear the astonishing confessions of one of Ervil LeBaron\u2019s most influential cult members, who was groomed from childhood as both his wife and assassin. Over the course of an interrogation that lasts days, we listen in as the inner workings of this cult and organised crime family are revealed, murder-by-murder. As her interrogator continues to push, a strangely intimate picture of cult life emerges and builds to a startling conclusion.\u00a0\n Deliver Us From Ervil is produced by Novel for iHeartRadio.\n \nFor more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "We hear the astonishing confessions of one of Ervil LeBaron\u2019s most influential cult members, who was groomed from childhood as both his wife and assassin. Over the course of an interrogation that lasts days, we listen in as the inner workings of this cult and organised crime family are revealed, murder-by-murder. As her interrogator continues to push, a strangely intimate picture of cult life emerges and builds to a startling conclusion.\u00a0\n Deliver Us From Ervil is produced by Novel for iHeartRadio.\n \nFor more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "44448370",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/0a6a0726-b95e-4477-baf9-ae9f011ce49b/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
-            },
-            "guid": "0a6a0726-b95e-4477-baf9-ae9f011ce49b",
-            "isoDate": "2022-05-25T04:00:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts and Novel",
-                "duration": "2775",
-                "episode": "5",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
-            },
-            "link": "https://omny.fm/shows/deliver-us-from-ervil/5-rena-s-confession",
-            "pubDate": "Wed, 25 May 2022 04:00:00 +0000",
-            "title": "5: Rena\u2019s Confession"
-        },
-        {
-            "content": "<p>Journalists on Ervil&rsquo;s trail hear about an imminent murder in Utah and alert the cops. They arrive too late but decide to team up in the hunt for Ervil. As the press investigate, the astonishing scale of his crimes are revealed &ndash; but, as new murders come to light, the journalists become targets of Ervil and his deadly cult. Meanwhile, the cops start to identify suspects, though without an informant they&rsquo;re yet to make any arrests. As the summer of 1977 passes, the police are about to be given an eye-opening inside account of Ervil LeBaron&rsquo;s cult.</p> <p>Deliver Us From Ervil&nbsp; is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>Journalists on Ervil&rsquo;s trail hear about an imminent murder in Utah and alert the cops. They arrive too late but decide to team up in the hunt for Ervil. As the press investigate, the astonishing scale of his crimes are revealed &ndash; but, as new murders come to light, the journalists become targets of Ervil and his deadly cult. Meanwhile, the cops start to identify suspects, though without an informant they&rsquo;re yet to make any arrests. As the summer of 1977 passes, the police are about to be given an eye-opening inside account of Ervil LeBaron&rsquo;s cult.</p> <p>Deliver Us From Ervil&nbsp; is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "Journalists on Ervil\u2019s trail hear about an imminent murder in Utah and alert the cops. They arrive too late but decide to team up in the hunt for Ervil. As the press investigate, the astonishing scale of his crimes are revealed \u2013 but, as new murders come to light, the journalists become targets of Ervil and his deadly cult. Meanwhile, the cops start to identify suspects, though without an informant they\u2019re yet to make any arrests. As the summer of 1977 passes, the police are about to be given an eye-opening inside account of Ervil LeBaron\u2019s cult.\n Deliver Us From Ervil\u00a0 is produced by Novel for iHeartRadio.\n For more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "Journalists on Ervil\u2019s trail hear about an imminent murder in Utah and alert the cops. They arrive too late but decide to team up in the hunt for Ervil. As the press investigate, the astonishing scale of his crimes are revealed \u2013 but, as new murders come to light, the journalists become targets of Ervil and his deadly cult. Meanwhile, the cops start to identify suspects, though without an informant they\u2019re yet to make any arrests. As the summer of 1977 passes, the police are about to be given an eye-opening inside account of Ervil LeBaron\u2019s cult.\n Deliver Us From Ervil\u00a0 is produced by Novel for iHeartRadio.\n For more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "40562593",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/324f2646-e2d1-40dc-a69b-ae980106fe9f/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
-            },
-            "guid": "324f2646-e2d1-40dc-a69b-ae980106fe9f",
-            "isoDate": "2022-05-18T04:00:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts and Novel",
-                "duration": "2533",
-                "episode": "4",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
-            },
-            "link": "https://omny.fm/shows/deliver-us-from-ervil/4-the-hunt",
-            "pubDate": "Wed, 18 May 2022 04:00:00 +0000",
-            "title": "4:  The Hunt"
-        },
-        {
-            "content": "<p>How was Ervil LeBaron able to instill such devotion among his followers? Devotion that allowed him to commit untold violence and terror. In this episode, Jesse explores how key members of Ervil&rsquo;s cult were recruited, and how they morphed into a sophisticated organized crime family. In 1977, when the group failed to extort money from a high profile target, Ervil sets his most audacious attack into motion: a double murder intended to take out his biggest rivals. But you can&rsquo;t organise an assassination without attracting some attention and soon, the press are on Ervil&rsquo;s trail.</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>How was Ervil LeBaron able to instill such devotion among his followers? Devotion that allowed him to commit untold violence and terror. In this episode, Jesse explores how key members of Ervil&rsquo;s cult were recruited, and how they morphed into a sophisticated organized crime family. In 1977, when the group failed to extort money from a high profile target, Ervil sets his most audacious attack into motion: a double murder intended to take out his biggest rivals. But you can&rsquo;t organise an assassination without attracting some attention and soon, the press are on Ervil&rsquo;s trail.</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "How was Ervil LeBaron able to instill such devotion among his followers? Devotion that allowed him to commit untold violence and terror. In this episode, Jesse explores how key members of Ervil\u2019s cult were recruited, and how they morphed into a sophisticated organized crime family. In 1977, when the group failed to extort money from a high profile target, Ervil sets his most audacious attack into motion: a double murder intended to take out his biggest rivals. But you can\u2019t organise an assassination without attracting some attention and soon, the press are on Ervil\u2019s trail.\n Deliver Us From Ervil is produced by Novel for iHeartRadio.\n For more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "How was Ervil LeBaron able to instill such devotion among his followers? Devotion that allowed him to commit untold violence and terror. In this episode, Jesse explores how key members of Ervil\u2019s cult were recruited, and how they morphed into a sophisticated organized crime family. In 1977, when the group failed to extort money from a high profile target, Ervil sets his most audacious attack into motion: a double murder intended to take out his biggest rivals. But you can\u2019t organise an assassination without attracting some attention and soon, the press are on Ervil\u2019s trail.\n Deliver Us From Ervil is produced by Novel for iHeartRadio.\n For more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "48461198",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/d6d132a1-0535-4eeb-b3d0-ae8500de555b/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
-            },
-            "guid": "d6d132a1-0535-4eeb-b3d0-ae8500de555b",
-            "isoDate": "2022-05-11T04:00:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts and Novel",
-                "duration": "3026",
-                "episode": "3",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
-            },
-            "link": "https://omny.fm/shows/deliver-us-from-ervil/3-welcome-to-the-family",
-            "pubDate": "Wed, 11 May 2022 04:00:00 +0000",
-            "title": "3: Welcome to the Family"
-        },
-        {
-            "content": "<p>Ostracised from his family and his home, Ervil continues to build his cult from across the border in the US. When he starts threatening Colonia LeBaron with an attack, the townsfolk prepare their defences and brace themselves for the worst. But when Ervil LeBaron&rsquo;s followers eventually do act, they manage to catch their victims unaware. Jesse returns to the scene of a 1974 massacre, only to find some survivors with surprising loyalties, despite the devastation.</p> <p>Deliver Us From Ervil&nbsp; is produced by Novel for iHeartRadio.</p> <p><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>Ostracised from his family and his home, Ervil continues to build his cult from across the border in the US. When he starts threatening Colonia LeBaron with an attack, the townsfolk prepare their defences and brace themselves for the worst. But when Ervil LeBaron&rsquo;s followers eventually do act, they manage to catch their victims unaware. Jesse returns to the scene of a 1974 massacre, only to find some survivors with surprising loyalties, despite the devastation.</p> <p>Deliver Us From Ervil&nbsp; is produced by Novel for iHeartRadio.</p> <p><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "Ostracised from his family and his home, Ervil continues to build his cult from across the border in the US. When he starts threatening Colonia LeBaron with an attack, the townsfolk prepare their defences and brace themselves for the worst. But when Ervil LeBaron\u2019s followers eventually do act, they manage to catch their victims unaware. Jesse returns to the scene of a 1974 massacre, only to find some survivors with surprising loyalties, despite the devastation.\n Deliver Us From Ervil\u00a0 is produced by Novel for iHeartRadio.\n \nFor more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "Ostracised from his family and his home, Ervil continues to build his cult from across the border in the US. When he starts threatening Colonia LeBaron with an attack, the townsfolk prepare their defences and brace themselves for the worst. But when Ervil LeBaron\u2019s followers eventually do act, they manage to catch their victims unaware. Jesse returns to the scene of a 1974 massacre, only to find some survivors with surprising loyalties, despite the devastation.\n Deliver Us From Ervil\u00a0 is produced by Novel for iHeartRadio.\n \nFor more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "41131872",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/b679ea66-484b-4711-8573-ae8a010bb344/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
-            },
-            "guid": "b679ea66-484b-4711-8573-ae8a010bb344",
-            "isoDate": "2022-05-04T04:00:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts and Novel",
-                "duration": "2568",
-                "episode": "2",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
-            },
-            "link": "https://omny.fm/shows/deliver-us-from-ervil/2-the-massacre-in-los-molinos",
-            "pubDate": "Wed, 04 May 2022 04:00:00 +0000",
-            "title": "2: The Massacre in Los Molinos"
-        },
-        {
-            "content": "<p>It&rsquo;s 2022, and journalist Jesse Hyde arrives in Colonia LeBaron. It&rsquo;s a strange but thriving Mormon town, deep in the Mexican desert. While investigating a cartel massacre, Jesse uncovers the story of the LeBarons &ndash; a family whose dreams of founding a utopian community swiftly turned into a dystopian nightmare, as a faction of their town transformed into a murderous cult. Jesse traces the origins of this place, from the 1940s to the present day, its founding family and the feud between Joel LeBaron and his fanatic brother Ervil that started it all.</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>It&rsquo;s 2022, and journalist Jesse Hyde arrives in Colonia LeBaron. It&rsquo;s a strange but thriving Mormon town, deep in the Mexican desert. While investigating a cartel massacre, Jesse uncovers the story of the LeBarons &ndash; a family whose dreams of founding a utopian community swiftly turned into a dystopian nightmare, as a faction of their town transformed into a murderous cult. Jesse traces the origins of this place, from the 1940s to the present day, its founding family and the feud between Joel LeBaron and his fanatic brother Ervil that started it all.</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "It\u2019s 2022, and journalist Jesse Hyde arrives in Colonia LeBaron. It\u2019s a strange but thriving Mormon town, deep in the Mexican desert. While investigating a cartel massacre, Jesse uncovers the story of the LeBarons \u2013 a family whose dreams of founding a utopian community swiftly turned into a dystopian nightmare, as a faction of their town transformed into a murderous cult. Jesse traces the origins of this place, from the 1940s to the present day, its founding family and the feud between Joel LeBaron and his fanatic brother Ervil that started it all.\n Deliver Us From Ervil is produced by Novel for iHeartRadio.\n For more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "It\u2019s 2022, and journalist Jesse Hyde arrives in Colonia LeBaron. It\u2019s a strange but thriving Mormon town, deep in the Mexican desert. While investigating a cartel massacre, Jesse uncovers the story of the LeBarons \u2013 a family whose dreams of founding a utopian community swiftly turned into a dystopian nightmare, as a faction of their town transformed into a murderous cult. Jesse traces the origins of this place, from the 1940s to the present day, its founding family and the feud between Joel LeBaron and his fanatic brother Ervil that started it all.\n Deliver Us From Ervil is produced by Novel for iHeartRadio.\n For more from Novel visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "51860046",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/87e6b393-1cec-48df-ac40-ae8500db0bd6/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
-            },
-            "guid": "87e6b393-1cec-48df-ac40-ae8500db0bd6",
-            "isoDate": "2022-05-04T04:00:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts and Novel",
-                "duration": "3239",
-                "episode": "1",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
-            },
-            "link": "https://omny.fm/shows/deliver-us-from-ervil/1-the-one-mighty-and-strong",
-            "pubDate": "Wed, 04 May 2022 04:00:00 +0000",
-            "title": "1: The One Mighty and Strong"
-        },
-        {
-            "content": "<p>In the 1940s, a group of Mormon dreamers started a town in the Mexican desert. But what began as a utopian vision quickly turned sour when the founding family&rsquo;s son, Ervil LeBaron&rsquo;s struggle for control of the community unleashed a multi-generational crimewave &ndash; the ripples of which are still being felt today.</p> <p>From bank robbery to drug smuggling, auto theft rings to multiple murders, a deadly cult evolved into a sophisticated organised crime family. In Deliver Us From Ervil, journalist Jesse Hyde tells the story of Ervil LeBaron and the unlikely ensemble of reporters, cops, survivors and family insiders trying to halt his bloody legacy.</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel, visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>In the 1940s, a group of Mormon dreamers started a town in the Mexican desert. But what began as a utopian vision quickly turned sour when the founding family&rsquo;s son, Ervil LeBaron&rsquo;s struggle for control of the community unleashed a multi-generational crimewave &ndash; the ripples of which are still being felt today.</p> <p>From bank robbery to drug smuggling, auto theft rings to multiple murders, a deadly cult evolved into a sophisticated organised crime family. In Deliver Us From Ervil, journalist Jesse Hyde tells the story of Ervil LeBaron and the unlikely ensemble of reporters, cops, survivors and family insiders trying to halt his bloody legacy.</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel, visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "In the 1940s, a group of Mormon dreamers started a town in the Mexican desert. But what began as a utopian vision quickly turned sour when the founding family\u2019s son, Ervil LeBaron\u2019s struggle for control of the community unleashed a multi-generational crimewave \u2013 the ripples of which are still being felt today.\n From bank robbery to drug smuggling, auto theft rings to multiple murders, a deadly cult evolved into a sophisticated organised crime family. In Deliver Us From Ervil, journalist Jesse Hyde tells the story of Ervil LeBaron and the unlikely ensemble of reporters, cops, survivors and family insiders trying to halt his bloody legacy.\n Deliver Us From Ervil is produced by Novel for iHeartRadio.\n For more from Novel, visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "In the 1940s, a group of Mormon dreamers started a town in the Mexican desert. But what began as a utopian vision quickly turned sour when the founding family\u2019s son, Ervil LeBaron\u2019s struggle for control of the community unleashed a multi-generational crimewave \u2013 the ripples of which are still being felt today.\n From bank robbery to drug smuggling, auto theft rings to multiple murders, a deadly cult evolved into a sophisticated organised crime family. In Deliver Us From Ervil, journalist Jesse Hyde tells the story of Ervil LeBaron and the unlikely ensemble of reporters, cops, survivors and family insiders trying to halt his bloody legacy.\n Deliver Us From Ervil is produced by Novel for iHeartRadio.\n For more from Novel, visit novel.audio\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "1888773",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/703a17d3-b5da-4743-8acc-ae7d01148822/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
-            },
-            "guid": "703a17d3-b5da-4743-8acc-ae7d01148822",
-            "isoDate": "2022-04-20T16:47:16.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts and Novel",
-                "duration": "115",
-                "episodeType": "trailer",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
-            },
-            "link": "https://omny.fm/shows/deliver-us-from-ervil/deliver-us-from-ervil",
-            "pubDate": "Wed, 20 Apr 2022 16:47:16 +0000",
-            "title": "Introducing Deliver Us From Ervil"
-        }
-    ],
-    "itunes": {
-        "author": "iHeartPodcasts and Novel",
-        "categories": [
-            "Society & Culture",
-            "Religion & Spirituality",
-            "True Crime"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Society & Culture",
-                "subs": [
-                    {
-                        "name": "Documentary"
+            "item": [
+                {
+                    "content:encoded": "<p>The Fighty Pucks is the story of the most violent hockey team on the planet. A team of lovable bad boys, misfits and bruisers, led by a teenage boy - AJ Galante. Together with his father, a powerful business man with a dark past, AJ ran the team as they went rampaging on a path to glory. But all the while, the team was being secretly watched by their toughest opponent of all - the FBI.</p> <p>The Fighty Pucks is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit<a href=\"http://novel.audio\"> novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>The Fighty Pucks is the story of the most violent hockey team on the planet. A team of lovable bad boys, misfits and bruisers, led by a teenage boy - AJ Galante. Together with his father, a powerful business man with a dark past, AJ ran the team as they went rampaging on a path to glory. But all the while, the team was being secretly watched by their toughest opponent of all - the FBI.</p> <p>The Fighty Pucks is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit<a href=\"http://novel.audio\"> novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "2149682",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/9ec1084a-83eb-4e49-8541-b01200dd0b9e/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
+                    },
+                    "guid": {
+                        "#text": "9ec1084a-83eb-4e49-8541-b01200dd0b9e",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts and Novel",
+                    "itunes:duration": "131",
+                    "itunes:episodeType": "bonus",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/9ec1084a-83eb-4e49-8541-b01200dd0b9e/image.jpg?t=1685453273&size=Large"
+                    },
+                    "itunes:title": "Introducing The Fighty Pucks",
+                    "link": "https://omny.fm/shows/deliver-us-from-ervil/introducing-the-fighty-pucks",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/9ec1084a-83eb-4e49-8541-b01200dd0b9e/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/deliver-us-from-ervil/introducing-the-fighty-pucks/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/9ec1084a-83eb-4e49-8541-b01200dd0b9e/image.jpg?t=1685453273&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "9ec1084a-83eb-4e49-8541-b01200dd0b9e",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9ec1084a-83eb-4e49-8541-b01200dd0b9e/transcript?format=SubRip&t=1714040330"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9ec1084a-83eb-4e49-8541-b01200dd0b9e/transcript?format=WebVTT&t=1714040330"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9ec1084a-83eb-4e49-8541-b01200dd0b9e/transcript?format=TextWithTimestamps&t=1714040330"
+                        }
+                    ],
+                    "pubDate": "Tue, 30 May 2023 13:27:31 +0000",
+                    "title": "Introducing The Fighty Pucks"
+                },
+                {
+                    "content:encoded": "<p>Over a decade after she first escaped the clutches of law enforcement, the final suspect in the 4 O\u2019Clock Murders is finally caught. She was living in hiding, for years, in Honduras. She\u2019s charged, convicted and sentenced, but has her imprisonment finally brought the bloody legacy of Ervil LeBaron to an end? Jesse Hyde explores whether the threat of Ervil LeBaron is really over and whether those that spent so long pursuing the cult believe this multigenerational cycle of crime and abuse is finally at an end. Jesse travels back to Colonia LeBaron, where this whole story began, to find some surprising connections being made.</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>Over a decade after she first escaped the clutches of law enforcement, the final suspect in the 4 O\u2019Clock Murders is finally caught. She was living in hiding, for years, in Honduras. She\u2019s charged, convicted and sentenced, but has her imprisonment finally brought the bloody legacy of Ervil LeBaron to an end? Jesse Hyde explores whether the threat of Ervil LeBaron is really over and whether those that spent so long pursuing the cult believe this multigenerational cycle of crime and abuse is finally at an end. Jesse travels back to Colonia LeBaron, where this whole story began, to find some surprising connections being made.</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "54308023",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/5efb2a73-d139-4739-a583-aed7012cbfd1/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
+                    },
+                    "guid": {
+                        "#text": "5efb2a73-d139-4739-a583-aed7012cbfd1",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts and Novel",
+                    "itunes:duration": "3392",
+                    "itunes:episode": "13",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                    },
+                    "itunes:title": "13: Chasing Ghosts",
+                    "link": "https://omny.fm/shows/deliver-us-from-ervil/13-chasing-ghosts",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/5efb2a73-d139-4739-a583-aed7012cbfd1/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/deliver-us-from-ervil/13-chasing-ghosts/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "5efb2a73-d139-4739-a583-aed7012cbfd1",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5efb2a73-d139-4739-a583-aed7012cbfd1/transcript?format=SubRip&t=1700492803"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5efb2a73-d139-4739-a583-aed7012cbfd1/transcript?format=WebVTT&t=1700492803"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5efb2a73-d139-4739-a583-aed7012cbfd1/transcript?format=TextWithTimestamps&t=1700492803"
+                        }
+                    ],
+                    "pubDate": "Wed, 20 Jul 2022 04:00:00 +0000",
+                    "title": "13: Chasing Ghosts"
+                },
+                {
+                    "content:encoded": "<p>In the aftermath of the 4 O\u2019Clock Murders, the Kingdom of God is facing a crisis. For Gabriela and her siblings, the early 90s marked a turning point for the cult. Meanwhile, investigators from across the country have formed a team named after the youngest victim: the Jenny Task Force. Their progress is slow, until a chance auto theft arrest in Phoenix, Arizona seems to snare several of the cops\u2019 main suspects: some of Ervil LeBaron\u2019s eldest children, using fake aliases. But there\u2019s one influential cult leader who is still on the run.\u00a0</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>In the aftermath of the 4 O\u2019Clock Murders, the Kingdom of God is facing a crisis. For Gabriela and her siblings, the early 90s marked a turning point for the cult. Meanwhile, investigators from across the country have formed a team named after the youngest victim: the Jenny Task Force. Their progress is slow, until a chance auto theft arrest in Phoenix, Arizona seems to snare several of the cops\u2019 main suspects: some of Ervil LeBaron\u2019s eldest children, using fake aliases. But there\u2019s one influential cult leader who is still on the run.\u00a0</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "51909355",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/2e70f30f-9edf-483d-b71c-aecf0102cd8e/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
+                    },
+                    "guid": {
+                        "#text": "2e70f30f-9edf-483d-b71c-aecf0102cd8e",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts and Novel",
+                    "itunes:duration": "3242",
+                    "itunes:episode": "12",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                    },
+                    "itunes:title": "12: The Tide Turns",
+                    "link": "https://omny.fm/shows/deliver-us-from-ervil/12-the-tide-turns",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/2e70f30f-9edf-483d-b71c-aecf0102cd8e/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/deliver-us-from-ervil/12-the-tide-turns/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "2e70f30f-9edf-483d-b71c-aecf0102cd8e",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2e70f30f-9edf-483d-b71c-aecf0102cd8e/transcript?format=SubRip&t=1700492803"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2e70f30f-9edf-483d-b71c-aecf0102cd8e/transcript?format=WebVTT&t=1700492803"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2e70f30f-9edf-483d-b71c-aecf0102cd8e/transcript?format=TextWithTimestamps&t=1700492803"
+                        }
+                    ],
+                    "pubDate": "Wed, 13 Jul 2022 04:00:00 +0000",
+                    "title": "12: The Tide Turns"
+                },
+                {
+                    "content:encoded": "<p>It\u2019s 1988. One summer\u2019s day, in a sleepy suburb of Houston, a team of experienced police officers are called to the scene of the first in a series of horrific crimes. Several murders have been carried out in different parts of Texas at exactly the same time: 4 o\u2019clock. There\u2019s another link too, all the victims were former associates of Ervil LeBaron. The brutally executed assassinations send shockwaves through the public, and bring together investigators and prosecutors from across the country, all united in their goal of bringing the multi-generational crimewave sparked by Ervil LeBaron\u2019s legacy to a grinding halt. But first, they\u2019ll need to work out who, exactly, was responsible. <br><br>Deliver Us From Ervil is produced by Novel for iHeartRadio.<br><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>It\u2019s 1988. One summer\u2019s day, in a sleepy suburb of Houston, a team of experienced police officers are called to the scene of the first in a series of horrific crimes. Several murders have been carried out in different parts of Texas at exactly the same time: 4 o\u2019clock. There\u2019s another link too, all the victims were former associates of Ervil LeBaron. The brutally executed assassinations send shockwaves through the public, and bring together investigators and prosecutors from across the country, all united in their goal of bringing the multi-generational crimewave sparked by Ervil LeBaron\u2019s legacy to a grinding halt. But first, they\u2019ll need to work out who, exactly, was responsible. <br><br>Deliver Us From Ervil is produced by Novel for iHeartRadio.<br><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "40161362",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/6a26a522-2cec-46cb-9df9-aec80117ebbb/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
+                    },
+                    "guid": {
+                        "#text": "6a26a522-2cec-46cb-9df9-aec80117ebbb",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts and Novel",
+                    "itunes:duration": "2507",
+                    "itunes:episode": "11",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                    },
+                    "itunes:title": "11: At Four O\u2019Clock",
+                    "link": "https://omny.fm/shows/deliver-us-from-ervil/11-at-four-o-clock",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/6a26a522-2cec-46cb-9df9-aec80117ebbb/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/deliver-us-from-ervil/11-at-four-o-clock/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "6a26a522-2cec-46cb-9df9-aec80117ebbb",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6a26a522-2cec-46cb-9df9-aec80117ebbb/transcript?format=SubRip&t=1700492803"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6a26a522-2cec-46cb-9df9-aec80117ebbb/transcript?format=WebVTT&t=1700492803"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6a26a522-2cec-46cb-9df9-aec80117ebbb/transcript?format=TextWithTimestamps&t=1700492803"
+                        }
+                    ],
+                    "pubDate": "Wed, 06 Jul 2022 04:00:00 +0000",
+                    "title": "11: At Four O\u2019Clock"
+                },
+                {
+                    "content:encoded": "<p>For years, Dan Jordan was Ervil LeBaron\u2019s right-hand man. But by the time Ervil was imprisoned, the relationship between the two men had soured and Dan Jordan was marked for death in the Book of the New Covenant. In the autumn of 1987, Utah law enforcement are called to investigate a mysterious hunting incident involving Dan Jordan, and a campground full of Ervil LeBaron\u2019s children. But will they be able to put the pieces together? <br><br>Deliver Us From Ervil is produced by Novel for iHeartRadio.<br><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>For years, Dan Jordan was Ervil LeBaron\u2019s right-hand man. But by the time Ervil was imprisoned, the relationship between the two men had soured and Dan Jordan was marked for death in the Book of the New Covenant. In the autumn of 1987, Utah law enforcement are called to investigate a mysterious hunting incident involving Dan Jordan, and a campground full of Ervil LeBaron\u2019s children. But will they be able to put the pieces together? <br><br>Deliver Us From Ervil is produced by Novel for iHeartRadio.<br><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "40378283",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/b70c338a-8828-4f8f-99e4-aebe009a9502/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
+                    },
+                    "guid": {
+                        "#text": "b70c338a-8828-4f8f-99e4-aebe009a9502",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts and Novel",
+                    "itunes:duration": "2521",
+                    "itunes:episode": "10",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                    },
+                    "itunes:title": "10: The Book of Daniel",
+                    "link": "https://omny.fm/shows/deliver-us-from-ervil/10-the-book-of-daniel",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/b70c338a-8828-4f8f-99e4-aebe009a9502/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/deliver-us-from-ervil/10-the-book-of-daniel/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "b70c338a-8828-4f8f-99e4-aebe009a9502",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b70c338a-8828-4f8f-99e4-aebe009a9502/transcript?format=SubRip&t=1700492803"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b70c338a-8828-4f8f-99e4-aebe009a9502/transcript?format=WebVTT&t=1700492803"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b70c338a-8828-4f8f-99e4-aebe009a9502/transcript?format=TextWithTimestamps&t=1700492803"
+                        }
+                    ],
+                    "pubDate": "Wed, 29 Jun 2022 04:00:00 +0000",
+                    "title": "10: The Book of Daniel"
+                },
+                {
+                    "content:encoded": "<p>In the aftermath of Arthur\u2019s death, Ervil\u2019s son Heber LeBaron takes over the mantle of the \u201cOne Mighty and Strong\u201d. 19-years-old, and raised in an extremist and violent faith, Heber\u2019s leadership evolves the Kingdom of God into a kind of organised crime family: drug smuggling, auto-theft and of course, violent retribution against their father\u2019s enemies.</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>In the aftermath of Arthur\u2019s death, Ervil\u2019s son Heber LeBaron takes over the mantle of the \u201cOne Mighty and Strong\u201d. 19-years-old, and raised in an extremist and violent faith, Heber\u2019s leadership evolves the Kingdom of God into a kind of organised crime family: drug smuggling, auto-theft and of course, violent retribution against their father\u2019s enemies.</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "34926425",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/dd64f7d1-59be-4b79-943f-aebb0120acb7/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
+                    },
+                    "guid": {
+                        "#text": "dd64f7d1-59be-4b79-943f-aebb0120acb7",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts and Novel",
+                    "itunes:duration": "2180",
+                    "itunes:episode": "9",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                    },
+                    "itunes:title": "9: Who Wears The Crown?",
+                    "link": "https://omny.fm/shows/deliver-us-from-ervil/9-who-wears-the-crown",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/dd64f7d1-59be-4b79-943f-aebb0120acb7/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/deliver-us-from-ervil/9-who-wears-the-crown/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "dd64f7d1-59be-4b79-943f-aebb0120acb7",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/dd64f7d1-59be-4b79-943f-aebb0120acb7/transcript?format=SubRip&t=1700492806"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/dd64f7d1-59be-4b79-943f-aebb0120acb7/transcript?format=WebVTT&t=1700492806"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/dd64f7d1-59be-4b79-943f-aebb0120acb7/transcript?format=TextWithTimestamps&t=1700492806"
+                        }
+                    ],
+                    "pubDate": "Wed, 22 Jun 2022 04:00:00 +0000",
+                    "title": "9: Who Wears The Crown?"
+                },
+                {
+                    "content:encoded": "<p>Ervil LeBaron spent two years in a Utah State Prison before his death in 1981. It left him with plenty of time to write a 500-page-long manifesto on his enemies. The Book of the New Covenant would go on to become a sacred text to Ervil&rsquo;s many children, who had been raised in poverty, neglect and violence. Jesse Hyde sits down with one of Ervil&rsquo;s daughters, Gabriela, to get an unprecedented look inside the lives of Ervil&rsquo;s indoctrinated children who, after his death, would be led by Ervil&rsquo;s eldest son Arthur. To them, the Book of the New Covenant was more than just scripture: it was a hit list.&nbsp;</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a>&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>Ervil LeBaron spent two years in a Utah State Prison before his death in 1981. It left him with plenty of time to write a 500-page-long manifesto on his enemies. The Book of the New Covenant would go on to become a sacred text to Ervil&rsquo;s many children, who had been raised in poverty, neglect and violence. Jesse Hyde sits down with one of Ervil&rsquo;s daughters, Gabriela, to get an unprecedented look inside the lives of Ervil&rsquo;s indoctrinated children who, after his death, would be led by Ervil&rsquo;s eldest son Arthur. To them, the Book of the New Covenant was more than just scripture: it was a hit list.&nbsp;</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a>&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "49678293",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/52f6877d-eae7-4b60-a946-aeb4011c2be9/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
+                    },
+                    "guid": {
+                        "#text": "52f6877d-eae7-4b60-a946-aeb4011c2be9",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts and Novel",
+                    "itunes:duration": "3102",
+                    "itunes:episode": "8",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                    },
+                    "itunes:title": "8: The Reign of Arthur",
+                    "link": "https://omny.fm/shows/deliver-us-from-ervil/8-the-reign-of-arthur",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/52f6877d-eae7-4b60-a946-aeb4011c2be9/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/deliver-us-from-ervil/8-the-reign-of-arthur/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "52f6877d-eae7-4b60-a946-aeb4011c2be9",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/52f6877d-eae7-4b60-a946-aeb4011c2be9/transcript?format=SubRip&t=1700492806"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/52f6877d-eae7-4b60-a946-aeb4011c2be9/transcript?format=WebVTT&t=1700492806"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/52f6877d-eae7-4b60-a946-aeb4011c2be9/transcript?format=TextWithTimestamps&t=1700492806"
+                        }
+                    ],
+                    "pubDate": "Wed, 15 Jun 2022 04:00:00 +0000",
+                    "title": "8: The Reign of Arthur"
+                },
+                {
+                    "content:encoded": "<p>Cops and prosecutors try for another conviction against the cult of Ervil LeBaron. Difficulties arise when their key witness suddenly dies but events finally swing round in their favor when Ervil is arrested and, finally, locked behind bars. Jesse Hyde hears how in 1979 the spell seemed finally to have been broken. But if the law thought Ervil&rsquo;s reign was over they were about to be disappointed.</p> <p>Deliver Us From Ervil&nbsp; is produced by Novel for iHeartRadio.</p> <p><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a>&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>Cops and prosecutors try for another conviction against the cult of Ervil LeBaron. Difficulties arise when their key witness suddenly dies but events finally swing round in their favor when Ervil is arrested and, finally, locked behind bars. Jesse Hyde hears how in 1979 the spell seemed finally to have been broken. But if the law thought Ervil&rsquo;s reign was over they were about to be disappointed.</p> <p>Deliver Us From Ervil&nbsp; is produced by Novel for iHeartRadio.</p> <p><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a>&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "47892769",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/372848d6-bf37-4a77-a58e-aead0130c663/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
+                    },
+                    "guid": {
+                        "#text": "372848d6-bf37-4a77-a58e-aead0130c663",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts and Novel",
+                    "itunes:duration": "2991",
+                    "itunes:episode": "7",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                    },
+                    "itunes:title": "7: Ervil Comes Home",
+                    "link": "https://omny.fm/shows/deliver-us-from-ervil/7-ervil-comes-home",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/372848d6-bf37-4a77-a58e-aead0130c663/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/deliver-us-from-ervil/7-ervil-comes-home/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "372848d6-bf37-4a77-a58e-aead0130c663",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/372848d6-bf37-4a77-a58e-aead0130c663/transcript?format=SubRip&t=1700492806"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/372848d6-bf37-4a77-a58e-aead0130c663/transcript?format=WebVTT&t=1700492806"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/372848d6-bf37-4a77-a58e-aead0130c663/transcript?format=TextWithTimestamps&t=1700492806"
+                        }
+                    ],
+                    "pubDate": "Wed, 08 Jun 2022 04:00:00 +0000",
+                    "title": "7: Ervil Comes Home"
+                },
+                {
+                    "content:encoded": "<p>Police try to gain information from new insiders in Ervil&rsquo;s cult. As more members of the cult break away to talk to the police the cops swoop in to make arrests. By 1978 Ervil remains on the run but prosectors now have enough evidence for a murder trial on his most high profile killings. As the trial leads to an unexpected conclusion, Ervil&rsquo;s reputation causes further woes for the cops.&nbsp;</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>Police try to gain information from new insiders in Ervil&rsquo;s cult. As more members of the cult break away to talk to the police the cops swoop in to make arrests. By 1978 Ervil remains on the run but prosectors now have enough evidence for a murder trial on his most high profile killings. As the trial leads to an unexpected conclusion, Ervil&rsquo;s reputation causes further woes for the cops.&nbsp;</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "46144441",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/bdc6aaef-5743-4ae1-8b6c-aea600ebb114/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
+                    },
+                    "guid": {
+                        "#text": "bdc6aaef-5743-4ae1-8b6c-aea600ebb114",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts and Novel",
+                    "itunes:duration": "2881",
+                    "itunes:episode": "6",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                    },
+                    "itunes:title": "6: The Betrayal",
+                    "link": "https://omny.fm/shows/deliver-us-from-ervil/6-the-betrayal",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/bdc6aaef-5743-4ae1-8b6c-aea600ebb114/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/deliver-us-from-ervil/6-the-betrayal/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "bdc6aaef-5743-4ae1-8b6c-aea600ebb114",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bdc6aaef-5743-4ae1-8b6c-aea600ebb114/transcript?format=SubRip&t=1700492804"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bdc6aaef-5743-4ae1-8b6c-aea600ebb114/transcript?format=WebVTT&t=1700492804"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bdc6aaef-5743-4ae1-8b6c-aea600ebb114/transcript?format=TextWithTimestamps&t=1700492804"
+                        }
+                    ],
+                    "pubDate": "Wed, 01 Jun 2022 04:00:00 +0000",
+                    "title": "6: The Betrayal"
+                },
+                {
+                    "content:encoded": "<p>We hear the astonishing confessions of one of Ervil LeBaron&rsquo;s most influential cult members, who was groomed from childhood as both his wife and assassin. Over the course of an interrogation that lasts days, we listen in as the inner workings of this cult and organised crime family are revealed, murder-by-murder. As her interrogator continues to push, a strangely intimate picture of cult life emerges and builds to a startling conclusion.&nbsp;</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>We hear the astonishing confessions of one of Ervil LeBaron&rsquo;s most influential cult members, who was groomed from childhood as both his wife and assassin. Over the course of an interrogation that lasts days, we listen in as the inner workings of this cult and organised crime family are revealed, murder-by-murder. As her interrogator continues to push, a strangely intimate picture of cult life emerges and builds to a startling conclusion.&nbsp;</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "44448370",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/0a6a0726-b95e-4477-baf9-ae9f011ce49b/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
+                    },
+                    "guid": {
+                        "#text": "0a6a0726-b95e-4477-baf9-ae9f011ce49b",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts and Novel",
+                    "itunes:duration": "2775",
+                    "itunes:episode": "5",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                    },
+                    "itunes:title": "5: Rena\u2019s Confession",
+                    "link": "https://omny.fm/shows/deliver-us-from-ervil/5-rena-s-confession",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/0a6a0726-b95e-4477-baf9-ae9f011ce49b/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/deliver-us-from-ervil/5-rena-s-confession/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "0a6a0726-b95e-4477-baf9-ae9f011ce49b",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0a6a0726-b95e-4477-baf9-ae9f011ce49b/transcript?format=SubRip&t=1700492804"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0a6a0726-b95e-4477-baf9-ae9f011ce49b/transcript?format=WebVTT&t=1700492804"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0a6a0726-b95e-4477-baf9-ae9f011ce49b/transcript?format=TextWithTimestamps&t=1700492804"
+                        }
+                    ],
+                    "pubDate": "Wed, 25 May 2022 04:00:00 +0000",
+                    "title": "5: Rena\u2019s Confession"
+                },
+                {
+                    "content:encoded": "<p>Journalists on Ervil&rsquo;s trail hear about an imminent murder in Utah and alert the cops. They arrive too late but decide to team up in the hunt for Ervil. As the press investigate, the astonishing scale of his crimes are revealed &ndash; but, as new murders come to light, the journalists become targets of Ervil and his deadly cult. Meanwhile, the cops start to identify suspects, though without an informant they&rsquo;re yet to make any arrests. As the summer of 1977 passes, the police are about to be given an eye-opening inside account of Ervil LeBaron&rsquo;s cult.</p> <p>Deliver Us From Ervil&nbsp; is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>Journalists on Ervil&rsquo;s trail hear about an imminent murder in Utah and alert the cops. They arrive too late but decide to team up in the hunt for Ervil. As the press investigate, the astonishing scale of his crimes are revealed &ndash; but, as new murders come to light, the journalists become targets of Ervil and his deadly cult. Meanwhile, the cops start to identify suspects, though without an informant they&rsquo;re yet to make any arrests. As the summer of 1977 passes, the police are about to be given an eye-opening inside account of Ervil LeBaron&rsquo;s cult.</p> <p>Deliver Us From Ervil&nbsp; is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "40562593",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/324f2646-e2d1-40dc-a69b-ae980106fe9f/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
+                    },
+                    "guid": {
+                        "#text": "324f2646-e2d1-40dc-a69b-ae980106fe9f",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts and Novel",
+                    "itunes:duration": "2533",
+                    "itunes:episode": "4",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                    },
+                    "itunes:title": "4:  The Hunt",
+                    "link": "https://omny.fm/shows/deliver-us-from-ervil/4-the-hunt",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/324f2646-e2d1-40dc-a69b-ae980106fe9f/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/deliver-us-from-ervil/4-the-hunt/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "324f2646-e2d1-40dc-a69b-ae980106fe9f",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/324f2646-e2d1-40dc-a69b-ae980106fe9f/transcript?format=SubRip&t=1700492804"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/324f2646-e2d1-40dc-a69b-ae980106fe9f/transcript?format=WebVTT&t=1700492804"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/324f2646-e2d1-40dc-a69b-ae980106fe9f/transcript?format=TextWithTimestamps&t=1700492804"
+                        }
+                    ],
+                    "pubDate": "Wed, 18 May 2022 04:00:00 +0000",
+                    "title": "4:  The Hunt"
+                },
+                {
+                    "content:encoded": "<p>How was Ervil LeBaron able to instill such devotion among his followers? Devotion that allowed him to commit untold violence and terror. In this episode, Jesse explores how key members of Ervil&rsquo;s cult were recruited, and how they morphed into a sophisticated organized crime family. In 1977, when the group failed to extort money from a high profile target, Ervil sets his most audacious attack into motion: a double murder intended to take out his biggest rivals. But you can&rsquo;t organise an assassination without attracting some attention and soon, the press are on Ervil&rsquo;s trail.</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>How was Ervil LeBaron able to instill such devotion among his followers? Devotion that allowed him to commit untold violence and terror. In this episode, Jesse explores how key members of Ervil&rsquo;s cult were recruited, and how they morphed into a sophisticated organized crime family. In 1977, when the group failed to extort money from a high profile target, Ervil sets his most audacious attack into motion: a double murder intended to take out his biggest rivals. But you can&rsquo;t organise an assassination without attracting some attention and soon, the press are on Ervil&rsquo;s trail.</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "48461198",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/d6d132a1-0535-4eeb-b3d0-ae8500de555b/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
+                    },
+                    "guid": {
+                        "#text": "d6d132a1-0535-4eeb-b3d0-ae8500de555b",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts and Novel",
+                    "itunes:duration": "3026",
+                    "itunes:episode": "3",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                    },
+                    "itunes:title": "3: Welcome to the Family",
+                    "link": "https://omny.fm/shows/deliver-us-from-ervil/3-welcome-to-the-family",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/d6d132a1-0535-4eeb-b3d0-ae8500de555b/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/deliver-us-from-ervil/3-welcome-to-the-family/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "d6d132a1-0535-4eeb-b3d0-ae8500de555b",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d6d132a1-0535-4eeb-b3d0-ae8500de555b/transcript?format=SubRip&t=1700492806"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d6d132a1-0535-4eeb-b3d0-ae8500de555b/transcript?format=WebVTT&t=1700492806"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d6d132a1-0535-4eeb-b3d0-ae8500de555b/transcript?format=TextWithTimestamps&t=1700492806"
+                        }
+                    ],
+                    "pubDate": "Wed, 11 May 2022 04:00:00 +0000",
+                    "title": "3: Welcome to the Family"
+                },
+                {
+                    "content:encoded": "<p>Ostracised from his family and his home, Ervil continues to build his cult from across the border in the US. When he starts threatening Colonia LeBaron with an attack, the townsfolk prepare their defences and brace themselves for the worst. But when Ervil LeBaron&rsquo;s followers eventually do act, they manage to catch their victims unaware. Jesse returns to the scene of a 1974 massacre, only to find some survivors with surprising loyalties, despite the devastation.</p> <p>Deliver Us From Ervil&nbsp; is produced by Novel for iHeartRadio.</p> <p><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>Ostracised from his family and his home, Ervil continues to build his cult from across the border in the US. When he starts threatening Colonia LeBaron with an attack, the townsfolk prepare their defences and brace themselves for the worst. But when Ervil LeBaron&rsquo;s followers eventually do act, they manage to catch their victims unaware. Jesse returns to the scene of a 1974 massacre, only to find some survivors with surprising loyalties, despite the devastation.</p> <p>Deliver Us From Ervil&nbsp; is produced by Novel for iHeartRadio.</p> <p><br>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "41131872",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/b679ea66-484b-4711-8573-ae8a010bb344/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
+                    },
+                    "guid": {
+                        "#text": "b679ea66-484b-4711-8573-ae8a010bb344",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts and Novel",
+                    "itunes:duration": "2568",
+                    "itunes:episode": "2",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                    },
+                    "itunes:title": "2: The Massacre in Los Molinos",
+                    "link": "https://omny.fm/shows/deliver-us-from-ervil/2-the-massacre-in-los-molinos",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/b679ea66-484b-4711-8573-ae8a010bb344/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/deliver-us-from-ervil/2-the-massacre-in-los-molinos/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "b679ea66-484b-4711-8573-ae8a010bb344",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b679ea66-484b-4711-8573-ae8a010bb344/transcript?format=SubRip&t=1700492806"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b679ea66-484b-4711-8573-ae8a010bb344/transcript?format=WebVTT&t=1700492806"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b679ea66-484b-4711-8573-ae8a010bb344/transcript?format=TextWithTimestamps&t=1700492806"
+                        }
+                    ],
+                    "pubDate": "Wed, 04 May 2022 04:00:00 +0000",
+                    "title": "2: The Massacre in Los Molinos"
+                },
+                {
+                    "content:encoded": "<p>It&rsquo;s 2022, and journalist Jesse Hyde arrives in Colonia LeBaron. It&rsquo;s a strange but thriving Mormon town, deep in the Mexican desert. While investigating a cartel massacre, Jesse uncovers the story of the LeBarons &ndash; a family whose dreams of founding a utopian community swiftly turned into a dystopian nightmare, as a faction of their town transformed into a murderous cult. Jesse traces the origins of this place, from the 1940s to the present day, its founding family and the feud between Joel LeBaron and his fanatic brother Ervil that started it all.</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>It&rsquo;s 2022, and journalist Jesse Hyde arrives in Colonia LeBaron. It&rsquo;s a strange but thriving Mormon town, deep in the Mexican desert. While investigating a cartel massacre, Jesse uncovers the story of the LeBarons &ndash; a family whose dreams of founding a utopian community swiftly turned into a dystopian nightmare, as a faction of their town transformed into a murderous cult. Jesse traces the origins of this place, from the 1940s to the present day, its founding family and the feud between Joel LeBaron and his fanatic brother Ervil that started it all.</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "51860046",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/87e6b393-1cec-48df-ac40-ae8500db0bd6/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
+                    },
+                    "guid": {
+                        "#text": "87e6b393-1cec-48df-ac40-ae8500db0bd6",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts and Novel",
+                    "itunes:duration": "3239",
+                    "itunes:episode": "1",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                    },
+                    "itunes:title": "1: The One Mighty and Strong",
+                    "link": "https://omny.fm/shows/deliver-us-from-ervil/1-the-one-mighty-and-strong",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/87e6b393-1cec-48df-ac40-ae8500db0bd6/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/deliver-us-from-ervil/1-the-one-mighty-and-strong/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "87e6b393-1cec-48df-ac40-ae8500db0bd6",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/87e6b393-1cec-48df-ac40-ae8500db0bd6/transcript?format=SubRip&t=1700492806"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/87e6b393-1cec-48df-ac40-ae8500db0bd6/transcript?format=WebVTT&t=1700492806"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/87e6b393-1cec-48df-ac40-ae8500db0bd6/transcript?format=TextWithTimestamps&t=1700492806"
+                        }
+                    ],
+                    "pubDate": "Wed, 04 May 2022 04:00:00 +0000",
+                    "title": "1: The One Mighty and Strong"
+                },
+                {
+                    "content:encoded": "<p>In the 1940s, a group of Mormon dreamers started a town in the Mexican desert. But what began as a utopian vision quickly turned sour when the founding family&rsquo;s son, Ervil LeBaron&rsquo;s struggle for control of the community unleashed a multi-generational crimewave &ndash; the ripples of which are still being felt today.</p> <p>From bank robbery to drug smuggling, auto theft rings to multiple murders, a deadly cult evolved into a sophisticated organised crime family. In Deliver Us From Ervil, journalist Jesse Hyde tells the story of Ervil LeBaron and the unlikely ensemble of reporters, cops, survivors and family insiders trying to halt his bloody legacy.</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel, visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>In the 1940s, a group of Mormon dreamers started a town in the Mexican desert. But what began as a utopian vision quickly turned sour when the founding family&rsquo;s son, Ervil LeBaron&rsquo;s struggle for control of the community unleashed a multi-generational crimewave &ndash; the ripples of which are still being felt today.</p> <p>From bank robbery to drug smuggling, auto theft rings to multiple murders, a deadly cult evolved into a sophisticated organised crime family. In Deliver Us From Ervil, journalist Jesse Hyde tells the story of Ervil LeBaron and the unlikely ensemble of reporters, cops, survivors and family insiders trying to halt his bloody legacy.</p> <p>Deliver Us From Ervil is produced by Novel for iHeartRadio.</p> <p>For more from Novel, visit <a href=\"http://novel.audio\">novel.audio</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "1888773",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/703a17d3-b5da-4743-8acc-ae7d01148822/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f"
+                    },
+                    "guid": {
+                        "#text": "703a17d3-b5da-4743-8acc-ae7d01148822",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts and Novel",
+                    "itunes:duration": "115",
+                    "itunes:episodeType": "trailer",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                    },
+                    "itunes:title": "Introducing Deliver Us From Ervil",
+                    "link": "https://omny.fm/shows/deliver-us-from-ervil/deliver-us-from-ervil",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/703a17d3-b5da-4743-8acc-ae7d01148822/audio.mp3?utm_source=Podcast&in_playlist=2c904ce8-4a15-453a-bde3-ae7d0114315f",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/deliver-us-from-ervil/deliver-us-from-ervil/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "703a17d3-b5da-4743-8acc-ae7d01148822",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/703a17d3-b5da-4743-8acc-ae7d01148822/transcript?format=SubRip&t=1700492806"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/703a17d3-b5da-4743-8acc-ae7d01148822/transcript?format=WebVTT&t=1700492806"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/703a17d3-b5da-4743-8acc-ae7d01148822/transcript?format=TextWithTimestamps&t=1700492806"
+                        }
+                    ],
+                    "pubDate": "Wed, 20 Apr 2022 16:47:16 +0000",
+                    "title": "Introducing Deliver Us From Ervil"
+                }
+            ],
+            "itunes:author": "iHeartPodcasts and Novel",
+            "itunes:category": [
+                {
+                    "@text": "Society & Culture",
+                    "itunes:category": {
+                        "@text": "Documentary"
                     }
-                ]
+                },
+                {
+                    "@text": "Religion & Spirituality"
+                },
+                {
+                    "@text": "True Crime"
+                }
+            ],
+            "itunes:explicit": "no",
+            "itunes:image": {
+                "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large"
             },
-            {
-                "name": "Religion & Spirituality",
-                "subs": null
+            "itunes:owner": {
+                "itunes:email": "applepodcast@howstuffworks.com",
+                "itunes:name": "iHeartPodcasts"
             },
-            {
-                "name": "True Crime",
-                "subs": null
-            }
-        ],
-        "explicit": "no",
-        "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/image.jpg?t=1686601788&size=Large",
-        "owner": {
-            "email": "applepodcast@howstuffworks.com",
-            "name": "iHeartPodcasts"
-        },
-        "summary": "In the 1940s, a group of Mormon dreamers started a town in the Mexican desert. But what began as a utopian vision quickly turned sour when the founding family\u2019s son, Ervil LeBaron, struggled for control of the community and unleashed a multi-generational crimewave \u2013 the ripples of which are still being felt today.\r\n\r\nFrom bank robbery to drug smuggling, auto theft rings to multiple murders, a deadly cult evolved into a sophisticated organized crime family. In Deliver Us From Ervil, journalist Jesse Hyde tells the story of Ervil LeBaron and the unlikely ensemble of reporters, cops, survivors and family insiders trying to halt his bloody legacy.\r\n\r\nDeliver Us From Ervil is produced by Novel for iHeartRadio."
-    },
-    "language": "en-US",
-    "link": "https://www.iheart.com/podcast/1119-deliver-us-from-ervil-96084334/",
-    "paginationLinks": {
-        "first": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/2c904ce8-4a15-453a-bde3-ae7d0114315f/podcast.rss?page=1",
-        "last": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/2c904ce8-4a15-453a-bde3-ae7d0114315f/podcast.rss?page=1",
-        "self": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/dbb4caed-05d0-4871-bf5c-ae7d0113964e/2c904ce8-4a15-453a-bde3-ae7d0114315f/podcast.rss"
-    },
-    "palette": [
-        "1C1C23",
-        "BD683E",
-        "ECDDC8",
-        "734F31",
-        "ACA7A8",
-        "62280B"
-    ],
-    "title": "Deliver Us From Ervil"
+            "itunes:summary": "In the 1940s, a group of Mormon dreamers started a town in the Mexican desert. But what began as a utopian vision quickly turned sour when the founding family\u2019s son, Ervil LeBaron, struggled for control of the community and unleashed a multi-generational crimewave \u2013 the ripples of which are still being felt today.\n\nFrom bank robbery to drug smuggling, auto theft rings to multiple murders, a deadly cult evolved into a sophisticated organized crime family. In Deliver Us From Ervil, journalist Jesse Hyde tells the story of Ervil LeBaron and the unlikely ensemble of reporters, cops, survivors and family insiders trying to halt his bloody legacy.\n\nDeliver Us From Ervil is produced by Novel for iHeartRadio.",
+            "itunes:type": "serial",
+            "language": "en-US",
+            "link": "https://www.iheart.com/podcast/1119-deliver-us-from-ervil-96084334/",
+            "omny:networkId": "e6332207-0c1b-4f4b-9893-ae3e015a2399",
+            "omny:organizationId": "e73c998e-6e60-432f-8610-ae210140c5b1",
+            "omny:playlistId": "2c904ce8-4a15-453a-bde3-ae7d0114315f",
+            "omny:programId": "dbb4caed-05d0-4871-bf5c-ae7d0113964e",
+            "title": "Deliver Us From Ervil"
+        }
+    }
 }

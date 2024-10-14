@@ -1,829 +1,798 @@
 {
-    "copyright": "Enduring Word 2018",
-    "description": "Audio and Video Server For Enduring Word",
-    "feedUrl": "https://media.enduringword.com/podcasts/2_samuel/feed/",
-    "generator": "https://wordpress.org/?v=5.0.22",
-    "items": [
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:slash": "http://purl.org/rss/1.0/modules/slash/",
+        "@xmlns:sy": "http://purl.org/rss/1.0/modules/syndication/",
+        "@xmlns:wfw": "http://wellformedweb.org/CommentAPI/",
+        "channel": {
+            "atom:link": {
+                "@href": "https://media.enduringword.com/podcasts/2_samuel/feed/",
+                "@rel": "self",
+                "@type": "application/rss+xml"
+            },
+            "copyright": "Enduring Word 2018",
+            "description": "Audio and Video Server For Enduring Word",
+            "generator": "https://wordpress.org/?v=5.0.22",
+            "item": [
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-2410-25-in-gods-hands/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26657-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam2410_25.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam2410_25.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam2410_25.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2410_25.mp3",
+                    "enclosure": {
+                        "@length": "18729979",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2410_25.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-2410-25-in-gods-hands/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2410_25.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2410_25.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-2410-25-in-gods-hands/",
+                    "pubDate": "Wed, 20 Apr 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 24:10-25 \u2013 In God\u2019s Hands",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-2410-25-in-gods-hands/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-231-249-the-sweet-psalmist-and-the-mighty-men/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26656-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam2301_2409.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam2301_2409.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam2301_2409.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2301_2409.mp3",
+                    "enclosure": {
+                        "@length": "25476682",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2301_2409.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-231-249-the-sweet-psalmist-and-the-mighty-men/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2301_2409.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2301_2409.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-231-249-the-sweet-psalmist-and-the-mighty-men/",
+                    "pubDate": "Tue, 19 Apr 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 23:1-24:9 \u2013 The Sweet Psalmist and the Mighty Men",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-231-249-the-sweet-psalmist-and-the-mighty-men/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-2115-2251-the-grateful-retrospect/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26655-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam2115_2251.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam2115_2251.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam2115_2251.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2115_2251.mp3",
+                    "enclosure": {
+                        "@length": "27922147",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2115_2251.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-2115-2251-the-grateful-retrospect/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2115_2251.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2115_2251.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-2115-2251-the-grateful-retrospect/",
+                    "pubDate": "Mon, 18 Apr 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 21:15-22:51 \u2013 The Grateful Retrospect",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-2115-2251-the-grateful-retrospect/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-211-14-settling-an-old-debt/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26654-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam2101_14.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam2101_14.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam2101_14.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2101_14.mp3",
+                    "enclosure": {
+                        "@length": "16380410",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2101_14.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-211-14-settling-an-old-debt/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2101_14.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2101_14.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-211-14-settling-an-old-debt/",
+                    "pubDate": "Sun, 17 Apr 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 21:1-14 \u2013 Settling an Old Debt",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-211-14-settling-an-old-debt/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-20-fighting-to-keep-unity/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26653-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam2000_00.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam2000_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam2000_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2000_00.mp3",
+                    "enclosure": {
+                        "@length": "23712670",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2000_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-20-fighting-to-keep-unity/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2000_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2000_00.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-20-fighting-to-keep-unity/",
+                    "pubDate": "Sat, 16 Apr 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 20 \u2013 Fighting to Keep Unity",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-20-fighting-to-keep-unity/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-199-43-bringing-back-the-king/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26652-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1909_43.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1909_43.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1909_43.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1909_43.mp3",
+                    "enclosure": {
+                        "@length": "18718058",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1909_43.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-199-43-bringing-back-the-king/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1909_43.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1909_43.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-199-43-bringing-back-the-king/",
+                    "pubDate": "Fri, 15 Apr 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 19:9-43 \u2013 Bringing Back the King",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-199-43-bringing-back-the-king/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-181-198-the-death-of-absalom/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26651-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1801_1908.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1801_1908.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1801_1908.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1801_1908.mp3",
+                    "enclosure": {
+                        "@length": "29626164",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1801_1908.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-181-198-the-death-of-absalom/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1801_1908.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1801_1908.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-181-198-the-death-of-absalom/",
+                    "pubDate": "Thu, 14 Apr 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 18:1-19:8 \u2013 The Death of Absalom",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-181-198-the-death-of-absalom/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-1615-1729-counselors-and-comfort/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26650-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1615_1729.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1615_1729.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1615_1729.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1615_1729.mp3",
+                    "enclosure": {
+                        "@length": "25738309",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1615_1729.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-1615-1729-counselors-and-comfort/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1615_1729.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1615_1729.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-1615-1729-counselors-and-comfort/",
+                    "pubDate": "Wed, 13 Apr 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 16:15-17:29 \u2013 Counselors and Comfort",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-1615-1729-counselors-and-comfort/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-161-14-trusting-in-adversity/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26649-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1601_14.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1601_14.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1601_14.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1601_14.mp3",
+                    "enclosure": {
+                        "@length": "12402903",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1601_14.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-161-14-trusting-in-adversity/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1601_14.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1601_14.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-161-14-trusting-in-adversity/",
+                    "pubDate": "Tue, 12 Apr 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 16:1-14 \u2013 Trusting in Adversity",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-161-14-trusting-in-adversity/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-1418-1537-treachery-and-loyalty/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26648-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1418_1537.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1418_1537.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1418_1537.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1418_1537.mp3",
+                    "enclosure": {
+                        "@length": "29844339",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1418_1537.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-1418-1537-treachery-and-loyalty/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1418_1537.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1418_1537.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-1418-1537-treachery-and-loyalty/",
+                    "pubDate": "Mon, 11 Apr 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 14:18-15:37 \u2013 Treachery and Loyalty",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-1418-1537-treachery-and-loyalty/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-141-17-bringing-back-the-banished/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26647-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1401_17.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1401_17.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1401_17.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1401_17.mp3",
+                    "enclosure": {
+                        "@length": "15794855",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1401_17.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-141-17-bringing-back-the-banished/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1401_17.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1401_17.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-141-17-bringing-back-the-banished/",
+                    "pubDate": "Sun, 10 Apr 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 14:1-17 \u2013 Bringing Back the Banished",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-141-17-bringing-back-the-banished/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-13-amnon-tamar-and-absalom/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26646-24\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1300_00.mp3?_=24\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1300_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1300_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1300_00.mp3",
+                    "enclosure": {
+                        "@length": "26346025",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1300_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-13-amnon-tamar-and-absalom/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1300_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1300_00.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-13-amnon-tamar-and-absalom/",
+                    "pubDate": "Sat, 09 Apr 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 13 \u2013 Amnon, Tamar, and Absalom",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-13-amnon-tamar-and-absalom/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-12-repentance-and-restoration/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26645-26\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1200_00.mp3?_=26\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1200_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1200_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1200_00.mp3",
+                    "enclosure": {
+                        "@length": "32985099",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1200_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-12-repentance-and-restoration/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1200_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1200_00.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-12-repentance-and-restoration/",
+                    "pubDate": "Fri, 08 Apr 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 12 \u2013 Repentance and Restoration",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-12-repentance-and-restoration/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-116-27-caught-in-the-trap-of-sin/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26644-28\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1106_27.mp3?_=28\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1106_27.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1106_27.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1106_27.mp3",
+                    "enclosure": {
+                        "@length": "17065450",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1106_27.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-116-27-caught-in-the-trap-of-sin/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1106_27.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1106_27.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-116-27-caught-in-the-trap-of-sin/",
+                    "pubDate": "Thu, 07 Apr 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 11:6-27 \u2013 Caught in the Trap of Sin",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-116-27-caught-in-the-trap-of-sin/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-111-5-a-not-so-sudden-fall/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26643-30\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1101_05.mp3?_=30\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1101_05.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1101_05.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1101_05.mp3",
+                    "enclosure": {
+                        "@length": "16195463",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1101_05.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-111-5-a-not-so-sudden-fall/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1101_05.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1101_05.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-111-5-a-not-so-sudden-fall/",
+                    "pubDate": "Wed, 06 Apr 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 11:1-5 \u2013 A Not-So-Sudden Fall",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-111-5-a-not-so-sudden-fall/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-10-the-army-of-mighty-men/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26642-32\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1000_00.mp3?_=32\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1000_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1000_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1000_00.mp3",
+                    "enclosure": {
+                        "@length": "11584957",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1000_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-10-the-army-of-mighty-men/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1000_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1000_00.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-10-the-army-of-mighty-men/",
+                    "pubDate": "Tue, 05 Apr 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 10 \u2013 The Army of Mighty Men",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-10-the-army-of-mighty-men/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-9-the-kindness-of-god/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26641-34\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0900_00.mp3?_=34\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0900_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam0900_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0900_00.mp3",
+                    "enclosure": {
+                        "@length": "16308311",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0900_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-9-the-kindness-of-god/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0900_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0900_00.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-9-the-kindness-of-god/",
+                    "pubDate": "Mon, 04 Apr 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 9 \u2013 The Kindness of God",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-9-the-kindness-of-god/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-8-davids-triumph/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26640-36\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0800_00.mp3?_=36\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0800_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam0800_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0800_00.mp3",
+                    "enclosure": {
+                        "@length": "15612841",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0800_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-8-davids-triumph/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0800_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0800_00.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-8-davids-triumph/",
+                    "pubDate": "Sun, 03 Apr 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 8 \u2013 David\u2019s Triumph",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-8-davids-triumph/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-7-a-tale-of-two-houses/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26639-38\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0700_00.mp3?_=38\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0700_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam0700_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0700_00.mp3",
+                    "enclosure": {
+                        "@length": "13530973",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0700_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-7-a-tale-of-two-houses/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0700_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0700_00.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-7-a-tale-of-two-houses/",
+                    "pubDate": "Sat, 02 Apr 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 7 \u2013 A Tale of Two Houses",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-7-a-tale-of-two-houses/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-6-doing-things-gods-way/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26638-40\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0600_00.mp3?_=40\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0600_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam0600_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0600_00.mp3",
+                    "enclosure": {
+                        "@length": "19324333",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0600_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-6-doing-things-gods-way/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0600_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0600_00.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-6-doing-things-gods-way/",
+                    "pubDate": "Fri, 01 Apr 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 6 \u2013 Doing Things God\u2019s Way",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-6-doing-things-gods-way/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-5-king-david-in-triumph/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26637-42\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0500_00.mp3?_=42\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0500_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam0500_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0500_00.mp3",
+                    "enclosure": {
+                        "@length": "16136741",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0500_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-5-king-david-in-triumph/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0500_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0500_00.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-5-king-david-in-triumph/",
+                    "pubDate": "Thu, 31 Mar 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 5 \u2013 King David in Triumph",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-5-king-david-in-triumph/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-4-how-to-love-an-enemy/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26636-44\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0400_00.mp3?_=44\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0400_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam0400_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0400_00.mp3",
+                    "enclosure": {
+                        "@length": "13969204",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0400_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-4-how-to-love-an-enemy/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0400_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0400_00.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-4-how-to-love-an-enemy/",
+                    "pubDate": "Wed, 30 Mar 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 4 \u2013 How to Love an Enemy",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-4-how-to-love-an-enemy/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-3-believing-and-living/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26635-46\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0300_00.mp3?_=46\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0300_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam0300_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0300_00.mp3",
+                    "enclosure": {
+                        "@length": "18065622",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0300_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-3-believing-and-living/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0300_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0300_00.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-3-believing-and-living/",
+                    "pubDate": "Tue, 29 Mar 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 3 \u2013 Believing and Living",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-3-believing-and-living/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-2-more-anointing-more-war/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26634-48\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0200_00.mp3?_=48\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0200_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam0200_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0200_00.mp3",
+                    "enclosure": {
+                        "@length": "16796492",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0200_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-2-more-anointing-more-war/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0200_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0200_00.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-2-more-anointing-more-war/",
+                    "pubDate": "Mon, 28 Mar 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 2 \u2013 More Anointing, More War",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-2-more-anointing-more-war/feed/"
+                },
+                {
+                    "category": [
+                        "The Book of 2 Samuel",
+                        "History",
+                        "Old Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/2-samuel-1-free-from-bitterness/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26633-50\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0100_00.mp3?_=50\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0100_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam0100_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0100_00.mp3",
+                    "enclosure": {
+                        "@length": "16421370",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0100_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/2-samuel-1-free-from-bitterness/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0100_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0100_00.mp3",
+                    "link": "https://media.enduringword.com/2-samuel-1-free-from-bitterness/",
+                    "pubDate": "Sun, 27 Mar 2016 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "2 Samuel 1 \u2013 Free From Bitterness",
+                    "wfw:commentRss": "https://media.enduringword.com/2-samuel-1-free-from-bitterness/feed/"
+                }
             ],
-            "comments": "https://media.enduringword.com/2-samuel-2410-25-in-gods-hands/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2410_25.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26657-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam2410_25.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam2410_25.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam2410_25.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2410_25.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2410_25.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18729979",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2410_25.mp3"
+            "itunes:author": "David Guzik",
+            "itunes:category": {
+                "@text": "Religion & Spirituality",
+                "itunes:category": {
+                    "@text": "Christianity"
+                }
             },
-            "guid": "https://media.enduringword.com/2-samuel-2410-25-in-gods-hands/",
-            "isoDate": "2016-04-20T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2410_25.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2410_25.mp3"
+            "itunes:explicit": "no",
+            "itunes:image": {
+                "@href": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_010_2-samuel.jpg"
             },
-            "link": "https://media.enduringword.com/2-samuel-2410-25-in-gods-hands/",
-            "pubDate": "Wed, 20 Apr 2016 07:00:00 +0000",
-            "title": "2 Samuel 24:10-25 \u2013 In God\u2019s Hands"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-231-249-the-sweet-psalmist-and-the-mighty-men/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2301_2409.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26656-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam2301_2409.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam2301_2409.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam2301_2409.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2301_2409.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2301_2409.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "25476682",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2301_2409.mp3"
+            "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
+            "itunes:owner": {
+                "itunes:email": "admin@enduringword.com",
+                "itunes:name": "David Guzik"
             },
-            "guid": "https://media.enduringword.com/2-samuel-231-249-the-sweet-psalmist-and-the-mighty-men/",
-            "isoDate": "2016-04-19T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2301_2409.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2301_2409.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-231-249-the-sweet-psalmist-and-the-mighty-men/",
-            "pubDate": "Tue, 19 Apr 2016 07:00:00 +0000",
-            "title": "2 Samuel 23:1-24:9 \u2013 The Sweet Psalmist and the Mighty Men"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-2115-2251-the-grateful-retrospect/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2115_2251.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26655-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam2115_2251.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam2115_2251.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam2115_2251.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2115_2251.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2115_2251.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "27922147",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2115_2251.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-2115-2251-the-grateful-retrospect/",
-            "isoDate": "2016-04-18T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2115_2251.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2115_2251.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-2115-2251-the-grateful-retrospect/",
-            "pubDate": "Mon, 18 Apr 2016 07:00:00 +0000",
-            "title": "2 Samuel 21:15-22:51 \u2013 The Grateful Retrospect"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-211-14-settling-an-old-debt/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2101_14.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26654-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam2101_14.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam2101_14.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam2101_14.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2101_14.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2101_14.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16380410",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2101_14.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-211-14-settling-an-old-debt/",
-            "isoDate": "2016-04-17T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2101_14.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2101_14.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-211-14-settling-an-old-debt/",
-            "pubDate": "Sun, 17 Apr 2016 07:00:00 +0000",
-            "title": "2 Samuel 21:1-14 \u2013 Settling an Old Debt"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-20-fighting-to-keep-unity/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2000_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26653-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam2000_00.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam2000_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam2000_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2000_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2000_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "23712670",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2000_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-20-fighting-to-keep-unity/",
-            "isoDate": "2016-04-16T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2000_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam2000_00.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-20-fighting-to-keep-unity/",
-            "pubDate": "Sat, 16 Apr 2016 07:00:00 +0000",
-            "title": "2 Samuel 20 \u2013 Fighting to Keep Unity"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-199-43-bringing-back-the-king/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1909_43.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26652-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1909_43.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1909_43.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1909_43.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1909_43.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1909_43.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18718058",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1909_43.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-199-43-bringing-back-the-king/",
-            "isoDate": "2016-04-15T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1909_43.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1909_43.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-199-43-bringing-back-the-king/",
-            "pubDate": "Fri, 15 Apr 2016 07:00:00 +0000",
-            "title": "2 Samuel 19:9-43 \u2013 Bringing Back the King"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-181-198-the-death-of-absalom/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1801_1908.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26651-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1801_1908.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1801_1908.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1801_1908.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1801_1908.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1801_1908.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "29626164",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1801_1908.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-181-198-the-death-of-absalom/",
-            "isoDate": "2016-04-14T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1801_1908.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1801_1908.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-181-198-the-death-of-absalom/",
-            "pubDate": "Thu, 14 Apr 2016 07:00:00 +0000",
-            "title": "2 Samuel 18:1-19:8 \u2013 The Death of Absalom"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-1615-1729-counselors-and-comfort/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1615_1729.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26650-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1615_1729.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1615_1729.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1615_1729.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1615_1729.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1615_1729.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "25738309",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1615_1729.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-1615-1729-counselors-and-comfort/",
-            "isoDate": "2016-04-13T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1615_1729.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1615_1729.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-1615-1729-counselors-and-comfort/",
-            "pubDate": "Wed, 13 Apr 2016 07:00:00 +0000",
-            "title": "2 Samuel 16:15-17:29 \u2013 Counselors and Comfort"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-161-14-trusting-in-adversity/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1601_14.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26649-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1601_14.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1601_14.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1601_14.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1601_14.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1601_14.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "12402903",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1601_14.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-161-14-trusting-in-adversity/",
-            "isoDate": "2016-04-12T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1601_14.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1601_14.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-161-14-trusting-in-adversity/",
-            "pubDate": "Tue, 12 Apr 2016 07:00:00 +0000",
-            "title": "2 Samuel 16:1-14 \u2013 Trusting in Adversity"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-1418-1537-treachery-and-loyalty/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1418_1537.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26648-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1418_1537.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1418_1537.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1418_1537.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1418_1537.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1418_1537.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "29844339",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1418_1537.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-1418-1537-treachery-and-loyalty/",
-            "isoDate": "2016-04-11T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1418_1537.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1418_1537.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-1418-1537-treachery-and-loyalty/",
-            "pubDate": "Mon, 11 Apr 2016 07:00:00 +0000",
-            "title": "2 Samuel 14:18-15:37 \u2013 Treachery and Loyalty"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-141-17-bringing-back-the-banished/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1401_17.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26647-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1401_17.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1401_17.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1401_17.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1401_17.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1401_17.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "15794855",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1401_17.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-141-17-bringing-back-the-banished/",
-            "isoDate": "2016-04-10T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1401_17.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1401_17.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-141-17-bringing-back-the-banished/",
-            "pubDate": "Sun, 10 Apr 2016 07:00:00 +0000",
-            "title": "2 Samuel 14:1-17 \u2013 Bringing Back the Banished"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-13-amnon-tamar-and-absalom/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1300_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26646-24\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1300_00.mp3?_=24\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1300_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1300_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1300_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1300_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "26346025",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1300_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-13-amnon-tamar-and-absalom/",
-            "isoDate": "2016-04-09T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1300_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1300_00.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-13-amnon-tamar-and-absalom/",
-            "pubDate": "Sat, 09 Apr 2016 07:00:00 +0000",
-            "title": "2 Samuel 13 \u2013 Amnon, Tamar, and Absalom"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-12-repentance-and-restoration/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1200_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26645-26\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1200_00.mp3?_=26\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1200_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1200_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1200_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1200_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "32985099",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1200_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-12-repentance-and-restoration/",
-            "isoDate": "2016-04-08T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1200_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1200_00.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-12-repentance-and-restoration/",
-            "pubDate": "Fri, 08 Apr 2016 07:00:00 +0000",
-            "title": "2 Samuel 12 \u2013 Repentance and Restoration"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-116-27-caught-in-the-trap-of-sin/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1106_27.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26644-28\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1106_27.mp3?_=28\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1106_27.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1106_27.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1106_27.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1106_27.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "17065450",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1106_27.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-116-27-caught-in-the-trap-of-sin/",
-            "isoDate": "2016-04-07T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1106_27.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1106_27.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-116-27-caught-in-the-trap-of-sin/",
-            "pubDate": "Thu, 07 Apr 2016 07:00:00 +0000",
-            "title": "2 Samuel 11:6-27 \u2013 Caught in the Trap of Sin"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-111-5-a-not-so-sudden-fall/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1101_05.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26643-30\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1101_05.mp3?_=30\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1101_05.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1101_05.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1101_05.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1101_05.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16195463",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1101_05.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-111-5-a-not-so-sudden-fall/",
-            "isoDate": "2016-04-06T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1101_05.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1101_05.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-111-5-a-not-so-sudden-fall/",
-            "pubDate": "Wed, 06 Apr 2016 07:00:00 +0000",
-            "title": "2 Samuel 11:1-5 \u2013 A Not-So-Sudden Fall"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-10-the-army-of-mighty-men/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1000_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26642-32\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1000_00.mp3?_=32\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam1000_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam1000_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1000_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1000_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "11584957",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1000_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-10-the-army-of-mighty-men/",
-            "isoDate": "2016-04-05T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1000_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam1000_00.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-10-the-army-of-mighty-men/",
-            "pubDate": "Tue, 05 Apr 2016 07:00:00 +0000",
-            "title": "2 Samuel 10 \u2013 The Army of Mighty Men"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-9-the-kindness-of-god/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0900_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26641-34\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0900_00.mp3?_=34\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0900_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam0900_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0900_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0900_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16308311",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0900_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-9-the-kindness-of-god/",
-            "isoDate": "2016-04-04T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0900_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0900_00.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-9-the-kindness-of-god/",
-            "pubDate": "Mon, 04 Apr 2016 07:00:00 +0000",
-            "title": "2 Samuel 9 \u2013 The Kindness of God"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-8-davids-triumph/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0800_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26640-36\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0800_00.mp3?_=36\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0800_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam0800_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0800_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0800_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "15612841",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0800_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-8-davids-triumph/",
-            "isoDate": "2016-04-03T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0800_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0800_00.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-8-davids-triumph/",
-            "pubDate": "Sun, 03 Apr 2016 07:00:00 +0000",
-            "title": "2 Samuel 8 \u2013 David\u2019s Triumph"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-7-a-tale-of-two-houses/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0700_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26639-38\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0700_00.mp3?_=38\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0700_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam0700_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0700_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0700_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "13530973",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0700_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-7-a-tale-of-two-houses/",
-            "isoDate": "2016-04-02T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0700_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0700_00.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-7-a-tale-of-two-houses/",
-            "pubDate": "Sat, 02 Apr 2016 07:00:00 +0000",
-            "title": "2 Samuel 7 \u2013 A Tale of Two Houses"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-6-doing-things-gods-way/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0600_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26638-40\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0600_00.mp3?_=40\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0600_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam0600_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0600_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0600_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "19324333",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0600_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-6-doing-things-gods-way/",
-            "isoDate": "2016-04-01T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0600_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0600_00.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-6-doing-things-gods-way/",
-            "pubDate": "Fri, 01 Apr 2016 07:00:00 +0000",
-            "title": "2 Samuel 6 \u2013 Doing Things God\u2019s Way"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-5-king-david-in-triumph/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0500_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26637-42\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0500_00.mp3?_=42\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0500_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam0500_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0500_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0500_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16136741",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0500_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-5-king-david-in-triumph/",
-            "isoDate": "2016-03-31T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0500_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0500_00.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-5-king-david-in-triumph/",
-            "pubDate": "Thu, 31 Mar 2016 07:00:00 +0000",
-            "title": "2 Samuel 5 \u2013 King David in Triumph"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-4-how-to-love-an-enemy/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0400_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26636-44\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0400_00.mp3?_=44\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0400_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam0400_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0400_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0400_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "13969204",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0400_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-4-how-to-love-an-enemy/",
-            "isoDate": "2016-03-30T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0400_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0400_00.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-4-how-to-love-an-enemy/",
-            "pubDate": "Wed, 30 Mar 2016 07:00:00 +0000",
-            "title": "2 Samuel 4 \u2013 How to Love an Enemy"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-3-believing-and-living/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0300_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26635-46\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0300_00.mp3?_=46\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0300_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam0300_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0300_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0300_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18065622",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0300_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-3-believing-and-living/",
-            "isoDate": "2016-03-29T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0300_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0300_00.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-3-believing-and-living/",
-            "pubDate": "Tue, 29 Mar 2016 07:00:00 +0000",
-            "title": "2 Samuel 3 \u2013 Believing and Living"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-2-more-anointing-more-war/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0200_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26634-48\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0200_00.mp3?_=48\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0200_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam0200_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0200_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0200_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16796492",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0200_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-2-more-anointing-more-war/",
-            "isoDate": "2016-03-28T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0200_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0200_00.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-2-more-anointing-more-war/",
-            "pubDate": "Mon, 28 Mar 2016 07:00:00 +0000",
-            "title": "2 Samuel 2 \u2013 More Anointing, More War"
-        },
-        {
-            "categories": [
-                "The Book of 2 Samuel",
-                "History",
-                "Old Testament"
-            ],
-            "comments": "https://media.enduringword.com/2-samuel-1-free-from-bitterness/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0100_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26633-50\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0100_00.mp3?_=50\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/2Sam0100_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/2Sam0100_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0100_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0100_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16421370",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0100_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/2-samuel-1-free-from-bitterness/",
-            "isoDate": "2016-03-27T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Old,Testament,Book,of,2,Samuel",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0100_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/2Sam0100_00.mp3"
-            },
-            "link": "https://media.enduringword.com/2-samuel-1-free-from-bitterness/",
-            "pubDate": "Sun, 27 Mar 2016 07:00:00 +0000",
-            "title": "2 Samuel 1 \u2013 Free From Bitterness"
+            "itunes:subtitle": "Enduring Word Commentary Series \u2013\u00a0The Book of 2 Samuel",
+            "itunes:summary": "Pastor David Guzik preaches through the Old Testament Book of 2 Samuel.",
+            "language": "en-US",
+            "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
+            "link": "https://media.enduringword.com",
+            "sy:updateFrequency": "1",
+            "sy:updatePeriod": "hourly",
+            "title": "The Book of 2 Samuel \u2013 Enduring Word Media Server"
         }
-    ],
-    "itunes": {
-        "author": "David Guzik",
-        "categories": [
-            "Religion & Spirituality"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Religion & Spirituality",
-                "subs": [
-                    {
-                        "name": "Christianity"
-                    }
-                ]
-            }
-        ],
-        "explicit": "no",
-        "image": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_010_2-samuel.jpg",
-        "keywords": [
-            "Bible",
-            "David",
-            "Guzik",
-            "Enduring",
-            "Word",
-            "Commentary",
-            "Old",
-            "Testament",
-            "Book",
-            "of",
-            "2",
-            "Samuel"
-        ],
-        "owner": {
-            "email": "admin@enduringword.com",
-            "name": "David Guzik"
-        },
-        "subtitle": "Enduring Word Commentary Series \u2013\u00a0The Book of 2 Samuel",
-        "summary": "Pastor David Guzik preaches through the Old Testament Book of 2 Samuel."
-    },
-    "language": "en-US",
-    "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
-    "link": "https://media.enduringword.com",
-    "paginationLinks": {
-        "self": "https://media.enduringword.com/podcasts/2_samuel/feed/"
-    },
-    "palette": [],
-    "title": "The Book of 2 Samuel \u2013 Enduring Word Media Server"
+    }
 }

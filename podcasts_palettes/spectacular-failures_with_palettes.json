@@ -1,566 +1,545 @@
 {
-    "copyright": "Copyright 2024 Minnesota Public Radio",
-    "description": "\n      Corporate crookedness. Family feuding. Hilariously half-baked decisions. Host Lauren Ober tackles some of the most spectacular business failures of all time, and what could have been done to avoid them. Some of these stories are shocking. Some are funny. Some are just downright sad. But each one will give you a totally new perspective on big business\u2026 and big failure. From American Public Media.\n    ",
-    "feedUrl": "https://feeds.publicradio.org/public_feeds/spectacular-failures/itunes/rss.rss",
-    "image": {
-        "link": "https://www.spectacularfailures.org/",
-        "title": "Spectacular Failures",
-        "url": "https://img.apmcdn.org/28942b1bf89fc2b330da8d43a31cf5e7de726a62/uncropped/a53f2c-20210901-spectacular-failures-apm-studios-podcast-art-2000.jpg"
-    },
-    "items": [
-        {
-            "content": "\n        <p>We have a special episode for you today. We\u2019re sharing an episode of the new podcast from APM Studios and Western Sound called \u201cRipple.\u201d</p><br/><p>The largest oil spill in American history captivated the public\u2019s attention for the entire summer of 2010. Authorities told a story of a herculean response effort that made shorelines safe and avoided a worst case scenario. Was that really the whole picture? </p><br/><p>\u201cRipple\u201d is a new series investigating the stories we were told were over.</p><br/><p>In Season One, the reporting team traveled hundreds of miles across the Gulf Coast to learn the ongoing effects of the 2010 Deepwater Horizon Oil Spill \u2014 which are still impacting many coastal residents more than a decade later. Here is episode 1! And if you\u2019d like to hear more episodes, you can find \u201cRipple\u201d wherever you get your podcasts.</p>\n      ",
-            "contentSnippet": "We have a special episode for you today. We\u2019re sharing an episode of the new podcast from APM Studios and Western Sound called \u201cRipple.\u201d\n\nThe largest oil spill in American history captivated the public\u2019s attention for the entire summer of 2010. Authorities told a story of a herculean response effort that made shorelines safe and avoided a worst case scenario. Was that really the whole picture? \n\n\u201cRipple\u201d is a new series investigating the stories we were told were over.\n\nIn Season One, the reporting team traveled hundreds of miles across the Gulf Coast to learn the ongoing effects of the 2010 Deepwater Horizon Oil Spill \u2014 which are still impacting many coastal residents more than a decade later. Here is episode 1! And if you\u2019d like to hear more episodes, you can find \u201cRipple\u201d wherever you get your podcasts.",
-            "enclosure": {
-                "length": "132682543",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/ripple/episodes/2024/01/11/ripple_20240111_1_320.mp3"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "channel": {
+            "atom:link": {
+                "@href": "https://feeds.publicradio.org/public_feeds/spectacular-failures/itunes/rss.rss",
+                "@rel": "self",
+                "@type": "application/rss+builder"
             },
-            "guid": "01HNB07XSP4R35DP5R1SQKJ1WB",
-            "isoDate": "2024-01-29T16:30:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:55:16",
-                "episodeType": "full",
-                "explicit": "true"
+            "copyright": "Copyright 2024 Minnesota Public Radio",
+            "description": "Corporate crookedness. Family feuding. Hilariously half-baked decisions. Host Lauren Ober tackles some of the most spectacular business failures of all time, and what could have been done to avoid them. Some of these stories are shocking. Some are funny. Some are just downright sad. But each one will give you a totally new perspective on big business\u2026 and big failure. From American Public Media.",
+            "image": {
+                "link": "https://www.spectacularfailures.org/",
+                "palette": [
+                    "D3B498",
+                    "04ABCB",
+                    "2F3E41",
+                    "4E7B79",
+                    "2D5364",
+                    "74DFE7"
+                ],
+                "title": "Spectacular Failures",
+                "url": "https://img.apmcdn.org/28942b1bf89fc2b330da8d43a31cf5e7de726a62/uncropped/a53f2c-20210901-spectacular-failures-apm-studios-podcast-art-2000.jpg"
             },
-            "pubDate": "Mon, 29 Jan 2024 16:30:00 +0000",
-            "title": "Introducing: Ripple"
-        },
-        {
-            "content": "\n        <p>The Loudest Girl in the World is a new podcast from\u00a0 that tells the story of Lauren Ober&#39;s journey to understand what the hell it means to be on the autism spectrum and how to live life as a newly diagnosed autistic person. It&#39;s about finding yourself broken in a place you never expected to be and emerging from that place a mostly glued back together person. Listen wherever you get your podcasts.</p>\n      ",
-            "contentSnippet": "The Loudest Girl in the World is a new podcast from\u00a0 that tells the story of Lauren Ober's journey to understand what the hell it means to be on the autism spectrum and how to live life as a newly diagnosed autistic person. It's about finding yourself broken in a place you never expected to be and emerging from that place a mostly glued back together person. Listen wherever you get your podcasts.",
-            "enclosure": {
-                "length": "11399296",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2022/09/13/spectacular_failures_20220913_S2_Feed_Drop_Loudest_Girl_128.mp3"
+            "item": [
+                {
+                    "description": "<p>We have a special episode for you today. We\u2019re sharing an episode of the new podcast from APM Studios and Western Sound called \u201cRipple.\u201d</p><br/><p>The largest oil spill in American history captivated the public\u2019s attention for the entire summer of 2010. Authorities told a story of a herculean response effort that made shorelines safe and avoided a worst case scenario. Was that really the whole picture? </p><br/><p>\u201cRipple\u201d is a new series investigating the stories we were told were over.</p><br/><p>In Season One, the reporting team traveled hundreds of miles across the Gulf Coast to learn the ongoing effects of the 2010 Deepwater Horizon Oil Spill \u2014 which are still impacting many coastal residents more than a decade later. Here is episode 1! And if you\u2019d like to hear more episodes, you can find \u201cRipple\u201d wherever you get your podcasts.</p>",
+                    "enclosure": {
+                        "@length": "132682543",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/ripple/episodes/2024/01/11/ripple_20240111_1_320.mp3"
+                    },
+                    "guid": {
+                        "#text": "01HNB07XSP4R35DP5R1SQKJ1WB",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:55:16",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "pubDate": "Mon, 29 Jan 2024 16:30:00 +0000",
+                    "title": "Introducing: Ripple"
+                },
+                {
+                    "description": "<p>The Loudest Girl in the World is a new podcast from\u00a0 that tells the story of Lauren Ober&#39;s journey to understand what the hell it means to be on the autism spectrum and how to live life as a newly diagnosed autistic person. It&#39;s about finding yourself broken in a place you never expected to be and emerging from that place a mostly glued back together person. Listen wherever you get your podcasts.</p>",
+                    "enclosure": {
+                        "@length": "11399296",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2022/09/13/spectacular_failures_20220913_S2_Feed_Drop_Loudest_Girl_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01GCS7D587P6Q0DGPQAB1B1PB5",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:11:50",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "pubDate": "Mon, 12 Sep 2022 16:09:36 +0000",
+                    "title": "Listen to This: The Loudest Girl in the World"
+                },
+                {
+                    "description": "<p>You may know Jacob Goldstein as the former host of the Planet Money podcast. Now, he\u2019s combining his expertise about the money and business worlds with his passion for technology on a brand new show called\u00a0<em>What\u2019s Your Problem?</em>\u00a0from Pushkin Industries.<br><em>What\u2019s Your Problem?</em>\u00a0is a show about people who are facing some of the biggest challenges in modern business \u2013 and the problems they have to solve along the way. Find\u00a0<em>What&#39;s Your Problem?</em>\u00a0and listen to more engaging conversations wherever you get your podcasts.</p>",
+                    "enclosure": {
+                        "@length": "12982400",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2022/03/24/spectacular_failures_20220324_feeddrop324_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01FZ0YSG96H68ZN5GYGC9KBF2Z",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:13:29",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "pubDate": "Fri, 25 Mar 2022 16:33:13 +0000",
+                    "title": "Listen to This: What's Your Problem?"
+                },
+                {
+                    "description": "<p>The Los Angeles restaurant Sqirl had lines down the block for brunches that featured its famous house-made jams on toast. But then a photo of discarded mold scraped from the jam, snapped by someone in the Sqirl kitchen, blew up the internet...and led to a reputation crisis Sqirl is still dealing with.</p><br/><p></p><br/><p>Our sponsors this week:</p><br/><p><strong>Bombas - </strong><a href=\"http://bombas.com/spectacular\" class=\"default\">Bombas.com/spectacular</a></p><br/><p><strong>Ourcrowd - </strong><a href=\"http://Ourcrowd.com/spectacular\" class=\"default\">Ourcrowd.com/spectacular</a></p><br/><p></p><br/><p>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0<a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>.<br><br>Read the transcript of the episode at\u00a0<a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br><br>You can follow Spectacular Failures on\u00a0<a href=\"https://twitter.com/FailureShow\">Twitter</a>\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We&#39;re\u00a0<a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on\u00a0<a href=\"https://twitter.com/oberandOut\">Twitter</a>\u00a0and\u00a0<a href=\"https://www.instagram.com/oberandout/\">Instagram</a>\u00a0at @oberandout.</p>",
+                    "enclosure": {
+                        "@length": "36532352",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/10/05/spectacular_failures_20201005_s2e10_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01EKVCRY9AY9CZHREM8WEN604H",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:37:57",
+                    "itunes:episode": "10",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:season": "2",
+                    "pubDate": "Mon, 05 Oct 2020 10:00:00 +0000",
+                    "title": "Sqirl finds itself in a jam"
+                },
+                {
+                    "description": "<p>Even before Uber and Lyft pulled into town, NYC yellow cabs were having a rough ride. Reckless lending practices and inflated taxi medallion prices racked up profits for the city and debt for drivers. Then, the bubble did what bubbles do.\u00a0</p><br/><p><strong>Our sponsors this week:</strong></p><br/><p><strong>Policy Genius -</strong> <a href=\"http://policygenius.com\" class=\"default\">policygenius.com</a></p><br/><p><strong>Betterhelp - </strong><a href=\"http://betterhelp.com/spectacular\" class=\"default\">betterhelp.com/spectacular</a></p><br/><p>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0<a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>.<br><br>Read the transcript of the episode at\u00a0<a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br><br>You can follow Spectacular Failures on\u00a0<a href=\"https://twitter.com/FailureShow\">Twitter</a>\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We&#39;re\u00a0<a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on\u00a0<a href=\"https://twitter.com/oberandOut\">Twitter</a>\u00a0and\u00a0<a href=\"https://www.instagram.com/oberandout/\">Instagram</a>\u00a0at @oberandout.<br></p>",
+                    "enclosure": {
+                        "@length": "36028544",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/09/28/spectacular_failures_20200928_s2e9_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01EK92JDTR3Q1MZ65T8HEXQPX9",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:37:25",
+                    "itunes:episode": "9",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:season": "2",
+                    "pubDate": "Mon, 28 Sep 2020 10:00:00 +0000",
+                    "title": "NYC Taxi Medallions' steep fare"
+                },
+                {
+                    "description": "<p>Before the housing bubble burst, Countrywide Financial was one of the nation\u2019s largest home mortgage lenders. But after years of predatory lending practices, the predator went extinct.</p><br/><p>Our sponsors this week:</p><br/><p><strong>Indeed - </strong><a href=\"http://Indeed.com/spectacular\" class=\"default\">Indeed.com/spectacular</a></p><br/><p><strong>Policy Genius - </strong><a href=\"http://Policygenius.com\" class=\"default\">Policygenius.com</a></p><br/><p><strong>Our Crowd - </strong><a href=\"http://ourcrowd.com/spectacular\" class=\"default\">ourcrowd.com/spectacular</a></p><br/><p>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0<a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>.<br><br>Read the transcript of the episode at\u00a0<a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br><br>You can follow Spectacular Failures on\u00a0<a href=\"https://twitter.com/FailureShow\">Twitter</a>\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We&#39;re\u00a0<a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on\u00a0<a href=\"https://twitter.com/oberandOut\">Twitter</a>\u00a0and\u00a0<a href=\"https://www.instagram.com/oberandout/\">Instagram</a>\u00a0at @oberandout.</p>",
+                    "enclosure": {
+                        "@length": "41412736",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/09/21/spectacular_failures_20200921_s2e8_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01EJQCKQGM5MNVFP55DJQ0XWJJ",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:43:02",
+                    "itunes:episode": "8",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:season": "2",
+                    "pubDate": "Mon, 21 Sep 2020 10:00:00 +0000",
+                    "title": "Subprime times at Countrywide Financial"
+                },
+                {
+                    "description": "<p>Pan Am made air travel cool\u2014from chic crew uniforms to exotic locations to square-jawed flyboy pilots. But a couple of bad business deals, massive deregulation, and a devastating terrorist attack sunset the airline for good.<br><br>Our sponsors this week:</p><br/><p><strong>Betterhelp:</strong> <a href=\"http://betterhelp.com/spectacular\" class=\"c-link\">betterhelp.com/spectacular</a><br><strong>The Great Courses Plus:</strong>\u00a0<a href=\"http://thegreatcoursesplus.com/spectacular\" class=\"c-link\">thegreatcoursesplus.com/spectacular</a><br></p><br/><p>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0<a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>.<br><br>Read the transcript of the episode at\u00a0<a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br><br>You can follow Spectacular Failures on\u00a0<a href=\"https://twitter.com/FailureShow\">Twitter</a>\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We&#39;re\u00a0<a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on\u00a0<a href=\"https://twitter.com/oberandOut\">Twitter</a>\u00a0and\u00a0<a href=\"https://www.instagram.com/oberandout/\">Instagram</a>\u00a0at @oberandout.</p>",
+                    "enclosure": {
+                        "@length": "38326400",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/09/14/spectacular_failures_20200914_s2e7_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01EJ5DNV2FVDHRZZHNT5KMPW0D",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:39:49",
+                    "itunes:episode": "7",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:season": "2",
+                    "pubDate": "Mon, 14 Sep 2020 10:00:00 +0000",
+                    "title": "Pan Am hits major turbulence"
+                },
+                {
+                    "description": "<p>Got milk? These days, chances are maybe not. Americans have been saying no thanks for years now, and changing consumer tastes have been bad news for what used to be the nation\u2019s largest milk processor, Dean Foods.</p><br/><p>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0<a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>.<br><br>Read the transcript of the episode at\u00a0<a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br><br>You can follow Spectacular Failures on\u00a0<a href=\"https://twitter.com/FailureShow\">Twitter</a>\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We&#39;re\u00a0<a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on\u00a0<a href=\"https://twitter.com/oberandOut\">Twitter</a>\u00a0and\u00a0<a href=\"https://www.instagram.com/oberandout/\">Instagram</a>\u00a0at @oberandout.</p><br/><p><strong>OUR SPONSORS THIS WEEK</strong></p><br/><p>The Great Courses Plus:\u00a0<a href=\"http://thegreatcoursesplus.com/spectacular\" title=\"thegreatcoursesplus.com/spectacular\">thegreatcoursesplus.com/spectacular</a>\u00a0</p><br/><p>NetSuite:\u00a0<a href=\"http://netsuite.com/spectacular\" title=\"NetSuite.com/spectacular\">NetSuite.com/spectacular</a>\u00a0</p><br/><p>BetterHelp:\u00a0<a href=\"http://betterhelp.com/spectacular\" title=\"betterhelp.com/spectacular\">betterhelp.com/spectacular</a>\u00a0</p>",
+                    "enclosure": {
+                        "@length": "36356224",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/09/07/spectacular_failures_20200907_s2e6_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01EHK0G6W7TMF35WH3ED6QFVV5",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:37:45",
+                    "itunes:episode": "6",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:season": "2",
+                    "pubDate": "Mon, 07 Sep 2020 10:00:00 +0000",
+                    "title": "A dairy giant gets milked"
+                },
+                {
+                    "description": "<p>The recording industry, Metallica, and ultimately federal court put the brakes on Napster\u2019s music file sharing. But before exiting the stage, Napster changed the way we listen to music\u2014and how much we\u2019re willing to pay for it.</p><br/><p>[<strong>Editor\u2019s note - Sept. 1, 2020: </strong>This episode has been updated to reflect that \u201cCyberTalk\u201d was a group effort overseen by Jeff Gold. An earlier version characterized it as his solo effort.]</p><br/><p><br>Our sponsors this week:<br><strong>Bombas:\u00a0</strong><a href=\"http://bombas.com/spectacular\" class=\"c-link\">bombas.com/spectacular</a><br><strong>Policy Genius:\u00a0</strong><a href=\"http://policygenius.com/\" class=\"c-link\">policygenius.com</a><br><strong>NetSuite:\u00a0</strong><a href=\"http://netsuite.com/spectacular\" class=\"c-link\">netsuite.com/spectacular</a><br><br>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0<a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>.<br><br>Read the transcript of the episode at\u00a0<a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br><br>You can follow Spectacular Failures on\u00a0<a href=\"https://twitter.com/FailureShow\">Twitter</a>\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We&#39;re\u00a0<a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on\u00a0<a href=\"https://twitter.com/oberandOut\">Twitter</a>\u00a0and\u00a0<a href=\"https://www.instagram.com/oberandout/\">Instagram</a>\u00a0at @oberandout.</p>",
+                    "enclosure": {
+                        "@length": "36989056",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/08/31/spectacular_failures_20200831_s2e5_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01EGVFMC4MGA4H5YS3E3YS7HTJ",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:38:25",
+                    "itunes:episode": "5",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:season": "2",
+                    "pubDate": "Mon, 31 Aug 2020 10:00:00 +0000",
+                    "title": "Napster fought the law and the law won"
+                },
+                {
+                    "description": "<p>When Hooker Chemical sold its infamous toxic waste landfill to the Niagara Falls School Board, the $1 deal left Niagara residents seriously ill. But few believed the company could truly be at fault...until it was too late.</p><br/><p>Our sponsors this week:<br><strong>NetSuite:</strong>\u00a0<a href=\"http://netsuite.com/spectacular\">netsuite.com/spectacular</a><br><strong>Betterhelp:</strong>\u00a0<a href=\"http://betterhelp.com/spectacular\" class=\"c-link\">betterhelp.com/spectacular</a><br><br>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0<a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>.<br><br>Read the transcript of the episode at\u00a0<a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br><br>You can follow Spectacular Failures on\u00a0<a href=\"https://twitter.com/FailureShow\">Twitter</a>\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We&#39;re\u00a0<a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on\u00a0<a href=\"https://twitter.com/oberandOut\">Twitter</a>\u00a0and\u00a0<a href=\"https://www.instagram.com/oberandout/\">Instagram</a>\u00a0at @oberandout.<br><br><br></p>",
+                    "enclosure": {
+                        "@length": "38168704",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/08/24/spectacular_failures_20200824_s2e4_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01EG9NCXBY36BT0VFJGY3SB5HP",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:39:39",
+                    "itunes:episode": "4",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:season": "2",
+                    "pubDate": "Mon, 24 Aug 2020 10:00:00 +0000",
+                    "title": "The toxic tale of the Love Canal fail"
+                },
+                {
+                    "description": "<p>Livent was a showstopper of an operation. But eventually, forgery and fraud stole the scene, the money exited stage left, and the lead actor landed behind bars.<br><br>Our sponsors this week:<br>Indeed:\u00a0<a href=\"http://indeed.com/spectacular\" class=\"c-link\">indeed.com/spectacular</a><br>NetSuite:\u00a0<a href=\"http://netsuite.com/spectacular\" class=\"c-link\">netsuite.com/spectacular</a><br>The Great Courses Plus:\u00a0<a href=\"http://thegreatcoursesplus.com/spectacular\" class=\"c-link\">thegreatcoursesplus.com/spectacular</a><br><br>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0<a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>.<br><br>Read the transcript of the episode at\u00a0<a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br><br>You can follow Spectacular Failures on\u00a0<a href=\"https://twitter.com/FailureShow\">Twitter</a>\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We&#39;re\u00a0<a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on\u00a0<a href=\"https://twitter.com/oberandOut\">Twitter</a>\u00a0and\u00a0<a href=\"https://www.instagram.com/oberandout/\">Instagram</a>\u00a0at @oberandout.</p>",
+                    "enclosure": {
+                        "@length": "40333440",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/08/17/spectacular_failures_20200817_s2e3_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01EFQ41RS2KN94PT71YC849ZCP",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:41:54",
+                    "itunes:episode": "3",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:season": "2",
+                    "pubDate": "Mon, 17 Aug 2020 10:00:00 +0000",
+                    "title": "The curtain falls on a big Broadway company"
+                },
+                {
+                    "description": "<p>The mom-and-pop fast-fashion retailer exploded into malls across the globe. But eventually, Forever 21 unraveled like the hem on a cheap crop top.<br><br>Our sponsors this week:<br>Fiverr:\u00a0<a href=\"http://fiverr.com/\" class=\"c-link\">fiverr.com</a>\u00a0promo code SPECTACULAR<br>NetSuite:\u00a0<a href=\"http://netsuite.com/SPECTACULAR\" class=\"c-link\">NetSuite.com/SPECTACULAR</a><br>The Great Courses Plus:\u00a0<a href=\"http://thegreatcoursesplus.com/spectacular\" class=\"c-link\">thegreatcoursesplus.com/spectacular</a><br><br>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0<a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>.<br><br>Read the transcript of the episode at\u00a0<a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br><br>You can follow Spectacular Failures on\u00a0<a href=\"https://twitter.com/FailureShow\">Twitter</a>\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We&#39;re\u00a0<a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on\u00a0<a href=\"https://twitter.com/oberandOut\">Twitter</a>\u00a0and\u00a0<a href=\"https://www.instagram.com/oberandout/\">Instagram</a>\u00a0at @oberandout.<br></p>",
+                    "enclosure": {
+                        "@length": "34336896",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/08/10/spectacular_failures_20200810_s2e2_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01EF4V6RZ0W5Q0AMQKQHJKHA81",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:35:39",
+                    "itunes:episode": "2",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:season": "2",
+                    "pubDate": "Mon, 10 Aug 2020 10:00:00 +0000",
+                    "title": "Forever 21 goes from rags to riches to bankruptcy court"
+                },
+                {
+                    "description": "<p>The meal kit delivery service was almost belly-up before the pandemic hit. But then people stuck cooking at home gave the brand a lifeline. Investors found it tastier than ever, but will customers still hanker for the big blue box once this is all over?<br><br><br>Our sponsors this week: Betterhelp:\u00a0<a href=\"http://betterhelp.com/spectacular\" class=\"c-link\">betterhelp.com/spectacular</a>\u00a0code\u00a0spectacular<br>NetSuite:\u00a0<a href=\"http://netsuite.com/spectacular\" class=\"c-link\">netsuite.com/spectacular</a><br>Policygenius:<strong>\u00a0</strong><a href=\"http://policygenius.com/\" class=\"c-link\">policygenius.com</a><br><br><br>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at <a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>. <br><br><br>Read the transcript of the episode at <a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br><br>You can follow Spectacular Failures on\u00a0<a href=\"https://twitter.com/FailureShow\">Twitter</a>\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We&#39;re\u00a0<a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on\u00a0<a href=\"https://twitter.com/oberandOut\">Twitter</a>\u00a0and\u00a0<a href=\"https://www.instagram.com/oberandout/\">Instagram</a>\u00a0at @oberandout.<br><br><br>Spectacular Failures is powered by you. Support the show with a donation at\u00a0<a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>",
+                    "enclosure": {
+                        "@length": "33947776",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/08/03/spectacular_failures_20200803_s2e1_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01EEK5TBFCBM2XFV7JT3B0YP0D",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:35:15",
+                    "itunes:episode": "1",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:season": "2",
+                    "pubDate": "Mon, 03 Aug 2020 10:00:00 +0000",
+                    "title": "Blue Apron wilts, then rises to a new challenge"
+                },
+                {
+                    "description": "<p>Spectacular Failures is back for season two, starting August 3rd! 2020 has been a year of fail. Global pandemic, check. Economic meltdown, check. Political unrest, check. Busted businesses and collapsed corporations are having a moment, and who better to tackle those tales than Lauren Ober and <em>Spectacular Failures</em>?<br><br>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at <a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>. </p><br/><p>Read the transcript of the trailer at <a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br></p>",
+                    "enclosure": {
+                        "@length": "1540224",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/07/20/spectacular_failures_20200720_S2Trailer_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01EDFFGJXA3RG15QJS44R890FM",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:01:30",
+                    "itunes:episodeType": "trailer",
+                    "itunes:explicit": "false",
+                    "itunes:season": "2",
+                    "pubDate": "Mon, 20 Jul 2020 10:00:00 +0000",
+                    "title": "Spectacular Failures - Season Two"
+                },
+                {
+                    "description": "<p>By the time the final dice were thrown, Trump&#39;s Atlantic City casino operations had gone bankrupt six times. Despite that, Trump won the long game.</p><br/><p>You can follow Spectacular Failures on <a href=\"https://twitter.com/FailureShow\">Twitter</a> and <a href=\"http://facebook.com/failureshow\">Facebook</a> using @failureshow. We&#39;re <a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on <a href=\"https://twitter.com/oberandOut\">Twitter</a> and <a href=\"https://www.instagram.com/oberandout/\">Instagram</a> at @oberandout.</p><br/><p>Spectacular Failures is powered by you. Support the show with a donation at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>",
+                    "enclosure": {
+                        "@length": "40077440",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/08/19/spectacular_failures_20190819_10_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01DJETD4NBQCEQ9F4901FVHRTB",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:41:38",
+                    "itunes:episode": "10",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:season": "1",
+                    "pubDate": "Mon, 19 Aug 2019 10:00:00 +0000",
+                    "title": "Trump's big gamble on Atlantic City"
+                },
+                {
+                    "description": "<p>No amount of nostalgia could save Toys R Us from the private equity firms that owned it.</p><br/><p>You can follow Spectacular Failures on <a href=\"https://twitter.com/FailureShow\">Twitter</a> and <a href=\"http://facebook.com/failureshow\">Facebook</a> using @failureshow. We&#39;re <a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on <a href=\"https://twitter.com/oberandOut\">Twitter</a> and <a href=\"https://www.instagram.com/oberandout/\">Instagram</a> at @oberandout.</p><br/><p>Spectacular Failures is powered by you. Support the show with a donation at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>",
+                    "enclosure": {
+                        "@length": "34740352",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/08/12/spectacular_failures_20190812_9_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01DHW7DV2N540A5CY19WRK1DF4",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:36:05",
+                    "itunes:episode": "9",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:season": "1",
+                    "pubDate": "Mon, 12 Aug 2019 10:00:00 +0000",
+                    "title": "Toys R Us goes bust"
+                },
+                {
+                    "description": "<p>Charles Keating robbed working people of their life savings and cost taxpayers billions of dollars. All under the watch of powerful politicians.</p><br/><p>You can follow Spectacular Failures on <a href=\"https://twitter.com/FailureShow\">Twitter</a> and <a href=\"http://facebook.com/failureshow\">Facebook</a> using @failureshow. We&#39;re <a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on <a href=\"https://twitter.com/oberandOut\">Twitter</a> and <a href=\"https://www.instagram.com/oberandout/\">Instagram</a> at @oberandout.</p><br/><p>Spectacular Failures is powered by you. Support the show with a donation at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>",
+                    "enclosure": {
+                        "@length": "35797120",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/08/05/spectacular_failures_20190805_8_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01DHA5PT23EHT4VABAH4CPH1YR",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:37:11",
+                    "itunes:episode": "8",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:season": "1",
+                    "pubDate": "Mon, 05 Aug 2019 10:00:00 +0000",
+                    "title": "Lincoln Savings loses it all"
+                },
+                {
+                    "description": "<p>The aftermath of the Triangle Shirtwaist Factory fire helped usher in higher wages, safer conditions and a prohibition on child labor. But the problems that led to the fire haven\u2019t gone away. Not even close.</p><br/><p>You can follow Spectacular Failures on <a href=\"https://twitter.com/FailureShow\">Twitter</a> and <a href=\"http://facebook.com/failureshow\">Facebook</a> using @failureshow. We&#39;re <a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on <a href=\"https://twitter.com/oberandOut\">Twitter</a> and <a href=\"https://www.instagram.com/oberandout/\">Instagram</a> at @oberandout.</p><br/><p>Spectacular Failures is powered by you. Support the show with a donation at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>",
+                    "enclosure": {
+                        "@length": "34328704",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/07/29/spectacular_failures_20190729_7_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01DGT31B4KE5P7D7XNGAHBNGKW",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:35:39",
+                    "itunes:episode": "7",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:season": "1",
+                    "pubDate": "Mon, 29 Jul 2019 10:00:00 +0000",
+                    "title": "The inferno that transformed American labor"
+                },
+                {
+                    "description": "<p>Failed therapy sessions, fistfights in the board room and even murder accusations. U-Haul\u2019s trip to bankruptcy will make you think twice about mixing business and family.</p><br/><p>You can follow Spectacular Failures on <a href=\"https://twitter.com/FailureShow\">Twitter</a> and <a href=\"http://facebook.com/failureshow\">Facebook</a> using @failureshow. We&#39;re <a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on <a href=\"https://twitter.com/oberandOut\">Twitter</a> and <a href=\"https://www.instagram.com/oberandout/\">Instagram</a> at @oberandout.</p><br/><p>Spectacular Failures is powered by you. Support the show with a donation at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>",
+                    "enclosure": {
+                        "@length": "32372864",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/07/22/spectacular_failures_20190722_6_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01DG673ZN1PESWVSCDFJT5VYGK",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:33:37",
+                    "itunes:episode": "6",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:season": "1",
+                    "pubDate": "Mon, 22 Jul 2019 10:00:00 +0000",
+                    "title": "Family fighting sends U-Haul on a detour"
+                },
+                {
+                    "description": "<p>The world&#39;s largest photography company pioneers the snapshot, invents the digital camera and... declares bankruptcy.</p><br/><p>You can follow Spectacular Failures on <a href=\"https://twitter.com/FailureShow\">Twitter</a> and <a href=\"http://facebook.com/failureshow\">Facebook</a> using @failureshow. We&#39;re <a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on <a href=\"https://twitter.com/oberandOut\">Twitter</a> and <a href=\"https://www.instagram.com/oberandout/\">Instagram</a> at @oberandout.</p><br/><p>Spectacular Failures is powered by you. Support the show with a donation at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>",
+                    "enclosure": {
+                        "@length": "31285376",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/07/15/spectacular_failures_20190715_5_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01DFM78J25HHMP0P227WEQR7J0",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:32:29",
+                    "itunes:episode": "5",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:season": "1",
+                    "pubDate": "Mon, 15 Jul 2019 10:00:00 +0000",
+                    "title": "Kodak misses its moment"
+                },
+                {
+                    "description": "<p>A family-owned business fights a billion-dollar, multinational company. And wins.</p><br/><p>You can follow Spectacular Failures on <a href=\"https://twitter.com/FailureShow\">Twitter</a> and <a href=\"http://facebook.com/failureshow\">Facebook</a> using @failureshow. We&#39;re <a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on <a href=\"https://twitter.com/oberandOut\">Twitter</a> and <a href=\"https://www.instagram.com/oberandout/\">Instagram</a> at @oberandout.</p><br/><p>Visit our website for this week\u2019s BizWiz link at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org</a></p><br/><p>Spectacular Failures is powered by you. Support the show with a donation at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>",
+                    "enclosure": {
+                        "@length": "25856128",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/07/08/spectacular_failures_20190708_4_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01DF1Y4Y862FE0407AV3CN4Z04",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:26:49",
+                    "itunes:episode": "4",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:season": "1",
+                    "pubDate": "Mon, 08 Jul 2019 10:00:00 +0000",
+                    "title": "A funeral industry giant keels over "
+                },
+                {
+                    "description": "<p>&quot;The beer that made Milwaukee famous&quot; cuts corners. And loses its most loyal customers. </p><br/><p>You can follow Spectacular Failures on <a href=\"https://twitter.com/FailureShow\">Twitter</a> and <a href=\"http://facebook.com/failureshow\">Facebook</a> using @failureshow. We&#39;re <a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on <a href=\"https://twitter.com/oberandOut\">Twitter</a> and <a href=\"https://www.instagram.com/oberandout/\">Instagram</a> at @oberandout. </p><br/><p>Spectacular Failures is powered by you. Support the show with a donation at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>",
+                    "enclosure": {
+                        "@length": "27527296",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/07/01/spectacular_failures_20190701_3_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01DEFZRR6PRFB7MZYBRYZX1WBF",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:28:34",
+                    "itunes:episode": "3",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:season": "1",
+                    "pubDate": "Mon, 01 Jul 2019 10:00:00 +0000",
+                    "title": "Schlitz Beer goes bad, then worse"
+                },
+                {
+                    "description": "<p>Unlimited movie theater tickets for $9.99 a month? It sounds too good to be true and, well... it might be.</p><br/><p>You can follow Spectacular Failures on <a href=\"https://twitter.com/FailureShow\">Twitter</a> and <a href=\"http://facebook.com/failureshow\">Facebook</a> using @failureshow. We&#39;re <a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>, where you can see photos from Lauren&#39;s tour of the former Heritage USA property. Follow Lauren Ober on <a href=\"https://twitter.com/oberandOut\">Twitter</a> and <a href=\"https://www.instagram.com/oberandout/\">Instagram</a> at @oberandout.</p><br/><p>Spectacular Failures is powered by you. Support the show with a donation at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>",
+                    "enclosure": {
+                        "@length": "27963520",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/06/24/spectacular_failures_20190624_2_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01DDY1485A4KGZ4AJJFWQVN8GQ",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:29:01",
+                    "itunes:episode": "2",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:season": "1",
+                    "pubDate": "Mon, 24 Jun 2019 10:00:00 +0000",
+                    "title": "MoviePass begins with plenty of drama"
+                },
+                {
+                    "description": "<p>How Jim and Tammy Faye Bakker\u2019s wildly popular Christian theme park was upended by fraud, scandal and lavish spending.</p><br/><p>You can follow Spectacular Failures on <a href=\"https://twitter.com/FailureShow\">Twitter</a> and <a href=\"http://facebook.com/failureshow\">Facebook</a> using @failureshow. We&#39;re <a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>, where you can see photos from Lauren&#39;s tour of the former Heritage USA property. Follow Lauren Ober on <a href=\"https://twitter.com/oberandOut\">Twitter</a> and <a href=\"https://www.instagram.com/oberandout/\">Instagram</a> at @oberandout.</p><br/><p>Spectacular Failures is powered by you. Support the show with a donation at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>",
+                    "enclosure": {
+                        "@length": "30046336",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/06/17/spectacular_failures_20190617_1_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01DD9RTJ8H4MMW1NSC30QA2F2P",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:31:11",
+                    "itunes:episode": "1",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:season": "1",
+                    "pubDate": "Mon, 17 Jun 2019 10:00:00 +0000",
+                    "title": "A Christian theme park plunges into scandal "
+                },
+                {
+                    "description": "<p>Corporate crookedness. Family feuding. Hilariously half-baked decisions. Host Lauren Ober tackles some of the most spectacular business failures of all time, and what could have been done to avoid them. Coming June 17.</p>",
+                    "enclosure": {
+                        "@length": "2500736",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/05/31/spectacular_failures_20190531_0_128.mp3"
+                    },
+                    "guid": {
+                        "#text": "01DC5CF2QDERNFSN1RD7JBVYN4",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "American Public Media",
+                    "itunes:duration": "00:02:30",
+                    "itunes:episodeType": "trailer",
+                    "itunes:explicit": "false",
+                    "itunes:season": "1",
+                    "pubDate": "Thu, 30 May 2019 22:06:18 +0000",
+                    "title": "Introducing Spectacular Failures"
+                }
+            ],
+            "itunes:author": "American Public Media",
+            "itunes:category": {
+                "@text": "Business",
+                "itunes:category": {
+                    "@text": "Management"
+                }
             },
-            "guid": "01GCS7D587P6Q0DGPQAB1B1PB5",
-            "isoDate": "2022-09-12T16:09:36.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:11:50",
-                "episodeType": "full",
-                "explicit": "false"
+            "itunes:complete": "No",
+            "itunes:explicit": "false",
+            "itunes:image": {
+                "@href": "https://img.apmcdn.org/28942b1bf89fc2b330da8d43a31cf5e7de726a62/uncropped/a53f2c-20210901-spectacular-failures-apm-studios-podcast-art-2000.jpg"
             },
-            "pubDate": "Mon, 12 Sep 2022 16:09:36 +0000",
-            "title": "Listen to This: The Loudest Girl in the World"
-        },
-        {
-            "content": "\n        <p>You may know Jacob Goldstein as the former host of the Planet Money podcast. Now, he\u2019s combining his expertise about the money and business worlds with his passion for technology on a brand new show called\u00a0<em>What\u2019s Your Problem?</em>\u00a0from Pushkin Industries.<br><em>What\u2019s Your Problem?</em>\u00a0is a show about people who are facing some of the biggest challenges in modern business \u2013 and the problems they have to solve along the way. Find\u00a0<em>What&#39;s Your Problem?</em>\u00a0and listen to more engaging conversations wherever you get your podcasts.</p>\n      ",
-            "contentSnippet": "You may know Jacob Goldstein as the former host of the Planet Money podcast. Now, he\u2019s combining his expertise about the money and business worlds with his passion for technology on a brand new show called\u00a0What\u2019s Your Problem?\u00a0from Pushkin Industries.\nWhat\u2019s Your Problem?\u00a0is a show about people who are facing some of the biggest challenges in modern business \u2013 and the problems they have to solve along the way. Find\u00a0What's Your Problem?\u00a0and listen to more engaging conversations wherever you get your podcasts.",
-            "enclosure": {
-                "length": "12982400",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2022/03/24/spectacular_failures_20220324_feeddrop324_128.mp3"
+            "itunes:owner": {
+                "itunes:email": "podcasts@americanpublicmedia.org",
+                "itunes:name": "American Public Media"
             },
-            "guid": "01FZ0YSG96H68ZN5GYGC9KBF2Z",
-            "isoDate": "2022-03-25T16:33:13.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:13:29",
-                "episodeType": "full",
-                "explicit": "false"
-            },
-            "pubDate": "Fri, 25 Mar 2022 16:33:13 +0000",
-            "title": "Listen to This: What's Your Problem?"
-        },
-        {
-            "content": "\n        <p>The Los Angeles restaurant Sqirl had lines down the block for brunches that featured its famous house-made jams on toast. But then a photo of discarded mold scraped from the jam, snapped by someone in the Sqirl kitchen, blew up the internet...and led to a reputation crisis Sqirl is still dealing with.</p><br/><p></p><br/><p>Our sponsors this week:</p><br/><p><strong>Bombas - </strong><a href=\"http://bombas.com/spectacular\" class=\"default\">Bombas.com/spectacular</a></p><br/><p><strong>Ourcrowd - </strong><a href=\"http://Ourcrowd.com/spectacular\" class=\"default\">Ourcrowd.com/spectacular</a></p><br/><p></p><br/><p>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0<a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>.<br><br>Read the transcript of the episode at\u00a0<a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br><br>You can follow Spectacular Failures on\u00a0<a href=\"https://twitter.com/FailureShow\">Twitter</a>\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We&#39;re\u00a0<a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on\u00a0<a href=\"https://twitter.com/oberandOut\">Twitter</a>\u00a0and\u00a0<a href=\"https://www.instagram.com/oberandout/\">Instagram</a>\u00a0at @oberandout.</p>\n      ",
-            "contentSnippet": "The Los Angeles restaurant Sqirl had lines down the block for brunches that featured its famous house-made jams on toast. But then a photo of discarded mold scraped from the jam, snapped by someone in the Sqirl kitchen, blew up the internet...and led to a reputation crisis Sqirl is still dealing with.\n\n\nOur sponsors this week:\n\nBombas - Bombas.com/spectacular\n\nOurcrowd - Ourcrowd.com/spectacular\n\n\nSign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0spectacularfailures.org/newsletter.\nRead the transcript of the episode at\u00a0spectacularfailures.org.\nYou can follow Spectacular Failures on\u00a0Twitter\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We're\u00a0@failure_show on Instagram. Follow Lauren Ober on\u00a0Twitter\u00a0and\u00a0Instagram\u00a0at @oberandout.",
-            "enclosure": {
-                "length": "36532352",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/10/05/spectacular_failures_20201005_s2e10_128.mp3"
-            },
-            "guid": "01EKVCRY9AY9CZHREM8WEN604H",
-            "isoDate": "2020-10-05T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:37:57",
-                "episode": "10",
-                "episodeType": "full",
-                "explicit": "false",
-                "season": "2"
-            },
-            "pubDate": "Mon, 05 Oct 2020 10:00:00 +0000",
-            "title": "Sqirl finds itself in a jam"
-        },
-        {
-            "content": "\n        <p>Even before Uber and Lyft pulled into town, NYC yellow cabs were having a rough ride. Reckless lending practices and inflated taxi medallion prices racked up profits for the city and debt for drivers. Then, the bubble did what bubbles do.\u00a0</p><br/><p><strong>Our sponsors this week:</strong></p><br/><p><strong>Policy Genius -</strong> <a href=\"http://policygenius.com\" class=\"default\">policygenius.com</a></p><br/><p><strong>Betterhelp - </strong><a href=\"http://betterhelp.com/spectacular\" class=\"default\">betterhelp.com/spectacular</a></p><br/><p>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0<a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>.<br><br>Read the transcript of the episode at\u00a0<a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br><br>You can follow Spectacular Failures on\u00a0<a href=\"https://twitter.com/FailureShow\">Twitter</a>\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We&#39;re\u00a0<a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on\u00a0<a href=\"https://twitter.com/oberandOut\">Twitter</a>\u00a0and\u00a0<a href=\"https://www.instagram.com/oberandout/\">Instagram</a>\u00a0at @oberandout.<br></p>\n      ",
-            "contentSnippet": "Even before Uber and Lyft pulled into town, NYC yellow cabs were having a rough ride. Reckless lending practices and inflated taxi medallion prices racked up profits for the city and debt for drivers. Then, the bubble did what bubbles do.\u00a0\n\nOur sponsors this week:\n\nPolicy Genius - policygenius.com\n\nBetterhelp - betterhelp.com/spectacular\n\nSign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0spectacularfailures.org/newsletter.\nRead the transcript of the episode at\u00a0spectacularfailures.org.\nYou can follow Spectacular Failures on\u00a0Twitter\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We're\u00a0@failure_show on Instagram. Follow Lauren Ober on\u00a0Twitter\u00a0and\u00a0Instagram\u00a0at @oberandout.",
-            "enclosure": {
-                "length": "36028544",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/09/28/spectacular_failures_20200928_s2e9_128.mp3"
-            },
-            "guid": "01EK92JDTR3Q1MZ65T8HEXQPX9",
-            "isoDate": "2020-09-28T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:37:25",
-                "episode": "9",
-                "episodeType": "full",
-                "explicit": "false",
-                "season": "2"
-            },
-            "pubDate": "Mon, 28 Sep 2020 10:00:00 +0000",
-            "title": "NYC Taxi Medallions' steep fare"
-        },
-        {
-            "content": "\n        <p>Before the housing bubble burst, Countrywide Financial was one of the nation\u2019s largest home mortgage lenders. But after years of predatory lending practices, the predator went extinct.</p><br/><p>Our sponsors this week:</p><br/><p><strong>Indeed - </strong><a href=\"http://Indeed.com/spectacular\" class=\"default\">Indeed.com/spectacular</a></p><br/><p><strong>Policy Genius - </strong><a href=\"http://Policygenius.com\" class=\"default\">Policygenius.com</a></p><br/><p><strong>Our Crowd - </strong><a href=\"http://ourcrowd.com/spectacular\" class=\"default\">ourcrowd.com/spectacular</a></p><br/><p>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0<a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>.<br><br>Read the transcript of the episode at\u00a0<a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br><br>You can follow Spectacular Failures on\u00a0<a href=\"https://twitter.com/FailureShow\">Twitter</a>\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We&#39;re\u00a0<a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on\u00a0<a href=\"https://twitter.com/oberandOut\">Twitter</a>\u00a0and\u00a0<a href=\"https://www.instagram.com/oberandout/\">Instagram</a>\u00a0at @oberandout.</p>\n      ",
-            "contentSnippet": "Before the housing bubble burst, Countrywide Financial was one of the nation\u2019s largest home mortgage lenders. But after years of predatory lending practices, the predator went extinct.\n\nOur sponsors this week:\n\nIndeed - Indeed.com/spectacular\n\nPolicy Genius - Policygenius.com\n\nOur Crowd - ourcrowd.com/spectacular\n\nSign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0spectacularfailures.org/newsletter.\nRead the transcript of the episode at\u00a0spectacularfailures.org.\nYou can follow Spectacular Failures on\u00a0Twitter\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We're\u00a0@failure_show on Instagram. Follow Lauren Ober on\u00a0Twitter\u00a0and\u00a0Instagram\u00a0at @oberandout.",
-            "enclosure": {
-                "length": "41412736",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/09/21/spectacular_failures_20200921_s2e8_128.mp3"
-            },
-            "guid": "01EJQCKQGM5MNVFP55DJQ0XWJJ",
-            "isoDate": "2020-09-21T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:43:02",
-                "episode": "8",
-                "episodeType": "full",
-                "explicit": "false",
-                "season": "2"
-            },
-            "pubDate": "Mon, 21 Sep 2020 10:00:00 +0000",
-            "title": "Subprime times at Countrywide Financial"
-        },
-        {
-            "content": "\n        <p>Pan Am made air travel cool\u2014from chic crew uniforms to exotic locations to square-jawed flyboy pilots. But a couple of bad business deals, massive deregulation, and a devastating terrorist attack sunset the airline for good.<br><br>Our sponsors this week:</p><br/><p><strong>Betterhelp:</strong> <a href=\"http://betterhelp.com/spectacular\" class=\"c-link\">betterhelp.com/spectacular</a><br><strong>The Great Courses Plus:</strong>\u00a0<a href=\"http://thegreatcoursesplus.com/spectacular\" class=\"c-link\">thegreatcoursesplus.com/spectacular</a><br></p><br/><p>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0<a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>.<br><br>Read the transcript of the episode at\u00a0<a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br><br>You can follow Spectacular Failures on\u00a0<a href=\"https://twitter.com/FailureShow\">Twitter</a>\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We&#39;re\u00a0<a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on\u00a0<a href=\"https://twitter.com/oberandOut\">Twitter</a>\u00a0and\u00a0<a href=\"https://www.instagram.com/oberandout/\">Instagram</a>\u00a0at @oberandout.</p>\n      ",
-            "contentSnippet": "Pan Am made air travel cool\u2014from chic crew uniforms to exotic locations to square-jawed flyboy pilots. But a couple of bad business deals, massive deregulation, and a devastating terrorist attack sunset the airline for good.\nOur sponsors this week:\n\nBetterhelp: betterhelp.com/spectacular\nThe Great Courses Plus:\u00a0thegreatcoursesplus.com/spectacular\n\nSign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0spectacularfailures.org/newsletter.\nRead the transcript of the episode at\u00a0spectacularfailures.org.\nYou can follow Spectacular Failures on\u00a0Twitter\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We're\u00a0@failure_show on Instagram. Follow Lauren Ober on\u00a0Twitter\u00a0and\u00a0Instagram\u00a0at @oberandout.",
-            "enclosure": {
-                "length": "38326400",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/09/14/spectacular_failures_20200914_s2e7_128.mp3"
-            },
-            "guid": "01EJ5DNV2FVDHRZZHNT5KMPW0D",
-            "isoDate": "2020-09-14T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:39:49",
-                "episode": "7",
-                "episodeType": "full",
-                "explicit": "false",
-                "season": "2"
-            },
-            "pubDate": "Mon, 14 Sep 2020 10:00:00 +0000",
-            "title": "Pan Am hits major turbulence"
-        },
-        {
-            "content": "\n        <p>Got milk? These days, chances are maybe not. Americans have been saying no thanks for years now, and changing consumer tastes have been bad news for what used to be the nation\u2019s largest milk processor, Dean Foods.</p><br/><p>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0<a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>.<br><br>Read the transcript of the episode at\u00a0<a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br><br>You can follow Spectacular Failures on\u00a0<a href=\"https://twitter.com/FailureShow\">Twitter</a>\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We&#39;re\u00a0<a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on\u00a0<a href=\"https://twitter.com/oberandOut\">Twitter</a>\u00a0and\u00a0<a href=\"https://www.instagram.com/oberandout/\">Instagram</a>\u00a0at @oberandout.</p><br/><p><strong>OUR SPONSORS THIS WEEK</strong></p><br/><p>The Great Courses Plus:\u00a0<a href=\"http://thegreatcoursesplus.com/spectacular\" title=\"thegreatcoursesplus.com/spectacular\">thegreatcoursesplus.com/spectacular</a>\u00a0</p><br/><p>NetSuite:\u00a0<a href=\"http://netsuite.com/spectacular\" title=\"NetSuite.com/spectacular\">NetSuite.com/spectacular</a>\u00a0</p><br/><p>BetterHelp:\u00a0<a href=\"http://betterhelp.com/spectacular\" title=\"betterhelp.com/spectacular\">betterhelp.com/spectacular</a>\u00a0</p>\n      ",
-            "contentSnippet": "Got milk? These days, chances are maybe not. Americans have been saying no thanks for years now, and changing consumer tastes have been bad news for what used to be the nation\u2019s largest milk processor, Dean Foods.\n\nSign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0spectacularfailures.org/newsletter.\nRead the transcript of the episode at\u00a0spectacularfailures.org.\nYou can follow Spectacular Failures on\u00a0Twitter\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We're\u00a0@failure_show on Instagram. Follow Lauren Ober on\u00a0Twitter\u00a0and\u00a0Instagram\u00a0at @oberandout.\n\nOUR SPONSORS THIS WEEK\n\nThe Great Courses Plus:\u00a0thegreatcoursesplus.com/spectacular\u00a0\n\nNetSuite:\u00a0NetSuite.com/spectacular\u00a0\n\nBetterHelp:\u00a0betterhelp.com/spectacular",
-            "enclosure": {
-                "length": "36356224",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/09/07/spectacular_failures_20200907_s2e6_128.mp3"
-            },
-            "guid": "01EHK0G6W7TMF35WH3ED6QFVV5",
-            "isoDate": "2020-09-07T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:37:45",
-                "episode": "6",
-                "episodeType": "full",
-                "explicit": "false",
-                "season": "2"
-            },
-            "pubDate": "Mon, 07 Sep 2020 10:00:00 +0000",
-            "title": "A dairy giant gets milked"
-        },
-        {
-            "content": "\n        <p>The recording industry, Metallica, and ultimately federal court put the brakes on Napster\u2019s music file sharing. But before exiting the stage, Napster changed the way we listen to music\u2014and how much we\u2019re willing to pay for it.</p><br/><p>[<strong>Editor\u2019s note - Sept. 1, 2020: </strong>This episode has been updated to reflect that \u201cCyberTalk\u201d was a group effort overseen by Jeff Gold. An earlier version characterized it as his solo effort.]</p><br/><p><br>Our sponsors this week:<br><strong>Bombas:\u00a0</strong><a href=\"http://bombas.com/spectacular\" class=\"c-link\">bombas.com/spectacular</a><br><strong>Policy Genius:\u00a0</strong><a href=\"http://policygenius.com/\" class=\"c-link\">policygenius.com</a><br><strong>NetSuite:\u00a0</strong><a href=\"http://netsuite.com/spectacular\" class=\"c-link\">netsuite.com/spectacular</a><br><br>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0<a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>.<br><br>Read the transcript of the episode at\u00a0<a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br><br>You can follow Spectacular Failures on\u00a0<a href=\"https://twitter.com/FailureShow\">Twitter</a>\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We&#39;re\u00a0<a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on\u00a0<a href=\"https://twitter.com/oberandOut\">Twitter</a>\u00a0and\u00a0<a href=\"https://www.instagram.com/oberandout/\">Instagram</a>\u00a0at @oberandout.</p>\n      ",
-            "contentSnippet": "The recording industry, Metallica, and ultimately federal court put the brakes on Napster\u2019s music file sharing. But before exiting the stage, Napster changed the way we listen to music\u2014and how much we\u2019re willing to pay for it.\n\n[Editor\u2019s note - Sept. 1, 2020: This episode has been updated to reflect that \u201cCyberTalk\u201d was a group effort overseen by Jeff Gold. An earlier version characterized it as his solo effort.]\n\nOur sponsors this week:\nBombas:\u00a0bombas.com/spectacular\nPolicy Genius:\u00a0policygenius.com\nNetSuite:\u00a0netsuite.com/spectacular\nSign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0spectacularfailures.org/newsletter.\nRead the transcript of the episode at\u00a0spectacularfailures.org.\nYou can follow Spectacular Failures on\u00a0Twitter\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We're\u00a0@failure_show on Instagram. Follow Lauren Ober on\u00a0Twitter\u00a0and\u00a0Instagram\u00a0at @oberandout.",
-            "enclosure": {
-                "length": "36989056",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/08/31/spectacular_failures_20200831_s2e5_128.mp3"
-            },
-            "guid": "01EGVFMC4MGA4H5YS3E3YS7HTJ",
-            "isoDate": "2020-08-31T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:38:25",
-                "episode": "5",
-                "episodeType": "full",
-                "explicit": "false",
-                "season": "2"
-            },
-            "pubDate": "Mon, 31 Aug 2020 10:00:00 +0000",
-            "title": "Napster fought the law and the law won"
-        },
-        {
-            "content": "\n        <p>When Hooker Chemical sold its infamous toxic waste landfill to the Niagara Falls School Board, the $1 deal left Niagara residents seriously ill. But few believed the company could truly be at fault...until it was too late.</p><br/><p>Our sponsors this week:<br><strong>NetSuite:</strong>\u00a0<a href=\"http://netsuite.com/spectacular\">netsuite.com/spectacular</a><br><strong>Betterhelp:</strong>\u00a0<a href=\"http://betterhelp.com/spectacular\" class=\"c-link\">betterhelp.com/spectacular</a><br><br>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0<a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>.<br><br>Read the transcript of the episode at\u00a0<a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br><br>You can follow Spectacular Failures on\u00a0<a href=\"https://twitter.com/FailureShow\">Twitter</a>\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We&#39;re\u00a0<a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on\u00a0<a href=\"https://twitter.com/oberandOut\">Twitter</a>\u00a0and\u00a0<a href=\"https://www.instagram.com/oberandout/\">Instagram</a>\u00a0at @oberandout.<br><br><br></p>\n      ",
-            "contentSnippet": "When Hooker Chemical sold its infamous toxic waste landfill to the Niagara Falls School Board, the $1 deal left Niagara residents seriously ill. But few believed the company could truly be at fault...until it was too late.\n\nOur sponsors this week:\nNetSuite:\u00a0netsuite.com/spectacular\nBetterhelp:\u00a0betterhelp.com/spectacular\nSign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0spectacularfailures.org/newsletter.\nRead the transcript of the episode at\u00a0spectacularfailures.org.\nYou can follow Spectacular Failures on\u00a0Twitter\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We're\u00a0@failure_show on Instagram. Follow Lauren Ober on\u00a0Twitter\u00a0and\u00a0Instagram\u00a0at @oberandout.",
-            "enclosure": {
-                "length": "38168704",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/08/24/spectacular_failures_20200824_s2e4_128.mp3"
-            },
-            "guid": "01EG9NCXBY36BT0VFJGY3SB5HP",
-            "isoDate": "2020-08-24T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:39:39",
-                "episode": "4",
-                "episodeType": "full",
-                "explicit": "false",
-                "season": "2"
-            },
-            "pubDate": "Mon, 24 Aug 2020 10:00:00 +0000",
-            "title": "The toxic tale of the Love Canal fail"
-        },
-        {
-            "content": "\n        <p>Livent was a showstopper of an operation. But eventually, forgery and fraud stole the scene, the money exited stage left, and the lead actor landed behind bars.<br><br>Our sponsors this week:<br>Indeed:\u00a0<a href=\"http://indeed.com/spectacular\" class=\"c-link\">indeed.com/spectacular</a><br>NetSuite:\u00a0<a href=\"http://netsuite.com/spectacular\" class=\"c-link\">netsuite.com/spectacular</a><br>The Great Courses Plus:\u00a0<a href=\"http://thegreatcoursesplus.com/spectacular\" class=\"c-link\">thegreatcoursesplus.com/spectacular</a><br><br>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0<a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>.<br><br>Read the transcript of the episode at\u00a0<a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br><br>You can follow Spectacular Failures on\u00a0<a href=\"https://twitter.com/FailureShow\">Twitter</a>\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We&#39;re\u00a0<a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on\u00a0<a href=\"https://twitter.com/oberandOut\">Twitter</a>\u00a0and\u00a0<a href=\"https://www.instagram.com/oberandout/\">Instagram</a>\u00a0at @oberandout.</p>\n      ",
-            "contentSnippet": "Livent was a showstopper of an operation. But eventually, forgery and fraud stole the scene, the money exited stage left, and the lead actor landed behind bars.\nOur sponsors this week:\nIndeed:\u00a0indeed.com/spectacular\nNetSuite:\u00a0netsuite.com/spectacular\nThe Great Courses Plus:\u00a0thegreatcoursesplus.com/spectacular\nSign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0spectacularfailures.org/newsletter.\nRead the transcript of the episode at\u00a0spectacularfailures.org.\nYou can follow Spectacular Failures on\u00a0Twitter\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We're\u00a0@failure_show on Instagram. Follow Lauren Ober on\u00a0Twitter\u00a0and\u00a0Instagram\u00a0at @oberandout.",
-            "enclosure": {
-                "length": "40333440",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/08/17/spectacular_failures_20200817_s2e3_128.mp3"
-            },
-            "guid": "01EFQ41RS2KN94PT71YC849ZCP",
-            "isoDate": "2020-08-17T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:41:54",
-                "episode": "3",
-                "episodeType": "full",
-                "explicit": "false",
-                "season": "2"
-            },
-            "pubDate": "Mon, 17 Aug 2020 10:00:00 +0000",
-            "title": "The curtain falls on a big Broadway company"
-        },
-        {
-            "content": "\n        <p>The mom-and-pop fast-fashion retailer exploded into malls across the globe. But eventually, Forever 21 unraveled like the hem on a cheap crop top.<br><br>Our sponsors this week:<br>Fiverr:\u00a0<a href=\"http://fiverr.com/\" class=\"c-link\">fiverr.com</a>\u00a0promo code SPECTACULAR<br>NetSuite:\u00a0<a href=\"http://netsuite.com/SPECTACULAR\" class=\"c-link\">NetSuite.com/SPECTACULAR</a><br>The Great Courses Plus:\u00a0<a href=\"http://thegreatcoursesplus.com/spectacular\" class=\"c-link\">thegreatcoursesplus.com/spectacular</a><br><br>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0<a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>.<br><br>Read the transcript of the episode at\u00a0<a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br><br>You can follow Spectacular Failures on\u00a0<a href=\"https://twitter.com/FailureShow\">Twitter</a>\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We&#39;re\u00a0<a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on\u00a0<a href=\"https://twitter.com/oberandOut\">Twitter</a>\u00a0and\u00a0<a href=\"https://www.instagram.com/oberandout/\">Instagram</a>\u00a0at @oberandout.<br></p>\n      ",
-            "contentSnippet": "The mom-and-pop fast-fashion retailer exploded into malls across the globe. But eventually, Forever 21 unraveled like the hem on a cheap crop top.\nOur sponsors this week:\nFiverr:\u00a0fiverr.com\u00a0promo code SPECTACULAR\nNetSuite:\u00a0NetSuite.com/SPECTACULAR\nThe Great Courses Plus:\u00a0thegreatcoursesplus.com/spectacular\nSign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at\u00a0spectacularfailures.org/newsletter.\nRead the transcript of the episode at\u00a0spectacularfailures.org.\nYou can follow Spectacular Failures on\u00a0Twitter\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We're\u00a0@failure_show on Instagram. Follow Lauren Ober on\u00a0Twitter\u00a0and\u00a0Instagram\u00a0at @oberandout.",
-            "enclosure": {
-                "length": "34336896",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/08/10/spectacular_failures_20200810_s2e2_128.mp3"
-            },
-            "guid": "01EF4V6RZ0W5Q0AMQKQHJKHA81",
-            "isoDate": "2020-08-10T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:35:39",
-                "episode": "2",
-                "episodeType": "full",
-                "explicit": "false",
-                "season": "2"
-            },
-            "pubDate": "Mon, 10 Aug 2020 10:00:00 +0000",
-            "title": "Forever 21 goes from rags to riches to bankruptcy court"
-        },
-        {
-            "content": "\n        <p>The meal kit delivery service was almost belly-up before the pandemic hit. But then people stuck cooking at home gave the brand a lifeline. Investors found it tastier than ever, but will customers still hanker for the big blue box once this is all over?<br><br><br>Our sponsors this week: Betterhelp:\u00a0<a href=\"http://betterhelp.com/spectacular\" class=\"c-link\">betterhelp.com/spectacular</a>\u00a0code\u00a0spectacular<br>NetSuite:\u00a0<a href=\"http://netsuite.com/spectacular\" class=\"c-link\">netsuite.com/spectacular</a><br>Policygenius:<strong>\u00a0</strong><a href=\"http://policygenius.com/\" class=\"c-link\">policygenius.com</a><br><br><br>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at <a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>. <br><br><br>Read the transcript of the episode at <a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br><br>You can follow Spectacular Failures on\u00a0<a href=\"https://twitter.com/FailureShow\">Twitter</a>\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We&#39;re\u00a0<a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on\u00a0<a href=\"https://twitter.com/oberandOut\">Twitter</a>\u00a0and\u00a0<a href=\"https://www.instagram.com/oberandout/\">Instagram</a>\u00a0at @oberandout.<br><br><br>Spectacular Failures is powered by you. Support the show with a donation at\u00a0<a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>\n      ",
-            "contentSnippet": "The meal kit delivery service was almost belly-up before the pandemic hit. But then people stuck cooking at home gave the brand a lifeline. Investors found it tastier than ever, but will customers still hanker for the big blue box once this is all over?\n\nOur sponsors this week: Betterhelp:\u00a0betterhelp.com/spectacular\u00a0code\u00a0spectacular\nNetSuite:\u00a0netsuite.com/spectacular\nPolicygenius:\u00a0policygenius.com\n\nSign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at spectacularfailures.org/newsletter. \n\nRead the transcript of the episode at spectacularfailures.org.\nYou can follow Spectacular Failures on\u00a0Twitter\u00a0at @failureshow and like us\u00a0at Facebook.com/failureshow. We're\u00a0@failure_show on Instagram. Follow Lauren Ober on\u00a0Twitter\u00a0and\u00a0Instagram\u00a0at @oberandout.\n\nSpectacular Failures is powered by you. Support the show with a donation at\u00a0spectacularfailures.org/donate.",
-            "enclosure": {
-                "length": "33947776",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/08/03/spectacular_failures_20200803_s2e1_128.mp3"
-            },
-            "guid": "01EEK5TBFCBM2XFV7JT3B0YP0D",
-            "isoDate": "2020-08-03T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:35:15",
-                "episode": "1",
-                "episodeType": "full",
-                "explicit": "false",
-                "season": "2"
-            },
-            "pubDate": "Mon, 03 Aug 2020 10:00:00 +0000",
-            "title": "Blue Apron wilts, then rises to a new challenge"
-        },
-        {
-            "content": "\n        <p>Spectacular Failures is back for season two, starting August 3rd! 2020 has been a year of fail. Global pandemic, check. Economic meltdown, check. Political unrest, check. Busted businesses and collapsed corporations are having a moment, and who better to tackle those tales than Lauren Ober and <em>Spectacular Failures</em>?<br><br>Sign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at <a href=\"http://spectacularfailures.org/newsletter\">spectacularfailures.org/newsletter</a>. </p><br/><p>Read the transcript of the trailer at <a href=\"https://www.spectacularfailures.org/\" class=\"default\">spectacularfailures.org</a>.<br></p>\n      ",
-            "contentSnippet": "Spectacular Failures is back for season two, starting August 3rd! 2020 has been a year of fail. Global pandemic, check. Economic meltdown, check. Political unrest, check. Busted businesses and collapsed corporations are having a moment, and who better to tackle those tales than Lauren Ober and Spectacular Failures?\nSign up to receive our brand new newsletter, featuring weekly recommendations from Lauren and the rest of the team at spectacularfailures.org/newsletter. \n\nRead the transcript of the trailer at spectacularfailures.org.",
-            "enclosure": {
-                "length": "1540224",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/07/20/spectacular_failures_20200720_S2Trailer_128.mp3"
-            },
-            "guid": "01EDFFGJXA3RG15QJS44R890FM",
-            "isoDate": "2020-07-20T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:01:30",
-                "episodeType": "trailer",
-                "explicit": "false",
-                "season": "2"
-            },
-            "pubDate": "Mon, 20 Jul 2020 10:00:00 +0000",
-            "title": "Spectacular Failures - Season Two"
-        },
-        {
-            "content": "\n        <p>By the time the final dice were thrown, Trump&#39;s Atlantic City casino operations had gone bankrupt six times. Despite that, Trump won the long game.</p><br/><p>You can follow Spectacular Failures on <a href=\"https://twitter.com/FailureShow\">Twitter</a> and <a href=\"http://facebook.com/failureshow\">Facebook</a> using @failureshow. We&#39;re <a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on <a href=\"https://twitter.com/oberandOut\">Twitter</a> and <a href=\"https://www.instagram.com/oberandout/\">Instagram</a> at @oberandout.</p><br/><p>Spectacular Failures is powered by you. Support the show with a donation at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>\n      ",
-            "contentSnippet": "By the time the final dice were thrown, Trump's Atlantic City casino operations had gone bankrupt six times. Despite that, Trump won the long game.\n\nYou can follow Spectacular Failures on Twitter and Facebook using @failureshow. We're @failure_show on Instagram. Follow Lauren Ober on Twitter and Instagram at @oberandout.\n\nSpectacular Failures is powered by you. Support the show with a donation at spectacularfailures.org/donate.",
-            "enclosure": {
-                "length": "40077440",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/08/19/spectacular_failures_20190819_10_128.mp3"
-            },
-            "guid": "01DJETD4NBQCEQ9F4901FVHRTB",
-            "isoDate": "2019-08-19T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:41:38",
-                "episode": "10",
-                "episodeType": "full",
-                "explicit": "false",
-                "season": "1"
-            },
-            "pubDate": "Mon, 19 Aug 2019 10:00:00 +0000",
-            "title": "Trump's big gamble on Atlantic City"
-        },
-        {
-            "content": "\n        <p>No amount of nostalgia could save Toys R Us from the private equity firms that owned it.</p><br/><p>You can follow Spectacular Failures on <a href=\"https://twitter.com/FailureShow\">Twitter</a> and <a href=\"http://facebook.com/failureshow\">Facebook</a> using @failureshow. We&#39;re <a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on <a href=\"https://twitter.com/oberandOut\">Twitter</a> and <a href=\"https://www.instagram.com/oberandout/\">Instagram</a> at @oberandout.</p><br/><p>Spectacular Failures is powered by you. Support the show with a donation at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>\n      ",
-            "contentSnippet": "No amount of nostalgia could save Toys R Us from the private equity firms that owned it.\n\nYou can follow Spectacular Failures on Twitter and Facebook using @failureshow. We're @failure_show on Instagram. Follow Lauren Ober on Twitter and Instagram at @oberandout.\n\nSpectacular Failures is powered by you. Support the show with a donation at spectacularfailures.org/donate.",
-            "enclosure": {
-                "length": "34740352",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/08/12/spectacular_failures_20190812_9_128.mp3"
-            },
-            "guid": "01DHW7DV2N540A5CY19WRK1DF4",
-            "isoDate": "2019-08-12T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:36:05",
-                "episode": "9",
-                "episodeType": "full",
-                "explicit": "false",
-                "season": "1"
-            },
-            "pubDate": "Mon, 12 Aug 2019 10:00:00 +0000",
-            "title": "Toys R Us goes bust"
-        },
-        {
-            "content": "\n        <p>Charles Keating robbed working people of their life savings and cost taxpayers billions of dollars. All under the watch of powerful politicians.</p><br/><p>You can follow Spectacular Failures on <a href=\"https://twitter.com/FailureShow\">Twitter</a> and <a href=\"http://facebook.com/failureshow\">Facebook</a> using @failureshow. We&#39;re <a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on <a href=\"https://twitter.com/oberandOut\">Twitter</a> and <a href=\"https://www.instagram.com/oberandout/\">Instagram</a> at @oberandout.</p><br/><p>Spectacular Failures is powered by you. Support the show with a donation at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>\n      ",
-            "contentSnippet": "Charles Keating robbed working people of their life savings and cost taxpayers billions of dollars. All under the watch of powerful politicians.\n\nYou can follow Spectacular Failures on Twitter and Facebook using @failureshow. We're @failure_show on Instagram. Follow Lauren Ober on Twitter and Instagram at @oberandout.\n\nSpectacular Failures is powered by you. Support the show with a donation at spectacularfailures.org/donate.",
-            "enclosure": {
-                "length": "35797120",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/08/05/spectacular_failures_20190805_8_128.mp3"
-            },
-            "guid": "01DHA5PT23EHT4VABAH4CPH1YR",
-            "isoDate": "2019-08-05T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:37:11",
-                "episode": "8",
-                "episodeType": "full",
-                "explicit": "false",
-                "season": "1"
-            },
-            "pubDate": "Mon, 05 Aug 2019 10:00:00 +0000",
-            "title": "Lincoln Savings loses it all"
-        },
-        {
-            "content": "\n        <p>The aftermath of the Triangle Shirtwaist Factory fire helped usher in higher wages, safer conditions and a prohibition on child labor. But the problems that led to the fire haven\u2019t gone away. Not even close.</p><br/><p>You can follow Spectacular Failures on <a href=\"https://twitter.com/FailureShow\">Twitter</a> and <a href=\"http://facebook.com/failureshow\">Facebook</a> using @failureshow. We&#39;re <a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on <a href=\"https://twitter.com/oberandOut\">Twitter</a> and <a href=\"https://www.instagram.com/oberandout/\">Instagram</a> at @oberandout.</p><br/><p>Spectacular Failures is powered by you. Support the show with a donation at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>\n      ",
-            "contentSnippet": "The aftermath of the Triangle Shirtwaist Factory fire helped usher in higher wages, safer conditions and a prohibition on child labor. But the problems that led to the fire haven\u2019t gone away. Not even close.\n\nYou can follow Spectacular Failures on Twitter and Facebook using @failureshow. We're @failure_show on Instagram. Follow Lauren Ober on Twitter and Instagram at @oberandout.\n\nSpectacular Failures is powered by you. Support the show with a donation at spectacularfailures.org/donate.",
-            "enclosure": {
-                "length": "34328704",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/07/29/spectacular_failures_20190729_7_128.mp3"
-            },
-            "guid": "01DGT31B4KE5P7D7XNGAHBNGKW",
-            "isoDate": "2019-07-29T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:35:39",
-                "episode": "7",
-                "episodeType": "full",
-                "explicit": "false",
-                "season": "1"
-            },
-            "pubDate": "Mon, 29 Jul 2019 10:00:00 +0000",
-            "title": "The inferno that transformed American labor"
-        },
-        {
-            "content": "\n        <p>Failed therapy sessions, fistfights in the board room and even murder accusations. U-Haul\u2019s trip to bankruptcy will make you think twice about mixing business and family.</p><br/><p>You can follow Spectacular Failures on <a href=\"https://twitter.com/FailureShow\">Twitter</a> and <a href=\"http://facebook.com/failureshow\">Facebook</a> using @failureshow. We&#39;re <a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on <a href=\"https://twitter.com/oberandOut\">Twitter</a> and <a href=\"https://www.instagram.com/oberandout/\">Instagram</a> at @oberandout.</p><br/><p>Spectacular Failures is powered by you. Support the show with a donation at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>\n      ",
-            "contentSnippet": "Failed therapy sessions, fistfights in the board room and even murder accusations. U-Haul\u2019s trip to bankruptcy will make you think twice about mixing business and family.\n\nYou can follow Spectacular Failures on Twitter and Facebook using @failureshow. We're @failure_show on Instagram. Follow Lauren Ober on Twitter and Instagram at @oberandout.\n\nSpectacular Failures is powered by you. Support the show with a donation at spectacularfailures.org/donate.",
-            "enclosure": {
-                "length": "32372864",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/07/22/spectacular_failures_20190722_6_128.mp3"
-            },
-            "guid": "01DG673ZN1PESWVSCDFJT5VYGK",
-            "isoDate": "2019-07-22T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:33:37",
-                "episode": "6",
-                "episodeType": "full",
-                "explicit": "false",
-                "season": "1"
-            },
-            "pubDate": "Mon, 22 Jul 2019 10:00:00 +0000",
-            "title": "Family fighting sends U-Haul on a detour"
-        },
-        {
-            "content": "\n        <p>The world&#39;s largest photography company pioneers the snapshot, invents the digital camera and... declares bankruptcy.</p><br/><p>You can follow Spectacular Failures on <a href=\"https://twitter.com/FailureShow\">Twitter</a> and <a href=\"http://facebook.com/failureshow\">Facebook</a> using @failureshow. We&#39;re <a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on <a href=\"https://twitter.com/oberandOut\">Twitter</a> and <a href=\"https://www.instagram.com/oberandout/\">Instagram</a> at @oberandout.</p><br/><p>Spectacular Failures is powered by you. Support the show with a donation at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>\n      ",
-            "contentSnippet": "The world's largest photography company pioneers the snapshot, invents the digital camera and... declares bankruptcy.\n\nYou can follow Spectacular Failures on Twitter and Facebook using @failureshow. We're @failure_show on Instagram. Follow Lauren Ober on Twitter and Instagram at @oberandout.\n\nSpectacular Failures is powered by you. Support the show with a donation at spectacularfailures.org/donate.",
-            "enclosure": {
-                "length": "31285376",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/07/15/spectacular_failures_20190715_5_128.mp3"
-            },
-            "guid": "01DFM78J25HHMP0P227WEQR7J0",
-            "isoDate": "2019-07-15T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:32:29",
-                "episode": "5",
-                "episodeType": "full",
-                "explicit": "false",
-                "season": "1"
-            },
-            "pubDate": "Mon, 15 Jul 2019 10:00:00 +0000",
-            "title": "Kodak misses its moment"
-        },
-        {
-            "content": "\n        <p>A family-owned business fights a billion-dollar, multinational company. And wins.</p><br/><p>You can follow Spectacular Failures on <a href=\"https://twitter.com/FailureShow\">Twitter</a> and <a href=\"http://facebook.com/failureshow\">Facebook</a> using @failureshow. We&#39;re <a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on <a href=\"https://twitter.com/oberandOut\">Twitter</a> and <a href=\"https://www.instagram.com/oberandout/\">Instagram</a> at @oberandout.</p><br/><p>Visit our website for this week\u2019s BizWiz link at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org</a></p><br/><p>Spectacular Failures is powered by you. Support the show with a donation at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>\n      ",
-            "contentSnippet": "A family-owned business fights a billion-dollar, multinational company. And wins.\n\nYou can follow Spectacular Failures on Twitter and Facebook using @failureshow. We're @failure_show on Instagram. Follow Lauren Ober on Twitter and Instagram at @oberandout.\n\nVisit our website for this week\u2019s BizWiz link at spectacularfailures.org\n\nSpectacular Failures is powered by you. Support the show with a donation at spectacularfailures.org/donate.",
-            "enclosure": {
-                "length": "25856128",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/07/08/spectacular_failures_20190708_4_128.mp3"
-            },
-            "guid": "01DF1Y4Y862FE0407AV3CN4Z04",
-            "isoDate": "2019-07-08T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:26:49",
-                "episode": "4",
-                "episodeType": "full",
-                "explicit": "false",
-                "season": "1"
-            },
-            "pubDate": "Mon, 08 Jul 2019 10:00:00 +0000",
-            "title": "A funeral industry giant keels over "
-        },
-        {
-            "content": "\n        <p>&quot;The beer that made Milwaukee famous&quot; cuts corners. And loses its most loyal customers. </p><br/><p>You can follow Spectacular Failures on <a href=\"https://twitter.com/FailureShow\">Twitter</a> and <a href=\"http://facebook.com/failureshow\">Facebook</a> using @failureshow. We&#39;re <a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>. Follow Lauren Ober on <a href=\"https://twitter.com/oberandOut\">Twitter</a> and <a href=\"https://www.instagram.com/oberandout/\">Instagram</a> at @oberandout. </p><br/><p>Spectacular Failures is powered by you. Support the show with a donation at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>\n      ",
-            "contentSnippet": "\"The beer that made Milwaukee famous\" cuts corners. And loses its most loyal customers. \n\nYou can follow Spectacular Failures on Twitter and Facebook using @failureshow. We're @failure_show on Instagram. Follow Lauren Ober on Twitter and Instagram at @oberandout. \n\nSpectacular Failures is powered by you. Support the show with a donation at spectacularfailures.org/donate.",
-            "enclosure": {
-                "length": "27527296",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/07/01/spectacular_failures_20190701_3_128.mp3"
-            },
-            "guid": "01DEFZRR6PRFB7MZYBRYZX1WBF",
-            "isoDate": "2019-07-01T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:28:34",
-                "episode": "3",
-                "episodeType": "full",
-                "explicit": "false",
-                "season": "1"
-            },
-            "pubDate": "Mon, 01 Jul 2019 10:00:00 +0000",
-            "title": "Schlitz Beer goes bad, then worse"
-        },
-        {
-            "content": "\n        <p>Unlimited movie theater tickets for $9.99 a month? It sounds too good to be true and, well... it might be.</p><br/><p>You can follow Spectacular Failures on <a href=\"https://twitter.com/FailureShow\">Twitter</a> and <a href=\"http://facebook.com/failureshow\">Facebook</a> using @failureshow. We&#39;re <a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>, where you can see photos from Lauren&#39;s tour of the former Heritage USA property. Follow Lauren Ober on <a href=\"https://twitter.com/oberandOut\">Twitter</a> and <a href=\"https://www.instagram.com/oberandout/\">Instagram</a> at @oberandout.</p><br/><p>Spectacular Failures is powered by you. Support the show with a donation at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>\n      ",
-            "contentSnippet": "Unlimited movie theater tickets for $9.99 a month? It sounds too good to be true and, well... it might be.\n\nYou can follow Spectacular Failures on Twitter and Facebook using @failureshow. We're @failure_show on Instagram, where you can see photos from Lauren's tour of the former Heritage USA property. Follow Lauren Ober on Twitter and Instagram at @oberandout.\n\nSpectacular Failures is powered by you. Support the show with a donation at spectacularfailures.org/donate.",
-            "enclosure": {
-                "length": "27963520",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/06/24/spectacular_failures_20190624_2_128.mp3"
-            },
-            "guid": "01DDY1485A4KGZ4AJJFWQVN8GQ",
-            "isoDate": "2019-06-24T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:29:01",
-                "episode": "2",
-                "episodeType": "full",
-                "explicit": "false",
-                "season": "1"
-            },
-            "pubDate": "Mon, 24 Jun 2019 10:00:00 +0000",
-            "title": "MoviePass begins with plenty of drama"
-        },
-        {
-            "content": "\n        <p>How Jim and Tammy Faye Bakker\u2019s wildly popular Christian theme park was upended by fraud, scandal and lavish spending.</p><br/><p>You can follow Spectacular Failures on <a href=\"https://twitter.com/FailureShow\">Twitter</a> and <a href=\"http://facebook.com/failureshow\">Facebook</a> using @failureshow. We&#39;re <a href=\"https://www.instagram.com/failure_show/\">@failure_show on Instagram</a>, where you can see photos from Lauren&#39;s tour of the former Heritage USA property. Follow Lauren Ober on <a href=\"https://twitter.com/oberandOut\">Twitter</a> and <a href=\"https://www.instagram.com/oberandout/\">Instagram</a> at @oberandout.</p><br/><p>Spectacular Failures is powered by you. Support the show with a donation at <a href=\"http://spectacularfailures.org/donate\">spectacularfailures.org/donate</a>.</p>\n      ",
-            "contentSnippet": "How Jim and Tammy Faye Bakker\u2019s wildly popular Christian theme park was upended by fraud, scandal and lavish spending.\n\nYou can follow Spectacular Failures on Twitter and Facebook using @failureshow. We're @failure_show on Instagram, where you can see photos from Lauren's tour of the former Heritage USA property. Follow Lauren Ober on Twitter and Instagram at @oberandout.\n\nSpectacular Failures is powered by you. Support the show with a donation at spectacularfailures.org/donate.",
-            "enclosure": {
-                "length": "30046336",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/06/17/spectacular_failures_20190617_1_128.mp3"
-            },
-            "guid": "01DD9RTJ8H4MMW1NSC30QA2F2P",
-            "isoDate": "2019-06-17T10:00:00.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:31:11",
-                "episode": "1",
-                "episodeType": "full",
-                "explicit": "false",
-                "season": "1"
-            },
-            "pubDate": "Mon, 17 Jun 2019 10:00:00 +0000",
-            "title": "A Christian theme park plunges into scandal "
-        },
-        {
-            "content": "\n        <p>Corporate crookedness. Family feuding. Hilariously half-baked decisions. Host Lauren Ober tackles some of the most spectacular business failures of all time, and what could have been done to avoid them. Coming June 17.</p>\n      ",
-            "contentSnippet": "Corporate crookedness. Family feuding. Hilariously half-baked decisions. Host Lauren Ober tackles some of the most spectacular business failures of all time, and what could have been done to avoid them. Coming June 17.",
-            "enclosure": {
-                "length": "2500736",
-                "type": "audio/mpeg",
-                "url": "https://play.podtrac.com/APM-SpectacularFailures/chrt.fm/track/3G835/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/05/31/spectacular_failures_20190531_0_128.mp3"
-            },
-            "guid": "01DC5CF2QDERNFSN1RD7JBVYN4",
-            "isoDate": "2019-05-30T22:06:18.000Z",
-            "itunes": {
-                "author": "American Public Media",
-                "duration": "00:02:30",
-                "episodeType": "trailer",
-                "explicit": "false",
-                "season": "1"
-            },
-            "pubDate": "Thu, 30 May 2019 22:06:18 +0000",
-            "title": "Introducing Spectacular Failures"
+            "itunes:type": "serial",
+            "language": "en",
+            "link": "https://www.spectacularfailures.org/",
+            "title": "Spectacular Failures",
+            "ttl": "60"
         }
-    ],
-    "itunes": {
-        "author": "American Public Media",
-        "categories": [
-            "Business"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Business",
-                "subs": [
-                    {
-                        "name": "Management"
-                    }
-                ]
-            }
-        ],
-        "explicit": "false",
-        "image": "https://img.apmcdn.org/28942b1bf89fc2b330da8d43a31cf5e7de726a62/uncropped/a53f2c-20210901-spectacular-failures-apm-studios-podcast-art-2000.jpg",
-        "owner": {
-            "email": "podcasts@americanpublicmedia.org",
-            "name": "American Public Media"
-        }
-    },
-    "language": "en",
-    "link": "https://www.spectacularfailures.org/",
-    "paginationLinks": {
-        "self": "https://feeds.publicradio.org/public_feeds/spectacular-failures/itunes/rss.rss"
-    },
-    "palette": [
-        "D3B498",
-        "04ABCB",
-        "2F3E41",
-        "4E7B79",
-        "2D5364",
-        "74DFE7"
-    ],
-    "title": "Spectacular Failures",
-    "ttl": "60"
+    }
 }

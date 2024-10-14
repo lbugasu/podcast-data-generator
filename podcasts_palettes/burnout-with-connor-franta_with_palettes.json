@@ -1,246 +1,350 @@
 {
-    "copyright": "2024 Lemonada Media Inc.",
-    "description": "<p>Burnout: You\u2019ve read about it. You\u2019ve heard about it. Heck, you\u2019re probably living it. And you\u2019ve probably tried everything to fix it. Levels of burnout are reaching new all-time highs, every single day. And the pandemic has only made things worse. This new series, hosted by Connor Franta, looks into how society reached a burning point and what we can do - really, actually do - to break the cycle. With his signature wit and charm, Connor explores the story of burnout, discovers how it affects your body and mind, and looks at why the easy solutions simply won\u2019t work to solve a systemic problem. From Lemonada and Mindful.</p>\r\n<p>\u00a0</p>",
-    "feedUrl": "https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/06046b7b-1c27-41f9-b08e-ae7e0145985a/podcast.rss",
-    "image": {
-        "link": "http://www.lemonadamedia.com",
-        "title": "Burnout with Connor Franta",
-        "url": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large"
-    },
-    "items": [
-        {
-            "content": "<p>We\u2019re so excited to drop in your feed today to let you know about Lemonada Media\u2019s newest podcast, Boneheads, the official rewatch podcast for the hit TV show Bones. Bones cast members Emily Deschanel and Carla Gallo will be watching all 246 episodes of Fox TV\u2019s longest running drama series from start to finish, and documenting all of their thoughts, questions, and comments along the way. <br><br>Join Emily and Carla every Wednesday to laugh, cry, and cringe with them as they rewatch their younger selves, chat with guests, and hear all of the insider stories they have to share about the Bones experience.\u00a0\u00a0</p> <p>You\u2019re about to hear the first episode of Boneheads. If you want to hear more episodes, search for Boneheads wherever you get your podcasts or head to <a href=\"https://lemonada.lnk.to/Boneheadsfd\">https://lemonada.lnk.to/Boneheadsfd</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>We\u2019re so excited to drop in your feed today to let you know about Lemonada Media\u2019s newest podcast, Boneheads, the official rewatch podcast for the hit TV show Bones. Bones cast members Emily Deschanel and Carla Gallo will be watching all 246 episodes of Fox TV\u2019s longest running drama series from start to finish, and documenting all of their thoughts, questions, and comments along the way. <br><br>Join Emily and Carla every Wednesday to laugh, cry, and cringe with them as they rewatch their younger selves, chat with guests, and hear all of the insider stories they have to share about the Bones experience.\u00a0\u00a0</p> <p>You\u2019re about to hear the first episode of Boneheads. If you want to hear more episodes, search for Boneheads wherever you get your podcasts or head to <a href=\"https://lemonada.lnk.to/Boneheadsfd\">https://lemonada.lnk.to/Boneheadsfd</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "We\u2019re so excited to drop in your feed today to let you know about Lemonada Media\u2019s newest podcast, Boneheads, the official rewatch podcast for the hit TV show Bones. Bones cast members Emily Deschanel and Carla Gallo will be watching all 246 episodes of Fox TV\u2019s longest running drama series from start to finish, and documenting all of their thoughts, questions, and comments along the way. \nJoin Emily and Carla every Wednesday to laugh, cry, and cringe with them as they rewatch their younger selves, chat with guests, and hear all of the insider stories they have to share about the Bones experience.\u00a0\u00a0\n You\u2019re about to hear the first episode of Boneheads. If you want to hear more episodes, search for Boneheads wherever you get your podcasts or head to https://lemonada.lnk.to/Boneheadsfd\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "We\u2019re so excited to drop in your feed today to let you know about Lemonada Media\u2019s newest podcast, Boneheads, the official rewatch podcast for the hit TV show Bones. Bones cast members Emily Deschanel and Carla Gallo will be watching all 246 episodes of Fox TV\u2019s longest running drama series from start to finish, and documenting all of their thoughts, questions, and comments along the way. \nJoin Emily and Carla every Wednesday to laugh, cry, and cringe with them as they rewatch their younger selves, chat with guests, and hear all of the insider stories they have to share about the Bones experience.\u00a0\u00a0\n You\u2019re about to hear the first episode of Boneheads. If you want to hear more episodes, search for Boneheads wherever you get your podcasts or head to https://lemonada.lnk.to/Boneheadsfd\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "57850781",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/f318aa73-50b9-4be2-ba33-b1f00125ef73/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:acast": "https://schema.acast.com/1.0/",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:media": "http://search.yahoo.com/mrss/",
+        "@xmlns:omny": "https://omny.fm/rss-extensions",
+        "@xmlns:podcast": "https://podcastindex.org/namespace/1.0",
+        "@xmlns:psc": "http://podlove.org/simple-chapters",
+        "channel": {
+            "atom:link": [
+                {
+                    "@href": "https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/06046b7b-1c27-41f9-b08e-ae7e0145985a/podcast.rss",
+                    "@rel": "self",
+                    "@type": "application/rss+xml"
+                },
+                {
+                    "@href": "https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/06046b7b-1c27-41f9-b08e-ae7e0145985a/podcast.rss?page=1",
+                    "@rel": "first",
+                    "@type": "application/rss+xml"
+                },
+                {
+                    "@href": "https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/06046b7b-1c27-41f9-b08e-ae7e0145985a/podcast.rss?page=1",
+                    "@rel": "last",
+                    "@type": "application/rss+xml"
+                }
+            ],
+            "copyright": "2024 Lemonada Media Inc.",
+            "description": "<p>Burnout: You\u2019ve read about it. You\u2019ve heard about it. Heck, you\u2019re probably living it. And you\u2019ve probably tried everything to fix it. Levels of burnout are reaching new all-time highs, every single day. And the pandemic has only made things worse. This new series, hosted by Connor Franta, looks into how society reached a burning point and what we can do - really, actually do - to break the cycle. With his signature wit and charm, Connor explores the story of burnout, discovers how it affects your body and mind, and looks at why the easy solutions simply won\u2019t work to solve a systemic problem. From Lemonada and Mindful.</p>\n<p>\u00a0</p>",
+            "image": {
+                "link": "http://www.lemonadamedia.com",
+                "palette": [
+                    "3B7BF3",
+                    "E0E0D6",
+                    "091216",
+                    "88A2DA",
+                    "91CBAF",
+                    "213C7C"
+                ],
+                "title": "Burnout with Connor Franta",
+                "url": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large"
             },
-            "guid": "f318aa73-50b9-4be2-ba33-b1f00125ef73",
-            "isoDate": "2024-09-20T07:30:00.000Z",
-            "itunes": {
-                "author": "Lemonada Media",
-                "duration": "3613",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large",
-                "season": "1"
+            "item": [
+                {
+                    "content:encoded": "<p>We\u2019re so excited to let you know that Wiser Than Me with Julia Louis-Dreyfus - is BACK for a third season \u2013 with even more wisdom from some legendary older women! Each week, you\u2019ll hear Julia have insightful, funny, and important conversations with these ladies who have so much to teach us about living unapologetically and focusing on the stuff that really matters. This season is yet again chock-full of marvelous guests, and, as always, every episode ends with a conversation between Julia and her 90-year-old mom Judy.\u00a0</p> <p>You\u2019re about to hear an extended clip of the first episode of season 3 of the show, featuring the remarkable scientist and researcher, Doctor Jane Goodall. After you listen, search for Wiser Than Me in your podcast app to hear the rest of the episode or head to <a href=\"https://lemonada.lnk.to/wiserthanmefd\">https://lemonada.lnk.to/wiserthanmefd</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>We\u2019re so excited to let you know that Wiser Than Me with Julia Louis-Dreyfus - is BACK for a third season \u2013 with even more wisdom from some legendary older women! Each week, you\u2019ll hear Julia have insightful, funny, and important conversations with these ladies who have so much to teach us about living unapologetically and focusing on the stuff that really matters. This season is yet again chock-full of marvelous guests, and, as always, every episode ends with a conversation between Julia and her 90-year-old mom Judy.\u00a0</p> <p>You\u2019re about to hear an extended clip of the first episode of season 3 of the show, featuring the remarkable scientist and researcher, Doctor Jane Goodall. After you listen, search for Wiser Than Me in your podcast app to hear the rest of the episode or head to <a href=\"https://lemonada.lnk.to/wiserthanmefd\">https://lemonada.lnk.to/wiserthanmefd</a>.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "22710380",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/882b01b4-4db0-4d01-a158-b202014e3cf3/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a"
+                    },
+                    "guid": {
+                        "#text": "882b01b4-4db0-4d01-a158-b202014e3cf3",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Lemonada Media",
+                    "itunes:duration": "1417",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "Listen Now: Wiser Than Me is Back!",
+                    "link": "https://omny.fm/shows/burnout/back-catalogue-wtm-s3-feed-drop-final",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/882b01b4-4db0-4d01-a158-b202014e3cf3/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/burnout/back-catalogue-wtm-s3-feed-drop-final/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "882b01b4-4db0-4d01-a158-b202014e3cf3",
+                    "pubDate": "Wed, 09 Oct 2024 07:30:00 +0000",
+                    "title": "Listen Now: Wiser Than Me is Back!"
+                },
+                {
+                    "content:encoded": "<p>Recorded and produced by StoryCorps Studios, Voices From the Frontlines is a project created by #FirstRespondersFirst, an initiative of Harvard T.H. Chan School of Public Health, Thrive Global, and Creative Artists Agency Foundation that takes a whole human approach to healthcare worker well-being. Additional support is provided by the Dr. Lorna Breen Heroes\u2019 Foundation. In this conversation, Dr. Mona Masood and her friend and colleague Dr. Nancy Burkey discuss the creation of the Physician Support Line during the COVID-19 pandemic and their ongoing mission to provide mental health support to physicians, residents, and medical students throughout the United States.</p> <p>To listen to more stories and access resources, visit allinforhealthcare.org</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>Recorded and produced by StoryCorps Studios, Voices From the Frontlines is a project created by #FirstRespondersFirst, an initiative of Harvard T.H. Chan School of Public Health, Thrive Global, and Creative Artists Agency Foundation that takes a whole human approach to healthcare worker well-being. Additional support is provided by the Dr. Lorna Breen Heroes\u2019 Foundation. In this conversation, Dr. Mona Masood and her friend and colleague Dr. Nancy Burkey discuss the creation of the Physician Support Line during the COVID-19 pandemic and their ongoing mission to provide mental health support to physicians, residents, and medical students throughout the United States.</p> <p>To listen to more stories and access resources, visit allinforhealthcare.org</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "4305420",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/cc16b371-b754-40c0-956f-af5f011fa6af/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a"
+                    },
+                    "guid": {
+                        "#text": "cc16b371-b754-40c0-956f-af5f011fa6af",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Lemonada Media",
+                    "itunes:duration": "266",
+                    "itunes:episode": "5",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "clean",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "Burnout: Voices from the Frontlines",
+                    "link": "https://omny.fm/shows/burnout/burnout-voices-from-the-frontlines",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/cc16b371-b754-40c0-956f-af5f011fa6af/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/burnout/burnout-voices-from-the-frontlines/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "cc16b371-b754-40c0-956f-af5f011fa6af",
+                    "pubDate": "Tue, 06 Dec 2022 08:30:00 +0000",
+                    "title": "Burnout: Voices from the Frontlines"
+                },
+                {
+                    "content:encoded": "<p>This week, we look at how burnout is inevitable in a system set up to squeeze all the juice out of its workforce. Everyone&rsquo;s suffering. Does it have to be this way? We don&rsquo;t think so. Listen to find hope in a burned-out world: for you, for all of us.</p> <p>Burnout is created in collaboration with Mindful.org. Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.&nbsp; \"To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to <a href=\"http://mindful.org/burnout\">mindful.org/burnout</a>!</p> <p>Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.&nbsp;</p> <p>Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.&nbsp;</p> <p>Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: <a href=\"http://lemonadamedia.com/sponsors\">lemonadamedia.com/sponsors</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>This week, we look at how burnout is inevitable in a system set up to squeeze all the juice out of its workforce. Everyone&rsquo;s suffering. Does it have to be this way? We don&rsquo;t think so. Listen to find hope in a burned-out world: for you, for all of us.</p> <p>Burnout is created in collaboration with Mindful.org. Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.&nbsp; \"To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to <a href=\"http://mindful.org/burnout\">mindful.org/burnout</a>!</p> <p>Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.&nbsp;</p> <p>Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.&nbsp;</p> <p>Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: <a href=\"http://lemonadamedia.com/sponsors\">lemonadamedia.com/sponsors</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "47583935",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/d25b1f71-4583-4583-b60e-aea30008791c/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a"
+                    },
+                    "guid": {
+                        "#text": "d25b1f71-4583-4583-b60e-aea30008791c",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Lemonada Media",
+                    "itunes:duration": "2971",
+                    "itunes:episode": "4",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "clean",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "The System Was Built This Way, But We Can Rebuild It",
+                    "link": "https://omny.fm/shows/burnout/the-system-was-built-this-way-but-we-can-rebuild-i",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/d25b1f71-4583-4583-b60e-aea30008791c/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/burnout/the-system-was-built-this-way-but-we-can-rebuild-i/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "d25b1f71-4583-4583-b60e-aea30008791c",
+                    "pubDate": "Tue, 31 May 2022 07:30:00 +0000",
+                    "title": "The System Was Built This Way, But We Can Rebuild It"
+                },
+                {
+                    "content:encoded": "<p>Before Shannon quit her job in talent management, work was so taxing that she would dream of being admitted to the hospital, just so she&rsquo;d have a good excuse to not answer her email. In this episode, explore the dissonance of a society that asks us to choose between health, family and our career. We also explore ways to help us survive and thrive in the midst of hustle culture.&nbsp;</p> <p>Burnout is created in collaboration with Mindful.org. Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.&nbsp; \"To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to <a href=\"http://mindful.org/burnout\">mindful.org/burnout</a>!</p> <p>Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.&nbsp;</p> <p>Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.&nbsp;Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: <a href=\"http://lemonadamedia.com/sponsors\">lemonadamedia.com/sponsors</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>Before Shannon quit her job in talent management, work was so taxing that she would dream of being admitted to the hospital, just so she&rsquo;d have a good excuse to not answer her email. In this episode, explore the dissonance of a society that asks us to choose between health, family and our career. We also explore ways to help us survive and thrive in the midst of hustle culture.&nbsp;</p> <p>Burnout is created in collaboration with Mindful.org. Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.&nbsp; \"To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to <a href=\"http://mindful.org/burnout\">mindful.org/burnout</a>!</p> <p>Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.&nbsp;</p> <p>Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.&nbsp;Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: <a href=\"http://lemonadamedia.com/sponsors\">lemonadamedia.com/sponsors</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "43667221",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/718b3de9-9495-49ad-b6c0-ae9b0169df57/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a"
+                    },
+                    "guid": {
+                        "#text": "718b3de9-9495-49ad-b6c0-ae9b0169df57",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Lemonada Media",
+                    "itunes:duration": "2726",
+                    "itunes:episode": "3",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "clean",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "Breaking Free from Hustle Culture",
+                    "link": "https://omny.fm/shows/burnout/breaking-free-from-hustle-culture",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/718b3de9-9495-49ad-b6c0-ae9b0169df57/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/burnout/breaking-free-from-hustle-culture/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "718b3de9-9495-49ad-b6c0-ae9b0169df57",
+                    "pubDate": "Tue, 24 May 2022 07:30:00 +0000",
+                    "title": "Breaking Free from Hustle Culture"
+                },
+                {
+                    "content:encoded": "<p>In March 2020, when the pandemic hit, Chris Smalls was an hourly worker at a warehouse in Staten Island. Today, he is the president of the Amazon Labor Union. In this episode, we learn about how working conditions can contribute to burnout in workplaces across America. We&rsquo;ll also hear about what we can all do to redesign workplaces to avoid burnout.&nbsp;</p> <p><em>Correction: A previous version of this episode had an incorrect statistic related to Amazon&rsquo;s hiring pacing, which has since been removed.</em></p> <p>Burnout is created in collaboration with Mindful.org.&nbsp; Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.&nbsp; To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to <a href=\"https://www.mindful.org/burnout/\">mindful.org/burnout!</a></p> <p>Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.&nbsp;</p> <p>Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.&nbsp;</p> <p>Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: <a href=\"http://lemonadamedia.com/sponsors\">lemonadamedia.com/sponsors</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>In March 2020, when the pandemic hit, Chris Smalls was an hourly worker at a warehouse in Staten Island. Today, he is the president of the Amazon Labor Union. In this episode, we learn about how working conditions can contribute to burnout in workplaces across America. We&rsquo;ll also hear about what we can all do to redesign workplaces to avoid burnout.&nbsp;</p> <p><em>Correction: A previous version of this episode had an incorrect statistic related to Amazon&rsquo;s hiring pacing, which has since been removed.</em></p> <p>Burnout is created in collaboration with Mindful.org.&nbsp; Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.&nbsp; To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to <a href=\"https://www.mindful.org/burnout/\">mindful.org/burnout!</a></p> <p>Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.&nbsp;</p> <p>Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.&nbsp;</p> <p>Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: <a href=\"http://lemonadamedia.com/sponsors\">lemonadamedia.com/sponsors</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "50432731",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/3bd50c6b-4d05-4194-a5b0-ae9401298c1b/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a"
+                    },
+                    "guid": {
+                        "#text": "3bd50c6b-4d05-4194-a5b0-ae9401298c1b",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Lemonada Media",
+                    "itunes:duration": "3149",
+                    "itunes:episode": "2",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "clean",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "When We All Show Up Burned Out At Work",
+                    "link": "https://omny.fm/shows/burnout/when-we-all-show-up-burned-out-at-work",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/3bd50c6b-4d05-4194-a5b0-ae9401298c1b/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/burnout/when-we-all-show-up-burned-out-at-work/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "3bd50c6b-4d05-4194-a5b0-ae9401298c1b",
+                    "pubDate": "Tue, 17 May 2022 07:30:00 +0000",
+                    "title": "When We All Show Up Burned Out At Work"
+                },
+                {
+                    "content:encoded": "<p>Burnout. It&rsquo;s all over the news, it&rsquo;s all over your social feeds. You&rsquo;re probably living some version of it, but aren&rsquo;t sure what it is and how to change it. Let&rsquo;s take a closer look at the physiology of burnout together. We&rsquo;ll look at the history of how we talk about burnout, and learn about how it can show up differently in different people.&nbsp;</p> <p>Burnout is created in collaboration with Mindful.org.&nbsp; Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.&nbsp; To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to <a href=\"https://www.mindful.org/burnout/\">mindful.org/burnout</a>!</p> <p>Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.&nbsp;</p> <p>Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.&nbsp;</p> <p>Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: <a href=\"http://lemonadamedia.com/sponsors\">lemonadamedia.com/sponsors</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>Burnout. It&rsquo;s all over the news, it&rsquo;s all over your social feeds. You&rsquo;re probably living some version of it, but aren&rsquo;t sure what it is and how to change it. Let&rsquo;s take a closer look at the physiology of burnout together. We&rsquo;ll look at the history of how we talk about burnout, and learn about how it can show up differently in different people.&nbsp;</p> <p>Burnout is created in collaboration with Mindful.org.&nbsp; Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.&nbsp; To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to <a href=\"https://www.mindful.org/burnout/\">mindful.org/burnout</a>!</p> <p>Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.&nbsp;</p> <p>Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.&nbsp;</p> <p>Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: <a href=\"http://lemonadamedia.com/sponsors\">lemonadamedia.com/sponsors</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "57707286",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/8b1797d8-fe76-4c75-b79e-ae8d0140cd8b/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a"
+                    },
+                    "guid": {
+                        "#text": "8b1797d8-fe76-4c75-b79e-ae8d0140cd8b",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Lemonada Media",
+                    "itunes:duration": "3604",
+                    "itunes:episode": "1",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "clean",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "We Can\u2019t Live Like This Anymore",
+                    "link": "https://omny.fm/shows/burnout/episode-1-we-can-t-live-like-this-anymore",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/8b1797d8-fe76-4c75-b79e-ae8d0140cd8b/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/burnout/episode-1-we-can-t-live-like-this-anymore/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "8b1797d8-fe76-4c75-b79e-ae8d0140cd8b",
+                    "pubDate": "Tue, 10 May 2022 07:30:00 +0000",
+                    "title": "We Can\u2019t Live Like This Anymore"
+                },
+                {
+                    "content:encoded": "<p>It&rsquo;s hard to find someone who hasn&rsquo;t experienced burnout. Bringing wit, humor and doable solutions, host Connor Franta talks to people in all industries at all levels, people with real answers at small and big scales, and helps us understand how we got here and how we work to create a new way of working &ndash; and living. Coming May 10, from Lemonada and Mindful.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>It&rsquo;s hard to find someone who hasn&rsquo;t experienced burnout. Bringing wit, humor and doable solutions, host Connor Franta talks to people in all industries at all levels, people with real answers at small and big scales, and helps us understand how we got here and how we work to create a new way of working &ndash; and living. Coming May 10, from Lemonada and Mindful.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "2247773",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/b01f2514-cb23-4929-baee-ae7f011ad1c8/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a"
+                    },
+                    "guid": {
+                        "#text": "b01f2514-cb23-4929-baee-ae7f011ad1c8",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Lemonada Media",
+                    "itunes:duration": "138",
+                    "itunes:episodeType": "trailer",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "Introducing: Burnout",
+                    "link": "https://omny.fm/shows/burnout/introducing-burnout",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/b01f2514-cb23-4929-baee-ae7f011ad1c8/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/burnout/introducing-burnout/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "b01f2514-cb23-4929-baee-ae7f011ad1c8",
+                    "pubDate": "Fri, 22 Apr 2022 17:32:24 +0000",
+                    "title": "Introducing: Burnout"
+                }
+            ],
+            "itunes:author": "Lemonada Media",
+            "itunes:category": {
+                "@text": "Health & Fitness",
+                "itunes:category": {
+                    "@text": "Mental Health"
+                }
             },
-            "link": "https://omny.fm/shows/burnout/listen-now-boneheads",
-            "pubDate": "Fri, 20 Sep 2024 07:30:00 +0000",
-            "title": "Listen Now: Boneheads"
-        },
-        {
-            "content": "<p>We\u2019re excited to tell you about a brand new storytelling show \u2013 hosted and produced by the amazing Lupita Nyong\u2019o \u2013 that we are just loving. It\u2019s called Mind Your Own, and it\u2019s about navigating what it means to belong, all from the African perspective.\u00a0</p> <p>Lupita Nyong\u2019o knows what home feels like. But where exactly is it? In Mexico, where she was born? Kenya, where she grew up? Or the States, where she\u2019s spent the past 20 years? Like Lupita, millions of Africans are spread out across the globe following family, searching for love, building futures and creating stories. It's these stories \u2013 wild and messy, intimate and joyous \u2013 that she wants to hear.</p> <p>Here\u2019s a sneak peek of Mind Your Own episode 1. It\u2019s about what it\u2019s like to try to find your voice. You\u2019ll hear a story from Lupita, and then you\u2019ll meet a Ghanaian who rediscovered his voice after losing it. Mind Your Own \u2013 listen to the full episode wherever you get your podcasts or head to <a href=\"https://lemonada.lnk.to/mindyourownfd\">https://lemonada.lnk.to/mindyourownfd</a><strong>.</strong></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>We\u2019re excited to tell you about a brand new storytelling show \u2013 hosted and produced by the amazing Lupita Nyong\u2019o \u2013 that we are just loving. It\u2019s called Mind Your Own, and it\u2019s about navigating what it means to belong, all from the African perspective.\u00a0</p> <p>Lupita Nyong\u2019o knows what home feels like. But where exactly is it? In Mexico, where she was born? Kenya, where she grew up? Or the States, where she\u2019s spent the past 20 years? Like Lupita, millions of Africans are spread out across the globe following family, searching for love, building futures and creating stories. It's these stories \u2013 wild and messy, intimate and joyous \u2013 that she wants to hear.</p> <p>Here\u2019s a sneak peek of Mind Your Own episode 1. It\u2019s about what it\u2019s like to try to find your voice. You\u2019ll hear a story from Lupita, and then you\u2019ll meet a Ghanaian who rediscovered his voice after losing it. Mind Your Own \u2013 listen to the full episode wherever you get your podcasts or head to <a href=\"https://lemonada.lnk.to/mindyourownfd\">https://lemonada.lnk.to/mindyourownfd</a><strong>.</strong></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "We\u2019re excited to tell you about a brand new storytelling show \u2013 hosted and produced by the amazing Lupita Nyong\u2019o \u2013 that we are just loving. It\u2019s called Mind Your Own, and it\u2019s about navigating what it means to belong, all from the African perspective.\u00a0\n Lupita Nyong\u2019o knows what home feels like. But where exactly is it? In Mexico, where she was born? Kenya, where she grew up? Or the States, where she\u2019s spent the past 20 years? Like Lupita, millions of Africans are spread out across the globe following family, searching for love, building futures and creating stories. It's these stories \u2013 wild and messy, intimate and joyous \u2013 that she wants to hear.\n Here\u2019s a sneak peek of Mind Your Own episode 1. It\u2019s about what it\u2019s like to try to find your voice. You\u2019ll hear a story from Lupita, and then you\u2019ll meet a Ghanaian who rediscovered his voice after losing it. Mind Your Own \u2013 listen to the full episode wherever you get your podcasts or head to https://lemonada.lnk.to/mindyourownfd.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "We\u2019re excited to tell you about a brand new storytelling show \u2013 hosted and produced by the amazing Lupita Nyong\u2019o \u2013 that we are just loving. It\u2019s called Mind Your Own, and it\u2019s about navigating what it means to belong, all from the African perspective.\u00a0\n Lupita Nyong\u2019o knows what home feels like. But where exactly is it? In Mexico, where she was born? Kenya, where she grew up? Or the States, where she\u2019s spent the past 20 years? Like Lupita, millions of Africans are spread out across the globe following family, searching for love, building futures and creating stories. It's these stories \u2013 wild and messy, intimate and joyous \u2013 that she wants to hear.\n Here\u2019s a sneak peek of Mind Your Own episode 1. It\u2019s about what it\u2019s like to try to find your voice. You\u2019ll hear a story from Lupita, and then you\u2019ll meet a Ghanaian who rediscovered his voice after losing it. Mind Your Own \u2013 listen to the full episode wherever you get your podcasts or head to https://lemonada.lnk.to/mindyourownfd.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "18027161",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/d19e8ae9-61e3-4761-8a2c-b1ee01313455/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a"
+            "itunes:explicit": "no",
+            "itunes:image": {
+                "@href": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large"
             },
-            "guid": "d19e8ae9-61e3-4761-8a2c-b1ee01313455",
-            "isoDate": "2024-09-19T07:30:00.000Z",
-            "itunes": {
-                "author": "Lemonada Media",
-                "duration": "1124",
-                "episodeType": "full",
-                "explicit": "clean",
-                "image": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large",
-                "season": "1"
+            "itunes:owner": {
+                "itunes:email": "hey@lemonadamedia.com",
+                "itunes:name": "Lemonada Media"
             },
-            "link": "https://omny.fm/shows/burnout/introducing-mind-your-own-with-lupita-nyong-o",
-            "pubDate": "Thu, 19 Sep 2024 07:30:00 +0000",
-            "title": "Introducing: Mind Your Own with Lupita Nyong\u2019o"
-        },
-        {
-            "content": "<p>Recorded and produced by StoryCorps Studios, Voices From the Frontlines is a project created by #FirstRespondersFirst, an initiative of Harvard T.H. Chan School of Public Health, Thrive Global, and Creative Artists Agency Foundation that takes a whole human approach to healthcare worker well-being. Additional support is provided by the Dr. Lorna Breen Heroes\u2019 Foundation. In this conversation, Dr. Mona Masood and her friend and colleague Dr. Nancy Burkey discuss the creation of the Physician Support Line during the COVID-19 pandemic and their ongoing mission to provide mental health support to physicians, residents, and medical students throughout the United States.</p> <p>To listen to more stories and access resources, visit allinforhealthcare.org</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>Recorded and produced by StoryCorps Studios, Voices From the Frontlines is a project created by #FirstRespondersFirst, an initiative of Harvard T.H. Chan School of Public Health, Thrive Global, and Creative Artists Agency Foundation that takes a whole human approach to healthcare worker well-being. Additional support is provided by the Dr. Lorna Breen Heroes\u2019 Foundation. In this conversation, Dr. Mona Masood and her friend and colleague Dr. Nancy Burkey discuss the creation of the Physician Support Line during the COVID-19 pandemic and their ongoing mission to provide mental health support to physicians, residents, and medical students throughout the United States.</p> <p>To listen to more stories and access resources, visit allinforhealthcare.org</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "Recorded and produced by StoryCorps Studios, Voices From the Frontlines is a project created by #FirstRespondersFirst, an initiative of Harvard T.H. Chan School of Public Health, Thrive Global, and Creative Artists Agency Foundation that takes a whole human approach to healthcare worker well-being. Additional support is provided by the Dr. Lorna Breen Heroes\u2019 Foundation. In this conversation, Dr. Mona Masood and her friend and colleague Dr. Nancy Burkey discuss the creation of the Physician Support Line during the COVID-19 pandemic and their ongoing mission to provide mental health support to physicians, residents, and medical students throughout the United States.\n To listen to more stories and access resources, visit allinforhealthcare.org\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "Recorded and produced by StoryCorps Studios, Voices From the Frontlines is a project created by #FirstRespondersFirst, an initiative of Harvard T.H. Chan School of Public Health, Thrive Global, and Creative Artists Agency Foundation that takes a whole human approach to healthcare worker well-being. Additional support is provided by the Dr. Lorna Breen Heroes\u2019 Foundation. In this conversation, Dr. Mona Masood and her friend and colleague Dr. Nancy Burkey discuss the creation of the Physician Support Line during the COVID-19 pandemic and their ongoing mission to provide mental health support to physicians, residents, and medical students throughout the United States.\n To listen to more stories and access resources, visit allinforhealthcare.org\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "4305420",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/cc16b371-b754-40c0-956f-af5f011fa6af/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a"
-            },
-            "guid": "cc16b371-b754-40c0-956f-af5f011fa6af",
-            "isoDate": "2022-12-06T08:30:00.000Z",
-            "itunes": {
-                "author": "Lemonada Media",
-                "duration": "266",
-                "episode": "5",
-                "episodeType": "full",
-                "explicit": "clean",
-                "image": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/burnout/burnout-voices-from-the-frontlines",
-            "pubDate": "Tue, 06 Dec 2022 08:30:00 +0000",
-            "title": "Burnout: Voices from the Frontlines"
-        },
-        {
-            "content": "<p>This week, we look at how burnout is inevitable in a system set up to squeeze all the juice out of its workforce. Everyone&rsquo;s suffering. Does it have to be this way? We don&rsquo;t think so. Listen to find hope in a burned-out world: for you, for all of us.</p> <p>Burnout is created in collaboration with Mindful.org. Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.&nbsp; \"To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to <a href=\"http://mindful.org/burnout\">mindful.org/burnout</a>!</p> <p>Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.&nbsp;</p> <p>Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.&nbsp;</p> <p>Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: <a href=\"http://lemonadamedia.com/sponsors\">lemonadamedia.com/sponsors</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>This week, we look at how burnout is inevitable in a system set up to squeeze all the juice out of its workforce. Everyone&rsquo;s suffering. Does it have to be this way? We don&rsquo;t think so. Listen to find hope in a burned-out world: for you, for all of us.</p> <p>Burnout is created in collaboration with Mindful.org. Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.&nbsp; \"To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to <a href=\"http://mindful.org/burnout\">mindful.org/burnout</a>!</p> <p>Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.&nbsp;</p> <p>Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.&nbsp;</p> <p>Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: <a href=\"http://lemonadamedia.com/sponsors\">lemonadamedia.com/sponsors</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "This week, we look at how burnout is inevitable in a system set up to squeeze all the juice out of its workforce. Everyone\u2019s suffering. Does it have to be this way? We don\u2019t think so. Listen to find hope in a burned-out world: for you, for all of us.\n Burnout is created in collaboration with Mindful.org. Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.\u00a0 \"To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to mindful.org/burnout!\n Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.\u00a0\n Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.\u00a0\n Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: lemonadamedia.com/sponsors\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "This week, we look at how burnout is inevitable in a system set up to squeeze all the juice out of its workforce. Everyone\u2019s suffering. Does it have to be this way? We don\u2019t think so. Listen to find hope in a burned-out world: for you, for all of us.\n Burnout is created in collaboration with Mindful.org. Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.\u00a0 \"To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to mindful.org/burnout!\n Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.\u00a0\n Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.\u00a0\n Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: lemonadamedia.com/sponsors\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "47583935",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/d25b1f71-4583-4583-b60e-aea30008791c/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a"
-            },
-            "guid": "d25b1f71-4583-4583-b60e-aea30008791c",
-            "isoDate": "2022-05-31T07:30:00.000Z",
-            "itunes": {
-                "author": "Lemonada Media",
-                "duration": "2971",
-                "episode": "4",
-                "episodeType": "full",
-                "explicit": "clean",
-                "image": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/burnout/the-system-was-built-this-way-but-we-can-rebuild-i",
-            "pubDate": "Tue, 31 May 2022 07:30:00 +0000",
-            "title": "The System Was Built This Way, But We Can Rebuild It"
-        },
-        {
-            "content": "<p>Before Shannon quit her job in talent management, work was so taxing that she would dream of being admitted to the hospital, just so she&rsquo;d have a good excuse to not answer her email. In this episode, explore the dissonance of a society that asks us to choose between health, family and our career. We also explore ways to help us survive and thrive in the midst of hustle culture.&nbsp;</p> <p>Burnout is created in collaboration with Mindful.org. Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.&nbsp; \"To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to <a href=\"http://mindful.org/burnout\">mindful.org/burnout</a>!</p> <p>Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.&nbsp;</p> <p>Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.&nbsp;Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: <a href=\"http://lemonadamedia.com/sponsors\">lemonadamedia.com/sponsors</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>Before Shannon quit her job in talent management, work was so taxing that she would dream of being admitted to the hospital, just so she&rsquo;d have a good excuse to not answer her email. In this episode, explore the dissonance of a society that asks us to choose between health, family and our career. We also explore ways to help us survive and thrive in the midst of hustle culture.&nbsp;</p> <p>Burnout is created in collaboration with Mindful.org. Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.&nbsp; \"To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to <a href=\"http://mindful.org/burnout\">mindful.org/burnout</a>!</p> <p>Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.&nbsp;</p> <p>Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.&nbsp;Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: <a href=\"http://lemonadamedia.com/sponsors\">lemonadamedia.com/sponsors</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "Before Shannon quit her job in talent management, work was so taxing that she would dream of being admitted to the hospital, just so she\u2019d have a good excuse to not answer her email. In this episode, explore the dissonance of a society that asks us to choose between health, family and our career. We also explore ways to help us survive and thrive in the midst of hustle culture.\u00a0\n Burnout is created in collaboration with Mindful.org. Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.\u00a0 \"To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to mindful.org/burnout!\n Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.\u00a0\n Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.\u00a0Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: lemonadamedia.com/sponsors\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "Before Shannon quit her job in talent management, work was so taxing that she would dream of being admitted to the hospital, just so she\u2019d have a good excuse to not answer her email. In this episode, explore the dissonance of a society that asks us to choose between health, family and our career. We also explore ways to help us survive and thrive in the midst of hustle culture.\u00a0\n Burnout is created in collaboration with Mindful.org. Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.\u00a0 \"To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to mindful.org/burnout!\n Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.\u00a0\n Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.\u00a0Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: lemonadamedia.com/sponsors\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "43667221",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/718b3de9-9495-49ad-b6c0-ae9b0169df57/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a"
-            },
-            "guid": "718b3de9-9495-49ad-b6c0-ae9b0169df57",
-            "isoDate": "2022-05-24T07:30:00.000Z",
-            "itunes": {
-                "author": "Lemonada Media",
-                "duration": "2726",
-                "episode": "3",
-                "episodeType": "full",
-                "explicit": "clean",
-                "image": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/burnout/breaking-free-from-hustle-culture",
-            "pubDate": "Tue, 24 May 2022 07:30:00 +0000",
-            "title": "Breaking Free from Hustle Culture"
-        },
-        {
-            "content": "<p>In March 2020, when the pandemic hit, Chris Smalls was an hourly worker at a warehouse in Staten Island. Today, he is the president of the Amazon Labor Union. In this episode, we learn about how working conditions can contribute to burnout in workplaces across America. We&rsquo;ll also hear about what we can all do to redesign workplaces to avoid burnout.&nbsp;</p> <p><em>Correction: A previous version of this episode had an incorrect statistic related to Amazon&rsquo;s hiring pacing, which has since been removed.</em></p> <p>Burnout is created in collaboration with Mindful.org.&nbsp; Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.&nbsp; To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to <a href=\"https://www.mindful.org/burnout/\">mindful.org/burnout!</a></p> <p>Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.&nbsp;</p> <p>Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.&nbsp;</p> <p>Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: <a href=\"http://lemonadamedia.com/sponsors\">lemonadamedia.com/sponsors</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>In March 2020, when the pandemic hit, Chris Smalls was an hourly worker at a warehouse in Staten Island. Today, he is the president of the Amazon Labor Union. In this episode, we learn about how working conditions can contribute to burnout in workplaces across America. We&rsquo;ll also hear about what we can all do to redesign workplaces to avoid burnout.&nbsp;</p> <p><em>Correction: A previous version of this episode had an incorrect statistic related to Amazon&rsquo;s hiring pacing, which has since been removed.</em></p> <p>Burnout is created in collaboration with Mindful.org.&nbsp; Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.&nbsp; To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to <a href=\"https://www.mindful.org/burnout/\">mindful.org/burnout!</a></p> <p>Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.&nbsp;</p> <p>Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.&nbsp;</p> <p>Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: <a href=\"http://lemonadamedia.com/sponsors\">lemonadamedia.com/sponsors</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "In March 2020, when the pandemic hit, Chris Smalls was an hourly worker at a warehouse in Staten Island. Today, he is the president of the Amazon Labor Union. In this episode, we learn about how working conditions can contribute to burnout in workplaces across America. We\u2019ll also hear about what we can all do to redesign workplaces to avoid burnout.\u00a0\n Correction: A previous version of this episode had an incorrect statistic related to Amazon\u2019s hiring pacing, which has since been removed.\n Burnout is created in collaboration with Mindful.org.\u00a0 Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.\u00a0 To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to mindful.org/burnout!\n Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.\u00a0\n Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.\u00a0\n Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: lemonadamedia.com/sponsors\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "In March 2020, when the pandemic hit, Chris Smalls was an hourly worker at a warehouse in Staten Island. Today, he is the president of the Amazon Labor Union. In this episode, we learn about how working conditions can contribute to burnout in workplaces across America. We\u2019ll also hear about what we can all do to redesign workplaces to avoid burnout.\u00a0\n Correction: A previous version of this episode had an incorrect statistic related to Amazon\u2019s hiring pacing, which has since been removed.\n Burnout is created in collaboration with Mindful.org.\u00a0 Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.\u00a0 To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to mindful.org/burnout!\n Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.\u00a0\n Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.\u00a0\n Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: lemonadamedia.com/sponsors\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "50432731",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/3bd50c6b-4d05-4194-a5b0-ae9401298c1b/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a"
-            },
-            "guid": "3bd50c6b-4d05-4194-a5b0-ae9401298c1b",
-            "isoDate": "2022-05-17T07:30:00.000Z",
-            "itunes": {
-                "author": "Lemonada Media",
-                "duration": "3149",
-                "episode": "2",
-                "episodeType": "full",
-                "explicit": "clean",
-                "image": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/burnout/when-we-all-show-up-burned-out-at-work",
-            "pubDate": "Tue, 17 May 2022 07:30:00 +0000",
-            "title": "When We All Show Up Burned Out At Work"
-        },
-        {
-            "content": "<p>Burnout. It&rsquo;s all over the news, it&rsquo;s all over your social feeds. You&rsquo;re probably living some version of it, but aren&rsquo;t sure what it is and how to change it. Let&rsquo;s take a closer look at the physiology of burnout together. We&rsquo;ll look at the history of how we talk about burnout, and learn about how it can show up differently in different people.&nbsp;</p> <p>Burnout is created in collaboration with Mindful.org.&nbsp; Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.&nbsp; To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to <a href=\"https://www.mindful.org/burnout/\">mindful.org/burnout</a>!</p> <p>Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.&nbsp;</p> <p>Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.&nbsp;</p> <p>Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: <a href=\"http://lemonadamedia.com/sponsors\">lemonadamedia.com/sponsors</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>Burnout. It&rsquo;s all over the news, it&rsquo;s all over your social feeds. You&rsquo;re probably living some version of it, but aren&rsquo;t sure what it is and how to change it. Let&rsquo;s take a closer look at the physiology of burnout together. We&rsquo;ll look at the history of how we talk about burnout, and learn about how it can show up differently in different people.&nbsp;</p> <p>Burnout is created in collaboration with Mindful.org.&nbsp; Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.&nbsp; To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to <a href=\"https://www.mindful.org/burnout/\">mindful.org/burnout</a>!</p> <p>Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.&nbsp;</p> <p>Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.&nbsp;</p> <p>Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: <a href=\"http://lemonadamedia.com/sponsors\">lemonadamedia.com/sponsors</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "Burnout. It\u2019s all over the news, it\u2019s all over your social feeds. You\u2019re probably living some version of it, but aren\u2019t sure what it is and how to change it. Let\u2019s take a closer look at the physiology of burnout together. We\u2019ll look at the history of how we talk about burnout, and learn about how it can show up differently in different people.\u00a0\n Burnout is created in collaboration with Mindful.org.\u00a0 Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.\u00a0 To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to mindful.org/burnout!\n Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.\u00a0\n Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.\u00a0\n Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: lemonadamedia.com/sponsors\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "Burnout. It\u2019s all over the news, it\u2019s all over your social feeds. You\u2019re probably living some version of it, but aren\u2019t sure what it is and how to change it. Let\u2019s take a closer look at the physiology of burnout together. We\u2019ll look at the history of how we talk about burnout, and learn about how it can show up differently in different people.\u00a0\n Burnout is created in collaboration with Mindful.org.\u00a0 Mindful is a public benefit organization dedicated to sharing the gifts of mindfulness through content, training, courses, and coaching.\u00a0 To find a curated collection of mindfulness-based meditations, courses, and resources to help you prevent and work through Burnout in your life and work, head to mindful.org/burnout!\n Stay up to date with us on Twitter, Facebook, and Instagram at @LemonadaMedia.\u00a0\n Joining Lemonada Premium is a great way to support our show and get bonus content. Subscribe today at bit.ly/lemonadapremium.\u00a0\n Click this link for a list of current sponsors and discount codes for this show and all Lemonada shows: lemonadamedia.com/sponsors\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "57707286",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/8b1797d8-fe76-4c75-b79e-ae8d0140cd8b/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a"
-            },
-            "guid": "8b1797d8-fe76-4c75-b79e-ae8d0140cd8b",
-            "isoDate": "2022-05-10T07:30:00.000Z",
-            "itunes": {
-                "author": "Lemonada Media",
-                "duration": "3604",
-                "episode": "1",
-                "episodeType": "full",
-                "explicit": "clean",
-                "image": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/burnout/episode-1-we-can-t-live-like-this-anymore",
-            "pubDate": "Tue, 10 May 2022 07:30:00 +0000",
-            "title": "We Can\u2019t Live Like This Anymore"
-        },
-        {
-            "content": "<p>It&rsquo;s hard to find someone who hasn&rsquo;t experienced burnout. Bringing wit, humor and doable solutions, host Connor Franta talks to people in all industries at all levels, people with real answers at small and big scales, and helps us understand how we got here and how we work to create a new way of working &ndash; and living. Coming May 10, from Lemonada and Mindful.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>It&rsquo;s hard to find someone who hasn&rsquo;t experienced burnout. Bringing wit, humor and doable solutions, host Connor Franta talks to people in all industries at all levels, people with real answers at small and big scales, and helps us understand how we got here and how we work to create a new way of working &ndash; and living. Coming May 10, from Lemonada and Mindful.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "It\u2019s hard to find someone who hasn\u2019t experienced burnout. Bringing wit, humor and doable solutions, host Connor Franta talks to people in all industries at all levels, people with real answers at small and big scales, and helps us understand how we got here and how we work to create a new way of working \u2013 and living. Coming May 10, from Lemonada and Mindful.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "It\u2019s hard to find someone who hasn\u2019t experienced burnout. Bringing wit, humor and doable solutions, host Connor Franta talks to people in all industries at all levels, people with real answers at small and big scales, and helps us understand how we got here and how we work to create a new way of working \u2013 and living. Coming May 10, from Lemonada and Mindful.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "2247773",
-                "type": "audio/mpeg",
-                "url": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/C78466/swap.fm/track/SsIrU3p3kh3dH9Mxptdp/traffic.omny.fm/d/clips/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/b01f2514-cb23-4929-baee-ae7f011ad1c8/audio.mp3?utm_source=Podcast&in_playlist=06046b7b-1c27-41f9-b08e-ae7e0145985a"
-            },
-            "guid": "b01f2514-cb23-4929-baee-ae7f011ad1c8",
-            "isoDate": "2022-04-22T17:32:24.000Z",
-            "itunes": {
-                "author": "Lemonada Media",
-                "duration": "138",
-                "episodeType": "trailer",
-                "image": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/burnout/introducing-burnout",
-            "pubDate": "Fri, 22 Apr 2022 17:32:24 +0000",
-            "title": "Introducing: Burnout"
+            "itunes:summary": "Burnout: You\u2019ve read about it. You\u2019ve heard about it. Heck, you\u2019re probably living it. And you\u2019ve probably tried everything to fix it. Levels of burnout are reaching new all-time highs, every single day. And the pandemic has only made things worse. This new series, hosted by Connor Franta, looks into how society reached a burning point and what we can do - really, actually do - to break the cycle. With his signature wit and charm, Connor explores the story of burnout, discovers how it affects your body and mind, and looks at why the easy solutions simply won\u2019t work to solve a systemic problem. From Lemonada and Mindful.",
+            "itunes:type": "serial",
+            "language": "en-US",
+            "link": "http://www.lemonadamedia.com",
+            "omny:networkId": "efa8bd89-c912-475a-ad99-b1db00eb35a1",
+            "omny:organizationId": "796469f9-ea34-46a2-8776-ad0f015d6beb",
+            "omny:playlistId": "06046b7b-1c27-41f9-b08e-ae7e0145985a",
+            "omny:programId": "4d6c438e-73a2-43ae-b86d-ae7e013aa6e7",
+            "title": "Burnout with Connor Franta"
         }
-    ],
-    "itunes": {
-        "author": "Lemonada Media",
-        "categories": [
-            "Health & Fitness"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Health & Fitness",
-                "subs": [
-                    {
-                        "name": "Mental Health"
-                    }
-                ]
-            }
-        ],
-        "explicit": "no",
-        "image": "https://www.omnycontent.com/d/programs/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/image.jpg?t=1650570327&size=Large",
-        "owner": {
-            "email": "hey@lemonadamedia.com",
-            "name": "Lemonada Media"
-        },
-        "summary": "Burnout: You\u2019ve read about it. You\u2019ve heard about it. Heck, you\u2019re probably living it. And you\u2019ve probably tried everything to fix it. Levels of burnout are reaching new all-time highs, every single day. And the pandemic has only made things worse. This new series, hosted by Connor Franta, looks into how society reached a burning point and what we can do - really, actually do - to break the cycle. With his signature wit and charm, Connor explores the story of burnout, discovers how it affects your body and mind, and looks at why the easy solutions simply won\u2019t work to solve a systemic problem. From Lemonada and Mindful."
-    },
-    "language": "en-US",
-    "link": "http://www.lemonadamedia.com",
-    "paginationLinks": {
-        "first": "https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/06046b7b-1c27-41f9-b08e-ae7e0145985a/podcast.rss?page=1",
-        "last": "https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/06046b7b-1c27-41f9-b08e-ae7e0145985a/podcast.rss?page=1",
-        "self": "https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/4d6c438e-73a2-43ae-b86d-ae7e013aa6e7/06046b7b-1c27-41f9-b08e-ae7e0145985a/podcast.rss"
-    },
-    "palette": [
-        "3B7BF3",
-        "E0E0D6",
-        "091216",
-        "88A2DA",
-        "91CBAF",
-        "213C7C"
-    ],
-    "title": "Burnout with Connor Franta"
+    }
 }

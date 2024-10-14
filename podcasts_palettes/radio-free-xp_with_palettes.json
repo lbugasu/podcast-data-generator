@@ -1,0 +1,510 @@
+{
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:anchor": "https://anchor.fm/xmlns",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "channel": {
+            "atom:link": [
+                {
+                    "@href": "https://anchor.fm/s/e8f1fc64/podcast/rss",
+                    "@rel": "self",
+                    "@type": "application/rss+xml"
+                },
+                {
+                    "@href": "https://pubsubhubbub.appspot.com/",
+                    "@rel": "hub"
+                }
+            ],
+            "author": "relay451",
+            "copyright": "relay451",
+            "description": "The XP Lifestyle",
+            "generator": "Anchor Podcasts",
+            "image": {
+                "link": "https://eXtremeIteration.io",
+                "palette": [
+                    "E6E6E9",
+                    "1A3747",
+                    "8B9CAD",
+                    "6C6B6F",
+                    "71766B",
+                    "649CC6"
+                ],
+                "title": "Radio Free XP",
+                "url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38981729/38981729-1697980285050-efa90c2b87448.jpg"
+            },
+            "item": [
+                {
+                    "dc:creator": "relay451",
+                    "description": "<p>Books that help you earn the ability to benefit from technical excellence! </p>\n<p><br></p>\n<p>We&#39;ve talked about &quot;wisdom from books&quot; and something like the &quot;Radio Free XP&quot; bookshelf.</p>\n<p><br></p>\n<p>On today&#39;s episode, we work to formalize the topic, and get into how and why _Turn The Ship Around_ and _Never Split The Difference_ can help people improve their tech career experience.</p>\n",
+                    "enclosure": {
+                        "@length": "89684884",
+                        "@type": "audio/x-m4a",
+                        "@url": "https://anchor.fm/s/e8f1fc64/podcast/play/85659501/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-19%2F5b915583-1836-61dc-e0ff-3a89a4a0dc33.m4a"
+                    },
+                    "guid": {
+                        "#text": "7f6978f5-f1d3-4c86-95be-dea718439cc5",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "01:12:45",
+                    "itunes:episode": "2",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38981729/38981729-1697980285050-efa90c2b87448.jpg"
+                    },
+                    "itunes:season": "2",
+                    "itunes:summary": "<p>Books that help you earn the ability to benefit from technical excellence! </p>\n<p><br></p>\n<p>We&#39;ve talked about &quot;wisdom from books&quot; and something like the &quot;Radio Free XP&quot; bookshelf.</p>\n<p><br></p>\n<p>On today&#39;s episode, we work to formalize the topic, and get into how and why _Turn The Ship Around_ and _Never Split The Difference_ can help people improve their tech career experience.</p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/997unix/episodes/A-Pair-of-Books-Marquet--Voss-e2ikkdd",
+                    "pubDate": "Sat, 20 Apr 2024 00:02:02 GMT",
+                    "title": "A Pair of Books: Marquet && Voss"
+                },
+                {
+                    "dc:creator": "relay451",
+                    "description": "<p>Elisabeth Hendrickson and Janice Fraser, what else could you want to know?</p>\n<p><br></p>\n<p><br></p>\n",
+                    "enclosure": {
+                        "@length": "59595381",
+                        "@type": "audio/x-m4a",
+                        "@url": "https://anchor.fm/s/e8f1fc64/podcast/play/84829621/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-1%2F372890718-44100-2-0d90497f72158.m4a"
+                    },
+                    "guid": {
+                        "#text": "0f9dfed9-c6b0-4aad-a146-d50b91158a71",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "01:01:24",
+                    "itunes:episode": "1",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38981729/38981729-1697980285050-efa90c2b87448.jpg"
+                    },
+                    "itunes:season": "2",
+                    "itunes:summary": "<p>Elisabeth Hendrickson and Janice Fraser, what else could you want to know?</p>\n<p><br></p>\n<p><br></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/997unix/episodes/Elisabeth-and-Janice-e2hr9vl",
+                    "pubDate": "Mon, 01 Apr 2024 19:42:00 GMT",
+                    "title": "Elisabeth and Janice"
+                },
+                {
+                    "dc:creator": "relay451",
+                    "description": "<p><em>Recording Date: Jan 16, 02024</em></p>\n<p><em>Hosts: Tony Hansmann &amp;&amp; Jesse Alford</em></p>\n<p><em>Guest: </em>Bryon Kroger</p>\n<ul>\n <li><p>LinkedIn: https://www.linkedin.com/in/bryon-kroger/recent-activity/all/</p>\n</li>\n</ul>\n<p>Brian Kroger is the founder and CEO of Rise8.us. A consultancy inspired by the Pivotal Model. Bryon works in the DOD and calls himself a <a href=\"https://www.linkedin.com/in/bryon-kroger?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAVQCzUB2PI6p3MY04FZgKCFnd4HSVfFYQo\">bureaucracy hacker.</a></p>\n<p>In the episode, he points out that once you understand how the bureaucracy is \u201cprogrammed,\u201d you can often get a lot further than you can in private industry.\u00a0</p>\n<p>Listen through to all the way!</p>\n<p>Tony &amp;&amp; Jesse</p>\n<p>---</p>\n<p>Rise8 Company Description</p>\n<p>Rise8 delivers software for Critical Missions. We are revolutionizing the way government agencies build, deploy, and utilize critical software.\u00a0\u00a0\u00a0</p>\n<p>Rise8 is a Service-Disabled Veteran-Owned Small Business (SDVOSB) with headquarters in Tampa, FL, and a fully-remote workforce.</p>\n<p>Purpose</p>\n<p>Drive relentless progress.</p>\n<p>We own relentless progress. We can always do better. The moment we stop thinking that, the moment we stop pushing for a better future - bad things happen.</p>\n<p><br></p>\n<p>Promise</p>\n<p>Critical outcomes in prod (real, rapid, reliable).</p>\n<p><br></p>\n<p>Logo</p>\n<p>The Rise8 logo emphasizes the number 8 and is a symbol of the paired relationship we practice with our clients at every level of operation. The slash within the 8 is a 78-degree angle as a nod to the Japanese proverb that inspired our name: \u201cFall seven, rise eight.\u201d</p>\n<p><br></p>\n<p><br></p>\n",
+                    "enclosure": {
+                        "@length": "53987443",
+                        "@type": "audio/x-m4a",
+                        "@url": "https://anchor.fm/s/e8f1fc64/podcast/play/83231482/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-26%2F41650225-b1d7-f151-2645-f1bb21dc468d.m4a"
+                    },
+                    "guid": {
+                        "#text": "2c4350a3-0cd8-479c-b779-bccad7e40fd2",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:44:34",
+                    "itunes:episode": "17",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38981729/38981729-1697980285050-efa90c2b87448.jpg"
+                    },
+                    "itunes:season": "1",
+                    "itunes:summary": "<p><em>Recording Date: Jan 16, 02024</em></p>\n<p><em>Hosts: Tony Hansmann &amp;&amp; Jesse Alford</em></p>\n<p><em>Guest: </em>Bryon Kroger</p>\n<ul>\n <li><p>LinkedIn: https://www.linkedin.com/in/bryon-kroger/recent-activity/all/</p>\n</li>\n</ul>\n<p>Brian Kroger is the founder and CEO of Rise8.us. A consultancy inspired by the Pivotal Model. Bryon works in the DOD and calls himself a <a href=\"https://www.linkedin.com/in/bryon-kroger?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAVQCzUB2PI6p3MY04FZgKCFnd4HSVfFYQo\">bureaucracy hacker.</a></p>\n<p>In the episode, he points out that once you understand how the bureaucracy is \u201cprogrammed,\u201d you can often get a lot further than you can in private industry.\u00a0</p>\n<p>Listen through to all the way!</p>\n<p>Tony &amp;&amp; Jesse</p>\n<p>---</p>\n<p>Rise8 Company Description</p>\n<p>Rise8 delivers software for Critical Missions. We are revolutionizing the way government agencies build, deploy, and utilize critical software.\u00a0\u00a0\u00a0</p>\n<p>Rise8 is a Service-Disabled Veteran-Owned Small Business (SDVOSB) with headquarters in Tampa, FL, and a fully-remote workforce.</p>\n<p>Purpose</p>\n<p>Drive relentless progress.</p>\n<p>We own relentless progress. We can always do better. The moment we stop thinking that, the moment we stop pushing for a better future - bad things happen.</p>\n<p><br></p>\n<p>Promise</p>\n<p>Critical outcomes in prod (real, rapid, reliable).</p>\n<p><br></p>\n<p>Logo</p>\n<p>The Rise8 logo emphasizes the number 8 and is a symbol of the paired relationship we practice with our clients at every level of operation. The slash within the 8 is a 78-degree angle as a nod to the Japanese proverb that inspired our name: \u201cFall seven, rise eight.\u201d</p>\n<p><br></p>\n<p><br></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/997unix/episodes/Go-Hack-Your-Bureaucracy-or-Fall-seven--rise-eight-e2gah9q",
+                    "pubDate": "Mon, 26 Feb 2024 23:06:52 GMT",
+                    "title": "Go Hack Your Bureaucracy or \u201cFall seven, rise eight.\u201d"
+                },
+                {
+                    "dc:creator": "relay451",
+                    "description": "<p><em>Recording Date: 2023-11-13</em></p>\n<p><em>Hosts: Tony Hansmann &amp;&amp; Jesse Alford</em></p>\n<p><em>Guest Name: Mala Janus</em></p>\n<p>Contact information:</p>\n<ul>\n <li><p><a href=\"https://magnoliadevelopment.io/\">https://magnoliadevelopment.io</a></p>\n</li>\n <li><p>https://www.linkedin.com/in/malakjanus/</p>\n</li>\n</ul>\n<p><em>Guest: Mala Janus is a Pivot who has never worked for Pivotal. She\u2019s an XP practitioner who learned both the Dev and PM side of things while working at a large client who built their own Pivotal-style Lab.</em></p>\n<p><em>All Pivots know the magic experience of meeting new Pivots, the origin stories, the comparison of how \u201cwe do things here,\u201d the seeking of accord, alignment, and camaraderie, which are the foundation for effective pairing.</em></p>\n<p><em>To all Pivots everywhere, we wish you Happy Hoildays and a working model that makes sense to you.</em></p>\n<p><br></p>\n",
+                    "enclosure": {
+                        "@length": "74229679",
+                        "@type": "audio/x-m4a",
+                        "@url": "https://anchor.fm/s/e8f1fc64/podcast/play/80236502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-19%2F360592980-44100-2-56ce5fe95a8c2.m4a"
+                    },
+                    "guid": {
+                        "#text": "1d1a3b56-022d-4bed-b4af-53ed21729826",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "01:16:29",
+                    "itunes:episode": "16",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38981729/38981729-1697980285050-efa90c2b87448.jpg"
+                    },
+                    "itunes:season": "1",
+                    "itunes:summary": "<p><em>Recording Date: 2023-11-13</em></p>\n<p><em>Hosts: Tony Hansmann &amp;&amp; Jesse Alford</em></p>\n<p><em>Guest Name: Mala Janus</em></p>\n<p>Contact information:</p>\n<ul>\n <li><p><a href=\"https://magnoliadevelopment.io/\">https://magnoliadevelopment.io</a></p>\n</li>\n <li><p>https://www.linkedin.com/in/malakjanus/</p>\n</li>\n</ul>\n<p><em>Guest: Mala Janus is a Pivot who has never worked for Pivotal. She\u2019s an XP practitioner who learned both the Dev and PM side of things while working at a large client who built their own Pivotal-style Lab.</em></p>\n<p><em>All Pivots know the magic experience of meeting new Pivots, the origin stories, the comparison of how \u201cwe do things here,\u201d the seeking of accord, alignment, and camaraderie, which are the foundation for effective pairing.</em></p>\n<p><em>To all Pivots everywhere, we wish you Happy Hoildays and a working model that makes sense to you.</em></p>\n<p><br></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/997unix/episodes/Pivots-in-the-wild-with-Mala-Janus-e2df4gm",
+                    "pubDate": "Tue, 19 Dec 2023 22:06:26 GMT",
+                    "title": "Pivots in the wild with Mala Janus"
+                },
+                {
+                    "dc:creator": "relay451",
+                    "description": "<p><em>Recording Date: 2023-11-15</em></p>\n<p><em>Hosts: </em>Tony Hansmann &amp;&amp; Jesse Alford</p>\n<p><em>Guest Name: </em>Thomas Squeo</p>\n<p><br></p>\n<p>Social media:</p>\n<ul>\n <li><p>LinkedIn: <a href=\"https://www.linkedin.com/in/davidmarquet/\">https://www.linkedin.com/in/thomassqueo/</a>\u00a0\u00a0</p>\n</li>\n <li><p><em>Previous interview on Youtube.com: https://youtu.be/iZCPAHwhTWI?si=CfjhBEkyqN69x4eF</em></p>\n</li>\n</ul>\n<p><em>Guest: Thomas Squeo</em></p>\n<p><br></p>\n<p>Title: Let\u2019s Play \u201cBet your Badge\u201d with Thomas Squeo (01h:30m)</p>\n<p>One of the greatest things about being in the field for Cloud Foundry was meeting leaders who were deploying not just Cloud Foundry but an array of transformation solutions.\u00a0</p>\n<p>Thomas Squeo&#39;s roots in XP go back to the early 2000s when he was an early Beck practitioner who worked with both Pivotal Labs and Thoughtworks. What sets Thomas apart is that he has done everything from being a line developer to being the CTO of Entrado, a global 911 provider, among other things.</p>\n<p><br></p>\n<p>Jesse and Tony talk about what it takes to not just do XP but also what the IRL challenges you will face when transforming an organization. </p>\n<p><br></p>\n<p>Grab a notebook and buckle up.</p>\n",
+                    "enclosure": {
+                        "@length": "86438140",
+                        "@type": "audio/x-m4a",
+                        "@url": "https://anchor.fm/s/e8f1fc64/podcast/play/80112175/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-16%2F360217397-44100-2-25eb447d36ab.m4a"
+                    },
+                    "guid": {
+                        "#text": "03ab9fc8-8608-4650-a465-dd637f7604af",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "01:29:04",
+                    "itunes:episode": "15",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38981729/38981729-1697980285050-efa90c2b87448.jpg"
+                    },
+                    "itunes:season": "1",
+                    "itunes:summary": "<p><em>Recording Date: 2023-11-15</em></p>\n<p><em>Hosts: </em>Tony Hansmann &amp;&amp; Jesse Alford</p>\n<p><em>Guest Name: </em>Thomas Squeo</p>\n<p><br></p>\n<p>Social media:</p>\n<ul>\n <li><p>LinkedIn: <a href=\"https://www.linkedin.com/in/davidmarquet/\">https://www.linkedin.com/in/thomassqueo/</a>\u00a0\u00a0</p>\n</li>\n <li><p><em>Previous interview on Youtube.com: https://youtu.be/iZCPAHwhTWI?si=CfjhBEkyqN69x4eF</em></p>\n</li>\n</ul>\n<p><em>Guest: Thomas Squeo</em></p>\n<p><br></p>\n<p>Title: Let\u2019s Play \u201cBet your Badge\u201d with Thomas Squeo (01h:30m)</p>\n<p>One of the greatest things about being in the field for Cloud Foundry was meeting leaders who were deploying not just Cloud Foundry but an array of transformation solutions.\u00a0</p>\n<p>Thomas Squeo&#39;s roots in XP go back to the early 2000s when he was an early Beck practitioner who worked with both Pivotal Labs and Thoughtworks. What sets Thomas apart is that he has done everything from being a line developer to being the CTO of Entrado, a global 911 provider, among other things.</p>\n<p><br></p>\n<p>Jesse and Tony talk about what it takes to not just do XP but also what the IRL challenges you will face when transforming an organization. </p>\n<p><br></p>\n<p>Grab a notebook and buckle up.</p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/997unix/episodes/Lets-play-Bet-your-badge-with-Thomas-Squeo-e2dbb3f",
+                    "pubDate": "Sat, 16 Dec 2023 22:02:07 GMT",
+                    "title": "Lets play \"Bet your badge\" with Thomas Squeo"
+                },
+                {
+                    "dc:creator": "relay451",
+                    "description": "<p><em>Recording Date: 2023-11-13</em></p>\n<p><em>Hosts: Tony Hansmann &amp;&amp; Jesse Alford</em></p>\n<p><em>Guest Name: Drew McManus</em></p>\n<p>Drew has a 30+ year career with orgs that are serious about software. He got involved with Pivotal Labs around 2006 and shepherded the practice until 2020.\u00a0</p>\n<p>Social media:</p>\n<ul>\n <li><p>LinkedIn: https://www.linkedin.com/in/drewmcmanus/</p>\n</li>\n</ul>\n",
+                    "enclosure": {
+                        "@length": "69367941",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/e8f1fc64/podcast/play/79547038/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-4%2Fcace50bf-550c-b372-c00f-8e13d68a5a03.mp3"
+                    },
+                    "guid": {
+                        "#text": "f11f389f-c23d-4e36-93c5-ce67cdad8f19",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "01:12:15",
+                    "itunes:episode": "14",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38981729/38981729-1697980285050-efa90c2b87448.jpg"
+                    },
+                    "itunes:season": "1",
+                    "itunes:summary": "<p><em>Recording Date: 2023-11-13</em></p>\n<p><em>Hosts: Tony Hansmann &amp;&amp; Jesse Alford</em></p>\n<p><em>Guest Name: Drew McManus</em></p>\n<p>Drew has a 30+ year career with orgs that are serious about software. He got involved with Pivotal Labs around 2006 and shepherded the practice until 2020.\u00a0</p>\n<p>Social media:</p>\n<ul>\n <li><p>LinkedIn: https://www.linkedin.com/in/drewmcmanus/</p>\n</li>\n</ul>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/997unix/episodes/XP-is-Made-of-PEOPLE--with-Drew-McManus-e2cq36u",
+                    "pubDate": "Mon, 04 Dec 2023 17:58:01 GMT",
+                    "title": "XP is Made of PEOPLE! with Drew McManus"
+                },
+                {
+                    "dc:creator": "relay451",
+                    "description": "<p><em>Recording Date: November 10th, 2023</em></p>\n<p><em>Hosts: Tony Hansmann &amp;&amp; Jesse Alford</em></p>\n<p><em>Guest Name: Alex Tran</em></p>\n<p><br></p>\n<p>Alex Tran has spent time at Code For America, Pivotal, and touring around the US helping Climete Tech companies. He\u2019s got a new UX Consultancy focused on climate, wellness, insurance, and govtech clients.</p>\n<p>We had the type of really fun conversation I miss having with Designers! We talk about his pairing journey, design on a balanced team, and some of the principles he teaches his design students.</p>\n<p>Social media:</p>\n<ul>\n <li><p>LinkedIn: https://linkedin.com/in/alexandersitran/</p>\n</li>\n</ul>\n",
+                    "enclosure": {
+                        "@length": "51511926",
+                        "@type": "audio/x-m4a",
+                        "@url": "https://anchor.fm/s/e8f1fc64/podcast/play/78947643/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-21%2F9449b2f1-5868-f29b-e207-9c7a58ad2192.m4a"
+                    },
+                    "guid": {
+                        "#text": "d31f4898-eff2-4f2e-b6fc-337b7aae778b",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:40:20",
+                    "itunes:episode": "12",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38981729/38981729-1697980285050-efa90c2b87448.jpg"
+                    },
+                    "itunes:season": "1",
+                    "itunes:summary": "<p><em>Recording Date: November 10th, 2023</em></p>\n<p><em>Hosts: Tony Hansmann &amp;&amp; Jesse Alford</em></p>\n<p><em>Guest Name: Alex Tran</em></p>\n<p><br></p>\n<p>Alex Tran has spent time at Code For America, Pivotal, and touring around the US helping Climete Tech companies. He\u2019s got a new UX Consultancy focused on climate, wellness, insurance, and govtech clients.</p>\n<p>We had the type of really fun conversation I miss having with Designers! We talk about his pairing journey, design on a balanced team, and some of the principles he teaches his design students.</p>\n<p>Social media:</p>\n<ul>\n <li><p>LinkedIn: https://linkedin.com/in/alexandersitran/</p>\n</li>\n</ul>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/997unix/episodes/Situate-the-collaborators-against-the-problem-with-Alex-Tran-e2c7prr",
+                    "pubDate": "Tue, 21 Nov 2023 17:48:38 GMT",
+                    "title": "\"Situate the collaborators against the problem\" with Alex Tran"
+                },
+                {
+                    "dc:creator": "relay451",
+                    "description": "<p>Hosts: Tony Hansmann and Jesse Alford</p>\n<p>Guest: Steve Sorenson</p>\n<p>Contact information: steve@vrimanagementllc.com</p>\n<p><br></p>\n<p>Tony talks to Steve. Jesses and Tony about it.</p>\n<p><br></p>\n<p><br></p>\n",
+                    "enclosure": {
+                        "@length": "44680363",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/e8f1fc64/podcast/play/78540199/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-23%2Fdb35977d-10d4-ca33-9a14-98f7e9973a97.mp3"
+                    },
+                    "guid": {
+                        "#text": "a0f76e19-fbf8-42b9-96d2-bee3c62d2330",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:46:32",
+                    "itunes:episode": "11",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38981729/38981729-1697980285050-efa90c2b87448.jpg"
+                    },
+                    "itunes:season": "1",
+                    "itunes:summary": "<p>Hosts: Tony Hansmann and Jesse Alford</p>\n<p>Guest: Steve Sorenson</p>\n<p>Contact information: steve@vrimanagementllc.com</p>\n<p><br></p>\n<p>Tony talks to Steve. Jesses and Tony about it.</p>\n<p><br></p>\n<p><br></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/997unix/episodes/As-a-Technical-co-founder-----With-Steve-Sorenson-e2brbv7",
+                    "pubDate": "Sun, 12 Nov 2023 23:00:16 GMT",
+                    "title": "\"As a Technical co-founder....\" With Steve Sorenson"
+                },
+                {
+                    "dc:creator": "relay451",
+                    "description": "<p>Recording Date: 2023-10-31</p>\n<p>Hosts: Tony Hansmann &amp;&amp; Jesse Alford</p>\n<p>Guest: Cptn L. David Marquet (Retired)</p>\n<p><br></p>\n<p>Introduction to the Leader/Leader (With Tests!)</p>\n<p>In Cloud Foundry R&amp;D, there was a moment when the leadership team decided they needed a new model. The book they turned to was \u201cTurn the Ship Around\u201d by David Marquet.</p>\n<p><br></p>\n<p>Today, we talk with David about the outline of the Leader/Leader process and how to adopt it. He recommends, \u201cStart with self.\u201d</p>\n<p><br></p>\n<p>Join us for this overview Leader/Leader and learn a test-driven, solo exercise to \u201cstart with yourself.\u201d</p>\n<p><br></p>\n<p>David Marquet&#39;s Contact and Social Media</p>\n<ul>\n <li>https://TurnTheShipAround.com</li>\n <li>LinkedIn: https://www.linkedin.com/in/davidmarquet/  </li>\n  <li>Youtube.com: Leadership Nudges https://www.youtube.com/@LeadershipNudges</li>\n  <li>email: david@turntheshiparound.com\u00a0</li>\n</ul>\n<p><br></p>\n<p>Books:</p>\n<ul>\n  <li>&quot;Turn the Ship Around!: A True Story of Turning Followers into Leaders&quot;</li>\n  <li>&quot;Leadership Is Language: The Hidden Power of What You Say--and What You Don&#39;t&quot;</li>\n</ul>\n<p><br></p>\n<p>From the discussion:</p>\n<ul>\n  <li>Leader/Leader Solo work - Nudge 61: https://www.youtube.com/watch?v=klXiG1CUjsA</li>\n</ul>\n<p><br></p>\n",
+                    "enclosure": {
+                        "@length": "38057538",
+                        "@type": "audio/x-m4a",
+                        "@url": "https://anchor.fm/s/e8f1fc64/podcast/play/78145591/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-5%2F397edf66-7d97-8f38-d34b-b37a74fb7247.m4a"
+                    },
+                    "guid": {
+                        "#text": "c4406d0c-603f-4aa0-b5e5-fa43b2bcf1fd",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:34:54",
+                    "itunes:episode": "10",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38981729/38981729-1697980285050-efa90c2b87448.jpg"
+                    },
+                    "itunes:season": "1",
+                    "itunes:summary": "<p>Recording Date: 2023-10-31</p>\n<p>Hosts: Tony Hansmann &amp;&amp; Jesse Alford</p>\n<p>Guest: Cptn L. David Marquet (Retired)</p>\n<p><br></p>\n<p>Introduction to the Leader/Leader (With Tests!)</p>\n<p>In Cloud Foundry R&amp;D, there was a moment when the leadership team decided they needed a new model. The book they turned to was \u201cTurn the Ship Around\u201d by David Marquet.</p>\n<p><br></p>\n<p>Today, we talk with David about the outline of the Leader/Leader process and how to adopt it. He recommends, \u201cStart with self.\u201d</p>\n<p><br></p>\n<p>Join us for this overview Leader/Leader and learn a test-driven, solo exercise to \u201cstart with yourself.\u201d</p>\n<p><br></p>\n<p>David Marquet&#39;s Contact and Social Media</p>\n<ul>\n <li>https://TurnTheShipAround.com</li>\n <li>LinkedIn: https://www.linkedin.com/in/davidmarquet/  </li>\n  <li>Youtube.com: Leadership Nudges https://www.youtube.com/@LeadershipNudges</li>\n  <li>email: david@turntheshiparound.com\u00a0</li>\n</ul>\n<p><br></p>\n<p>Books:</p>\n<ul>\n  <li>&quot;Turn the Ship Around!: A True Story of Turning Followers into Leaders&quot;</li>\n  <li>&quot;Leadership Is Language: The Hidden Power of What You Say--and What You Don&#39;t&quot;</li>\n</ul>\n<p><br></p>\n<p>From the discussion:</p>\n<ul>\n  <li>Leader/Leader Solo work - Nudge 61: https://www.youtube.com/watch?v=klXiG1CUjsA</li>\n</ul>\n<p><br></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/997unix/episodes/Nudge-61-with-David-Marquet-e2bfajn",
+                    "pubDate": "Sat, 04 Nov 2023 00:10:53 GMT",
+                    "title": "Nudge 61 with David Marquet"
+                },
+                {
+                    "dc:creator": "relay451",
+                    "description": "<p>Recorded: 2023-10-25</p>\n<p>Hosts: Jesse Alford and Tony Hansmann</p>\n<p><br></p>\n<p>Summary:</p>\n<p>True Believer Davis Frank joins us to share his pairing journey, what the transition from solo to pair feels like, and what happens when &quot;pairing is just not a fit&quot; for a staff member.</p>\n<p><br></p>\n<p>After the pair journey, Jesse and Davis make the case for joining the Pivotal Diaspora.</p>\n<p><br></p>\n<p>Join us to mainline some Pivotal goodness.</p>\n<p><br></p>\n<p>Davis recounting his Paring Journey on stage at Golden Gate Ruby Conference in 2013: https://dwf.bigpencil.net/gogaruco-2013-storytime/</p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n",
+                    "enclosure": {
+                        "@length": "99620671",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/e8f1fc64/podcast/play/77778123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-26%2F7df51a77-0629-3f02-5346-701e2f3e5966.mp3"
+                    },
+                    "guid": {
+                        "#text": "49677785-923c-4bb3-a5da-56d9f0d1cd10",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "01:43:46",
+                    "itunes:episode": "9",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38981729/38981729-1697980285050-efa90c2b87448.jpg"
+                    },
+                    "itunes:season": "1",
+                    "itunes:summary": "<p>Recorded: 2023-10-25</p>\n<p>Hosts: Jesse Alford and Tony Hansmann</p>\n<p><br></p>\n<p>Summary:</p>\n<p>True Believer Davis Frank joins us to share his pairing journey, what the transition from solo to pair feels like, and what happens when &quot;pairing is just not a fit&quot; for a staff member.</p>\n<p><br></p>\n<p>After the pair journey, Jesse and Davis make the case for joining the Pivotal Diaspora.</p>\n<p><br></p>\n<p>Join us to mainline some Pivotal goodness.</p>\n<p><br></p>\n<p>Davis recounting his Paring Journey on stage at Golden Gate Ruby Conference in 2013: https://dwf.bigpencil.net/gogaruco-2013-storytime/</p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/997unix/episodes/A-love-letter-to-Tanzu-Pivots-with-Davis-Frank-e2b43ob",
+                    "pubDate": "Fri, 27 Oct 2023 00:05:31 GMT",
+                    "title": "A love letter to Tanzu Pivots with Davis Frank"
+                },
+                {
+                    "dc:creator": "relay451",
+                    "description": "<p>Runtime: 1h:36m</p>\n<p>Guest: Dwayne Forde</p>\n<p>Host: Tony Hansmann</p>\n<p><br></p>\n<p>Today&#39;s interview is with\u00a0Dwayne Forde and I&#39;m not even going to try to be measured about it! In a world where every Pivot is an unbelievably good coach and supporter, Dwayne Forde stands out as a Pivot&#39;s Pivot. </p>\n<p><br></p>\n<p>Kind and effective without ever compromising integrity.</p>\n<p><br></p>\n<p>Capable. So capable you start to wonder if there&#39;s any limit at all.</p>\n<p><br></p>\n<p>Dwayne knows team\u00a0sports, and at Pivotal, I experienced him playing by the best possible rules: Honest, optimistic\u00a0criticism\u00a0in the search for Right/Kind/Works. His palpable commitment and insane fluency\u00a0at increasing\u00a0competency and growth org wide\u00a0is something I could not get enough of.\u00a0</p>\n<p><br></p>\n<p>In this episode, we talk about Dwayne&#39;s autodidact start in\u00a0software and how he was tricked into a job at eXtreme Labs. Short and sweet, he sums up his first four weeks of pairing as: I became 20x more productive.\u00a0</p>\n<p><br></p>\n<p>We move on to a discussion of his new company https://WithMantel.com - which is looking for lighthouse customers in Q4Y23. If you&#39;ve got a Cap Table that you want to automate, you can become an early adopter for free.\u00a0</p>\n<p><br></p>\n<p>We round out with a wide-ranging discussion of little &#39;a&#39; agile observations.</p>\n",
+                    "enclosure": {
+                        "@length": "92185200",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/e8f1fc64/podcast/play/77396741/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-18%2F82e8c266-3b22-b0a7-3de2-1d995d9e8dbc.mp3"
+                    },
+                    "guid": {
+                        "#text": "3b159686-7dd6-4191-af1f-d16563dc72c4",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "01:36:01",
+                    "itunes:episode": "8",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/38981729/38981729-1697653540155-b3656ce09c117.jpg"
+                    },
+                    "itunes:season": "1",
+                    "itunes:summary": "<p>Runtime: 1h:36m</p>\n<p>Guest: Dwayne Forde</p>\n<p>Host: Tony Hansmann</p>\n<p><br></p>\n<p>Today&#39;s interview is with\u00a0Dwayne Forde and I&#39;m not even going to try to be measured about it! In a world where every Pivot is an unbelievably good coach and supporter, Dwayne Forde stands out as a Pivot&#39;s Pivot. </p>\n<p><br></p>\n<p>Kind and effective without ever compromising integrity.</p>\n<p><br></p>\n<p>Capable. So capable you start to wonder if there&#39;s any limit at all.</p>\n<p><br></p>\n<p>Dwayne knows team\u00a0sports, and at Pivotal, I experienced him playing by the best possible rules: Honest, optimistic\u00a0criticism\u00a0in the search for Right/Kind/Works. His palpable commitment and insane fluency\u00a0at increasing\u00a0competency and growth org wide\u00a0is something I could not get enough of.\u00a0</p>\n<p><br></p>\n<p>In this episode, we talk about Dwayne&#39;s autodidact start in\u00a0software and how he was tricked into a job at eXtreme Labs. Short and sweet, he sums up his first four weeks of pairing as: I became 20x more productive.\u00a0</p>\n<p><br></p>\n<p>We move on to a discussion of his new company https://WithMantel.com - which is looking for lighthouse customers in Q4Y23. If you&#39;ve got a Cap Table that you want to automate, you can become an early adopter for free.\u00a0</p>\n<p><br></p>\n<p>We round out with a wide-ranging discussion of little &#39;a&#39; agile observations.</p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/997unix/episodes/Pairing-made-me-20x-more-effective-a-conversation-with-Dwayne-Forde-e2aofa5",
+                    "pubDate": "Wed, 18 Oct 2023 18:30:06 GMT",
+                    "title": "\"Pairing made me 20x more effective\" a conversation with Dwayne Forde"
+                },
+                {
+                    "dc:creator": "relay451",
+                    "description": "<p>Recorded: Sept 15th, 02023</p>\n<p><br></p>\n<p>Guest: Jonathan Rogivue (aka JRO)</p>\n<p>Host: Tony Hansmann</p>\n<p><br></p>\n<p>Call to action:</p>\n<p>JRO is looking for pairs/partners for physical makerspaces in Austin, TX, USA or Medell\u00edn, Columbia</p>\n<p><br></p>\n<p>JRO Takes us on his pairing journey.</p>\n",
+                    "enclosure": {
+                        "@length": "30304683",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/e8f1fc64/podcast/play/77190947/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-13%2F7caf3221-49ca-91f9-ad89-2e37097b15ce.mp3"
+                    },
+                    "guid": {
+                        "#text": "885ff09e-4f3a-41d8-bd96-5f606d54a1ad",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:31:34",
+                    "itunes:episode": "7",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38981729/38981729-1697980285050-efa90c2b87448.jpg"
+                    },
+                    "itunes:season": "1",
+                    "itunes:summary": "<p>Recorded: Sept 15th, 02023</p>\n<p><br></p>\n<p>Guest: Jonathan Rogivue (aka JRO)</p>\n<p>Host: Tony Hansmann</p>\n<p><br></p>\n<p>Call to action:</p>\n<p>JRO is looking for pairs/partners for physical makerspaces in Austin, TX, USA or Medell\u00edn, Columbia</p>\n<p><br></p>\n<p>JRO Takes us on his pairing journey.</p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/997unix/episodes/JROs-Pairing-Journey-e2ai6b3",
+                    "pubDate": "Fri, 13 Oct 2023 23:40:16 GMT",
+                    "title": "JRO's Pairing Journey"
+                },
+                {
+                    "dc:creator": "relay451",
+                    "description": "<p>Recorded Oct 4th, 2023</p>\n<p>Guest: David Laing (Dublin, IR CF Pivot)</p>\n<p>Host: Tony Hansmann</p>\n<p><br></p>\n<p>Call to action: David is currently looking for collaborators who own production systems to participate in WellMaintained.io. Interested parties can join through their website.</p>\n<p>---</p>\n<p>In today&#39;s episode, David Lang to discuss his new organization, WellMaintained.io. The episode focuses on the problem of creating efficient and humane operational teams for running software in production environments.</p>\n<p><br></p>\n<p>Key Takeaways:</p>\n<p>Genesis of WellMaintained.io: </p>\n<p>David explains that the organization aims to extend the efficient software development practices proven at Pivotal to software operations. The goal is not just efficient operation but also a humane and energizing experience for practitioners.</p>\n<p><br></p>\n<p>Pain Points in Operations: Tony and David discuss the myriad issues in typical software operations, from expired certificates to unpredicted medium-term problems, dubbed as &quot;meso problems&quot;.</p>\n<p><br></p>\n<p>Learning from Pivotal: Both speakers highlight the success of the Pivotal model in software development and ponder its application in operations. They stress the importance of team organization, iterating on practices, and sharing context to keep a team alive indefinitely.</p>\n<p><br></p>\n<p>The Concept of &#39;Meso Problems&#39;: Operations have medium-term challenges that often go unnoticed. By tracking these &#39;meso problems,&#39; teams can preempt issues before they become crises.</p>\n<p><br></p>\n<p>Solution: Shorten the Loops: David recommends frequent rotations and check-ins to get good at solving recurring problems. For example, instead of a certificate that expires every five years, have it expire every month, practice renewing it, and make the process efficient.</p>\n<p><br></p>\n<p>Future Plans: David wants to hold a series of conversations to identify common pain points in operations. He is also open to community events, though none are scheduled yet.</p>\n<p><br></p>\n<p>For anyone interested in a new operational model inspired by Pivotal&#39;s success, visit Well-Maintained.org or connect on the Pivotal alumni Slack.</p>\n<p><br></p>\n<p>This episode provides a deep dive into how proven software development methodologies can be adapted to solve the pervasive issues plaguing software operations today.</p>\n",
+                    "enclosure": {
+                        "@length": "12703306",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/e8f1fc64/podcast/play/77188014/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-13%2F186dffae-0c31-0642-f0f3-91f93746331a.mp3"
+                    },
+                    "guid": {
+                        "#text": "d26c090c-b063-4f66-b82e-9df3c78d6d47",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:13:12",
+                    "itunes:episode": "6",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38981729/38981729-1697980285050-efa90c2b87448.jpg"
+                    },
+                    "itunes:season": "1",
+                    "itunes:summary": "<p>Recorded Oct 4th, 2023</p>\n<p>Guest: David Laing (Dublin, IR CF Pivot)</p>\n<p>Host: Tony Hansmann</p>\n<p><br></p>\n<p>Call to action: David is currently looking for collaborators who own production systems to participate in WellMaintained.io. Interested parties can join through their website.</p>\n<p>---</p>\n<p>In today&#39;s episode, David Lang to discuss his new organization, WellMaintained.io. The episode focuses on the problem of creating efficient and humane operational teams for running software in production environments.</p>\n<p><br></p>\n<p>Key Takeaways:</p>\n<p>Genesis of WellMaintained.io: </p>\n<p>David explains that the organization aims to extend the efficient software development practices proven at Pivotal to software operations. The goal is not just efficient operation but also a humane and energizing experience for practitioners.</p>\n<p><br></p>\n<p>Pain Points in Operations: Tony and David discuss the myriad issues in typical software operations, from expired certificates to unpredicted medium-term problems, dubbed as &quot;meso problems&quot;.</p>\n<p><br></p>\n<p>Learning from Pivotal: Both speakers highlight the success of the Pivotal model in software development and ponder its application in operations. They stress the importance of team organization, iterating on practices, and sharing context to keep a team alive indefinitely.</p>\n<p><br></p>\n<p>The Concept of &#39;Meso Problems&#39;: Operations have medium-term challenges that often go unnoticed. By tracking these &#39;meso problems,&#39; teams can preempt issues before they become crises.</p>\n<p><br></p>\n<p>Solution: Shorten the Loops: David recommends frequent rotations and check-ins to get good at solving recurring problems. For example, instead of a certificate that expires every five years, have it expire every month, practice renewing it, and make the process efficient.</p>\n<p><br></p>\n<p>Future Plans: David wants to hold a series of conversations to identify common pain points in operations. He is also open to community events, though none are scheduled yet.</p>\n<p><br></p>\n<p>For anyone interested in a new operational model inspired by Pivotal&#39;s success, visit Well-Maintained.org or connect on the Pivotal alumni Slack.</p>\n<p><br></p>\n<p>This episode provides a deep dive into how proven software development methodologies can be adapted to solve the pervasive issues plaguing software operations today.</p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/997unix/episodes/David-Laing-WellMaintained-io-e2ai3fe",
+                    "pubDate": "Fri, 13 Oct 2023 21:53:45 GMT",
+                    "title": "David Laing WellMaintained.io"
+                },
+                {
+                    "dc:creator": "relay451",
+                    "description": "<p>Joshua Aresty Paring Journey &amp;&amp; #OpenToGuests</p>\n<p><br></p>\n<p>Joshua Aresty and Tony Hansmann take us through joining Pivotal, a pure pairing shop where coding practices and team dynamics are on another level. Joshua narrates his accidental path to Pivotal&#39;s San Francisco office. There, he plunged into the Release Integration Team, pairing with a diverse set of folks that ranged from freelance genius to PhD math candidates.</p>\n<p><br></p>\n<p>At the heart of their discussion lies the concept of paired programming. For both Joshua and Tony, pairing went beyond coding; it established an intimate, productive co-mingling of intellectual capacities. They describe it as an &#39;entrained nervous system,&#39; leading to a form of work harmony that, once tasted, makes solo efforts seem impoverished in comparison.</p>\n<p><br></p>\n<p>The episode also touches on the &quot;stay interview&quot;\u2014a Pivotal 1:1 practice of asking: why are you not quitting today?</p>\n<p><br></p>\n<p>Joshua rounds out the discussion with a model for effective remote pairing with the #OpenToGuests model. As always, there\u2019s a practice to establish in your own shop.</p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n",
+                    "enclosure": {
+                        "@length": "74823703",
+                        "@type": "audio/x-m4a",
+                        "@url": "https://anchor.fm/s/e8f1fc64/podcast/play/77186796/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-13%2Fdeeacea1-b786-0eee-24e6-cbc5df619cd5.m4a"
+                    },
+                    "guid": {
+                        "#text": "1bffbf0b-e1ad-4854-960d-e3e693051f14",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "01:00:31",
+                    "itunes:episode": "5",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38981729/38981729-1697980285050-efa90c2b87448.jpg"
+                    },
+                    "itunes:season": "1",
+                    "itunes:summary": "<p>Joshua Aresty Paring Journey &amp;&amp; #OpenToGuests</p>\n<p><br></p>\n<p>Joshua Aresty and Tony Hansmann take us through joining Pivotal, a pure pairing shop where coding practices and team dynamics are on another level. Joshua narrates his accidental path to Pivotal&#39;s San Francisco office. There, he plunged into the Release Integration Team, pairing with a diverse set of folks that ranged from freelance genius to PhD math candidates.</p>\n<p><br></p>\n<p>At the heart of their discussion lies the concept of paired programming. For both Joshua and Tony, pairing went beyond coding; it established an intimate, productive co-mingling of intellectual capacities. They describe it as an &#39;entrained nervous system,&#39; leading to a form of work harmony that, once tasted, makes solo efforts seem impoverished in comparison.</p>\n<p><br></p>\n<p>The episode also touches on the &quot;stay interview&quot;\u2014a Pivotal 1:1 practice of asking: why are you not quitting today?</p>\n<p><br></p>\n<p>Joshua rounds out the discussion with a model for effective remote pairing with the #OpenToGuests model. As always, there\u2019s a practice to establish in your own shop.</p>\n<p><br></p>\n<p><br></p>\n<p><br></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/997unix/episodes/Joshua-Aresty-Pairing-Journey-and-OpenToGuests-e2ai29c",
+                    "pubDate": "Fri, 13 Oct 2023 21:08:23 GMT",
+                    "title": "Joshua Aresty Pairing Journey and #OpenToGuests"
+                },
+                {
+                    "dc:creator": "relay451",
+                    "description": "<p>Nat Bennett is an amazing observer of work and how it works. This is their essay on <a href=\"https://www.simplermachines.com/conservation-of-conflict/\" target=\"_blank\" rel=\"noopener noreferer\">The Conservation Of Conflict</a>, read by Jesse Alford. </p>\n<p>Nat argues that in any group, there will be a certain number of conflicts. These conflicts cannot be created or destroyed except by changing the group&#39;s composition.<br>Nat cites the example of teams arguing about features vs. chores. They argue this is often a sign the team is avoiding a more difficult conversation about who gets to decide what to work on.<br>Listen now and to get the full picuture!<br></p>\n<p><br></p>\n",
+                    "enclosure": {
+                        "@length": "10768251",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/e8f1fc64/podcast/play/75964313/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-16%2F7c88d477-0e81-41a1-2600-b37883a8ad81.mp3"
+                    },
+                    "guid": {
+                        "#text": "8e76569d-28e6-4dc3-8fd8-f6f4474a0662",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:11:07",
+                    "itunes:episode": "6",
+                    "itunes:episodeType": "bonus",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38981729/38981729-1697980285050-efa90c2b87448.jpg"
+                    },
+                    "itunes:season": "1",
+                    "itunes:summary": "<p>Nat Bennett is an amazing observer of work and how it works. This is their essay on <a href=\"https://www.simplermachines.com/conservation-of-conflict/\" target=\"_blank\" rel=\"noopener noreferer\">The Conservation Of Conflict</a>, read by Jesse Alford. </p>\n<p>Nat argues that in any group, there will be a certain number of conflicts. These conflicts cannot be created or destroyed except by changing the group&#39;s composition.<br>Nat cites the example of teams arguing about features vs. chores. They argue this is often a sign the team is avoiding a more difficult conversation about who gets to decide what to work on.<br>Listen now and to get the full picuture!<br></p>\n<p><br></p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/997unix/episodes/Nat-Bennett-Newsletter-Conservation-Of-Conflict-e29coep",
+                    "pubDate": "Sat, 16 Sep 2023 03:26:56 GMT",
+                    "title": "Nat Bennett Newsletter: Conservation Of Conflict"
+                },
+                {
+                    "dc:creator": "relay451",
+                    "description": "<p>Elisabeth Hendrickson is a transformational leader who mentored A LOT of folks at Pivotal. Join us for a conversation on the hows and whys of management and leadership at Pivotal.</p>\n",
+                    "enclosure": {
+                        "@length": "67067050",
+                        "@type": "audio/x-m4a",
+                        "@url": "https://anchor.fm/s/e8f1fc64/podcast/play/75963823/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-16%2F37f859d1-7a7d-78bc-ab1a-c72532663a59.m4a"
+                    },
+                    "guid": {
+                        "#text": "26292e46-8d43-4cb0-b85e-139e5a9465d1",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:55:52",
+                    "itunes:episode": "2",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38981729/38981729-1697980285050-efa90c2b87448.jpg"
+                    },
+                    "itunes:season": "1",
+                    "itunes:summary": "<p>Elisabeth Hendrickson is a transformational leader who mentored A LOT of folks at Pivotal. Join us for a conversation on the hows and whys of management and leadership at Pivotal.</p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/997unix/episodes/The-Difference-between-Kind-and-Nice-e29cnvf",
+                    "pubDate": "Sat, 16 Sep 2023 01:53:28 GMT",
+                    "title": "The Difference between Kind and Nice"
+                },
+                {
+                    "dc:creator": "relay451",
+                    "description": "<p>Jesse Alford and Tony Hansmann talk about the book &quot;Blindsight&quot; by Peter Watts.</p>\n<p><br></p>\n<p>Blindsight is intricate and very smart book. Exactly the kind of thing systems designers love to talk about.</p>\n",
+                    "enclosure": {
+                        "@length": "60521659",
+                        "@type": "audio/x-m4a",
+                        "@url": "https://anchor.fm/s/e8f1fc64/podcast/play/75963760/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-16%2Ff87f0714-cd95-33b7-bbda-7fbce3c97d54.m4a"
+                    },
+                    "guid": {
+                        "#text": "b8fae28f-e61a-4ee5-a571-9e6a4c7821af",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:50:02",
+                    "itunes:episode": "1",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38981729/38981729-1697980285050-efa90c2b87448.jpg"
+                    },
+                    "itunes:season": "1",
+                    "itunes:summary": "<p>Jesse Alford and Tony Hansmann talk about the book &quot;Blindsight&quot; by Peter Watts.</p>\n<p><br></p>\n<p>Blindsight is intricate and very smart book. Exactly the kind of thing systems designers love to talk about.</p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/997unix/episodes/Blindsight-Book-Review-e29cntg",
+                    "pubDate": "Sat, 16 Sep 2023 01:49:58 GMT",
+                    "title": "Blindsight Book Review"
+                },
+                {
+                    "dc:creator": "relay451",
+                    "description": "<p>Nat Bennett describes their pairing journey at Pivotal.</p>\n",
+                    "enclosure": {
+                        "@length": "30120586",
+                        "@type": "audio/x-m4a",
+                        "@url": "https://anchor.fm/s/e8f1fc64/podcast/play/75903150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-14%2F674fc70c-d2c8-aa2a-f0b4-e2e0c9aea5f9.m4a"
+                    },
+                    "guid": {
+                        "#text": "68c1b9b1-ac55-4903-92ce-e1c428870005",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:23:53",
+                    "itunes:episode": "5",
+                    "itunes:episodeType": "bonus",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/38981729/38981729-1694712411334-981ef85658098.jpg"
+                    },
+                    "itunes:season": "1",
+                    "itunes:summary": "<p>Nat Bennett describes their pairing journey at Pivotal.</p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/997unix/episodes/Nat-Bennett-Pairing-Journey-e29asne",
+                    "pubDate": "Thu, 14 Sep 2023 17:30:45 GMT",
+                    "title": "Nat Bennett Pairing Journey"
+                }
+            ],
+            "itunes:author": "relay451",
+            "itunes:category": {
+                "@text": "Technology"
+            },
+            "itunes:explicit": "No",
+            "itunes:image": {
+                "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38981729/38981729-1697980285050-efa90c2b87448.jpg"
+            },
+            "itunes:owner": {
+                "itunes:email": "hello@extremeIteration.io",
+                "itunes:name": "relay451"
+            },
+            "itunes:summary": "The XP Lifestyle",
+            "itunes:type": "episodic",
+            "language": "en-us",
+            "lastBuildDate": "Wed, 09 Oct 2024 07:35:22 GMT",
+            "link": "https://eXtremeIteration.io",
+            "title": "Radio Free XP"
+        }
+    }
+}

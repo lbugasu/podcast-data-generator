@@ -1,490 +1,456 @@
 {
-    "copyright": "Copyright \u00a9 Dow Jones & Company, Inc. All rights reserved.",
-    "description": "Every trading day, Numbers By Barron's breaks down the market's most important stories into three essential numbers.",
-    "feedUrl": "https://feeds.megaphone.fm/WSJ1870998318",
-    "image": {
-        "link": "https://www.barrons.com",
-        "title": "Numbers by Barron's",
-        "url": "https://megaphone.imgix.net/podcasts/ee34a314-5c01-11e9-9651-af4e5fb1d3cf/image/01__1_.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
-    },
-    "items": [
-        {
-            "content": "U.S. gross domestic product rose 1.1% in the first quarter. A survey on retirement confidence sees the steepest year-over-over decline since 2008. Plus, Mastercard\u2019s earnings report. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>U.S. gross domestic product rose 1.1% in the first quarter. A survey on retirement confidence sees the steepest year-over-over decline since 2008. Plus, Mastercard\u2019s earnings report. Host: Katie Ferguson.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "U.S. gross domestic product rose 1.1% in the first quarter. A survey on retirement confidence sees the steepest year-over-over decline since 2008. Plus, Mastercard\u2019s earnings report. Host: Katie Ferguson.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "U.S. gross domestic product rose 1.1% in the first quarter. A survey on retirement confidence sees the steepest year-over-over decline since 2008. Plus, Mastercard\u2019s earnings report. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9317093942.mp3?updated=1682665512"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:googleplay": "http://www.google.com/schemas/play-podcasts/1.0",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:media": "http://search.yahoo.com/mrss/",
+        "channel": {
+            "atom:link": {
+                "@href": "https://feeds.megaphone.fm/WSJ1870998318",
+                "@rel": "self",
+                "@type": "application/rss+xml"
             },
-            "guid": "5196bc08-e592-11ed-9b37-778e53a8966c",
-            "isoDate": "2023-04-28T07:00:00.000Z",
-            "itunes": {
-                "author": "Barron's",
-                "duration": "252",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "U.S. gross domestic product rose 1.1% in the first quarter. A survey on retirement confidence sees the steepest year-over-over decline since 2008. Plus, Mastercard\u2019s earnings report. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
+            "content:encoded": "<p>Every trading day, Numbers By Barron's breaks down the market's most important stories into three essential numbers.</p>",
+            "copyright": "Copyright \u00a9 Dow Jones & Company, Inc. All rights reserved.",
+            "description": "Every trading day, Numbers By Barron's breaks down the market's most important stories into three essential numbers.",
+            "image": {
+                "link": "https://www.barrons.com",
+                "palette": [
+                    "056E82",
+                    "F3BE23",
+                    "54BCB4",
+                    "0E97C4",
+                    "639EAB",
+                    "74924C"
+                ],
+                "title": "Numbers by Barron's",
+                "url": "https://megaphone.imgix.net/podcasts/ee34a314-5c01-11e9-9651-af4e5fb1d3cf/image/01__1_.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
             },
-            "pubDate": "Fri, 28 Apr 2023 07:00:00 -0000",
-            "title": "U.S. GDP Misses Economists\u2019 Forecasts in First Quarter"
-        },
-        {
-            "content": "Microsoft will appeal a U.K. regulator\u2019s decision to block its purchase of Activision. Norfolk Southern\u2019s earnings report includes a charge for its recent train derailment in Ohio. Plus, the clouds clear for Boeing. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>Microsoft will appeal a U.K. regulator\u2019s decision to block its purchase of Activision. Norfolk Southern\u2019s earnings report includes a charge for its recent train derailment in Ohio. Plus, the clouds clear for Boeing. Host: Katie Ferguson.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "Microsoft will appeal a U.K. regulator\u2019s decision to block its purchase of Activision. Norfolk Southern\u2019s earnings report includes a charge for its recent train derailment in Ohio. Plus, the clouds clear for Boeing. Host: Katie Ferguson.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "Microsoft will appeal a U.K. regulator\u2019s decision to block its purchase of Activision. Norfolk Southern\u2019s earnings report includes a charge for its recent train derailment in Ohio. Plus, the clouds clear for Boeing. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ2114456999.mp3?updated=1682579112"
+            "item": [
+                {
+                    "content:encoded": "<p>U.S. gross domestic product rose 1.1% in the first quarter. A survey on retirement confidence sees the steepest year-over-over decline since 2008. Plus, Mastercard\u2019s earnings report. Host: Katie Ferguson.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "U.S. gross domestic product rose 1.1% in the first quarter. A survey on retirement confidence sees the steepest year-over-over decline since 2008. Plus, Mastercard\u2019s earnings report. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9317093942.mp3?updated=1682665512"
+                    },
+                    "guid": {
+                        "#text": "5196bc08-e592-11ed-9b37-778e53a8966c",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barron's",
+                    "itunes:duration": "252",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "U.S. gross domestic product rose 1.1% in the first quarter. A survey on retirement confidence sees the steepest year-over-over decline since 2008. Plus, Mastercard\u2019s earnings report. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Fri, 28 Apr 2023 07:00:00 -0000",
+                    "title": "U.S. GDP Misses Economists\u2019 Forecasts in First Quarter"
+                },
+                {
+                    "content:encoded": "<p>Microsoft will appeal a U.K. regulator\u2019s decision to block its purchase of Activision. Norfolk Southern\u2019s earnings report includes a charge for its recent train derailment in Ohio. Plus, the clouds clear for Boeing. Host: Katie Ferguson.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "Microsoft will appeal a U.K. regulator\u2019s decision to block its purchase of Activision. Norfolk Southern\u2019s earnings report includes a charge for its recent train derailment in Ohio. Plus, the clouds clear for Boeing. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ2114456999.mp3?updated=1682579112"
+                    },
+                    "guid": {
+                        "#text": "273ddc58-e4c9-11ed-b473-e7d47b32770f",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barron's",
+                    "itunes:duration": "252",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "Microsoft will appeal a U.K. regulator\u2019s decision to block its purchase of Activision. Norfolk Southern\u2019s earnings report includes a charge for its recent train derailment in Ohio. Plus, the clouds clear for Boeing. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Thu, 27 Apr 2023 07:00:00 -0000",
+                    "title": "Microsoft\u2019s Acquisition of Activision Blizzard Blocked in the U.K."
+                },
+                {
+                    "content:encoded": "<p>The federal funds futures market is pricing in a roughly 70% chance that the central bank will pause rate increases in June. Plus, a look at home prices and Verizon\u2019s earnings. Host: Katie Ferguson.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "The federal funds futures market is pricing in a roughly 70% chance that the central bank will pause rate increases in June. Plus, a look at home prices and Verizon\u2019s earnings. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ2890482213.mp3?updated=1682492713"
+                    },
+                    "guid": {
+                        "#text": "fd1a87e2-e3ff-11ed-8687-3f4c188926c1",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barron's",
+                    "itunes:duration": "247",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "The federal funds futures market is pricing in a roughly 70% chance that the central bank will pause rate increases in June. Plus, a look at home prices and Verizon\u2019s earnings. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Wed, 26 Apr 2023 07:00:00 -0000",
+                    "title": "A Federal Reserve Rate Hike Pause May Be On Its Way"
+                },
+                {
+                    "content:encoded": "<p>Coca-Cola beats earnings and sales estimates amid price increases. Bed Bath &amp; Beyond files for bankruptcy. Plus, Disney\u2019s latest round of layoffs. Host: Katie Ferguson.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "Coca-Cola beats earnings and sales estimates amid price increases. Bed Bath & Beyond files for bankruptcy. Plus, Disney\u2019s latest round of layoffs. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5903351419.mp3?updated=1682406311"
+                    },
+                    "guid": {
+                        "#text": "d1e70f60-e336-11ed-88d2-abdfa3e81cb0",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barron's",
+                    "itunes:duration": "225",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "Coca-Cola beats earnings and sales estimates amid price increases. Bed Bath & Beyond files for bankruptcy. Plus, Disney\u2019s latest round of layoffs. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Tue, 25 Apr 2023 07:00:00 -0000",
+                    "title": "Bed Bath & Beyond\u2019s Closing Plans"
+                },
+                {
+                    "content:encoded": "<p>The Conference Board\u2019s Leading Economic Index declines for the twelfth month in a row. A preview of Amazon\u2019s earnings this week. Plus, is a bargain store a bargain stock? Host: Katie Ferguson.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "The Conference Board\u2019s Leading Economic Index declines for the twelfth month in a row. A preview of Amazon\u2019s earnings this week. Plus, is a bargain store a bargain stock? Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8645794198.mp3?updated=1682319911"
+                    },
+                    "guid": {
+                        "#text": "a74c8c0e-e26d-11ed-a75e-e3a6bfb81a98",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barron's",
+                    "itunes:duration": "228",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "The Conference Board\u2019s Leading Economic Index declines for the twelfth month in a row. A preview of Amazon\u2019s earnings this week. Plus, is a bargain store a bargain stock? Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Mon, 24 Apr 2023 07:00:00 -0000",
+                    "title": "Recession Fears On the Rise"
+                },
+                {
+                    "content:encoded": "<p>American Express posts its latest earnings report. Why electric vehicles often launch in Norway. Plus, SpaceX\u2019s latest rocket launches. Host: Nick Devor.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "American Express posts its latest earnings report. Why electric vehicles often launch in Norway. Plus, SpaceX\u2019s latest rocket launches. Host: Nick Devor.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7477960133.mp3?updated=1682060711"
+                    },
+                    "guid": {
+                        "#text": "28626cd6-e012-11ed-95bc-f3e46a8c5967",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barron's",
+                    "itunes:duration": "303",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "American Express posts its latest earnings report. Why electric vehicles often launch in Norway. Plus, SpaceX\u2019s latest rocket launches. Host: Nick Devor.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Fri, 21 Apr 2023 07:00:00 -0000",
+                    "title": "Ford\u2019s F-150 Lightning to Launch Abroad"
+                },
+                {
+                    "content:encoded": "<p>Meta and Amazon push on with job cuts. Netflix\u2019s password-sharing crackdown is coming soon. And the mortgage squeeze triggers big layoffs on home buying and selling platform Opendoor Technologies. Host: Nick Devor.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "Meta and Amazon push on with job cuts. Netflix\u2019s password-sharing crackdown is coming soon. And the mortgage squeeze triggers big layoffs on home buying and selling platform Opendoor Technologies. Host: Nick Devor.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5761823050.mp3?updated=1681974312"
+                    },
+                    "guid": {
+                        "#text": "fe68400a-df48-11ed-aa2c-5bbf1fde1a96",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barron's",
+                    "itunes:duration": "262",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "Meta and Amazon push on with job cuts. Netflix\u2019s password-sharing crackdown is coming soon. And the mortgage squeeze triggers big layoffs on home buying and selling platform Opendoor Technologies. Host: Nick Devor.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Thu, 20 Apr 2023 07:00:00 -0000",
+                    "title": "Netflix is Rolling Out \u2018Paid Sharing\u2019"
+                },
+                {
+                    "content:encoded": "<p>IPO for J&amp;J\u2019s Consumer Health Division is coming soon. Big banks post better-than-expected earnings. And the winners and losers From the IRS EV-update. Host: Nick Devor.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "IPO for J&J\u2019s Consumer Health Division is coming soon. Big banks post better-than-expected earnings. And the winners and losers From the IRS EV-update. Host: Nick Devor.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9519826016.mp3?updated=1681887912"
+                    },
+                    "guid": {
+                        "#text": "d44d9c58-de7f-11ed-8140-93e5c26b4d79",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barron's",
+                    "itunes:duration": "285",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "IPO for J&J\u2019s Consumer Health Division is coming soon. Big banks post better-than-expected earnings. And the winners and losers From the IRS EV-update. Host: Nick Devor.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Wed, 19 Apr 2023 07:00:00 -0000",
+                    "title": "Bank of America\u2019s Profit Climbs 15%"
+                },
+                {
+                    "content:encoded": "<p>Netflix\u2019s big week is off to a bad start. 60 S&amp;P 500 companies report earnings this week. Plus, Apple\u2019s latest venture into the financial space. Host: Katie Ferguson.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "Netflix\u2019s big week is off to a bad start. 60 S&P 500 companies report earnings this week. Plus, Apple\u2019s latest venture into the financial space. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4863310999.mp3?updated=1681801512"
+                    },
+                    "guid": {
+                        "#text": "a9b13ea6-ddb6-11ed-b988-17deffc44cd0",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barron's",
+                    "itunes:duration": "264",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "Netflix\u2019s big week is off to a bad start. 60 S&P 500 companies report earnings this week. Plus, Apple\u2019s latest venture into the financial space. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Tue, 18 Apr 2023 07:00:00 -0000",
+                    "title": "Earnings Season Is Here"
+                },
+                {
+                    "content:encoded": "<p>Consumer spending and sentiment is taking a hit. Corporate defaults are at their highest level since 2016. Plus, which stocks have rallied more than 1,000 in the last decade? Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "Consumer spending and sentiment is taking a hit. Corporate defaults are at their highest level since 2016. Plus, which stocks have rallied more than 1,000 in the last decade? Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4789131666.mp3?updated=1681715111"
+                    },
+                    "guid": {
+                        "#text": "7e83d442-dced-11ed-93ce-0baf5b73f84e",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barron's",
+                    "itunes:duration": "262",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "Consumer spending and sentiment is taking a hit. Corporate defaults are at their highest level since 2016. Plus, which stocks have rallied more than 1,000 in the last decade? Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Mon, 17 Apr 2023 07:00:00 -0000",
+                    "title": "Retail Sales Fell 1% in March"
+                },
+                {
+                    "content:encoded": "<p>Producer price data shows a cooldown in inflation. Coinbase might be missing out on the latest crypto rally. And e-cigarette companies could hit speed bumps ahead. Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "Producer price data shows a cooldown in inflation. Coinbase might be missing out on the latest crypto rally. And e-cigarette companies could hit speed bumps ahead. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6320678210.mp3?updated=1681455912"
+                    },
+                    "guid": {
+                        "#text": "0030f1e0-da92-11ed-9667-032a297c37f4",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barron's",
+                    "itunes:duration": "330",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "Producer price data shows a cooldown in inflation. Coinbase might be missing out on the latest crypto rally. And e-cigarette companies could hit speed bumps ahead. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Fri, 14 Apr 2023 07:00:00 -0000",
+                    "title": "Mortgage Rates Fall for Fifth Week in a Row"
+                },
+                {
+                    "content:encoded": "<p>Core inflation data from March might push the Federal Reserve to raise interest rates again next month. LVMH earnings show the strength of luxury shoppers. And the rate on Treasury I-Bonds could fall to about 3.8% in May. Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "Core inflation data from March might push the Federal Reserve to raise interest rates again next month. LVMH earnings show the strength of luxury shoppers. And the rate on Treasury I-Bonds could fall to about 3.8% in May. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7375987979.mp3?updated=1681369512"
+                    },
+                    "guid": {
+                        "#text": "d5bab604-d9c8-11ed-8f8e-abb8efa33be7",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barron's",
+                    "itunes:duration": "299",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "Core inflation data from March might push the Federal Reserve to raise interest rates again next month. LVMH earnings show the strength of luxury shoppers. And the rate on Treasury I-Bonds could fall to about 3.8% in May. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Thu, 13 Apr 2023 07:00:00 -0000",
+                    "title": "Core Inflation Remain Stubborn. I-Bond Rates Set to Fall."
+                },
+                {
+                    "content:encoded": "<p>Weight Watchers will soon be able to prescribe weight-loss drugs. Boeing delivers more passenger jets than expected. And Bitcoin tops $30,000. Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "Weight Watchers will soon be able to prescribe weight-loss drugs. Boeing delivers more passenger jets than expected. And Bitcoin tops $30,000. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ2535628866.mp3?updated=1681283113"
+                    },
+                    "guid": {
+                        "#text": "ac132170-d8ff-11ed-aefc-ff31423553a4",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barron's",
+                    "itunes:duration": "316",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "Weight Watchers will soon be able to prescribe weight-loss drugs. Boeing delivers more passenger jets than expected. And Bitcoin tops $30,000. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Wed, 12 Apr 2023 07:00:00 -0000",
+                    "title": "Bitcoin Tops $30,000"
+                },
+                {
+                    "content:encoded": "<p>Americans are spending more of their income on vehicle payments. \u2018Super Mario Bros\u2019 shines at the box office. And PC sales plunge. Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "Americans are spending more of their income on vehicle payments. \u2018Super Mario Bros\u2019 shines at the box office. And PC sales plunge. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1942529261.mp3?updated=1681196711"
+                    },
+                    "guid": {
+                        "#text": "804de198-d836-11ed-9cc6-33e31eec1786",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barron's",
+                    "itunes:duration": "357",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "Americans are spending more of their income on vehicle payments. \u2018Super Mario Bros\u2019 shines at the box office. And PC sales plunge. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Tue, 11 Apr 2023 07:00:00 -0000",
+                    "title": "The Rise of the $1,000 Car Payment"
+                },
+                {
+                    "content:encoded": "<p>A look at the latest U.S. job data. Are we in danger of a credit crunch? Plus, why Gen Z is saving for retirement. Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "A look at the latest U.S. job data. Are we in danger of a credit crunch? Plus, why Gen Z is saving for retirement. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4537218334.mp3?updated=1681110317"
+                    },
+                    "guid": {
+                        "#text": "57c851be-d76d-11ed-bb56-cf96f1514038",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barron's",
+                    "itunes:duration": "340",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "A look at the latest U.S. job data. Are we in danger of a credit crunch? Plus, why Gen Z is saving for retirement. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Mon, 10 Apr 2023 07:00:00 -0000",
+                    "title": "Job Growth Hit the Slowest Pace in Two Years in March"
+                },
+                {
+                    "content:encoded": "<p>March jobs data will be released, but the market reaction will wait. The 20 largest stocks in the S&amp;P 500 have added almost $2 trillion in market cap. Plus, will Disney fully acquire Hulu? Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "March jobs data will be released, but the market reaction will wait. The 20 largest stocks in the S&P 500 have added almost $2 trillion in market cap. Plus, will Disney fully acquire Hulu? Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4299007688.mp3?updated=1680851116"
+                    },
+                    "guid": {
+                        "#text": "d99ddb18-d511-11ed-9f02-7f266855399e",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barron's",
+                    "itunes:duration": "302",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "March jobs data will be released, but the market reaction will wait. The 20 largest stocks in the S&P 500 have added almost $2 trillion in market cap. Plus, will Disney fully acquire Hulu? Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Fri, 07 Apr 2023 07:00:00 -0000",
+                    "title": "The S&P 500 Is Up 7% This Year"
+                },
+                {
+                    "content:encoded": "<p>Analysts expect companies to tighten their belts in the years ahead. ConAgra raises its earnings forecast, but sales remain sluggish. And FedEx will soon combine its delivery networks to shed costs. Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "Analysts expect companies to tighten their belts in the years ahead. ConAgra raises its earnings forecast, but sales remain sluggish. And FedEx will soon combine its delivery networks to shed costs. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6370189721.mp3?updated=1680771913"
+                    },
+                    "guid": {
+                        "#text": "70d32312-d459-11ed-9e77-132d9b6f3887",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barron's",
+                    "itunes:duration": "308",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "Analysts expect companies to tighten their belts in the years ahead. ConAgra raises its earnings forecast, but sales remain sluggish. And FedEx will soon combine its delivery networks to shed costs. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Thu, 06 Apr 2023 09:00:00 -0000",
+                    "title": "The Big Capex Spending Slowdown"
+                },
+                {
+                    "content:encoded": "<p>The dollar index falls, making foreign goods pricier. Johnson and Johnson settles talc claims for $8.9 billion. And higher interest rates means fewer new bonds. Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "The dollar index falls, making foreign goods pricier. Johnson and Johnson settles talc claims for $8.9 billion. And higher interest rates means fewer new bonds. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6801855785.mp3?updated=1680678312"
+                    },
+                    "guid": {
+                        "#text": "82925a8a-d37f-11ed-8859-ab03dde55834",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barron's",
+                    "itunes:duration": "248",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "The dollar index falls, making foreign goods pricier. Johnson and Johnson settles talc claims for $8.9 billion. And higher interest rates means fewer new bonds. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Wed, 05 Apr 2023 07:00:00 -0000",
+                    "title": "A Weaker Dollar Makes the Fed\u2019s Job More Difficult"
+                },
+                {
+                    "content:encoded": "<p>EV makers report mixed first quarter deliveries. U.S. investors start to shun ESG investing. And OPEC+ cuts oil production.</p>\n<p>Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "EV makers report mixed first quarter deliveries. U.S. investors start to shun ESG investing. And OPEC+ cuts oil production.\n\nHost: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6512602412.mp3?updated=1680591913"
+                    },
+                    "guid": {
+                        "#text": "584a77cc-d2b6-11ed-b27c-6fcf53954626",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barron's",
+                    "itunes:duration": "284",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "EV makers report mixed first quarter deliveries. U.S. investors start to shun ESG investing. And OPEC+ cuts oil production.\n\nHost: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Tue, 04 Apr 2023 07:00:00 -0000",
+                    "title": "Tesla sets delivery record. Why the stock fell."
+                },
+                {
+                    "content:encoded": "<p>The latest reading of the Fed\u2019s preferred inflation metric. Which platform stands to benefit from a TikTok ban? Plus, a look at the demand for nickel. Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+                    "description": "The latest reading of the Fed\u2019s preferred inflation metric. Which platform stands to benefit from a TikTok ban? Plus, a look at the demand for nickel. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4390351053.mp3?updated=1680505514"
+                    },
+                    "guid": {
+                        "#text": "2e157f7a-d1ed-11ed-a17c-6fcd261af2e7",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barron's",
+                    "itunes:duration": "314",
+                    "itunes:episodeType": "full",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "The latest reading of the Fed\u2019s preferred inflation metric. Which platform stands to benefit from a TikTok ban? Plus, a look at the demand for nickel. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "pubDate": "Mon, 03 Apr 2023 07:00:00 -0000",
+                    "title": "Core PCE Up 4.6% for February"
+                }
+            ],
+            "itunes:author": "Barron's",
+            "itunes:category": {
+                "@text": "Business",
+                "itunes:category": {
+                    "@text": "Investing"
+                }
             },
-            "guid": "273ddc58-e4c9-11ed-b473-e7d47b32770f",
-            "isoDate": "2023-04-27T07:00:00.000Z",
-            "itunes": {
-                "author": "Barron's",
-                "duration": "252",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "Microsoft will appeal a U.K. regulator\u2019s decision to block its purchase of Activision. Norfolk Southern\u2019s earnings report includes a charge for its recent train derailment in Ohio. Plus, the clouds clear for Boeing. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
+            "itunes:explicit": "no",
+            "itunes:image": {
+                "@href": "https://megaphone.imgix.net/podcasts/ee34a314-5c01-11e9-9651-af4e5fb1d3cf/image/01__1_.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
             },
-            "pubDate": "Thu, 27 Apr 2023 07:00:00 -0000",
-            "title": "Microsoft\u2019s Acquisition of Activision Blizzard Blocked in the U.K."
-        },
-        {
-            "content": "The federal funds futures market is pricing in a roughly 70% chance that the central bank will pause rate increases in June. Plus, a look at home prices and Verizon\u2019s earnings. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>The federal funds futures market is pricing in a roughly 70% chance that the central bank will pause rate increases in June. Plus, a look at home prices and Verizon\u2019s earnings. Host: Katie Ferguson.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "The federal funds futures market is pricing in a roughly 70% chance that the central bank will pause rate increases in June. Plus, a look at home prices and Verizon\u2019s earnings. Host: Katie Ferguson.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "The federal funds futures market is pricing in a roughly 70% chance that the central bank will pause rate increases in June. Plus, a look at home prices and Verizon\u2019s earnings. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ2890482213.mp3?updated=1682492713"
+            "itunes:owner": {
+                "itunes:email": "podcasts@dowjones.com",
+                "itunes:name": ""
             },
-            "guid": "fd1a87e2-e3ff-11ed-8687-3f4c188926c1",
-            "isoDate": "2023-04-26T07:00:00.000Z",
-            "itunes": {
-                "author": "Barron's",
-                "duration": "247",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "The federal funds futures market is pricing in a roughly 70% chance that the central bank will pause rate increases in June. Plus, a look at home prices and Verizon\u2019s earnings. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Wed, 26 Apr 2023 07:00:00 -0000",
-            "title": "A Federal Reserve Rate Hike Pause May Be On Its Way"
-        },
-        {
-            "content": "Coca-Cola beats earnings and sales estimates amid price increases. Bed Bath & Beyond files for bankruptcy. Plus, Disney\u2019s latest round of layoffs. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>Coca-Cola beats earnings and sales estimates amid price increases. Bed Bath &amp; Beyond files for bankruptcy. Plus, Disney\u2019s latest round of layoffs. Host: Katie Ferguson.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "Coca-Cola beats earnings and sales estimates amid price increases. Bed Bath & Beyond files for bankruptcy. Plus, Disney\u2019s latest round of layoffs. Host: Katie Ferguson.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "Coca-Cola beats earnings and sales estimates amid price increases. Bed Bath & Beyond files for bankruptcy. Plus, Disney\u2019s latest round of layoffs. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5903351419.mp3?updated=1682406311"
-            },
-            "guid": "d1e70f60-e336-11ed-88d2-abdfa3e81cb0",
-            "isoDate": "2023-04-25T07:00:00.000Z",
-            "itunes": {
-                "author": "Barron's",
-                "duration": "225",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "Coca-Cola beats earnings and sales estimates amid price increases. Bed Bath & Beyond files for bankruptcy. Plus, Disney\u2019s latest round of layoffs. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Tue, 25 Apr 2023 07:00:00 -0000",
-            "title": "Bed Bath & Beyond\u2019s Closing Plans"
-        },
-        {
-            "content": "The Conference Board\u2019s Leading Economic Index declines for the twelfth month in a row. A preview of Amazon\u2019s earnings this week. Plus, is a bargain store a bargain stock? Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>The Conference Board\u2019s Leading Economic Index declines for the twelfth month in a row. A preview of Amazon\u2019s earnings this week. Plus, is a bargain store a bargain stock? Host: Katie Ferguson.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "The Conference Board\u2019s Leading Economic Index declines for the twelfth month in a row. A preview of Amazon\u2019s earnings this week. Plus, is a bargain store a bargain stock? Host: Katie Ferguson.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "The Conference Board\u2019s Leading Economic Index declines for the twelfth month in a row. A preview of Amazon\u2019s earnings this week. Plus, is a bargain store a bargain stock? Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ8645794198.mp3?updated=1682319911"
-            },
-            "guid": "a74c8c0e-e26d-11ed-a75e-e3a6bfb81a98",
-            "isoDate": "2023-04-24T07:00:00.000Z",
-            "itunes": {
-                "author": "Barron's",
-                "duration": "228",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "The Conference Board\u2019s Leading Economic Index declines for the twelfth month in a row. A preview of Amazon\u2019s earnings this week. Plus, is a bargain store a bargain stock? Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Mon, 24 Apr 2023 07:00:00 -0000",
-            "title": "Recession Fears On the Rise"
-        },
-        {
-            "content": "American Express posts its latest earnings report. Why electric vehicles often launch in Norway. Plus, SpaceX\u2019s latest rocket launches. Host: Nick Devor.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>American Express posts its latest earnings report. Why electric vehicles often launch in Norway. Plus, SpaceX\u2019s latest rocket launches. Host: Nick Devor.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "American Express posts its latest earnings report. Why electric vehicles often launch in Norway. Plus, SpaceX\u2019s latest rocket launches. Host: Nick Devor.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "American Express posts its latest earnings report. Why electric vehicles often launch in Norway. Plus, SpaceX\u2019s latest rocket launches. Host: Nick Devor.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7477960133.mp3?updated=1682060711"
-            },
-            "guid": "28626cd6-e012-11ed-95bc-f3e46a8c5967",
-            "isoDate": "2023-04-21T07:00:00.000Z",
-            "itunes": {
-                "author": "Barron's",
-                "duration": "303",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "American Express posts its latest earnings report. Why electric vehicles often launch in Norway. Plus, SpaceX\u2019s latest rocket launches. Host: Nick Devor.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Fri, 21 Apr 2023 07:00:00 -0000",
-            "title": "Ford\u2019s F-150 Lightning to Launch Abroad"
-        },
-        {
-            "content": "Meta and Amazon push on with job cuts. Netflix\u2019s password-sharing crackdown is coming soon. And the mortgage squeeze triggers big layoffs on home buying and selling platform Opendoor Technologies. Host: Nick Devor.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>Meta and Amazon push on with job cuts. Netflix\u2019s password-sharing crackdown is coming soon. And the mortgage squeeze triggers big layoffs on home buying and selling platform Opendoor Technologies. Host: Nick Devor.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "Meta and Amazon push on with job cuts. Netflix\u2019s password-sharing crackdown is coming soon. And the mortgage squeeze triggers big layoffs on home buying and selling platform Opendoor Technologies. Host: Nick Devor.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "Meta and Amazon push on with job cuts. Netflix\u2019s password-sharing crackdown is coming soon. And the mortgage squeeze triggers big layoffs on home buying and selling platform Opendoor Technologies. Host: Nick Devor.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ5761823050.mp3?updated=1681974312"
-            },
-            "guid": "fe68400a-df48-11ed-aa2c-5bbf1fde1a96",
-            "isoDate": "2023-04-20T07:00:00.000Z",
-            "itunes": {
-                "author": "Barron's",
-                "duration": "262",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "Meta and Amazon push on with job cuts. Netflix\u2019s password-sharing crackdown is coming soon. And the mortgage squeeze triggers big layoffs on home buying and selling platform Opendoor Technologies. Host: Nick Devor.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Thu, 20 Apr 2023 07:00:00 -0000",
-            "title": "Netflix is Rolling Out \u2018Paid Sharing\u2019"
-        },
-        {
-            "content": "IPO for J&J\u2019s Consumer Health Division is coming soon. Big banks post better-than-expected earnings. And the winners and losers From the IRS EV-update. Host: Nick Devor.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>IPO for J&amp;J\u2019s Consumer Health Division is coming soon. Big banks post better-than-expected earnings. And the winners and losers From the IRS EV-update. Host: Nick Devor.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "IPO for J&J\u2019s Consumer Health Division is coming soon. Big banks post better-than-expected earnings. And the winners and losers From the IRS EV-update. Host: Nick Devor.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "IPO for J&J\u2019s Consumer Health Division is coming soon. Big banks post better-than-expected earnings. And the winners and losers From the IRS EV-update. Host: Nick Devor.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ9519826016.mp3?updated=1681887912"
-            },
-            "guid": "d44d9c58-de7f-11ed-8140-93e5c26b4d79",
-            "isoDate": "2023-04-19T07:00:00.000Z",
-            "itunes": {
-                "author": "Barron's",
-                "duration": "285",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "IPO for J&J\u2019s Consumer Health Division is coming soon. Big banks post better-than-expected earnings. And the winners and losers From the IRS EV-update. Host: Nick Devor.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Wed, 19 Apr 2023 07:00:00 -0000",
-            "title": "Bank of America\u2019s Profit Climbs 15%"
-        },
-        {
-            "content": "Netflix\u2019s big week is off to a bad start. 60 S&P 500 companies report earnings this week. Plus, Apple\u2019s latest venture into the financial space. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>Netflix\u2019s big week is off to a bad start. 60 S&amp;P 500 companies report earnings this week. Plus, Apple\u2019s latest venture into the financial space. Host: Katie Ferguson.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "Netflix\u2019s big week is off to a bad start. 60 S&P 500 companies report earnings this week. Plus, Apple\u2019s latest venture into the financial space. Host: Katie Ferguson.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "Netflix\u2019s big week is off to a bad start. 60 S&P 500 companies report earnings this week. Plus, Apple\u2019s latest venture into the financial space. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4863310999.mp3?updated=1681801512"
-            },
-            "guid": "a9b13ea6-ddb6-11ed-b988-17deffc44cd0",
-            "isoDate": "2023-04-18T07:00:00.000Z",
-            "itunes": {
-                "author": "Barron's",
-                "duration": "264",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "Netflix\u2019s big week is off to a bad start. 60 S&P 500 companies report earnings this week. Plus, Apple\u2019s latest venture into the financial space. Host: Katie Ferguson.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Tue, 18 Apr 2023 07:00:00 -0000",
-            "title": "Earnings Season Is Here"
-        },
-        {
-            "content": "Consumer spending and sentiment is taking a hit. Corporate defaults are at their highest level since 2016. Plus, which stocks have rallied more than 1,000 in the last decade? Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>Consumer spending and sentiment is taking a hit. Corporate defaults are at their highest level since 2016. Plus, which stocks have rallied more than 1,000 in the last decade? Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "Consumer spending and sentiment is taking a hit. Corporate defaults are at their highest level since 2016. Plus, which stocks have rallied more than 1,000 in the last decade? Host: Jackson Cantrell.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "Consumer spending and sentiment is taking a hit. Corporate defaults are at their highest level since 2016. Plus, which stocks have rallied more than 1,000 in the last decade? Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4789131666.mp3?updated=1681715111"
-            },
-            "guid": "7e83d442-dced-11ed-93ce-0baf5b73f84e",
-            "isoDate": "2023-04-17T07:00:00.000Z",
-            "itunes": {
-                "author": "Barron's",
-                "duration": "262",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "Consumer spending and sentiment is taking a hit. Corporate defaults are at their highest level since 2016. Plus, which stocks have rallied more than 1,000 in the last decade? Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Mon, 17 Apr 2023 07:00:00 -0000",
-            "title": "Retail Sales Fell 1% in March"
-        },
-        {
-            "content": "Producer price data shows a cooldown in inflation. Coinbase might be missing out on the latest crypto rally. And e-cigarette companies could hit speed bumps ahead. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>Producer price data shows a cooldown in inflation. Coinbase might be missing out on the latest crypto rally. And e-cigarette companies could hit speed bumps ahead. Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "Producer price data shows a cooldown in inflation. Coinbase might be missing out on the latest crypto rally. And e-cigarette companies could hit speed bumps ahead. Host: Jackson Cantrell.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "Producer price data shows a cooldown in inflation. Coinbase might be missing out on the latest crypto rally. And e-cigarette companies could hit speed bumps ahead. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6320678210.mp3?updated=1681455912"
-            },
-            "guid": "0030f1e0-da92-11ed-9667-032a297c37f4",
-            "isoDate": "2023-04-14T07:00:00.000Z",
-            "itunes": {
-                "author": "Barron's",
-                "duration": "330",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "Producer price data shows a cooldown in inflation. Coinbase might be missing out on the latest crypto rally. And e-cigarette companies could hit speed bumps ahead. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Fri, 14 Apr 2023 07:00:00 -0000",
-            "title": "Mortgage Rates Fall for Fifth Week in a Row"
-        },
-        {
-            "content": "Core inflation data from March might push the Federal Reserve to raise interest rates again next month. LVMH earnings show the strength of luxury shoppers. And the rate on Treasury I-Bonds could fall to about 3.8% in May. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>Core inflation data from March might push the Federal Reserve to raise interest rates again next month. LVMH earnings show the strength of luxury shoppers. And the rate on Treasury I-Bonds could fall to about 3.8% in May. Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "Core inflation data from March might push the Federal Reserve to raise interest rates again next month. LVMH earnings show the strength of luxury shoppers. And the rate on Treasury I-Bonds could fall to about 3.8% in May. Host: Jackson Cantrell.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "Core inflation data from March might push the Federal Reserve to raise interest rates again next month. LVMH earnings show the strength of luxury shoppers. And the rate on Treasury I-Bonds could fall to about 3.8% in May. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ7375987979.mp3?updated=1681369512"
-            },
-            "guid": "d5bab604-d9c8-11ed-8f8e-abb8efa33be7",
-            "isoDate": "2023-04-13T07:00:00.000Z",
-            "itunes": {
-                "author": "Barron's",
-                "duration": "299",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "Core inflation data from March might push the Federal Reserve to raise interest rates again next month. LVMH earnings show the strength of luxury shoppers. And the rate on Treasury I-Bonds could fall to about 3.8% in May. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Thu, 13 Apr 2023 07:00:00 -0000",
-            "title": "Core Inflation Remain Stubborn. I-Bond Rates Set to Fall."
-        },
-        {
-            "content": "Weight Watchers will soon be able to prescribe weight-loss drugs. Boeing delivers more passenger jets than expected. And Bitcoin tops $30,000. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>Weight Watchers will soon be able to prescribe weight-loss drugs. Boeing delivers more passenger jets than expected. And Bitcoin tops $30,000. Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "Weight Watchers will soon be able to prescribe weight-loss drugs. Boeing delivers more passenger jets than expected. And Bitcoin tops $30,000. Host: Jackson Cantrell.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "Weight Watchers will soon be able to prescribe weight-loss drugs. Boeing delivers more passenger jets than expected. And Bitcoin tops $30,000. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ2535628866.mp3?updated=1681283113"
-            },
-            "guid": "ac132170-d8ff-11ed-aefc-ff31423553a4",
-            "isoDate": "2023-04-12T07:00:00.000Z",
-            "itunes": {
-                "author": "Barron's",
-                "duration": "316",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "Weight Watchers will soon be able to prescribe weight-loss drugs. Boeing delivers more passenger jets than expected. And Bitcoin tops $30,000. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Wed, 12 Apr 2023 07:00:00 -0000",
-            "title": "Bitcoin Tops $30,000"
-        },
-        {
-            "content": "Americans are spending more of their income on vehicle payments. \u2018Super Mario Bros\u2019 shines at the box office. And PC sales plunge. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>Americans are spending more of their income on vehicle payments. \u2018Super Mario Bros\u2019 shines at the box office. And PC sales plunge. Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "Americans are spending more of their income on vehicle payments. \u2018Super Mario Bros\u2019 shines at the box office. And PC sales plunge. Host: Jackson Cantrell.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "Americans are spending more of their income on vehicle payments. \u2018Super Mario Bros\u2019 shines at the box office. And PC sales plunge. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ1942529261.mp3?updated=1681196711"
-            },
-            "guid": "804de198-d836-11ed-9cc6-33e31eec1786",
-            "isoDate": "2023-04-11T07:00:00.000Z",
-            "itunes": {
-                "author": "Barron's",
-                "duration": "357",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "Americans are spending more of their income on vehicle payments. \u2018Super Mario Bros\u2019 shines at the box office. And PC sales plunge. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Tue, 11 Apr 2023 07:00:00 -0000",
-            "title": "The Rise of the $1,000 Car Payment"
-        },
-        {
-            "content": "A look at the latest U.S. job data. Are we in danger of a credit crunch? Plus, why Gen Z is saving for retirement. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>A look at the latest U.S. job data. Are we in danger of a credit crunch? Plus, why Gen Z is saving for retirement. Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "A look at the latest U.S. job data. Are we in danger of a credit crunch? Plus, why Gen Z is saving for retirement. Host: Jackson Cantrell.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "A look at the latest U.S. job data. Are we in danger of a credit crunch? Plus, why Gen Z is saving for retirement. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4537218334.mp3?updated=1681110317"
-            },
-            "guid": "57c851be-d76d-11ed-bb56-cf96f1514038",
-            "isoDate": "2023-04-10T07:00:00.000Z",
-            "itunes": {
-                "author": "Barron's",
-                "duration": "340",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "A look at the latest U.S. job data. Are we in danger of a credit crunch? Plus, why Gen Z is saving for retirement. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Mon, 10 Apr 2023 07:00:00 -0000",
-            "title": "Job Growth Hit the Slowest Pace in Two Years in March"
-        },
-        {
-            "content": "March jobs data will be released, but the market reaction will wait. The 20 largest stocks in the S&P 500 have added almost $2 trillion in market cap. Plus, will Disney fully acquire Hulu? Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>March jobs data will be released, but the market reaction will wait. The 20 largest stocks in the S&amp;P 500 have added almost $2 trillion in market cap. Plus, will Disney fully acquire Hulu? Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "March jobs data will be released, but the market reaction will wait. The 20 largest stocks in the S&P 500 have added almost $2 trillion in market cap. Plus, will Disney fully acquire Hulu? Host: Jackson Cantrell.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "March jobs data will be released, but the market reaction will wait. The 20 largest stocks in the S&P 500 have added almost $2 trillion in market cap. Plus, will Disney fully acquire Hulu? Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4299007688.mp3?updated=1680851116"
-            },
-            "guid": "d99ddb18-d511-11ed-9f02-7f266855399e",
-            "isoDate": "2023-04-07T07:00:00.000Z",
-            "itunes": {
-                "author": "Barron's",
-                "duration": "302",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "March jobs data will be released, but the market reaction will wait. The 20 largest stocks in the S&P 500 have added almost $2 trillion in market cap. Plus, will Disney fully acquire Hulu? Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Fri, 07 Apr 2023 07:00:00 -0000",
-            "title": "The S&P 500 Is Up 7% This Year"
-        },
-        {
-            "content": "Analysts expect companies to tighten their belts in the years ahead. ConAgra raises its earnings forecast, but sales remain sluggish. And FedEx will soon combine its delivery networks to shed costs. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>Analysts expect companies to tighten their belts in the years ahead. ConAgra raises its earnings forecast, but sales remain sluggish. And FedEx will soon combine its delivery networks to shed costs. Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "Analysts expect companies to tighten their belts in the years ahead. ConAgra raises its earnings forecast, but sales remain sluggish. And FedEx will soon combine its delivery networks to shed costs. Host: Jackson Cantrell.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "Analysts expect companies to tighten their belts in the years ahead. ConAgra raises its earnings forecast, but sales remain sluggish. And FedEx will soon combine its delivery networks to shed costs. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6370189721.mp3?updated=1680771913"
-            },
-            "guid": "70d32312-d459-11ed-9e77-132d9b6f3887",
-            "isoDate": "2023-04-06T09:00:00.000Z",
-            "itunes": {
-                "author": "Barron's",
-                "duration": "308",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "Analysts expect companies to tighten their belts in the years ahead. ConAgra raises its earnings forecast, but sales remain sluggish. And FedEx will soon combine its delivery networks to shed costs. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Thu, 06 Apr 2023 09:00:00 -0000",
-            "title": "The Big Capex Spending Slowdown"
-        },
-        {
-            "content": "The dollar index falls, making foreign goods pricier. Johnson and Johnson settles talc claims for $8.9 billion. And higher interest rates means fewer new bonds. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>The dollar index falls, making foreign goods pricier. Johnson and Johnson settles talc claims for $8.9 billion. And higher interest rates means fewer new bonds. Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "The dollar index falls, making foreign goods pricier. Johnson and Johnson settles talc claims for $8.9 billion. And higher interest rates means fewer new bonds. Host: Jackson Cantrell.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "The dollar index falls, making foreign goods pricier. Johnson and Johnson settles talc claims for $8.9 billion. And higher interest rates means fewer new bonds. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6801855785.mp3?updated=1680678312"
-            },
-            "guid": "82925a8a-d37f-11ed-8859-ab03dde55834",
-            "isoDate": "2023-04-05T07:00:00.000Z",
-            "itunes": {
-                "author": "Barron's",
-                "duration": "248",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "The dollar index falls, making foreign goods pricier. Johnson and Johnson settles talc claims for $8.9 billion. And higher interest rates means fewer new bonds. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Wed, 05 Apr 2023 07:00:00 -0000",
-            "title": "A Weaker Dollar Makes the Fed\u2019s Job More Difficult"
-        },
-        {
-            "content": "EV makers report mixed first quarter deliveries. U.S. investors start to shun ESG investing. And OPEC+ cuts oil production.\n\nHost: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>EV makers report mixed first quarter deliveries. U.S. investors start to shun ESG investing. And OPEC+ cuts oil production.</p>\n<p>Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "EV makers report mixed first quarter deliveries. U.S. investors start to shun ESG investing. And OPEC+ cuts oil production.\nHost: Jackson Cantrell.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "EV makers report mixed first quarter deliveries. U.S. investors start to shun ESG investing. And OPEC+ cuts oil production.\n\nHost: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ6512602412.mp3?updated=1680591913"
-            },
-            "guid": "584a77cc-d2b6-11ed-b27c-6fcf53954626",
-            "isoDate": "2023-04-04T07:00:00.000Z",
-            "itunes": {
-                "author": "Barron's",
-                "duration": "284",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "EV makers report mixed first quarter deliveries. U.S. investors start to shun ESG investing. And OPEC+ cuts oil production.\n\nHost: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Tue, 04 Apr 2023 07:00:00 -0000",
-            "title": "Tesla sets delivery record. Why the stock fell."
-        },
-        {
-            "content": "The latest reading of the Fed\u2019s preferred inflation metric. Which platform stands to benefit from a TikTok ban? Plus, a look at the demand for nickel. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "content:encoded": "\n        <p>The latest reading of the Fed\u2019s preferred inflation metric. Which platform stands to benefit from a TikTok ban? Plus, a look at the demand for nickel. Host: Jackson Cantrell.</p>\n<p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>\n      ",
-            "content:encodedSnippet": "The latest reading of the Fed\u2019s preferred inflation metric. Which platform stands to benefit from a TikTok ban? Plus, a look at the demand for nickel. Host: Jackson Cantrell.\n \nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "contentSnippet": "The latest reading of the Fed\u2019s preferred inflation metric. Which platform stands to benefit from a TikTok ban? Plus, a look at the demand for nickel. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-            "enclosure": {
-                "length": "0",
-                "type": "audio/mpeg",
-                "url": "https://pdst.fm/e/chrt.fm/track/1F1B1F/traffic.megaphone.fm/WSJ4390351053.mp3?updated=1680505514"
-            },
-            "guid": "2e157f7a-d1ed-11ed-a17c-6fcd261af2e7",
-            "isoDate": "2023-04-03T07:00:00.000Z",
-            "itunes": {
-                "author": "Barron's",
-                "duration": "314",
-                "episodeType": "full",
-                "subtitle": "",
-                "summary": "The latest reading of the Fed\u2019s preferred inflation metric. Which platform stands to benefit from a TikTok ban? Plus, a look at the demand for nickel. Host: Jackson Cantrell.\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
-            },
-            "pubDate": "Mon, 03 Apr 2023 07:00:00 -0000",
-            "title": "Core PCE Up 4.6% for February"
+            "itunes:subtitle": "",
+            "itunes:summary": "Every trading day, Numbers By Barron's breaks down the market's most important stories into three essential numbers.",
+            "itunes:type": "episodic",
+            "language": "en-us",
+            "link": "https://www.barrons.com",
+            "title": "Numbers by Barron's"
         }
-    ],
-    "itunes": {
-        "author": "Barron's",
-        "categories": [
-            "Business"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Business",
-                "subs": [
-                    {
-                        "name": "Investing"
-                    }
-                ]
-            }
-        ],
-        "explicit": "no",
-        "image": "https://megaphone.imgix.net/podcasts/ee34a314-5c01-11e9-9651-af4e5fb1d3cf/image/01__1_.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-        "owner": {
-            "email": "podcasts@dowjones.com",
-            "name": ""
-        },
-        "subtitle": "",
-        "summary": "Every trading day, Numbers By Barron's breaks down the market's most important stories into three essential numbers."
-    },
-    "language": "en-us",
-    "link": "https://www.barrons.com",
-    "paginationLinks": {
-        "self": "https://feeds.megaphone.fm/WSJ1870998318"
-    },
-    "palette": [
-        "056E82",
-        "F3BE23",
-        "54BCB4",
-        "0E97C4",
-        "639EAB",
-        "74924C"
-    ],
-    "title": "Numbers by Barron's"
+    }
 }

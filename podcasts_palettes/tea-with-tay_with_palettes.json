@@ -1,0 +1,183 @@
+{
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:anchor": "https://anchor.fm/xmlns",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "channel": {
+            "atom:link": [
+                {
+                    "@href": "https://anchor.fm/s/6f8e93b4/podcast/rss",
+                    "@rel": "self",
+                    "@type": "application/rss+xml"
+                },
+                {
+                    "@href": "https://pubsubhubbub.appspot.com/",
+                    "@rel": "hub"
+                }
+            ],
+            "author": "Taylor Melilli-Mayshack",
+            "copyright": "Taylor Melilli-Mayshack",
+            "description": "Tea With Tay is the podcast for people who struggle with anxiety, self-doubt, and their healing journey daily. If you know you\u2019ve accomplished a lot daily but still secretly feel like you\u2019re breaking down inside\u2026this podcast is for you. In each episode, I will share my tea and teach you how to overcome daily struggles and reduce your anxiety and insecurity, boost your self-confidence, and get what you want in life.",
+            "generator": "Anchor Podcasts",
+            "image": {
+                "link": "https://thrivinwithtay.wixsite.com/teawithtay",
+                "palette": [
+                    "C39A92",
+                    "274143",
+                    "C3DBE0",
+                    "702C25",
+                    "9E8839",
+                    "6B817E"
+                ],
+                "title": "Tea With Tay",
+                "url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/18616149/18616149-1634794218695-e3f21cb8ed5f.jpg"
+            },
+            "item": [
+                {
+                    "dc:creator": "Taylor Melilli-Mayshack",
+                    "description": "Constant shift in life, making new friends and becoming your happy self this year by prioritizing you.\n",
+                    "enclosure": {
+                        "@length": "5656145",
+                        "@type": "audio/x-m4a",
+                        "@url": "https://anchor.fm/s/6f8e93b4/podcast/play/81410277/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F6f8e93b4%2F81410277%2F4dcb8aad577f94913330db9b7a24c45f.m4a"
+                    },
+                    "guid": {
+                        "#text": "30b2e22c-08fd-4186-a85d-360b29ec1434",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:05:49",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/18616149/18616149-1634794218695-e3f21cb8ed5f.jpg"
+                    },
+                    "itunes:summary": "Constant shift in life, making new friends and becoming your happy self this year by prioritizing you.\n",
+                    "link": "https://podcasters.spotify.com/pod/show/teawithtay/episodes/Ep--5-2024-Is-The-Year-e2eiup5",
+                    "pubDate": "Wed, 17 Jan 2024 20:27:16 GMT",
+                    "title": "Ep. 5 2024 Is The Year"
+                },
+                {
+                    "dc:creator": "Taylor Melilli-Mayshack",
+                    "description": "Why I stopped recording episodes and what\u2019s been happening.\n",
+                    "enclosure": {
+                        "@length": "13862484",
+                        "@type": "audio/x-m4a",
+                        "@url": "https://anchor.fm/s/6f8e93b4/podcast/play/70941460/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F6f8e93b4%2F70941460%2F61d440634b9c74f223e9736cc5ddeab2.m4a"
+                    },
+                    "guid": {
+                        "#text": "571c85b8-aa05-4331-ac1e-14f8696eb535",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:14:17",
+                    "itunes:episode": "4",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/18616149/18616149-1634794218695-e3f21cb8ed5f.jpg"
+                    },
+                    "itunes:season": "1",
+                    "itunes:summary": "Why I stopped recording episodes and what\u2019s been happening.\n",
+                    "link": "https://podcasters.spotify.com/pod/show/teawithtay/episodes/Ep--4-Im-back--Going-through-seasons--having-to-go-back-to-9-5-and-moving-states-e24jfak",
+                    "pubDate": "Tue, 30 May 2023 22:48:03 GMT",
+                    "title": "Ep. 4 I\u2019m back! Going through seasons, having to go back to 9-5 and moving states"
+                },
+                {
+                    "dc:creator": "Taylor Melilli-Mayshack",
+                    "description": "Having to clear my mind, sometimes can be tough. Just find what releases that and try to do it daily, I am working on that now. Follow me on IG taymelilli_\n",
+                    "enclosure": {
+                        "@length": "7356343",
+                        "@type": "audio/x-m4a",
+                        "@url": "https://anchor.fm/s/6f8e93b4/podcast/play/44536150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-01-05%2Fab11fc5bc73dcb33f2e803018104b31b.m4a"
+                    },
+                    "guid": {
+                        "#text": "756f1c9a-b117-47c1-87c5-91b229f07c43",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:07:34",
+                    "itunes:episode": "3",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/18616149/18616149-1634794218695-e3f21cb8ed5f.jpg"
+                    },
+                    "itunes:summary": "Having to clear my mind, sometimes can be tough. Just find what releases that and try to do it daily, I am working on that now. Follow me on IG taymelilli_\n",
+                    "link": "https://podcasters.spotify.com/pod/show/teawithtay/episodes/Ep--3-Real-Life-Shit-e1bdksm",
+                    "pubDate": "Thu, 30 Dec 2021 06:36:05 GMT",
+                    "title": "Ep. 3 Real Life Shit"
+                },
+                {
+                    "dc:creator": "Taylor Melilli-Mayshack",
+                    "description": "Taking a step back from social media and working more on myself and my healing journey. It\u2019s okay to take a step back at times, as long as you come back stronger! Follow me on IG taymelilli_\n",
+                    "enclosure": {
+                        "@length": "7454150",
+                        "@type": "audio/x-m4a",
+                        "@url": "https://anchor.fm/s/6f8e93b4/podcast/play/44283266/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-12-05%2F531cf20b175fdb4daf9a5fbcc5a39e42.m4a"
+                    },
+                    "guid": {
+                        "#text": "830abdcc-4c0b-4def-b27e-24178ddb5b2e",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:07:40",
+                    "itunes:episode": "2",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/18616149/18616149-1634794218695-e3f21cb8ed5f.jpg"
+                    },
+                    "itunes:summary": "Taking a step back from social media and working more on myself and my healing journey. It\u2019s okay to take a step back at times, as long as you come back stronger! Follow me on IG taymelilli_\n",
+                    "link": "https://podcasters.spotify.com/pod/show/teawithtay/episodes/Ep-2--Taking-Time-To-Prioritize-Myself-e1b5tu2",
+                    "pubDate": "Wed, 08 Dec 2021 12:00:00 GMT",
+                    "title": "Ep 2. Taking Time To Prioritize Myself"
+                },
+                {
+                    "dc:creator": "Taylor Melilli-Mayshack",
+                    "description": "Welcome friends! I\u2019m excited to share my life with you. Tune in every Wednesday to hear how I navigate life around dealing with severe mental health issues. Follow me on Instagram: taymelilli_\n",
+                    "enclosure": {
+                        "@length": "6717701",
+                        "@type": "audio/x-m4a",
+                        "@url": "https://anchor.fm/s/6f8e93b4/podcast/play/42104507/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-12-03%2Fb7d932a9beedf88eaab2a703f680a980.m4a"
+                    },
+                    "guid": {
+                        "#text": "05a966e4-46ed-415d-8932-d0e5d79c76b5",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:06:55",
+                    "itunes:episode": "1",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "No",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/18616149/18616149-1634794218695-e3f21cb8ed5f.jpg"
+                    },
+                    "itunes:summary": "Welcome friends! I\u2019m excited to share my life with you. Tune in every Wednesday to hear how I navigate life around dealing with severe mental health issues. Follow me on Instagram: taymelilli_\n",
+                    "link": "https://podcasters.spotify.com/pod/show/teawithtay/episodes/Ep-1--Hi--Im-Tay--Welcome-To-My-Journey-e193e7r",
+                    "pubDate": "Sun, 05 Dec 2021 12:00:00 GMT",
+                    "title": "Ep 1. Hi! I\u2019m Tay & Welcome To My Journey!"
+                }
+            ],
+            "itunes:author": "Taylor Melilli-Mayshack",
+            "itunes:category": {
+                "@text": "Health & Fitness",
+                "itunes:category": {
+                    "@text": "Mental Health"
+                }
+            },
+            "itunes:explicit": "No",
+            "itunes:image": {
+                "@href": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/18616149/18616149-1634794218695-e3f21cb8ed5f.jpg"
+            },
+            "itunes:owner": {
+                "itunes:email": "thrivinwithtay@gmail.com",
+                "itunes:name": "Taylor Melilli-Mayshack"
+            },
+            "itunes:summary": "Tea With Tay is the podcast for people who struggle with anxiety, self-doubt, and their healing journey daily. If you know you\u2019ve accomplished a lot daily but still secretly feel like you\u2019re breaking down inside\u2026this podcast is for you. In each episode, I will share my tea and teach you how to overcome daily struggles and reduce your anxiety and insecurity, boost your self-confidence, and get what you want in life.",
+            "itunes:type": "episodic",
+            "language": "en",
+            "lastBuildDate": "Tue, 08 Oct 2024 10:09:49 GMT",
+            "link": "https://thrivinwithtay.wixsite.com/teawithtay",
+            "title": "Tea With Tay"
+        }
+    }
+}

@@ -1,1169 +1,1128 @@
 {
-    "copyright": "Enduring Word 2018",
-    "description": "Audio and Video Server For Enduring Word",
-    "feedUrl": "https://media.enduringword.com/podcasts/mark/feed/",
-    "generator": "https://wordpress.org/?v=5.0.22",
-    "items": [
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:slash": "http://purl.org/rss/1.0/modules/slash/",
+        "@xmlns:sy": "http://purl.org/rss/1.0/modules/syndication/",
+        "@xmlns:wfw": "http://wellformedweb.org/CommentAPI/",
+        "channel": {
+            "atom:link": {
+                "@href": "https://media.enduringword.com/podcasts/mark/feed/",
+                "@rel": "self",
+                "@type": "application/rss+xml"
+            },
+            "copyright": "Enduring Word 2018",
+            "description": "Audio and Video Server For Enduring Word",
+            "generator": "https://wordpress.org/?v=5.0.22",
+            "item": [
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-169-20-what-does-jesus-want-me-to-do/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26191-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1609_20.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1609_20.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1609_20.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark1609_20.mp3",
+                    "enclosure": {
+                        "@length": "18366781",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1609_20.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-169-20-what-does-jesus-want-me-to-do/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1609_20.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1609_20.mp3",
+                    "link": "https://media.enduringword.com/mark-169-20-what-does-jesus-want-me-to-do/",
+                    "pubDate": "Thu, 15 Mar 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 16:9-20 \u2013 What Does Jesus Want Me to Do?",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-169-20-what-does-jesus-want-me-to-do/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-1542-168-was-crucified-is-risen/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26190-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1542_1608.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1542_1608.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1542_1608.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark1542_1608.mp3",
+                    "enclosure": {
+                        "@length": "16117742",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1542_1608.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-1542-168-was-crucified-is-risen/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1542_1608.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1542_1608.mp3",
+                    "link": "https://media.enduringword.com/mark-1542-168-was-crucified-is-risen/",
+                    "pubDate": "Wed, 14 Mar 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 15:42-16:8 \u2013 Was Crucified, Is Risen",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-1542-168-was-crucified-is-risen/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-1522-41-truly-this-man-is-the-son-of-god/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26189-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1522_41.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1522_41.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1522_41.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark1522_41.mp3",
+                    "enclosure": {
+                        "@length": "16620762",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1522_41.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-1522-41-truly-this-man-is-the-son-of-god/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1522_41.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1522_41.mp3",
+                    "link": "https://media.enduringword.com/mark-1522-41-truly-this-man-is-the-son-of-god/",
+                    "pubDate": "Tue, 13 Mar 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 15:22-41 \u2013 Truly this Man is the Son of God",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-1522-41-truly-this-man-is-the-son-of-god/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-151-21-the-innocent-in-the-place-of-the-guilty/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26188-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1501_21.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1501_21.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1501_21.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark1501_21.mp3",
+                    "enclosure": {
+                        "@length": "17342583",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1501_21.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-151-21-the-innocent-in-the-place-of-the-guilty/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1501_21.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1501_21.mp3",
+                    "link": "https://media.enduringword.com/mark-151-21-the-innocent-in-the-place-of-the-guilty/",
+                    "pubDate": "Mon, 12 Mar 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 15:1-21 \u2013 The Innocent in the Place of the Guilty",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-151-21-the-innocent-in-the-place-of-the-guilty/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-1453-72-jesus-tried-and-denied/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26187-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1453_72.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1453_72.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1453_72.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark1453_72.mp3",
+                    "enclosure": {
+                        "@length": "15775847",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1453_72.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-1453-72-jesus-tried-and-denied/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1453_72.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1453_72.mp3",
+                    "link": "https://media.enduringword.com/mark-1453-72-jesus-tried-and-denied/",
+                    "pubDate": "Sun, 11 Mar 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 14:53-72 \u2013 Jesus Tried and Denied",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-1453-72-jesus-tried-and-denied/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-1432-52-jesus-in-the-garden-of-crushing/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26186-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1432_52.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1432_52.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1432_52.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark1432_52.mp3",
+                    "enclosure": {
+                        "@length": "17811736",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1432_52.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-1432-52-jesus-in-the-garden-of-crushing/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1432_52.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1432_52.mp3",
+                    "link": "https://media.enduringword.com/mark-1432-52-jesus-in-the-garden-of-crushing/",
+                    "pubDate": "Sat, 10 Mar 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 14:32-52 \u2013 Jesus in the Garden of Crushing",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-1432-52-jesus-in-the-garden-of-crushing/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-1412-31-what-to-remember/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26185-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1412_31.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1412_31.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1412_31.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark1412_31.mp3",
+                    "enclosure": {
+                        "@length": "17183737",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1412_31.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-1412-31-what-to-remember/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1412_31.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1412_31.mp3",
+                    "link": "https://media.enduringword.com/mark-1412-31-what-to-remember/",
+                    "pubDate": "Fri, 09 Mar 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 14:12-31 \u2013 What to Remember",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-1412-31-what-to-remember/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-141-11-she-did-what-she-could/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26184-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1401_11.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1401_11.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1401_11.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark1401_11.mp3",
+                    "enclosure": {
+                        "@length": "16693058",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1401_11.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-141-11-she-did-what-she-could/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1401_11.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1401_11.mp3",
+                    "link": "https://media.enduringword.com/mark-141-11-she-did-what-she-could/",
+                    "pubDate": "Thu, 08 Mar 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 14:1-11 \u2013 She Did What She Could",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-141-11-she-did-what-she-could/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-1324-37-watch-and-pray/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26183-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1324_37.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1324_37.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1324_37.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark1324_37.mp3",
+                    "enclosure": {
+                        "@length": "16127134",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1324_37.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-1324-37-watch-and-pray/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1324_37.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1324_37.mp3",
+                    "link": "https://media.enduringword.com/mark-1324-37-watch-and-pray/",
+                    "pubDate": "Wed, 07 Mar 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 13:24-37 \u2013 Watch and Pray",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-1324-37-watch-and-pray/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-1314-23-the-sign/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26182-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1314_23.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1314_23.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1314_23.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark1314_23.mp3",
+                    "enclosure": {
+                        "@length": "18259765",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1314_23.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-1314-23-the-sign/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1314_23.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1314_23.mp3",
+                    "link": "https://media.enduringword.com/mark-1314-23-the-sign/",
+                    "pubDate": "Tue, 06 Mar 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 13:14-23 \u2013 THE Sign",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-1314-23-the-sign/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-131-13-endure-to-the-end/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26181-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1301_13.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1301_13.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1301_13.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark1301_13.mp3",
+                    "enclosure": {
+                        "@length": "18212961",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1301_13.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-131-13-endure-to-the-end/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1301_13.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1301_13.mp3",
+                    "link": "https://media.enduringword.com/mark-131-13-endure-to-the-end/",
+                    "pubDate": "Mon, 05 Mar 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 13:1-13 \u2013 Endure to the End",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-131-13-endure-to-the-end/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-1218-44-what-god-really-wants/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26180-24\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1218_44.mp3?_=24\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1218_44.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1218_44.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark1218_44.mp3",
+                    "enclosure": {
+                        "@length": "19546047",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1218_44.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-1218-44-what-god-really-wants/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1218_44.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1218_44.mp3",
+                    "link": "https://media.enduringword.com/mark-1218-44-what-god-really-wants/",
+                    "pubDate": "Sun, 04 Mar 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 12:18-44 \u2013 What God Really Wants",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-1218-44-what-god-really-wants/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-1127-1217-by-what-authority/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26179-26\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1127_1217.mp3?_=26\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1127_1217.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1127_1217.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark1127_1217.mp3",
+                    "enclosure": {
+                        "@length": "18243475",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1127_1217.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-1127-1217-by-what-authority/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1127_1217.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1127_1217.mp3",
+                    "link": "https://media.enduringword.com/mark-1127-1217-by-what-authority/",
+                    "pubDate": "Sat, 03 Mar 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 11:27-12:17 \u2013 By What Authority?",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-1127-1217-by-what-authority/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-111-26-image-and-reality/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26178-28\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1101_26.mp3?_=28\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1101_26.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1101_26.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark1101_26.mp3",
+                    "enclosure": {
+                        "@length": "18112651",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1101_26.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-111-26-image-and-reality/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1101_26.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1101_26.mp3",
+                    "link": "https://media.enduringword.com/mark-111-26-image-and-reality/",
+                    "pubDate": "Fri, 02 Mar 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 11:1-26 \u2013 Image and Reality",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-111-26-image-and-reality/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-1032-52-what-do-you-want-jesus-to-do/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26177-30\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1032_52.mp3?_=30\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1032_52.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1032_52.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark1032_52.mp3",
+                    "enclosure": {
+                        "@length": "18550266",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1032_52.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-1032-52-what-do-you-want-jesus-to-do/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1032_52.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1032_52.mp3",
+                    "link": "https://media.enduringword.com/mark-1032-52-what-do-you-want-jesus-to-do/",
+                    "pubDate": "Thu, 01 Mar 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 10:32-52 \u2013 What Do You Want Jesus to Do?",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-1032-52-what-do-you-want-jesus-to-do/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-1013-31-receiving-and-doing/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26176-32\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1013_31.mp3?_=32\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1013_31.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1013_31.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark1013_31.mp3",
+                    "enclosure": {
+                        "@length": "18464158",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1013_31.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-1013-31-receiving-and-doing/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1013_31.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1013_31.mp3",
+                    "link": "https://media.enduringword.com/mark-1013-31-receiving-and-doing/",
+                    "pubDate": "Wed, 28 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 10:13-31 \u2013 Receiving and Doing",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-1013-31-receiving-and-doing/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-1010-12-jesus-on-divorce/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26175-34\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1010_12.mp3?_=34\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1010_12.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1010_12.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark1010_12.mp3",
+                    "enclosure": {
+                        "@length": "17747146",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1010_12.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-1010-12-jesus-on-divorce/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1010_12.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1010_12.mp3",
+                    "link": "https://media.enduringword.com/mark-1010-12-jesus-on-divorce/",
+                    "pubDate": "Tue, 27 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 10:10-12 \u2013 Jesus on Divorce",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-1010-12-jesus-on-divorce/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-938-109-jesus-on-marriage/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26174-36\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0938_1009.mp3?_=36\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0938_1009.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0938_1009.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark0938_1009.mp3",
+                    "enclosure": {
+                        "@length": "21543889",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0938_1009.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-938-109-jesus-on-marriage/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0938_1009.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0938_1009.mp3",
+                    "link": "https://media.enduringword.com/mark-938-109-jesus-on-marriage/",
+                    "pubDate": "Mon, 26 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 9:38-10:9 \u2013 Jesus on Marriage",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-938-109-jesus-on-marriage/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-914-37-who-is-the-greatest/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26173-38\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0914_37.mp3?_=38\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0914_37.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0914_37.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark0914_37.mp3",
+                    "enclosure": {
+                        "@length": "17350922",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0914_37.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-914-37-who-is-the-greatest/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0914_37.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0914_37.mp3",
+                    "link": "https://media.enduringword.com/mark-914-37-who-is-the-greatest/",
+                    "pubDate": "Sun, 25 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 9:14-37 \u2013 Who is the Greatest?",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-914-37-who-is-the-greatest/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-834-913-the-cross-and-the-glory/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26172-40\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0834_0913.mp3?_=40\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0834_0913.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0834_0913.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark0834_0913.mp3",
+                    "enclosure": {
+                        "@length": "17874214",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0834_0913.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-834-913-the-cross-and-the-glory/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0834_0913.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0834_0913.mp3",
+                    "link": "https://media.enduringword.com/mark-834-913-the-cross-and-the-glory/",
+                    "pubDate": "Sat, 24 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 8:34-9:13 \u2013 The Cross and the Glory",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-834-913-the-cross-and-the-glory/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-811-33-coming-to-see/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26171-42\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0811_33.mp3?_=42\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0811_33.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0811_33.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark0811_33.mp3",
+                    "enclosure": {
+                        "@length": "18423191",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0811_33.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-811-33-coming-to-see/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0811_33.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0811_33.mp3",
+                    "link": "https://media.enduringword.com/mark-811-33-coming-to-see/",
+                    "pubDate": "Fri, 23 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 8:11-33 \u2013 Coming to See",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-811-33-coming-to-see/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-724-810-faith-and-humility/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26170-44\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0724_0810.mp3?_=44\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0724_0810.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0724_0810.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark0724_0810.mp3",
+                    "enclosure": {
+                        "@length": "17950277",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0724_0810.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-724-810-faith-and-humility/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0724_0810.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0724_0810.mp3",
+                    "link": "https://media.enduringword.com/mark-724-810-faith-and-humility/",
+                    "pubDate": "Thu, 22 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 7:24-8:10 \u2013 Faith and Humility",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-724-810-faith-and-humility/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-71-23-when-a-rite-is-wrong/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26169-46\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0701_23.mp3?_=46\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0701_23.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0701_23.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark0701_23.mp3",
+                    "enclosure": {
+                        "@length": "15271994",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0701_23.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-71-23-when-a-rite-is-wrong/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0701_23.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0701_23.mp3",
+                    "link": "https://media.enduringword.com/mark-71-23-when-a-rite-is-wrong/",
+                    "pubDate": "Wed, 21 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 7:1-23 \u2013 When a Rite is Wrong",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-71-23-when-a-rite-is-wrong/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-630-56-the-shepherd-feeds-the-sheep/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26168-48\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0630_56.mp3?_=48\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0630_56.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0630_56.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark0630_56.mp3",
+                    "enclosure": {
+                        "@length": "16946138",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0630_56.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-630-56-the-shepherd-feeds-the-sheep/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0630_56.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0630_56.mp3",
+                    "link": "https://media.enduringword.com/mark-630-56-the-shepherd-feeds-the-sheep/",
+                    "pubDate": "Tue, 20 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 6:30-56 \u2013 The Shepherd Feeds the Sheep",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-630-56-the-shepherd-feeds-the-sheep/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-61-29-where-did-this-man-get-these-things/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26167-50\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0601_29.mp3?_=50\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0601_29.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0601_29.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark0601_29.mp3",
+                    "enclosure": {
+                        "@length": "18470858",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0601_29.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-61-29-where-did-this-man-get-these-things/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0601_29.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0601_29.mp3",
+                    "link": "https://media.enduringword.com/mark-61-29-where-did-this-man-get-these-things/",
+                    "pubDate": "Mon, 19 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 6:1-29 \u2013 Where Did This Man Get These Things",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-61-29-where-did-this-man-get-these-things/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-521-43-the-power-of-jesus-touch/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26166-52\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0521_43.mp3?_=52\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0521_43.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0521_43.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark0521_43.mp3",
+                    "enclosure": {
+                        "@length": "18807350",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0521_43.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-521-43-the-power-of-jesus-touch/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0521_43.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0521_43.mp3",
+                    "link": "https://media.enduringword.com/mark-521-43-the-power-of-jesus-touch/",
+                    "pubDate": "Sun, 18 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 5:21-43 \u2013 The Power of Jesus\u2019 Touch",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-521-43-the-power-of-jesus-touch/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-51-20-overcoming-demons-and-superstition/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26165-54\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0501_20.mp3?_=54\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0501_20.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0501_20.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark0501_20.mp3",
+                    "enclosure": {
+                        "@length": "17478832",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0501_20.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-51-20-overcoming-demons-and-superstition/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0501_20.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0501_20.mp3",
+                    "link": "https://media.enduringword.com/mark-51-20-overcoming-demons-and-superstition/",
+                    "pubDate": "Sat, 17 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 5:1-20 \u2013 Overcoming Demons and Superstition",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-51-20-overcoming-demons-and-superstition/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-435-41-how-is-it-that-you-have-no-faith/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26164-56\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0435_41.mp3?_=56\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0435_41.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0435_41.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark0435_41.mp3",
+                    "enclosure": {
+                        "@length": "16127200",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0435_41.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-435-41-how-is-it-that-you-have-no-faith/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0435_41.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0435_41.mp3",
+                    "link": "https://media.enduringword.com/mark-435-41-how-is-it-that-you-have-no-faith/",
+                    "pubDate": "Fri, 16 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 4:35-41 \u2013 How is it that You Have No Faith?",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-435-41-how-is-it-that-you-have-no-faith/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-421-34-careful-what-you-hear/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26163-58\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0421_34.mp3?_=58\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0421_34.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0421_34.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark0421_34.mp3",
+                    "enclosure": {
+                        "@length": "15700822",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0421_34.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-421-34-careful-what-you-hear/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0421_34.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0421_34.mp3",
+                    "link": "https://media.enduringword.com/mark-421-34-careful-what-you-hear/",
+                    "pubDate": "Thu, 15 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 4:21-34 \u2013 Careful What You Hear",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-421-34-careful-what-you-hear/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-41-20-the-parable-of-the-soils/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26162-60\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0401_20.mp3?_=60\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0401_20.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0401_20.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark0401_20.mp3",
+                    "enclosure": {
+                        "@length": "19413764",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0401_20.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-41-20-the-parable-of-the-soils/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0401_20.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0401_20.mp3",
+                    "link": "https://media.enduringword.com/mark-41-20-the-parable-of-the-soils/",
+                    "pubDate": "Wed, 14 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 4:1-20 \u2013 The Parable of the Soils",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-41-20-the-parable-of-the-soils/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-320-35-is-jesus-crazy/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26161-62\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0320_35.mp3?_=62\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0320_35.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0320_35.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark0320_35.mp3",
+                    "enclosure": {
+                        "@length": "16123580",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0320_35.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-320-35-is-jesus-crazy/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0320_35.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0320_35.mp3",
+                    "link": "https://media.enduringword.com/mark-320-35-is-jesus-crazy/",
+                    "pubDate": "Tue, 13 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 3:20-35 \u2013 Is Jesus Crazy?",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-320-35-is-jesus-crazy/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-31-19-jesus-hated-adored-and-followed/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26160-64\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0301_19.mp3?_=64\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0301_19.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0301_19.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark0301_19.mp3",
+                    "enclosure": {
+                        "@length": "16993582",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0301_19.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-31-19-jesus-hated-adored-and-followed/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0301_19.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0301_19.mp3",
+                    "link": "https://media.enduringword.com/mark-31-19-jesus-hated-adored-and-followed/",
+                    "pubDate": "Mon, 12 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 3:1-19 \u2013 Jesus: Hated, Adored, and Followed",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-31-19-jesus-hated-adored-and-followed/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-213-28-following-the-great-physician/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26159-66\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0213_28.mp3?_=66\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0213_28.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0213_28.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark0213_28.mp3",
+                    "enclosure": {
+                        "@length": "18661653",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0213_28.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-213-28-following-the-great-physician/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0213_28.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0213_28.mp3",
+                    "link": "https://media.enduringword.com/mark-213-28-following-the-great-physician/",
+                    "pubDate": "Sun, 11 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 2:13-28 \u2013 Following the Great Physician",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-213-28-following-the-great-physician/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-135-212-the-power-of-jesus/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26158-68\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0135_0212.mp3?_=68\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0135_0212.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0135_0212.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark0135_0212.mp3",
+                    "enclosure": {
+                        "@length": "18169915",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0135_0212.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-135-212-the-power-of-jesus/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0135_0212.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0135_0212.mp3",
+                    "link": "https://media.enduringword.com/mark-135-212-the-power-of-jesus/",
+                    "pubDate": "Sat, 10 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 1:35-2:12 \u2013 The Power of Jesus",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-135-212-the-power-of-jesus/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-112-34-the-authority-of-jesus/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26157-70\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0112_34.mp3?_=70\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0112_34.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0112_34.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark0112_34.mp3",
+                    "enclosure": {
+                        "@length": "19308229",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0112_34.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-112-34-the-authority-of-jesus/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0112_34.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0112_34.mp3",
+                    "link": "https://media.enduringword.com/mark-112-34-the-authority-of-jesus/",
+                    "pubDate": "Fri, 09 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 1:12-34 \u2013 The Authority of Jesus",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-112-34-the-authority-of-jesus/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Mark",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mark-11-11-who-is-jesus/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26156-72\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0101_11.mp3?_=72\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0101_11.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0101_11.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Mark0101_11.mp3",
+                    "enclosure": {
+                        "@length": "19863893",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0101_11.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/mark-11-11-who-is-jesus/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0101_11.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0101_11.mp3",
+                    "link": "https://media.enduringword.com/mark-11-11-who-is-jesus/",
+                    "pubDate": "Thu, 08 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Mark 1:1-11 \u2013 Who Is Jesus?",
+                    "wfw:commentRss": "https://media.enduringword.com/mark-11-11-who-is-jesus/feed/"
+                }
             ],
-            "comments": "https://media.enduringword.com/mark-169-20-what-does-jesus-want-me-to-do/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark1609_20.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26191-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1609_20.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1609_20.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1609_20.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1609_20.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1609_20.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18366781",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1609_20.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-169-20-what-does-jesus-want-me-to-do/",
-            "isoDate": "2018-03-15T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1609_20.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1609_20.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-169-20-what-does-jesus-want-me-to-do/",
-            "pubDate": "Thu, 15 Mar 2018 07:00:00 +0000",
-            "title": "Mark 16:9-20 \u2013 What Does Jesus Want Me to Do?"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-1542-168-was-crucified-is-risen/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark1542_1608.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26190-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1542_1608.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1542_1608.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1542_1608.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1542_1608.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1542_1608.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16117742",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1542_1608.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-1542-168-was-crucified-is-risen/",
-            "isoDate": "2018-03-14T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1542_1608.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1542_1608.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-1542-168-was-crucified-is-risen/",
-            "pubDate": "Wed, 14 Mar 2018 07:00:00 +0000",
-            "title": "Mark 15:42-16:8 \u2013 Was Crucified, Is Risen"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-1522-41-truly-this-man-is-the-son-of-god/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark1522_41.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26189-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1522_41.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1522_41.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1522_41.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1522_41.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1522_41.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16620762",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1522_41.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-1522-41-truly-this-man-is-the-son-of-god/",
-            "isoDate": "2018-03-13T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1522_41.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1522_41.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-1522-41-truly-this-man-is-the-son-of-god/",
-            "pubDate": "Tue, 13 Mar 2018 07:00:00 +0000",
-            "title": "Mark 15:22-41 \u2013 Truly this Man is the Son of God"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-151-21-the-innocent-in-the-place-of-the-guilty/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark1501_21.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26188-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1501_21.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1501_21.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1501_21.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1501_21.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1501_21.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "17342583",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1501_21.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-151-21-the-innocent-in-the-place-of-the-guilty/",
-            "isoDate": "2018-03-12T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1501_21.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1501_21.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-151-21-the-innocent-in-the-place-of-the-guilty/",
-            "pubDate": "Mon, 12 Mar 2018 07:00:00 +0000",
-            "title": "Mark 15:1-21 \u2013 The Innocent in the Place of the Guilty"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-1453-72-jesus-tried-and-denied/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark1453_72.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26187-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1453_72.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1453_72.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1453_72.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1453_72.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1453_72.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "15775847",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1453_72.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-1453-72-jesus-tried-and-denied/",
-            "isoDate": "2018-03-11T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1453_72.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1453_72.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-1453-72-jesus-tried-and-denied/",
-            "pubDate": "Sun, 11 Mar 2018 07:00:00 +0000",
-            "title": "Mark 14:53-72 \u2013 Jesus Tried and Denied"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-1432-52-jesus-in-the-garden-of-crushing/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark1432_52.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26186-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1432_52.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1432_52.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1432_52.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1432_52.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1432_52.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "17811736",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1432_52.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-1432-52-jesus-in-the-garden-of-crushing/",
-            "isoDate": "2018-03-10T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1432_52.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1432_52.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-1432-52-jesus-in-the-garden-of-crushing/",
-            "pubDate": "Sat, 10 Mar 2018 07:00:00 +0000",
-            "title": "Mark 14:32-52 \u2013 Jesus in the Garden of Crushing"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-1412-31-what-to-remember/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark1412_31.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26185-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1412_31.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1412_31.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1412_31.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1412_31.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1412_31.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "17183737",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1412_31.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-1412-31-what-to-remember/",
-            "isoDate": "2018-03-09T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1412_31.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1412_31.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-1412-31-what-to-remember/",
-            "pubDate": "Fri, 09 Mar 2018 07:00:00 +0000",
-            "title": "Mark 14:12-31 \u2013 What to Remember"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-141-11-she-did-what-she-could/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark1401_11.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26184-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1401_11.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1401_11.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1401_11.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1401_11.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1401_11.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16693058",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1401_11.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-141-11-she-did-what-she-could/",
-            "isoDate": "2018-03-08T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1401_11.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1401_11.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-141-11-she-did-what-she-could/",
-            "pubDate": "Thu, 08 Mar 2018 07:00:00 +0000",
-            "title": "Mark 14:1-11 \u2013 She Did What She Could"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-1324-37-watch-and-pray/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark1324_37.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26183-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1324_37.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1324_37.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1324_37.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1324_37.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1324_37.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16127134",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1324_37.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-1324-37-watch-and-pray/",
-            "isoDate": "2018-03-07T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1324_37.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1324_37.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-1324-37-watch-and-pray/",
-            "pubDate": "Wed, 07 Mar 2018 07:00:00 +0000",
-            "title": "Mark 13:24-37 \u2013 Watch and Pray"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-1314-23-the-sign/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark1314_23.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26182-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1314_23.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1314_23.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1314_23.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1314_23.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1314_23.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18259765",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1314_23.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-1314-23-the-sign/",
-            "isoDate": "2018-03-06T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1314_23.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1314_23.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-1314-23-the-sign/",
-            "pubDate": "Tue, 06 Mar 2018 07:00:00 +0000",
-            "title": "Mark 13:14-23 \u2013 THE Sign"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-131-13-endure-to-the-end/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark1301_13.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26181-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1301_13.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1301_13.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1301_13.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1301_13.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1301_13.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18212961",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1301_13.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-131-13-endure-to-the-end/",
-            "isoDate": "2018-03-05T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1301_13.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1301_13.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-131-13-endure-to-the-end/",
-            "pubDate": "Mon, 05 Mar 2018 07:00:00 +0000",
-            "title": "Mark 13:1-13 \u2013 Endure to the End"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-1218-44-what-god-really-wants/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark1218_44.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26180-24\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1218_44.mp3?_=24\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1218_44.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1218_44.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1218_44.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1218_44.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "19546047",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1218_44.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-1218-44-what-god-really-wants/",
-            "isoDate": "2018-03-04T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1218_44.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1218_44.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-1218-44-what-god-really-wants/",
-            "pubDate": "Sun, 04 Mar 2018 07:00:00 +0000",
-            "title": "Mark 12:18-44 \u2013 What God Really Wants"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-1127-1217-by-what-authority/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark1127_1217.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26179-26\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1127_1217.mp3?_=26\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1127_1217.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1127_1217.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1127_1217.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1127_1217.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18243475",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1127_1217.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-1127-1217-by-what-authority/",
-            "isoDate": "2018-03-03T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1127_1217.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1127_1217.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-1127-1217-by-what-authority/",
-            "pubDate": "Sat, 03 Mar 2018 07:00:00 +0000",
-            "title": "Mark 11:27-12:17 \u2013 By What Authority?"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-111-26-image-and-reality/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark1101_26.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26178-28\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1101_26.mp3?_=28\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1101_26.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1101_26.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1101_26.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1101_26.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18112651",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1101_26.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-111-26-image-and-reality/",
-            "isoDate": "2018-03-02T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1101_26.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1101_26.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-111-26-image-and-reality/",
-            "pubDate": "Fri, 02 Mar 2018 07:00:00 +0000",
-            "title": "Mark 11:1-26 \u2013 Image and Reality"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-1032-52-what-do-you-want-jesus-to-do/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark1032_52.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26177-30\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1032_52.mp3?_=30\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1032_52.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1032_52.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1032_52.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1032_52.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18550266",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1032_52.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-1032-52-what-do-you-want-jesus-to-do/",
-            "isoDate": "2018-03-01T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1032_52.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1032_52.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-1032-52-what-do-you-want-jesus-to-do/",
-            "pubDate": "Thu, 01 Mar 2018 07:00:00 +0000",
-            "title": "Mark 10:32-52 \u2013 What Do You Want Jesus to Do?"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-1013-31-receiving-and-doing/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark1013_31.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26176-32\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1013_31.mp3?_=32\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1013_31.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1013_31.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1013_31.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1013_31.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18464158",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1013_31.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-1013-31-receiving-and-doing/",
-            "isoDate": "2018-02-28T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1013_31.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1013_31.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-1013-31-receiving-and-doing/",
-            "pubDate": "Wed, 28 Feb 2018 07:00:00 +0000",
-            "title": "Mark 10:13-31 \u2013 Receiving and Doing"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-1010-12-jesus-on-divorce/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark1010_12.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26175-34\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1010_12.mp3?_=34\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark1010_12.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark1010_12.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1010_12.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark1010_12.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "17747146",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark1010_12.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-1010-12-jesus-on-divorce/",
-            "isoDate": "2018-02-27T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark1010_12.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark1010_12.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-1010-12-jesus-on-divorce/",
-            "pubDate": "Tue, 27 Feb 2018 07:00:00 +0000",
-            "title": "Mark 10:10-12 \u2013 Jesus on Divorce"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-938-109-jesus-on-marriage/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark0938_1009.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26174-36\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0938_1009.mp3?_=36\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0938_1009.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0938_1009.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0938_1009.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0938_1009.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "21543889",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0938_1009.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-938-109-jesus-on-marriage/",
-            "isoDate": "2018-02-26T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0938_1009.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0938_1009.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-938-109-jesus-on-marriage/",
-            "pubDate": "Mon, 26 Feb 2018 07:00:00 +0000",
-            "title": "Mark 9:38-10:9 \u2013 Jesus on Marriage"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-914-37-who-is-the-greatest/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark0914_37.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26173-38\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0914_37.mp3?_=38\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0914_37.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0914_37.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0914_37.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0914_37.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "17350922",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0914_37.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-914-37-who-is-the-greatest/",
-            "isoDate": "2018-02-25T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0914_37.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0914_37.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-914-37-who-is-the-greatest/",
-            "pubDate": "Sun, 25 Feb 2018 07:00:00 +0000",
-            "title": "Mark 9:14-37 \u2013 Who is the Greatest?"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-834-913-the-cross-and-the-glory/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark0834_0913.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26172-40\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0834_0913.mp3?_=40\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0834_0913.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0834_0913.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0834_0913.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0834_0913.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "17874214",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0834_0913.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-834-913-the-cross-and-the-glory/",
-            "isoDate": "2018-02-24T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0834_0913.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0834_0913.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-834-913-the-cross-and-the-glory/",
-            "pubDate": "Sat, 24 Feb 2018 07:00:00 +0000",
-            "title": "Mark 8:34-9:13 \u2013 The Cross and the Glory"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-811-33-coming-to-see/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark0811_33.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26171-42\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0811_33.mp3?_=42\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0811_33.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0811_33.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0811_33.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0811_33.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18423191",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0811_33.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-811-33-coming-to-see/",
-            "isoDate": "2018-02-23T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0811_33.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0811_33.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-811-33-coming-to-see/",
-            "pubDate": "Fri, 23 Feb 2018 07:00:00 +0000",
-            "title": "Mark 8:11-33 \u2013 Coming to See"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-724-810-faith-and-humility/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark0724_0810.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26170-44\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0724_0810.mp3?_=44\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0724_0810.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0724_0810.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0724_0810.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0724_0810.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "17950277",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0724_0810.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-724-810-faith-and-humility/",
-            "isoDate": "2018-02-22T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0724_0810.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0724_0810.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-724-810-faith-and-humility/",
-            "pubDate": "Thu, 22 Feb 2018 07:00:00 +0000",
-            "title": "Mark 7:24-8:10 \u2013 Faith and Humility"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-71-23-when-a-rite-is-wrong/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark0701_23.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26169-46\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0701_23.mp3?_=46\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0701_23.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0701_23.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0701_23.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0701_23.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "15271994",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0701_23.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-71-23-when-a-rite-is-wrong/",
-            "isoDate": "2018-02-21T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0701_23.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0701_23.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-71-23-when-a-rite-is-wrong/",
-            "pubDate": "Wed, 21 Feb 2018 07:00:00 +0000",
-            "title": "Mark 7:1-23 \u2013 When a Rite is Wrong"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-630-56-the-shepherd-feeds-the-sheep/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark0630_56.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26168-48\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0630_56.mp3?_=48\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0630_56.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0630_56.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0630_56.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0630_56.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16946138",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0630_56.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-630-56-the-shepherd-feeds-the-sheep/",
-            "isoDate": "2018-02-20T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0630_56.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0630_56.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-630-56-the-shepherd-feeds-the-sheep/",
-            "pubDate": "Tue, 20 Feb 2018 07:00:00 +0000",
-            "title": "Mark 6:30-56 \u2013 The Shepherd Feeds the Sheep"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-61-29-where-did-this-man-get-these-things/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark0601_29.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26167-50\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0601_29.mp3?_=50\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0601_29.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0601_29.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0601_29.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0601_29.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18470858",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0601_29.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-61-29-where-did-this-man-get-these-things/",
-            "isoDate": "2018-02-19T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0601_29.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0601_29.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-61-29-where-did-this-man-get-these-things/",
-            "pubDate": "Mon, 19 Feb 2018 07:00:00 +0000",
-            "title": "Mark 6:1-29 \u2013 Where Did This Man Get These Things"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-521-43-the-power-of-jesus-touch/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark0521_43.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26166-52\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0521_43.mp3?_=52\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0521_43.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0521_43.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0521_43.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0521_43.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18807350",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0521_43.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-521-43-the-power-of-jesus-touch/",
-            "isoDate": "2018-02-18T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0521_43.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0521_43.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-521-43-the-power-of-jesus-touch/",
-            "pubDate": "Sun, 18 Feb 2018 07:00:00 +0000",
-            "title": "Mark 5:21-43 \u2013 The Power of Jesus\u2019 Touch"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-51-20-overcoming-demons-and-superstition/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark0501_20.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26165-54\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0501_20.mp3?_=54\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0501_20.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0501_20.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0501_20.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0501_20.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "17478832",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0501_20.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-51-20-overcoming-demons-and-superstition/",
-            "isoDate": "2018-02-17T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0501_20.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0501_20.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-51-20-overcoming-demons-and-superstition/",
-            "pubDate": "Sat, 17 Feb 2018 07:00:00 +0000",
-            "title": "Mark 5:1-20 \u2013 Overcoming Demons and Superstition"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-435-41-how-is-it-that-you-have-no-faith/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark0435_41.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26164-56\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0435_41.mp3?_=56\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0435_41.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0435_41.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0435_41.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0435_41.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16127200",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0435_41.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-435-41-how-is-it-that-you-have-no-faith/",
-            "isoDate": "2018-02-16T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0435_41.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0435_41.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-435-41-how-is-it-that-you-have-no-faith/",
-            "pubDate": "Fri, 16 Feb 2018 07:00:00 +0000",
-            "title": "Mark 4:35-41 \u2013 How is it that You Have No Faith?"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-421-34-careful-what-you-hear/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark0421_34.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26163-58\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0421_34.mp3?_=58\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0421_34.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0421_34.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0421_34.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0421_34.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "15700822",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0421_34.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-421-34-careful-what-you-hear/",
-            "isoDate": "2018-02-15T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0421_34.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0421_34.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-421-34-careful-what-you-hear/",
-            "pubDate": "Thu, 15 Feb 2018 07:00:00 +0000",
-            "title": "Mark 4:21-34 \u2013 Careful What You Hear"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-41-20-the-parable-of-the-soils/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark0401_20.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26162-60\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0401_20.mp3?_=60\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0401_20.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0401_20.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0401_20.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0401_20.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "19413764",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0401_20.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-41-20-the-parable-of-the-soils/",
-            "isoDate": "2018-02-14T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0401_20.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0401_20.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-41-20-the-parable-of-the-soils/",
-            "pubDate": "Wed, 14 Feb 2018 07:00:00 +0000",
-            "title": "Mark 4:1-20 \u2013 The Parable of the Soils"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-320-35-is-jesus-crazy/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark0320_35.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26161-62\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0320_35.mp3?_=62\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0320_35.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0320_35.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0320_35.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0320_35.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16123580",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0320_35.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-320-35-is-jesus-crazy/",
-            "isoDate": "2018-02-13T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0320_35.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0320_35.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-320-35-is-jesus-crazy/",
-            "pubDate": "Tue, 13 Feb 2018 07:00:00 +0000",
-            "title": "Mark 3:20-35 \u2013 Is Jesus Crazy?"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-31-19-jesus-hated-adored-and-followed/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark0301_19.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26160-64\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0301_19.mp3?_=64\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0301_19.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0301_19.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0301_19.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0301_19.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "16993582",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0301_19.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-31-19-jesus-hated-adored-and-followed/",
-            "isoDate": "2018-02-12T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0301_19.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0301_19.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-31-19-jesus-hated-adored-and-followed/",
-            "pubDate": "Mon, 12 Feb 2018 07:00:00 +0000",
-            "title": "Mark 3:1-19 \u2013 Jesus: Hated, Adored, and Followed"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-213-28-following-the-great-physician/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark0213_28.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26159-66\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0213_28.mp3?_=66\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0213_28.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0213_28.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0213_28.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0213_28.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18661653",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0213_28.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-213-28-following-the-great-physician/",
-            "isoDate": "2018-02-11T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0213_28.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0213_28.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-213-28-following-the-great-physician/",
-            "pubDate": "Sun, 11 Feb 2018 07:00:00 +0000",
-            "title": "Mark 2:13-28 \u2013 Following the Great Physician"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-135-212-the-power-of-jesus/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark0135_0212.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26158-68\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0135_0212.mp3?_=68\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0135_0212.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0135_0212.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0135_0212.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0135_0212.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "18169915",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0135_0212.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-135-212-the-power-of-jesus/",
-            "isoDate": "2018-02-10T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0135_0212.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0135_0212.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-135-212-the-power-of-jesus/",
-            "pubDate": "Sat, 10 Feb 2018 07:00:00 +0000",
-            "title": "Mark 1:35-2:12 \u2013 The Power of Jesus"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-112-34-the-authority-of-jesus/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark0112_34.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26157-70\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0112_34.mp3?_=70\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0112_34.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0112_34.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0112_34.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0112_34.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "19308229",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0112_34.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-112-34-the-authority-of-jesus/",
-            "isoDate": "2018-02-09T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0112_34.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0112_34.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-112-34-the-authority-of-jesus/",
-            "pubDate": "Fri, 09 Feb 2018 07:00:00 +0000",
-            "title": "Mark 1:12-34 \u2013 The Authority of Jesus"
-        },
-        {
-            "categories": [
-                "The Gospel of Mark",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mark-11-11-who-is-jesus/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Mark0101_11.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26156-72\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0101_11.mp3?_=72\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Mark0101_11.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Mark0101_11.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0101_11.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Mark0101_11.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "19863893",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Mark0101_11.mp3"
-            },
-            "guid": "https://media.enduringword.com/mark-11-11-who-is-jesus/",
-            "isoDate": "2018-02-08T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Mark0101_11.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Mark0101_11.mp3"
-            },
-            "link": "https://media.enduringword.com/mark-11-11-who-is-jesus/",
-            "pubDate": "Thu, 08 Feb 2018 07:00:00 +0000",
-            "title": "Mark 1:1-11 \u2013 Who Is Jesus?"
+            "itunes:author": "David Guzik",
+            "itunes:category": {
+                "@text": "Religion & Spirituality",
+                "itunes:category": {
+                    "@text": "Christianity"
+                }
+            },
+            "itunes:explicit": "no",
+            "itunes:image": {
+                "@href": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_041_mark.jpg"
+            },
+            "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Mark,New,Testament",
+            "itunes:owner": {
+                "itunes:email": "admin@enduringword.com",
+                "itunes:name": "David Guzik"
+            },
+            "itunes:subtitle": "Enduring Word Commentary Series \u2013\u00a0The Gospel of Mark",
+            "itunes:summary": "Pastor David Guzik preaches through the New Testament Gospel of Mark",
+            "language": "en-US",
+            "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
+            "link": "https://media.enduringword.com",
+            "sy:updateFrequency": "1",
+            "sy:updatePeriod": "hourly",
+            "title": "The Gospel of Mark \u2013 Enduring Word Media Server"
         }
-    ],
-    "itunes": {
-        "author": "David Guzik",
-        "categories": [
-            "Religion & Spirituality"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Religion & Spirituality",
-                "subs": [
-                    {
-                        "name": "Christianity"
-                    }
-                ]
-            }
-        ],
-        "explicit": "no",
-        "image": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_041_mark.jpg",
-        "keywords": [
-            "Bible",
-            "David",
-            "Guzik",
-            "Enduring",
-            "Word",
-            "Commentary",
-            "Gospel",
-            "of",
-            "Mark",
-            "New",
-            "Testament"
-        ],
-        "owner": {
-            "email": "admin@enduringword.com",
-            "name": "David Guzik"
-        },
-        "subtitle": "Enduring Word Commentary Series \u2013\u00a0The Gospel of Mark",
-        "summary": "Pastor David Guzik preaches through the New Testament Gospel of Mark"
-    },
-    "language": "en-US",
-    "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
-    "link": "https://media.enduringword.com",
-    "paginationLinks": {
-        "self": "https://media.enduringword.com/podcasts/mark/feed/"
-    },
-    "palette": [],
-    "title": "The Gospel of Mark \u2013 Enduring Word Media Server"
+    }
 }

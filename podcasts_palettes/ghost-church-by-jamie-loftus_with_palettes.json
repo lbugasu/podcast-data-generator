@@ -1,275 +1,618 @@
 {
-    "copyright": "2024 iHeartMedia, Inc. \u00a9 Any use of this intellectual property for text and data mining or computational analysis including as training material for artificial intelligence systems is strictly prohibited without express written consent from iHeartMedia",
-    "description": "<p>In this limited series, Jamie Loftus investigates and interrogates American spiritualism, a century-old tradition of communing with the dead that takes place in camps full of mediums across the country. Who is drawn to these camps, how did the religion come together, and why are the tarot card readers and the seance-havers fighting? Ghost Church is a look at grief, religion, and loneliness, with on-site reporting and interviews with everyone from spiritualist psychics to Protestant pastors to a very lonely carnival employee.\u00a0</p>",
-    "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/fc43d471-035b-486d-b97d-ae780151c077/podcast.rss",
-    "image": {
-        "link": "https://www.iheart.com/podcast/1119-ghost-church-by-jamie-lof-95721611/",
-        "title": "Ghost Church by Jamie Loftus",
-        "url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
-    },
-    "items": [
-        {
-            "content": "<p>In the final episode of <em>Ghost Church</em> (for now), Jamie befriends a Cassadaga medium, reads a manifesto, and looks backwards and ahead to where American spiritualism goes from here. Thank you\u00a0for\u00a0listening, and abolish the Supreme Court bitch.</p> <p>Find Uncle Dennis Here:\u00a0<a href=\"http://www.mysticallahan.com/\">http://www.mysticallahan.com/</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>In the final episode of <em>Ghost Church</em> (for now), Jamie befriends a Cassadaga medium, reads a manifesto, and looks backwards and ahead to where American spiritualism goes from here. Thank you\u00a0for\u00a0listening, and abolish the Supreme Court bitch.</p> <p>Find Uncle Dennis Here:\u00a0<a href=\"http://www.mysticallahan.com/\">http://www.mysticallahan.com/</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "In the final episode of Ghost Church (for now), Jamie befriends a Cassadaga medium, reads a manifesto, and looks backwards and ahead to where American spiritualism goes from here. Thank you\u00a0for\u00a0listening, and abolish the Supreme Court bitch.\n Find Uncle Dennis Here:\u00a0http://www.mysticallahan.com/\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "In the final episode of Ghost Church (for now), Jamie befriends a Cassadaga medium, reads a manifesto, and looks backwards and ahead to where American spiritualism goes from here. Thank you\u00a0for\u00a0listening, and abolish the Supreme Court bitch.\n Find Uncle Dennis Here:\u00a0http://www.mysticallahan.com/\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "49069707",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/a93a3d4d-cf24-4236-bc16-aec0018a6728/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:acast": "https://schema.acast.com/1.0/",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:media": "http://search.yahoo.com/mrss/",
+        "@xmlns:omny": "https://omny.fm/rss-extensions",
+        "@xmlns:podcast": "https://podcastindex.org/namespace/1.0",
+        "@xmlns:psc": "http://podlove.org/simple-chapters",
+        "channel": {
+            "atom:link": [
+                {
+                    "@href": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/fc43d471-035b-486d-b97d-ae780151c077/podcast.rss",
+                    "@rel": "self",
+                    "@type": "application/rss+xml"
+                },
+                {
+                    "@href": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/fc43d471-035b-486d-b97d-ae780151c077/podcast.rss?page=1",
+                    "@rel": "first",
+                    "@type": "application/rss+xml"
+                },
+                {
+                    "@href": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/fc43d471-035b-486d-b97d-ae780151c077/podcast.rss?page=1",
+                    "@rel": "last",
+                    "@type": "application/rss+xml"
+                }
+            ],
+            "copyright": "2024 iHeartMedia, Inc. \u00a9 Any use of this intellectual property for text and data mining or computational analysis including as training material for artificial intelligence systems is strictly prohibited without express written consent from iHeartMedia",
+            "description": "<p>In this limited series, Jamie Loftus investigates and interrogates American spiritualism, a century-old tradition of communing with the dead that takes place in camps full of mediums across the country. Who is drawn to these camps, how did the religion come together, and why are the tarot card readers and the seance-havers fighting? Ghost Church is a look at grief, religion, and loneliness, with on-site reporting and interviews with everyone from spiritualist psychics to Protestant pastors to a very lonely carnival employee.\u00a0</p>",
+            "image": {
+                "link": "https://www.iheart.com/podcast/1119-ghost-church-by-jamie-lof-95721611/",
+                "palette": [
+                    "343B49",
+                    "C7DAEA",
+                    "9CB3C2",
+                    "82898D",
+                    "7D92B1",
+                    "B49CA8"
+                ],
+                "title": "Ghost Church by Jamie Loftus",
+                "url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
             },
-            "guid": "a93a3d4d-cf24-4236-bc16-aec0018a6728",
-            "isoDate": "2022-06-27T04:01:00.000Z",
-            "itunes": {
-                "author": "Cool Zone Media and iHeartPodcasts",
-                "duration": "3064",
-                "episodeType": "full",
-                "explicit": "yes",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+            "item": [
+                {
+                    "content:encoded": "<p>In the final episode of <em>Ghost Church</em> (for now), Jamie befriends a Cassadaga medium, reads a manifesto, and looks backwards and ahead to where American spiritualism goes from here. Thank you\u00a0for\u00a0listening, and abolish the Supreme Court bitch.</p> <p>Find Uncle Dennis Here:\u00a0<a href=\"http://www.mysticallahan.com/\">http://www.mysticallahan.com/</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>In the final episode of <em>Ghost Church</em> (for now), Jamie befriends a Cassadaga medium, reads a manifesto, and looks backwards and ahead to where American spiritualism goes from here. Thank you\u00a0for\u00a0listening, and abolish the Supreme Court bitch.</p> <p>Find Uncle Dennis Here:\u00a0<a href=\"http://www.mysticallahan.com/\">http://www.mysticallahan.com/</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "49069707",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/a93a3d4d-cf24-4236-bc16-aec0018a6728/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077"
+                    },
+                    "guid": {
+                        "#text": "a93a3d4d-cf24-4236-bc16-aec0018a6728",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Cool Zone Media and iHeartPodcasts",
+                    "itunes:duration": "3064",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+                    },
+                    "itunes:title": "9: Waiting for the Spirit in the Cape",
+                    "link": "https://omny.fm/shows/ghost-church-by-jamie-loftus/9-waiting-for-the-spirit-in-the-cape",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/a93a3d4d-cf24-4236-bc16-aec0018a6728/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/ghost-church-by-jamie-loftus/9-waiting-for-the-spirit-in-the-cape/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "a93a3d4d-cf24-4236-bc16-aec0018a6728",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a93a3d4d-cf24-4236-bc16-aec0018a6728/transcript?format=SubRip&t=1700510270"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a93a3d4d-cf24-4236-bc16-aec0018a6728/transcript?format=WebVTT&t=1700510270"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a93a3d4d-cf24-4236-bc16-aec0018a6728/transcript?format=TextWithTimestamps&t=1700510270"
+                        }
+                    ],
+                    "pubDate": "Mon, 27 Jun 2022 04:01:00 +0000",
+                    "title": "9: Waiting for the Spirit in the Cape"
+                },
+                {
+                    "content:encoded": "<p>This week, Jamie takes a look at the second wave of spiritualism in the United States through American Spiritualism's most famous schism -- believer Arthur Conan Doyle versus skeptic Harry Houdini over the mediumship (and yes, ectoplasm) of Mina Crandon. Featuring Paul F. Tompkins as Doyle and Robert Evans as Houdini. I know, right?</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>This week, Jamie takes a look at the second wave of spiritualism in the United States through American Spiritualism's most famous schism -- believer Arthur Conan Doyle versus skeptic Harry Houdini over the mediumship (and yes, ectoplasm) of Mina Crandon. Featuring Paul F. Tompkins as Doyle and Robert Evans as Houdini. I know, right?</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "61554620",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/6c83842c-a527-47ed-828c-aeba002fb2cf/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077"
+                    },
+                    "guid": {
+                        "#text": "6c83842c-a527-47ed-828c-aeba002fb2cf",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Cool Zone Media and iHeartPodcasts",
+                    "itunes:duration": "3844",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+                    },
+                    "itunes:title": "8: The Boys Are Fighting (Over Crotch Goo and Ghosts): Arthur Conan Doyle vs. Harry Houdini",
+                    "link": "https://omny.fm/shows/ghost-church-by-jamie-loftus/the-boys-are-fighting-over-crotch-goo-and-ghosts-a",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/6c83842c-a527-47ed-828c-aeba002fb2cf/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/ghost-church-by-jamie-loftus/the-boys-are-fighting-over-crotch-goo-and-ghosts-a/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "6c83842c-a527-47ed-828c-aeba002fb2cf",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6c83842c-a527-47ed-828c-aeba002fb2cf/transcript?format=SubRip&t=1700510265"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6c83842c-a527-47ed-828c-aeba002fb2cf/transcript?format=WebVTT&t=1700510265"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6c83842c-a527-47ed-828c-aeba002fb2cf/transcript?format=TextWithTimestamps&t=1700510265"
+                        }
+                    ],
+                    "pubDate": "Mon, 20 Jun 2022 04:01:00 +0000",
+                    "title": "8: The Boys Are Fighting (Over Crotch Goo and Ghosts): Arthur Conan Doyle vs. Harry Houdini"
+                },
+                {
+                    "content:encoded": "<p>This week, Jamie goes to a ghost museum, high fives a Jigsaw doll, and takes a look at two religious movements that pulled from American Spiritualism, took what they needed, and left the rest. Dr. Carlos Camacho stops by for a chat about espiritismo, and still no talk of ectoplasm.</p> <p><br>Dr. Margarita Simon Guillory on \"The Religious Studies Project\": <a href=\"https://www.youtube.com/watch?v=8Q3kvN3RDpI\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.youtube.com/watch?v%3D8Q3kvN3RDpI&amp;source=gmail&amp;ust=1655169436433000&amp;usg=AOvVaw3c7JtTnuuEp74m0rYXsoJc\">https://www.youtube.com/watch?v=8Q3kvN3RDpI</a></p> <p>More information on Dr. Camacho here:&nbsp;<a href=\"https://linktr.ee/carloscreates2018\" data-saferedirecturl=\"https://www.google.com/url?q=https://linktr.ee/carloscreates2018&amp;source=gmail&amp;ust=1655169436433000&amp;usg=AOvVaw1Vbp04dyQdCb2KBFilPHzF\">https://linktr.ee/carloscreates2018</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>This week, Jamie goes to a ghost museum, high fives a Jigsaw doll, and takes a look at two religious movements that pulled from American Spiritualism, took what they needed, and left the rest. Dr. Carlos Camacho stops by for a chat about espiritismo, and still no talk of ectoplasm.</p> <p><br>Dr. Margarita Simon Guillory on \"The Religious Studies Project\": <a href=\"https://www.youtube.com/watch?v=8Q3kvN3RDpI\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.youtube.com/watch?v%3D8Q3kvN3RDpI&amp;source=gmail&amp;ust=1655169436433000&amp;usg=AOvVaw3c7JtTnuuEp74m0rYXsoJc\">https://www.youtube.com/watch?v=8Q3kvN3RDpI</a></p> <p>More information on Dr. Camacho here:&nbsp;<a href=\"https://linktr.ee/carloscreates2018\" data-saferedirecturl=\"https://www.google.com/url?q=https://linktr.ee/carloscreates2018&amp;source=gmail&amp;ust=1655169436433000&amp;usg=AOvVaw1Vbp04dyQdCb2KBFilPHzF\">https://linktr.ee/carloscreates2018</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "60273546",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/ea9f6bab-3eff-45b1-8b65-aeb300155378/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077"
+                    },
+                    "guid": {
+                        "#text": "ea9f6bab-3eff-45b1-8b65-aeb300155378",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Cool Zone Media and iHeartPodcasts",
+                    "itunes:duration": "3764",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+                    },
+                    "itunes:title": "7: The Fool's Golden Rule (Espiritismo and Spiritual Churches)",
+                    "link": "https://omny.fm/shows/ghost-church-by-jamie-loftus/7-the-fools-golden-rule-espiritismo-and-spiritual",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/ea9f6bab-3eff-45b1-8b65-aeb300155378/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/ghost-church-by-jamie-loftus/7-the-fools-golden-rule-espiritismo-and-spiritual/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "ea9f6bab-3eff-45b1-8b65-aeb300155378",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ea9f6bab-3eff-45b1-8b65-aeb300155378/transcript?format=SubRip&t=1700510263"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ea9f6bab-3eff-45b1-8b65-aeb300155378/transcript?format=WebVTT&t=1700510263"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ea9f6bab-3eff-45b1-8b65-aeb300155378/transcript?format=TextWithTimestamps&t=1700510263"
+                        }
+                    ],
+                    "pubDate": "Mon, 13 Jun 2022 04:01:00 +0000",
+                    "title": "7: The Fool's Golden Rule (Espiritismo and Spiritual Churches)"
+                },
+                {
+                    "content:encoded": "<p>This week, Jamie heads to the only spiritualist library in the American south -- open two hours a week -- to try and trace the legend of Cassadaga's&nbsp;founding&nbsp;to its root,&nbsp;as land taken from indigenous Americans. Writer Olivia Woodward stops by to discuss spiritual traditions&nbsp;of the Caddo Nation, thoughts on spiritualism's appropriation of Native culture, and questions George Colby's spirit guide.</p> <p><br>Follow Olivia's work here:&nbsp;<a href=\"https://twitter.com/LivNative93\">https://twitter.com/LivNative93</a></p> <p><br>More on the Seneca Nation:&nbsp;<a href=\"hhttps://sni.org/\">https://sni.org/</a></p> <p>More on the Mascogo: <a href=\"https://about.proquest.com/en/blog/2019/what-juneteenth-means-to-the-mascogo-tribe/\">https://about.proquest.com/en/blog/2019/what-juneteenth-means-to-the-mascogo-tribe/</a></p> <p>More on the Timucua: <a href=\"https://read.dukeupress.edu/hahr/article/77/3/502/144849/The-History-of-the-Timucua-Indians-and-Missions\">https://read.dukeupress.edu/hahr/article/77/3/502/144849/The-History-of-the-Timucua-Indians-and-Missions</a></p> <p>More on the Miccosukee:<a href=\"&nbsp;https://www.miccosukee.com/history&nbsp;\">&nbsp;https://www.miccosukee.com/history&nbsp;</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>This week, Jamie heads to the only spiritualist library in the American south -- open two hours a week -- to try and trace the legend of Cassadaga's&nbsp;founding&nbsp;to its root,&nbsp;as land taken from indigenous Americans. Writer Olivia Woodward stops by to discuss spiritual traditions&nbsp;of the Caddo Nation, thoughts on spiritualism's appropriation of Native culture, and questions George Colby's spirit guide.</p> <p><br>Follow Olivia's work here:&nbsp;<a href=\"https://twitter.com/LivNative93\">https://twitter.com/LivNative93</a></p> <p><br>More on the Seneca Nation:&nbsp;<a href=\"hhttps://sni.org/\">https://sni.org/</a></p> <p>More on the Mascogo: <a href=\"https://about.proquest.com/en/blog/2019/what-juneteenth-means-to-the-mascogo-tribe/\">https://about.proquest.com/en/blog/2019/what-juneteenth-means-to-the-mascogo-tribe/</a></p> <p>More on the Timucua: <a href=\"https://read.dukeupress.edu/hahr/article/77/3/502/144849/The-History-of-the-Timucua-Indians-and-Missions\">https://read.dukeupress.edu/hahr/article/77/3/502/144849/The-History-of-the-Timucua-Indians-and-Missions</a></p> <p>More on the Miccosukee:<a href=\"&nbsp;https://www.miccosukee.com/history&nbsp;\">&nbsp;https://www.miccosukee.com/history&nbsp;</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "48105084",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/e2b9c8df-e040-4377-b5c7-aeac001eb944/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077"
+                    },
+                    "guid": {
+                        "#text": "e2b9c8df-e040-4377-b5c7-aeac001eb944",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Cool Zone Media and iHeartPodcasts",
+                    "itunes:duration": "3004",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+                    },
+                    "itunes:title": "6: The Legend of Seneca the Spirit Guide (or: Colonizer, Please)",
+                    "link": "https://omny.fm/shows/ghost-church-by-jamie-loftus/6-the-legend-of-seneca-the-spirit-guide-or-coloniz",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/e2b9c8df-e040-4377-b5c7-aeac001eb944/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/ghost-church-by-jamie-loftus/6-the-legend-of-seneca-the-spirit-guide-or-coloniz/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "e2b9c8df-e040-4377-b5c7-aeac001eb944",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e2b9c8df-e040-4377-b5c7-aeac001eb944/transcript?format=SubRip&t=1700510257"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e2b9c8df-e040-4377-b5c7-aeac001eb944/transcript?format=WebVTT&t=1700510257"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e2b9c8df-e040-4377-b5c7-aeac001eb944/transcript?format=TextWithTimestamps&t=1700510257"
+                        }
+                    ],
+                    "pubDate": "Mon, 06 Jun 2022 04:01:00 +0000",
+                    "title": "6: The Legend of Seneca the Spirit Guide (or: Colonizer, Please)"
+                },
+                {
+                    "content:encoded": "<p>This week, Jamie visits a legendary Cassadaga medium and traces the story of spiritualism's Fox sisters to its end -- where the sisters abandoned the religion that had defined their lives.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>This week, Jamie visits a legendary Cassadaga medium and traces the story of spiritualism's Fox sisters to its end -- where the sisters abandoned the religion that had defined their lives.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "57593587",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/7bc92d66-25b9-4ec4-9f82-aea40180d3d4/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077"
+                    },
+                    "guid": {
+                        "#text": "7bc92d66-25b9-4ec4-9f82-aea40180d3d4",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Cool Zone Media and iHeartPodcasts",
+                    "itunes:duration": "3597",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+                    },
+                    "itunes:title": "5: Apples, The Manipulator, and The Curse of Spiritualism",
+                    "link": "https://omny.fm/shows/ghost-church-by-jamie-loftus/5-apples-the-manipulator-and-the-curse-of-spiritua",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/7bc92d66-25b9-4ec4-9f82-aea40180d3d4/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/ghost-church-by-jamie-loftus/5-apples-the-manipulator-and-the-curse-of-spiritua/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "7bc92d66-25b9-4ec4-9f82-aea40180d3d4",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7bc92d66-25b9-4ec4-9f82-aea40180d3d4/transcript?format=SubRip&t=1700510255"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7bc92d66-25b9-4ec4-9f82-aea40180d3d4/transcript?format=WebVTT&t=1700510255"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7bc92d66-25b9-4ec4-9f82-aea40180d3d4/transcript?format=TextWithTimestamps&t=1700510255"
+                        }
+                    ],
+                    "pubDate": "Mon, 30 May 2022 04:01:00 +0000",
+                    "title": "5: Apples, The Manipulator, and The Curse of Spiritualism"
+                },
+                {
+                    "content:encoded": "<p>This week, Jamie passes the mic to four women of Cassadaga to tell their stories about how they came to American spiritualism -- from being raised by NASA scientists to a tragic loss.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>This week, Jamie passes the mic to four women of Cassadaga to tell their stories about how they came to American spiritualism -- from being raised by NASA scientists to a tragic loss.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "49375224",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/e7bf6bb5-aa75-45c4-bb9d-ae9601887139/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077"
+                    },
+                    "guid": {
+                        "#text": "e7bf6bb5-aa75-45c4-bb9d-ae9601887139",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Cool Zone Media and iHeartPodcasts",
+                    "itunes:duration": "3083",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+                    },
+                    "itunes:title": "4: Four Roads to Cassadaga",
+                    "link": "https://omny.fm/shows/ghost-church-by-jamie-loftus/4-four-roads-to-cassadaga",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/e7bf6bb5-aa75-45c4-bb9d-ae9601887139/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/ghost-church-by-jamie-loftus/4-four-roads-to-cassadaga/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "e7bf6bb5-aa75-45c4-bb9d-ae9601887139",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e7bf6bb5-aa75-45c4-bb9d-ae9601887139/transcript?format=SubRip&t=1700510277"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e7bf6bb5-aa75-45c4-bb9d-ae9601887139/transcript?format=WebVTT&t=1700510277"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e7bf6bb5-aa75-45c4-bb9d-ae9601887139/transcript?format=TextWithTimestamps&t=1700510277"
+                        }
+                    ],
+                    "pubDate": "Mon, 16 May 2022 04:01:00 +0000",
+                    "title": "4: Four Roads to Cassadaga"
+                },
+                {
+                    "content:encoded": "<p>This week, Jamie goes to a table tipping class &mdash; a Spiritualist tradition that uses tables to connect people with their dead. Elsewhere in the past, the Fox sisters go on tour, where the skeptics put increasing pressure on the teenagers to meet their hype.</p> <p>&nbsp;</p> <p dir=\"auto\">Further Reading:</p> <p dir=\"auto\">Talking to the Dead, Barbara Weisberg</p> <p dir=\"auto\">Calling the Spirits: A History of Seances by Lisa Morton</p> <p dir=\"auto\">The Road to Seneca Falls by Judith Wellman</p> <p dir=\"auto\">Backlash: The Undeclared War Against American Women by Susan Faludi</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>This week, Jamie goes to a table tipping class &mdash; a Spiritualist tradition that uses tables to connect people with their dead. Elsewhere in the past, the Fox sisters go on tour, where the skeptics put increasing pressure on the teenagers to meet their hype.</p> <p>&nbsp;</p> <p dir=\"auto\">Further Reading:</p> <p dir=\"auto\">Talking to the Dead, Barbara Weisberg</p> <p dir=\"auto\">Calling the Spirits: A History of Seances by Lisa Morton</p> <p dir=\"auto\">The Road to Seneca Falls by Judith Wellman</p> <p dir=\"auto\">Backlash: The Undeclared War Against American Women by Susan Faludi</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "63652291",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/09a0f9f1-9353-45af-81e4-ae8f018105a9/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077"
+                    },
+                    "guid": {
+                        "#text": "09a0f9f1-9353-45af-81e4-ae8f018105a9",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Cool Zone Media and iHeartPodcasts",
+                    "itunes:duration": "3975",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+                    },
+                    "itunes:title": "3: The Tables Are Tipping",
+                    "link": "https://omny.fm/shows/ghost-church-by-jamie-loftus/3-the-tables-are-tipping",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/09a0f9f1-9353-45af-81e4-ae8f018105a9/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/ghost-church-by-jamie-loftus/3-the-tables-are-tipping/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "09a0f9f1-9353-45af-81e4-ae8f018105a9",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/09a0f9f1-9353-45af-81e4-ae8f018105a9/transcript?format=SubRip&t=1700510241"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/09a0f9f1-9353-45af-81e4-ae8f018105a9/transcript?format=WebVTT&t=1700510241"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/09a0f9f1-9353-45af-81e4-ae8f018105a9/transcript?format=TextWithTimestamps&t=1700510241"
+                        }
+                    ],
+                    "pubDate": "Mon, 09 May 2022 04:01:00 +0000",
+                    "title": "3: The Tables Are Tipping"
+                },
+                {
+                    "content:encoded": "<p>This week, Jamie returns to Cassadaga for a Gala Day with one Reverend Doctor and one Reverend Doctor / Former Dojo Owner, then attends her first spiritualist church service, complete with a message from the spirit after hymns. Back in 1848, spiritualist's founding Fox sisters become stars overnight, immediately stoking skepticism and smothering press attention.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>This week, Jamie returns to Cassadaga for a Gala Day with one Reverend Doctor and one Reverend Doctor / Former Dojo Owner, then attends her first spiritualist church service, complete with a message from the spirit after hymns. Back in 1848, spiritualist's founding Fox sisters become stars overnight, immediately stoking skepticism and smothering press attention.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "59760278",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/3f20eaf6-0590-452f-8996-ae88016fad41/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077"
+                    },
+                    "guid": {
+                        "#text": "3f20eaf6-0590-452f-8996-ae88016fad41",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Cool Zone Media and iHeartPodcasts",
+                    "itunes:duration": "3732",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+                    },
+                    "itunes:title": "2: No Proof is Necessary, No Proof is Sufficient",
+                    "link": "https://omny.fm/shows/ghost-church-by-jamie-loftus/2-no-proof-is-necessary-no-proof-is-sufficient",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/3f20eaf6-0590-452f-8996-ae88016fad41/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/ghost-church-by-jamie-loftus/2-no-proof-is-necessary-no-proof-is-sufficient/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "3f20eaf6-0590-452f-8996-ae88016fad41",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3f20eaf6-0590-452f-8996-ae88016fad41/transcript?format=SubRip&t=1700510235"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3f20eaf6-0590-452f-8996-ae88016fad41/transcript?format=WebVTT&t=1700510235"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3f20eaf6-0590-452f-8996-ae88016fad41/transcript?format=TextWithTimestamps&t=1700510235"
+                        }
+                    ],
+                    "pubDate": "Mon, 02 May 2022 04:01:00 +0000",
+                    "title": "2: No Proof is Necessary, No Proof is Sufficient"
+                },
+                {
+                    "content:encoded": "<p>American Spiritualism is a frequently&nbsp;invoked, rarely understood&nbsp;religion that hinges on speaking with spirit through mediums. In our first episode, Jamie Loftus puts your little baby brain at rest -- it's not a cult. But what is it?</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>American Spiritualism is a frequently&nbsp;invoked, rarely understood&nbsp;religion that hinges on speaking with spirit through mediums. In our first episode, Jamie Loftus puts your little baby brain at rest -- it's not a cult. But what is it?</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "47463466",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/11b938f3-217e-420b-a787-ae810135fe79/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077"
+                    },
+                    "guid": {
+                        "#text": "11b938f3-217e-420b-a787-ae810135fe79",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Cool Zone Media and iHeartPodcasts",
+                    "itunes:duration": "2964",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+                    },
+                    "itunes:title": "1: Not a Cult",
+                    "link": "https://omny.fm/shows/ghost-church-by-jamie-loftus/1-not-a-cult",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/11b938f3-217e-420b-a787-ae810135fe79/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/ghost-church-by-jamie-loftus/1-not-a-cult/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "11b938f3-217e-420b-a787-ae810135fe79",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/11b938f3-217e-420b-a787-ae810135fe79/transcript?format=SubRip&t=1700510233"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/11b938f3-217e-420b-a787-ae810135fe79/transcript?format=WebVTT&t=1700510233"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/11b938f3-217e-420b-a787-ae810135fe79/transcript?format=TextWithTimestamps&t=1700510233"
+                        }
+                    ],
+                    "pubDate": "Mon, 25 Apr 2022 04:01:00 +0000",
+                    "title": "1: Not a Cult"
+                },
+                {
+                    "content:encoded": "<p>Jamie Loftus investigates American spiritualism, a tradition of communing with the dead that takes place in camps full of mediums across the country.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>Jamie Loftus investigates American spiritualism, a tradition of communing with the dead that takes place in camps full of mediums across the country.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "3004262",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/7568c6c3-6deb-475a-aff4-ae780151cd5b/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077"
+                    },
+                    "guid": {
+                        "#text": "7568c6c3-6deb-475a-aff4-ae780151cd5b",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Cool Zone Media and iHeartPodcasts",
+                    "itunes:duration": "185",
+                    "itunes:episodeType": "trailer",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+                    },
+                    "itunes:title": "Introducing: Ghost Church by Jamie Loftus",
+                    "link": "https://omny.fm/shows/ghost-church-by-jamie-loftus/ghost-church-dated-trailer-fin",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/7568c6c3-6deb-475a-aff4-ae780151cd5b/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/ghost-church-by-jamie-loftus/ghost-church-dated-trailer-fin/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "7568c6c3-6deb-475a-aff4-ae780151cd5b",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7568c6c3-6deb-475a-aff4-ae780151cd5b/transcript?format=SubRip&t=1700510262"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7568c6c3-6deb-475a-aff4-ae780151cd5b/transcript?format=WebVTT&t=1700510262"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7568c6c3-6deb-475a-aff4-ae780151cd5b/transcript?format=TextWithTimestamps&t=1700510262"
+                        }
+                    ],
+                    "pubDate": "Fri, 15 Apr 2022 20:33:32 +0000",
+                    "title": "Introducing: Ghost Church by Jamie Loftus"
+                }
+            ],
+            "itunes:author": "Cool Zone Media and iHeartPodcasts",
+            "itunes:category": {
+                "@text": "Society & Culture"
             },
-            "link": "https://omny.fm/shows/ghost-church-by-jamie-loftus/9-waiting-for-the-spirit-in-the-cape",
-            "pubDate": "Mon, 27 Jun 2022 04:01:00 +0000",
-            "title": "9: Waiting for the Spirit in the Cape"
-        },
-        {
-            "content": "<p>This week, Jamie takes a look at the second wave of spiritualism in the United States through American Spiritualism's most famous schism -- believer Arthur Conan Doyle versus skeptic Harry Houdini over the mediumship (and yes, ectoplasm) of Mina Crandon. Featuring Paul F. Tompkins as Doyle and Robert Evans as Houdini. I know, right?</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>This week, Jamie takes a look at the second wave of spiritualism in the United States through American Spiritualism's most famous schism -- believer Arthur Conan Doyle versus skeptic Harry Houdini over the mediumship (and yes, ectoplasm) of Mina Crandon. Featuring Paul F. Tompkins as Doyle and Robert Evans as Houdini. I know, right?</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "This week, Jamie takes a look at the second wave of spiritualism in the United States through American Spiritualism's most famous schism -- believer Arthur Conan Doyle versus skeptic Harry Houdini over the mediumship (and yes, ectoplasm) of Mina Crandon. Featuring Paul F. Tompkins as Doyle and Robert Evans as Houdini. I know, right?\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "This week, Jamie takes a look at the second wave of spiritualism in the United States through American Spiritualism's most famous schism -- believer Arthur Conan Doyle versus skeptic Harry Houdini over the mediumship (and yes, ectoplasm) of Mina Crandon. Featuring Paul F. Tompkins as Doyle and Robert Evans as Houdini. I know, right?\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "61554620",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/6c83842c-a527-47ed-828c-aeba002fb2cf/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077"
+            "itunes:explicit": "yes",
+            "itunes:image": {
+                "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
             },
-            "guid": "6c83842c-a527-47ed-828c-aeba002fb2cf",
-            "isoDate": "2022-06-20T04:01:00.000Z",
-            "itunes": {
-                "author": "Cool Zone Media and iHeartPodcasts",
-                "duration": "3844",
-                "episodeType": "full",
-                "explicit": "yes",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
+            "itunes:owner": {
+                "itunes:email": "applepodcast@howstuffworks.com",
+                "itunes:name": "iHeartPodcasts and Cool Zone Media"
             },
-            "link": "https://omny.fm/shows/ghost-church-by-jamie-loftus/the-boys-are-fighting-over-crotch-goo-and-ghosts-a",
-            "pubDate": "Mon, 20 Jun 2022 04:01:00 +0000",
-            "title": "8: The Boys Are Fighting (Over Crotch Goo and Ghosts): Arthur Conan Doyle vs. Harry Houdini"
-        },
-        {
-            "content": "<p>This week, Jamie goes to a ghost museum, high fives a Jigsaw doll, and takes a look at two religious movements that pulled from American Spiritualism, took what they needed, and left the rest. Dr. Carlos Camacho stops by for a chat about espiritismo, and still no talk of ectoplasm.</p> <p><br>Dr. Margarita Simon Guillory on \"The Religious Studies Project\": <a href=\"https://www.youtube.com/watch?v=8Q3kvN3RDpI\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.youtube.com/watch?v%3D8Q3kvN3RDpI&amp;source=gmail&amp;ust=1655169436433000&amp;usg=AOvVaw3c7JtTnuuEp74m0rYXsoJc\">https://www.youtube.com/watch?v=8Q3kvN3RDpI</a></p> <p>More information on Dr. Camacho here:&nbsp;<a href=\"https://linktr.ee/carloscreates2018\" data-saferedirecturl=\"https://www.google.com/url?q=https://linktr.ee/carloscreates2018&amp;source=gmail&amp;ust=1655169436433000&amp;usg=AOvVaw1Vbp04dyQdCb2KBFilPHzF\">https://linktr.ee/carloscreates2018</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>This week, Jamie goes to a ghost museum, high fives a Jigsaw doll, and takes a look at two religious movements that pulled from American Spiritualism, took what they needed, and left the rest. Dr. Carlos Camacho stops by for a chat about espiritismo, and still no talk of ectoplasm.</p> <p><br>Dr. Margarita Simon Guillory on \"The Religious Studies Project\": <a href=\"https://www.youtube.com/watch?v=8Q3kvN3RDpI\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.youtube.com/watch?v%3D8Q3kvN3RDpI&amp;source=gmail&amp;ust=1655169436433000&amp;usg=AOvVaw3c7JtTnuuEp74m0rYXsoJc\">https://www.youtube.com/watch?v=8Q3kvN3RDpI</a></p> <p>More information on Dr. Camacho here:&nbsp;<a href=\"https://linktr.ee/carloscreates2018\" data-saferedirecturl=\"https://www.google.com/url?q=https://linktr.ee/carloscreates2018&amp;source=gmail&amp;ust=1655169436433000&amp;usg=AOvVaw1Vbp04dyQdCb2KBFilPHzF\">https://linktr.ee/carloscreates2018</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "This week, Jamie goes to a ghost museum, high fives a Jigsaw doll, and takes a look at two religious movements that pulled from American Spiritualism, took what they needed, and left the rest. Dr. Carlos Camacho stops by for a chat about espiritismo, and still no talk of ectoplasm.\n \nDr. Margarita Simon Guillory on \"The Religious Studies Project\": https://www.youtube.com/watch?v=8Q3kvN3RDpI\n More information on Dr. Camacho here:\u00a0https://linktr.ee/carloscreates2018\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "This week, Jamie goes to a ghost museum, high fives a Jigsaw doll, and takes a look at two religious movements that pulled from American Spiritualism, took what they needed, and left the rest. Dr. Carlos Camacho stops by for a chat about espiritismo, and still no talk of ectoplasm.\n \nDr. Margarita Simon Guillory on \"The Religious Studies Project\": https://www.youtube.com/watch?v=8Q3kvN3RDpI\n More information on Dr. Camacho here:\u00a0https://linktr.ee/carloscreates2018\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "60273546",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/ea9f6bab-3eff-45b1-8b65-aeb300155378/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077"
-            },
-            "guid": "ea9f6bab-3eff-45b1-8b65-aeb300155378",
-            "isoDate": "2022-06-13T04:01:00.000Z",
-            "itunes": {
-                "author": "Cool Zone Media and iHeartPodcasts",
-                "duration": "3764",
-                "episodeType": "full",
-                "explicit": "yes",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
-            },
-            "link": "https://omny.fm/shows/ghost-church-by-jamie-loftus/7-the-fools-golden-rule-espiritismo-and-spiritual",
-            "pubDate": "Mon, 13 Jun 2022 04:01:00 +0000",
-            "title": "7: The Fool's Golden Rule (Espiritismo and Spiritual Churches)"
-        },
-        {
-            "content": "<p>This week, Jamie heads to the only spiritualist library in the American south -- open two hours a week -- to try and trace the legend of Cassadaga's&nbsp;founding&nbsp;to its root,&nbsp;as land taken from indigenous Americans. Writer Olivia Woodward stops by to discuss spiritual traditions&nbsp;of the Caddo Nation, thoughts on spiritualism's appropriation of Native culture, and questions George Colby's spirit guide.</p> <p><br>Follow Olivia's work here:&nbsp;<a href=\"https://twitter.com/LivNative93\">https://twitter.com/LivNative93</a></p> <p><br>More on the Seneca Nation:&nbsp;<a href=\"hhttps://sni.org/\">https://sni.org/</a></p> <p>More on the Mascogo: <a href=\"https://about.proquest.com/en/blog/2019/what-juneteenth-means-to-the-mascogo-tribe/\">https://about.proquest.com/en/blog/2019/what-juneteenth-means-to-the-mascogo-tribe/</a></p> <p>More on the Timucua: <a href=\"https://read.dukeupress.edu/hahr/article/77/3/502/144849/The-History-of-the-Timucua-Indians-and-Missions\">https://read.dukeupress.edu/hahr/article/77/3/502/144849/The-History-of-the-Timucua-Indians-and-Missions</a></p> <p>More on the Miccosukee:<a href=\"&nbsp;https://www.miccosukee.com/history&nbsp;\">&nbsp;https://www.miccosukee.com/history&nbsp;</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>This week, Jamie heads to the only spiritualist library in the American south -- open two hours a week -- to try and trace the legend of Cassadaga's&nbsp;founding&nbsp;to its root,&nbsp;as land taken from indigenous Americans. Writer Olivia Woodward stops by to discuss spiritual traditions&nbsp;of the Caddo Nation, thoughts on spiritualism's appropriation of Native culture, and questions George Colby's spirit guide.</p> <p><br>Follow Olivia's work here:&nbsp;<a href=\"https://twitter.com/LivNative93\">https://twitter.com/LivNative93</a></p> <p><br>More on the Seneca Nation:&nbsp;<a href=\"hhttps://sni.org/\">https://sni.org/</a></p> <p>More on the Mascogo: <a href=\"https://about.proquest.com/en/blog/2019/what-juneteenth-means-to-the-mascogo-tribe/\">https://about.proquest.com/en/blog/2019/what-juneteenth-means-to-the-mascogo-tribe/</a></p> <p>More on the Timucua: <a href=\"https://read.dukeupress.edu/hahr/article/77/3/502/144849/The-History-of-the-Timucua-Indians-and-Missions\">https://read.dukeupress.edu/hahr/article/77/3/502/144849/The-History-of-the-Timucua-Indians-and-Missions</a></p> <p>More on the Miccosukee:<a href=\"&nbsp;https://www.miccosukee.com/history&nbsp;\">&nbsp;https://www.miccosukee.com/history&nbsp;</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "This week, Jamie heads to the only spiritualist library in the American south -- open two hours a week -- to try and trace the legend of Cassadaga's\u00a0founding\u00a0to its root,\u00a0as land taken from indigenous Americans. Writer Olivia Woodward stops by to discuss spiritual traditions\u00a0of the Caddo Nation, thoughts on spiritualism's appropriation of Native culture, and questions George Colby's spirit guide.\n \nFollow Olivia's work here:\u00a0https://twitter.com/LivNative93\n \nMore on the Seneca Nation:\u00a0https://sni.org/\n More on the Mascogo: https://about.proquest.com/en/blog/2019/what-juneteenth-means-to-the-mascogo-tribe/\n More on the Timucua: https://read.dukeupress.edu/hahr/article/77/3/502/144849/The-History-of-the-Timucua-Indians-and-Missions\n More on the Miccosukee:\u00a0https://www.miccosukee.com/history\u00a0\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "This week, Jamie heads to the only spiritualist library in the American south -- open two hours a week -- to try and trace the legend of Cassadaga's\u00a0founding\u00a0to its root,\u00a0as land taken from indigenous Americans. Writer Olivia Woodward stops by to discuss spiritual traditions\u00a0of the Caddo Nation, thoughts on spiritualism's appropriation of Native culture, and questions George Colby's spirit guide.\n \nFollow Olivia's work here:\u00a0https://twitter.com/LivNative93\n \nMore on the Seneca Nation:\u00a0https://sni.org/\n More on the Mascogo: https://about.proquest.com/en/blog/2019/what-juneteenth-means-to-the-mascogo-tribe/\n More on the Timucua: https://read.dukeupress.edu/hahr/article/77/3/502/144849/The-History-of-the-Timucua-Indians-and-Missions\n More on the Miccosukee:\u00a0https://www.miccosukee.com/history\u00a0\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "48105084",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/e2b9c8df-e040-4377-b5c7-aeac001eb944/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077"
-            },
-            "guid": "e2b9c8df-e040-4377-b5c7-aeac001eb944",
-            "isoDate": "2022-06-06T04:01:00.000Z",
-            "itunes": {
-                "author": "Cool Zone Media and iHeartPodcasts",
-                "duration": "3004",
-                "episodeType": "full",
-                "explicit": "yes",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
-            },
-            "link": "https://omny.fm/shows/ghost-church-by-jamie-loftus/6-the-legend-of-seneca-the-spirit-guide-or-coloniz",
-            "pubDate": "Mon, 06 Jun 2022 04:01:00 +0000",
-            "title": "6: The Legend of Seneca the Spirit Guide (or: Colonizer, Please)"
-        },
-        {
-            "content": "<p>This week, Jamie visits a legendary Cassadaga medium and traces the story of spiritualism's Fox sisters to its end -- where the sisters abandoned the religion that had defined their lives.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>This week, Jamie visits a legendary Cassadaga medium and traces the story of spiritualism's Fox sisters to its end -- where the sisters abandoned the religion that had defined their lives.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "This week, Jamie visits a legendary Cassadaga medium and traces the story of spiritualism's Fox sisters to its end -- where the sisters abandoned the religion that had defined their lives.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "This week, Jamie visits a legendary Cassadaga medium and traces the story of spiritualism's Fox sisters to its end -- where the sisters abandoned the religion that had defined their lives.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "57593587",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/7bc92d66-25b9-4ec4-9f82-aea40180d3d4/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077"
-            },
-            "guid": "7bc92d66-25b9-4ec4-9f82-aea40180d3d4",
-            "isoDate": "2022-05-30T04:01:00.000Z",
-            "itunes": {
-                "author": "Cool Zone Media and iHeartPodcasts",
-                "duration": "3597",
-                "episodeType": "full",
-                "explicit": "yes",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
-            },
-            "link": "https://omny.fm/shows/ghost-church-by-jamie-loftus/5-apples-the-manipulator-and-the-curse-of-spiritua",
-            "pubDate": "Mon, 30 May 2022 04:01:00 +0000",
-            "title": "5: Apples, The Manipulator, and The Curse of Spiritualism"
-        },
-        {
-            "content": "<p>This week, Jamie passes the mic to four women of Cassadaga to tell their stories about how they came to American spiritualism -- from being raised by NASA scientists to a tragic loss.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>This week, Jamie passes the mic to four women of Cassadaga to tell their stories about how they came to American spiritualism -- from being raised by NASA scientists to a tragic loss.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "This week, Jamie passes the mic to four women of Cassadaga to tell their stories about how they came to American spiritualism -- from being raised by NASA scientists to a tragic loss.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "This week, Jamie passes the mic to four women of Cassadaga to tell their stories about how they came to American spiritualism -- from being raised by NASA scientists to a tragic loss.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "49375224",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/e7bf6bb5-aa75-45c4-bb9d-ae9601887139/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077"
-            },
-            "guid": "e7bf6bb5-aa75-45c4-bb9d-ae9601887139",
-            "isoDate": "2022-05-16T04:01:00.000Z",
-            "itunes": {
-                "author": "Cool Zone Media and iHeartPodcasts",
-                "duration": "3083",
-                "episodeType": "full",
-                "explicit": "yes",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
-            },
-            "link": "https://omny.fm/shows/ghost-church-by-jamie-loftus/4-four-roads-to-cassadaga",
-            "pubDate": "Mon, 16 May 2022 04:01:00 +0000",
-            "title": "4: Four Roads to Cassadaga"
-        },
-        {
-            "content": "<p>This week, Jamie goes to a table tipping class &mdash; a Spiritualist tradition that uses tables to connect people with their dead. Elsewhere in the past, the Fox sisters go on tour, where the skeptics put increasing pressure on the teenagers to meet their hype.</p> <p>&nbsp;</p> <p dir=\"auto\">Further Reading:</p> <p dir=\"auto\">Talking to the Dead, Barbara Weisberg</p> <p dir=\"auto\">Calling the Spirits: A History of Seances by Lisa Morton</p> <p dir=\"auto\">The Road to Seneca Falls by Judith Wellman</p> <p dir=\"auto\">Backlash: The Undeclared War Against American Women by Susan Faludi</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>This week, Jamie goes to a table tipping class &mdash; a Spiritualist tradition that uses tables to connect people with their dead. Elsewhere in the past, the Fox sisters go on tour, where the skeptics put increasing pressure on the teenagers to meet their hype.</p> <p>&nbsp;</p> <p dir=\"auto\">Further Reading:</p> <p dir=\"auto\">Talking to the Dead, Barbara Weisberg</p> <p dir=\"auto\">Calling the Spirits: A History of Seances by Lisa Morton</p> <p dir=\"auto\">The Road to Seneca Falls by Judith Wellman</p> <p dir=\"auto\">Backlash: The Undeclared War Against American Women by Susan Faludi</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "This week, Jamie goes to a table tipping class \u2014 a Spiritualist tradition that uses tables to connect people with their dead. Elsewhere in the past, the Fox sisters go on tour, where the skeptics put increasing pressure on the teenagers to meet their hype.\n \u00a0\n Further Reading:\n Talking to the Dead, Barbara Weisberg\n Calling the Spirits: A History of Seances by Lisa Morton\n The Road to Seneca Falls by Judith Wellman\n Backlash: The Undeclared War Against American Women by Susan Faludi\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "This week, Jamie goes to a table tipping class \u2014 a Spiritualist tradition that uses tables to connect people with their dead. Elsewhere in the past, the Fox sisters go on tour, where the skeptics put increasing pressure on the teenagers to meet their hype.\n \u00a0\n Further Reading:\n Talking to the Dead, Barbara Weisberg\n Calling the Spirits: A History of Seances by Lisa Morton\n The Road to Seneca Falls by Judith Wellman\n Backlash: The Undeclared War Against American Women by Susan Faludi\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "63652291",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/09a0f9f1-9353-45af-81e4-ae8f018105a9/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077"
-            },
-            "guid": "09a0f9f1-9353-45af-81e4-ae8f018105a9",
-            "isoDate": "2022-05-09T04:01:00.000Z",
-            "itunes": {
-                "author": "Cool Zone Media and iHeartPodcasts",
-                "duration": "3975",
-                "episodeType": "full",
-                "explicit": "yes",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
-            },
-            "link": "https://omny.fm/shows/ghost-church-by-jamie-loftus/3-the-tables-are-tipping",
-            "pubDate": "Mon, 09 May 2022 04:01:00 +0000",
-            "title": "3: The Tables Are Tipping"
-        },
-        {
-            "content": "<p>This week, Jamie returns to Cassadaga for a Gala Day with one Reverend Doctor and one Reverend Doctor / Former Dojo Owner, then attends her first spiritualist church service, complete with a message from the spirit after hymns. Back in 1848, spiritualist's founding Fox sisters become stars overnight, immediately stoking skepticism and smothering press attention.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>This week, Jamie returns to Cassadaga for a Gala Day with one Reverend Doctor and one Reverend Doctor / Former Dojo Owner, then attends her first spiritualist church service, complete with a message from the spirit after hymns. Back in 1848, spiritualist's founding Fox sisters become stars overnight, immediately stoking skepticism and smothering press attention.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "This week, Jamie returns to Cassadaga for a Gala Day with one Reverend Doctor and one Reverend Doctor / Former Dojo Owner, then attends her first spiritualist church service, complete with a message from the spirit after hymns. Back in 1848, spiritualist's founding Fox sisters become stars overnight, immediately stoking skepticism and smothering press attention.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "This week, Jamie returns to Cassadaga for a Gala Day with one Reverend Doctor and one Reverend Doctor / Former Dojo Owner, then attends her first spiritualist church service, complete with a message from the spirit after hymns. Back in 1848, spiritualist's founding Fox sisters become stars overnight, immediately stoking skepticism and smothering press attention.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "59760278",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/3f20eaf6-0590-452f-8996-ae88016fad41/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077"
-            },
-            "guid": "3f20eaf6-0590-452f-8996-ae88016fad41",
-            "isoDate": "2022-05-02T04:01:00.000Z",
-            "itunes": {
-                "author": "Cool Zone Media and iHeartPodcasts",
-                "duration": "3732",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
-            },
-            "link": "https://omny.fm/shows/ghost-church-by-jamie-loftus/2-no-proof-is-necessary-no-proof-is-sufficient",
-            "pubDate": "Mon, 02 May 2022 04:01:00 +0000",
-            "title": "2: No Proof is Necessary, No Proof is Sufficient"
-        },
-        {
-            "content": "<p>American Spiritualism is a frequently&nbsp;invoked, rarely understood&nbsp;religion that hinges on speaking with spirit through mediums. In our first episode, Jamie Loftus puts your little baby brain at rest -- it's not a cult. But what is it?</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>American Spiritualism is a frequently&nbsp;invoked, rarely understood&nbsp;religion that hinges on speaking with spirit through mediums. In our first episode, Jamie Loftus puts your little baby brain at rest -- it's not a cult. But what is it?</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "American Spiritualism is a frequently\u00a0invoked, rarely understood\u00a0religion that hinges on speaking with spirit through mediums. In our first episode, Jamie Loftus puts your little baby brain at rest -- it's not a cult. But what is it?\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "American Spiritualism is a frequently\u00a0invoked, rarely understood\u00a0religion that hinges on speaking with spirit through mediums. In our first episode, Jamie Loftus puts your little baby brain at rest -- it's not a cult. But what is it?\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "47463466",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/11b938f3-217e-420b-a787-ae810135fe79/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077"
-            },
-            "guid": "11b938f3-217e-420b-a787-ae810135fe79",
-            "isoDate": "2022-04-25T04:01:00.000Z",
-            "itunes": {
-                "author": "Cool Zone Media and iHeartPodcasts",
-                "duration": "2964",
-                "episodeType": "full",
-                "explicit": "yes",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
-            },
-            "link": "https://omny.fm/shows/ghost-church-by-jamie-loftus/1-not-a-cult",
-            "pubDate": "Mon, 25 Apr 2022 04:01:00 +0000",
-            "title": "1: Not a Cult"
-        },
-        {
-            "content": "<p>Jamie Loftus investigates American spiritualism, a tradition of communing with the dead that takes place in camps full of mediums across the country.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>Jamie Loftus investigates American spiritualism, a tradition of communing with the dead that takes place in camps full of mediums across the country.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "Jamie Loftus investigates American spiritualism, a tradition of communing with the dead that takes place in camps full of mediums across the country.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "Jamie Loftus investigates American spiritualism, a tradition of communing with the dead that takes place in camps full of mediums across the country.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "3004262",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/7568c6c3-6deb-475a-aff4-ae780151cd5b/audio.mp3?utm_source=Podcast&in_playlist=fc43d471-035b-486d-b97d-ae780151c077"
-            },
-            "guid": "7568c6c3-6deb-475a-aff4-ae780151cd5b",
-            "isoDate": "2022-04-15T20:33:32.000Z",
-            "itunes": {
-                "author": "Cool Zone Media and iHeartPodcasts",
-                "duration": "185",
-                "episodeType": "trailer",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large"
-            },
-            "link": "https://omny.fm/shows/ghost-church-by-jamie-loftus/ghost-church-dated-trailer-fin",
-            "pubDate": "Fri, 15 Apr 2022 20:33:32 +0000",
-            "title": "Introducing: Ghost Church by Jamie Loftus"
+            "itunes:summary": "In this limited series, Jamie Loftus investigates and interrogates American spiritualism, a century-old tradition of communing with the dead that takes place in camps full of mediums across the country. Who is drawn to these camps, how did the religion come together, and why are the tarot card readers and the seance-havers fighting? Ghost Church is a look at grief, religion, and loneliness, with on-site reporting and interviews with everyone from spiritualist psychics to Protestant pastors to a very lonely carnival employee.\u00a0",
+            "itunes:type": "serial",
+            "language": "en-US",
+            "link": "https://www.iheart.com/podcast/1119-ghost-church-by-jamie-lof-95721611/",
+            "omny:networkId": "20e860d7-8468-40c2-998c-ae3e01418c48",
+            "omny:organizationId": "e73c998e-6e60-432f-8610-ae210140c5b1",
+            "omny:playlistId": "fc43d471-035b-486d-b97d-ae780151c077",
+            "omny:programId": "e3a389d1-2026-4354-a3a2-ae780151014c",
+            "title": "Ghost Church by Jamie Loftus"
         }
-    ],
-    "itunes": {
-        "author": "Cool Zone Media and iHeartPodcasts",
-        "categories": [
-            "Society & Culture"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Society & Culture",
-                "subs": null
-            }
-        ],
-        "explicit": "yes",
-        "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/image.jpg?t=1684782869&size=Large",
-        "owner": {
-            "email": "applepodcast@howstuffworks.com",
-            "name": "iHeartPodcasts and Cool Zone Media"
-        },
-        "summary": "In this limited series, Jamie Loftus investigates and interrogates American spiritualism, a century-old tradition of communing with the dead that takes place in camps full of mediums across the country. Who is drawn to these camps, how did the religion come together, and why are the tarot card readers and the seance-havers fighting? Ghost Church is a look at grief, religion, and loneliness, with on-site reporting and interviews with everyone from spiritualist psychics to Protestant pastors to a very lonely carnival employee.\u00a0"
-    },
-    "language": "en-US",
-    "link": "https://www.iheart.com/podcast/1119-ghost-church-by-jamie-lof-95721611/",
-    "paginationLinks": {
-        "first": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/fc43d471-035b-486d-b97d-ae780151c077/podcast.rss?page=1",
-        "last": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/fc43d471-035b-486d-b97d-ae780151c077/podcast.rss?page=1",
-        "self": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e3a389d1-2026-4354-a3a2-ae780151014c/fc43d471-035b-486d-b97d-ae780151c077/podcast.rss"
-    },
-    "palette": [
-        "343B49",
-        "C7DAEA",
-        "9CB3C2",
-        "82898D",
-        "7D92B1",
-        "B49CA8"
-    ],
-    "title": "Ghost Church by Jamie Loftus"
+    }
 }

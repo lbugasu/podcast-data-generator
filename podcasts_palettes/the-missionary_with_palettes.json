@@ -1,349 +1,757 @@
 {
-    "copyright": "2024 iHeartMedia, Inc. \u00a9 Any use of this intellectual property for text and data mining or computational analysis including as training material for artificial intelligence systems is strictly prohibited without express written consent from iHeartMedia",
-    "description": "A young missionary named Renee Bach left her comfortable life in America to start a malnutrition program in rural Uganda. Folks back home and in Uganda praised her as a model missionary -- an example of the healing power of God\u2019s message. But a decade later she\u2019s accused of masquerading as a doctor and rumored to have killed hundreds of children in her unlicensed clinic. How did Renee Bach end up here? Is she a case of good intentions gone wrong...or a predator posing as a saint? Hosted and reported by journalists Rajiv Golla, Halima Gikandi and Malcolm Burnley.",
-    "feedUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/f7dd9252-9385-4e4a-ae7a-ae320081dd70/podcast.rss",
-    "image": {
-        "link": "https://www.iheart.com/podcast/1119-the-missionary-61230211/",
-        "title": "The Missionary",
-        "url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large"
-    },
-    "items": [
-        {
-            "categories": [
-                "#owcimport",
-                "#sdimport",
-                "STRMImport",
-                "strmimport"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:acast": "https://schema.acast.com/1.0/",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:media": "http://search.yahoo.com/mrss/",
+        "@xmlns:omny": "https://omny.fm/rss-extensions",
+        "@xmlns:podcast": "https://podcastindex.org/namespace/1.0",
+        "@xmlns:psc": "http://podlove.org/simple-chapters",
+        "channel": {
+            "atom:link": [
+                {
+                    "@href": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/f7dd9252-9385-4e4a-ae7a-ae320081dd70/podcast.rss",
+                    "@rel": "self",
+                    "@type": "application/rss+xml"
+                },
+                {
+                    "@href": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/f7dd9252-9385-4e4a-ae7a-ae320081dd70/podcast.rss?page=1",
+                    "@rel": "first",
+                    "@type": "application/rss+xml"
+                },
+                {
+                    "@href": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/f7dd9252-9385-4e4a-ae7a-ae320081dd70/podcast.rss?page=1",
+                    "@rel": "last",
+                    "@type": "application/rss+xml"
+                }
             ],
-            "content": "<p>Miles and the team learn how Vassilis and his gang pulled off the biggest bank robbery in Greek history without firing a single shot.</p> <p>Like what you hear? Follow us @kscope_nyc on Twitter and Instagram.\u00a0<br>See omnystudio.com/listener for privacy information.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>Miles and the team learn how Vassilis and his gang pulled off the biggest bank robbery in Greek history without firing a single shot.</p> <p>Like what you hear? Follow us @kscope_nyc on Twitter and Instagram.\u00a0<br>See omnystudio.com/listener for privacy information.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "Miles and the team learn how Vassilis and his gang pulled off the biggest bank robbery in Greek history without firing a single shot.\n Like what you hear? Follow us @kscope_nyc on Twitter and Instagram.\u00a0\nSee omnystudio.com/listener for privacy information.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "Miles and the team learn how Vassilis and his gang pulled off the biggest bank robbery in Greek history without firing a single shot.\n Like what you hear? Follow us @kscope_nyc on Twitter and Instagram.\u00a0\nSee omnystudio.com/listener for privacy information.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "34413845",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1d50ac81-3331-48f0-853f-b02e01032510/2e41a1d2-36f8-45f6-9122-b03b01333b4e/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
+            "copyright": "2024 iHeartMedia, Inc. \u00a9 Any use of this intellectual property for text and data mining or computational analysis including as training material for artificial intelligence systems is strictly prohibited without express written consent from iHeartMedia",
+            "description": "A young missionary named Renee Bach left her comfortable life in America to start a malnutrition program in rural Uganda. Folks back home and in Uganda praised her as a model missionary -- an example of the healing power of God\u2019s message. But a decade later she\u2019s accused of masquerading as a doctor and rumored to have killed hundreds of children in her unlicensed clinic. How did Renee Bach end up here? Is she a case of good intentions gone wrong...or a predator posing as a saint? Hosted and reported by journalists Rajiv Golla, Halima Gikandi and Malcolm Burnley.",
+            "image": {
+                "link": "https://www.iheart.com/podcast/1119-the-missionary-61230211/",
+                "palette": [
+                    "07426E",
+                    "DCE712",
+                    "12B9A3",
+                    "139383",
+                    "455730",
+                    "769EBD"
+                ],
+                "title": "The Missionary",
+                "url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large"
             },
-            "guid": "2e41a1d2-36f8-45f6-9122-b03b01333b4e",
-            "isoDate": "2023-07-12T04:01:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts",
-                "duration": "2147",
-                "episode": "1",
-                "episodeType": "full",
-                "explicit": "clean",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/1d50ac81-3331-48f0-853f-b02e01032510/image.jpg?t=1688550354&size=Large",
-                "keywords": "#owcimport, #sdimport, STRMImport, strmimport",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/the-good-thief/how-to-rob-banks-and-influence-people",
-            "pubDate": "Wed, 12 Jul 2023 04:01:00 +0000",
-            "title": "The Good Thief - Ep 1. How to Rob Banks and Influence People"
-        },
-        {
-            "categories": [
-                "STRMImport",
-                "ElvisDuranImport",
-                "EDCelebImport",
-                "ED15Import",
-                "BestSteveImport",
-                "SteveImport"
+            "item": [
+                {
+                    "category": [
+                        "#owcimport",
+                        "#sdimport",
+                        "STRMImport",
+                        "strmimport"
+                    ],
+                    "content:encoded": "<p>Miles and the team learn how Vassilis and his gang pulled off the biggest bank robbery in Greek history without firing a single shot.</p> <p>Like what you hear? Follow us @kscope_nyc on Twitter and Instagram.\u00a0<br>See omnystudio.com/listener for privacy information.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>Miles and the team learn how Vassilis and his gang pulled off the biggest bank robbery in Greek history without firing a single shot.</p> <p>Like what you hear? Follow us @kscope_nyc on Twitter and Instagram.\u00a0<br>See omnystudio.com/listener for privacy information.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "34413845",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1d50ac81-3331-48f0-853f-b02e01032510/2e41a1d2-36f8-45f6-9122-b03b01333b4e/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
+                    },
+                    "guid": {
+                        "#text": "2e41a1d2-36f8-45f6-9122-b03b01333b4e",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts",
+                    "itunes:duration": "2147",
+                    "itunes:episode": "1",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "clean",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/1d50ac81-3331-48f0-853f-b02e01032510/image.jpg?t=1688550354&size=Large"
+                    },
+                    "itunes:keywords": "#owcimport, #sdimport, STRMImport, strmimport",
+                    "itunes:season": "1",
+                    "itunes:title": "The Good Thief - Ep 1. How to Rob Banks and Influence People",
+                    "link": "https://omny.fm/shows/the-good-thief/how-to-rob-banks-and-influence-people",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1d50ac81-3331-48f0-853f-b02e01032510/2e41a1d2-36f8-45f6-9122-b03b01333b4e/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/the-good-thief/how-to-rob-banks-and-influence-people/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/1d50ac81-3331-48f0-853f-b02e01032510/image.jpg?t=1688550354&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "2e41a1d2-36f8-45f6-9122-b03b01333b4e",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2e41a1d2-36f8-45f6-9122-b03b01333b4e/transcript?format=SubRip&t=1713993266"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2e41a1d2-36f8-45f6-9122-b03b01333b4e/transcript?format=WebVTT&t=1713993266"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2e41a1d2-36f8-45f6-9122-b03b01333b4e/transcript?format=TextWithTimestamps&t=1713993266"
+                        }
+                    ],
+                    "pubDate": "Wed, 12 Jul 2023 04:01:00 +0000",
+                    "title": "The Good Thief - Ep 1. How to Rob Banks and Influence People"
+                },
+                {
+                    "category": [
+                        "STRMImport",
+                        "ElvisDuranImport",
+                        "EDCelebImport",
+                        "ED15Import",
+                        "BestSteveImport",
+                        "SteveImport"
+                    ],
+                    "content:encoded": "<p>A coup in Haiti empowers a new paramilitary squad, bold enough to face down the U.S. military. In Miami, the black book resurfaces \u2013 and the killings continue.</p> <p>\u200b\u200bAvailable to all on May 18, 2023.</p> <p>Like what you hear? Follow us @kscope_nyc on Twitter and Instagram.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>A coup in Haiti empowers a new paramilitary squad, bold enough to face down the U.S. military. In Miami, the black book resurfaces \u2013 and the killings continue.</p> <p>\u200b\u200bAvailable to all on May 18, 2023.</p> <p>Like what you hear? Follow us @kscope_nyc on Twitter and Instagram.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "32509868",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/692b5c84-9c89-4a9b-a988-ae3100473297/789b8866-7ca8-4c4c-82a2-affe00479201/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
+                    },
+                    "guid": {
+                        "#text": "789b8866-7ca8-4c4c-82a2-affe00479201",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts",
+                    "itunes:duration": "2026",
+                    "itunes:episode": "4",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/692b5c84-9c89-4a9b-a988-ae3100473297/image.jpg?t=1684950456&size=Large"
+                    },
+                    "itunes:keywords": "STRMImport, ElvisDuranImport, EDCelebImport, ED15Import, BestSteveImport, SteveImport",
+                    "itunes:season": "2",
+                    "itunes:title": "Death Squad",
+                    "link": "https://omny.fm/shows/forgotten-women-of-ju-rez/death-squad",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/692b5c84-9c89-4a9b-a988-ae3100473297/789b8866-7ca8-4c4c-82a2-affe00479201/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/forgotten-women-of-ju-rez/death-squad/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/692b5c84-9c89-4a9b-a988-ae3100473297/image.jpg?t=1684950456&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "789b8866-7ca8-4c4c-82a2-affe00479201",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/789b8866-7ca8-4c4c-82a2-affe00479201/transcript?format=SubRip&t=1714054927"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/789b8866-7ca8-4c4c-82a2-affe00479201/transcript?format=WebVTT&t=1714054927"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/789b8866-7ca8-4c4c-82a2-affe00479201/transcript?format=TextWithTimestamps&t=1714054927"
+                        }
+                    ],
+                    "pubDate": "Thu, 18 May 2023 07:01:00 +0000",
+                    "title": "Death Squad"
+                },
+                {
+                    "content:encoded": "<p><strong><em>Hi, Missionary fans!</em></strong> iHeartPodcasts and host Catherine Townsend are excited to announce Hell and Gone Season 4! The Little Rock Police Department searched an abandoned car in a small residential park. The keys were in the ignition and the car was out of gas as if it had been left running. The car belonged to 18-year-old Ebby Steppach, and she had vanished without a trace. A thrilling true crime that continues to unravel with every clue. Don't just take our word for it, check out the trailer to decide for yourself!</p><p>\u00a0</p><p><strong><em>About Hell and Gone:</em></strong> On October 30, 2015, the Little Rock Police Department searched an abandoned car in a small residential park. The keys were in the ignition and the car was out of gas as if it had been left running. The car belonged to 18-year-old Ebby Steppach, and she had vanished without a trace.</p><p>\u00a0</p><p>It seems like everyone in Arkansas knows about Ebby. They know she disappeared in 2015, and her body was found in a storm drain three years later. They know there have been multiple investigations that have led nowhere. And even though Ebby's case has been one of the most extensively covered cold cases in Arkansas, so much of her life and what really happened to her remain a mystery. Ebby's case has been one of the most extensively covered cold cases in Arkansas, but so much of her life and what really happened to her remain a mystery.\u00a0</p><p>\u00a0</p><p>What really happened to Ebby Steppach?</p><p><strong><em>\u00a0</em></strong></p><p><strong><em>Listen and subscribe to Hell and Gone</em></strong><a href=\"https://www.iheart.com/podcast/105-hell-and-gone-29974699/\"><strong><em> </em></strong></a><a href=\"https://www.iheart.com/podcast/105-hell-and-gone-29974699/\"><strong><em>here</em></strong></a><strong><em>. </em></strong></p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p><strong><em>Hi, Missionary fans!</em></strong> iHeartPodcasts and host Catherine Townsend are excited to announce Hell and Gone Season 4! The Little Rock Police Department searched an abandoned car in a small residential park. The keys were in the ignition and the car was out of gas as if it had been left running. The car belonged to 18-year-old Ebby Steppach, and she had vanished without a trace. A thrilling true crime that continues to unravel with every clue. Don't just take our word for it, check out the trailer to decide for yourself!</p><p>\u00a0</p><p><strong><em>About Hell and Gone:</em></strong> On October 30, 2015, the Little Rock Police Department searched an abandoned car in a small residential park. The keys were in the ignition and the car was out of gas as if it had been left running. The car belonged to 18-year-old Ebby Steppach, and she had vanished without a trace.</p><p>\u00a0</p><p>It seems like everyone in Arkansas knows about Ebby. They know she disappeared in 2015, and her body was found in a storm drain three years later. They know there have been multiple investigations that have led nowhere. And even though Ebby's case has been one of the most extensively covered cold cases in Arkansas, so much of her life and what really happened to her remain a mystery. Ebby's case has been one of the most extensively covered cold cases in Arkansas, but so much of her life and what really happened to her remain a mystery.\u00a0</p><p>\u00a0</p><p>What really happened to Ebby Steppach?</p><p><strong><em>\u00a0</em></strong></p><p><strong><em>Listen and subscribe to Hell and Gone</em></strong><a href=\"https://www.iheart.com/podcast/105-hell-and-gone-29974699/\"><strong><em> </em></strong></a><a href=\"https://www.iheart.com/podcast/105-hell-and-gone-29974699/\"><strong><em>here</em></strong></a><strong><em>. </em></strong></p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "3456703",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/16f74aa0-2c2b-43ec-a8a3-ae62013de407/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
+                    },
+                    "guid": {
+                        "#text": "71497186-ab9f-11ec-8045-ef5939646dd8",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts",
+                    "itunes:duration": "212",
+                    "itunes:episodeType": "bonus",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/16f74aa0-2c2b-43ec-a8a3-ae62013de407/image.jpg?t=1648149448&size=Large"
+                    },
+                    "itunes:summary": "If you enjoyed this trailer, listen and subscribe to Hell and Gone Season 4 on the iHeartRadio app or wherever you get your podcasts!",
+                    "itunes:title": "Introducing: Hell and Gone Season 4",
+                    "link": "https://www.iheart.com/podcast/105-hell-and-gone-29974699/",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/16f74aa0-2c2b-43ec-a8a3-ae62013de407/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/the-missionary/introducing-hell-and-gone-season-4/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/16f74aa0-2c2b-43ec-a8a3-ae62013de407/image.jpg?t=1648149448&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "16f74aa0-2c2b-43ec-a8a3-ae62013de407",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/16f74aa0-2c2b-43ec-a8a3-ae62013de407/transcript?format=SubRip&t=1700583049"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/16f74aa0-2c2b-43ec-a8a3-ae62013de407/transcript?format=WebVTT&t=1700583049"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/16f74aa0-2c2b-43ec-a8a3-ae62013de407/transcript?format=TextWithTimestamps&t=1700583049"
+                        }
+                    ],
+                    "pubDate": "Thu, 24 Mar 2022 18:22:44 +0000",
+                    "title": "Introducing: Hell and Gone Season 4"
+                },
+                {
+                    "content:encoded": "<p>After becoming an international controversy, Renee reconsiders her entire life\u2019s work. But the mothers suing her are still nowhere closer to finding answers.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>After becoming an international controversy, Renee reconsiders her entire life\u2019s work. But the mothers suing her are still nowhere closer to finding answers.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "38841499",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/b8ef3e17-86bc-43db-aca3-ae320081f0a7/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
+                    },
+                    "guid": {
+                        "#text": "16fd7930-b7da-11ea-a256-6bec000239e4",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts",
+                    "itunes:duration": "2422",
+                    "itunes:episode": "8",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "What's Left",
+                    "link": "https://omny.fm/shows/the-missionary/episode-8-whats-left",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/b8ef3e17-86bc-43db-aca3-ae320081f0a7/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/the-missionary/episode-8-whats-left/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "b8ef3e17-86bc-43db-aca3-ae320081f0a7",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b8ef3e17-86bc-43db-aca3-ae320081f0a7/transcript?format=SubRip&t=1700576781"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b8ef3e17-86bc-43db-aca3-ae320081f0a7/transcript?format=WebVTT&t=1700576781"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b8ef3e17-86bc-43db-aca3-ae320081f0a7/transcript?format=TextWithTimestamps&t=1700576781"
+                        }
+                    ],
+                    "pubDate": "Fri, 26 Jun 2020 18:45:35 +0000",
+                    "title": "What's Left"
+                },
+                {
+                    "content:encoded": "<p>After a string of complaints and a leaked report, Serving His Children is forced to shut its doors. But Jinja\u2019s problems are only beginning.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>After a string of complaints and a leaked report, Serving His Children is forced to shut its doors. But Jinja\u2019s problems are only beginning.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "36482119",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/b0fcf35c-48c9-4bd3-bbea-ae320081eb4d/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
+                    },
+                    "guid": {
+                        "#text": "03987c40-b25e-11ea-8131-7ff315392fab",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts",
+                    "itunes:duration": "2274",
+                    "itunes:episode": "7",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "Matthew 18",
+                    "link": "https://omny.fm/shows/the-missionary/episode-7-matthew-18",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/b0fcf35c-48c9-4bd3-bbea-ae320081eb4d/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/the-missionary/episode-7-matthew-18/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "b0fcf35c-48c9-4bd3-bbea-ae320081eb4d",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b0fcf35c-48c9-4bd3-bbea-ae320081eb4d/transcript?format=SubRip&t=1700576741"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b0fcf35c-48c9-4bd3-bbea-ae320081eb4d/transcript?format=WebVTT&t=1700576741"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b0fcf35c-48c9-4bd3-bbea-ae320081eb4d/transcript?format=TextWithTimestamps&t=1700576741"
+                        }
+                    ],
+                    "pubDate": "Fri, 19 Jun 2020 19:03:30 +0000",
+                    "title": "Matthew 18"
+                },
+                {
+                    "content:encoded": "<p>When Renee\u2019s story hit the airwaves, a Ugandan official decides to look into her alleged crimes. He\u2019s shocked by what he finds: nothing.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>When Renee\u2019s story hit the airwaves, a Ugandan official decides to look into her alleged crimes. He\u2019s shocked by what he finds: nothing.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "42025095",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/ce0c0968-652b-4244-97bb-ae320082b9db/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
+                    },
+                    "guid": {
+                        "#text": "079742a6-acc6-11ea-b2d3-b3da215890e4",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts",
+                    "itunes:duration": "2621",
+                    "itunes:episode": "6",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "105 Children",
+                    "link": "https://omny.fm/shows/the-missionary/episode-6-105-children",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/ce0c0968-652b-4244-97bb-ae320082b9db/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/the-missionary/episode-6-105-children/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "ce0c0968-652b-4244-97bb-ae320082b9db",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ce0c0968-652b-4244-97bb-ae320082b9db/transcript?format=SubRip&t=1700576741"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ce0c0968-652b-4244-97bb-ae320082b9db/transcript?format=WebVTT&t=1700576741"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ce0c0968-652b-4244-97bb-ae320082b9db/transcript?format=TextWithTimestamps&t=1700576741"
+                        }
+                    ],
+                    "pubDate": "Fri, 12 Jun 2020 16:12:38 +0000",
+                    "title": "105 Children"
+                },
+                {
+                    "content:encoded": "<p>The role that Christian missionaries play in the world has changed a lot over the years. In this episode, we examine the missionary industrial complex \u2014 from Barbie Savior to missionary influencers \u2014 and discover that Renee Bach isn't an anomaly.</p><p><br></p><p>.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>The role that Christian missionaries play in the world has changed a lot over the years. In this episode, we examine the missionary industrial complex \u2014 from Barbie Savior to missionary influencers \u2014 and discover that Renee Bach isn't an anomaly.</p><p><br></p><p>.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "35993527",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/b338e56b-fd40-4707-91f8-ae320082c1b3/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
+                    },
+                    "guid": {
+                        "#text": "9a00b14e-a777-11ea-8b9b-9f9da5d8cd79",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts",
+                    "itunes:duration": "2244",
+                    "itunes:episode": "5",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "Barbie Savior",
+                    "link": "https://omny.fm/shows/the-missionary/episode-5-barbie-savior",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/b338e56b-fd40-4707-91f8-ae320082c1b3/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/the-missionary/episode-5-barbie-savior/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "b338e56b-fd40-4707-91f8-ae320082c1b3",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b338e56b-fd40-4707-91f8-ae320082c1b3/transcript?format=SubRip&t=1700576742"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b338e56b-fd40-4707-91f8-ae320082c1b3/transcript?format=WebVTT&t=1700576742"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b338e56b-fd40-4707-91f8-ae320082c1b3/transcript?format=TextWithTimestamps&t=1700576742"
+                        }
+                    ],
+                    "pubDate": "Fri, 05 Jun 2020 22:09:00 +0000",
+                    "title": "Barbie Savior"
+                },
+                {
+                    "content:encoded": "<p>For years, a baby named Patricia was a Serving His Children success story. But a video sent to our team throws everything into question.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>For years, a baby named Patricia was a Serving His Children success story. But a video sent to our team throws everything into question.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "40010111",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/3c50866d-3115-4308-bdb2-ae320082dc0a/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
+                    },
+                    "guid": {
+                        "#text": "55e69cda-9c55-11ea-8317-f7d2cf632d48",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts",
+                    "itunes:duration": "2495",
+                    "itunes:episode": "4",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "The Video",
+                    "link": "https://omny.fm/shows/the-missionary/episode-4-the-video",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/3c50866d-3115-4308-bdb2-ae320082dc0a/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/the-missionary/episode-4-the-video/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "3c50866d-3115-4308-bdb2-ae320082dc0a",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3c50866d-3115-4308-bdb2-ae320082dc0a/transcript?format=SubRip&t=1700576742"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3c50866d-3115-4308-bdb2-ae320082dc0a/transcript?format=WebVTT&t=1700576742"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3c50866d-3115-4308-bdb2-ae320082dc0a/transcript?format=TextWithTimestamps&t=1700576742"
+                        }
+                    ],
+                    "pubDate": "Fri, 22 May 2020 18:22:00 +0000",
+                    "title": "The Video"
+                },
+                {
+                    "content:encoded": "<p>After months of silence, Renee Bach appears on Fox News to defend herself. A few days later, we receive an invitation to meet her in Virginia, face-to-face.\u00a0</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>After months of silence, Renee Bach appears on Fox News to defend herself. A few days later, we receive an invitation to meet her in Virginia, face-to-face.\u00a0</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "37525349",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/11618e4d-e4a8-4f58-82d8-ae3200838487/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
+                    },
+                    "guid": {
+                        "#text": "b6810bac-965b-11ea-a14d-6bcb5e1f0ba2",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts",
+                    "itunes:duration": "2340",
+                    "itunes:episode": "3",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "Good Samaritan",
+                    "link": "https://omny.fm/shows/the-missionary/good-samaritan",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/11618e4d-e4a8-4f58-82d8-ae3200838487/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/the-missionary/good-samaritan/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "11618e4d-e4a8-4f58-82d8-ae3200838487",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/11618e4d-e4a8-4f58-82d8-ae3200838487/transcript?format=SubRip&t=1700576743"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/11618e4d-e4a8-4f58-82d8-ae3200838487/transcript?format=WebVTT&t=1700576743"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/11618e4d-e4a8-4f58-82d8-ae3200838487/transcript?format=TextWithTimestamps&t=1700576743"
+                        }
+                    ],
+                    "pubDate": "Fri, 15 May 2020 10:10:00 +0000",
+                    "title": "Good Samaritan"
+                },
+                {
+                    "content:encoded": "<p>The first death at Serving His Children wasn't a child,\u00a0but a 27-year-old woman. Now, no one can agree on how she died, or if she needed rescuing at all.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>The first death at Serving His Children wasn't a child,\u00a0but a 27-year-old woman. Now, no one can agree on how she died, or if she needed rescuing at all.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "36449517",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/3796945d-c843-4b58-9763-ae320083bb3d/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
+                    },
+                    "guid": {
+                        "#text": "c9a283ba-9650-11ea-bd67-f38df1148f42",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts",
+                    "itunes:duration": "2272",
+                    "itunes:episode": "2",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "37 Pounds",
+                    "link": "https://omny.fm/shows/the-missionary/episode-2-37-pounds",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/3796945d-c843-4b58-9763-ae320083bb3d/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/the-missionary/episode-2-37-pounds/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "3796945d-c843-4b58-9763-ae320083bb3d",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3796945d-c843-4b58-9763-ae320083bb3d/transcript?format=SubRip&t=1700576743"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3796945d-c843-4b58-9763-ae320083bb3d/transcript?format=WebVTT&t=1700576743"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3796945d-c843-4b58-9763-ae320083bb3d/transcript?format=TextWithTimestamps&t=1700576743"
+                        }
+                    ],
+                    "pubDate": "Fri, 15 May 2020 10:05:00 +0000",
+                    "title": "37 Pounds"
+                },
+                {
+                    "content:encoded": "<p>Renee Bach was 19 when she decided to follow God's calling to Uganda. Ten years later, she's accused of impersonating a doctor and she's blamed for the\u00a0deaths of more than 100 children.\u00a0We look into the allegations and talk to Renee's accusers.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>Renee Bach was 19 when she decided to follow God's calling to Uganda. Ten years later, she's accused of impersonating a doctor and she's blamed for the\u00a0deaths of more than 100 children.\u00a0We look into the allegations and talk to Renee's accusers.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "37716357",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/6303d66d-7a62-48f9-aedb-ae3200842677/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
+                    },
+                    "guid": {
+                        "#text": "9a82a4a8-964f-11ea-8441-8f375f06f449",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts",
+                    "itunes:duration": "2352",
+                    "itunes:episode": "1",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large"
+                    },
+                    "itunes:season": "1",
+                    "itunes:title": "The Lord's Work",
+                    "link": "https://omny.fm/shows/the-missionary/episode-1-the-lords-work",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/6303d66d-7a62-48f9-aedb-ae3200842677/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/the-missionary/episode-1-the-lords-work/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "6303d66d-7a62-48f9-aedb-ae3200842677",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6303d66d-7a62-48f9-aedb-ae3200842677/transcript?format=SubRip&t=1700576744"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6303d66d-7a62-48f9-aedb-ae3200842677/transcript?format=WebVTT&t=1700576744"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6303d66d-7a62-48f9-aedb-ae3200842677/transcript?format=TextWithTimestamps&t=1700576744"
+                        }
+                    ],
+                    "pubDate": "Fri, 15 May 2020 10:00:00 +0000",
+                    "title": "The Lord's Work"
+                },
+                {
+                    "content:encoded": "<p><strong>In 2009, a young American missionary named Renee Bach built a nonprofit to fight child malnutrition in Uganda. Ten years later, allegations surface that hundreds of children died at her facility. How could this happen? Hosted and reported by Rajiv Golla, Halima Gikandi and Malcolm Burnley.\u00a0</strong></p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p><strong>In 2009, a young American missionary named Renee Bach built a nonprofit to fight child malnutrition in Uganda. Ten years later, allegations surface that hundreds of children died at her facility. How could this happen? Hosted and reported by Rajiv Golla, Halima Gikandi and Malcolm Burnley.\u00a0</strong></p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "2370933",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/29e292f2-e98b-4cc7-bef7-ae320084b5c2/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
+                    },
+                    "guid": {
+                        "#text": "c5a804ae-67a9-11ea-a1f4-373603b8d50d",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "iHeartPodcasts",
+                    "itunes:duration": "143",
+                    "itunes:episodeType": "trailer",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/29e292f2-e98b-4cc7-bef7-ae320084b5c2/image.jpg?t=1643961797&size=Large"
+                    },
+                    "itunes:title": "Introducing: The Missionary",
+                    "link": "https://omny.fm/shows/the-missionary/introducing-the-missionary",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/29e292f2-e98b-4cc7-bef7-ae320084b5c2/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/the-missionary/introducing-the-missionary/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/29e292f2-e98b-4cc7-bef7-ae320084b5c2/image.jpg?t=1643961797&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "29e292f2-e98b-4cc7-bef7-ae320084b5c2",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/29e292f2-e98b-4cc7-bef7-ae320084b5c2/transcript?format=SubRip&t=1700576744"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/29e292f2-e98b-4cc7-bef7-ae320084b5c2/transcript?format=WebVTT&t=1700576744"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/29e292f2-e98b-4cc7-bef7-ae320084b5c2/transcript?format=TextWithTimestamps&t=1700576744"
+                        }
+                    ],
+                    "pubDate": "Thu, 14 May 2020 04:00:00 +0000",
+                    "title": "Introducing: The Missionary"
+                }
             ],
-            "content": "<p>A coup in Haiti empowers a new paramilitary squad, bold enough to face down the U.S. military. In Miami, the black book resurfaces \u2013 and the killings continue.</p> <p>\u200b\u200bAvailable to all on May 18, 2023.</p> <p>Like what you hear? Follow us @kscope_nyc on Twitter and Instagram.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>A coup in Haiti empowers a new paramilitary squad, bold enough to face down the U.S. military. In Miami, the black book resurfaces \u2013 and the killings continue.</p> <p>\u200b\u200bAvailable to all on May 18, 2023.</p> <p>Like what you hear? Follow us @kscope_nyc on Twitter and Instagram.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "A coup in Haiti empowers a new paramilitary squad, bold enough to face down the U.S. military. In Miami, the black book resurfaces \u2013 and the killings continue.\n \u200b\u200bAvailable to all on May 18, 2023.\n Like what you hear? Follow us @kscope_nyc on Twitter and Instagram.\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "A coup in Haiti empowers a new paramilitary squad, bold enough to face down the U.S. military. In Miami, the black book resurfaces \u2013 and the killings continue.\n \u200b\u200bAvailable to all on May 18, 2023.\n Like what you hear? Follow us @kscope_nyc on Twitter and Instagram.\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "32509868",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/692b5c84-9c89-4a9b-a988-ae3100473297/789b8866-7ca8-4c4c-82a2-affe00479201/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
+            "itunes:author": "iHeartPodcasts",
+            "itunes:category": {
+                "@text": "Society & Culture"
             },
-            "guid": "789b8866-7ca8-4c4c-82a2-affe00479201",
-            "isoDate": "2023-05-18T07:01:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts",
-                "duration": "2026",
-                "episode": "4",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/692b5c84-9c89-4a9b-a988-ae3100473297/image.jpg?t=1684950456&size=Large",
-                "keywords": "STRMImport, ElvisDuranImport, EDCelebImport, ED15Import, BestSteveImport, SteveImport",
-                "season": "2"
+            "itunes:explicit": "yes",
+            "itunes:image": {
+                "@href": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large"
             },
-            "link": "https://omny.fm/shows/forgotten-women-of-ju-rez/death-squad",
-            "pubDate": "Thu, 18 May 2023 07:01:00 +0000",
-            "title": "Death Squad"
-        },
-        {
-            "content": "<p><strong><em>Hi, Missionary fans!</em></strong> iHeartPodcasts and host Catherine Townsend are excited to announce Hell and Gone Season 4! The Little Rock Police Department searched an abandoned car in a small residential park. The keys were in the ignition and the car was out of gas as if it had been left running. The car belonged to 18-year-old Ebby Steppach, and she had vanished without a trace. A thrilling true crime that continues to unravel with every clue. Don't just take our word for it, check out the trailer to decide for yourself!</p><p>\u00a0</p><p><strong><em>About Hell and Gone:</em></strong> On October 30, 2015, the Little Rock Police Department searched an abandoned car in a small residential park. The keys were in the ignition and the car was out of gas as if it had been left running. The car belonged to 18-year-old Ebby Steppach, and she had vanished without a trace.</p><p>\u00a0</p><p>It seems like everyone in Arkansas knows about Ebby. They know she disappeared in 2015, and her body was found in a storm drain three years later. They know there have been multiple investigations that have led nowhere. And even though Ebby's case has been one of the most extensively covered cold cases in Arkansas, so much of her life and what really happened to her remain a mystery. Ebby's case has been one of the most extensively covered cold cases in Arkansas, but so much of her life and what really happened to her remain a mystery.\u00a0</p><p>\u00a0</p><p>What really happened to Ebby Steppach?</p><p><strong><em>\u00a0</em></strong></p><p><strong><em>Listen and subscribe to Hell and Gone</em></strong><a href=\"https://www.iheart.com/podcast/105-hell-and-gone-29974699/\"><strong><em> </em></strong></a><a href=\"https://www.iheart.com/podcast/105-hell-and-gone-29974699/\"><strong><em>here</em></strong></a><strong><em>. </em></strong></p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p><strong><em>Hi, Missionary fans!</em></strong> iHeartPodcasts and host Catherine Townsend are excited to announce Hell and Gone Season 4! The Little Rock Police Department searched an abandoned car in a small residential park. The keys were in the ignition and the car was out of gas as if it had been left running. The car belonged to 18-year-old Ebby Steppach, and she had vanished without a trace. A thrilling true crime that continues to unravel with every clue. Don't just take our word for it, check out the trailer to decide for yourself!</p><p>\u00a0</p><p><strong><em>About Hell and Gone:</em></strong> On October 30, 2015, the Little Rock Police Department searched an abandoned car in a small residential park. The keys were in the ignition and the car was out of gas as if it had been left running. The car belonged to 18-year-old Ebby Steppach, and she had vanished without a trace.</p><p>\u00a0</p><p>It seems like everyone in Arkansas knows about Ebby. They know she disappeared in 2015, and her body was found in a storm drain three years later. They know there have been multiple investigations that have led nowhere. And even though Ebby's case has been one of the most extensively covered cold cases in Arkansas, so much of her life and what really happened to her remain a mystery. Ebby's case has been one of the most extensively covered cold cases in Arkansas, but so much of her life and what really happened to her remain a mystery.\u00a0</p><p>\u00a0</p><p>What really happened to Ebby Steppach?</p><p><strong><em>\u00a0</em></strong></p><p><strong><em>Listen and subscribe to Hell and Gone</em></strong><a href=\"https://www.iheart.com/podcast/105-hell-and-gone-29974699/\"><strong><em> </em></strong></a><a href=\"https://www.iheart.com/podcast/105-hell-and-gone-29974699/\"><strong><em>here</em></strong></a><strong><em>. </em></strong></p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "Hi, Missionary fans! iHeartPodcasts and host Catherine Townsend are excited to announce Hell and Gone Season 4! The Little Rock Police Department searched an abandoned car in a small residential park. The keys were in the ignition and the car was out of gas as if it had been left running. The car belonged to 18-year-old Ebby Steppach, and she had vanished without a trace. A thrilling true crime that continues to unravel with every clue. Don't just take our word for it, check out the trailer to decide for yourself!\n\u00a0\nAbout Hell and Gone: On October 30, 2015, the Little Rock Police Department searched an abandoned car in a small residential park. The keys were in the ignition and the car was out of gas as if it had been left running. The car belonged to 18-year-old Ebby Steppach, and she had vanished without a trace.\n\u00a0\nIt seems like everyone in Arkansas knows about Ebby. They know she disappeared in 2015, and her body was found in a storm drain three years later. They know there have been multiple investigations that have led nowhere. And even though Ebby's case has been one of the most extensively covered cold cases in Arkansas, so much of her life and what really happened to her remain a mystery. Ebby's case has been one of the most extensively covered cold cases in Arkansas, but so much of her life and what really happened to her remain a mystery.\u00a0\n\u00a0\nWhat really happened to Ebby Steppach?\n\u00a0\nListen and subscribe to Hell and Gone here. \n \n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "Hi, Missionary fans! iHeartPodcasts and host Catherine Townsend are excited to announce Hell and Gone Season 4! The Little Rock Police Department searched an abandoned car in a small residential park. The keys were in the ignition and the car was out of gas as if it had been left running. The car belonged to 18-year-old Ebby Steppach, and she had vanished without a trace. A thrilling true crime that continues to unravel with every clue. Don't just take our word for it, check out the trailer to decide for yourself!\n\u00a0\nAbout Hell and Gone: On October 30, 2015, the Little Rock Police Department searched an abandoned car in a small residential park. The keys were in the ignition and the car was out of gas as if it had been left running. The car belonged to 18-year-old Ebby Steppach, and she had vanished without a trace.\n\u00a0\nIt seems like everyone in Arkansas knows about Ebby. They know she disappeared in 2015, and her body was found in a storm drain three years later. They know there have been multiple investigations that have led nowhere. And even though Ebby's case has been one of the most extensively covered cold cases in Arkansas, so much of her life and what really happened to her remain a mystery. Ebby's case has been one of the most extensively covered cold cases in Arkansas, but so much of her life and what really happened to her remain a mystery.\u00a0\n\u00a0\nWhat really happened to Ebby Steppach?\n\u00a0\nListen and subscribe to Hell and Gone here. \n \n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "3456703",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/16f74aa0-2c2b-43ec-a8a3-ae62013de407/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
+            "itunes:new-feed-url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/f7dd9252-9385-4e4a-ae7a-ae320081dd70/podcast.rss",
+            "itunes:owner": {
+                "itunes:email": "Applepodcast@howstuffworks.com",
+                "itunes:name": "iHeartPodcasts"
             },
-            "guid": "71497186-ab9f-11ec-8045-ef5939646dd8",
-            "isoDate": "2022-03-24T18:22:44.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts",
-                "duration": "212",
-                "episodeType": "bonus",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/16f74aa0-2c2b-43ec-a8a3-ae62013de407/image.jpg?t=1648149448&size=Large",
-                "summary": "If you enjoyed this trailer, listen and subscribe to Hell and Gone Season 4 on the iHeartRadio app or wherever you get your podcasts!"
-            },
-            "link": "https://www.iheart.com/podcast/105-hell-and-gone-29974699/",
-            "pubDate": "Thu, 24 Mar 2022 18:22:44 +0000",
-            "title": "Introducing: Hell and Gone Season 4"
-        },
-        {
-            "content": "<p>After becoming an international controversy, Renee reconsiders her entire life\u2019s work. But the mothers suing her are still nowhere closer to finding answers.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>After becoming an international controversy, Renee reconsiders her entire life\u2019s work. But the mothers suing her are still nowhere closer to finding answers.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "After becoming an international controversy, Renee reconsiders her entire life\u2019s work. But the mothers suing her are still nowhere closer to finding answers.\n \n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "After becoming an international controversy, Renee reconsiders her entire life\u2019s work. But the mothers suing her are still nowhere closer to finding answers.\n \n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "38841499",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/b8ef3e17-86bc-43db-aca3-ae320081f0a7/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
-            },
-            "guid": "16fd7930-b7da-11ea-a256-6bec000239e4",
-            "isoDate": "2020-06-26T18:45:35.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts",
-                "duration": "2422",
-                "episode": "8",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/the-missionary/episode-8-whats-left",
-            "pubDate": "Fri, 26 Jun 2020 18:45:35 +0000",
-            "title": "What's Left"
-        },
-        {
-            "content": "<p>After a string of complaints and a leaked report, Serving His Children is forced to shut its doors. But Jinja\u2019s problems are only beginning.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>After a string of complaints and a leaked report, Serving His Children is forced to shut its doors. But Jinja\u2019s problems are only beginning.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "After a string of complaints and a leaked report, Serving His Children is forced to shut its doors. But Jinja\u2019s problems are only beginning.\n \n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "After a string of complaints and a leaked report, Serving His Children is forced to shut its doors. But Jinja\u2019s problems are only beginning.\n \n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "36482119",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/b0fcf35c-48c9-4bd3-bbea-ae320081eb4d/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
-            },
-            "guid": "03987c40-b25e-11ea-8131-7ff315392fab",
-            "isoDate": "2020-06-19T19:03:30.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts",
-                "duration": "2274",
-                "episode": "7",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/the-missionary/episode-7-matthew-18",
-            "pubDate": "Fri, 19 Jun 2020 19:03:30 +0000",
-            "title": "Matthew 18"
-        },
-        {
-            "content": "<p>When Renee\u2019s story hit the airwaves, a Ugandan official decides to look into her alleged crimes. He\u2019s shocked by what he finds: nothing.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>When Renee\u2019s story hit the airwaves, a Ugandan official decides to look into her alleged crimes. He\u2019s shocked by what he finds: nothing.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "When Renee\u2019s story hit the airwaves, a Ugandan official decides to look into her alleged crimes. He\u2019s shocked by what he finds: nothing.\n \n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "When Renee\u2019s story hit the airwaves, a Ugandan official decides to look into her alleged crimes. He\u2019s shocked by what he finds: nothing.\n \n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "42025095",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/ce0c0968-652b-4244-97bb-ae320082b9db/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
-            },
-            "guid": "079742a6-acc6-11ea-b2d3-b3da215890e4",
-            "isoDate": "2020-06-12T16:12:38.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts",
-                "duration": "2621",
-                "episode": "6",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/the-missionary/episode-6-105-children",
-            "pubDate": "Fri, 12 Jun 2020 16:12:38 +0000",
-            "title": "105 Children"
-        },
-        {
-            "content": "<p>The role that Christian missionaries play in the world has changed a lot over the years. In this episode, we examine the missionary industrial complex \u2014 from Barbie Savior to missionary influencers \u2014 and discover that Renee Bach isn't an anomaly.</p><p><br></p><p>.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>The role that Christian missionaries play in the world has changed a lot over the years. In this episode, we examine the missionary industrial complex \u2014 from Barbie Savior to missionary influencers \u2014 and discover that Renee Bach isn't an anomaly.</p><p><br></p><p>.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "The role that Christian missionaries play in the world has changed a lot over the years. In this episode, we examine the missionary industrial complex \u2014 from Barbie Savior to missionary influencers \u2014 and discover that Renee Bach isn't an anomaly.\n\n\n.\n  Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "The role that Christian missionaries play in the world has changed a lot over the years. In this episode, we examine the missionary industrial complex \u2014 from Barbie Savior to missionary influencers \u2014 and discover that Renee Bach isn't an anomaly.\n\n\n.\n  Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "35993527",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/b338e56b-fd40-4707-91f8-ae320082c1b3/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
-            },
-            "guid": "9a00b14e-a777-11ea-8b9b-9f9da5d8cd79",
-            "isoDate": "2020-06-05T22:09:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts",
-                "duration": "2244",
-                "episode": "5",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/the-missionary/episode-5-barbie-savior",
-            "pubDate": "Fri, 05 Jun 2020 22:09:00 +0000",
-            "title": "Barbie Savior"
-        },
-        {
-            "content": "<p>For years, a baby named Patricia was a Serving His Children success story. But a video sent to our team throws everything into question.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>For years, a baby named Patricia was a Serving His Children success story. But a video sent to our team throws everything into question.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "For years, a baby named Patricia was a Serving His Children success story. But a video sent to our team throws everything into question.\n \n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "For years, a baby named Patricia was a Serving His Children success story. But a video sent to our team throws everything into question.\n \n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "40010111",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/3c50866d-3115-4308-bdb2-ae320082dc0a/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
-            },
-            "guid": "55e69cda-9c55-11ea-8317-f7d2cf632d48",
-            "isoDate": "2020-05-22T18:22:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts",
-                "duration": "2495",
-                "episode": "4",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/the-missionary/episode-4-the-video",
-            "pubDate": "Fri, 22 May 2020 18:22:00 +0000",
-            "title": "The Video"
-        },
-        {
-            "content": "<p>After months of silence, Renee Bach appears on Fox News to defend herself. A few days later, we receive an invitation to meet her in Virginia, face-to-face.\u00a0</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>After months of silence, Renee Bach appears on Fox News to defend herself. A few days later, we receive an invitation to meet her in Virginia, face-to-face.\u00a0</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "After months of silence, Renee Bach appears on Fox News to defend herself. A few days later, we receive an invitation to meet her in Virginia, face-to-face.\u00a0\n \n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "After months of silence, Renee Bach appears on Fox News to defend herself. A few days later, we receive an invitation to meet her in Virginia, face-to-face.\u00a0\n \n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "37525349",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/11618e4d-e4a8-4f58-82d8-ae3200838487/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
-            },
-            "guid": "b6810bac-965b-11ea-a14d-6bcb5e1f0ba2",
-            "isoDate": "2020-05-15T10:10:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts",
-                "duration": "2340",
-                "episode": "3",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/the-missionary/good-samaritan",
-            "pubDate": "Fri, 15 May 2020 10:10:00 +0000",
-            "title": "Good Samaritan"
-        },
-        {
-            "content": "<p>The first death at Serving His Children wasn't a child,\u00a0but a 27-year-old woman. Now, no one can agree on how she died, or if she needed rescuing at all.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>The first death at Serving His Children wasn't a child,\u00a0but a 27-year-old woman. Now, no one can agree on how she died, or if she needed rescuing at all.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "The first death at Serving His Children wasn't a child,\u00a0but a 27-year-old woman. Now, no one can agree on how she died, or if she needed rescuing at all.\n \n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "The first death at Serving His Children wasn't a child,\u00a0but a 27-year-old woman. Now, no one can agree on how she died, or if she needed rescuing at all.\n \n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "36449517",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/3796945d-c843-4b58-9763-ae320083bb3d/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
-            },
-            "guid": "c9a283ba-9650-11ea-bd67-f38df1148f42",
-            "isoDate": "2020-05-15T10:05:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts",
-                "duration": "2272",
-                "episode": "2",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/the-missionary/episode-2-37-pounds",
-            "pubDate": "Fri, 15 May 2020 10:05:00 +0000",
-            "title": "37 Pounds"
-        },
-        {
-            "content": "<p>Renee Bach was 19 when she decided to follow God's calling to Uganda. Ten years later, she's accused of impersonating a doctor and she's blamed for the\u00a0deaths of more than 100 children.\u00a0We look into the allegations and talk to Renee's accusers.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p>Renee Bach was 19 when she decided to follow God's calling to Uganda. Ten years later, she's accused of impersonating a doctor and she's blamed for the\u00a0deaths of more than 100 children.\u00a0We look into the allegations and talk to Renee's accusers.</p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "Renee Bach was 19 when she decided to follow God's calling to Uganda. Ten years later, she's accused of impersonating a doctor and she's blamed for the\u00a0deaths of more than 100 children.\u00a0We look into the allegations and talk to Renee's accusers.\n \n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "Renee Bach was 19 when she decided to follow God's calling to Uganda. Ten years later, she's accused of impersonating a doctor and she's blamed for the\u00a0deaths of more than 100 children.\u00a0We look into the allegations and talk to Renee's accusers.\n \n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "37716357",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/6303d66d-7a62-48f9-aedb-ae3200842677/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
-            },
-            "guid": "9a82a4a8-964f-11ea-8441-8f375f06f449",
-            "isoDate": "2020-05-15T10:00:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts",
-                "duration": "2352",
-                "episode": "1",
-                "episodeType": "full",
-                "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large",
-                "season": "1"
-            },
-            "link": "https://omny.fm/shows/the-missionary/episode-1-the-lords-work",
-            "pubDate": "Fri, 15 May 2020 10:00:00 +0000",
-            "title": "The Lord's Work"
-        },
-        {
-            "content": "<p><strong>In 2009, a young American missionary named Renee Bach built a nonprofit to fight child malnutrition in Uganda. Ten years later, allegations surface that hundreds of children died at her facility. How could this happen? Hosted and reported by Rajiv Golla, Halima Gikandi and Malcolm Burnley.\u00a0</strong></p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encoded": "<p><strong>In 2009, a young American missionary named Renee Bach built a nonprofit to fight child malnutrition in Uganda. Ten years later, allegations surface that hundreds of children died at her facility. How could this happen? Hosted and reported by Rajiv Golla, Halima Gikandi and Malcolm Burnley.\u00a0</strong></p><p> </p> Learn more about your ad-choices at <a href=\"https://www.iheartpodcastnetwork.com\">https://www.iheartpodcastnetwork.com</a><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-            "content:encodedSnippet": "In 2009, a young American missionary named Renee Bach built a nonprofit to fight child malnutrition in Uganda. Ten years later, allegations surface that hundreds of children died at her facility. How could this happen? Hosted and reported by Rajiv Golla, Halima Gikandi and Malcolm Burnley.\u00a0\n \n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\nSee omnystudio.com/listener for privacy information.",
-            "contentSnippet": "In 2009, a young American missionary named Renee Bach built a nonprofit to fight child malnutrition in Uganda. Ten years later, allegations surface that hundreds of children died at her facility. How could this happen? Hosted and reported by Rajiv Golla, Halima Gikandi and Malcolm Burnley.\u00a0\n \n Learn more about your ad-choices at https://www.iheartpodcastnetwork.com\nSee omnystudio.com/listener for privacy information.",
-            "enclosure": {
-                "length": "2370933",
-                "type": "audio/mpeg",
-                "url": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/29e292f2-e98b-4cc7-bef7-ae320084b5c2/audio.mp3?utm_source=Podcast&in_playlist=f7dd9252-9385-4e4a-ae7a-ae320081dd70"
-            },
-            "guid": "c5a804ae-67a9-11ea-a1f4-373603b8d50d",
-            "isoDate": "2020-05-14T04:00:00.000Z",
-            "itunes": {
-                "author": "iHeartPodcasts",
-                "duration": "143",
-                "episodeType": "trailer",
-                "image": "https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/29e292f2-e98b-4cc7-bef7-ae320084b5c2/image.jpg?t=1643961797&size=Large"
-            },
-            "link": "https://omny.fm/shows/the-missionary/introducing-the-missionary",
-            "pubDate": "Thu, 14 May 2020 04:00:00 +0000",
-            "title": "Introducing: The Missionary"
+            "itunes:summary": "A young missionary named Renee Bach left her comfortable life in America to start a malnutrition program in rural Uganda. Folks back home and in Uganda praised her as a model missionary -- an example of the healing power of God\u2019s message. But a decade later she\u2019s accused of masquerading as a doctor and rumored to have killed hundreds of children in her unlicensed clinic. How did Renee Bach end up here? Is she a case of good intentions gone wrong...or a predator posing as a saint? Hosted and reported by journalists Rajiv Golla, Halima Gikandi and Malcolm Burnley.",
+            "itunes:type": "serial",
+            "language": "en-US",
+            "link": "https://www.iheart.com/podcast/1119-the-missionary-61230211/",
+            "omny:networkId": "e6332207-0c1b-4f4b-9893-ae3e015a2399",
+            "omny:organizationId": "e73c998e-6e60-432f-8610-ae210140c5b1",
+            "omny:playlistId": "f7dd9252-9385-4e4a-ae7a-ae320081dd70",
+            "omny:programId": "cae1e606-647f-4e52-ab07-ae320081dd54",
+            "title": "The Missionary"
         }
-    ],
-    "itunes": {
-        "author": "iHeartPodcasts",
-        "categories": [
-            "Society & Culture"
-        ],
-        "categoriesWithSubs": [
-            {
-                "name": "Society & Culture",
-                "subs": null
-            }
-        ],
-        "explicit": "yes",
-        "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/image.jpg?t=1690305793&size=Large",
-        "owner": {
-            "email": "Applepodcast@howstuffworks.com",
-            "name": "iHeartPodcasts"
-        },
-        "summary": "A young missionary named Renee Bach left her comfortable life in America to start a malnutrition program in rural Uganda. Folks back home and in Uganda praised her as a model missionary -- an example of the healing power of God\u2019s message. But a decade later she\u2019s accused of masquerading as a doctor and rumored to have killed hundreds of children in her unlicensed clinic. How did Renee Bach end up here? Is she a case of good intentions gone wrong...or a predator posing as a saint? Hosted and reported by journalists Rajiv Golla, Halima Gikandi and Malcolm Burnley."
-    },
-    "language": "en-US",
-    "link": "https://www.iheart.com/podcast/1119-the-missionary-61230211/",
-    "paginationLinks": {
-        "first": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/f7dd9252-9385-4e4a-ae7a-ae320081dd70/podcast.rss?page=1",
-        "last": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/f7dd9252-9385-4e4a-ae7a-ae320081dd70/podcast.rss?page=1",
-        "self": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cae1e606-647f-4e52-ab07-ae320081dd54/f7dd9252-9385-4e4a-ae7a-ae320081dd70/podcast.rss"
-    },
-    "palette": [
-        "07426E",
-        "DCE712",
-        "12B9A3",
-        "139383",
-        "455730",
-        "769EBD"
-    ],
-    "title": "The Missionary"
+    }
 }

@@ -1,1249 +1,1212 @@
 {
-    "copyright": "Enduring Word 2018",
-    "description": "Audio and Video Server For Enduring Word",
-    "feedUrl": "https://media.enduringword.com/podcasts/matthew/feed/",
-    "generator": "https://wordpress.org/?v=5.0.22",
-    "items": [
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
+    "rss": {
+        "@version": "2.0",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:slash": "http://purl.org/rss/1.0/modules/slash/",
+        "@xmlns:sy": "http://purl.org/rss/1.0/modules/syndication/",
+        "@xmlns:wfw": "http://wellformedweb.org/CommentAPI/",
+        "channel": {
+            "atom:link": {
+                "@href": "https://media.enduringword.com/podcasts/matthew/feed/",
+                "@rel": "self",
+                "@type": "application/rss+xml"
+            },
+            "copyright": "Enduring Word 2018",
+            "description": "Audio and Video Server For Enduring Word",
+            "generator": "https://wordpress.org/?v=5.0.22",
+            "item": [
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-28-the-risen-jesus-with-us-all-day-every-day-to-the-end-of-days/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26153-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2800_00.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2800_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2800_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2800_00.mp3",
+                    "enclosure": {
+                        "@length": "27402767",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2800_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/matthew-28-the-risen-jesus-with-us-all-day-every-day-to-the-end-of-days/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2800_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2800_00.mp3",
+                    "link": "https://media.enduringword.com/matthew-28-the-risen-jesus-with-us-all-day-every-day-to-the-end-of-days/",
+                    "pubDate": "Wed, 07 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 28 \u2013 The Risen Jesus With Us All Day, Every Day, to the End of Days",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-28-the-risen-jesus-with-us-all-day-every-day-to-the-end-of-days/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-2735-66-forsaken-yet-not-forsaken/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26152-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2735_66.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2735_66.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2735_66.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2735_66.mp3",
+                    "enclosure": {
+                        "@length": "30649205",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2735_66.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/matthew-2735-66-forsaken-yet-not-forsaken/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2735_66.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2735_66.mp3",
+                    "link": "https://media.enduringword.com/matthew-2735-66-forsaken-yet-not-forsaken/",
+                    "pubDate": "Tue, 06 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 27:35-66 \u2013 Forsaken, Yet Not Forsaken",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-2735-66-forsaken-yet-not-forsaken/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-271-35-the-innocent-one-crucified/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26151-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2701_35.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2701_35.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2701_35.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2701_35.mp3",
+                    "enclosure": {
+                        "@length": "30680759",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2701_35.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/matthew-271-35-the-innocent-one-crucified/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2701_35.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2701_35.mp3",
+                    "link": "https://media.enduringword.com/matthew-271-35-the-innocent-one-crucified/",
+                    "pubDate": "Mon, 05 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 27:1-35 \u2013 The Innocent One Crucified",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-271-35-the-innocent-one-crucified/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-2631-75-betrayed-arrested-forsaken-tried-beaten/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26150-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2631_75.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2631_75.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2631_75.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2631_75.mp3",
+                    "enclosure": {
+                        "@length": "31127176",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2631_75.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/matthew-2631-75-betrayed-arrested-forsaken-tried-beaten/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2631_75.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2631_75.mp3",
+                    "link": "https://media.enduringword.com/matthew-2631-75-betrayed-arrested-forsaken-tried-beaten/",
+                    "pubDate": "Sun, 04 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 26:31-75 \u2013 Betrayed, Arrested, Forsaken, Tried, Beaten",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-2631-75-betrayed-arrested-forsaken-tried-beaten/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-261-30-take-eat/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26149-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2601_30.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2601_30.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2601_30.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2601_30.mp3",
+                    "enclosure": {
+                        "@length": "28823941",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2601_30.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/matthew-261-30-take-eat/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2601_30.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2601_30.mp3",
+                    "link": "https://media.enduringword.com/matthew-261-30-take-eat/",
+                    "pubDate": "Sat, 03 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 26:1-30 \u2013 Take, Eat",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-261-30-take-eat/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-25-be-ready-said-in-three-ways/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26148-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2500_00.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2500_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2500_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2500_00.mp3",
+                    "enclosure": {
+                        "@length": "30600716",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2500_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/matthew-25-be-ready-said-in-three-ways/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2500_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2500_00.mp3",
+                    "link": "https://media.enduringword.com/matthew-25-be-ready-said-in-three-ways/",
+                    "pubDate": "Fri, 02 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 25 \u2013 \u201cBe Ready\u201d Said in Three Ways",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-25-be-ready-said-in-three-ways/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-2421-51-the-great-tribulation-and-the-end-of-the-age/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26147-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2421_51.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2421_51.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2421_51.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2421_51.mp3",
+                    "enclosure": {
+                        "@length": "29561084",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2421_51.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/matthew-2421-51-the-great-tribulation-and-the-end-of-the-age/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2421_51.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2421_51.mp3",
+                    "link": "https://media.enduringword.com/matthew-2421-51-the-great-tribulation-and-the-end-of-the-age/",
+                    "pubDate": "Thu, 01 Feb 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 24:21-51 \u2013 The Great Tribulation and the End of the Age",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-2421-51-the-great-tribulation-and-the-end-of-the-age/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-241-20-the-temple-and-the-key-prophetic-sign/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26146-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2401_20.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2401_20.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2401_20.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2401_20.mp3",
+                    "enclosure": {
+                        "@length": "27892993",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2401_20.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/matthew-241-20-the-temple-and-the-key-prophetic-sign/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2401_20.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2401_20.mp3",
+                    "link": "https://media.enduringword.com/matthew-241-20-the-temple-and-the-key-prophetic-sign/",
+                    "pubDate": "Wed, 31 Jan 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 24:1-20 \u2013 The Temple and the Key Prophetic Sign",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-241-20-the-temple-and-the-key-prophetic-sign/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-23-woe-to-the-scribes-and-pharisees/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26145-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2300_00.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2300_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2300_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2300_00.mp3",
+                    "enclosure": {
+                        "@length": "30954942",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2300_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/matthew-23-woe-to-the-scribes-and-pharisees/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2300_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2300_00.mp3",
+                    "link": "https://media.enduringword.com/matthew-23-woe-to-the-scribes-and-pharisees/",
+                    "pubDate": "Tue, 30 Jan 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 23 \u2013 Woe to the Scribes and Pharisees",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-23-woe-to-the-scribes-and-pharisees/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-22-jesus-answers-and-asks-questions/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26144-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2200_00.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2200_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2200_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2200_00.mp3",
+                    "enclosure": {
+                        "@length": "29380699",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2200_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/matthew-22-jesus-answers-and-asks-questions/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2200_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2200_00.mp3",
+                    "link": "https://media.enduringword.com/matthew-22-jesus-answers-and-asks-questions/",
+                    "pubDate": "Mon, 29 Jan 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 22 \u2013 Jesus Answers and Asks Questions",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-22-jesus-answers-and-asks-questions/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-21-jesus-comes-to-jerusalem/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26143-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2100_00.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2100_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2100_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2100_00.mp3",
+                    "enclosure": {
+                        "@length": "30652951",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2100_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/matthew-21-jesus-comes-to-jerusalem/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2100_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2100_00.mp3",
+                    "link": "https://media.enduringword.com/matthew-21-jesus-comes-to-jerusalem/",
+                    "pubDate": "Sun, 28 Jan 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 21 \u2013 Jesus Comes to Jerusalem",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-21-jesus-comes-to-jerusalem/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-2017-34-suffering-status-and-service/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26142-24\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2017_34.mp3?_=24\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2017_34.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2017_34.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2017_34.mp3",
+                    "enclosure": {
+                        "@length": "26432632",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2017_34.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/matthew-2017-34-suffering-status-and-service/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2017_34.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2017_34.mp3",
+                    "link": "https://media.enduringword.com/matthew-2017-34-suffering-status-and-service/",
+                    "pubDate": "Sat, 27 Jan 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 20:17-34 \u2013 Suffering, Status, and Service",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-2017-34-suffering-status-and-service/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-1916-2016-rewards-and-grace/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26141-26\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1916_2016.mp3?_=26\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1916_2016.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1916_2016.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1916_2016.mp3",
+                    "enclosure": {
+                        "@length": "27825879",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1916_2016.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/matthew-1916-2016-rewards-and-grace/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1916_2016.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1916_2016.mp3",
+                    "link": "https://media.enduringword.com/matthew-1916-2016-rewards-and-grace/",
+                    "pubDate": "Fri, 26 Jan 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 19:16-20:16 \u2013 Rewards and Grace",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-1916-2016-rewards-and-grace/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-191-15-divorce-marriage-and-children/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26140-28\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1901_15.mp3?_=28\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1901_15.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1901_15.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1901_15.mp3",
+                    "enclosure": {
+                        "@length": "32336514",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1901_15.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/matthew-191-15-divorce-marriage-and-children/",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1901_15.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1901_15.mp3",
+                    "link": "https://media.enduringword.com/matthew-191-15-divorce-marriage-and-children/",
+                    "pubDate": "Thu, 25 Jan 2018 07:00:00 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 19:1-15 \u2013 Divorce, Marriage, and Children",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-191-15-divorce-marriage-and-children/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-1819-35-forgiveness/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26136-30\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1819_35.mp3?_=30\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1819_35.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1819_35.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1819_35.mp3",
+                    "enclosure": {
+                        "@length": "28981518",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1819_35.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/?p=26136",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1819_35.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1819_35.mp3",
+                    "link": "https://media.enduringword.com/matthew-1819-35-forgiveness/",
+                    "pubDate": "Wed, 24 Jan 2018 07:00:49 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 18:19-35 \u2013 Forgiveness",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-1819-35-forgiveness/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-181-18-like-a-child/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26133-32\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1801_18.mp3?_=32\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1801_18.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1801_18.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1801_18.mp3",
+                    "enclosure": {
+                        "@length": "29370429",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1801_18.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/?p=26133",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1801_18.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1801_18.mp3",
+                    "link": "https://media.enduringword.com/matthew-181-18-like-a-child/",
+                    "pubDate": "Tue, 23 Jan 2018 07:00:47 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 18:1-18 \u2013 Like a Child",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-181-18-like-a-child/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-17-jesus-transfigured-triumphant-and-taxed/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26130-34\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1700_00.mp3?_=34\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1700_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1700_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1700_00.mp3",
+                    "enclosure": {
+                        "@length": "30805540",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1700_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/?p=26130",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1700_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1700_00.mp3",
+                    "link": "https://media.enduringword.com/matthew-17-jesus-transfigured-triumphant-and-taxed/",
+                    "pubDate": "Mon, 22 Jan 2018 07:00:46 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 17 \u2013 Jesus Transfigured, Triumphant, and Taxed",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-17-jesus-transfigured-triumphant-and-taxed/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-16-confessions-churches-and-crosses/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26127-36\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1600_00.mp3?_=36\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1600_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1600_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1600_00.mp3",
+                    "enclosure": {
+                        "@length": "32035789",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1600_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/?p=26127",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1600_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1600_00.mp3",
+                    "link": "https://media.enduringword.com/matthew-16-confessions-churches-and-crosses/",
+                    "pubDate": "Sun, 21 Jan 2018 07:00:51 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 16 \u2013 Confessions, Churches, and Crosses",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-16-confessions-churches-and-crosses/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-15-jesus-mission-to-the-gentiles/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26124-38\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1500_00.mp3?_=38\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1500_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1500_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1500_00.mp3",
+                    "enclosure": {
+                        "@length": "25990210",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1500_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/?p=26124",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1500_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1500_00.mp3",
+                    "link": "https://media.enduringword.com/matthew-15-jesus-mission-to-the-gentiles/",
+                    "pubDate": "Sat, 20 Jan 2018 07:00:49 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 15 \u2013 Jesus\u2019 Mission to the Gentiles",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-15-jesus-mission-to-the-gentiles/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-14-jesus-power-over-creation/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26104-40\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1400_00.mp3?_=40\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1400_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1400_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1400_00.mp3",
+                    "enclosure": {
+                        "@length": "29184664",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1400_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/?p=26104",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1400_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1400_00.mp3",
+                    "link": "https://media.enduringword.com/matthew-14-jesus-power-over-creation/",
+                    "pubDate": "Fri, 19 Jan 2018 07:00:19 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 14 \u2013 Jesus\u2019 Power Over Creation",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-14-jesus-power-over-creation/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-13-kingdom-parables-kingdom-corruption/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26101-42\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1300_00.mp3?_=42\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1300_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1300_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1300_00.mp3",
+                    "enclosure": {
+                        "@length": "31467577",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1300_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/?p=26101",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1300_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1300_00.mp3",
+                    "link": "https://media.enduringword.com/matthew-13-kingdom-parables-kingdom-corruption/",
+                    "pubDate": "Thu, 18 Jan 2018 07:00:14 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 13 \u2013 Kingdom Parables, Kingdom Corruption",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-13-kingdom-parables-kingdom-corruption/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-1222-50-the-great-danger-of-opposing-jesus-2/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26098-44\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3?_=44\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3",
+                    "enclosure": {
+                        "@length": "30903493",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://media.enduringword.com/?p=26098",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3",
+                    "link": "https://media.enduringword.com/matthew-1222-50-the-great-danger-of-opposing-jesus-2/",
+                    "pubDate": "Wed, 17 Jan 2018 07:00:40 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 12:22-50: The Great Danger of Opposing Jesus",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-1222-50-the-great-danger-of-opposing-jesus-2/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-121-24-sabbath-controversies-and-their-result/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1142-46\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1201_24.mp3?_=46\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1201_24.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1201_24.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1201_24.mp3",
+                    "enclosure": {
+                        "@length": "28440672",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1201_24.mp3"
+                    },
+                    "guid": {
+                        "#text": "http://enduringword.media/?p=1142",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1201_24.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1201_24.mp3",
+                    "link": "https://media.enduringword.com/matthew-121-24-sabbath-controversies-and-their-result/",
+                    "pubDate": "Tue, 16 Jan 2018 07:00:57 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 12:1-24: Sabbath Controversies and their Result",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-121-24-sabbath-controversies-and-their-result/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-11-not-the-messiah-they-expected-him-to-be/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1139-48\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1100_00.mp3?_=48\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1100_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1100_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1100_00.mp3",
+                    "enclosure": {
+                        "@length": "29646271",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1100_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "http://enduringword.media/?p=1139",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1100_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1100_00.mp3",
+                    "link": "https://media.enduringword.com/matthew-11-not-the-messiah-they-expected-him-to-be/",
+                    "pubDate": "Mon, 15 Jan 2018 07:00:16 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 11: Not the Messiah they Expected Him to Be",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-11-not-the-messiah-they-expected-him-to-be/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-10-like-sheep-among-wolves-the-cost-of-following-jesus-and-being-sent-by-him/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1136-50\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1000_00.mp3?_=50\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1000_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1000_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1000_00.mp3",
+                    "enclosure": {
+                        "@length": "32119879",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1000_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "http://enduringword.media/?p=1136",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1000_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1000_00.mp3",
+                    "link": "https://media.enduringword.com/matthew-10-like-sheep-among-wolves-the-cost-of-following-jesus-and-being-sent-by-him/",
+                    "pubDate": "Sun, 14 Jan 2018 07:00:11 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 10: Like Sheep Among Wolves \u2013 The Cost of Following Jesus and Being Sent by Him",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-10-like-sheep-among-wolves-the-cost-of-following-jesus-and-being-sent-by-him/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-9-the-opposition-begins-the-ministry-continues/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1133-52\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0900_00.mp3?_=52\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0900_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0900_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0900_00.mp3",
+                    "enclosure": {
+                        "@length": "35116943",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0900_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "http://enduringword.media/?p=1133",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0900_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0900_00.mp3",
+                    "link": "https://media.enduringword.com/matthew-9-the-opposition-begins-the-ministry-continues/",
+                    "pubDate": "Sat, 13 Jan 2018 07:00:24 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 9: The Opposition Begins, the Ministry Continues",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-9-the-opposition-begins-the-ministry-continues/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-8-the-healing-power-of-jesus/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1130-54\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0800_00.mp3?_=54\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0800_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0800_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0800_00.mp3",
+                    "enclosure": {
+                        "@length": "34899585",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0800_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "http://enduringword.media/?p=1130",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0800_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0800_00.mp3",
+                    "link": "https://media.enduringword.com/matthew-8-the-healing-power-of-jesus/",
+                    "pubDate": "Fri, 12 Jan 2018 07:00:06 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 8: The Healing Power of Jesus",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-8-the-healing-power-of-jesus/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-1222-50-the-great-danger-of-opposing-jesus/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1145-56\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3?_=56\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3",
+                    "enclosure": {
+                        "@length": "30903493",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3"
+                    },
+                    "guid": {
+                        "#text": "http://enduringword.media/?p=1145",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3",
+                    "link": "https://media.enduringword.com/matthew-1222-50-the-great-danger-of-opposing-jesus/",
+                    "pubDate": "Thu, 11 Jan 2018 07:00:23 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 12:22-50: The Great Danger of Opposing Jesus",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-1222-50-the-great-danger-of-opposing-jesus/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-7-life-in-his-kingdom-treating-others-prayer-and-decision/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1127-58\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0700_00.mp3?_=58\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0700_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0700_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0700_00.mp3",
+                    "enclosure": {
+                        "@length": "34375705",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0700_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "http://enduringword.media/?p=1127",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0700_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0700_00.mp3",
+                    "link": "https://media.enduringword.com/matthew-7-life-in-his-kingdom-treating-others-prayer-and-decision/",
+                    "pubDate": "Thu, 11 Jan 2018 07:00:20 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 7: Life in His Kingdom: Treating Others, Prayer, and Decision",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-7-life-in-his-kingdom-treating-others-prayer-and-decision/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-616-34-life-in-his-kingdom-how-to-fast-and-how-to-regard-material-things/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1114-60\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0616_34.mp3?_=60\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0616_34.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0616_34.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0616_34.mp3",
+                    "enclosure": {
+                        "@length": "27908307",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0616_34.mp3"
+                    },
+                    "guid": {
+                        "#text": "http://enduringword.media/?p=1114",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0616_34.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0616_34.mp3",
+                    "link": "https://media.enduringword.com/matthew-616-34-life-in-his-kingdom-how-to-fast-and-how-to-regard-material-things/",
+                    "pubDate": "Wed, 10 Jan 2018 07:00:26 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 6:16-34 \u2013 Life in His Kingdom: How to Fast and How to Regard Material Things",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-616-34-life-in-his-kingdom-how-to-fast-and-how-to-regard-material-things/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-61-15-life-in-his-kingdom-how-to-give-and-pray/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1111-62\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0601_15.mp3?_=62\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0601_15.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0601_15.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0601_15.mp3",
+                    "enclosure": {
+                        "@length": "29791579",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0601_15.mp3"
+                    },
+                    "guid": {
+                        "#text": "http://enduringword.media/?p=1111",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0601_15.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0601_15.mp3",
+                    "link": "https://media.enduringword.com/matthew-61-15-life-in-his-kingdom-how-to-give-and-pray/",
+                    "pubDate": "Tue, 09 Jan 2018 07:00:22 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 6:1-15 \u2013 Life in His Kingdom: How to Give and Pray",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-61-15-life-in-his-kingdom-how-to-give-and-pray/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-527-48-life-in-his-kingdom-understanding-the-law-of-god/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1108-64\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0527_48.mp3?_=64\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0527_48.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0527_48.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0527_48.mp3",
+                    "enclosure": {
+                        "@length": "31112139",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0527_48.mp3"
+                    },
+                    "guid": {
+                        "#text": "http://enduringword.media/?p=1108",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0527_48.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0527_48.mp3",
+                    "link": "https://media.enduringword.com/matthew-527-48-life-in-his-kingdom-understanding-the-law-of-god/",
+                    "pubDate": "Mon, 08 Jan 2018 07:00:51 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 5:27-48 \u2013 Life in His Kingdom: Understanding the Law of God",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-527-48-life-in-his-kingdom-understanding-the-law-of-god/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-513-26-life-in-his-kingdom-salt-light-and-cities/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1104-66\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0513_26.mp3?_=66\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0513_26.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0513_26.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0513_26.mp3",
+                    "enclosure": {
+                        "@length": "29326189",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0513_26.mp3"
+                    },
+                    "guid": {
+                        "#text": "http://enduringword.media/?p=1104",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0513_26.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0513_26.mp3",
+                    "link": "https://media.enduringword.com/matthew-513-26-life-in-his-kingdom-salt-light-and-cities/",
+                    "pubDate": "Sun, 07 Jan 2018 07:00:34 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 5:13-26 \u2013 Life in His Kingdom: Salt, Light, and Cities",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-513-26-life-in-his-kingdom-salt-light-and-cities/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-51-12-life-in-his-kingdom-the-blessed-ones/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1101-68\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0501_12.mp3?_=68\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0501_12.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0501_12.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0501_12.mp3",
+                    "enclosure": {
+                        "@length": "27954640",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0501_12.mp3"
+                    },
+                    "guid": {
+                        "#text": "http://enduringword.media/?p=1101",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0501_12.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0501_12.mp3",
+                    "link": "https://media.enduringword.com/matthew-51-12-life-in-his-kingdom-the-blessed-ones/",
+                    "pubDate": "Sat, 06 Jan 2018 07:00:29 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 5:1-12 \u2013 Life in His Kingdom: The Blessed Ones",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-51-12-life-in-his-kingdom-the-blessed-ones/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-412-25-the-core-ministry-of-jesus/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1098-70\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0412_25.mp3?_=70\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0412_25.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0412_25.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0412_25.mp3",
+                    "enclosure": {
+                        "@length": "24293716",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0412_25.mp3"
+                    },
+                    "guid": {
+                        "#text": "http://enduringword.media/?p=1098",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0412_25.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0412_25.mp3",
+                    "link": "https://media.enduringword.com/matthew-412-25-the-core-ministry-of-jesus/",
+                    "pubDate": "Fri, 05 Jan 2018 07:00:22 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 4:12-25 \u2013 The Core Ministry of Jesus",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-412-25-the-core-ministry-of-jesus/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/mathew-41-11-led-by-the-spirit-tempted-by-the-devil/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1094-72\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0401_11.mp3?_=72\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0401_11.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0401_11.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0401_11.mp3",
+                    "enclosure": {
+                        "@length": "27032208",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0401_11.mp3"
+                    },
+                    "guid": {
+                        "#text": "http://enduringword.media/?p=1094",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0401_11.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0401_11.mp3",
+                    "link": "https://media.enduringword.com/mathew-41-11-led-by-the-spirit-tempted-by-the-devil/",
+                    "pubDate": "Thu, 04 Jan 2018 07:00:56 +0000",
+                    "slash:comments": "0",
+                    "title": "Mathew 4:1-11 \u2013 Led by the Spirit, Tempted by the Devil",
+                    "wfw:commentRss": "https://media.enduringword.com/mathew-41-11-led-by-the-spirit-tempted-by-the-devil/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-3-the-ministry-of-john-the-baptist/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1091-74\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0300_00.mp3?_=74\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0300_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0300_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0300_00.mp3",
+                    "enclosure": {
+                        "@length": "31320864",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0300_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "http://enduringword.media/?p=1091",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0300_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0300_00.mp3",
+                    "link": "https://media.enduringword.com/matthew-3-the-ministry-of-john-the-baptist/",
+                    "pubDate": "Wed, 03 Jan 2018 07:00:05 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 3 \u2013 The Ministry of John the Baptist",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-3-the-ministry-of-john-the-baptist/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-2-called-a-nazarene/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1088-76\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0200_00.mp3?_=76\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0200_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0200_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0200_00.mp3",
+                    "enclosure": {
+                        "@length": "29773967",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0200_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "http://enduringword.media/?p=1088",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0200_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0200_00.mp3",
+                    "link": "https://media.enduringword.com/matthew-2-called-a-nazarene/",
+                    "pubDate": "Tue, 02 Jan 2018 07:00:28 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 2 \u2013 Called a Nazarene",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-2-called-a-nazarene/feed/"
+                },
+                {
+                    "category": [
+                        "The Gospel of Matthew",
+                        "Gospel",
+                        "New Testament"
+                    ],
+                    "comments": "https://media.enduringword.com/matthew-1-genealogy-origins-history/#respond",
+                    "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1083-78\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0100_00.mp3?_=78\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0100_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0100_00.mp3</a></audio>\n",
+                    "dc:creator": "admin@enduringword.com (David Guzik)",
+                    "description": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0100_00.mp3",
+                    "enclosure": {
+                        "@length": "28557725",
+                        "@type": "audio/mpeg",
+                        "@url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0100_00.mp3"
+                    },
+                    "guid": {
+                        "#text": "http://enduringword.media/?p=1083",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Guzik",
+                    "itunes:explicit": "no",
+                    "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+                    "itunes:subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0100_00.mp3",
+                    "itunes:summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0100_00.mp3",
+                    "link": "https://media.enduringword.com/matthew-1-genealogy-origins-history/",
+                    "pubDate": "Mon, 01 Jan 2018 07:00:33 +0000",
+                    "slash:comments": "0",
+                    "title": "Matthew 1 \u2013 Genealogy, Origins, History",
+                    "wfw:commentRss": "https://media.enduringword.com/matthew-1-genealogy-origins-history/feed/"
+                }
             ],
-            "comments": "https://media.enduringword.com/matthew-28-the-risen-jesus-with-us-all-day-every-day-to-the-end-of-days/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2800_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26153-2\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2800_00.mp3?_=2\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2800_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2800_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2800_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2800_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "27402767",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2800_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/matthew-28-the-risen-jesus-with-us-all-day-every-day-to-the-end-of-days/",
-            "isoDate": "2018-02-07T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2800_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2800_00.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-28-the-risen-jesus-with-us-all-day-every-day-to-the-end-of-days/",
-            "pubDate": "Wed, 07 Feb 2018 07:00:00 +0000",
-            "title": "Matthew 28 \u2013 The Risen Jesus With Us All Day, Every Day, to the End of Days"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-2735-66-forsaken-yet-not-forsaken/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2735_66.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26152-4\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2735_66.mp3?_=4\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2735_66.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2735_66.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2735_66.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2735_66.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "30649205",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2735_66.mp3"
-            },
-            "guid": "https://media.enduringword.com/matthew-2735-66-forsaken-yet-not-forsaken/",
-            "isoDate": "2018-02-06T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2735_66.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2735_66.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-2735-66-forsaken-yet-not-forsaken/",
-            "pubDate": "Tue, 06 Feb 2018 07:00:00 +0000",
-            "title": "Matthew 27:35-66 \u2013 Forsaken, Yet Not Forsaken"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-271-35-the-innocent-one-crucified/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2701_35.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26151-6\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2701_35.mp3?_=6\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2701_35.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2701_35.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2701_35.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2701_35.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "30680759",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2701_35.mp3"
-            },
-            "guid": "https://media.enduringword.com/matthew-271-35-the-innocent-one-crucified/",
-            "isoDate": "2018-02-05T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2701_35.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2701_35.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-271-35-the-innocent-one-crucified/",
-            "pubDate": "Mon, 05 Feb 2018 07:00:00 +0000",
-            "title": "Matthew 27:1-35 \u2013 The Innocent One Crucified"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-2631-75-betrayed-arrested-forsaken-tried-beaten/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2631_75.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26150-8\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2631_75.mp3?_=8\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2631_75.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2631_75.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2631_75.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2631_75.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "31127176",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2631_75.mp3"
-            },
-            "guid": "https://media.enduringword.com/matthew-2631-75-betrayed-arrested-forsaken-tried-beaten/",
-            "isoDate": "2018-02-04T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2631_75.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2631_75.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-2631-75-betrayed-arrested-forsaken-tried-beaten/",
-            "pubDate": "Sun, 04 Feb 2018 07:00:00 +0000",
-            "title": "Matthew 26:31-75 \u2013 Betrayed, Arrested, Forsaken, Tried, Beaten"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-261-30-take-eat/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2601_30.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26149-10\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2601_30.mp3?_=10\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2601_30.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2601_30.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2601_30.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2601_30.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "28823941",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2601_30.mp3"
-            },
-            "guid": "https://media.enduringword.com/matthew-261-30-take-eat/",
-            "isoDate": "2018-02-03T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2601_30.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2601_30.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-261-30-take-eat/",
-            "pubDate": "Sat, 03 Feb 2018 07:00:00 +0000",
-            "title": "Matthew 26:1-30 \u2013 Take, Eat"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-25-be-ready-said-in-three-ways/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2500_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26148-12\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2500_00.mp3?_=12\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2500_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2500_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2500_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2500_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "30600716",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2500_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/matthew-25-be-ready-said-in-three-ways/",
-            "isoDate": "2018-02-02T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2500_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2500_00.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-25-be-ready-said-in-three-ways/",
-            "pubDate": "Fri, 02 Feb 2018 07:00:00 +0000",
-            "title": "Matthew 25 \u2013 \u201cBe Ready\u201d Said in Three Ways"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-2421-51-the-great-tribulation-and-the-end-of-the-age/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2421_51.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26147-14\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2421_51.mp3?_=14\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2421_51.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2421_51.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2421_51.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2421_51.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "29561084",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2421_51.mp3"
-            },
-            "guid": "https://media.enduringword.com/matthew-2421-51-the-great-tribulation-and-the-end-of-the-age/",
-            "isoDate": "2018-02-01T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2421_51.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2421_51.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-2421-51-the-great-tribulation-and-the-end-of-the-age/",
-            "pubDate": "Thu, 01 Feb 2018 07:00:00 +0000",
-            "title": "Matthew 24:21-51 \u2013 The Great Tribulation and the End of the Age"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-241-20-the-temple-and-the-key-prophetic-sign/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2401_20.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26146-16\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2401_20.mp3?_=16\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2401_20.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2401_20.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2401_20.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2401_20.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "27892993",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2401_20.mp3"
-            },
-            "guid": "https://media.enduringword.com/matthew-241-20-the-temple-and-the-key-prophetic-sign/",
-            "isoDate": "2018-01-31T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2401_20.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2401_20.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-241-20-the-temple-and-the-key-prophetic-sign/",
-            "pubDate": "Wed, 31 Jan 2018 07:00:00 +0000",
-            "title": "Matthew 24:1-20 \u2013 The Temple and the Key Prophetic Sign"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-23-woe-to-the-scribes-and-pharisees/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2300_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26145-18\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2300_00.mp3?_=18\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2300_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2300_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2300_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2300_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "30954942",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2300_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/matthew-23-woe-to-the-scribes-and-pharisees/",
-            "isoDate": "2018-01-30T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2300_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2300_00.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-23-woe-to-the-scribes-and-pharisees/",
-            "pubDate": "Tue, 30 Jan 2018 07:00:00 +0000",
-            "title": "Matthew 23 \u2013 Woe to the Scribes and Pharisees"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-22-jesus-answers-and-asks-questions/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2200_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26144-20\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2200_00.mp3?_=20\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2200_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2200_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2200_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2200_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "29380699",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2200_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/matthew-22-jesus-answers-and-asks-questions/",
-            "isoDate": "2018-01-29T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2200_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2200_00.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-22-jesus-answers-and-asks-questions/",
-            "pubDate": "Mon, 29 Jan 2018 07:00:00 +0000",
-            "title": "Matthew 22 \u2013 Jesus Answers and Asks Questions"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-21-jesus-comes-to-jerusalem/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2100_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26143-22\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2100_00.mp3?_=22\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2100_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2100_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2100_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2100_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "30652951",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2100_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/matthew-21-jesus-comes-to-jerusalem/",
-            "isoDate": "2018-01-28T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2100_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2100_00.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-21-jesus-comes-to-jerusalem/",
-            "pubDate": "Sun, 28 Jan 2018 07:00:00 +0000",
-            "title": "Matthew 21 \u2013 Jesus Comes to Jerusalem"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-2017-34-suffering-status-and-service/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2017_34.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26142-24\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2017_34.mp3?_=24\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew2017_34.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew2017_34.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2017_34.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2017_34.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "26432632",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2017_34.mp3"
-            },
-            "guid": "https://media.enduringword.com/matthew-2017-34-suffering-status-and-service/",
-            "isoDate": "2018-01-27T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2017_34.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew2017_34.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-2017-34-suffering-status-and-service/",
-            "pubDate": "Sat, 27 Jan 2018 07:00:00 +0000",
-            "title": "Matthew 20:17-34 \u2013 Suffering, Status, and Service"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-1916-2016-rewards-and-grace/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1916_2016.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26141-26\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1916_2016.mp3?_=26\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1916_2016.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1916_2016.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1916_2016.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1916_2016.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "27825879",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1916_2016.mp3"
-            },
-            "guid": "https://media.enduringword.com/matthew-1916-2016-rewards-and-grace/",
-            "isoDate": "2018-01-26T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1916_2016.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1916_2016.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-1916-2016-rewards-and-grace/",
-            "pubDate": "Fri, 26 Jan 2018 07:00:00 +0000",
-            "title": "Matthew 19:16-20:16 \u2013 Rewards and Grace"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-191-15-divorce-marriage-and-children/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1901_15.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26140-28\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1901_15.mp3?_=28\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1901_15.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1901_15.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1901_15.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1901_15.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "32336514",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1901_15.mp3"
-            },
-            "guid": "https://media.enduringword.com/matthew-191-15-divorce-marriage-and-children/",
-            "isoDate": "2018-01-25T07:00:00.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1901_15.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1901_15.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-191-15-divorce-marriage-and-children/",
-            "pubDate": "Thu, 25 Jan 2018 07:00:00 +0000",
-            "title": "Matthew 19:1-15 \u2013 Divorce, Marriage, and Children"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-1819-35-forgiveness/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1819_35.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26136-30\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1819_35.mp3?_=30\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1819_35.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1819_35.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1819_35.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1819_35.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "28981518",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1819_35.mp3"
-            },
-            "guid": "https://media.enduringword.com/?p=26136",
-            "isoDate": "2018-01-24T07:00:49.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1819_35.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1819_35.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-1819-35-forgiveness/",
-            "pubDate": "Wed, 24 Jan 2018 07:00:49 +0000",
-            "title": "Matthew 18:19-35 \u2013 Forgiveness"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-181-18-like-a-child/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1801_18.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26133-32\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1801_18.mp3?_=32\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1801_18.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1801_18.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1801_18.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1801_18.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "29370429",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1801_18.mp3"
-            },
-            "guid": "https://media.enduringword.com/?p=26133",
-            "isoDate": "2018-01-23T07:00:47.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1801_18.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1801_18.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-181-18-like-a-child/",
-            "pubDate": "Tue, 23 Jan 2018 07:00:47 +0000",
-            "title": "Matthew 18:1-18 \u2013 Like a Child"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-17-jesus-transfigured-triumphant-and-taxed/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1700_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26130-34\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1700_00.mp3?_=34\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1700_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1700_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1700_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1700_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "30805540",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1700_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/?p=26130",
-            "isoDate": "2018-01-22T07:00:46.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1700_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1700_00.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-17-jesus-transfigured-triumphant-and-taxed/",
-            "pubDate": "Mon, 22 Jan 2018 07:00:46 +0000",
-            "title": "Matthew 17 \u2013 Jesus Transfigured, Triumphant, and Taxed"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-16-confessions-churches-and-crosses/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1600_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26127-36\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1600_00.mp3?_=36\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1600_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1600_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1600_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1600_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "32035789",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1600_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/?p=26127",
-            "isoDate": "2018-01-21T07:00:51.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1600_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1600_00.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-16-confessions-churches-and-crosses/",
-            "pubDate": "Sun, 21 Jan 2018 07:00:51 +0000",
-            "title": "Matthew 16 \u2013 Confessions, Churches, and Crosses"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-15-jesus-mission-to-the-gentiles/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1500_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26124-38\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1500_00.mp3?_=38\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1500_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1500_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1500_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1500_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "25990210",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1500_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/?p=26124",
-            "isoDate": "2018-01-20T07:00:49.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1500_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1500_00.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-15-jesus-mission-to-the-gentiles/",
-            "pubDate": "Sat, 20 Jan 2018 07:00:49 +0000",
-            "title": "Matthew 15 \u2013 Jesus\u2019 Mission to the Gentiles"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-14-jesus-power-over-creation/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1400_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26104-40\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1400_00.mp3?_=40\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1400_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1400_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1400_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1400_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "29184664",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1400_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/?p=26104",
-            "isoDate": "2018-01-19T07:00:19.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1400_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1400_00.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-14-jesus-power-over-creation/",
-            "pubDate": "Fri, 19 Jan 2018 07:00:19 +0000",
-            "title": "Matthew 14 \u2013 Jesus\u2019 Power Over Creation"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-13-kingdom-parables-kingdom-corruption/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1300_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26101-42\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1300_00.mp3?_=42\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1300_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1300_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1300_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1300_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "31467577",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1300_00.mp3"
-            },
-            "guid": "https://media.enduringword.com/?p=26101",
-            "isoDate": "2018-01-18T07:00:14.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1300_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1300_00.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-13-kingdom-parables-kingdom-corruption/",
-            "pubDate": "Thu, 18 Jan 2018 07:00:14 +0000",
-            "title": "Matthew 13 \u2013 Kingdom Parables, Kingdom Corruption"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-1222-50-the-great-danger-of-opposing-jesus-2/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-26098-44\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3?_=44\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "30903493",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3"
-            },
-            "guid": "https://media.enduringword.com/?p=26098",
-            "isoDate": "2018-01-17T07:00:40.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-1222-50-the-great-danger-of-opposing-jesus-2/",
-            "pubDate": "Wed, 17 Jan 2018 07:00:40 +0000",
-            "title": "Matthew 12:22-50: The Great Danger of Opposing Jesus"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-121-24-sabbath-controversies-and-their-result/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1201_24.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1142-46\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1201_24.mp3?_=46\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1201_24.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1201_24.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1201_24.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1201_24.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "28440672",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1201_24.mp3"
-            },
-            "guid": "http://enduringword.media/?p=1142",
-            "isoDate": "2018-01-16T07:00:57.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1201_24.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1201_24.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-121-24-sabbath-controversies-and-their-result/",
-            "pubDate": "Tue, 16 Jan 2018 07:00:57 +0000",
-            "title": "Matthew 12:1-24: Sabbath Controversies and their Result"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-11-not-the-messiah-they-expected-him-to-be/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1100_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1139-48\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1100_00.mp3?_=48\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1100_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1100_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1100_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1100_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "29646271",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1100_00.mp3"
-            },
-            "guid": "http://enduringword.media/?p=1139",
-            "isoDate": "2018-01-15T07:00:16.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1100_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1100_00.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-11-not-the-messiah-they-expected-him-to-be/",
-            "pubDate": "Mon, 15 Jan 2018 07:00:16 +0000",
-            "title": "Matthew 11: Not the Messiah they Expected Him to Be"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-10-like-sheep-among-wolves-the-cost-of-following-jesus-and-being-sent-by-him/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1000_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1136-50\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1000_00.mp3?_=50\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1000_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1000_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1000_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1000_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "32119879",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1000_00.mp3"
-            },
-            "guid": "http://enduringword.media/?p=1136",
-            "isoDate": "2018-01-14T07:00:11.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1000_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1000_00.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-10-like-sheep-among-wolves-the-cost-of-following-jesus-and-being-sent-by-him/",
-            "pubDate": "Sun, 14 Jan 2018 07:00:11 +0000",
-            "title": "Matthew 10: Like Sheep Among Wolves \u2013 The Cost of Following Jesus and Being Sent by Him"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-9-the-opposition-begins-the-ministry-continues/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0900_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1133-52\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0900_00.mp3?_=52\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0900_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0900_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0900_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0900_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "35116943",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0900_00.mp3"
-            },
-            "guid": "http://enduringword.media/?p=1133",
-            "isoDate": "2018-01-13T07:00:24.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0900_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0900_00.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-9-the-opposition-begins-the-ministry-continues/",
-            "pubDate": "Sat, 13 Jan 2018 07:00:24 +0000",
-            "title": "Matthew 9: The Opposition Begins, the Ministry Continues"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-8-the-healing-power-of-jesus/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0800_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1130-54\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0800_00.mp3?_=54\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0800_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0800_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0800_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0800_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "34899585",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0800_00.mp3"
-            },
-            "guid": "http://enduringword.media/?p=1130",
-            "isoDate": "2018-01-12T07:00:06.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0800_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0800_00.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-8-the-healing-power-of-jesus/",
-            "pubDate": "Fri, 12 Jan 2018 07:00:06 +0000",
-            "title": "Matthew 8: The Healing Power of Jesus"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-1222-50-the-great-danger-of-opposing-jesus/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1145-56\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3?_=56\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "30903493",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3"
-            },
-            "guid": "http://enduringword.media/?p=1145",
-            "isoDate": "2018-01-11T07:00:23.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew1222_50.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-1222-50-the-great-danger-of-opposing-jesus/",
-            "pubDate": "Thu, 11 Jan 2018 07:00:23 +0000",
-            "title": "Matthew 12:22-50: The Great Danger of Opposing Jesus"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-7-life-in-his-kingdom-treating-others-prayer-and-decision/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0700_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1127-58\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0700_00.mp3?_=58\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0700_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0700_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0700_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0700_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "34375705",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0700_00.mp3"
-            },
-            "guid": "http://enduringword.media/?p=1127",
-            "isoDate": "2018-01-11T07:00:20.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0700_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0700_00.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-7-life-in-his-kingdom-treating-others-prayer-and-decision/",
-            "pubDate": "Thu, 11 Jan 2018 07:00:20 +0000",
-            "title": "Matthew 7: Life in His Kingdom: Treating Others, Prayer, and Decision"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-616-34-life-in-his-kingdom-how-to-fast-and-how-to-regard-material-things/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0616_34.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1114-60\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0616_34.mp3?_=60\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0616_34.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0616_34.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0616_34.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0616_34.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "27908307",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0616_34.mp3"
-            },
-            "guid": "http://enduringword.media/?p=1114",
-            "isoDate": "2018-01-10T07:00:26.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0616_34.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0616_34.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-616-34-life-in-his-kingdom-how-to-fast-and-how-to-regard-material-things/",
-            "pubDate": "Wed, 10 Jan 2018 07:00:26 +0000",
-            "title": "Matthew 6:16-34 \u2013 Life in His Kingdom: How to Fast and How to Regard Material Things"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-61-15-life-in-his-kingdom-how-to-give-and-pray/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0601_15.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1111-62\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0601_15.mp3?_=62\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0601_15.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0601_15.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0601_15.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0601_15.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "29791579",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0601_15.mp3"
-            },
-            "guid": "http://enduringword.media/?p=1111",
-            "isoDate": "2018-01-09T07:00:22.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0601_15.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0601_15.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-61-15-life-in-his-kingdom-how-to-give-and-pray/",
-            "pubDate": "Tue, 09 Jan 2018 07:00:22 +0000",
-            "title": "Matthew 6:1-15 \u2013 Life in His Kingdom: How to Give and Pray"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-527-48-life-in-his-kingdom-understanding-the-law-of-god/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0527_48.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1108-64\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0527_48.mp3?_=64\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0527_48.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0527_48.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0527_48.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0527_48.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "31112139",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0527_48.mp3"
-            },
-            "guid": "http://enduringword.media/?p=1108",
-            "isoDate": "2018-01-08T07:00:51.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0527_48.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0527_48.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-527-48-life-in-his-kingdom-understanding-the-law-of-god/",
-            "pubDate": "Mon, 08 Jan 2018 07:00:51 +0000",
-            "title": "Matthew 5:27-48 \u2013 Life in His Kingdom: Understanding the Law of God"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-513-26-life-in-his-kingdom-salt-light-and-cities/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0513_26.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1104-66\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0513_26.mp3?_=66\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0513_26.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0513_26.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0513_26.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0513_26.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "29326189",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0513_26.mp3"
-            },
-            "guid": "http://enduringword.media/?p=1104",
-            "isoDate": "2018-01-07T07:00:34.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0513_26.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0513_26.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-513-26-life-in-his-kingdom-salt-light-and-cities/",
-            "pubDate": "Sun, 07 Jan 2018 07:00:34 +0000",
-            "title": "Matthew 5:13-26 \u2013 Life in His Kingdom: Salt, Light, and Cities"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-51-12-life-in-his-kingdom-the-blessed-ones/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0501_12.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1101-68\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0501_12.mp3?_=68\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0501_12.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0501_12.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0501_12.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0501_12.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "27954640",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0501_12.mp3"
-            },
-            "guid": "http://enduringword.media/?p=1101",
-            "isoDate": "2018-01-06T07:00:29.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0501_12.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0501_12.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-51-12-life-in-his-kingdom-the-blessed-ones/",
-            "pubDate": "Sat, 06 Jan 2018 07:00:29 +0000",
-            "title": "Matthew 5:1-12 \u2013 Life in His Kingdom: The Blessed Ones"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-412-25-the-core-ministry-of-jesus/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0412_25.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1098-70\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0412_25.mp3?_=70\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0412_25.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0412_25.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0412_25.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0412_25.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "24293716",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0412_25.mp3"
-            },
-            "guid": "http://enduringword.media/?p=1098",
-            "isoDate": "2018-01-05T07:00:22.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0412_25.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0412_25.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-412-25-the-core-ministry-of-jesus/",
-            "pubDate": "Fri, 05 Jan 2018 07:00:22 +0000",
-            "title": "Matthew 4:12-25 \u2013 The Core Ministry of Jesus"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/mathew-41-11-led-by-the-spirit-tempted-by-the-devil/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0401_11.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1094-72\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0401_11.mp3?_=72\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0401_11.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0401_11.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0401_11.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0401_11.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "27032208",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0401_11.mp3"
-            },
-            "guid": "http://enduringword.media/?p=1094",
-            "isoDate": "2018-01-04T07:00:56.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0401_11.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0401_11.mp3"
-            },
-            "link": "https://media.enduringword.com/mathew-41-11-led-by-the-spirit-tempted-by-the-devil/",
-            "pubDate": "Thu, 04 Jan 2018 07:00:56 +0000",
-            "title": "Mathew 4:1-11 \u2013 Led by the Spirit, Tempted by the Devil"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-3-the-ministry-of-john-the-baptist/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0300_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1091-74\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0300_00.mp3?_=74\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0300_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0300_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0300_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0300_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "31320864",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0300_00.mp3"
-            },
-            "guid": "http://enduringword.media/?p=1091",
-            "isoDate": "2018-01-03T07:00:05.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0300_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0300_00.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-3-the-ministry-of-john-the-baptist/",
-            "pubDate": "Wed, 03 Jan 2018 07:00:05 +0000",
-            "title": "Matthew 3 \u2013 The Ministry of John the Baptist"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-2-called-a-nazarene/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0200_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1088-76\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0200_00.mp3?_=76\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0200_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0200_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0200_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0200_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "29773967",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0200_00.mp3"
-            },
-            "guid": "http://enduringword.media/?p=1088",
-            "isoDate": "2018-01-02T07:00:28.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0200_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0200_00.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-2-called-a-nazarene/",
-            "pubDate": "Tue, 02 Jan 2018 07:00:28 +0000",
-            "title": "Matthew 2 \u2013 Called a Nazarene"
-        },
-        {
-            "categories": [
-                "The Gospel of Matthew",
-                "Gospel",
-                "New Testament"
-            ],
-            "comments": "https://media.enduringword.com/matthew-1-genealogy-origins-history/#respond",
-            "content": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0100_00.mp3",
-            "content:encoded": "<audio class=\"wp-audio-shortcode\" id=\"audio-1083-78\" preload=\"none\" style=\"width: 100%;\" controls=\"controls\"><source type=\"audio/mpeg\" src=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0100_00.mp3?_=78\" /><a href=\"https://storage.googleapis.com/enduring-word-media/audio/Matthew0100_00.mp3\">https://storage.googleapis.com/enduring-word-media/audio/Matthew0100_00.mp3</a></audio>\n",
-            "content:encodedSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0100_00.mp3",
-            "contentSnippet": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0100_00.mp3",
-            "creator": "admin@enduringword.com (David Guzik)",
-            "dc:creator": "admin@enduringword.com (David Guzik)",
-            "enclosure": {
-                "length": "28557725",
-                "type": "audio/mpeg",
-                "url": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0100_00.mp3"
-            },
-            "guid": "http://enduringword.media/?p=1083",
-            "isoDate": "2018-01-01T07:00:33.000Z",
-            "itunes": {
-                "author": "David Guzik",
-                "explicit": "no",
-                "keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
-                "subtitle": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0100_00.mp3",
-                "summary": "https://storage.googleapis.com/enduring-word-media/audio/Matthew0100_00.mp3"
-            },
-            "link": "https://media.enduringword.com/matthew-1-genealogy-origins-history/",
-            "pubDate": "Mon, 01 Jan 2018 07:00:33 +0000",
-            "title": "Matthew 1 \u2013 Genealogy, Origins, History"
+            "itunes:author": "David Guzik",
+            "itunes:explicit": "no",
+            "itunes:image": {
+                "@href": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_040_matthew.jpg"
+            },
+            "itunes:keywords": "Bible,David,Guzik,Enduring,Word,Commentary,Gospel,of,Matthew,New,Testament",
+            "itunes:owner": {
+                "itunes:email": "admin@enduringword.com",
+                "itunes:name": "David Guzik"
+            },
+            "itunes:subtitle": "Enduring Word Commentary Series \u2013\u00a0The Gospel of Matthew",
+            "itunes:summary": "Pastor David Guzik preaches through the New Testament Gospel of Matthew",
+            "language": "en-US",
+            "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
+            "link": "https://media.enduringword.com",
+            "sy:updateFrequency": "1",
+            "sy:updatePeriod": "hourly",
+            "title": "The Gospel of Matthew \u2013 Enduring Word Media Server"
         }
-    ],
-    "itunes": {
-        "author": "David Guzik",
-        "explicit": "no",
-        "image": "https://media.enduringword.com/wp-content/uploads/2018/07/enduringword_040_matthew.jpg",
-        "keywords": [
-            "Bible",
-            "David",
-            "Guzik",
-            "Enduring",
-            "Word",
-            "Commentary",
-            "Gospel",
-            "of",
-            "Matthew",
-            "New",
-            "Testament"
-        ],
-        "owner": {
-            "email": "admin@enduringword.com",
-            "name": "David Guzik"
-        },
-        "subtitle": "Enduring Word Commentary Series \u2013\u00a0The Gospel of Matthew",
-        "summary": "Pastor David Guzik preaches through the New Testament Gospel of Matthew"
-    },
-    "language": "en-US",
-    "lastBuildDate": "Thu, 29 Sep 2022 14:52:44 +0000",
-    "link": "https://media.enduringword.com",
-    "paginationLinks": {
-        "self": "https://media.enduringword.com/podcasts/matthew/feed/"
-    },
-    "palette": [],
-    "title": "The Gospel of Matthew \u2013 Enduring Word Media Server"
+    }
 }
