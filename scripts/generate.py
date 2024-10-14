@@ -59,16 +59,17 @@ for index, podcastFile in enumerate(podcastFileNames):
     data = podFile.read()
     podcast = json.loads(data)
     palette = []
-    if('image' in podcast):
-      palette = generate_color_palette(podcast['image'])
-    podcast['palette'] = palette
+    if('image' in podcast['rss']['channel']):
+      print('Generating palette for: ', podcast['rss']['channel']['image'])
+      palette = generate_color_palette(podcast['rss']['channel']['image'])
+      podcast['rss']['channel']['image']['palette'] = palette
 
     filepath = dist_directory + '/podcasts_palettes/' + podcastFile[:-5]+ '_with_palettes.json'
 
     with open(filepath,'w') as outputFile:
       outputFile.write(simplejson.dumps(podcast, indent=4, sort_keys=True))
     outputFile.close()
-    print("Generated palette for: %s - %.2f%% done" % (podcast['title'], ((index+1)/len(podcastFileNames)*100)))
+    print("Generated palette for: %s - %.2f%% done" % (podcast['rss']['channel']['title'], ((index+1)/len(podcastFileNames)*100)))
 
 print('\n🦩-------------Palette Generation Complete-------------🦜\n\n')
 

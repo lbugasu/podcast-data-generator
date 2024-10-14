@@ -12,6 +12,11 @@ const nerParser = new EntityRecognizer({
   installPath: 'tmp/stanford-ner-2020-11-17'
 })
 
+/**
+ * 
+ * @param filePath The File path of the OPML File
+ * @returns A list of RSS Feeds from the OPML File
+ */
 async function getRssFeedsFromOPML(filePath: string): Promise<any[]> {
   const opmlContent = fs.readFileSync(filePath, 'utf8')
   const jsonData = await opmlToJSON(opmlContent)
