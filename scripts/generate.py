@@ -35,12 +35,13 @@ logFile = open("tmp/dist/logs.md", "a")
 logFile.write("## Color Palette Generation: \n")
 
 def log_error(podcast, error):
-  logFile.write("An exception occurred for: "+ podcast['title']+"\n: "+ str(error) + "\n")
+  print ("An exception occurred for: ", podcast['rss']['channel']['title'], "\n: ", error)
+  logFile.write("An exception occurred for: "+ podcast['rss']['channel']['title'] +"\n: "+ str(error) + "\n")
 
 def generate_color_palette(podcast_image):
   palette = []
   try:
-    if ( 'url' in podcast_image):
+    if ('url' in podcast_image):
       image = download_image(podcast_image['url'])
       palette = get_color_palette(image)
       palette = first_3_colors(palette)
@@ -57,10 +58,15 @@ podcasts = []
 for index, podcastFile in enumerate(podcastFileNames):
     podFile = open(podcastsFolder+'/'+podcastFile,'r')
     data = podFile.read()
+    try:
+        json.loads(data)
+    except Exception as error:
+        log_error(podcast, error)
+        continue
     podcast = json.loads(data)
     palette = []
     if('image' in podcast['rss']['channel']):
-      print('Generating palette for: ', podcast['rss']['channel']['image'])
+      print('Generating palette for: ', podcast['rss']['channel']['title'])
       palette = generate_color_palette(podcast['rss']['channel']['image'])
       podcast['rss']['channel']['image']['palette'] = palette
 

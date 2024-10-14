@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Xml;
+using System.Xml.Linq;
 using CodeHollow.FeedReader;
 using Newtonsoft.Json;
 using OPMLCore.NET;
@@ -43,10 +44,16 @@ async Task<Feed?> ParseFeed(string xmlUrl)
     {
         var parsedFeed = await FeedReader.ReadAsync(xmlUrl);
         Console.WriteLine($"Parsed Feed {parsedFeed.Title}");
-        // Write to file
-        XmlDocument xmlDocument = new XmlDocument();
-        xmlDocument.LoadXml(parsedFeed.OriginalDocument);
-        var feedAsJson = JsonConvert.SerializeXmlNode(xmlDocument, Newtonsoft.Json.Formatting.Indented);
+        // How to remove #cdata-section when convert xml to json using Linq
+        // https://gist.github.com/micheletolve/4b511875bfff23fe6970960d6ec3d175
+        var doc = XElement.Parse(parsedFeed.OriginalDocument);
+        var node_cdata = doc.DescendantNodes().OfType<XCData>().ToList();
+        foreach (var node in node_cdata)
+        {
+            node.Parent.Add(node.Value);
+            node.Remove();
+        }
+        var feedAsJson = JsonConvert.SerializeXNode(doc, Newtonsoft.Json.Formatting.Indented);
         File.WriteAllText($"{workingDir}/tmp/dist/podcasts/{helper.GenerateSlug(parsedFeed.Title)}.json", feedAsJson);
 
         return parsedFeed;
