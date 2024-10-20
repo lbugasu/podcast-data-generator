@@ -9,6 +9,27 @@
             "description": "Each week we choose a theme. Then anything can happen. This American Life is true stories that unfold like little movies for radio. Personal stories with funny moments, big feelings, and surprising plot twists. Newsy stories that try to capture what it\u2019s like to be alive right now. It\u2019s the most popular weekly podcast in the world, and winner of the first ever Pulitzer Prize for a radio show or podcast. Hosted by Ira Glass and produced in collaboration with WBEZ Chicago.",
             "item": [
                 {
+                    "description": "<p>Ira Glass has news to share about some things happening here at This American Life.</p>\n\n<p>To sign up as a Life Partner, visit <a href=\"https://www.thisamericanlife.org/lifepartners\">thisamericanlife.org/lifepartners</a>.</p>",
+                    "enclosure": {
+                        "@type": "audio/mpeg",
+                        "@url": "https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/life_partners_promo_101624.mp3"
+                    },
+                    "guid": {
+                        "#text": "45786 at https://www.thisamericanlife.org",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "This American Life",
+                    "itunes:duration": "00:04:56",
+                    "itunes:image": {
+                        "@href": "https://www.thisamericanlife.org/sites/default/files/styles/rss_image/public/images/rss/channel_cover-this_american_life_partners_-_no_alpha.png?itok=bOrHWUOu"
+                    },
+                    "itunes:subtitle": "Ira Glass has news to share about some things happening here at This American Life.",
+                    "itunes:summary": "Ira Glass has news to share about some things happening here at This American Life.",
+                    "link": "https://www.thisamericanlife.org",
+                    "pubDate": "Wed, 16 Oct 2024 00:00:00 -0400",
+                    "title": "A Big Announcement"
+                },
+                {
                     "description": "<p>So much of the fight for the presidency is coming down to battles for small slices of voters who can help throw swing states to one candidate or another. Abbas Alawieh, a leader in the Uncommitted movement, grapples with how to get his voters the thing they want.\n</p><ul><li>Prologue: When you have some power, but not a lot, how do you wield it when you\u2019re suddenly cast into the spotlight?\u00a0(4 minutes)</li><li>Act One: Zoe Chace and Ben Terris follow Abbas Alawieh as he fights to broker a deal at the DNC \u2013 a way to potentially satisfy the people who voted \u201cUncommitted\u201d in the primaries as a protest vote against Biden\u2019s handling of the war in Israel and Gaza. (33 minutes)</li><li>Act Two: Three weeks after the Democratic National Convention, Abbas speaks at a tense community meeting in Michigan about the Uncommitted organizers\u2019 general election recommendation and hears back from voters on how they feel about the Democratic nominee at this point. (15 minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/843/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
                     "enclosure": {
                         "@type": "audio/mpeg",
@@ -23,7 +44,7 @@
                     "itunes:image": {
                         "@href": "https://www.thisamericanlife.org/sites/default/files/styles/rss_image/public/images/rss/tal-843-littlebitofpower-getty2167189175-sq.jpg?itok=bkiMqd57"
                     },
-                    "itunes:subtitle": "So much of the fight for the presidency is coming down to battles for small slices of voters who can help throw swing states.\n",
+                    "itunes:subtitle": "Abbas Alawieh, a leader in the Uncommitted movement, grapples with how to get his voters the thing they want.\n",
                     "itunes:summary": "So much of the fight for the presidency is coming down to battles for small slices of voters who can help throw swing states to one candidate or another. Abbas Alawieh, a leader in the Uncommitted movement, grapples with how to get his voters the thing they want.\n\n\nPrologue: When you have some power, but not a lot, how do you wield it when you\u2019re suddenly cast into the spotlight?\u00a0(4 minutes)\n\nAct One: Zoe Chace and Ben Terris follow Abbas Alawieh as he fights to broker a deal at the DNC \u2013 a way to potentially satisfy the people who voted \u201cUncommitted\u201d in the primaries as a protest vote against Biden\u2019s handling of the war in Israel and Gaza. (33 minutes)\n\nAct Two: Three weeks after the Democratic National Convention, Abbas speaks at a tense community meeting in Michigan about the Uncommitted organizers\u2019 general election recommendation and hears back from voters on how they feel about the Democratic nominee at this point. (15 minutes)",
                     "link": "https://www.thisamericanlife.org/843/a-little-bit-of-power",
                     "pubDate": "Sun, 13 Oct 2024 18:00:00 -0400",
@@ -61,7 +82,7 @@
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "This American Life",
-                    "itunes:duration": "00:59:36",
+                    "itunes:duration": "00:59:52",
                     "itunes:image": {
                         "@href": "https://www.thisamericanlife.org/sites/default/files/styles/rss_image/public/images/rss/tal-553.jpg?itok=17XEyW3G"
                     },

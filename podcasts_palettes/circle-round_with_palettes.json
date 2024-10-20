@@ -34,6 +34,63 @@
                         "Arts",
                         "Books"
                     ],
+                    "content:encoded": "<p><span style=\"font-weight: 400;\">Tatyana Ali (Fresh Prince of Bel-Air, Abbot Elementary) and Jack De Sena (Lego Monkie Kid, Avatar: The Last Airbender) headline this Filipino story about getting the upper hand by taking the lower half.</span></p>",
+                    "dc:creator": {
+                        "#text": "WBUR",
+                        "@xmlns:dc": "http://purl.org/dc/elements/1.1/"
+                    },
+                    "description": "<p><span style=\"font-weight: 400;\">Tatyana Ali (Fresh Prince of Bel-Air, Abbot Elementary) and Jack De Sena (Lego Monkie Kid, Avatar: The Last Airbender) headline this Filipino story about getting the upper hand by taking the lower half.</span></p>",
+                    "enclosure": {
+                        "@length": "24302441",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR1594285009.mp3"
+                    },
+                    "guid": {
+                        "#text": "8073dbeb-5ead-42db-814f-db0dbcb6f6b2",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": " WBUR ",
+                    "itunes:duration": "00:25:19",
+                    "itunes:episode": "16",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://wordpress.wbur.org/wp-content/uploads/2024/10/topbananasq.jpg"
+                    },
+                    "itunes:season": "8",
+                    "itunes:subtitle": "Tatyana Ali (Fresh Prince of Bel-Air, Abbot Elementary) and Jack De Sena (Lego Monkie Kid, Avatar: The Last Airbender) headline this Filipino story about getting the upper hand by taking the lower half.",
+                    "itunes:summary": "<span style=\"font-weight: 400;\">Tatyana Ali (Fresh Prince of Bel-Air, Abbot Elementary) and Jack De Sena (Lego Monkie Kid, Avatar: The Last Airbender) headline this Filipino story about getting the upper hand by taking the lower half.</span>",
+                    "itunes:title": " Top Banana ",
+                    "link": "https://www.wbur.org/circleround/2024/10/15/top-banana",
+                    "media:content": [
+                        {
+                            "@height": "3000",
+                            "@medium": "image",
+                            "@type": "image/jpeg",
+                            "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/10/topbananasq.jpg",
+                            "@width": "3000",
+                            "media:description": "(Sabina Hahn for WBUR)",
+                            "media:thumbnail": {
+                                "@height": "200",
+                                "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/10/topbananasq-200x200.jpg",
+                                "@width": "200"
+                            }
+                        },
+                        {
+                            "@fileSize": "24302441",
+                            "@medium": "audio",
+                            "@type": "audio/mpeg",
+                            "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR1594285009.mp3"
+                        }
+                    ],
+                    "pubDate": "Tue, 15 Oct 2024 15:00:00 -0400",
+                    "title": "Top Banana"
+                },
+                {
+                    "category": [
+                        "Arts",
+                        "Books"
+                    ],
                     "content:encoded": "<p><span style=\"font-weight: 400;\">Real-life couple David Giuntoli (Grimm, Batman: Soul of the Dragon) and Elizabeth Tulloch (Grimm, Superman and Lois) face off as a wise farmer and proud queen in this tale with Georgian, Kazakh and Ghanaian roots.</span></p>",
                     "dc:creator": {
                         "#text": "WBUR",
@@ -20533,7 +20590,7 @@
             "itunes:summary": "Created and produced by parents of young children, WBUR's Circle Round adapts carefully-selected folktales from around the world into sound- and music-rich radio plays for kids ages 3-103. Each 15 to 25-minute episode explores important issues like kindness, persistence and generosity. And each episode ends with an activity that inspires a deeper conversation between children and grown-ups.",
             "itunes:type": "serial",
             "language": "en-us",
-            "lastBuildDate": "Mon, 14 Oct 2024 20:15:11 -0400",
+            "lastBuildDate": "Sat, 19 Oct 2024 20:30:03 -0400",
             "link": "https://www.wbur.org/podcasts/circleround",
             "title": "Circle Round"
         }

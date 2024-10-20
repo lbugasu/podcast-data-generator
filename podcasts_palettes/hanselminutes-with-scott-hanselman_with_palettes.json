@@ -40,7 +40,33 @@
             "item": [
                 {
                     "author": "scott@hanselman.com (Scott Hanselman)",
-                    "description": "\n",
+                    "content:encoded": "<p>I'm Dominic. I've been building software systems for the last two decades. I really enjoy teaching and building courses that make students better developers.</p>\n",
+                    "description": "<p>I'm Dominic. I've been building software systems for the last two decades. I really enjoy teaching and building courses that make students better developers.</p>\n",
+                    "enclosure": {
+                        "@length": "32324099",
+                        "@type": "audio/mpeg",
+                        "@url": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/aa121cea-9548-4bc3-bf2e-84cc01407d51/audio/2f8a4bdf-fcec-40ba-922e-9137877d2330/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+                    },
+                    "guid": {
+                        "#text": "7e875fa7-7c7b-40e2-a5fb-e78970002856",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Scott Hanselman",
+                    "itunes:duration": "00:33:34",
+                    "itunes:episode": "967",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:subtitle": "Dominic has been building software systems for the last two decades, and he\u2019s been doing it with failing vision. Most recently he\u2019s started using a screen reader for all his coding tasks. Scott chats with Dominic about how he thinks, visualizes problems and code, and how he uses VS Code in his daily life as a full time coder and CTO.",
+                    "itunes:summary": "Dominic has been building software systems for the last two decades, and he\u2019s been doing it with failing vision. Most recently he\u2019s started using a screen reader for all his coding tasks. Scott chats with Dominic about how he thinks, visualizes problems and code, and how he uses VS Code in his daily life as a full time coder and CTO.",
+                    "itunes:title": "Coding while Blind with Dominic St Pierre",
+                    "link": "https://www.hanselminutes.com",
+                    "pubDate": "Thu, 17 Oct 2024 17:00:00 +0000",
+                    "title": "Coding while Blind with Dominic St Pierre"
+                },
+                {
+                    "author": "scott@hanselman.com (Scott Hanselman)",
+                    "content:encoded": "<p>It\u2019s one thing to joke about how \u201cit\u2019s always DNS\u201d but it\u2019s another to solve the problem by starting your own DNS Hosting and Domain Registration company. Some folks joke, but Anthony Eden started a company - DNSimple. Scott chats with Anthony about how he got started, how DNS works, and why DNSimple does it right.</p>\n",
+                    "description": "<p>It\u2019s one thing to joke about how \u201cit\u2019s always DNS\u201d but it\u2019s another to solve the problem by starting your own DNS Hosting and Domain Registration company. Some folks joke, but Anthony Eden started a company - DNSimple. Scott chats with Anthony about how he got started, how DNS works, and why DNSimple does it right.</p>\n",
                     "enclosure": {
                         "@length": "34701863",
                         "@type": "audio/mpeg",
@@ -58,8 +84,8 @@
                     "itunes:image": {
                         "@href": "https://image.simplecastcdn.com/images/e464c34b-2f32-411b-bdd2-dcf02e5301eb/83ec0948-766c-4159-91b5-1fe06dc89fcf/3000x3000/966.jpg?aid=rss_feed"
                     },
-                    "itunes:subtitle": "",
-                    "itunes:summary": "",
+                    "itunes:subtitle": "It\u2019s one thing to joke about how \u201cit\u2019s always DNS\u201d but it\u2019s another to solve the problem by starting your own DNS Hosting and Domain Registration company. Some folks joke, but Anthony Eden started a company - DNSimple. Scott chats with Anthony about how he got started, how DNS works, and why DNSimple does it right.",
+                    "itunes:summary": "It\u2019s one thing to joke about how \u201cit\u2019s always DNS\u201d but it\u2019s another to solve the problem by starting your own DNS Hosting and Domain Registration company. Some folks joke, but Anthony Eden started a company - DNSimple. Scott chats with Anthony about how he got started, how DNS works, and why DNSimple does it right.",
                     "itunes:title": "Is it always DNS? with DNSimple's Anthony Eden",
                     "link": "https://www.hanselminutes.com",
                     "pubDate": "Thu, 10 Oct 2024 21:00:00 +0000",
@@ -17002,34 +17028,6 @@
                 },
                 {
                     "author": "scott@hanselman.com (Scott Hanselman)",
-                    "content:encoded": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
-                    "description": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
-                    "enclosure": {
-                        "@length": "31814349",
-                        "@type": "audio/mpeg",
-                        "@url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/f239e3a2_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-                    },
-                    "guid": {
-                        "#text": "http://www.hanselminutes.com/default.aspx?ShowID=380",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Scott Hanselman",
-                    "itunes:duration": "00:33:07",
-                    "itunes:episode": "358",
-                    "itunes:episodeType": "full",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/3000x3000/1519423024artwork.jpg?aid=rss_feed"
-                    },
-                    "itunes:subtitle": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
-                    "itunes:summary": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
-                    "itunes:title": "Halo 4 - Services in Azure with Caitie McCaffrey",
-                    "link": "https://www.hanselminutes.com",
-                    "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
-                    "title": "Halo 4 - Services in Azure with Caitie McCaffrey"
-                },
-                {
-                    "author": "scott@hanselman.com (Scott Hanselman)",
                     "content:encoded": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
                     "description": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
                     "enclosure": {
@@ -17055,6 +17053,34 @@
                     "link": "https://www.hanselminutes.com",
                     "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
                     "title": "Git support within Visual Studio"
+                },
+                {
+                    "author": "scott@hanselman.com (Scott Hanselman)",
+                    "content:encoded": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
+                    "description": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
+                    "enclosure": {
+                        "@length": "31814349",
+                        "@type": "audio/mpeg",
+                        "@url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/f239e3a2_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+                    },
+                    "guid": {
+                        "#text": "http://www.hanselminutes.com/default.aspx?ShowID=380",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Scott Hanselman",
+                    "itunes:duration": "00:33:07",
+                    "itunes:episode": "358",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/3000x3000/1519423024artwork.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
+                    "itunes:summary": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
+                    "itunes:title": "Halo 4 - Services in Azure with Caitie McCaffrey",
+                    "link": "https://www.hanselminutes.com",
+                    "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
+                    "title": "Halo 4 - Services in Azure with Caitie McCaffrey"
                 },
                 {
                     "author": "scott@hanselman.com (Scott Hanselman)",
@@ -26997,9 +27023,9 @@
             "itunes:summary": "Hanselminutes is Fresh Air for Developers. A weekly commute-time podcast that promotes fresh technology and fresh voices. Talk and Tech for Developers, Life-long Learners, and Technologists.",
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Thu, 10 Oct 2024 23:31:24 +0000",
+            "lastBuildDate": "Sat, 19 Oct 2024 00:02:28 +0000",
             "link": "https://www.hanselminutes.com",
-            "pubDate": "Thu, 10 Oct 2024 21:00:00 +0000",
+            "pubDate": "Thu, 17 Oct 2024 17:00:00 +0000",
             "title": "Hanselminutes with Scott Hanselman"
         }
     }

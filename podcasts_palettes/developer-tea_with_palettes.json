@@ -40,6 +40,31 @@
             "item": [
                 {
                     "author": "jonathan.cutrell@gmail.com (Jonathan Cutrell)",
+                    "content:encoded": "<p>High-leverage work often comes in the simplest form of helping another person with <i>their</i> efforts.</p><h2>\ud83d\udcee Ask a Question</h2><p>If you enjoyed this episode and would like me to discuss a question that you have on the show, drop it over at: <a href=\"https://www.developertea.com/contact\">developertea.com.</a></p><h2>\ud83d\udcee Join the <a href=\"https://developertea.com/discord\">Discord</a></h2><p>If you want to be a part of a supportive community of engineers (non-engineers welcome!) working to improve their lives and careers, join us on the Developer Tea Discord community by visiting <a href=\"https://developertea.com/discord\">https://developertea.com/discord</a> today!</p><h2>\ud83e\udde1 Leave a Review</h2><p>If you're enjoying the show and want to support the content head over to iTunes and <a href=\"https://ratethispodcast.com/devtea\">leave a review</a>! It helps other developers discover the show and keep us focused on what matters to you.</p>\n",
+                    "description": "<p>High-leverage work often comes in the simplest form of helping another person with <i>their</i> efforts.</p><h2>\ud83d\udcee Ask a Question</h2><p>If you enjoyed this episode and would like me to discuss a question that you have on the show, drop it over at: <a href=\"https://www.developertea.com/contact\">developertea.com.</a></p><h2>\ud83d\udcee Join the <a href=\"https://developertea.com/discord\">Discord</a></h2><p>If you want to be a part of a supportive community of engineers (non-engineers welcome!) working to improve their lives and careers, join us on the Developer Tea Discord community by visiting <a href=\"https://developertea.com/discord\">https://developertea.com/discord</a> today!</p><h2>\ud83e\udde1 Leave a Review</h2><p>If you're enjoying the show and want to support the content head over to iTunes and <a href=\"https://ratethispodcast.com/devtea\">leave a review</a>! It helps other developers discover the show and keep us focused on what matters to you.</p>\n",
+                    "enclosure": {
+                        "@length": "14836622",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/c44db111-b60d-436e-ab63-38c7c3402406/episodes/2202252a-e66f-4332-996a-9e10f135a117/audio/8894c5e3-77c3-40e2-b0f2-a8dbfb969cdf/default_tc.mp3?aid=rss_feed&feed=dLRotFGk"
+                    },
+                    "guid": {
+                        "#text": "61af301c-1bfa-4b9e-aa29-78cb95eabcb6",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Jonathan Cutrell",
+                    "itunes:duration": "00:15:27",
+                    "itunes:episode": "1225",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:subtitle": "High-leverage work often comes in the simplest form of helping another person with *their* efforts.",
+                    "itunes:summary": "High-leverage work often comes in the simplest form of helping another person with *their* efforts.",
+                    "itunes:title": "The Highest Leverage Work You Do - Footing the Ladder",
+                    "link": "http://www.developertea.com",
+                    "pubDate": "Fri, 18 Oct 2024 07:00:00 +0000",
+                    "title": "The Highest Leverage Work You Do - Footing the Ladder"
+                },
+                {
+                    "author": "jonathan.cutrell@gmail.com (Jonathan Cutrell)",
                     "content:encoded": "<p>Learn to prioritize, and everything else falls into place. This is clarity through perspective and purpose.</p><h2>\ud83d\udcee Ask a Question</h2><p>If you enjoyed this episode and would like me to discuss a question that you have on the show, drop it over at: <a href=\"https://www.developertea.com/contact\">developertea.com.</a></p><h2>\ud83d\udcee Join the <a href=\"https://developertea.com/discord\">Discord</a></h2><p>If you want to be a part of a supportive community of engineers (non-engineers welcome!) working to improve their lives and careers, join us on the Developer Tea Discord community by visiting <a href=\"https://developertea.com/discord\">https://developertea.com/discord</a> today!</p><h2>\ud83e\udde1 Leave a Review</h2><p>If you're enjoying the show and want to support the content head over to iTunes and <a href=\"https://ratethispodcast.com/devtea\">leave a review</a>! It helps other developers discover the show and keep us focused on what matters to you.</p>\n",
                     "description": "<p>Learn to prioritize, and everything else falls into place. This is clarity through perspective and purpose.</p><h2>\ud83d\udcee Ask a Question</h2><p>If you enjoyed this episode and would like me to discuss a question that you have on the show, drop it over at: <a href=\"https://www.developertea.com/contact\">developertea.com.</a></p><h2>\ud83d\udcee Join the <a href=\"https://developertea.com/discord\">Discord</a></h2><p>If you want to be a part of a supportive community of engineers (non-engineers welcome!) working to improve their lives and careers, join us on the Developer Tea Discord community by visiting <a href=\"https://developertea.com/discord\">https://developertea.com/discord</a> today!</p><h2>\ud83e\udde1 Leave a Review</h2><p>If you're enjoying the show and want to support the content head over to iTunes and <a href=\"https://ratethispodcast.com/devtea\">leave a review</a>! It helps other developers discover the show and keep us focused on what matters to you.</p>\n",
                     "enclosure": {
@@ -15632,34 +15657,6 @@
                     "link": "http://www.developertea.com",
                     "pubDate": "Fri, 11 Jan 2019 10:00:00 +0000",
                     "title": "Adding tests to a big untested codebase - Where do I start?"
-                },
-                {
-                    "author": "jonathan.cutrell@gmail.com (Spec)",
-                    "content:encoded": "<h2>Thanks to today's sponsor: <a href=\"https://sentry.io/welcome/\">Sentry</a></h2>\n<p>Sentry tells you about errors in your code before your customers have a chance to encounter them.</p>\n<p>Not only do we tell you about them, we also give you all the details you\u2019ll need to be able to fix them. You\u2019ll see exactly how many users have been impacted by a bug, the stack trace, the commit that the error was released as part of, the engineer who wrote the line of code that is currently busted, and a lot more.</p>\n<p>Give it a try for yourself at <a href=\"https://www.sentry.io\">Sentry.io</a></p>\n<h2>Get in touch</h2>\n<p>If you have questions about today's episode, want to start a conversation about today's topic or just want to let us know if you found this episode valuable I encourage you to join the conversation or start your own on our community platform  <a href=\"https://spectrum.chat/specfm/developer-tea\">Spectrum.chat/specfm/developer-tea</a></p>\n<h2>\ud83e\udde1 Leave a Review</h2>\n<p>If you're enjoying the show and want to support the content head over to iTunes and <a href=\"https://itunes.apple.com/us/artist/spec/1019380766?mt=2\">leave a review</a>! It helps other developers discover the show and keep us focused on what matters to you.</p>\n<h2>\ud83c\udf75 Subscribe to the Tea Break Challenge</h2>\n<p>This is a daily challenge designed help you become more self-aware and be a better developer so you can have a positive impact on the people around you. Check it out and give it a try at https://www.teabreakchallenge.com/.</p>\n",
-                    "description": "<h2>Thanks to today's sponsor: <a href=\"https://sentry.io/welcome/\">Sentry</a></h2>\n<p>Sentry tells you about errors in your code before your customers have a chance to encounter them.</p>\n<p>Not only do we tell you about them, we also give you all the details you\u2019ll need to be able to fix them. You\u2019ll see exactly how many users have been impacted by a bug, the stack trace, the commit that the error was released as part of, the engineer who wrote the line of code that is currently busted, and a lot more.</p>\n<p>Give it a try for yourself at <a href=\"https://www.sentry.io\">Sentry.io</a></p>\n<h2>Get in touch</h2>\n<p>If you have questions about today's episode, want to start a conversation about today's topic or just want to let us know if you found this episode valuable I encourage you to join the conversation or start your own on our community platform  <a href=\"https://spectrum.chat/specfm/developer-tea\">Spectrum.chat/specfm/developer-tea</a></p>\n<h2>\ud83e\udde1 Leave a Review</h2>\n<p>If you're enjoying the show and want to support the content head over to iTunes and <a href=\"https://itunes.apple.com/us/artist/spec/1019380766?mt=2\">leave a review</a>! It helps other developers discover the show and keep us focused on what matters to you.</p>\n<h2>\ud83c\udf75 Subscribe to the Tea Break Challenge</h2>\n<p>This is a daily challenge designed help you become more self-aware and be a better developer so you can have a positive impact on the people around you. Check it out and give it a try at https://www.teabreakchallenge.com/.</p>\n",
-                    "enclosure": {
-                        "@length": "17860605",
-                        "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/c44db1/c44db111-b60d-436e-ab63-38c7c3402406/3e70aeed-5a65-4c93-8cb5-4747865d3dbf/5-tips-for-improving-your-principles-of-experimentation_tc.mp3?aid=rss_feed&feed=dLRotFGk"
-                    },
-                    "guid": {
-                        "#text": "50e59c94-e937-41d8-8219-76b77aa121cd",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Spec",
-                    "itunes:duration": "00:18:34",
-                    "itunes:episode": "633",
-                    "itunes:episodeType": "full",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://image.simplecastcdn.com/images/c44db1/c44db111-b60d-436e-ab63-38c7c3402406/3e70aeed-5a65-4c93-8cb5-4747865d3dbf/3000x3000/1547004681-artwork.jpg?aid=rss_feed"
-                    },
-                    "itunes:subtitle": "In today's episode, we're talking about variables to inspect when encountering different problems. At the end of the episode, you'll get 5 tips to add to your toolkit to use when you can use in approach to various problems. ",
-                    "itunes:summary": "In today's episode, we're talking about variables to inspect when encountering different problems. At the end of the episode, you'll get 5 tips to add to your toolkit to use when you can use in approach to various problems. ",
-                    "itunes:title": "5 Tips for Improving Your Principles of Experimentation",
-                    "link": "http://www.developertea.com",
-                    "pubDate": "Wed, 9 Jan 2019 10:00:00 +0000",
-                    "title": "5 Tips for Improving Your Principles of Experimentation"
                 }
             ],
             "itunes:author": "Jonathan Cutrell",
@@ -15690,9 +15687,9 @@
             "itunes:summary": "Developer Tea exists to help driven developers connect to their ultimate purpose and excel at their work so that they can positively impact the people they influence.\n\nWith over 13 million downloads to date, Developer Tea  is a short podcast hosted by Jonathan Cutrell (@jcutrell), co-founder of Spec and Director of Engineering at PBS. We hope you'll take the topics from this podcast and continue the conversation, either online or in person with your peers. Twitter: @developertea :: Email: developertea@gmail.com",
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Fri, 4 Oct 2024 07:00:13 +0000",
+            "lastBuildDate": "Fri, 18 Oct 2024 07:00:12 +0000",
             "link": "http://www.developertea.com",
-            "pubDate": "Fri, 4 Oct 2024 07:00:00 +0000",
+            "pubDate": "Fri, 18 Oct 2024 07:00:00 +0000",
             "title": "Developer Tea"
         }
     }

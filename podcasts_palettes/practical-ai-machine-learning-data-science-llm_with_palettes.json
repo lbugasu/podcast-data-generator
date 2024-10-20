@@ -23,6 +23,117 @@
             "description": "Making artificial intelligence practical, productive & accessible to everyone. Practical AI is a show in which technology professionals, business people, students, enthusiasts, and expert guests engage in lively discussions about Artificial Intelligence and related topics (Machine Learning, Deep Learning, Neural Networks, GANs, MLOps, AIOps, LLMs & more).\n\nThe focus is on productive implementations and real-world scenarios that are accessible to everyone. If you want to keep up with the latest advances in AI, while keeping one foot in the real world, then this is the show for you!",
             "item": [
                 {
+                    "content:encoded": "<p>Workflow orchestration has always been a pain for data scientists, but this is exacerbated in these AI hype days by agentic workflows executing arbitrary (not pre-defined) workflows with a variety of failure modes. Adam from Prefect joins us to talk through their open source Python library for orchestration and visibility into python-based pipelines. Along the way, he introduces us to things like Marvin, their AI engineering framework, and ControlFlow, their agent workflow system.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456003-practicalai\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 9 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://workos.com\">WorkOS</a> \u2013 <strong>A platform that gives developers a set of building blocks for quickly adding enterprise-ready features</strong> to their application. Add Single Sign-On (Okta, Azure, Google, Microsoft OAuth), sync users from any SCIM directory, HRIS integration, audit trails (SIEM), free magic link sign-in. WorkOS is designed for developers and offers a single, elegant interface that abstracts dozens of enterprise integrations. Learn more and get started at <a href=\"https://workos.com/\">WorkOS.com</a>\n</li>\n<li><a href=\"https://www.shopify.com/practicalai\">Shopify</a> \u2013 Sign up for a $1/month trial period at <a href=\"https://www.shopify.com/practicalai\">shopify.com/practicalai</a>\n</li>\n<li><a href=\"http://notion.com/changelog\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Adam Azzam &ndash; <a href=\"https://twitter.com/AAAzzam\" rel=\"external ugc\">Twitter</a>, <a href=\"https://www.linkedin.com/in/adam-azzam\" rel=\"external ugc\">LinkedIn</a></li><li>Chris Benson &ndash; <a href=\"https://twitter.com/chrisbenson\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/chrisbenson\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://chrisbenson.com\" rel=\"external ugc\">Website</a></li><li>Daniel Whitenack &ndash; <a href=\"https://twitter.com/dwhitena\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/dwhitena\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.datadan.io/\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://www.prefect.io/\">Prefect</a></li>\n<li><a href=\"https://www.prefect.io/marvin\">Marvin</a></li>\n<li><a href=\"https://www.prefect.io/controlflow\">ControlFlow</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/practicalai/practical-ai-291.md\">PRs welcome!</a></p>",
+                    "description": "Workflow orchestration has always been a pain for data scientists, but this is exacerbated in these AI hype days by agentic workflows executing arbitrary (not pre-defined) workflows with a variety of failure modes. Adam from Prefect joins us to talk through their open source Python library for orchestration and visibility into python-based pipelines. Along the way, he introduces us to things like Marvin, their AI engineering framework, and ControlFlow, their agent workflow system. ",
+                    "enclosure": {
+                        "@length": "56305638",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/practicalai/291/practical-ai-291.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/7/2586",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "58:26",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
+                    },
+                    "link": "https://changelog.com/practicalai/291",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/practicalai/291/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Chris Benson",
+                            "@href": "https://changelog.com/person/chris",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/j8b/avatar_large.png?v=63706916892",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Daniel Whitenack",
+                            "@href": "https://changelog.com/person/dwhitena",
+                            "@img": "https://secure.gravatar.com/avatar/1ea0c31fbcab54853329d9f7bcdb6d6d.jpg?s=600&d=mm",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Adam Azzam",
+                            "@href": "https://changelog.com/person/adam-azzam",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/yW91J/avatar_large.jpg?v=63896240894",
+                            "@role": "guest"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "Welcome to Practical AI"
+                            },
+                            {
+                                "@href": "https://workos.com",
+                                "@start": "35",
+                                "@title": "Sponsor: WorkOS"
+                            },
+                            {
+                                "@start": "249",
+                                "@title": "Workflow orchestration"
+                            },
+                            {
+                                "@start": "572",
+                                "@title": "Common pain points"
+                            },
+                            {
+                                "@start": "877",
+                                "@title": "What makes ML orchestration different"
+                            },
+                            {
+                                "@href": "https://www.shopify.com/practicalai",
+                                "@start": "1257",
+                                "@title": "Sponsor: Shopify"
+                            },
+                            {
+                                "@start": "1366",
+                                "@title": "Intro to Prefect"
+                            },
+                            {
+                                "@start": "1792",
+                                "@title": "Conversion experience"
+                            },
+                            {
+                                "@href": "http://notion.com/changelog",
+                                "@start": "2245",
+                                "@title": "Sponsor: Notion"
+                            },
+                            {
+                                "@start": "2383",
+                                "@title": "Adam's friend Marvin"
+                            },
+                            {
+                                "@start": "2672",
+                                "@title": "Agentic approach"
+                            },
+                            {
+                                "@start": "3110",
+                                "@title": "What's next?"
+                            },
+                            {
+                                "@start": "3421",
+                                "@title": "Thanks for joining us"
+                            },
+                            {
+                                "@start": "3458",
+                                "@title": "Outro"
+                            }
+                        ]
+                    },
+                    "pubDate": "Tue, 15 Oct 2024 20:00:00 +0000",
+                    "title": "Practical workflow orchestration"
+                },
+                {
                     "content:encoded": "<p>As Argilla puts it: \u201cData quality is what makes or breaks AI.\u201d However, what exactly does this mean and how can AI team probably collaborate with domain experts towards improved data quality? David Berenstein &amp; Ben Burtenshaw, who are building Argilla &amp; Distilabel at Hugging Face, join us to dig into these topics along with synthetic data generation &amp; AI-generated labeling / feedback.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456003-practicalai\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 11 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://workos.com\">WorkOS</a> \u2013 <strong>A platform that gives developers a set of building blocks for quickly adding enterprise-ready features</strong> to their application. Add Single Sign-On (Okta, Azure, Google, Microsoft OAuth), sync users from any SCIM directory, HRIS integration, audit trails (SIEM), free magic link sign-in. WorkOS is designed for developers and offers a single, elegant interface that abstracts dozens of enterprise integrations. Learn more and get started at <a href=\"https://workos.com/\">WorkOS.com</a>\n</li>\n<li><a href=\"https://www.eightsleep.com/practicalai\">Eight Sleep</a> \u2013 <strong>Take your sleep and recovery to the next level.</strong> Go to <a href=\"https://www.eightsleep.com/practicalai/\">eightsleep.com/PRACTICALAI</a> and use the code <code>PRACTICALAI</code> to get $350 off your very own Pod 4 Ultra. You can try it for free for 30 days - but we\u2019re confident you will not want to return it. Once you experience AI-optimized sleep, you\u2019ll wonder how you ever slept without it. Currently shipping to: United States, Canada, United Kingdom, Europe, and Australia.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Ben Burtenshaw &ndash; <a href=\"https://twitter.com/ben_burtenshaw\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/burtenshaw\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/ben-burtenshaw\" rel=\"external ugc\">LinkedIn</a></li><li>David Berenstein &ndash; <a href=\"https://twitter.com/davidberenstei\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/davidberenstein1957\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/davidberenstein\" rel=\"external ugc\">LinkedIn</a></li><li>Chris Benson &ndash; <a href=\"https://twitter.com/chrisbenson\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/chrisbenson\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://chrisbenson.com\" rel=\"external ugc\">Website</a></li><li>Daniel Whitenack &ndash; <a href=\"https://twitter.com/dwhitena\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/dwhitena\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.datadan.io/\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://docs.argilla.io/latest/\">Argilla</a></li>\n<li><a href=\"https://distilabel.argilla.io/latest/\">Distilabel</a></li>\n<li><a href=\"https://huggingface.co/spaces/argilla/synthetic-data-generator\">Synthetic Data Generator UI</a></li>\n<li><a href=\"https://lu.ma/argilla-event-calendar\">Hugging Face and Argilla meetups</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/practicalai/practical-ai-290.md\">PRs welcome!</a></p>",
                     "description": "As Argilla puts it: \"Data quality is what makes or breaks AI.\" However, what exactly does this mean and how can AI team probably collaborate with domain experts towards improved data quality? David Berenstein & Ben Burtenshaw, who are building Argilla & Distilabel at Hugging Face, join us to dig into these topics along with synthetic data generation & AI-generated labeling / feedback.",
                     "enclosure": {
@@ -71,6 +182,10 @@
                             "@role": "guest"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@practicalai/113277704933994720"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",
@@ -203,6 +318,10 @@
                     "podcast:socialInteract": {
                         "@protocol": "activitypub",
                         "@uri": "https://changelog.social/@practicalai/113244265848092067"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/practicalai/289/transcript"
                     },
                     "psc:chapters": {
                         "@version": "1.1",

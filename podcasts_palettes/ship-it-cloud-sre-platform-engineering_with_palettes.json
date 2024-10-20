@@ -23,6 +23,169 @@
             "description": "A podcast about everything that happens after \\`git push\\` Justin Garrison & Autumn Nash explore all things DevOps, infra, cloud & running apps in production. Whether you're cloud native, Kubernetes curious, a pro SRE, or just operating a VPS... you'll love coming along for the ride. \n\nSome people search for ShipIt or ShipItFM and can't find the show, so now the strings ShipIt and ShipItFM are in our description too.",
             "item": [
                 {
+                    "content:encoded": "<p>Adam Jacob remains optimistic about the future for infrastructure and is building new ideas to make it better.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456580-shipit\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 12 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://sentry.io/\">Sentry</a> \u2013 <strong>Code breaks, fix it faster.</strong> Don\u2019t just observe. Take action. Sentry is the only app monitoring platform built for developers that gets to the root cause for every issue. 100,000+ growing teams use sentry to find problems fast. Use the code <code>CHANGELOG</code> when you sign up to get $100 OFF the team plan.\n</li>\n<li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://retool.com/changelog\">Retool</a> \u2013 <strong>The low-code platform for developers to build internal tools</strong> \u2014 Some of the best teams out there trust Retool\u2026Brex, Coinbase, Plaid, Doordash, LegalGenius, Amazon, Allbirds, Peloton, and so many more \u2013 the developers at these teams trust Retool as the platform to build their internal tools. Try it free at <a href=\"https://retool.com/changelog\">retool.com/changelog</a>\n</li>\n</ul></p><p>Featuring:</p><ul><li>Adam Jacob &ndash; <a href=\"https://twitter.com/adamhjk\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/adamhjk\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.systeminit.com\" rel=\"external ugc\">Website</a></li><li>Justin Garrison &ndash; <a href=\"https://twitter.com/rothgar\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/rothgar\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/justingarrison\" rel=\"external ugc\">LinkedIn</a></li><li>Autumn Nash &ndash; <a href=\"https://twitter.com/autumn808\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/autumn808\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/autumnnash\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://systeminit.com\">System Initiative</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/shipit/ship-it-126.md\">PRs welcome!</a></p>",
+                    "description": "Adam Jacob remains optimistic about the future for infrastructure and is building new ideas to make it better.",
+                    "enclosure": {
+                        "@length": "92105895",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/shipit/126/ship-it-126.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/14/2484",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:35:42",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/ship-it-original.png?v=63787880447"
+                    },
+                    "link": "https://changelog.com/shipit/126",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/shipit/126/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Justin Garrison",
+                            "@href": "https://changelog.com/person/jgarr",
+                            "@img": "https://secure.gravatar.com/avatar/5b746c23f3b5fae8ad186ddc9e96c34e.jpg?s=600&d=mm",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Autumn Nash",
+                            "@href": "https://changelog.com/person/autumn808",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/e47RO/avatar_large.jpg?v=63877387957",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Adam Jacob",
+                            "@href": "https://changelog.com/person/adamhjk",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/njJ2/avatar_large.jpg?v=63780797950",
+                            "@role": "guest"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "This is Ship It!"
+                            },
+                            {
+                                "@href": "https://sentry.io/",
+                                "@start": "53",
+                                "@title": "Sponsor: Sentry"
+                            },
+                            {
+                                "@start": "162",
+                                "@title": "Bring back old Twitter"
+                            },
+                            {
+                                "@start": "598",
+                                "@title": "Adam's hot take"
+                            },
+                            {
+                                "@start": "1019",
+                                "@title": "Infrastructure is binary"
+                            },
+                            {
+                                "@href": "https://fly.io/",
+                                "@start": "1336",
+                                "@title": "Sponsor: Fly.io"
+                            },
+                            {
+                                "@start": "1561",
+                                "@title": "You're just holding it wrong"
+                            },
+                            {
+                                "@start": "1791",
+                                "@title": "You need good friends"
+                            },
+                            {
+                                "@start": "2034",
+                                "@title": "Learning from System initiative"
+                            },
+                            {
+                                "@start": "2286",
+                                "@title": "Unexpected difficulties"
+                            },
+                            {
+                                "@start": "2391",
+                                "@title": "Use it how you want to use it"
+                            },
+                            {
+                                "@start": "2537",
+                                "@title": "The scope of System Initiative"
+                            },
+                            {
+                                "@start": "2904",
+                                "@title": "Everyone can do infrastructure"
+                            },
+                            {
+                                "@href": "https://retool.com/changelog",
+                                "@start": "3256",
+                                "@title": "Sponsor: Retool"
+                            },
+                            {
+                                "@start": "3533",
+                                "@title": "System Initiative bridges the gap"
+                            },
+                            {
+                                "@start": "3814",
+                                "@title": "Infrastructure history log?"
+                            },
+                            {
+                                "@start": "3980",
+                                "@title": "The adoption cycle"
+                            },
+                            {
+                                "@start": "4086",
+                                "@title": "Good for onboarding"
+                            },
+                            {
+                                "@start": "4227",
+                                "@title": "Tech debt & migration"
+                            },
+                            {
+                                "@start": "4310",
+                                "@title": "Current infrastructure-as-code tools"
+                            },
+                            {
+                                "@start": "4533",
+                                "@title": "A different future"
+                            },
+                            {
+                                "@start": "4617",
+                                "@title": "Dealing with APIs"
+                            },
+                            {
+                                "@start": "4932",
+                                "@title": "The Boogeyman isn't coming"
+                            },
+                            {
+                                "@start": "5098",
+                                "@title": "Realize the untapped potential"
+                            },
+                            {
+                                "@start": "5522",
+                                "@title": "Go to a start up!"
+                            },
+                            {
+                                "@start": "5619",
+                                "@title": "Thanks for joining us!"
+                            },
+                            {
+                                "@start": "5688",
+                                "@title": "Outro"
+                            }
+                        ]
+                    },
+                    "pubDate": "Fri, 18 Oct 2024 15:45:00 +0000",
+                    "title": "Kubernetes is an anti-platform"
+                },
+                {
                     "content:encoded": "<p>Lili Cosic\u2019s experience at different companies &amp; communities has given her insights into what\u2019s important &amp; when to adapt to learn new (or old) things.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456580-shipit\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 12 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://www.systeminit.com/?utm_source=changelog\">System Initiative</a> \u2013 <strong>The future of DevOps automation (is here!)</strong> \u2014 System Initiative is an intuitive, powerful, collaborative replacement for Infrastructure as Code (IaC). The free tier is awesome (no credit card required) and you can <a href=\"https://www.systeminit.com/?utm_source=changelog\">get started</a> in 3 clicks.\n</li>\n<li><a href=\"https://sentry.io/\">Sentry</a> \u2013 <strong>Code breaks, fix it faster.</strong> Don\u2019t just observe. Take action. Sentry is the only app monitoring platform built for developers that gets to the root cause for every issue. 100,000+ growing teams use sentry to find problems fast. Use the code <code>CHANGELOG</code> when you sign up to get $100 OFF the team plan.\n</li>\n<li><a href=\"https://bitwarden.com/secrets\">Bitwarden</a> \u2013 <strong>Secrets management for developers.</strong> Leverage trusted open source technology to securely store and manage infrastructure secrets. Bitwarden empowers developers to safely inject secrets into code and prevent costly data breaches with ease.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Lili Cosic &ndash; <a href=\"https://hachyderm.io/@lili\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/lilicosic\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/lilic\" rel=\"external ugc\">GitHub</a></li><li>Justin Garrison &ndash; <a href=\"https://twitter.com/rothgar\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/rothgar\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/justingarrison\" rel=\"external ugc\">LinkedIn</a></li><li>Autumn Nash &ndash; <a href=\"https://twitter.com/autumn808\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/autumn808\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/autumnnash\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><h4>Interview</h4>\n<ul>\n<li><a href=\"https://www.influxdata.com/blog/meet-founders-who-rewrote-in-rust\">Why InfluxDB was re-written in rust</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/shipit/ship-it-125.md\">PRs welcome!</a></p>",
                     "description": "Lili Cosic's experience at different companies & communities has given her insights into what's important & when to adapt to learn new (or old) things.",
                     "enclosure": {
@@ -65,6 +228,10 @@
                             "@role": "guest"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@shipit/113289383467413384"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",
@@ -216,6 +383,10 @@
                     "podcast:socialInteract": {
                         "@protocol": "activitypub",
                         "@uri": "https://changelog.social/@shipit/113251465541492605"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/shipit/124/transcript"
                     },
                     "psc:chapters": {
                         "@version": "1.1",
@@ -12190,14 +12361,7 @@
             ],
             "itunes:author": "Changelog Media",
             "itunes:category": {
-                "itunes:category": [
-                    {
-                        "@text": "Software How-To"
-                    },
-                    {
-                        "@text": "Tech News"
-                    }
-                ]
+                "@text": "Technology"
             },
             "itunes:explicit": "no",
             "itunes:image": {
