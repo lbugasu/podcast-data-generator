@@ -20,7 +20,7 @@
                 }
             ],
             "copyright": "All rights reserved",
-            "description": "Your weekly celebration of JavaScript and the web. Panelists include Jerod Santo, Feross Aboukhadijeh, Kevin Ball, Amelia Wattenberger, Nick Nisi, Divya Sasidharan, Mikeal Rogers,  Chris Hiller, and Amal Hussein.\n\nTopics discussed include the web platform (Chrome, Safari, Edge, Firefox, Brave, etc), front-end frameworks (React, Solid, Svelte, Vue, Angular, etc), JavaScript and TypeScript runtimes (Node, Deno, Bun), web animation, SVG, robotics, IoT, and much more. If JavaScript and/or the web touch your life, this show\u2019s for you.\n\nSome people search for JSParty and can't find the show, so now the string JSParty is in our description too.",
+            "description": "Your weekly celebration of JavaScript and the web. Current panelists: Jerod Santo, Kevin Ball (KBall), Nick Nisi, Chris Hiller, Amal Hussein & Amy Dutton.\n\nPast panelists: Suz Hinton, Feross Aboukhadijeh, Amelia Wattenberger, Divya Sasidharan, Alex Sexton, Rachel White, Emma Bostian, Ali Spittel, Mikeal Rogers & Jessica Sachs.\n\nWe talk about the web platform (Chrome, Safari, Edge, Firefox, Brave, etc), front-end frameworks (ReactJS, SolidJS, Svelte, VueJS, AngularJS, etc), JavaScript and TypeScript runtimes (Node, Deno, Bun), web animation, SVG, TailwindCSS, robotics, IoT, and much more. If JavaScript and/or the web touch your life, this show\u2019s for you.\n\nSome people search for JSParty and can't find the show, so now the string JSParty is in our description too.",
             "item": [
                 {
                     "content:encoded": "<p>KBall interviews Jerod about the tools he uses in development, podcasting &amp; business. We start with text editors &amp; terminal tools, move to podcast recording &amp; editing tools, discuss the open source podcasting platform Jerod built in Elixir, then finish with tools to run a small business &amp; our approaches to genAI. Oh, and you don\u2019t want to miss Jerod\u2019s Big Confession!</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456196-jsparty\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 5 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://jam.dev\">Jam.dev</a> \u2013 <strong>One click bug reports developers love</strong> \u2014 Never explain another bug report again. Jam auto-captures all the info engineers need to debug and repro.\n</li>\n<li><a href=\"http://notion.com/changelog\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Kevin Ball &ndash; <a href=\"https://twitter.com/kbal11\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/kball\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/kbal11\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://www.kball.llc\" rel=\"external ugc\">Website</a></li><li>Jerod Santo &ndash; <a href=\"https://changelog.social/@jerod\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/jerodsanto\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/jerodsanto\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/jerodsanto\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://jsparty.fm/278\">Nick\u2019s tool box</a></li>\n<li><a href=\"https://zed.dev/\">Zed Editor</a></li>\n<li><a href=\"https://github.com/tmux/tmux/wiki\">tmux</a></li>\n<li><a href=\"https://github.com/ivaaaan/smug\">Smug</a></li>\n<li><a href=\"http://github.com/thechangelog/changelog.com\">thechangelog/changelog.com</a></li>\n<li><a href=\"https://elixir-lang.org/\">Elixir</a></li>\n<li><a href=\"https://www.phoenixframework.org/\">Phoenix</a></li>\n<li><a href=\"https://github.com/atuinsh/atuin\">Atuin</a></li>\n<li><a href=\"https://riverside.fm\">Riverside</a></li>\n<li><a href=\"https://www.adobe.com/products/audition.html\">Adobe Audition</a></li>\n<li><a href=\"https://transistor.fm/\">Transistor</a></li>\n<li><a href=\"https://www.getharvest.com/\">Harvest</a></li>\n<li><a href=\"https://www.freshbooks.com/\">Freshbooks</a></li>\n<li><a href=\"https://gusto.com/\">Gusto</a></li>\n<li><a href=\"https://ollama.com/\">Ollama</a></li>\n<li><a href=\"https://github.com/AugustDev/enchanted\">Enchanted</a></li>\n<li><a href=\"https://www.cursor.com/\">Cursor</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/jsparty/js-party-343.md\">PRs welcome!</a></p>",
@@ -222,6 +222,10 @@
                     "podcast:socialInteract": {
                         "@protocol": "activitypub",
                         "@uri": "https://changelog.social/@jsparty/113283996896602822"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/jsparty/342/transcript"
                     },
                     "psc:chapters": {
                         "@version": "1.1",
@@ -29423,7 +29427,7 @@
                 "itunes:email": "editors@changelog.com",
                 "itunes:name": "Changelog Media"
             },
-            "itunes:summary": "Your weekly celebration of JavaScript and the web. Panelists include Jerod Santo, Feross Aboukhadijeh, Kevin Ball, Amelia Wattenberger, Nick Nisi, Divya Sasidharan, Mikeal Rogers,  Chris Hiller, and Amal Hussein.\n\nTopics discussed include the web platform (Chrome, Safari, Edge, Firefox, Brave, etc), front-end frameworks (React, Solid, Svelte, Vue, Angular, etc), JavaScript and TypeScript runtimes (Node, Deno, Bun), web animation, SVG, robotics, IoT, and much more. If JavaScript and/or the web touch your life, this show\u2019s for you.\n\nSome people search for JSParty and can't find the show, so now the string JSParty is in our description too.",
+            "itunes:summary": "Your weekly celebration of JavaScript and the web. Current panelists: Jerod Santo, Kevin Ball (KBall), Nick Nisi, Chris Hiller, Amal Hussein & Amy Dutton.\n\nPast panelists: Suz Hinton, Feross Aboukhadijeh, Amelia Wattenberger, Divya Sasidharan, Alex Sexton, Rachel White, Emma Bostian, Ali Spittel, Mikeal Rogers & Jessica Sachs.\n\nWe talk about the web platform (Chrome, Safari, Edge, Firefox, Brave, etc), front-end frameworks (ReactJS, SolidJS, Svelte, VueJS, AngularJS, etc), JavaScript and TypeScript runtimes (Node, Deno, Bun), web animation, SVG, TailwindCSS, robotics, IoT, and much more. If JavaScript and/or the web touch your life, this show\u2019s for you.\n\nSome people search for JSParty and can't find the show, so now the string JSParty is in our description too.",
             "language": "en-us",
             "link": "https://changelog.com/jsparty",
             "podcast:funding": {
@@ -29462,9 +29466,9 @@
                     "@role": "host"
                 },
                 {
-                    "#text": "Jessica Sachs",
-                    "@href": "https://changelog.com/person/jessicasachs",
-                    "@img": "https://cdn.changelog.com/uploads/avatars/people/Wol4X/avatar_large.jpg?v=63823729240",
+                    "#text": "Amy Dutton",
+                    "@href": "https://changelog.com/person/selfteachme",
+                    "@img": "https://cdn.changelog.com/uploads/avatars/people/DdQ4r/avatar_large.jpg?v=63866159922",
                     "@role": "host"
                 }
             ],

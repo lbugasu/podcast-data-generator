@@ -23,9 +23,301 @@
             "googleplay:explicit": "no",
             "googleplay:hosts": "Lulu Garcia-Navarro",
             "googleplay:image": {
-                "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
             },
             "item": [
+                {
+                    "author": "Eric Westervelt",
+                    "description": "New research from Oregon State University paints a portrait of the elusive spotted skunk living in the Pacific Northwest.",
+                    "enclosure": {
+                        "@length": "1584000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/10/20241020_wesun_little_is_known_about_the_striped_skunk_s_smellier_spotted_cousin._that_s_changing.mp3?size=1421524&d=88809&e=nx-s1-5158418"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-102841",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Eric Westervelt",
+                    "itunes:duration": "00:01:28",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Little is known about the striped skunk's smellier, spotted cousin. That's changing",
+                    "itunes:summary": "New research from Oregon State University paints a portrait of the elusive spotted skunk living in the Pacific Northwest.",
+                    "itunes:title": "Little is known about the striped skunk's smellier, spotted cousin. That's changing",
+                    "link": "https://www.kuow.org/stories/little-is-known-about-the-striped-skunk-s-smellier-spotted-cousin-that-s-changing",
+                    "pubDate": "Sun, 20 Oct 2024 05:06:04 -0700",
+                    "title": "Little is known about the striped skunk's smellier, spotted cousin. That's changing"
+                },
+                {
+                    "author": "Carrie Johnson",
+                    "description": "A new trove of letters and oral histories is shining a light on the successes and challenges of jailhouse lawyers, people in prison who help themselves and others navigate the legal system.",
+                    "enclosure": {
+                        "@length": "4662000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/10/20241020_wesun_cheat_code_to_life_jailhouse_lawyers_help_incarcerated_people_and_themselves_too.mp3?size=4151633&d=259439&e=nx-s1-5075170-e1"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-102843",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Carrie Johnson",
+                    "itunes:duration": "00:04:19",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "'Cheat Code to Life': Jailhouse lawyers help incarcerated people \u2014 and themselves, too",
+                    "itunes:summary": "A new trove of letters and oral histories is shining a light on the successes and challenges of jailhouse lawyers, people in prison who help themselves and others navigate the legal system.",
+                    "itunes:title": "'Cheat Code to Life': Jailhouse lawyers help incarcerated people \u2014 and themselves, too",
+                    "link": "https://www.kuow.org/stories/cheat-code-to-life-jailhouse-lawyers-help-incarcerated-people-and-themselves-too-c7de",
+                    "pubDate": "Sun, 20 Oct 2024 05:06:00 -0700",
+                    "title": "'Cheat Code to Life': Jailhouse lawyers help incarcerated people \u2014 and themselves, too"
+                },
+                {
+                    "author": "KUOW Staff",
+                    "description": "Arab states have mostly kept quiet over the killing of Hamas' leader by Israeli forces.",
+                    "enclosure": {
+                        "@length": "2322000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/10/20241020_wesun_what_s_behind_the_arab_states_largely_muted_reaction_to_the_killing_of_yahya_sinwar.mp3?size=2067271&d=129169&e=nx-s1-5157192"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-102845",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "KUOW Staff",
+                    "itunes:duration": "00:02:09",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "What's behind the Arab states' largely muted reaction to the killing of Yahya Sinwar",
+                    "itunes:summary": "Arab states have mostly kept quiet over the killing of Hamas' leader by Israeli forces.",
+                    "itunes:title": "What's behind the Arab states' largely muted reaction to the killing of Yahya Sinwar",
+                    "link": "https://www.kuow.org/stories/what-s-behind-the-arab-states-largely-muted-reaction-to-the-killing-of-yahya-sinwar",
+                    "pubDate": "Sun, 20 Oct 2024 05:05:57 -0700",
+                    "title": "What's behind the Arab states' largely muted reaction to the killing of Yahya Sinwar"
+                },
+                {
+                    "author": "Eric Westervelt",
+                    "description": "NPR's Eric Westervelt asks former U.S. ambassador to Israel and Egypt Daniel Kurtzer about prospects for peace in Gaza.",
+                    "enclosure": {
+                        "@length": "6300000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/10/20241020_wesun_the_road_to_peace_in_gaza_as_israel_appears_undeterred_by_u.s._warnings.mp3?size=5616162&d=350976&e=nx-s1-5157764"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-102839",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Eric Westervelt",
+                    "itunes:duration": "00:05:50",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "The road to peace in Gaza, as Israel appears undeterred by U.S. warnings",
+                    "itunes:summary": "NPR's Eric Westervelt asks former U.S. ambassador to Israel and Egypt Daniel Kurtzer about prospects for peace in Gaza.",
+                    "itunes:title": "The road to peace in Gaza, as Israel appears undeterred by U.S. warnings",
+                    "link": "https://www.kuow.org/stories/the-road-to-peace-in-gaza-as-israel-appears-undeterred-by-u-s-warnings",
+                    "pubDate": "Sun, 20 Oct 2024 05:05:53 -0700",
+                    "title": "The road to peace in Gaza, as Israel appears undeterred by U.S. warnings"
+                },
+                {
+                    "author": "Emmanuel Akinwotu",
+                    "description": "A glimpse of the efforts of the Sudanese diaspora in the US \u2014 fighting to keep the attention of the world focused on the catastrophic fallout from the war back home.",
+                    "enclosure": {
+                        "@length": "3780000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/10/20241020_wesun_in_brooklyn_the_sudanese_diaspora_bring_people_together_for_art_and_awareness.mp3?size=3370049&d=210593&e=nx-s1-5155199"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-102846",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Emmanuel Akinwotu",
+                    "itunes:duration": "00:03:30",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "In Brooklyn, the Sudanese diaspora bring people together for art and awareness",
+                    "itunes:summary": "A glimpse of the efforts of the Sudanese diaspora in the US \u2014 fighting to keep the attention of the world focused on the catastrophic fallout from the war back home.",
+                    "itunes:title": "In Brooklyn, the Sudanese diaspora bring people together for art and awareness",
+                    "link": "https://www.kuow.org/stories/in-brooklyn-the-sudanese-diaspora-bring-people-together-for-art-and-awareness",
+                    "pubDate": "Sun, 20 Oct 2024 05:05:51 -0700",
+                    "title": "In Brooklyn, the Sudanese diaspora bring people together for art and awareness"
+                },
+                {
+                    "author": "Chip Mitchell",
+                    "description": "Some researchers question the effectiveness of the ShotSpotter system and Chicago is one of the latest cities to reject the gunfire detection system.",
+                    "enclosure": {
+                        "@length": "4050000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/10/20241020_wesun_researchers_are_skeptical_of_this_gunfire_detection_system._chicago_no_longer_uses_it.mp3?size=3602853&d=225145&e=nx-s1-5131546"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-102857",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Chip Mitchell",
+                    "itunes:duration": "00:03:45",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Researchers are skeptical of this gunfire detection system. Chicago no longer uses it",
+                    "itunes:summary": "Some researchers question the effectiveness of the ShotSpotter system and Chicago is one of the latest cities to reject the gunfire detection system.",
+                    "itunes:title": "Researchers are skeptical of this gunfire detection system. Chicago no longer uses it",
+                    "link": "https://www.kuow.org/stories/researchers-are-skeptical-of-this-gunfire-detection-system-chicago-no-longer-uses-it",
+                    "pubDate": "Sun, 20 Oct 2024 05:05:47 -0700",
+                    "title": "Researchers are skeptical of this gunfire detection system. Chicago no longer uses it"
+                },
+                {
+                    "author": "Eric Westervelt",
+                    "description": "NPR's Eric Westervelt talks to Dr Richard Bates, a geophysicist, about the discovery of a hidden tomb in Jordan\u2019s ancient city of Petra.",
+                    "enclosure": {
+                        "@length": "3996000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/10/20241020_wesun_a_hidden_tomb_was_found_in_the_ancient_jordanian_city_of_petra.mp3?size=3552698&d=222011&e=nx-s1-5156095"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-102847",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Eric Westervelt",
+                    "itunes:duration": "00:03:42",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "A hidden tomb was found in the ancient Jordanian city of Petra",
+                    "itunes:summary": "NPR's Eric Westervelt talks to Dr Richard Bates, a geophysicist, about the discovery of a hidden tomb in Jordan\u2019s ancient city of Petra.",
+                    "itunes:title": "A hidden tomb was found in the ancient Jordanian city of Petra",
+                    "link": "https://www.kuow.org/stories/a-hidden-tomb-was-found-in-the-ancient-jordanian-city-of-petra",
+                    "pubDate": "Sun, 20 Oct 2024 05:05:44 -0700",
+                    "title": "A hidden tomb was found in the ancient Jordanian city of Petra"
+                },
+                {
+                    "author": "Eric Westervelt",
+                    "description": "NPR's Eric Westervelt asks Jack Herrera about the migrant workforce fueling construction in Texas. Herrera writes about it in the November issue of \"Texas Monthly.\"",
+                    "enclosure": {
+                        "@length": "6012000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/10/20241020_wesun_migrants_fuel_the_texas_construction_boom_even_as_the_state_cracks_down_on_them.mp3?size=5352430&d=334485&e=nx-s1-5156058"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-102844",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Eric Westervelt",
+                    "itunes:duration": "00:05:34",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Migrants fuel the Texas construction boom, even as the state cracks down on them",
+                    "itunes:summary": "NPR's Eric Westervelt asks Jack Herrera about the migrant workforce fueling construction in Texas. Herrera writes about it in the November issue of \"Texas Monthly.\"",
+                    "itunes:title": "Migrants fuel the Texas construction boom, even as the state cracks down on them",
+                    "link": "https://www.kuow.org/stories/migrants-fuel-the-texas-construction-boom-even-as-the-state-cracks-down-on-them",
+                    "pubDate": "Sun, 20 Oct 2024 05:05:39 -0700",
+                    "title": "Migrants fuel the Texas construction boom, even as the state cracks down on them"
+                },
+                {
+                    "author": "Eric Westervelt",
+                    "description": "NPR's Eric Westervelt speaks with Daniel Romanchuk, a leading American wheelchair racer, as he prepares for the TCS New York City Marathon Nov. 3.",
+                    "enclosure": {
+                        "@length": "4212000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/10/20241020_wesun_one_of_the_fastest_wheelchair_marathoners_in_the_world_prepares_for_his_next_challenge.mp3?size=3753318&d=234544&e=nx-s1-5155992"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-102842",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Eric Westervelt",
+                    "itunes:duration": "00:03:54",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "One of the fastest wheelchair marathoners in the world prepares for his next challenge",
+                    "itunes:summary": "NPR's Eric Westervelt speaks with Daniel Romanchuk, a leading American wheelchair racer, as he prepares for the TCS New York City Marathon Nov. 3.",
+                    "itunes:title": "One of the fastest wheelchair marathoners in the world prepares for his next challenge",
+                    "link": "https://www.kuow.org/stories/one-of-the-fastest-wheelchair-marathoners-in-the-world-prepares-for-his-next-challenge",
+                    "pubDate": "Sun, 20 Oct 2024 05:05:36 -0700",
+                    "title": "One of the fastest wheelchair marathoners in the world prepares for his next challenge"
+                },
+                {
+                    "author": "Eric Westervelt",
+                    "description": "Political analyst Carlos Bravo Regidor tells NPR's Eric Westervelt about Mexican Pres. Claudia Sheinbaum's policies toward drug cartels and criminal gangs.",
+                    "enclosure": {
+                        "@length": "5760000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/10/20241020_wesun_mexican_president_claudia_sheinbaum_outlines_her_plan_to_tackle_cartel_violence.mp3?size=5133001&d=320758&e=nx-s1-5154850"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-102840",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Eric Westervelt",
+                    "itunes:duration": "00:05:20",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Mexican President Claudia Sheinbaum outlines her plan to tackle cartel violence",
+                    "itunes:summary": "Political analyst Carlos Bravo Regidor tells NPR's Eric Westervelt about Mexican Pres. Claudia Sheinbaum's policies toward drug cartels and criminal gangs.",
+                    "itunes:title": "Mexican President Claudia Sheinbaum outlines her plan to tackle cartel violence",
+                    "link": "https://www.kuow.org/stories/mexican-president-claudia-sheinbaum-outlines-her-plan-to-tackle-cartel-violence",
+                    "pubDate": "Sun, 20 Oct 2024 05:05:33 -0700",
+                    "title": "Mexican President Claudia Sheinbaum outlines her plan to tackle cartel violence"
+                },
+                {
+                    "author": [
+                        "Eric Westervelt",
+                        "Mara Liasson"
+                    ],
+                    "description": "With just over two weeks until Election Day and voters casting ballots now, Kamala Harris and Donald Trump are making their closing arguments.",
+                    "enclosure": {
+                        "@length": "5760000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/10/20241020_wesun_politics_chat_trump_s_erratic_rallies_continue_harris_relies_on_endorsements.mp3?size=5132583&d=320741&e=nx-s1-5154771"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-102838",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Eric Westervelt",
+                        "Mara Liasson"
+                    ],
+                    "itunes:duration": "00:05:20",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Politics chat: Trump's erratic rallies continue, Harris relies on endorsements",
+                    "itunes:summary": "With just over two weeks until Election Day and voters casting ballots now, Kamala Harris and Donald Trump are making their closing arguments.",
+                    "itunes:title": "Politics chat: Trump's erratic rallies continue, Harris relies on endorsements",
+                    "link": "https://www.kuow.org/stories/politics-chat-trump-s-erratic-rallies-continue-harris-relies-on-endorsements",
+                    "pubDate": "Sun, 20 Oct 2024 05:05:29 -0700",
+                    "title": "Politics chat: Trump's erratic rallies continue, Harris relies on endorsements"
+                },
                 {
                     "author": "Ayesha Rascoe",
                     "description": "NPR's Ayesha Rascoe speaks to Mehran Haghirian of the U.K.-based Bourse &amp; Bazaar Foundation about how Gulf Arab states might respond to a larger conflict between Iran and Israel.",
@@ -43,7 +335,7 @@
                     "itunes:duration": "00:05:11",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "How Gulf states might respond to a larger conflict between Iran and Israel",
                     "itunes:summary": "NPR's Ayesha Rascoe speaks to Mehran Haghirian of the U.K.-based Bourse &amp; Bazaar Foundation about how Gulf Arab states might respond to a larger conflict between Iran and Israel.",
@@ -69,7 +361,7 @@
                     "itunes:duration": "00:01:34",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "A cautionary tale about feeding the raccoons",
                     "itunes:summary": "A woman in Kitsap County, Washington found out what can happen when you feed raccoons.",
@@ -101,7 +393,7 @@
                     "itunes:duration": "00:03:59",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "TikTok has known about how the app can harm teens and preteens, new documents show",
                     "itunes:summary": "New internal documents reveal that TikTok has known about the app's potential dangers to teenagers and pre-teens.",
@@ -133,7 +425,7 @@
                     "itunes:duration": "00:05:13",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Politics chat: Trump, Harris target battleground states and undecided voters",
                     "itunes:summary": "We take a look at what Vice President Kamala Harris and former president Donald Trump are doing to reach voters in battleground states and in demographics that have not been favoring them so far.",
@@ -159,7 +451,7 @@
                     "itunes:duration": "00:05:09",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Hurricane Milton could have an impact on Florida in the long term",
                     "itunes:summary": "NPR\u2019s Ayesha Rascoe talks to Colin Polsky, a professor of geosciences at Florida Atlantic University, about how Hurricane Milton is raising critical questions about the future of the sunshine state.",
@@ -191,7 +483,7 @@
                     "itunes:duration": "00:04:19",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "It's Spirit Halloween season. How does the retailer stay afloat year-round?",
                     "itunes:summary": "Spirit Halloween has been a fixture in the seasonal market, with its huge seasonal presence and pop-up stores. We'll take a look at the operation and its move into the Christmas market.",
@@ -217,7 +509,7 @@
                     "itunes:duration": "00:05:28",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Misinformation and conspiracy theories about Hurricane Helene are spreading online",
                     "itunes:summary": "NPR's Ayesha Rascoe speaks with North Carolina Congressman Chuck Edwards, who has tried to debunk what he called \"outlandish rumors\" about Hurricane Helene recovery efforts.",
@@ -249,7 +541,7 @@
                     "itunes:duration": "00:03:56",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Why mortgage rates have gone up, and when they might settle",
                     "itunes:summary": "Mortgage rates have inched higher recently, after falling for several weeks. We take a look at the economic factors that affect rates, and where they might settle in the future.",
@@ -275,7 +567,7 @@
                     "itunes:duration": "00:05:45",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "A new PBS series shows the history of Muslims in America",
                     "itunes:summary": "NPR's Ayesha Rascoe speaks with NPR White House correspondent Asma Khalid about \"American Muslims,\" a new PBS series she hosts.",
@@ -301,7 +593,7 @@
                     "itunes:duration": "00:05:08",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Election officials in battleground states are fighting threats and intimidation",
                     "itunes:summary": "Facing threats and misinformation, election officials are under intense pressure this fall. NPR's Ayesha Rascoe speaks with Justin Roebuck, who oversees elections in Ottawa County, Michigan.",
@@ -327,7 +619,7 @@
                     "itunes:duration": "00:03:02",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Voices from the week that was, on the campaign trail",
                     "itunes:summary": "Vice President Kamala Harris' media blitz, former President Donald Trump responds to reporting that he kept in touch with Russian President Vladimir Putin: The week that was on the campaign trail.",
@@ -353,7 +645,7 @@
                     "itunes:duration": "00:05:57",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "What a military response from Iran to Israeli attacks in Lebanon would look like",
                     "itunes:summary": "NPR's Ayesha Rascoe speaks to author and visiting fellow at Boston University, Arash Azizi about how Iran might respond to a direct attack from Israel.",
@@ -379,7 +671,7 @@
                     "itunes:duration": "00:03:50",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Democracy may be at stake in Tunisia's presidential election",
                     "itunes:summary": "Could this weekend's election in Tunisia sound the death knell for democracy in its third presidential election since the Arab spring?",
@@ -405,7 +697,7 @@
                     "itunes:duration": "00:04:45",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "In north Lebanon, those fleeing Israeli strikes say they have no safe place to go",
                     "itunes:summary": "We look at the uptick in fighting between Israel and Hezbollah in Lebanon after and overnight Israeli strike in Beirut.",
@@ -437,7 +729,7 @@
                     "itunes:duration": "00:04:07",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Where the conflict stands, a year after the Hamas attacks in Israel",
                     "itunes:summary": "It's been almost a year since Hamas attacked Israel on Oct. 7th. We look at how that conflict has grown.",
@@ -463,7 +755,7 @@
                     "itunes:duration": "00:05:10",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "What's on the Supreme Court's agenda ahead of the new term",
                     "itunes:summary": "NPR's Ayesha Rascoe previews the upcoming Supreme Court term with reporter Amy Howe of SCOTUSblog.",
@@ -489,7 +781,7 @@
                     "itunes:duration": "00:03:54",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "How eastern US forests look almost a century after chestnut trees started disappearing",
                     "itunes:summary": "Chestnut trees began disappearing from eastern deciduous forests in the U.S. almost a century ago due to a nasty fungus. That has contributed to a vastly different eastern forest landscape today.",
@@ -515,7 +807,7 @@
                     "itunes:duration": "00:06:33",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "After Congress let the child tax credit expire, some communities are filling the gap",
                     "itunes:summary": "The child tax credit passed by Congress at the height of the pandemic has expired, but states and other local jurisdictions are trying to step in to fill the gap with their own programs and funding.",
@@ -547,7 +839,7 @@
                     "itunes:duration": "00:04:01",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Politics chat: Is the U.S. at risk of getting drawn into war in the Middle East?",
                     "itunes:summary": "We look at how the possibility of the U.S. getting drawn into a wider conflict in the Middle East could affect the presidential race, as well as how the candidates are doing in swing states.",
@@ -573,7 +865,7 @@
                     "itunes:duration": "00:05:13",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "A kibbutz resident displaced on October 7 reflects on his life a year later",
                     "itunes:summary": "NPR's Ayesha Rascoe talks with an Israeli displaced in the wake of the Oct. 7 Hamas attacks. Guy Becker discusses how life in Israel has changed over the last year.",
@@ -599,7 +891,7 @@
                     "itunes:duration": "00:04:43",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "How to preserve your personal mementos in a natural disaster",
                     "itunes:summary": "NPR's Ayesha Rascoe talks with Jennifer Waxman, archivist at Tulane University, about the steps people can take to preserve their personal collections from natural disasters.",
@@ -625,7 +917,7 @@
                     "itunes:duration": "00:06:14",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/8945b2207edc2e3e8ba56564c4f26b3c.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/30e3ec2d7f7500013470c535b5889ead.png?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Sunday Puzzle: drugstore scramble",
                     "itunes:summary": "NPR's Ayesha Rascoe plays the puzzle with Puzzlemaster Will Shortz and Northwest Public Broadcasting listener Midge Komenda of Lacey, Washington.",
@@ -657,7 +949,7 @@
                     "itunes:duration": "00:03:58",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Israel braces for potential retaliation, Lebanon prepares for possible invasion",
                     "itunes:summary": "In Haifa in northern Israel, people wonder if Israel is preparing a ground invasion of Lebanon.",
@@ -689,7 +981,7 @@
                     "itunes:duration": "00:04:09",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "In south Florida, residents are reeling from the effects of Hurricane Helene",
                     "itunes:summary": "The scope of the damage Hurricane Helena caused is still not totally clear.",
@@ -715,7 +1007,7 @@
                     "itunes:duration": "00:04:48",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "FEMA administrator addresses the damage done by Hurricane Helene",
                     "itunes:summary": "NPR's Ayesha Rascoe asks FEMA Administrator Deanne Criswell how the agency is helping local communities recover from Hurricane Helene.",
@@ -741,7 +1033,7 @@
                     "itunes:duration": "00:06:13",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Understanding Israel's strategy in Lebanon as it amasses troops along the border",
                     "itunes:summary": "NPR's Ayesha Rascoe asks Nimrod Novik, an Israeli security expert, about Israeli attacks on Lebanon.",
@@ -767,7 +1059,7 @@
                     "itunes:duration": "00:03:52",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Israel's killing of Hezbollah leader sparks mixed reactions across the Middle East",
                     "itunes:summary": "Israel's assassination of Hezbollah leader Hassan Nasrallah is being met with both rage and celebration.",
@@ -801,7 +1093,7 @@
                     "itunes:duration": "00:04:07",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Immigration will likely be a focus at Tuesday's VP debate",
                     "itunes:summary": "Immigration, one of the biggest issues of the presidential election, will likely be highlighted in the vice presidential debate on Tuesday.",
@@ -833,7 +1125,7 @@
                     "itunes:duration": "00:03:55",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Trump and Walz take politics to the football field with respective visits",
                     "itunes:summary": "In both Ann Arbor and Tuscaloosa this weekend, members of the presidential tickets took politics to college football games.",
@@ -859,7 +1151,7 @@
                     "itunes:duration": "00:02:19",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Scientists have developed a new way to stop a dangerous asteroid from hitting Earth",
                     "itunes:summary": "Nathan Moore of the Sandia National Laboratories details a possible new method to stop a dangerous asteroid from hitting the earth: a burst of X-rays from a nuclear explosion.",
@@ -885,7 +1177,7 @@
                     "itunes:duration": "00:05:57",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/f669ac95b22a3886c26e178127e042a7.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/93c1d2be9d21c0df4a28831b8d86805a?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Sunday Puzzle: \"GP\" naming spree",
                     "itunes:summary": "NPR's Ayesha Racsoe plays the puzzle with Puzzlemaster Will Shortz and KNPR listener Lisa Rock of Las Vegas, Nev.",
@@ -921,7 +1213,7 @@
                     "itunes:duration": "00:11:13",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/592fa488d1ad4f11ac6460d090e3b24d.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/bcba61b29e5f438cf77e31006359f9ac?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "In one key swing state, both parties are courting Black men",
                     "itunes:summary": "With North Carolina now a toss-up this presidential election, both parties are making appeals to Black men. An older farmer and a younger restaurant owner share what's driving their votes.",
@@ -947,7 +1239,7 @@
                     "itunes:duration": "00:03:53",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Workers and businesses brace for further economic hardship from Boeing strike",
                     "itunes:summary": "More than 30,000 Boeing employees have been on strike for more than a week. Boeing's home state of Washington \u2014 and beyond \u2014 are feeling the strike's economic effects.",
@@ -979,7 +1271,7 @@
                     "itunes:duration": "00:03:29",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Shooting in Birmingham, Ala., leaves at least 4 dead, dozens injured",
                     "itunes:summary": "NPR's Ayesha Rascoe hears the latest on the shooting from Gulf States Newsroom reporter Drew Hawkins.",
@@ -1011,7 +1303,7 @@
                     "itunes:duration": "00:03:32",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "After almost a year of war, Israel-Lebanon border fighting sees major escalation",
                     "itunes:summary": "Rocket fire and airstrikes across the Israeli-Lebanon border are producing the most significant uptick of violence there since last year's Oct. 7 attacks.",
@@ -1043,7 +1335,7 @@
                     "itunes:duration": "00:03:57",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Sony unveils PS5 Pro gaming console. Is it worth the $700 price tag?",
                     "itunes:summary": "NPR's Ayesha Rascoe talks with NPR Gaming lead James Mastromarino about the new PS5 and what the next generation of consoles says about the industry.",
@@ -1075,7 +1367,7 @@
                     "itunes:duration": "00:07:06",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Politics chat: Will lawmakers OK a bill to fund the government?",
                     "itunes:summary": "NPR's Ayesha Rascoe discusses the week ahead in politics with NPR's senior political editor and correspondent Domenico Montanaro.",
@@ -1101,7 +1393,7 @@
                     "itunes:duration": "00:05:05",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Fact-checking former President Trump's promise to cut U.S. energy costs",
                     "itunes:summary": "Former President Trump has vowed to tackle inflation by slashing energy costs by 50% if reelected. NPR's Ayesha Rascoe speaks with energy analyst Patrick De Haan about energy regulation's role as an election issue.",
@@ -1127,7 +1419,7 @@
                     "itunes:duration": "00:04:14",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Ashley Henry wants 'Take It Higher' to help you find your inner confidence",
                     "itunes:summary": "The British and Jamaican jazz pianist reflects on his long journey to becoming a musician confident in his voice and abilities.",
@@ -1153,7 +1445,7 @@
                     "itunes:duration": "00:06:55",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Director Coralie Fargeat on her new horror movie 'The Substance'",
                     "itunes:summary": "Demi Moore stars in the film about an aging actress who takes a black market drug to create a younger version of herself.",
@@ -1179,7 +1471,7 @@
                     "itunes:duration": "00:05:51",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/39d80b975e07fef8c332e962aaa3fb69.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/e4d88b1a86f44530c2ccdea98d5476d5.png?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Sunday Puzzle:  Two letters are all you need",
                     "itunes:summary": "NPR's Ayesha Rascoe plays the puzzle with WLRN listener Ann Kritzer of Coral Springs, Fla., and Puzzlemaster Will Shortz.",
@@ -1213,7 +1505,7 @@
                     "itunes:duration": "00:06:43",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Rapper Eve chronicles her hip-hop career in new book",
                     "itunes:summary": "NPR's Ayesha Rascoe speaks with rapper and actor Eve about her new book, \"Who's That Girl.\" The memoir dishes on Eve's rise in the hip-hop world.",
@@ -1239,7 +1531,7 @@
                     "itunes:duration": "00:03:56",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Effective treatment for stimulant addiction can be hard to find",
                     "itunes:summary": "There's an urgent need for treatment to help people addicted to cocaine and meth. One approach has decades of research showing it works but it's hard to find.",
@@ -1265,7 +1557,7 @@
                     "itunes:duration": "00:05:19",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Gang rape trial draws thousands of demonstrators in France",
                     "itunes:summary": "In France, thousands demonstrated in support of a woman whose ex-husband is on trial for drugging her and recruiting other men to sexually assault her.",
@@ -1291,7 +1583,7 @@
                     "itunes:duration": "00:02:51",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "After false claims spread online, Ohio Haitians speak out",
                     "itunes:summary": "IN recent days, there have been bomb threats in Springfield, Ohio after the spread of false claims  on line and by politicians that vilify Haitians in the city.  Many Haitians say they feel unsafe and they gathered to speak out during a virtual conversation.",
@@ -1317,7 +1609,7 @@
                     "itunes:duration": "00:03:56",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Some Wisconsin GOP Voters are backing Harris",
                     "itunes:summary": "In Wisconsin, some conservative voters voice their discontent with Republican nominee Donald Trump.",
@@ -1343,7 +1635,7 @@
                     "itunes:duration": "00:05:19",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "How the gun lobby has influenced the 2024 election",
                     "itunes:summary": "NPR's Ayesha Rascoe talks with journalist Stephen Gutowski of The Reload about the NRA and the influence of the gun lobby this election.",
@@ -1375,7 +1667,7 @@
                     "itunes:duration": "00:03:41",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Politics chat: Biden to host foreign leaders, Congress stalls on government funding",
                     "itunes:summary": "As the candidates vie for the Oval Office, President Biden continues working and Congress stalls on funding the government.",
@@ -1409,7 +1701,7 @@
                     "itunes:duration": "00:05:23",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Abortion opponents seek to block state amendments",
                     "itunes:summary": "In more than half the states where abortion rights are expected on the ballot in 2024, there are efforts to stop those amendments before they make it to voters this November.",
@@ -1441,7 +1733,7 @@
                     "itunes:duration": "00:04:31",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "A year after UAW strike, autoworkers still worry about their future",
                     "itunes:summary": "A year ago today, Big 3 autoworkers walked off the job to fight for better wages and benefits. Now a year later, autoworkers remain concerned about the future of their industry.",
@@ -1475,7 +1767,7 @@
                     "itunes:duration": "00:05:39",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Alt.Latino celebrates Latino Heritage Month with a Tiny Desk takeover",
                     "itunes:summary": "NPR's Alt.Latino takes over the Tiny Desk concerts for the next four weeks in celebration of Latino Heritage Month.",
@@ -1501,7 +1793,7 @@
                     "itunes:duration": "00:04:15",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "The Biden administration is under pressure to reach a ceasefire deal",
                     "itunes:summary": "President Biden has been talking about a ceasefire deal for Gaza all summer long. It's an important but elusive goal for his legacy, and for Vice President Harris' campaign, too.",
@@ -1533,7 +1825,7 @@
                     "itunes:duration": "00:04:03",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Venezuelan opposition leader Edmundo Gonz\u00e1lez has fled the country",
                     "itunes:summary": "Venezuelan opposition leader Edmundo Gonz\u00e1lez widely recognized as the winner of July\u2019s presidential election has fled the country for exile.",
@@ -1559,7 +1851,7 @@
                     "itunes:duration": "00:04:56",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Conservative political commentator Charlie Sykes says the race could go either way",
                     "itunes:summary": "NPR's Ayesha Rascoe asks conservative pundit Charlie Sykes about the state of the presidential race and where he thinks it is headed.",
@@ -1585,7 +1877,7 @@
                     "itunes:duration": "00:05:50",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/e850bd0d9296a99b84068bb28f581d0b.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/70efebf76f5b3d9495989a7440415850.png?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Sunday Puzzle:  Antonyms Attract",
                     "itunes:summary": "NPR's Ayesha Rascoe plays the puzzle with this week's winner, DJ Boyd of Northville, Michigan, and puzzle master Will Shortz.",
@@ -1611,7 +1903,7 @@
                     "itunes:duration": "00:04:15",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Mother of 14-year-old charged in Georgia shooting had warned school",
                     "itunes:summary": "The mother of the 14-year-old charged with killing four people at a Georgia high school reportedly called the school before the shootings, warning of an extreme emergency involving her son.",
@@ -1643,7 +1935,7 @@
                     "itunes:duration": "00:02:49",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Scientists may have found a new to see inside the body \u2014 and it involves Dorito's",
                     "itunes:summary": "A new study from Stanford University scientists may point to a delicious new way to see inside the body. NPR's Ayesha Rascoe tells us about the connection between Doritos and medical imaging.",
@@ -1669,7 +1961,7 @@
                     "itunes:duration": "00:06:20",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "On the ground in Sudan, an 'apocalyptic' situation",
                     "itunes:summary": "Fighting in and around Sudan's capital is fierce and devastating to the people who either cannot flee or feel compelled to stay.",
@@ -1701,7 +1993,7 @@
                     "itunes:duration": "00:04:13",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Congress will restart negotiations to update a farm bill that impacts SNAP",
                     "itunes:summary": "Restarting stalled negotiations on a new farm bill is on the Congressional agenda when lawmakers return to Washington Monday.",
@@ -1733,7 +2025,7 @@
                     "itunes:duration": "00:05:04",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "The worst songs ever, according to NPR listeners",
                     "itunes:summary": "Listeners Jennifer Orton, Cameron McPhee, Mikyla Veis, Byron Whitney, Rob Cosgrove and Christine Roberts share their picks for songs they just can't bear to hear.",
@@ -1759,7 +2051,7 @@
                     "itunes:duration": "00:03:11",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Brazilian musician and bossa nova legend Sergio Mendes dies at 83",
                     "itunes:summary": "Brazilian musician, Sergio Mendes, who popularised bossa nova, has died at the age of 83.",
@@ -1791,7 +2083,7 @@
                     "itunes:duration": "00:04:23",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Politics chat: Harris-Trump to debate, Congress back in session",
                     "itunes:summary": "Kamala Harris and Donald Trump say they are preparing for Tuesday's debate in starkly different ways. Also Congress returns from break to unfinished business.",
@@ -1817,7 +2109,7 @@
                     "itunes:duration": "00:02:21",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Kids reflect on the start of a new school year",
                     "itunes:summary": "As students around the country return to classrooms, Emmet Friend of Chicago, Maria Guillan of Orlando, Fla., and Alice Trithart of Potsdam, N.Y., share their back-to-school feelings.",
@@ -1843,7 +2135,7 @@
                     "itunes:duration": "00:04:04",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "The family of an American hostage still being held captive by Hamas speaks out",
                     "itunes:summary": "NPR's Ayesha Rascoe speaks to Jonathan Dekel-Chen about his son, Sagui. He's an American, taken on Oct. 7, and still being held hostage in Gaza.",
@@ -1875,7 +2167,7 @@
                     "itunes:duration": "00:04:36",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Israeli security forces recovered bodies of 6 hostages, including an Israeli-American",
                     "itunes:summary": "The bodies of six hostages were returned to Israel. Security cabinet members and members of the public in Israel are responding.",
@@ -1901,7 +2193,7 @@
                     "itunes:duration": "00:04:09",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Art exhibition aims to reframe Texas border city's image beyond immigration battle",
                     "itunes:summary": "Eagle Pass, Texas, has been center stage in a border conflict between federal authorities and the state. A new art exhibition aims to reframe the city's image. (Story first aired on Morning Edition.)",
@@ -1933,7 +2225,7 @@
                     "itunes:duration": "00:03:13",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Report finds many issues at the Boar's Head meat factory that led to a lysteria outbreak",
                     "itunes:summary": "We follow up on one of the big stories of recent days: the listeria outbreak. Inspection reports show myriad problems at the Boar's Head deli meat factory where the outbreak originated.",
@@ -1965,7 +2257,7 @@
                     "itunes:duration": "00:03:36",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Yellowstone National Park wants to grow its bison herd. Montana is threatening to sue",
                     "itunes:summary": "Every year, millions of visitors come to Yellowstone National Park to see bison roam free. The Park says there's room for more \u2014 but the neighboring state of Montana is threatening to sue.",
@@ -1991,7 +2283,7 @@
                     "itunes:duration": "00:02:33",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Drug makers including Pfizer are starting to sell drugs directly to consumers",
                     "itunes:summary": "Some drugmakers are getting into the telehealth business in a move that might allow them to sell drugs directly to patients.",
@@ -2017,7 +2309,7 @@
                     "itunes:duration": "00:06:08",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Sunday Puzzle: Three of a kind",
                     "itunes:summary": "NPR's Ayesha Rascoe plays the puzzle with this week's winner, Franny Bavaro of Long Island, New York, and puzzle master Will Shortz.",
@@ -2043,7 +2335,7 @@
                     "itunes:duration": "00:04:31",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "The election likely depends by a narrow slice of the electorate: undecided voters",
                     "itunes:summary": "NPR's Ayesha Rascoe talks with UCLA political scientist Lynn Vavreck about the small but significant swath of the electorate both campaigns are trying to reach: voters who are truly undecided.",
@@ -2069,7 +2361,7 @@
                     "itunes:duration": "00:04:56",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "College football is going through major changes, and fans and athletes have thoughts",
                     "itunes:summary": "College football looks a lot different than it did last season. NPR's Ayesha Rascoe talks to Holly Anderson co-host of the Shutdown Fullcast about all the changes.",
@@ -2095,7 +2387,7 @@
                     "itunes:duration": "00:04:47",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "College students are back on campus and continuing their calls for divestment from war",
                     "itunes:summary": "As college students return to class, there are renewed calls, over the war in Gaza, for divestment. NPR's Ayesha Rascoe talks to Todd Ely, of the University of Colorado Denver, about divestment.",
@@ -2121,7 +2413,7 @@
                     "itunes:duration": "00:04:10",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Republicans' false claims of illegal voting for Democrats are hurting some citizens",
                     "itunes:summary": "False and unproven claims have been circulating for months about noncitizens voting in the next election. Now the rhetoric is having consequences.",
@@ -2147,7 +2439,7 @@
                     "itunes:duration": "00:06:07",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/8a854c866bd0404692c06c9d3f290705.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/75923a27c66637c44ac66437cb7f14fc.png?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Sunday Puzzle: Two of the same",
                     "itunes:summary": "NPR's Ayesha Rascoe plays the puzzle with this week's winner Dan Robinson from Washington, DC and puzzle master Will Shortz.",
@@ -2173,7 +2465,7 @@
                     "itunes:duration": "00:04:00",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Luna Li on her new album 'When a Thought Grows Wings'",
                     "itunes:summary": "Flute solos, jazz harp, and \"baroque pop\" sounds abound on Luna Li's new album, \"When a Thought Grows Wings.\" She says the project explores how ideas \"take flight and become tangible.\"",
@@ -2199,7 +2491,7 @@
                     "itunes:duration": "00:01:20",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "A Massachusetts woman unexpectedly gave birth at an unlikely place in Cape Cod",
                     "itunes:summary": "A Massachusetts woman gave birth in traffic this month, then cut the umbilical cord in the most New England of places: a Dunkin' parking lot.",
@@ -2233,7 +2525,7 @@
                     "itunes:duration": "00:03:23",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Israel attacks southern Lebanon, Hezbollah returns fire as ceasefire talks go on",
                     "itunes:summary": "Israel struck targets in southern Lebanon in what they say was a pre-emptive strike. Hezbollah returned fire. The increase in cross-border exchanges happens just as ceasefire talks resume.",
@@ -2259,7 +2551,7 @@
                     "itunes:duration": "00:04:54",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "As Israel blocks most medical evacuations in Gaza, a family tries to save their baby",
                     "itunes:summary": "One family in Gaza struggles to save their severely ill baby daughter amidst evacuation orders by Israel\u2019s military.",
@@ -2285,7 +2577,7 @@
                     "itunes:duration": "00:02:27",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Google will pay California's local news outlets $110 million. Some say it's not enough",
                     "itunes:summary": "Google reaches a deal to fund local journalism in California. The state was working on legislation to force the tech giant to pay a portion of advertising profits to its struggling news industry.",
@@ -2317,7 +2609,7 @@
                     "itunes:duration": "00:04:52",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Politics chat: Is Democratic enthusiasm at 2008 levels? And, JD Vance struggles",
                     "itunes:summary": "Democratic enthusiasm is high out of the DNC, but how does it really compare to 2008? Robert F. Kennedy, Jr. endorses the Trump campaign as Trump's running mate seems to struggle.",
@@ -2349,7 +2641,7 @@
                     "itunes:duration": "00:04:00",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Anti-trust lawsuit involving the two biggest grocery retailers starts Monday",
                     "itunes:summary": "A proposed merger of two grocery giants, Albertsons and Kroger, goes to court tomorrow in a case that could have big implications for consumers.",
@@ -2375,7 +2667,7 @@
                     "itunes:duration": "00:03:39",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "The Midwest pizza rivalry has a winner, for now",
                     "itunes:summary": "NPR's Ayesha Rascoe speaks with Loui's Pizza owner, Nyk Sulkiwskyj, the newly ranked best pizza in the Midwest.",
@@ -2401,7 +2693,7 @@
                     "itunes:duration": "00:08:33",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "A documentary investigates deaths of indigenous children at Canadian boarding schools",
                     "itunes:summary": "NPR's David Folkenflik speaks with Emily Kassie and Julian Brave NoiseCat about their new documentary, \"Sugarcane,\" about Indian residential schools in Canada.",
@@ -2427,7 +2719,7 @@
                     "itunes:duration": "00:05:15",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Where the law stands 30 years after a woman sued McDonald's for spilling hot coffee",
                     "itunes:summary": "NPR's David Folkenflik talks with Catherine Sharkey about the 30th anniversary of the McDonald's hot coffee lawsuit decision and its legacy.",
@@ -2453,7 +2745,7 @@
                     "itunes:duration": "00:02:15",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Harris and Trump zero in on the economy in campaign speeches",
                     "itunes:summary": "The economy was a major theme last week for both presidential campaigns. We hear some of what was said.",
@@ -2479,7 +2771,7 @@
                     "itunes:duration": "00:07:58",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "Comic novel 'How to Leave The House' follows a young man on a day-long hero's quest",
                     "itunes:summary": "NPR's David Folkenflik talks with British author Nathan Newman about their novel, \"How to Leave The House.\" It covers a day-in-the life of a young adult who's finally moving out of his mom's house.",
@@ -2505,7 +2797,7 @@
                     "itunes:duration": "00:03:50",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "The Harris-Walz campaign is confusing grammar nerds everywhere",
                     "itunes:summary": "What's the rule for making a name ending in 's' possessive, or plural possessive? NPR's David Folkenflik talks with grammarian Ellen Jovin, who's watched the confusion over the Harris-Walz ticket.",
@@ -2531,7 +2823,7 @@
                     "itunes:duration": "00:06:02",
                     "itunes:explicit": "false",
                     "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
                     },
                     "itunes:subtitle": "How Biden's debate performance snowballed into Harris becoming the new candidate",
                     "itunes:summary": "NPR's David Folkenflik speaks with Wall Street Journal reporter Annie Linskey about how the White House and press have handled President Biden's capabilities related to his age.",
@@ -2539,310 +2831,6 @@
                     "link": "https://www.kuow.org/stories/how-biden-s-debate-performance-snowballed-into-harris-becoming-the-new-candidate",
                     "pubDate": "Sun, 18 Aug 2024 05:18:16 -0700",
                     "title": "How Biden's debate performance snowballed into Harris becoming the new candidate"
-                },
-                {
-                    "author": "David Folkenflik",
-                    "description": "NPR\u2019s David Folkenflik speaks to strategic studies professor Phillips O\u2019Brien of the University of St. Andrews in Scotland about the significance of Ukraine\u2019s  military incursion into Russia.",
-                    "enclosure": {
-                        "@length": "4518000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/08/20240818_wesun_ukraine_s_incursion_into_russia_may_have_changed_the_course_of_the_war.mp3?size=4027499&d=251685&e=nx-s1-5075188"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-99499",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "David Folkenflik",
-                    "itunes:duration": "00:04:11",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
-                    },
-                    "itunes:subtitle": "Ukraine's incursion into Russia may have changed the course of the war",
-                    "itunes:summary": "NPR\u2019s David Folkenflik speaks to strategic studies professor Phillips O\u2019Brien of the University of St. Andrews in Scotland about the significance of Ukraine\u2019s  military incursion into Russia.",
-                    "itunes:title": "Ukraine's incursion into Russia may have changed the course of the war",
-                    "link": "https://www.kuow.org/stories/ukraine-s-incursion-into-russia-may-have-changed-the-course-of-the-war",
-                    "pubDate": "Sun, 18 Aug 2024 05:17:57 -0700",
-                    "title": "Ukraine's incursion into Russia may have changed the course of the war"
-                },
-                {
-                    "author": "Sarah McCammon",
-                    "description": null,
-                    "enclosure": {
-                        "@length": "6138000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/08/20240818_wesun_as_democrats_meet_in_chicago_illinois_role_in_abortion_access_is_in_the_spotlight.mp3?size=5456920&d=341017&e=nx-s1-5058669"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-99500",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Sarah McCammon",
-                    "itunes:duration": "00:05:41",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
-                    },
-                    "itunes:subtitle": "As Democrats meet in Chicago, Illinois' role in abortion access is in the spotlight",
-                    "itunes:summary": null,
-                    "itunes:title": "As Democrats meet in Chicago, Illinois' role in abortion access is in the spotlight",
-                    "link": "https://www.kuow.org/stories/as-democrats-meet-in-chicago-illinois-role-in-abortion-access-is-in-the-spotlight",
-                    "pubDate": "Sun, 18 Aug 2024 05:17:31 -0700",
-                    "title": "As Democrats meet in Chicago, Illinois' role in abortion access is in the spotlight"
-                },
-                {
-                    "author": [
-                        "David Folkenflik",
-                        "Asma Khalid"
-                    ],
-                    "description": "After a whirlwind four weeks, Democrats gather in Chicago at the DNC to rally around the new Harris-Walz ticket.",
-                    "enclosure": {
-                        "@length": "5130000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/08/20240818_wesun_politics_chat_the_harris-walz_campaign_is_gearing_up_for_the_dnc.mp3?size=4566249&d=285336&e=nx-s1-5074917"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-99509",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "David Folkenflik",
-                        "Asma Khalid"
-                    ],
-                    "itunes:duration": "00:04:45",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
-                    },
-                    "itunes:subtitle": "Politics chat: The Harris-Walz campaign is gearing up for the DNC",
-                    "itunes:summary": "After a whirlwind four weeks, Democrats gather in Chicago at the DNC to rally around the new Harris-Walz ticket.",
-                    "itunes:title": "Politics chat: The Harris-Walz campaign is gearing up for the DNC",
-                    "link": "https://www.kuow.org/stories/politics-chat-the-harris-walz-campaign-is-gearing-up-for-the-dnc",
-                    "pubDate": "Sun, 18 Aug 2024 05:14:41 -0700",
-                    "title": "Politics chat: The Harris-Walz campaign is gearing up for the DNC"
-                },
-                {
-                    "author": "KUOW Staff",
-                    "description": "Some Appalachian writers are keen to counter Senator JD Vance's representation of their region in his memoir, \"Hillbilly Elegy,\" which is back on the bestseller list.",
-                    "enclosure": {
-                        "@length": "2682000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/08/20240818_wesun_appalachian_authors_are_coming_together_to_counter_the_narrative_in_jd_vance_s_book.mp3?size=2389935&d=149319&e=nx-s1-5065643"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-99501",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "KUOW Staff",
-                    "itunes:duration": "00:02:29",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
-                    },
-                    "itunes:subtitle": "Appalachian authors are coming together to counter the narrative in JD Vance's book",
-                    "itunes:summary": "Some Appalachian writers are keen to counter Senator JD Vance's representation of their region in his memoir, \"Hillbilly Elegy,\" which is back on the bestseller list.",
-                    "itunes:title": "Appalachian authors are coming together to counter the narrative in JD Vance's book",
-                    "link": "https://www.kuow.org/stories/appalachian-authors-are-coming-together-to-counter-the-narrative-in-jd-vance-s-book",
-                    "pubDate": "Sun, 18 Aug 2024 05:00:25 -0700",
-                    "title": "Appalachian authors are coming together to counter the narrative in JD Vance's book"
-                },
-                {
-                    "author": "Will Shortz",
-                    "description": "NPR's David Folkenflik plays the puzzle with this week's winner Eli Shear-Baggish from Arlington, Massachusetts and puzzle master Will Shortz.",
-                    "enclosure": {
-                        "@length": "5526000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/08/20240818_wesun_sunday_puzzle_rhyming_destinations.mp3?size=4926529&d=307864&e=nx-s1-5075189"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-99504",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Will Shortz",
-                    "itunes:duration": "00:05:07",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/8945b2207edc2e3e8ba56564c4f26b3c.jpg"
-                    },
-                    "itunes:subtitle": "Sunday Puzzle:  Rhyming destinations",
-                    "itunes:summary": "NPR's David Folkenflik plays the puzzle with this week's winner Eli Shear-Baggish from Arlington, Massachusetts and puzzle master Will Shortz.",
-                    "itunes:title": "Sunday Puzzle:  Rhyming destinations",
-                    "link": "https://www.kuow.org/stories/sunday-puzzle-rhyming-destinations",
-                    "pubDate": "Sun, 18 Aug 2024 05:00:24 -0700",
-                    "title": "Sunday Puzzle:  Rhyming destinations"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "While vice presidential candidates tout their Midwestern roots Ayesha talks to author Jon Lauck about what's Midwestern.",
-                    "enclosure": {
-                        "@length": "6660000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/08/20240811_wesun_vance_and_walz_both_claim_the_midwest._what_does_it_mean_to_be_midwestern.mp3?size=5928796&d=370502&e=nx-s1-5067014"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-99123",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:06:10",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
-                    },
-                    "itunes:subtitle": "Vance and Walz both claim the Midwest. What does it mean to be Midwestern?",
-                    "itunes:summary": "While vice presidential candidates tout their Midwestern roots Ayesha talks to author Jon Lauck about what's Midwestern.",
-                    "itunes:title": "Vance and Walz both claim the Midwest. What does it mean to be Midwestern?",
-                    "link": "https://www.kuow.org/stories/vance-and-walz-both-claim-the-midwest-what-does-it-mean-to-be-midwestern",
-                    "pubDate": "Sun, 11 Aug 2024 16:05:21 -0700",
-                    "title": "Vance and Walz both claim the Midwest. What does it mean to be Midwestern?"
-                },
-                {
-                    "author": [
-                        "Ayesha Rascoe",
-                        "Emmanuel Akinwotu"
-                    ],
-                    "description": "Nigeria had a terrible showing at the Olympics. Its athletes say they were failed by corruption and mismanagement by the nation's sports officials.",
-                    "enclosure": {
-                        "@length": "4896000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/08/20240811_wesun_nigerian_athletes_say_mismanagement_by_the_country_s_officials_cost_them_the_olympics.mp3?size=4353089&d=272032&e=nx-s1-5070517"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-99124",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Ayesha Rascoe",
-                        "Emmanuel Akinwotu"
-                    ],
-                    "itunes:duration": "00:04:32",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
-                    },
-                    "itunes:subtitle": "Nigerian athletes say mismanagement by the country's officials cost them the Olympics",
-                    "itunes:summary": "Nigeria had a terrible showing at the Olympics. Its athletes say they were failed by corruption and mismanagement by the nation's sports officials.",
-                    "itunes:title": "Nigerian athletes say mismanagement by the country's officials cost them the Olympics",
-                    "link": "https://www.kuow.org/stories/nigerian-athletes-say-mismanagement-by-the-country-s-officials-cost-them-the-olympics",
-                    "pubDate": "Sun, 11 Aug 2024 05:38:51 -0700",
-                    "title": "Nigerian athletes say mismanagement by the country's officials cost them the Olympics"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "NPR's Ayesha Rascoe speaks to Mushfiq Mobarak, a Professor of Economics at Yale University, about how regional powers will view the overthrow of Bangladesh\u2019s authoritarian leader last week.",
-                    "enclosure": {
-                        "@length": "5112000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/08/20240811_wesun_student_protests_in_bangladesh_ousted_its_prime_minister._what_s_next_for_the_region.mp3?size=4545351&d=284055&e=nx-s1-5066987"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-99125",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:04:44",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
-                    },
-                    "itunes:subtitle": "Student protests in Bangladesh ousted its prime minister. What's next for the region?",
-                    "itunes:summary": "NPR's Ayesha Rascoe speaks to Mushfiq Mobarak, a Professor of Economics at Yale University, about how regional powers will view the overthrow of Bangladesh\u2019s authoritarian leader last week.",
-                    "itunes:title": "Student protests in Bangladesh ousted its prime minister. What's next for the region?",
-                    "link": "https://www.kuow.org/stories/student-protests-in-bangladesh-ousted-its-prime-minister-what-s-next-for-the-region",
-                    "pubDate": "Sun, 11 Aug 2024 05:35:44 -0700",
-                    "title": "Student protests in Bangladesh ousted its prime minister. What's next for the region?"
-                },
-                {
-                    "author": [
-                        "Ayesha Rascoe",
-                        "Mara Liasson"
-                    ],
-                    "description": "Democratic presidential nominee Kamala Harris and her running mate Tim Walz complete their five-state introductory tour. Harris is gaining in the polls.",
-                    "enclosure": {
-                        "@length": "4626000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/08/20240811_wesun_harris_inches_ahead_in_the_polls_amidst_swing_state_campaigning.mp3?size=4123212&d=257656&e=nx-s1-5068248"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-99114",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Ayesha Rascoe",
-                        "Mara Liasson"
-                    ],
-                    "itunes:duration": "00:04:17",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
-                    },
-                    "itunes:subtitle": "Harris inches ahead in the polls amidst swing state campaigning",
-                    "itunes:summary": "Democratic presidential nominee Kamala Harris and her running mate Tim Walz complete their five-state introductory tour. Harris is gaining in the polls.",
-                    "itunes:title": "Harris inches ahead in the polls amidst swing state campaigning",
-                    "link": "https://www.kuow.org/stories/harris-inches-ahead-in-the-polls-amidst-swing-state-campaigning",
-                    "pubDate": "Sun, 11 Aug 2024 05:30:40 -0700",
-                    "title": "Harris inches ahead in the polls amidst swing state campaigning"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "NPR's Ayesha Rascoe plays the puzzle with this week's winner Michael Carniello from Deerfield Ill., and puzzle master Will Shortz.",
-                    "enclosure": {
-                        "@length": "6336000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/08/20240811_wesun_sunday_puzzle_this_puzzle_is_as_easy_as_1-2-3.mp3?size=5648763&d=352996&e=nx-s1-5068349"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-99127",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:05:52",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
-                    },
-                    "itunes:subtitle": "Sunday Puzzle: This puzzle is as easy as 1-2-3!",
-                    "itunes:summary": "NPR's Ayesha Rascoe plays the puzzle with this week's winner Michael Carniello from Deerfield Ill., and puzzle master Will Shortz.",
-                    "itunes:title": "Sunday Puzzle: This puzzle is as easy as 1-2-3!",
-                    "link": "https://www.kuow.org/stories/sunday-puzzle-this-puzzle-is-as-easy-as-1-2-3",
-                    "pubDate": "Sun, 11 Aug 2024 04:58:55 -0700",
-                    "title": "Sunday Puzzle: This puzzle is as easy as 1-2-3!"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "NRR's Ayesha Rascoe speaks to Firas Maksad, the Middle East Institute, about a potential Iranian response to the killing of a Hamas leader in Tehran.",
-                    "enclosure": {
-                        "@length": "3996000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/08/20240811_wesun_the_u.s._is_bracing_for_an_iranian_response_to_the_killing_of_a_senior_hamas_leader.mp3?size=3558967&d=222393&e=nx-s1-5068283"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-99128",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:03:42",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
-                    },
-                    "itunes:subtitle": "The U.S. is bracing for an Iranian response to the killing of a senior Hamas leader",
-                    "itunes:summary": "NRR's Ayesha Rascoe speaks to Firas Maksad, the Middle East Institute, about a potential Iranian response to the killing of a Hamas leader in Tehran.",
-                    "itunes:title": "The U.S. is bracing for an Iranian response to the killing of a senior Hamas leader",
-                    "link": "https://www.kuow.org/stories/the-u-s-is-bracing-for-an-iranian-response-to-the-killing-of-a-senior-hamas-leader",
-                    "pubDate": "Sun, 11 Aug 2024 04:58:53 -0700",
-                    "title": "The U.S. is bracing for an Iranian response to the killing of a senior Hamas leader"
                 }
             ],
             "itunes:author": "NPR",
@@ -2852,14 +2840,14 @@
             "itunes:explicit": "false",
             "itunes:hosts": "Lulu Garcia-Navarro",
             "itunes:image": {
-                "@href": "https://kuow-core-prod.s3.us-west-2.amazonaws.com/store/fb0d802b7180707604e8941139cae8b6.jpg"
+                "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
             },
             "itunes:owner": {
                 "itunes:email": "webhelp@kuow.org",
                 "itunes:name": "Weekend Edition Sunday"
             },
             "language": "en",
-            "lastBuildDate": "Sun, 20 Oct 2024 00:31:03 +0000",
+            "lastBuildDate": "Sun, 27 Oct 2024 00:13:33 +0000",
             "link": "https://www.kuow.org/podcasts/weekendedition-sunday",
             "podcast:locked": "no",
             "title": "Weekend Edition Sunday"

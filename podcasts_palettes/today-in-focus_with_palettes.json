@@ -4,7 +4,7 @@
         "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
         "channel": {
             "copyright": "\u00a9 2024 Guardian News & Media Limited or its affiliated companies. All rights reserved. ",
-            "description": "Hosted by Michael Safi and Helen Pidd, Today in Focus brings you closer to Guardian journalism. Combining personal storytelling with insightful analysis, this podcast takes you behind the headlines for a deeper understanding of the news, every weekday. The podcast is a topical, deep dive, explainer on a topic or story in the news, covering: politics, climate change, current affairs, investigations, leaks, scandals involving the royals and interviews. It might cover topics such as: politics and current affairs in the United States of America - Donald Trump, the US presidential election 2024, Kamala Harris, Joe Biden, the White House, the GOP, the Republicans and the Republican Party, the Democrats and the Democratic Party; current affairs including Ukraine, Israel, Palestine, Gaza, Russia, Bangladesh, HS2, the police, AI, information technology and the royal family - including King Charles III and Prince Harry; UK politics including UK election 24, Parliament, Labour, the Conservative Party, the Liberal Democrats, Reform UK, Rishi Sunak, Keir Starmer; GB, Scotland, England and Ireland news, arts and culture, the environment, green issues, the climate emergency and global warming. Today in Focus features journalists such as: Aditya Chakrabortty, Alexis Petridis, Andrew Roth, Emma Graham-Harrison, George Monbiot, John Crace, John Harris, Jonathan Freedland, Kiran Stacey, Larry Elliott, Luke Harding, Marina Hyde, Nesrine Malik, Owen Jones, Peter Walker, Pippa Crerar, Polly Toynbee, Shaun Walker, Simon Hattenstone and Zoe Williams.",
+            "description": "Hosted by Michael Safi and Helen Pidd, Today in Focus brings you closer to Guardian journalism. Combining storytelling with insightful analysis and personal testimonies, the podcast takes you behind the headlines for a deeper understanding of the news, every weekday. And, in the run up to the US Election, Lucy Hough presents US Election Extra, a daily series of short updates, running alongside the regular Today in Focus podcast. Today in Focus is unmatched in both scope and depth, delivering analysis and storytelling from right across the planet. With a global network of over 900 journalists and five dedicated editions covering news in the US, UK, Australia, Europe, and beyond, the Guardian offers comprehensive reporting across every continent. Most recently we have introduced new correspondents in the Caribbean, South America and Africa.",
             "image": {
                 "link": "https://www.theguardian.com/news/series/todayinfocus",
                 "palette": [
@@ -19,6 +19,216 @@
                 "url": "https://uploads.guim.co.uk/2022/02/10/TiF_FINAL_3000x3000.jpg"
             },
             "item": [
+                {
+                    "description": "How are Americans consuming their news about the 2024 election? Adam Gabbatt reports from New York City. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "15417164",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/10/25-60421-2410245USEEpodcasts.mp3"
+                    },
+                    "guid": {
+                        "#text": "671ba5f68f080a42be756674",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:09:46",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "US elections 2024",
+                    "itunes:subtitle": "How are Americans consuming their news about the 2024 election? Adam Gabbatt reports from New York City",
+                    "itunes:summary": "How are Americans consuming their news about the 2024 election? Adam Gabbatt reports from New York City. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "US election extra: TikTok, podcasts and the polls",
+                    "pubDate": "Fri, 25 Oct 2024 16:47:52 GMT",
+                    "title": "US election extra: TikTok, podcasts and the polls"
+                },
+                {
+                    "description": "Harry Shukman of the anti-racism group Hope Not Hate went undercover to expose how some of the wealthiest and most powerful people see race. He tells Michael Safi what he found Read: the Guardian\u2019s full investigation Watch: Undercover: Exposing the Far Right. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "62736021",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/10/24-76207-24105TIFnetwork.mp3"
+                    },
+                    "guid": {
+                        "#text": "671a0d508f087245fd8570c2",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:48:17",
+                    "itunes:explicit": "yes",
+                    "itunes:keywords": "The far right, Race, Genetics, Biology, Science",
+                    "itunes:subtitle": "Harry Shukman of the anti-racism group Hope Not Hate went undercover to expose how some of the wealthiest and most powerful people see race. He tells Michael Safi what he found",
+                    "itunes:summary": "Harry Shukman of the anti-racism group Hope Not Hate went undercover to expose how some of the wealthiest and most powerful people see race. He tells Michael Safi what he found Read: the Guardian\u2019s full investigation Watch: Undercover: Exposing the Far Right. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "Undercover inside a \u2018scientific racism\u2019 network",
+                    "pubDate": "Fri, 25 Oct 2024 02:00:06 GMT",
+                    "title": "Undercover inside a \u2018scientific racism\u2019 network"
+                },
+                {
+                    "description": "Pennsylvania is emerging as the most crucial of all the swing states \u2013 and it\u2019s on a knife-edge. Oliver Laughland reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "16408832",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/10/24-60388-241024USEEpenn.mp3"
+                    },
+                    "guid": {
+                        "#text": "671a72588f081d096f9f8564",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:10:35",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "US elections 2024, Pennsylvania, US politics, US news",
+                    "itunes:subtitle": "Pennsylvania is emerging as the most crucial of all the swing states \u2013 and it\u2019s on a knife-edge. Oliver Laughland reports",
+                    "itunes:summary": "Pennsylvania is emerging as the most crucial of all the swing states \u2013 and it\u2019s on a knife-edge. Oliver Laughland reports. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "US election extra: Pennsylvania in the balance",
+                    "pubDate": "Thu, 24 Oct 2024 16:47:40 GMT",
+                    "title": "US election extra: Pennsylvania in the balance"
+                },
+                {
+                    "description": "Orits\u00e9 Williams of JLS and the Guardian\u2019s head rock and pop critic Alexis Petridis reflect on the life of Liam Payne, including the extraordinary success of One Direction, and his struggles with the fame that came with it. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "50890258",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/10/23-67325-20241024TiFLiamPayne.mp3"
+                    },
+                    "guid": {
+                        "#text": "671913678f085af2d344e67e",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:31:49",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "Liam Payne, One Direction, Music",
+                    "itunes:subtitle": "Orits\u00e9 Williams of JLS and the Guardian\u2019s head rock and pop critic Alexis Petridis reflect on the life of Liam Payne, including the extraordinary success of One Direction, and his struggles with the fame that came with it",
+                    "itunes:summary": "Orits\u00e9 Williams of JLS and the Guardian\u2019s head rock and pop critic Alexis Petridis reflect on the life of Liam Payne, including the extraordinary success of One Direction, and his struggles with the fame that came with it. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "Liam Payne: the heady rise and tragic death of a One Direction star",
+                    "pubDate": "Thu, 24 Oct 2024 02:00:42 GMT",
+                    "title": "Liam Payne: the heady rise and tragic death of a One Direction star"
+                },
+                {
+                    "description": "Donald Trump has furiously accused the Labour party of interfering in the US election, calling it \u2018far left\u2019, after party activists travelled to campaign for his opponent. Jonathan Freedland reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "16387707",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/10/23-55209-241023USEEinterference.mp3"
+                    },
+                    "guid": {
+                        "#text": "6718bc5b8f08da124b607e7d",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:10:34",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "US elections 2024, Labour, US politics, Donald Trump, Keir Starmer",
+                    "itunes:subtitle": "Donald Trump has furiously accused the Labour party of interfering in the US election, calling it \u2018far left\u2019, after party activists travelled to campaign for his opponent. Jonathan Freedland reports",
+                    "itunes:summary": "Donald Trump has furiously accused the Labour party of interfering in the US election, calling it \u2018far left\u2019, after party activists travelled to campaign for his opponent. Jonathan Freedland reports. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "US election extra: Trump accuses Labour of \u2018interference\u2019",
+                    "pubDate": "Wed, 23 Oct 2024 15:34:56 GMT",
+                    "title": "US election extra: Trump accuses Labour of \u2018interference\u2019"
+                },
+                {
+                    "description": "After armed officer Martyn Blake was cleared of Kaba\u2019s murder, many police officers are angry he was ever arrested. But the family say they don\u2019t feel their fight for justice is over. Vikram Dodd reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "31354818",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/10/24-48588-ChrisKaba3.mp3"
+                    },
+                    "guid": {
+                        "#text": "6717d2ff8f08deab319f3a60",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:36:31",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "Police",
+                    "itunes:subtitle": "After armed officer Martyn Blake was cleared of Kaba\u2019s murder, many police officers are angry he was ever arrested. But the family say they don\u2019t feel their fight for justice is over. Vikram Dodd reports",
+                    "itunes:summary": "After armed officer Martyn Blake was cleared of Kaba\u2019s murder, many police officers are angry he was ever arrested. But the family say they don\u2019t feel their fight for justice is over. Vikram Dodd reports. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "Will the Chris Kaba murder trial change British policing?",
+                    "pubDate": "Wed, 23 Oct 2024 02:00:04 GMT",
+                    "title": "Will the Chris Kaba murder trial change British policing?"
+                },
+                {
+                    "description": "Voters consistently tell pollsters their top priority is the economy. So who will they favour to take charge of it? Chris Michael reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "15818441",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/10/22-58078-241022USEEmaganomics.mp3"
+                    },
+                    "guid": {
+                        "#text": "6717c0538f087dde7205e2e0",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:10:06",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "US elections 2024",
+                    "itunes:subtitle": "Voters consistently tell pollsters their top priority is the economy. So who will they favour to take charge of it? Chris Michael reports",
+                    "itunes:summary": "Voters consistently tell pollsters their top priority is the economy. So who will they favour to take charge of it? Chris Michael reports. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "US election extra: is the US ready for \u2018Maga-nomics\u2019?",
+                    "pubDate": "Tue, 22 Oct 2024 16:09:38 GMT",
+                    "title": "US election extra: is the US ready for \u2018Maga-nomics\u2019?"
+                },
+                {
+                    "description": "On Sunday, Moldovans narrowly voted yes in a referendum on joining the European Union. Why was the result so close? Pjotr Sauer reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "42025627",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/10/21-69085-20241022moldova.mp3"
+                    },
+                    "guid": {
+                        "#text": "67163ebe8f08556b4172d6d4",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:25:39",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "Moldova, European Union, Russia, Europe, World news",
+                    "itunes:subtitle": "On Sunday, Moldovans narrowly voted yes in a referendum on joining the European Union. Why was the result so close? Pjotr Sauer reports",
+                    "itunes:summary": "On Sunday, Moldovans narrowly voted yes in a referendum on joining the European Union. Why was the result so close? Pjotr Sauer reports. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "Moldova\u2019s razor-thin EU referendum result",
+                    "pubDate": "Tue, 22 Oct 2024 02:00:51 GMT",
+                    "title": "Moldova\u2019s razor-thin EU referendum result"
+                },
+                {
+                    "description": "Democrats are fearful that Trump could attempt to overturn the result of the election if he loses in November. Archie Bland reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "15855875",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/10/21-59901-241021USEEsteal.mp3"
+                    },
+                    "guid": {
+                        "#text": "67161dd68f08d025c3e96b6d",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:10:08",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "US elections 2024, Donald Trump",
+                    "itunes:subtitle": "Democrats are fearful that Trump could attempt to overturn the result of the election if he loses in November. Archie Bland reports",
+                    "itunes:summary": "Democrats are fearful that Trump could attempt to overturn the result of the election if he loses in November. Archie Bland reports. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "US election extra: could Trump steal the election? \u2013\u00a0podcast",
+                    "pubDate": "Mon, 21 Oct 2024 16:39:05 GMT",
+                    "title": "US election extra: could Trump steal the election? \u2013\u00a0podcast"
+                },
+                {
+                    "description": "Oliver Laughland reports from southern Arizona, where the issue of immigrants crossing the border has become a controversial topic. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "52758411",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/10/18-75274-20241021TIFborder.mp3"
+                    },
+                    "guid": {
+                        "#text": "671293708f08c6f693b787a7",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:33:06",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "US elections 2024, US immigration",
+                    "itunes:subtitle": "Oliver Laughland reports from southern Arizona, where the issue of immigrants crossing the border has become a controversial topic",
+                    "itunes:summary": "Oliver Laughland reports from southern Arizona, where the issue of immigrants crossing the border has become a controversial topic. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "How the US border became a toxic issue for voters",
+                    "pubDate": "Mon, 21 Oct 2024 02:00:00 GMT",
+                    "title": "How the US border became a toxic issue for voters"
+                },
                 {
                     "description": "Presidential candidates need at least 270 electoral votes \u2013 more than half of the total \u2013 to win an election. Chris Michael explains which states Harris and Trump need to win in order to reach 270. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
                     "enclosure": {
@@ -6095,216 +6305,6 @@
                     "itunes:title": "Suella Braverman, the police and the protests",
                     "pubDate": "Fri, 10 Nov 2023 03:00:10 GMT",
                     "title": "Suella Braverman, the police and the protests"
-                },
-                {
-                    "description": "On 7 October, 240 people in Israel were kidnapped and taken into Gaza. A month on, only a handful have been released. Bethan McKernan reports The mothers whose children are held hostage by Hamas: \u2018All we want is them home\u2019 Israel-Hamas war \u2013 live updates. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "41566173",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2023/11/09-49569-20231108Tifhamas.mp3"
-                    },
-                    "guid": {
-                        "#text": "654bd6f58f081362db4f9953",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:30:38",
-                    "itunes:explicit": "clean",
-                    "itunes:keywords": "Israel-Gaza war, Israel, Gaza, Palestinian territories, Hamas, Middle East and north Africa, World news",
-                    "itunes:subtitle": "On 7 October, 240 people in Israel were kidnapped and taken into Gaza. A month on, only a handful have been released. Bethan McKernan reports",
-                    "itunes:summary": "On 7 October, 240 people in Israel were kidnapped and taken into Gaza. A month on, only a handful have been released. Bethan McKernan reports The mothers whose children are held hostage by Hamas: \u2018All we want is them home\u2019 Israel-Hamas war \u2013 live updates. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "What will it take to free the hostages taken by Hamas?",
-                    "pubDate": "Thu, 09 Nov 2023 03:00:52 GMT",
-                    "title": "What will it take to free the hostages taken by Hamas?"
-                },
-                {
-                    "description": "Palestinians in the West Bank say that while all the attention is on Gaza, Israeli settlers overseen by the military are killing people and forcing them from the land. Julian Borger reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "35881928",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2023/11/07-77811-20231108Tifwestbank.mp3"
-                    },
-                    "guid": {
-                        "#text": "6543d3758f08af73b5ca71d6",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:25:54",
-                    "itunes:explicit": "clean",
-                    "itunes:keywords": "Palestinian territories, Israel, World news",
-                    "itunes:subtitle": "Palestinians in the West Bank say that while attention is on Gaza, Israeli settlers overseen by the military are killing people and forcing them from the land",
-                    "itunes:summary": "Palestinians in the West Bank say that while all the attention is on Gaza, Israeli settlers overseen by the military are killing people and forcing them from the land. Julian Borger reports. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "Fear and fury in the West Bank",
-                    "pubDate": "Wed, 08 Nov 2023 03:00:05 GMT",
-                    "title": "Fear and fury in the West Bank"
-                },
-                {
-                    "description": "Sam Bankman-Fried, founder of cryptocurrency exchange FTX, is facing up to 110 years in jail after being found guilty of fraud on a massive scale, exposed when his company collapsed last year. Blake Montgomery reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "38004121",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2023/11/06-72767-20231107Tifcrypto.mp3"
-                    },
-                    "guid": {
-                        "#text": "6548af3b8f08293ffae53efa",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:27:40",
-                    "itunes:explicit": "clean",
-                    "itunes:keywords": "Sam Bankman-Fried, FTX, Cryptocurrencies, Technology",
-                    "itunes:subtitle": "Sam Bankman-Fried, founder of cryptocurrency exchange FTX, is facing up to 110 years in jail after being found guilty of fraud on a massive scale, exposed when his company collapsed last year. Blake Montgomery reports",
-                    "itunes:summary": "Sam Bankman-Fried, founder of cryptocurrency exchange FTX, is facing up to 110 years in jail after being found guilty of fraud on a massive scale, exposed when his company collapsed last year. Blake Montgomery reports. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "Crypto on trial: the downfall of Sam Bankman-Fried",
-                    "pubDate": "Tue, 07 Nov 2023 03:00:55 GMT",
-                    "title": "Crypto on trial: the downfall of Sam Bankman-Fried"
-                },
-                {
-                    "description": "Oliver Wainwright reports on the increasingly poor standards of newly built homes in the UK and what consumers can do to protect themselves. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "40861625",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2023/11/03-64896-20231106TIFhomes.mp3"
-                    },
-                    "guid": {
-                        "#text": "65438a628f08293ffae514ed",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:24:51",
-                    "itunes:explicit": "clean",
-                    "itunes:keywords": "Housing, Homes, Property, Construction industry, UK news",
-                    "itunes:subtitle": "Oliver Wainwright reports on the increasingly poor standards of newly built homes in the UK and what consumers can do to protect themselves",
-                    "itunes:summary": "Oliver Wainwright reports on the increasingly poor standards of newly built homes in the UK and what consumers can do to protect themselves. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "Why are Britain\u2019s new homes so rubbish?",
-                    "pubDate": "Mon, 06 Nov 2023 03:00:25 GMT",
-                    "title": "Why are Britain\u2019s new homes so rubbish?"
-                },
-                {
-                    "description": "Use of Slapps by the super-rich against journalists is increasingly common, and campaigners say new legislation to deter such actions does not go far enough. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "41764887",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2023/11/02-75151-20231031Tifslapps.mp3"
-                    },
-                    "guid": {
-                        "#text": "6530fa3a8f080ddf6ee14ce2",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:30:48",
-                    "itunes:explicit": "clean",
-                    "itunes:keywords": "Investigative journalism, Law, Media, Freedom of speech, UK news, Politics, Journalist safety, Newspapers & magazines, Newspapers",
-                    "itunes:subtitle": "Use of Slapps by the super-rich against journalists is increasingly common, and campaigners say new legislation to deter such actions does not go far enough",
-                    "itunes:summary": "Use of Slapps by the super-rich against journalists is increasingly common, and campaigners say new legislation to deter such actions does not go far enough. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "How oligarchs use English courts to silence their critics",
-                    "pubDate": "Fri, 03 Nov 2023 03:00:06 GMT",
-                    "title": "How oligarchs use English courts to silence their critics"
-                },
-                {
-                    "description": "Since a show of unity at Labour conference, anger and upset have been growing over the leader\u2019s stance. Can Keir Starmer heal the rift? Aletha Adu reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "44299555",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2023/11/02-47887-TiFLaboursplit.mp3"
-                    },
-                    "guid": {
-                        "#text": "65428d208f08293ffae50c15",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:27:15",
-                    "itunes:explicit": "clean",
-                    "itunes:keywords": "Labour, Israel, UK news, Politics",
-                    "itunes:subtitle": "Since a show of unity at Labour conference, anger and upset have been growing over the leader\u2019s stance. Can Keir Starmer heal the rift? Aletha Adu reports",
-                    "itunes:summary": "Since a show of unity at Labour conference, anger and upset have been growing over the leader\u2019s stance. Can Keir Starmer heal the rift? Aletha Adu reports. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "How the Israel-Gaza conflict is dividing Labour",
-                    "pubDate": "Thu, 02 Nov 2023 03:00:27 GMT",
-                    "title": "How the Israel-Gaza conflict is dividing Labour"
-                },
-                {
-                    "description": "Rishi Sunak has convened a global summit of world leaders and tech executives to discuss how the power of artificial intelligence can be safely harnessed. Dan Milmo reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "37790887",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2023/10/31-61397-20231031TifAIsafety.mp3"
-                    },
-                    "guid": {
-                        "#text": "6540f2368f0813307b8b2621",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:27:30",
-                    "itunes:explicit": "clean",
-                    "itunes:keywords": "Artificial intelligence (AI), Technology, UK news, Politics, Rishi Sunak",
-                    "itunes:subtitle": "Rishi Sunak has convened a global summit of world leaders and tech executives to discuss how the power of artificial intelligence can be safely harnessed. Dan Milmo reports",
-                    "itunes:summary": "Rishi Sunak has convened a global summit of world leaders and tech executives to discuss how the power of artificial intelligence can be safely harnessed. Dan Milmo reports. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "Is the AI safety summit already too late?",
-                    "pubDate": "Wed, 01 Nov 2023 03:00:29 GMT",
-                    "title": "Is the AI safety summit already too late?"
-                },
-                {
-                    "description": "As Israel steps up its military campaign in Gaza, residents trapped in the territory are facing a humanitarian crisis. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "32360176",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2023/10/30-77325-20231031Tifgaza2.mp3"
-                    },
-                    "guid": {
-                        "#text": "653f75078f0837aa4c22d9ca",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:22:58",
-                    "itunes:explicit": "clean",
-                    "itunes:keywords": "Israel-Gaza war, Gaza, Palestinian territories, Israel, World news, Middle East and north Africa",
-                    "itunes:subtitle": "As Israel steps up its military campaign in Gaza, residents trapped in the territory are facing a humanitarian crisis",
-                    "itunes:summary": "As Israel steps up its military campaign in Gaza, residents trapped in the territory are facing a humanitarian crisis. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "\u2018We\u2019re totally isolated\u2019: inside Gaza as Israel\u2019s war intensifies",
-                    "pubDate": "Tue, 31 Oct 2023 03:00:30 GMT",
-                    "title": "\u2018We\u2019re totally isolated\u2019: inside Gaza as Israel\u2019s war intensifies"
-                },
-                {
-                    "description": "Hearings for the government Covid inquiry resume today in Westminster with former Downing Street adviser Dominic Cummings slated to appear this week. Peter Walker reports on the story so far. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "37730891",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2023/10/29-39971-20231030Tifcovid.mp3"
-                    },
-                    "guid": {
-                        "#text": "653bba788f08b48bad7c2eb3",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:27:27",
-                    "itunes:explicit": "yes",
-                    "itunes:keywords": "Covid inquiry, Health policy, Health, Society, Coronavirus, UK news, Politics",
-                    "itunes:subtitle": "Hearings for the government Covid inquiry resume today in Westminster with former Downing Street adviser Dominic Cummings slated to appear this week. Peter Walker reports on the story so far",
-                    "itunes:summary": "Hearings for the government Covid inquiry resume today in Westminster with former Downing Street adviser Dominic Cummings slated to appear this week. Peter Walker reports on the story so far. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "What we\u2019ve learned so far from the Covid inquiry",
-                    "pubDate": "Mon, 30 Oct 2023 03:00:01 GMT",
-                    "title": "What we\u2019ve learned so far from the Covid inquiry"
-                },
-                {
-                    "description": "Kristj\u00e1n Loftsson has stubbornly refused to bow to public opinion or an overwhelming international consensus against whaling. But with a full ban coming in Iceland, has he killed his last whale?. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "38761464",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2023/10/26-60014-20231027Tifwhales2.mp3"
-                    },
-                    "guid": {
-                        "#text": "653a34f68f08a94db5838b73",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:28:18",
-                    "itunes:explicit": "clean",
-                    "itunes:keywords": "Whaling, Iceland, Europe, World news, Environment, Marine life, Wildlife",
-                    "itunes:subtitle": "Kristj\u00e1n Loftsson has stubbornly refused to bow to public opinion or an overwhelming international consensus against whale hunting. But with a full ban coming in Iceland, has he killed his last whale?",
-                    "itunes:summary": "Kristj\u00e1n Loftsson has stubbornly refused to bow to public opinion or an overwhelming international consensus against whaling. But with a full ban coming in Iceland, has he killed his last whale?. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "The last whale hunter in Iceland",
-                    "pubDate": "Fri, 27 Oct 2023 02:00:32 GMT",
-                    "title": "The last whale hunter in Iceland"
                 }
             ],
             "itunes:author": "The Guardian",
@@ -6323,9 +6323,9 @@
                 "itunes:email": "userhelp@theguardian.com",
                 "itunes:name": "The Guardian"
             },
-            "itunes:summary": "Hosted by Michael Safi and Helen Pidd, Today in Focus brings you closer to Guardian journalism. Combining personal storytelling with insightful analysis, this podcast takes you behind the headlines for a deeper understanding of the news, every weekday. The podcast is a topical, deep dive, explainer on a topic or story in the news, covering: politics, climate change, current affairs, investigations, leaks, scandals involving the royals and interviews. It might cover topics such as: politics and current affairs in the United States of America - Donald Trump, the US presidential election 2024, Kamala Harris, Joe Biden, the White House, the GOP, the Republicans and the Republican Party, the Democrats and the Democratic Party; current affairs including Ukraine, Israel, Palestine, Gaza, Russia, Bangladesh, HS2, the police, AI, information technology and the royal family - including King Charles III and Prince Harry; UK politics including UK election 24, Parliament, Labour, the Conservative Party, the Liberal Democrats, Reform UK, Rishi Sunak, Keir Starmer; GB, Scotland, England and Ireland news, arts and culture, the environment, green issues, the climate emergency and global warming. Today in Focus features journalists such as: Aditya Chakrabortty, Alexis Petridis, Andrew Roth, Emma Graham-Harrison, George Monbiot, John Crace, John Harris, Jonathan Freedland, Kiran Stacey, Larry Elliott, Luke Harding, Marina Hyde, Nesrine Malik, Owen Jones, Peter Walker, Pippa Crerar, Polly Toynbee, Shaun Walker, Simon Hattenstone and Zoe Williams.",
+            "itunes:summary": "Hosted by Michael Safi and Helen Pidd, Today in Focus brings you closer to Guardian journalism. Combining storytelling with insightful analysis and personal testimonies, the podcast takes you behind the headlines for a deeper understanding of the news, every weekday. And, in the run up to the US Election, Lucy Hough presents US Election Extra, a daily series of short updates, running alongside the regular Today in Focus podcast. Today in Focus is unmatched in both scope and depth, delivering analysis and storytelling from right across the planet. With a global network of over 900 journalists and five dedicated editions covering news in the US, UK, Australia, Europe, and beyond, the Guardian offers comprehensive reporting across every continent. Most recently we have introduced new correspondents in the Caribbean, South America and Africa.",
             "language": "en-gb",
-            "lastBuildDate": "\n              Sun, 20 Oct 2024 00:34:25 GMT\n            ",
+            "lastBuildDate": "\n              Sun, 27 Oct 2024 00:27:34 GMT\n            ",
             "link": "https://www.theguardian.com/news/series/todayinfocus",
             "title": "Today in Focus",
             "ttl": "15"

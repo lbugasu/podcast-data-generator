@@ -23,6 +23,130 @@
             "description": "Your source for wide-ranging discussions from all around the Go community. Panelists include Mat Ryer, Jon Calhoun, Natalie Pistunovich, Johnny Boursiquot, Angelica Hill, Kris Brandow, and Ian Lopshire.\n\nWe discuss cloud infrastructure, distributed systems, microservices, Kubernetes, Docker... oh and also Go!\n\nSome people search for GoTime or GoTimeFM and can't find the show, so now the strings GoTime and GoTimeFM are in our description too.",
             "item": [
                 {
+                    "content:encoded": "<p>Yasir Ekinci joins Johnny &amp; Mat to talk about how virtually every Observability vendor is rushing to add Generative AI capabilities to their products and what that entails from both a development and usability perspective.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/455709-gotime\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 10 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://www.bytesizego.com/goland\">JetBrains</a> \u2013 Sign up for the free \u201cMastering Go with GoLand\u201d course and receive a complimentary 1-year GoLand subscription at <a href=\"https://www.bytesizego.com/goland\">bytesizego.com/goland</a>\n</li>\n<li><a href=\"https://retool.com/changelog\">Retool</a> \u2013 <strong>The low-code platform for developers to build internal tools</strong> \u2014 Some of the best teams out there trust Retool\u2026Brex, Coinbase, Plaid, Doordash, LegalGenius, Amazon, Allbirds, Peloton, and so many more \u2013 the developers at these teams trust Retool as the platform to build their internal tools. Try it free at <a href=\"https://retool.com/changelog\">retool.com/changelog</a>\n</li>\n<li><a href=\"https://incogni.com/gotime\">Incogni</a> \u2013 <a href=\"https://incogni.com/gotime\">Go to incogni.com/gotime</a> and use code <code>GOTIME</code> using our link to get an exclusive 60% off an annual Incogni plan.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Yasir Ekinci &ndash; <a href=\"https://twitter.com/yasirekinci\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/yoziru\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/yasirekinci\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://yasirekinci.com\" rel=\"external ugc\">Website</a></li><li>Johnny Boursiquot &ndash; <a href=\"https://twitter.com/jboursiquot\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/jboursiquot\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.jboursiquot.com/\" rel=\"external ugc\">Website</a></li><li>Mat Ryer &ndash; <a href=\"https://twitter.com/matryer\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/matryer\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/matryer\" rel=\"external ugc\">LinkedIn</a>, <a href=\"http://matryer.com/\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p></p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/gotime/go-time-335.md\">PRs welcome!</a></p>",
+                    "description": "Yasir Ekinci joins Johnny & Mat to talk about how virtually every Observability vendor is rushing to add Generative AI capabilities to their products and what that entails from both a development and usability perspective.",
+                    "enclosure": {
+                        "@length": "67156797",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/gotime/335/go-time-335.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/2/2588",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:09:22",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/go-time-original.png?v=63725770357"
+                    },
+                    "link": "https://changelog.com/gotime/335",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/gotime/335/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Johnny Boursiquot",
+                            "@href": "https://changelog.com/person/jboursiquot",
+                            "@img": "https://secure.gravatar.com/avatar/6d26a33d20b8e96182b8e71c30ffe927.jpg?s=600&d=mm",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Mat Ryer",
+                            "@href": "https://changelog.com/person/matryer",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/lbY/avatar_large.jpg?v=63764553668",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Yasir Ekinci",
+                            "@href": "https://changelog.com/person/yasirekinci",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/gbjoG/avatar_large.jpg?v=63896910955",
+                            "@role": "guest"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "It's Go Time!"
+                            },
+                            {
+                                "@href": "https://www.bytesizego.com/goland",
+                                "@start": "45",
+                                "@title": "Sponsor: JetBrains"
+                            },
+                            {
+                                "@image": "https://cdn.changelog.com/uploads/avatars/people/gbjoG/avatar_large.jpg?v=63896910955",
+                                "@start": "193",
+                                "@title": "Yasir"
+                            },
+                            {
+                                "@start": "536",
+                                "@title": "Pre AI"
+                            },
+                            {
+                                "@start": "1078",
+                                "@title": "Broad terms for AI"
+                            },
+                            {
+                                "@href": "https://retool.com/changelog",
+                                "@start": "1584",
+                                "@title": "Sponsor: Retool"
+                            },
+                            {
+                                "@start": "1758",
+                                "@title": "Leet code for data science"
+                            },
+                            {
+                                "@start": "1847",
+                                "@title": "Are you training your own models"
+                            },
+                            {
+                                "@start": "2381",
+                                "@title": "Projecting forward"
+                            },
+                            {
+                                "@start": "2522",
+                                "@title": "Use cases for dashboards"
+                            },
+                            {
+                                "@href": "https://incogni.com/gotime",
+                                "@start": "2731",
+                                "@title": "Sponsor: Incogni"
+                            },
+                            {
+                                "@start": "2940",
+                                "@title": "Johnny's feature request"
+                            },
+                            {
+                                "@start": "3526",
+                                "@title": "Unpopular Opinions!"
+                            },
+                            {
+                                "@start": "3548",
+                                "@title": "Mat's unpop"
+                            },
+                            {
+                                "@start": "3755",
+                                "@title": "Yasir's unpop"
+                            },
+                            {
+                                "@start": "3917",
+                                "@title": "Johnny's \"unpop\""
+                            },
+                            {
+                                "@start": "4090",
+                                "@title": "Outro"
+                            }
+                        ]
+                    },
+                    "pubDate": "Wed, 23 Oct 2024 14:00:00 +0000",
+                    "title": "AI for Observability"
+                },
+                {
                     "content:encoded": "<p>The <a href=\"https://gotime.fm/191\">last time</a> we did a roundup of our unpopular opinion polls, it was November of 2021!<br />\nThat\u2019s too long ago, so today we fix that bug. Join Go Time producer, Jerod Santo, as he ranks &amp; reviews the most (un)popular opinions of 2022.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/455709-gotime\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 9 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://coder.com/\">Coder.com</a> \u2013 Instantly launch fully configured cloud development environments (CDE) and make your first commit in minutes. No need to traverse README files or await onboarding queues. <a href=\"https://coder.com/\">Learn more at Coder.com</a>\n</li>\n<li><a href=\"https://www.bytesizego.com/goland\">JetBrains</a> \u2013 Sign up for the free \u201cMastering Go with GoLand\u201d course and receive a complimentary 1-year GoLand subscription at <a href=\"https://www.bytesizego.com/goland\">bytesizego.com/goland</a>\n</li>\n</ul></p><p>Featuring:</p><ul><li>Natalie Pistunovich &ndash; <a href=\"https://twitter.com/nataliepis\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/Pisush\" rel=\"external ugc\">GitHub</a></li><li>Nishant Roy &ndash; <a href=\"https://twitter.com/roy_nishant\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/nishantroy\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/nishantroy\" rel=\"external ugc\">LinkedIn</a></li><li>Inbal Cohen &ndash; <a href=\"https://twitter.com/inbalsigal\" rel=\"external ugc\">Twitter</a>, <a href=\"https://www.linkedin.com/in/inbalsigalcohen\" rel=\"external ugc\">LinkedIn</a></li><li>Mark Sandstrom &ndash; <a href=\"https://twitter.com/dnerdy\" rel=\"external ugc\">Twitter</a></li><li>Ivan Kwiatkowski &ndash; <a href=\"https://infosec.exchange/@justicerage\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/JusticeRage\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/JusticeRage\" rel=\"external ugc\">GitHub</a></li><li>Michael Matloob &ndash; <a href=\"https://twitter.com/matloob\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/matloob\" rel=\"external ugc\">GitHub</a></li><li>Ed Welch &ndash; <a href=\"https://twitter.com/edapted\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/slim-bean\" rel=\"external ugc\">GitHub</a></li><li>Mihalis Tsoukalos &ndash; <a href=\"https://twitter.com/mactsouk\" rel=\"external ugc\">Twitter</a></li><li>Misha Avrekh &ndash; <a href=\"https://github.com/mavrekh-nyt\" rel=\"external ugc\">GitHub</a></li><li>Mat Ryer &ndash; <a href=\"https://twitter.com/matryer\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/matryer\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/matryer\" rel=\"external ugc\">LinkedIn</a>, <a href=\"http://matryer.com/\" rel=\"external ugc\">Website</a></li><li>Johnny Boursiquot &ndash; <a href=\"https://twitter.com/jboursiquot\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/jboursiquot\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.jboursiquot.com/\" rel=\"external ugc\">Website</a></li><li>Jerod Santo &ndash; <a href=\"https://changelog.social/@jerod\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/jerodsanto\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/jerodsanto\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/jerodsanto\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://gotime.fm/217\">The <em>other</em> features in Go 1.18 (Go Time #217)</a></li>\n<li><a href=\"https://gotime.fm/218\">Going with GraphQL (Go Time #218)</a></li>\n<li><a href=\"https://gotime.fm/220\">Bob Logblaw Log Blog (Go Time #220)</a></li>\n<li><a href=\"https://gotime.fm/221\">Mastering Go (Go Time #221)</a></li>\n<li><a href=\"https://gotime.fm/223\">How can we prevent legacy from creeping in? (Go Time #223)</a></li>\n<li><a href=\"https://gotime.fm/224\">Answering questions for the Go-curious (Go Time #224)</a></li>\n<li><a href=\"https://gotime.fm/240\">What\u2019s new in Go 1.19 (Go Time #240)</a></li>\n<li><a href=\"https://gotime.fm/246\">Avoiding bloat (Go Time #246)</a></li>\n<li><a href=\"https://gotime.fm/247\">Stay agile out there (Go Time #247)</a></li>\n<li><a href=\"https://gotime.fm/251\">Hacking with Go: Part 2 (Go Time #251)</a></li>\n<li><a href=\"https://gotime.fm/255\">Debugging Go (Go Time #255)</a></li>\n<li><a href=\"https://gotime.fm/257\">How Pinterest delivers software at scale (Go Time #257)</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/gotime/go-time-334.md\">PRs welcome!</a></p>",
                     "description": "The last time we did a roundup of our unpopular opinion polls, it was November of 2021!\nThat's too long ago, so today we fix that bug. Join Go Time producer, Jerod Santo, as he ranks & reviews the most (un)popular opinions of 2022.",
                     "enclosure": {
@@ -119,6 +243,14 @@
                             "@role": "guest"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@gotime/113279120564740903"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/gotime/334/transcript"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",
@@ -257,6 +389,10 @@
                             "@role": "guest"
                         }
                     ],
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/gotime/333/transcript"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",
@@ -25355,7 +25491,7 @@
                     "title": "Go and Buffalo Live from Dunkin' Donuts"
                 },
                 {
-                    "content:encoded": "<p>Thorsten Ball joined the show to talk about creating a programming language, writing an interpreter, why he wrote the book \u201cWriting An Interpreter in Go\u201d, how writing a language/interpreter will help you better understand other programming languages, building a computer from Nand to Tetris, and his thoughts on imposter syndrome.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/455709-gotime\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members support our work, get closer to the metal, and make the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://linode.com/changelog\">Linode</a> \u2013 <strong>Our cloud server of choice.</strong> Get one of the fastest, most efficient SSD cloud servers for only $5/mo. Use the code <code>changelog2017</code> to get 4 months free!\n</li>\n<li><a href=\"https://www.fastly.com/?utm_source=changelog&utm_medium=podcast&utm_campaign=changelog-sponsorship\">Fastly</a> \u2013 <strong>Our bandwidth partner.</strong> Fastly powers fast, secure, and scalable digital experiences. Move beyond your content delivery network to their powerful edge cloud platform.\n</li>\n<li><a href=\"https://www.backtrace.io/gotime\">Backtrace</a> \u2013 Reduce your time to resolution. Go beyond stacktraces and logs. Get to the root cause quickly with deep application introspection at your fingertips.\n</li>\n<li><a href=\"https://stackimpact.com/gotime\">StackImpact</a> \u2013 StackImpact is all about profiling and monitoring for Go. Laser focus on the performance of your Go applications.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Thorsten Ball &ndash; <a href=\"https://twitter.com/thorstenball\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/mrnugget\" rel=\"external ugc\">GitHub</a>, <a href=\"http://thorstenball.com\" rel=\"external ugc\">Website</a></li><li>Erik St. Martin &ndash; <a href=\"https://twitter.com/erikstmartin\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/erikstmartin\" rel=\"external ugc\">GitHub</a></li><li>Carlisia Thompson &ndash; <a href=\"https://twitter.com/carlisia\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/carlisia\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/carlisia\" rel=\"external ugc\">LinkedIn</a></li><li>Brian Ketelsen &ndash; <a href=\"https://twitter.com/bketelsen\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/bketelsen\" rel=\"external ugc\">GitHub</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://interpreterbook.com/\">Writing An Interpreter In Go</a> - In this book we will create a programming language together. We\u2019ll start with 0 lines of code and end up with a fully working interpreter for the Monkey* programming language. Step by step. From tokens to output. All code shown and included. Fully tested.</li>\n<li><a href=\"https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/\">The Elements of Computing Systems: Building a Modern Computer from First Principles </a></li>\n<li><a href=\"http://www.nand2tetris.org/\">From NAND to Tetris</a></li>\n<li><a href=\"https://blog.gopheracademy.com/series/advent-2016/\">Go Advent 2016 blog series</a></li>\n<li><a href=\"https://github.com/dgryski\">Damian Gryski</a> is now a <a href=\"https://www.reddit.com/r/golang/comments/5hx5ba/hello_gophers/\">/r/golang moderator</a></li>\n<li><a href=\"https://blog.golang.org/survey2016\">Take the 2016 Go User Survey</a> \u2014 the goal is to create the best language for developing simple, reliable, scalable software. We are asking you to help by participating in a survey and if applicable, a company questionnaire.</li>\n<li>From Coursera \u2014 <a href=\"https://www.coursera.org/learn/build-a-computer\">Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/gotime/go-time-28.md\">PRs welcome!</a></p>",
+                    "content:encoded": "<p>Thorsten Ball joined the show to talk about creating a programming language, writing an interpreter, why he wrote the book \u201cWriting An Interpreter in Go\u201d, how writing a language/interpreter will help you better understand other programming languages, building a computer from Nand to Tetris, and his thoughts on imposter syndrome.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/455709-gotime\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members support our work, get closer to the metal, and make the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://linode.com/changelog\">Linode</a> \u2013 <strong>Our cloud server of choice.</strong> Get one of the fastest, most efficient SSD cloud servers for only $5/mo. Use the code <code>changelog2017</code> to get 4 months free!\n</li>\n<li><a href=\"https://www.fastly.com/?utm_source=changelog&utm_medium=podcast&utm_campaign=changelog-sponsorship\">Fastly</a> \u2013 <strong>Our bandwidth partner.</strong> Fastly powers fast, secure, and scalable digital experiences. Move beyond your content delivery network to their powerful edge cloud platform.\n</li>\n<li><a href=\"https://www.backtrace.io/gotime\">Backtrace</a> \u2013 Reduce your time to resolution. Go beyond stacktraces and logs. Get to the root cause quickly with deep application introspection at your fingertips.\n</li>\n<li><a href=\"https://stackimpact.com/gotime\">StackImpact</a> \u2013 StackImpact is all about profiling and monitoring for Go. Laser focus on the performance of your Go applications.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Thorsten Ball &ndash; <a href=\"https://twitter.com/thorstenball\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/mrnugget\" rel=\"external ugc\">GitHub</a>, <a href=\"http://thorstenball.com\" rel=\"external ugc\">Website</a></li><li>Erik St. Martin &ndash; <a href=\"https://twitter.com/erikstmartin\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/erikstmartin\" rel=\"external ugc\">GitHub</a></li><li>Carlisia Thompson &ndash; <a href=\"https://twitter.com/carlisia\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/carlisia\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/carlisia\" rel=\"external ugc\">LinkedIn</a></li><li>Brian Ketelsen &ndash; <a href=\"https://twitter.com/bketelsen\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/bketelsen\" rel=\"external ugc\">GitHub</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://interpreterbook.com/\">Writing An Interpreter In Go</a> - In this book we will create a programming language together. We\u2019ll start with 0 lines of code and end up with a fully working interpreter for the Monkey* programming language. Step by step. From tokens to output. All code shown and included. Fully tested.</li>\n<li><a href=\"https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/\">The Elements of Computing Systems: Building a Modern Computer from First Principles </a></li>\n<li><a href=\"http://www.nand2tetris.org/\">From NAND to Tetris</a></li>\n<li><a href=\"https://blog.gopheracademy.com/series/advent-2016/\">Go Advent 2016 blog series</a></li>\n<li><a href=\"https://github.com/dgryski\">Damian Gryski</a> is now a <a href=\"https://www.reddit.com/r/golang/comments/5hx5ba/hello_gophers/\">/r/golang moderator</a></li>\n<li><a href=\"https://blog.golang.org/survey2016\">Take the 2016 Go User Survey</a> \u2014 the goal is to create the best language for developing simple, reliable, scalable software. We are asking you to help by participating in a survey and if applicable, a company questionnaire.</li>\n<li>From Coursera \u2014 <a href=\"https://www.coursera.org/learn/build-a-computer\">Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)</a></li>\n<li><a href=\"https://users.ece.cmu.edu/%7Eganger/712.fall02/papers/p761-thompson.pdf\">Ken Thompson</a> - Reflections on Trusting Trust</li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/gotime/go-time-28.md\">PRs welcome!</a></p>",
                     "description": "Thorsten Ball joined the show to talk about creating a programming language, writing an interpreter, why he wrote the book \"Writing An Interpreter in Go\", how writing a language/interpreter will help you better understand other programming languages, building a computer from Nand to Tetris, and his thoughts on imposter syndrome.",
                     "enclosure": {
                         "@length": "69408765",
@@ -26801,14 +26937,7 @@
             ],
             "itunes:author": "Changelog Media",
             "itunes:category": {
-                "itunes:category": [
-                    {
-                        "@text": "Software How-To"
-                    },
-                    {
-                        "@text": "Tech News"
-                    }
-                ]
+                "@text": "Technology"
             },
             "itunes:explicit": "no",
             "itunes:image": {

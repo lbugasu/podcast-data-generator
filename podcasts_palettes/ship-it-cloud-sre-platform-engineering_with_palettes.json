@@ -23,6 +23,158 @@
             "description": "A podcast about everything that happens after \\`git push\\` Justin Garrison & Autumn Nash explore all things DevOps, infra, cloud & running apps in production. Whether you're cloud native, Kubernetes curious, a pro SRE, or just operating a VPS... you'll love coming along for the ride. \n\nSome people search for ShipIt or ShipItFM and can't find the show, so now the strings ShipIt and ShipItFM are in our description too.",
             "item": [
                 {
+                    "content:encoded": "<p>From switching ISPs to migrating Amazon off Oracle, Pete Naylor knows which database to use.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456580-shipit\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members get a bonus 8 minutes at the end of this episode and zero ads. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://www.timescale.com\">Timescale</a> \u2013 Real-time analytics on Postgres, seriously fast. Over 3 million Timescale databases power loT, sensors, Al, dev tools, crypto, and finance apps \u2014 all on Postgres. Postgres, for everything.\n</li>\n<li><a href=\"https://www.systeminit.com/?utm_source=changelog\">System Initiative</a> \u2013 <strong>The future of DevOps automation (is here!)</strong> \u2014 System Initiative is an intuitive, powerful, collaborative replacement for Infrastructure as Code (IaC). The free tier is awesome (no credit card required) and you can <a href=\"https://www.systeminit.com/?utm_source=changelog\">get started</a> in 3 clicks.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Pete Naylor &ndash; <a href=\"https://twitter.com/pj_naylor\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/pete-naylor\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/naylorpete\" rel=\"external ugc\">LinkedIn</a></li><li>Justin Garrison &ndash; <a href=\"https://twitter.com/rothgar\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/rothgar\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/justingarrison\" rel=\"external ugc\">LinkedIn</a></li><li>Autumn Nash &ndash; <a href=\"https://twitter.com/autumn808\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/autumn808\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/autumnnash\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><h4>Interview</h4>\n<ul>\n<li><a href=\"https://aws.amazon.com/blogs/aws/migration-complete-amazons-consumer-business-just-turned-off-its-final-oracle-database/\">Amazon turns off last Oracle instance</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/shipit/ship-it-127.md\">PRs welcome!</a></p>",
+                    "description": "From switching ISPs to migrating Amazon off Oracle, Pete Naylor knows which database to use.",
+                    "enclosure": {
+                        "@length": "72621249",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/shipit/127/ship-it-127.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/14/2536",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:15:21",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/ship-it-original.png?v=63787880447"
+                    },
+                    "link": "https://changelog.com/shipit/127",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/shipit/127/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Justin Garrison",
+                            "@href": "https://changelog.com/person/jgarr",
+                            "@img": "https://secure.gravatar.com/avatar/5b746c23f3b5fae8ad186ddc9e96c34e.jpg?s=600&d=mm",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Autumn Nash",
+                            "@href": "https://changelog.com/person/autumn808",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/e47RO/avatar_large.jpg?v=63877387957",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Pete Naylor",
+                            "@href": "https://changelog.com/person/pete-naylor",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/XX0ad/avatar_large.jpeg?v=63897103799",
+                            "@role": "guest"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "This is Ship It!"
+                            },
+                            {
+                                "@href": "https://fly.io/",
+                                "@start": "52",
+                                "@title": "Sponsor: Fly.io"
+                            },
+                            {
+                                "@start": "226",
+                                "@title": "Our upcoming talks"
+                            },
+                            {
+                                "@image": "https://cdn.changelog.com/uploads/avatars/people/XX0ad/avatar_large.jpeg?v=63897103799",
+                                "@start": "500",
+                                "@title": "Welcome Pete Naylor"
+                            },
+                            {
+                                "@start": "687",
+                                "@title": "Pete's intro to tech"
+                            },
+                            {
+                                "@start": "819",
+                                "@title": "The early Internet"
+                            },
+                            {
+                                "@start": "1039",
+                                "@title": "Travelling plans"
+                            },
+                            {
+                                "@start": "1087",
+                                "@title": "Firefighter background"
+                            },
+                            {
+                                "@start": "1245",
+                                "@title": "Switching to databases"
+                            },
+                            {
+                                "@href": "https://www.timescale.com",
+                                "@start": "1318",
+                                "@title": "Sponsor: Timescale"
+                            },
+                            {
+                                "@start": "1459",
+                                "@title": "Managing Amazon"
+                            },
+                            {
+                                "@start": "2236",
+                                "@title": "Favorite job"
+                            },
+                            {
+                                "@start": "2344",
+                                "@title": "Outside influences in tech"
+                            },
+                            {
+                                "@href": "https://www.systeminit.com/?utm_source=changelog",
+                                "@start": "2588",
+                                "@title": "Sponsor: System Initiative"
+                            },
+                            {
+                                "@start": "2805",
+                                "@title": "Pete's current endeavor"
+                            },
+                            {
+                                "@start": "3111",
+                                "@title": "Wrong decisions"
+                            },
+                            {
+                                "@start": "3279",
+                                "@title": "Stored procedures"
+                            },
+                            {
+                                "@start": "3355",
+                                "@title": "Database hot takes"
+                            },
+                            {
+                                "@start": "3534",
+                                "@title": "Scaling a relational database"
+                            },
+                            {
+                                "@start": "3740",
+                                "@title": "Networking is hard"
+                            },
+                            {
+                                "@start": "4055",
+                                "@title": "Improvements in data centers"
+                            },
+                            {
+                                "@start": "4298",
+                                "@title": "This is a horrible idea"
+                            },
+                            {
+                                "@start": "4408",
+                                "@title": "Thanks for joining us!"
+                            },
+                            {
+                                "@start": "4467",
+                                "@title": "Outro"
+                            }
+                        ]
+                    },
+                    "pubDate": "Fri, 25 Oct 2024 19:40:00 +0000",
+                    "title": "Your customer is Amazon.com"
+                },
+                {
                     "content:encoded": "<p>Adam Jacob remains optimistic about the future for infrastructure and is building new ideas to make it better.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456580-shipit\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 12 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://sentry.io/\">Sentry</a> \u2013 <strong>Code breaks, fix it faster.</strong> Don\u2019t just observe. Take action. Sentry is the only app monitoring platform built for developers that gets to the root cause for every issue. 100,000+ growing teams use sentry to find problems fast. Use the code <code>CHANGELOG</code> when you sign up to get $100 OFF the team plan.\n</li>\n<li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://retool.com/changelog\">Retool</a> \u2013 <strong>The low-code platform for developers to build internal tools</strong> \u2014 Some of the best teams out there trust Retool\u2026Brex, Coinbase, Plaid, Doordash, LegalGenius, Amazon, Allbirds, Peloton, and so many more \u2013 the developers at these teams trust Retool as the platform to build their internal tools. Try it free at <a href=\"https://retool.com/changelog\">retool.com/changelog</a>\n</li>\n</ul></p><p>Featuring:</p><ul><li>Adam Jacob &ndash; <a href=\"https://twitter.com/adamhjk\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/adamhjk\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.systeminit.com\" rel=\"external ugc\">Website</a></li><li>Justin Garrison &ndash; <a href=\"https://twitter.com/rothgar\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/rothgar\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/justingarrison\" rel=\"external ugc\">LinkedIn</a></li><li>Autumn Nash &ndash; <a href=\"https://twitter.com/autumn808\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/autumn808\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/autumnnash\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://systeminit.com\">System Initiative</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/shipit/ship-it-126.md\">PRs welcome!</a></p>",
                     "description": "Adam Jacob remains optimistic about the future for infrastructure and is building new ideas to make it better.",
                     "enclosure": {
@@ -65,6 +217,10 @@
                             "@role": "guest"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@shipit/113329204481652582"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",
@@ -231,6 +387,10 @@
                     "podcast:socialInteract": {
                         "@protocol": "activitypub",
                         "@uri": "https://changelog.social/@shipit/113289383467413384"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/shipit/125/transcript"
                     },
                     "psc:chapters": {
                         "@version": "1.1",

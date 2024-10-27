@@ -1,18 +1,48 @@
 {
     "rss": {
         "@version": "2.0",
-        "@xml:base": "https://www.thisamericanlife.org",
+        "@xml:base": "https://www.thisamericanlife.org/podcast/rss.xml",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
         "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
         "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
         "channel": {
+            "atom:link": {
+                "@href": "https://www.thisamericanlife.org/podcast/rss.xml",
+                "@rel": "self",
+                "@type": "application/rss+xml"
+            },
             "copyright": "Copyright 1995-2024 This American Life",
             "description": "Each week we choose a theme. Then anything can happen. This American Life is true stories that unfold like little movies for radio. Personal stories with funny moments, big feelings, and surprising plot twists. Newsy stories that try to capture what it\u2019s like to be alive right now. It\u2019s the most popular weekly podcast in the world, and winner of the first ever Pulitzer Prize for a radio show or podcast. Hosted by Ira Glass and produced in collaboration with WBEZ Chicago.",
             "item": [
                 {
+                    "description": "<p>Thirteen parole board members decide whether or not one man should be released from prison.\n</p><p>Visit <a href=\"https://thisamericanlife.supercast.com\">thisamericanlife.org/lifepartners</a> to sign up for our premium subscription.</p><ul><li>Prologue: Henry Dee has been locked up for most of his life, nearly 50 years. Now, he\u2019s up for parole. Reporter Ben Austen tells the story. (19 minutes)</li><li>Part 1: The parole board members puzzle through the pros and cons of releasing Henry Dee from prison\u00a0and cast their votes.\u00a0(26 minutes)</li><li>Part 2: Reporter Ben Austen continues the story. (8 minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/844/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
+                    "enclosure": {
+                        "@type": "audio/mpeg",
+                        "@url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR4575933858.mp3"
+                    },
+                    "guid": {
+                        "#text": "45781 at https://www.thisamericanlife.org",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "This American Life",
+                    "itunes:duration": "00:59:04",
+                    "itunes:episode": "844",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://www.thisamericanlife.org/sites/default/files/styles/rss_image/public/episodes/images/tal-844-paroleshow-andreruddock.jpg?itok=WDRI3EbD"
+                    },
+                    "itunes:subtitle": "Thirteen parole board members decide whether or not one man should be released from prison.\n",
+                    "itunes:summary": "Thirteen parole board members decide whether or not one man should be released from prison.\n\n\nPrologue: Henry Dee has been locked up for most of his life, nearly 50 years. Now, he\u2019s up for parole. Reporter Ben Austen tells the story. (19 minutes)\n\nPart 1: The parole board members puzzle through the pros and cons of releasing Henry Dee from prison\u00a0and cast their votes.\u00a0(26 minutes)\n\nPart 2: Reporter Ben Austen continues the story. (8 minutes)",
+                    "itunes:title": "This Is the Case of Henry Dee",
+                    "link": "https://www.thisamericanlife.org/844/this-is-the-case-of-henry-dee",
+                    "pubDate": "Sun, 20 Oct 2024 18:00:00 -0400",
+                    "title": "844: This Is the Case of Henry Dee"
+                },
+                {
                     "description": "<p>Ira Glass has news to share about some things happening here at This American Life.</p>\n\n<p>To sign up as a Life Partner, visit <a href=\"https://www.thisamericanlife.org/lifepartners\">thisamericanlife.org/lifepartners</a>.</p>",
                     "enclosure": {
                         "@type": "audio/mpeg",
-                        "@url": "https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/life_partners_promo_101624.mp3"
+                        "@url": "https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/life_partners_promo_102524_update.mp3"
                     },
                     "guid": {
                         "#text": "45786 at https://www.thisamericanlife.org",
@@ -30,7 +60,7 @@
                     "title": "A Big Announcement"
                 },
                 {
-                    "description": "<p>So much of the fight for the presidency is coming down to battles for small slices of voters who can help throw swing states to one candidate or another. Abbas Alawieh, a leader in the Uncommitted movement, grapples with how to get his voters the thing they want.\n</p><ul><li>Prologue: When you have some power, but not a lot, how do you wield it when you\u2019re suddenly cast into the spotlight?\u00a0(4 minutes)</li><li>Act One: Zoe Chace and Ben Terris follow Abbas Alawieh as he fights to broker a deal at the DNC \u2013 a way to potentially satisfy the people who voted \u201cUncommitted\u201d in the primaries as a protest vote against Biden\u2019s handling of the war in Israel and Gaza. (33 minutes)</li><li>Act Two: Three weeks after the Democratic National Convention, Abbas speaks at a tense community meeting in Michigan about the Uncommitted organizers\u2019 general election recommendation and hears back from voters on how they feel about the Democratic nominee at this point. (15 minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/843/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
+                    "description": "<p>So much of the fight for the presidency is coming down to battles for small slices of voters who can help throw swing states to one candidate or another. Abbas Alawieh, a leader in the Uncommitted movement, grapples with how to get his voters the thing they want.\n</p><p>Visit <a href=\"https://thisamericanlife.supercast.com\">thisamericanlife.org/lifepartners</a> to sign up for our premium subscription. </p><ul><li>Prologue: When you have some power, but not a lot, how do you wield it when you\u2019re suddenly cast into the spotlight?\u00a0(4 minutes)</li><li>Act One: Zoe Chace and Ben Terris follow Abbas Alawieh as he fights to broker a deal at the DNC \u2013 a way to potentially satisfy the people who voted \u201cUncommitted\u201d in the primaries as a protest vote against Biden\u2019s handling of the war in Israel and Gaza. (33 minutes)</li><li>Act Two: Three weeks after the Democratic National Convention, Abbas speaks at a tense community meeting in Michigan about the Uncommitted organizers\u2019 general election recommendation and hears back from voters on how they feel about the Democratic nominee at this point. (15 minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/843/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
                     "enclosure": {
                         "@type": "audio/mpeg",
                         "@url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR6819470872.mp3"
@@ -41,17 +71,20 @@
                     },
                     "itunes:author": "This American Life",
                     "itunes:duration": "00:56:15",
+                    "itunes:episode": "843",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://www.thisamericanlife.org/sites/default/files/styles/rss_image/public/images/rss/tal-843-littlebitofpower-getty2167189175-sq.jpg?itok=bkiMqd57"
                     },
                     "itunes:subtitle": "Abbas Alawieh, a leader in the Uncommitted movement, grapples with how to get his voters the thing they want.\n",
                     "itunes:summary": "So much of the fight for the presidency is coming down to battles for small slices of voters who can help throw swing states to one candidate or another. Abbas Alawieh, a leader in the Uncommitted movement, grapples with how to get his voters the thing they want.\n\n\nPrologue: When you have some power, but not a lot, how do you wield it when you\u2019re suddenly cast into the spotlight?\u00a0(4 minutes)\n\nAct One: Zoe Chace and Ben Terris follow Abbas Alawieh as he fights to broker a deal at the DNC \u2013 a way to potentially satisfy the people who voted \u201cUncommitted\u201d in the primaries as a protest vote against Biden\u2019s handling of the war in Israel and Gaza. (33 minutes)\n\nAct Two: Three weeks after the Democratic National Convention, Abbas speaks at a tense community meeting in Michigan about the Uncommitted organizers\u2019 general election recommendation and hears back from voters on how they feel about the Democratic nominee at this point. (15 minutes)",
+                    "itunes:title": "A Little Bit of Power",
                     "link": "https://www.thisamericanlife.org/843/a-little-bit-of-power",
                     "pubDate": "Sun, 13 Oct 2024 18:00:00 -0400",
                     "title": "843: A Little Bit of Power"
                 },
                 {
-                    "description": "<p>Chen Almog-Goldstein was kidnapped by Hamas along with her three youngest children on October 7, 2023. This week, she tells the story of their life as hostages in Gaza.\n</p><ul><li>Prologue: The 251 hostages taken by Hamas a year ago have become a divisive symbol in Israel. Host Ira Glass talks about the father of one hostage, and what happened to him at a protest last week when he called for a hostage deal.\u00a0(6 minutes)</li><li>Part One: On this week\u2019s show, we\u2019re airing excerpts of interviews with former hostages produced by an Israeli podcast, Echad Bayom. In these interviews they describe, in a remarkably detailed and complicated way, what happened to them a year ago.\u00a0</li><li>Part Two: Chen\u2019s story continues, with a description of what it was like to be hidden in a small apartment with her children and their captors. (6 minutes)</li><li>Part Three: Chen talks about the complicated relationship between her family and the people holding them hostage.\u00a0(6 minutes)</li><li>Part Four: Chen describes hearing the Israeli news while in captivity, including one night when her own father was interviewed. (4 minutes)</li><li>Part Five: Chen talks about what it was like to walk around the streets of Gaza in disguise and their eventual release, 51 days after they were taken from their home.\u00a0(13 minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/842/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
+                    "description": "<p>Chen Almog-Goldstein was kidnapped by Hamas along with her three youngest children on October 7, 2023. This week, she tells the story of their life as hostages in Gaza.\n</p><p>Visit <a href=\"https://thisamericanlife.supercast.com\">thisamericanlife.org/lifepartners</a> to sign up for our premium subscription. </p><ul><li>Prologue: The 251 hostages taken by Hamas a year ago have become a divisive symbol in Israel. Host Ira Glass talks about the father of one hostage, and what happened to him at a protest last week when he called for a hostage deal.\u00a0(6 minutes)</li><li>Part One: On this week\u2019s show, we\u2019re airing excerpts of interviews with former hostages produced by an Israeli podcast, Echad Bayom. In these interviews they describe, in a remarkably detailed and complicated way, what happened to them a year ago.\u00a0</li><li>Part Two: Chen\u2019s story continues, with a description of what it was like to be hidden in a small apartment with her children and their captors. (6 minutes)</li><li>Part Three: Chen talks about the complicated relationship between her family and the people holding them hostage.\u00a0(6 minutes)</li><li>Part Four: Chen describes hearing the Israeli news while in captivity, including one night when her own father was interviewed. (4 minutes)</li><li>Part Five: Chen talks about what it was like to walk around the streets of Gaza in disguise and their eventual release, 51 days after they were taken from their home.\u00a0(13 minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/842/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
                     "enclosure": {
                         "@type": "audio/mpeg",
                         "@url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR7243952442.mp3"
@@ -62,11 +95,14 @@
                     },
                     "itunes:author": "This American Life",
                     "itunes:duration": "00:58:38",
+                    "itunes:episode": "842",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://www.thisamericanlife.org/sites/default/files/styles/rss_image/public/images/rss/tal-842-ayearlater-avishagshaaryashuv-sq.jpg?itok=UlX9AxZD"
                     },
                     "itunes:subtitle": "Chen Almog-Goldstein tells the story of life as a hostage in Gaza.\n",
                     "itunes:summary": "Chen Almog-Goldstein was kidnapped by Hamas along with her three youngest children on October 7, 2023. This week, she tells the story of their life as hostages in Gaza.\n\n\nPrologue: The 251 hostages taken by Hamas a year ago have become a divisive symbol in Israel. Host Ira Glass talks about the father of one hostage, and what happened to him at a protest last week when he called for a hostage deal.\u00a0(6 minutes)\n\nPart One: On this week\u2019s show, we\u2019re airing excerpts of interviews with former hostages produced by an Israeli podcast, Echad Bayom. In these interviews they describe, in a remarkably detailed and complicated way, what happened to them a year ago.\u00a0\n\nPart Two: Chen\u2019s story continues, with a description of what it was like to be hidden in a small apartment with her children and their captors. (6 minutes)\n\nPart Three: Chen talks about the complicated relationship between her family and the people holding them hostage.\u00a0(6 minutes)\n\nPart Four: Chen describes hearing the Israeli news while in captivity, including one night when her own father was interviewed. (4 minutes)\n\nPart Five: Chen talks about what it was like to walk around the streets of Gaza in disguise and their eventual release, 51 days after they were taken from their home.\u00a0(13 minutes)",
+                    "itunes:title": "51 Days",
                     "link": "https://www.thisamericanlife.org/842/51-days",
                     "pubDate": "Sun, 06 Oct 2024 18:00:00 -0400",
                     "title": "842: 51 Days"
@@ -83,17 +119,20 @@
                     },
                     "itunes:author": "This American Life",
                     "itunes:duration": "00:59:52",
+                    "itunes:episode": "553",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://www.thisamericanlife.org/sites/default/files/styles/rss_image/public/images/rss/tal-553.jpg?itok=17XEyW3G"
                     },
                     "itunes:subtitle": "People caught in limbo, using ingenuity and guile to try to get themselves out.\n",
                     "itunes:summary": "People caught in limbo, using ingenuity and guile to try to get themselves out.\n\n\nPrologue: Rachel has two kids. Elias, age seven, is a vegetarian. Theo, age five, is not. But Elias wants Theo, and everyone else in the house, to be vegetarian too. So Rachel and her husband are in the middle of negotiating the desires of two very strong willed kids.\u00a0(12 minutes)\n\nAct One: Sara Corbett's father-in-law Dick is 81. And he's become obsessed with a limbo most of us hate \u2013 the music he hears whenever he's on hold.\u00a0(14 minutes)\n\nAct Two: Mark Oppenheimer reports on agunah in the Orthodox Jewish community. An agunah is a woman whose husband refuses to give her a divorce \u2013 in Hebrew it means \"chained wife.\" If you're an Orthodox Jew, strictly following Jewish law, the only real way to get divorced is if your husband agrees to hand you a piece of paper called a get. Without the get, women who want out of their marriages can stay chained to their husbands for years. In New York, a couple of rabbis were recently accused of using violence to force men to give their wives a get.\u00a0(17 minutes)\n\nAct Three: Brett Martin documents a previously unnoticed human phenomenon, one that involves airplanes, crying, and Reese Witherspoon.\u00a0(11 minutes)",
+                    "itunes:title": "Stuck in the Middle",
                     "link": "https://www.thisamericanlife.org/553/stuck-in-the-middle",
                     "pubDate": "Sun, 29 Sep 2024 18:00:00 -0400",
                     "title": "553: Stuck in the Middle"
                 },
                 {
-                    "description": "<p>One kid comes to America as an exchange student and commits herself to the senior year experience.\n</p><ul><li>Prologue: We talk to high school seniors in Salt Lake City who are trying to have the perfect year. (5 minutes)</li><li>Act One: Every year, thousands of teenagers come from all over the world to experience American high school. Last year, thirteen students from Palestine came to the US on a program sponsored by the US State Department. We tell the story of a girl named Majd, from Gaza, and her extraordinary year in America. (50 minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/841/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
+                    "description": "<p>One kid comes to America as an exchange student and commits herself to the senior year experience.\n</p><p>Visit <a href=\"https://thisamericanlife.supercast.com\">thisamericanlife.org/lifepartners</a> to sign up for our premium subscription. </p><ul><li>Prologue: We talk to high school seniors in Salt Lake City who are trying to have the perfect year. (5 minutes)</li><li>Act One: Every year, thousands of teenagers come from all over the world to experience American high school. Last year, thirteen students from Palestine came to the US on a program sponsored by the US State Department. We tell the story of a girl named Majd, from Gaza, and her extraordinary year in America. (50 minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/841/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
                     "enclosure": {
                         "@type": "audio/mpeg",
                         "@url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR4631524452.mp3"
@@ -104,17 +143,20 @@
                     },
                     "itunes:author": "This American Life",
                     "itunes:duration": "00:58:48",
+                    "itunes:episode": "841",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://www.thisamericanlife.org/sites/default/files/styles/rss_image/public/images/rss/tal-841.jpg?itok=SCsxSF2x"
                     },
                     "itunes:subtitle": "One kid comes to America as an exchange student and commits herself to the senior year experience.\n",
                     "itunes:summary": "One kid comes to America as an exchange student and commits herself to the senior year experience.\n\n\nPrologue: We talk to high school seniors in Salt Lake City who are trying to have the perfect year. (5 minutes)\n\nAct One: Every year, thousands of teenagers come from all over the world to experience American high school. Last year, thirteen students from Palestine came to the US on a program sponsored by the US State Department. We tell the story of a girl named Majd, from Gaza, and her extraordinary year in America. (50 minutes)",
+                    "itunes:title": "My Senior Year",
                     "link": "https://www.thisamericanlife.org/841/my-senior-year",
                     "pubDate": "Sun, 22 Sep 2024 18:00:00 -0400",
                     "title": "841: My Senior Year"
                 },
                 {
-                    "description": "<p>People trying and struggling to see what another\u00a0person sees.\u00a0\n</p><ul><li>Prologue: Guest-host Tobin Low talks to comedian Tig Notaro about a jarring ride to school with her son.\u00a0(6 minutes)</li><li>Act One: Producer Aviva DeKornfeld heads to the Calgary Stampede\u00a0to watch as men try out a machine designed to simulate menstrual cramps.\u00a0(15 minutes)</li><li>Act Two: A man can\u2019t seem to see anyone in his life for who they really are, plunging his life into chaos.\u00a0(18 minutes)</li><li>Act Three: Senior Editor David Kestenbaum hears about a way to save some money and help save the world. All he needs is a little help.\u00a0(5 minutes)</li><li>Act Four: Marie Phillips reads a short story involving an aloof friend, a goose, and some extreme gardening.\u00a0(7 minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/840/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
+                    "description": "<p>People trying and struggling to see what another\u00a0person sees.\u00a0\n</p><p>Visit <a href=\"https://thisamericanlife.supercast.com\">thisamericanlife.org/lifepartners</a> to sign up for our premium subscription. </p><ul><li>Prologue: Guest-host Tobin Low talks to comedian Tig Notaro about a jarring ride to school with her son.\u00a0(6 minutes)</li><li>Act One: Producer Aviva DeKornfeld heads to the Calgary Stampede\u00a0to watch as men try out a machine designed to simulate menstrual cramps.\u00a0(15 minutes)</li><li>Act Two: A man can\u2019t seem to see anyone in his life for who they really are, plunging his life into chaos.\u00a0(18 minutes)</li><li>Act Three: Senior Editor David Kestenbaum hears about a way to save some money and help save the world. All he needs is a little help.\u00a0(5 minutes)</li><li>Act Four: Marie Phillips reads a short story involving an aloof friend, a goose, and some extreme gardening.\u00a0(7 minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/840/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
                     "enclosure": {
                         "@type": "audio/mpeg",
                         "@url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR8694814230.mp3"
@@ -125,17 +167,20 @@
                     },
                     "itunes:author": "This American Life",
                     "itunes:duration": "00:59:18",
+                    "itunes:episode": "840",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://www.thisamericanlife.org/sites/default/files/styles/rss_image/public/images/rss/tal-840.jpg?itok=FhMa5w-G"
                     },
                     "itunes:subtitle": "People trying and struggling to see what another\u00a0person sees.\u00a0\n",
                     "itunes:summary": "People trying and struggling to see what another\u00a0person sees.\u00a0\n\n\nPrologue: Guest-host Tobin Low talks to comedian Tig Notaro about a jarring ride to school with her son.\u00a0(6 minutes)\n\nAct One: Producer Aviva DeKornfeld heads to the Calgary Stampede\u00a0to watch as men try out a machine designed to simulate menstrual cramps.\u00a0(15 minutes)\n\nAct Two: A man can\u2019t seem to see anyone in his life for who they really are, plunging his life into chaos.\u00a0(18 minutes)\n\nAct Three: Senior Editor David Kestenbaum hears about a way to save some money and help save the world. All he needs is a little help.\u00a0(5 minutes)\n\nAct Four: Marie Phillips reads a short story involving an aloof friend, a goose, and some extreme gardening.\u00a0(7 minutes)",
+                    "itunes:title": "How Are You Not Seeing This?",
                     "link": "https://www.thisamericanlife.org/840/how-are-you-not-seeing-this",
                     "pubDate": "Sun, 15 Sep 2024 18:00:00 -0400",
                     "title": "840: How Are You Not Seeing This?"
                 },
                 {
-                    "description": "<p>Iowa has three million people and a million come to their State Fair, each with their own goals and dreams for the fair. We hang out with some of them, to see if they get what they hoped for.\n</p><ul><li>Prologue: A big bull, a giant slide, and cowboys on horseback shooting balloons are just a few sights you can take in at the Iowa State Fair. Some people come for the spectacle, and some are the spectacle.\u00a0(8 minutes)</li><li>Act One: Bailey Leavitt comes from a family of carnies. For her, one of the most thrilling things she looks for at the fair is someone who is really good at luring people into spending money at their stand. She takes Ira on an insider\u2019s search for \u201can agent.\u201d\u00a0(16 minutes)</li><li>Act 2: Motley Crue pledged never to play the fairgrounds. Then they did. We wondered what that had been like for them. They agreed to an interview, but then they flinched.\u00a0(1 minute)</li><li>Act Two: What life lessons can kids learn at the 4-H rabbit competition? A lot.\u00a0(11 minutes)</li><li>Act Three: The Iowa State Fair awarded coveted slots to just nine new food vendors this year. All of them are run by people who already own restaurants or who\u2019ve done other big fairs. All except for an unlikely newcomer:\u00a0Biscuit Bar.\u00a0(19 minutes)</li><li>Act Four: As the ferris wheel goes dark and the fair is closing down, one game is racing to meet their quota. Ira watches until the end.</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/839/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
+                    "description": "<p>Iowa has three million people and a million come to their State Fair, each with their own goals and dreams for the fair. We hang out with some of them, to see if they get what they hoped for.\n</p><p>Visit <a href=\"https://thisamericanlife.supercast.com\">thisamericanlife.org/lifepartners</a> to sign up for our premium subscription.</p><ul><li>Prologue: A big bull, a giant slide, and cowboys on horseback shooting balloons are just a few sights you can take in at the Iowa State Fair. Some people come for the spectacle, and some are the spectacle.\u00a0(8 minutes)</li><li>Act One: Bailey Leavitt comes from a family of carnies. For her, one of the most thrilling things she looks for at the fair is someone who is really good at luring people into spending money at their stand. She takes Ira on an insider\u2019s search for \u201can agent.\u201d\u00a0(16 minutes)</li><li>Act 2: Motley Crue pledged never to play the fairgrounds. Then they did. We wondered what that had been like for them. They agreed to an interview, but then they flinched.\u00a0(1 minute)</li><li>Act Two: What life lessons can kids learn at the 4-H rabbit competition? A lot.\u00a0(11 minutes)</li><li>Act Three: The Iowa State Fair awarded coveted slots to just nine new food vendors this year. All of them are run by people who already own restaurants or who\u2019ve done other big fairs. All except for an unlikely newcomer:\u00a0Biscuit Bar.\u00a0(19 minutes)</li><li>Act Four: As the ferris wheel goes dark and the fair is closing down, one game is racing to meet their quota. Ira watches until the end.</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/839/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
                     "enclosure": {
                         "@type": "audio/mpeg",
                         "@url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR5729005227.mp3?updated=1725707917"
@@ -146,17 +191,20 @@
                     },
                     "itunes:author": "This American Life",
                     "itunes:duration": "01:04:21",
+                    "itunes:episode": "839",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://www.thisamericanlife.org/sites/default/files/styles/rss_image/public/images/rss/tal-839.jpg?itok=dPv9Ug_G"
                     },
                     "itunes:subtitle": "We spend a few days at the Iowa State Fair.\n",
                     "itunes:summary": "Iowa has three million people and a million come to their State Fair, each with their own goals and dreams for the fair. We hang out with some of them, to see if they get what they hoped for.\n\n\nPrologue: A big bull, a giant slide, and cowboys on horseback shooting balloons are just a few sights you can take in at the Iowa State Fair. Some people come for the spectacle, and some are the spectacle.\u00a0(8 minutes)\n\nAct One: Bailey Leavitt comes from a family of carnies. For her, one of the most thrilling things she looks for at the fair is someone who is really good at luring people into spending money at their stand. She takes Ira on an insider\u2019s search for \u201can agent.\u201d\u00a0(16 minutes)\n\nAct 2: Motley Crue pledged never to play the fairgrounds. Then they did. We wondered what that had been like for them. They agreed to an interview, but then they flinched.\u00a0(1 minute)\n\nAct Two: What life lessons can kids learn at the 4-H rabbit competition? A lot.\u00a0(11 minutes)\n\nAct Three: The Iowa State Fair awarded coveted slots to just nine new food vendors this year. All of them are run by people who already own restaurants or who\u2019ve done other big fairs. All except for an unlikely newcomer:\u00a0Biscuit Bar.\u00a0(19 minutes)\n\nAct Four: As the ferris wheel goes dark and the fair is closing down, one game is racing to meet their quota. Ira watches until the end.",
+                    "itunes:title": "Meet Me at the Fair",
                     "link": "https://www.thisamericanlife.org/839/meet-me-at-the-fair",
                     "pubDate": "Sun, 08 Sep 2024 18:00:00 -0400",
                     "title": "839: Meet Me at the Fair"
                 },
                 {
-                    "description": "<p>When the best\u2014and perhaps only\u2014way to say something is to write it down.\n</p><ul><li>Prologue: Ira goes out with a letter carrier, \u2018Grace,\u2019 as she delivers mail on her route. He\u00a0learns about the people who bring us our mail and also how people treat their mail.\u00a0(11 minutes)</li><li>Act One: Writing a letter decades after an event that shaped her life was the only way that Nicole Piasecki could make some sense of it. (18 minutes)</li><li>Act Two: Yorkshire, 1866. A farmer overcomes his timidity and writes a very important letter to a local beauty. (3 minutes)</li><li>Act Three: When senior editor David Kestenbaum was still a rookie reporter, he wrote an email to a legend. Then he waited...and waited...for a reply.\u00a0(6 minutes)</li><li>Act Four: A woman writes an unusual letter on behalf of her husband. (1 minute)</li><li>Act Five: Producer Zoe Chace compares the letters a person gets and the letters they wish they got. (12 minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/838/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
+                    "description": "<p>When the best\u2014and perhaps only\u2014way to say something is to write it down.\n</p><p>Visit <a href=\"https://thisamericanlife.supercast.com\">thisamericanlife.org/lifepartners</a> to sign up for our premium subscription.</p><ul><li>Prologue: Ira goes out with a letter carrier, \u2018Grace,\u2019 as she delivers mail on her route. He\u00a0learns about the people who bring us our mail and also how people treat their mail.\u00a0(11 minutes)</li><li>Act One: Writing a letter decades after an event that shaped her life was the only way that Nicole Piasecki could make some sense of it. (18 minutes)</li><li>Act Two: Yorkshire, 1866. A farmer overcomes his timidity and writes a very important letter to a local beauty. (3 minutes)</li><li>Act Three: When senior editor David Kestenbaum was still a rookie reporter, he wrote an email to a legend. Then he waited...and waited...for a reply.\u00a0(6 minutes)</li><li>Act Four: A woman writes an unusual letter on behalf of her husband. (1 minute)</li><li>Act Five: Producer Zoe Chace compares the letters a person gets and the letters they wish they got. (12 minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/838/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
                     "enclosure": {
                         "@type": "audio/mpeg",
                         "@url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR2805682533.mp3"
@@ -167,17 +215,20 @@
                     },
                     "itunes:author": "This American Life",
                     "itunes:duration": "00:58:57",
+                    "itunes:episode": "838",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://www.thisamericanlife.org/sites/default/files/styles/rss_image/public/images/rss/tal-838.jpg?itok=JhCg40-V"
                     },
                     "itunes:subtitle": "When the best\u2014and perhaps only\u2014way to say something is to write it down.\n",
                     "itunes:summary": "When the best\u2014and perhaps only\u2014way to say something is to write it down.\n\n\nPrologue: Ira goes out with a letter carrier, \u2018Grace,\u2019 as she delivers mail on her route. He\u00a0learns about the people who bring us our mail and also how people treat their mail.\u00a0(11 minutes)\n\nAct One: Writing a letter decades after an event that shaped her life was the only way that Nicole Piasecki could make some sense of it. (18 minutes)\n\nAct Two: Yorkshire, 1866. A farmer overcomes his timidity and writes a very important letter to a local beauty. (3 minutes)\n\nAct Three: When senior editor David Kestenbaum was still a rookie reporter, he wrote an email to a legend. Then he waited...and waited...for a reply.\u00a0(6 minutes)\n\nAct Four: A woman writes an unusual letter on behalf of her husband. (1 minute)\n\nAct Five: Producer Zoe Chace compares the letters a person gets and the letters they wish they got. (12 minutes)",
+                    "itunes:title": "Letters! Actual Letters!",
                     "link": "https://www.thisamericanlife.org/838/letters-actual-letters",
                     "pubDate": "Sun, 18 Aug 2024 18:00:00 -0400",
                     "title": "838: Letters! Actual Letters!"
                 },
                 {
-                    "description": "<p>In a crisis, when all logic\u00a0suggests that you get away from the dangerous thing, how will you respond?\n</p><ul><li>Prologue: Ira talks to two members of a recreational swimming club who intentionally swam straight toward a shark that had just bitten their friend.\u00a0(10\u00a0minutes)</li><li>Act One: Sarah Polley has always been reluctant to jump into challenging situations. Then something happened that changed all of that \u2013 something that also made her think her teeth were going to fall out.\u00a0(21\u00a0minutes)</li><li>Act Two: Comedian Josh Johnson tells the story of a \u201ctrad wife\u201d who stepped into an incendiary situation. And even as the flames consumed her, she kept stepping.\u00a0(7 minutes)</li><li>Act Three: This summer, thousands of young people have taken to the streets in Nairobi to protest the Kenyan government. But behind those protestors are thousands of worried parents. Reporter Kimu Elolia talks to a woman whose son keeps lying to her.\u00a0(19\u00a0minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/837/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
+                    "description": "<p>In a crisis, when all logic\u00a0suggests that you get away from the dangerous thing, how will you respond?\n</p><p>Visit <a href=\"https://thisamericanlife.supercast.com\">thisamericanlife.org/lifepartners</a> to sign up for our premium subscription.</p><ul><li>Prologue: Ira talks to two members of a recreational swimming club who intentionally swam straight toward a shark that had just bitten their friend.\u00a0(10\u00a0minutes)</li><li>Act One: Sarah Polley has always been reluctant to jump into challenging situations. Then something happened that changed all of that \u2013 something that also made her think her teeth were going to fall out.\u00a0(21\u00a0minutes)</li><li>Act Two: Comedian Josh Johnson tells the story of a \u201ctrad wife\u201d who stepped into an incendiary situation. And even as the flames consumed her, she kept stepping.\u00a0(7 minutes)</li><li>Act Three: This summer, thousands of young people have taken to the streets in Nairobi to protest the Kenyan government. But behind those protestors are thousands of worried parents. Reporter Kimu Elolia talks to a woman whose son keeps lying to her.\u00a0(19\u00a0minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/837/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
                     "enclosure": {
                         "@type": "audio/mpeg",
                         "@url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR2067195734.mp3"
@@ -188,17 +239,20 @@
                     },
                     "itunes:author": "This American Life",
                     "itunes:duration": "01:05:46",
+                    "itunes:episode": "837",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://www.thisamericanlife.org/sites/default/files/styles/rss_image/public/images/rss/tal-837.jpg?itok=xiCMOl3S"
                     },
                     "itunes:subtitle": "In a crisis, when all logic\u00a0suggests that you get away from the dangerous thing, how will you respond?\n",
                     "itunes:summary": "In a crisis, when all logic\u00a0suggests that you get away from the dangerous thing, how will you respond?\n\n\nPrologue: Ira talks to two members of a recreational swimming club who intentionally swam straight toward a shark that had just bitten their friend.\u00a0(10\u00a0minutes)\n\nAct One: Sarah Polley has always been reluctant to jump into challenging situations. Then something happened that changed all of that \u2013 something that also made her think her teeth were going to fall out.\u00a0(21\u00a0minutes)\n\nAct Two: Comedian Josh Johnson tells the story of a \u201ctrad wife\u201d who stepped into an incendiary situation. And even as the flames consumed her, she kept stepping.\u00a0(7 minutes)\n\nAct Three: This summer, thousands of young people have taken to the streets in Nairobi to protest the Kenyan government. But behind those protestors are thousands of worried parents. Reporter Kimu Elolia talks to a woman whose son keeps lying to her.\u00a0(19\u00a0minutes)",
+                    "itunes:title": "Swim Towards the Shark",
                     "link": "https://www.thisamericanlife.org/837/swim-towards-the-shark",
                     "pubDate": "Sun, 11 Aug 2024 18:00:00 -0400",
                     "title": "837: Swim Towards the Shark"
                 },
                 {
-                    "description": "<p>People rethinking some of the most important relationships in their lives \u2014 with\u00a0their sister, their political party, and the nominee for president.\n</p><ul><li>Prologue: Ira observes that we are in a moment of national reconsideration. (2 minutes)</li><li>Act One: Zoe Chace reports on a surprising guest at the Republican National Convention: Teamsters president Sean O\u2019Brien.\u00a0(18 minutes)</li><li>Act Two: Ira talks to Representative Seth Moulton about what it was like to be among the first members of Congress to call for President Joe Biden to step aside.\u00a0(18 minutes)</li><li>Act Three: Two adult sisters revisit old rivalries when they compete for a world record in typing with their pinkies.\u00a0(16 minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/836/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
+                    "description": "<p>People rethinking some of the most important relationships in their lives \u2014 with\u00a0their sister, their political party, and the nominee for president.\n</p><p>Visit <a href=\"https://thisamericanlife.supercast.com\">thisamericanlife.org/lifepartners</a> to sign up for our premium subscription.</p><ul><li>Prologue: Ira observes that we are in a moment of national reconsideration. (2 minutes)</li><li>Act One: Zoe Chace reports on a surprising guest at the Republican National Convention: Teamsters president Sean O\u2019Brien.\u00a0(18 minutes)</li><li>Act Two: Ira talks to Representative Seth Moulton about what it was like to be among the first members of Congress to call for President Joe Biden to step aside.\u00a0(18 minutes)</li><li>Act Three: Two adult sisters revisit old rivalries when they compete for a world record in typing with their pinkies.\u00a0(16 minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/836/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
                     "enclosure": {
                         "@type": "audio/mpeg",
                         "@url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR5686995219.mp3"
@@ -209,35 +263,17 @@
                     },
                     "itunes:author": "This American Life",
                     "itunes:duration": "00:59:40",
+                    "itunes:episode": "836",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://www.thisamericanlife.org/sites/default/files/styles/rss_image/public/images/rss/tal-836.jpg?itok=AeaFeAvf"
                     },
                     "itunes:subtitle": "People rethinking some of the most important relationships in their lives.\n",
                     "itunes:summary": "People rethinking some of the most important relationships in their lives \u2014 with\u00a0their sister, their political party, and the nominee for president.\n\n\nPrologue: Ira observes that we are in a moment of national reconsideration. (2 minutes)\n\nAct One: Zoe Chace reports on a surprising guest at the Republican National Convention: Teamsters president Sean O\u2019Brien.\u00a0(18 minutes)\n\nAct Two: Ira talks to Representative Seth Moulton about what it was like to be among the first members of Congress to call for President Joe Biden to step aside.\u00a0(18 minutes)\n\nAct Three: Two adult sisters revisit old rivalries when they compete for a world record in typing with their pinkies.\u00a0(16 minutes)",
+                    "itunes:title": "The Big Rethink",
                     "link": "https://www.thisamericanlife.org/836/the-big-rethink",
                     "pubDate": "Sun, 21 Jul 2024 18:00:00 -0400",
                     "title": "836: The Big Rethink"
-                },
-                {
-                    "description": "<p>Boen Wang\u00a0has a theory that a lot of the misery in his life can be traced to a single moment that happened years before he was born. So he makes a pilgrimage to see if he\u2019s right.\n</p><ul><li>Prologue: Ira talks about what it\u2019s like to go back to 1119 Bayard Street in Baltimore.\u00a0(6 minutes)</li><li>Part One: Boen visits Norman, Oklahoma, where he was born, to meet the man he thinks changed his parents\u2019 lives\u2014and his life, too.\u00a0(31 minutes)</li><li>Part Two: Boen\u2019s friend, Andrew, and his parents take what he learned in Part One, throw it into a blender, and push puree. (20 minutes)</li></ul><p>Transcripts are available at <a href=\"https://www.thisamericanlife.org/835/transcript\">thisamericanlife.org</a></p><p><a href='https://www.thisamericanlife.org/page/privacy-policy'>This American Life privacy policy.</a><br /><a href='https://podcastchoices.com/adchoices'>Learn more about sponsor message choices.</a></p>",
-                    "enclosure": {
-                        "@type": "audio/mpeg",
-                        "@url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/traffic.megaphone.fm/NPR1485626536.mp3"
-                    },
-                    "guid": {
-                        "#text": "45650 at https://www.thisamericanlife.org",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "This American Life",
-                    "itunes:duration": "01:01:10",
-                    "itunes:image": {
-                        "@href": "https://www.thisamericanlife.org/sites/default/files/styles/rss_image/public/images/rss/tal-835.jpg?itok=fWRuS4T6"
-                    },
-                    "itunes:subtitle": "Boen Wang goes back to a day that changed the course of his family's story.\n",
-                    "itunes:summary": "Boen Wang\u00a0has a theory that a lot of the misery in his life can be traced to a single moment that happened years before he was born. So he makes a pilgrimage to see if he\u2019s right.\n\n\nPrologue: Ira talks about what it\u2019s like to go back to 1119 Bayard Street in Baltimore.\u00a0(6 minutes)\n\nPart One: Boen visits Norman, Oklahoma, where he was born, to meet the man he thinks changed his parents\u2019 lives\u2014and his life, too.\u00a0(31 minutes)\n\nPart Two: Boen\u2019s friend, Andrew, and his parents take what he learned in Part One, throw it into a blender, and push puree. (20 minutes)",
-                    "link": "https://www.thisamericanlife.org/835/children-of-dave",
-                    "pubDate": "Sun, 30 Jun 2024 18:00:00 -0400",
-                    "title": "835: Children of Dave"
                 }
             ],
             "itunes:author": "This American Life",
@@ -255,6 +291,7 @@
                     }
                 }
             ],
+            "itunes:explicit": "false",
             "itunes:image": {
                 "@href": "https://thisamericanlife.org/sites/all/themes/thislife/img/tal-logo-3000x3000.png"
             },
@@ -264,9 +301,8 @@
             },
             "itunes:subtitle": "Each week we choose a theme. Then anything can happen. This American Life is true stories that unfold like little movies for radio. Personal stories with funny moments, big feelings, and surprising plot twists. Newsy stories that try to capture what it\u2019s like to be alive right now. It\u2019s the most popular weekly podcast in the world, and winner of the first ever Pulitzer Prize for a radio show or podcast. Hosted by Ira Glass and produced in collaboration with WBEZ Chicago.",
             "language": "en",
-            "link": "https://www.thisamericanlife.org",
-            "title": "This American Life",
-            "verification": "152380"
+            "link": "https://www.thisamericanlife.org/podcast/rss.xml",
+            "title": "This American Life"
         }
     }
 }

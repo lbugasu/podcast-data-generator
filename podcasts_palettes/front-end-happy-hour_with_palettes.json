@@ -38,6 +38,29 @@
             "item": [
                 {
                     "dc:creator": "Front End Happy Hour",
+                    "description": "<p>In this episode of Front End Happy Hour, we explore the benefits and challenges of Server-Driven UI, especially in the context of large-scale applications. Join us as we discuss how this approach impacts front-end development, enhances flexibility, and scales effectively within big companies. Whether you\u2019re curious about its implementation or looking to optimize your own tech stack, this conversation is packed with valuable insights. Tune in for a deep dive into Server-Driven UI and its role in shaping the future of user interfaces.</p>\n",
+                    "enclosure": {
+                        "@length": "55285968",
+                        "@type": "audio/mpeg",
+                        "@url": "https://anchor.fm/s/fb57a4a8/podcast/play/93247766/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-22%2F388535186-44100-2-708b87e57dfd6.mp3"
+                    },
+                    "guid": {
+                        "#text": "5450879b-1995-4c0c-8492-972f4da06779",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "00:57:35",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "Yes",
+                    "itunes:image": {
+                        "@href": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42068250/63f213b24827edaa.jpg"
+                    },
+                    "itunes:summary": "<p>In this episode of Front End Happy Hour, we explore the benefits and challenges of Server-Driven UI, especially in the context of large-scale applications. Join us as we discuss how this approach impacts front-end development, enhances flexibility, and scales effectively within big companies. Whether you\u2019re curious about its implementation or looking to optimize your own tech stack, this conversation is packed with valuable insights. Tune in for a deep dive into Server-Driven UI and its role in shaping the future of user interfaces.</p>\n",
+                    "link": "https://podcasters.spotify.com/pod/show/front-end-happy-hour/episodes/Revisiting-Server-Driven-UI-Scalable-Approaches-in-Large-Companies-e2ps6qm",
+                    "pubDate": "Mon, 21 Oct 2024 18:31:00 GMT",
+                    "title": "Revisiting Server-Driven UI: Scalable Approaches in Large Companies"
+                },
+                {
+                    "dc:creator": "Front End Happy Hour",
                     "description": "<p>In this episode of Front End Happy Hour\u2019s Sips of Wisdom, Ryan Burgess sits down with Taylor Desseyn, a long-time recruiter turned leader, to discuss his exciting new leadership role and his approach to building global communities. Taylor shares insights from his 13+ years of experience recruiting engineers and how he\u2019s transitioned into a role focused on community building at scale. He talks about partnering with engineering leaders to hire top talent, the challenges of scaling himself through content creation, and his vision for creating high-quality, meaningful content that fosters community. Whether you\u2019re interested in recruitment, leadership, or content creation, this conversation offers valuable takeaways on staying curious, evolving your career, and creating impact through authentic connections.</p>\n",
                     "enclosure": {
                         "@length": "54986291",
@@ -4787,7 +4810,7 @@
             "itunes:summary": "A podcast featuring panelists of engineers from Netflix, Twitch, &amp; Atlassian talking over drinks about all things software engineering.",
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Sat, 19 Oct 2024 04:01:43 GMT",
+            "lastBuildDate": "Tue, 22 Oct 2024 17:11:40 GMT",
             "link": "http://frontendhappyhour.com/",
             "title": "Front End Happy Hour"
         }

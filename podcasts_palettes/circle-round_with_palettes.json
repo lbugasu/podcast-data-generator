@@ -34,6 +34,63 @@
                         "Arts",
                         "Books"
                     ],
+                    "content:encoded": "<p><span style=\"font-weight: 400;\">Actor Kelly Jenrette (All American: Homecoming, The Handmaid\u2019s Tale) and producer/actor Lamar Richardson (Appropriate, Merrily We Roll Along) co-star in a Shona legend that proves how big strength can come in little sizes.</span></p>",
+                    "dc:creator": {
+                        "#text": "WBUR",
+                        "@xmlns:dc": "http://purl.org/dc/elements/1.1/"
+                    },
+                    "description": "<p><span style=\"font-weight: 400;\">Actor Kelly Jenrette (All American: Homecoming, The Handmaid\u2019s Tale) and producer/actor Lamar Richardson (Appropriate, Merrily We Roll Along) co-star in a Shona legend that proves how big strength can come in little sizes.</span></p>",
+                    "enclosure": {
+                        "@length": "18834289",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR9715610341.mp3"
+                    },
+                    "guid": {
+                        "#text": "eb96eee6-38d6-403e-91a6-cfbe2274a965",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": " WBUR ",
+                    "itunes:duration": "00:19:37",
+                    "itunes:episode": "17",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://wordpress.wbur.org/wp-content/uploads/2024/10/faceoffSQ.jpg"
+                    },
+                    "itunes:season": "8",
+                    "itunes:subtitle": "Actor Kelly Jenrette (All American: Homecoming, The Handmaid\u2019s Tale) and producer/actor Lamar Richardson (Appropriate, Merrily We Roll Along) co-star in a Shona legend that proves how big strength can come in little sizes.",
+                    "itunes:summary": "<span style=\"font-weight: 400;\">Actor Kelly Jenrette (All American: Homecoming, The Handmaid\u2019s Tale) and producer/actor Lamar Richardson (Appropriate, Merrily We Roll Along) co-star in a Shona legend that proves how big strength can come in little sizes.</span>",
+                    "itunes:title": " The Face-Off ",
+                    "link": "https://www.wbur.org/circleround/2024/10/22/face-off",
+                    "media:content": [
+                        {
+                            "@height": "3000",
+                            "@medium": "image",
+                            "@type": "image/jpeg",
+                            "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/10/faceoffSQ.jpg",
+                            "@width": "3000",
+                            "media:description": "(Sabina Hahn for WBUR)",
+                            "media:thumbnail": {
+                                "@height": "200",
+                                "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/10/faceoffSQ-200x200.jpg",
+                                "@width": "200"
+                            }
+                        },
+                        {
+                            "@fileSize": "18834289",
+                            "@medium": "audio",
+                            "@type": "audio/mpeg",
+                            "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR9715610341.mp3"
+                        }
+                    ],
+                    "pubDate": "Tue, 22 Oct 2024 15:00:00 -0400",
+                    "title": "The Face-Off"
+                },
+                {
+                    "category": [
+                        "Arts",
+                        "Books"
+                    ],
                     "content:encoded": "<p><span style=\"font-weight: 400;\">Tatyana Ali (Fresh Prince of Bel-Air, Abbot Elementary) and Jack De Sena (Lego Monkie Kid, Avatar: The Last Airbender) headline this Filipino story about getting the upper hand by taking the lower half.</span></p>",
                     "dc:creator": {
                         "#text": "WBUR",
@@ -20590,7 +20647,7 @@
             "itunes:summary": "Created and produced by parents of young children, WBUR's Circle Round adapts carefully-selected folktales from around the world into sound- and music-rich radio plays for kids ages 3-103. Each 15 to 25-minute episode explores important issues like kindness, persistence and generosity. And each episode ends with an activity that inspires a deeper conversation between children and grown-ups.",
             "itunes:type": "serial",
             "language": "en-us",
-            "lastBuildDate": "Sat, 19 Oct 2024 20:30:03 -0400",
+            "lastBuildDate": "Sat, 26 Oct 2024 20:30:09 -0400",
             "link": "https://www.wbur.org/podcasts/circleround",
             "title": "Circle Round"
         }

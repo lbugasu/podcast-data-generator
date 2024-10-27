@@ -29,6 +29,30 @@
             },
             "item": [
                 {
+                    "description": "In this episode, Lucas, Armen, and Subrat are joined by Luis Galeas, the CEO and founder of Ambar. Today's discussion dives into the fascinating world of event sourcing, exploring its intricacies in both front-end and back-end development.<br />Event sourcing has emerged as a pivotal technique for managing the state by recording events that can rebuild the application state, bringing unique challenges and opportunities, especially on the back end where state persistence and scalability are critical. Luis shares his expertise on how Ambar's tools simplify event connections with minimal coding, the importance of efficient data transfer, and how event sourcing can transform state management.<br />They also cover practical aspects like the technological components, system design, and implementation strategies for event sourcing, providing a comprehensive overview for developers keen on enhancing their applications. Lucas, Armen, and Subrat, alongside Luis, provide valuable insights and address common challenges, ensuring you walk away with actionable knowledge.<br />To round things off, Luis introduces a free course offered by Ambar to dive deeper into event sourcing and discusses how gradual implementation can ease the transition for your development projects. Stay tuned for a deep dive into event sourcing's potential to revolutionize your approach to state management in both front-end and back-end technologies.<br /><br /><br />Socials<br /><ul><li><a href=\"https://www.linkedin.com/in/galeaspablo/\" target=\"_blank\" rel=\"noreferrer noopener\">LinkedIn: Luis P Galeas</a></li></ul><br /><br />Become a supporter of this podcast: <a href=\"https://www.spreaker.com/podcast/adventures-in-angular--6102018/support?utm_source=rss&utm_medium=rss&utm_campaign=rss\">https://www.spreaker.com/podcast/adventures-in-angular--6102018/support</a>.",
+                    "enclosure": {
+                        "@length": "39472899",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/62387503/aia_429.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://api.spreaker.com/episode/62387503",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Charles M Wood",
+                    "itunes:duration": "3274",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "clean",
+                    "itunes:image": {
+                        "@href": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/7f7f08836023b54128c6d1dcdf67105c.jpg"
+                    },
+                    "itunes:subtitle": "In this episode, Lucas, Armen, and Subrat are joined by Luis Galeas, the CEO and founder of Ambar. Today's discussion dives into the fascinating world of event sourcing, exploring its intricacies in both front-end and back-end development.\nEvent...",
+                    "itunes:summary": "In this episode, Lucas, Armen, and Subrat are joined by Luis Galeas, the CEO and founder of Ambar. Today's discussion dives into the fascinating world of event sourcing, exploring its intricacies in both front-end and back-end development.<br />Event sourcing has emerged as a pivotal technique for managing the state by recording events that can rebuild the application state, bringing unique challenges and opportunities, especially on the back end where state persistence and scalability are critical. Luis shares his expertise on how Ambar's tools simplify event connections with minimal coding, the importance of efficient data transfer, and how event sourcing can transform state management.<br />They also cover practical aspects like the technological components, system design, and implementation strategies for event sourcing, providing a comprehensive overview for developers keen on enhancing their applications. Lucas, Armen, and Subrat, alongside Luis, provide valuable insights and address common challenges, ensuring you walk away with actionable knowledge.<br />To round things off, Luis introduces a free course offered by Ambar to dive deeper into event sourcing and discusses how gradual implementation can ease the transition for your development projects. Stay tuned for a deep dive into event sourcing's potential to revolutionize your approach to state management in both front-end and back-end technologies.<br /><br /><br />Socials<br /><ul><li><a href=\"https://www.linkedin.com/in/galeaspablo/\" target=\"_blank\" rel=\"noreferrer noopener\">LinkedIn: Luis P Galeas</a></li></ul><br /><br />Become a supporter of this podcast: <a href=\"https://www.spreaker.com/podcast/adventures-in-angular--6102018/support?utm_source=rss&utm_medium=rss&utm_campaign=rss\">https://www.spreaker.com/podcast/adventures-in-angular--6102018/support</a>.",
+                    "link": "https://www.spreaker.com/episode/leveraging-event-sourcing-enhancing-scalability-and-consistency-in-front-end-and-back-end-aia-429--62387503",
+                    "pubDate": "Thu, 17 Oct 2024 10:58:00 +0000",
+                    "title": "Leveraging Event Sourcing: Enhancing Scalability and Consistency in Front-end and Back-end - AiA 429"
+                },
+                {
                     "description": "In this episode of Adventures in Angular, Will Gant, author of Remote Work talks about working from home and working outside of the client's office. He and Brooks share their experience with working through the challenges, benefits, and methods of working remotely.<br /><br />Picks<br /><ul><li>Will\u00a0 - Follow Will's work on &gt;\u00a0<a href=\"https://simpleprogrammer.com/author/williamgant/\" target=\"_blank\" rel=\"noreferrer noopener\">www.simpleprogrammer.com</a></li><li>Brooks -\u00a0<a href=\"https://www.ngxs.io/\" target=\"_blank\" rel=\"noreferrer noopener\">NGXS</a></li><li>Brooks -\u00a0<a href=\"https://www.netflix.com/rs/title/81115994\" target=\"_blank\" rel=\"noreferrer noopener\">Tiger King</a></li></ul><br /><br />Become a supporter of this podcast: <a href=\"https://www.spreaker.com/podcast/adventures-in-angular--6102018/support?utm_source=rss&utm_medium=rss&utm_campaign=rss\">https://www.spreaker.com/podcast/adventures-in-angular--6102018/support</a>.",
                     "enclosure": {
                         "@length": "43461797",
@@ -11029,7 +11053,7 @@
             "itunes:summary": "Join our weekly discussion about how to build top end Angular applications and become an Angular expert.<br /><br />Become a supporter of this podcast: <a href=\"https://www.spreaker.com/podcast/adventures-in-angular--6102018/support?utm_source=rss&utm_medium=rss&utm_campaign=rss\">https://www.spreaker.com/podcast/adventures-in-angular--6102018/support</a>.",
             "itunes:type": "episodic",
             "language": "en",
-            "lastBuildDate": "Sun, 13 Oct 2024 14:51:37 +0000",
+            "lastBuildDate": "Sun, 20 Oct 2024 14:59:13 +0000",
             "link": "https://topenddevs.com/podcasts/adventures-in-angular",
             "podcast:funding": {
                 "#text": "Support the podcast!",
