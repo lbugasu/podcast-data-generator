@@ -23,6 +23,145 @@
             "description": "A podcast about everything that happens after \\`git push\\` Justin Garrison & Autumn Nash explore all things DevOps, infra, cloud & running apps in production. Whether you're cloud native, Kubernetes curious, a pro SRE, or just operating a VPS... you'll love coming along for the ride. \n\nSome people search for ShipIt or ShipItFM and can't find the show, so now the strings ShipIt and ShipItFM are in our description too.",
             "item": [
                 {
+                    "content:encoded": "<p>Maybe Jira for your kids\u2019 chores is a good idea\u2026 Probably not.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456580-shipit\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 11 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://sentry.io/\">Sentry</a> \u2013 <strong>Code breaks, fix it faster.</strong> Don\u2019t just observe. Take action. Sentry is the only app monitoring platform built for developers that gets to the root cause for every issue. 100,000+ growing teams use sentry to find problems fast. Use the code <code>CHANGELOG</code> when you sign up to get $100 OFF the team plan.\n</li>\n<li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://www.timescale.com\">Timescale</a> \u2013 Real-time analytics on Postgres, seriously fast. Over 3 million Timescale databases power loT, sensors, Al, dev tools, crypto, and finance apps \u2014 all on Postgres. Postgres, for everything.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Austin Parker &ndash; <a href=\"https://twitter.com/austinlparker\" rel=\"external ugc\">Twitter</a>, <a href=\"https://www.linkedin.com/in/austinlparker\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://aparker.io\" rel=\"external ugc\">Website</a></li><li>Justin Garrison &ndash; <a href=\"https://twitter.com/rothgar\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/rothgar\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/justingarrison\" rel=\"external ugc\">LinkedIn</a></li><li>Autumn Nash &ndash; <a href=\"https://twitter.com/autumn808\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/autumn808\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/autumnnash\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><h4>Interview</h4>\n<ul>\n<li>[Austin on Bluesky](https://bsky.app/profile/aparker.io</li>\n<li><a href=\"https://desertedisland.club/\">Deserted Island Devops</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/shipit/ship-it-128.md\">PRs welcome!</a></p>",
+                    "description": "Maybe Jira for your kids' chores is a good idea... Probably not.",
+                    "enclosure": {
+                        "@length": "66233940",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/shipit/128/ship-it-128.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/14/2589",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:08:45",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/ship-it-original.png?v=63787880447"
+                    },
+                    "link": "https://changelog.com/shipit/128",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/shipit/128/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Justin Garrison",
+                            "@href": "https://changelog.com/person/jgarr",
+                            "@img": "https://secure.gravatar.com/avatar/5b746c23f3b5fae8ad186ddc9e96c34e.jpg?s=600&d=mm",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Autumn Nash",
+                            "@href": "https://changelog.com/person/autumn808",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/e47RO/avatar_large.jpg?v=63877387957",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Austin Parker",
+                            "@href": "https://changelog.com/person/aparker",
+                            "@img": "https://secure.gravatar.com/avatar/e1e14b5e778951baed7f65de2ae89b31.jpg?s=600&d=mm",
+                            "@role": "guest"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "This is Ship It!"
+                            },
+                            {
+                                "@href": "https://sentry.io/",
+                                "@start": "52",
+                                "@title": "Sponsor: Sentry"
+                            },
+                            {
+                                "@start": "257",
+                                "@title": "Pre-show"
+                            },
+                            {
+                                "@start": "853",
+                                "@title": "Welcome Austin Parker"
+                            },
+                            {
+                                "@start": "877",
+                                "@title": "Software kids"
+                            },
+                            {
+                                "@start": "1001",
+                                "@title": "Deserted Island DevOPS"
+                            },
+                            {
+                                "@start": "1120",
+                                "@title": "Conference schedules"
+                            },
+                            {
+                                "@href": "https://fly.io/",
+                                "@start": "1282",
+                                "@title": "Sponsor: Fly.io"
+                            },
+                            {
+                                "@start": "1497",
+                                "@title": "Password security"
+                            },
+                            {
+                                "@start": "1646",
+                                "@title": "Real world practicality"
+                            },
+                            {
+                                "@start": "1853",
+                                "@title": "Nuances at scale"
+                            },
+                            {
+                                "@start": "2135",
+                                "@title": "Tools make borders"
+                            },
+                            {
+                                "@start": "2395",
+                                "@title": "Introducing OpenTelemetry"
+                            },
+                            {
+                                "@href": "https://www.timescale.com",
+                                "@start": "2736",
+                                "@title": "Sponsor: Timescale"
+                            },
+                            {
+                                "@start": "2885",
+                                "@title": "What OpenTelemetry is doing"
+                            },
+                            {
+                                "@start": "3045",
+                                "@title": "Grabbing data securely"
+                            },
+                            {
+                                "@start": "3167",
+                                "@title": "Challenges building OpenTelemetry"
+                            },
+                            {
+                                "@start": "3269",
+                                "@title": "System and app telemetry overlap"
+                            },
+                            {
+                                "@start": "3682",
+                                "@title": "aparker.io and running your own website"
+                            },
+                            {
+                                "@start": "4036",
+                                "@title": "Socials"
+                            },
+                            {
+                                "@start": "4071",
+                                "@title": "Outro"
+                            }
+                        ]
+                    },
+                    "pubDate": "Fri, 01 Nov 2024 20:00:00 +0000",
+                    "title": "Infosec & OpenTelemetry"
+                },
+                {
                     "content:encoded": "<p>From switching ISPs to migrating Amazon off Oracle, Pete Naylor knows which database to use.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456580-shipit\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members get a bonus 8 minutes at the end of this episode and zero ads. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://www.timescale.com\">Timescale</a> \u2013 Real-time analytics on Postgres, seriously fast. Over 3 million Timescale databases power loT, sensors, Al, dev tools, crypto, and finance apps \u2014 all on Postgres. Postgres, for everything.\n</li>\n<li><a href=\"https://www.systeminit.com/?utm_source=changelog\">System Initiative</a> \u2013 <strong>The future of DevOps automation (is here!)</strong> \u2014 System Initiative is an intuitive, powerful, collaborative replacement for Infrastructure as Code (IaC). The free tier is awesome (no credit card required) and you can <a href=\"https://www.systeminit.com/?utm_source=changelog\">get started</a> in 3 clicks.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Pete Naylor &ndash; <a href=\"https://twitter.com/pj_naylor\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/pete-naylor\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/naylorpete\" rel=\"external ugc\">LinkedIn</a></li><li>Justin Garrison &ndash; <a href=\"https://twitter.com/rothgar\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/rothgar\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/justingarrison\" rel=\"external ugc\">LinkedIn</a></li><li>Autumn Nash &ndash; <a href=\"https://twitter.com/autumn808\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/autumn808\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/autumnnash\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><h4>Interview</h4>\n<ul>\n<li><a href=\"https://aws.amazon.com/blogs/aws/migration-complete-amazons-consumer-business-just-turned-off-its-final-oracle-database/\">Amazon turns off last Oracle instance</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/shipit/ship-it-127.md\">PRs welcome!</a></p>",
                     "description": "From switching ISPs to migrating Amazon off Oracle, Pete Naylor knows which database to use.",
                     "enclosure": {
@@ -65,6 +204,10 @@
                             "@role": "guest"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@shipit/113369756846373816"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",
@@ -7446,7 +7589,7 @@
                         {
                             "#text": "David Heinemeier Hansson",
                             "@href": "https://changelog.com/person/dhh",
-                            "@img": "https://cdn.changelog.com/uploads/avatars/people/33N/avatar_large.jpg?v=63833582783",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/33N/avatar_large.jpg?v=63897626984",
                             "@role": "guest"
                         }
                     ],

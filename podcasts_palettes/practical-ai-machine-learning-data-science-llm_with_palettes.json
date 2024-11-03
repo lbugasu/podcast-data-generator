@@ -23,6 +23,111 @@
             "description": "Making artificial intelligence practical, productive & accessible to everyone. Practical AI is a show in which technology professionals, business people, students, enthusiasts, and expert guests engage in lively discussions about Artificial Intelligence and related topics (Machine Learning, Deep Learning, Neural Networks, GANs, MLOps, AIOps, LLMs & more).\n\nThe focus is on productive implementations and real-world scenarios that are accessible to everyone. If you want to keep up with the latest advances in AI, while keeping one foot in the real world, then this is the show for you!",
             "item": [
                 {
+                    "content:encoded": "<p>Elham Tabassi, the Chief AI Advisor at the U.S. National Institute of Standards &amp; Technology (NIST), joins Chris for an enlightening discussion about the path towards trustworthy AI.  Together they explore NIST\u2019s \u2018AI Risk Management Framework\u2019 (AI RMF) within the context of the White House\u2019s \u2018Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence\u2019.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456003-practicalai\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 10 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://www.timescale.com\">Timescale</a> \u2013 Real-time analytics on Postgres, seriously fast. Over 3 million Timescale databases power loT, sensors, Al, dev tools, crypto, and finance apps \u2014 all on Postgres. Postgres, for everything.\n</li>\n<li><a href=\"https://retool.com/changelog\">Retool</a> \u2013 <strong>The low-code platform for developers to build internal tools</strong> \u2014 Some of the best teams out there trust Retool\u2026Brex, Coinbase, Plaid, Doordash, LegalGenius, Amazon, Allbirds, Peloton, and so many more \u2013 the developers at these teams trust Retool as the platform to build their internal tools. Try it free at <a href=\"https://retool.com/changelog\">retool.com/changelog</a>\n</li>\n<li><a href=\"https://joindeleteme.com\">DeleteMe</a> \u2013 DeleteMe makes it quick, easy and safe to remove your personal data online.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Elham Tabassi &ndash; <a href=\"https://www.linkedin.com/in/elham-tabassi-b5931b6\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://en.wikipedia.org/wiki/Elham_Tabassi\" rel=\"external ugc\">Website</a></li><li>Chris Benson &ndash; <a href=\"https://twitter.com/chrisbenson\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/chrisbenson\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://chrisbenson.com\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://www.nist.gov/people/elham-tabassi\">Elham Tabassi | NIST</a></li>\n<li><a href=\"https://time.com/collection/time100-ai/6310638/elham-tabassi\">Elham Tabassi | TIME 100 / AI</a></li>\n<li><a href=\"https://airc.nist.gov\">NIST Trustworthy &amp; Responsible AI Resource Center</a></li>\n<li><a href=\"https://www.nist.gov/itl/ai-risk-management-framework\">NIST AI Risk Management Framework (AI RMF)</a></li>\n<li><a href=\"https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf\">NIST Artificial Intelligence Risk Management Framework (AI RMF 1.0) (PDF)</a></li>\n<li><a href=\"https://www.nist.gov/itl/ai-risk-management-framework/nist-ai-rmf-playbook\">NIST AI RMF Playbook</a></li>\n<li><a href=\"https://www.nist.gov/itl/ai-risk-management-framework/ai-rmf-development\">NIST AI RMF Development</a></li>\n<li><a href=\"https://www.nist.gov/itl/ai-risk-management-framework/ai-risk-management-framework-engage\">NIST AI Risk Management Framework - Engage</a></li>\n<li><a href=\"https://www.nist.gov/news-events/news/2023/01/nist-risk-management-framework-aims-improve-trustworthiness-artificial\">NIST Risk Management Framework Aims to Improve Trustworthiness of Artificial Intelligence</a></li>\n<li><a href=\"https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence\">White House Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/practicalai/practical-ai-293.md\">PRs welcome!</a></p>",
+                    "description": "Elham Tabassi, the Chief AI Advisor at the U.S. National Institute of Standards & Technology (NIST), joins Chris for an enlightening discussion about the path towards trustworthy AI.  Together they explore NIST's 'AI Risk Management Framework' (AI RMF) within the context of the White House's 'Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence'.",
+                    "enclosure": {
+                        "@length": "49894543",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/practicalai/293/practical-ai-293.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/7/2597",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "51:46",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
+                    },
+                    "link": "https://changelog.com/practicalai/293",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/practicalai/293/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Chris Benson",
+                            "@href": "https://changelog.com/person/chris",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/j8b/avatar_large.png?v=63706916892",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Elham Tabassi",
+                            "@href": "https://changelog.com/person/elham-tabassi",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/1malQ/avatar_large.jpeg?v=63896909470",
+                            "@role": "guest"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "Welcome to Practical AI"
+                            },
+                            {
+                                "@href": "https://www.timescale.com",
+                                "@start": "35",
+                                "@title": "Sponsor: Timescale"
+                            },
+                            {
+                                "@start": "185",
+                                "@title": "What is NIST?"
+                            },
+                            {
+                                "@start": "414",
+                                "@title": "Evolving trust in technology"
+                            },
+                            {
+                                "@start": "711",
+                                "@title": "AI for everyone?"
+                            },
+                            {
+                                "@href": "https://retool.com/changelog",
+                                "@start": "1057",
+                                "@title": "Sponsor: Retool"
+                            },
+                            {
+                                "@start": "1247",
+                                "@title": "White House Executive Order"
+                            },
+                            {
+                                "@start": "1615",
+                                "@title": "Risk and trust"
+                            },
+                            {
+                                "@href": "https://joindeleteme.com",
+                                "@start": "1915",
+                                "@title": "Sponsor: DeleteMe"
+                            },
+                            {
+                                "@start": "2085",
+                                "@title": "Getting started"
+                            },
+                            {
+                                "@start": "2582",
+                                "@title": "Tooling for AI teams"
+                            },
+                            {
+                                "@start": "2780",
+                                "@title": "Where things are going"
+                            },
+                            {
+                                "@start": "3026",
+                                "@title": "Thanks for joining us!"
+                            },
+                            {
+                                "@start": "3058",
+                                "@title": "Outro"
+                            }
+                        ]
+                    },
+                    "pubDate": "Tue, 29 Oct 2024 19:00:00 +0000",
+                    "title": "The path towards trustworthy AI"
+                },
+                {
                     "content:encoded": "<p>We are on the other side of \u201cbig data\u201d hype, but what is the future of analytics and how does AI fit in? Till and Adithya from MotherDuck join us to discuss why DuckDB is taking the analytics and AI world by storm. We dive into what makes DuckDB, a free, in-process SQL OLAP database management system, unique including its ability to execute lighting fast analytics queries against a variety of data sources, even on your laptop! Along the way we dig into the intersections with AI, such as text-to-sql, vector search, and AI-driven SQL query correction.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456003-practicalai\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 9 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://www.timescale.com\">Timescale</a> \u2013 Real-time analytics on Postgres, seriously fast. Over 3 million Timescale databases power loT, sensors, Al, dev tools, crypto, and finance apps \u2014 all on Postgres. Postgres, for everything.\n</li>\n<li><a href=\"http://notion.com/changelog\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Till D\u00f6hmen &ndash; <a href=\"https://twitter.com/tdoehmen\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/tdoehmen\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/tdoehmen\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://tdoehmen.github.io\" rel=\"external ugc\">Website</a></li><li>Adithya Krishnan &ndash; <a href=\"https://twitter.com/krish_adi_\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/krish-adi\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/adithyakrishnan\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://krishadi.com\" rel=\"external ugc\">Website</a></li><li>Chris Benson &ndash; <a href=\"https://twitter.com/chrisbenson\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/chrisbenson\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://chrisbenson.com\" rel=\"external ugc\">Website</a></li><li>Daniel Whitenack &ndash; <a href=\"https://twitter.com/dwhitena\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/dwhitena\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.datadan.io/\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://duckdb.org/\">DuckDB</a></li>\n<li><a href=\"https://motherduck.com/\">MotherDuck</a></li>\n<li><a href=\"https://motherduck.com/blog/introducing-fixit-ai-sql-error-fixer/\">Introducing FixIt: an unreasonably effective AI error fixer for SQL</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/practicalai/practical-ai-292.md\">PRs welcome!</a></p>",
                     "description": "We are on the other side of \"big data\" hype, but what is the future of analytics and how does AI fit in? Till and Adithya from MotherDuck join us to discuss why DuckDB is taking the analytics and AI world by storm. We dive into what makes DuckDB, a free, in-process SQL OLAP database management system, unique including its ability to execute lighting fast analytics queries against a variety of data sources, even on your laptop! Along the way we dig into the intersections with AI, such as text-to-sql, vector search, and AI-driven SQL query correction.",
                     "enclosure": {
@@ -71,6 +176,10 @@
                             "@role": "guest"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@practicalai/113363127215686825"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",

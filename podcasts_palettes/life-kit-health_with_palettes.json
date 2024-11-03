@@ -7,7 +7,7 @@
         "channel": {
             "copyright": "Copyright 2019-2021 NPR - For Personal Use Only",
             "description": "Taking care of yourself shouldn't be complicated. We talk to the experts for practical advice to live a long and healthy life, based on science. Updated every time Life Kit posts an episode on health and wellness.<br>Want another life hack? Try Life Kit+. Your subscription supports the show and unlocks an exclusive sponsor-free feed. Learn more at plus.npr.org/lifekit",
-            "generator": "NPR Feed Publish Service v1.15.7",
+            "generator": "NPR Feed Publish Service v1.17.0",
             "image": {
                 "link": "https://www.npr.org/podcasts-and-shows",
                 "palette": [
@@ -22,6 +22,29 @@
                 "url": "https://media.npr.org/assets/img/2024/09/23/life-kit_tile-art---health---d_sq-573d0d1c27bcdd0a32228293a0456a3226ec9aa5.jpg?s=1400&c=66&f=jpg"
             },
             "item": [
+                {
+                    "content:encoded": "Although breast cancer deaths have dropped by about 40% since 1989, breast cancer diagnoses in younger women are increasing. We'll help you understand your personal risk, when and how often you should get mammograms, and how to advocate for yourself in the health care system.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "description": "Although breast cancer deaths have dropped by about 40% since 1989, breast cancer diagnoses in younger women are increasing. We'll help you understand your personal risk, when and how often you should get mammograms, and how to advocate for yourself in the health care system.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "enclosure": {
+                        "@length": "28045524",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510340/traffic.megaphone.fm/NPR3750216791.mp3?d=1752&size=28045524&e=1197233022&t=podcast&p=510340"
+                    },
+                    "guid": {
+                        "#text": "5c2f0bde-8f0d-4874-aa93-11f41a9d9b2f",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:block": "no",
+                    "itunes:duration": "1752",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://media.npr.org/assets/img/2024/10/17/template-1-example-2-_sq-a5194f15f946cb178bca8e932fb4f90fa6ca25cc.jpg?s=3000&c=66&f=jpg"
+                    },
+                    "itunes:title": "A guide to breast cancer screening",
+                    "pubDate": "Mon, 28 Oct 2024 07:00:00 +0000",
+                    "title": "A guide to breast cancer screening"
+                },
                 {
                     "content:encoded": "They're tasty and cheap, but they come with health risks. NPR health correspondent Maria Godoy explains how to spot and avoid ultra-processed snacks and packaged foods. This episode originally published June 20, 2023.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
                     "description": "They're tasty and cheap, but they come with health risks. NPR health correspondent Maria Godoy explains how to spot and avoid ultra-processed snacks and packaged foods. This episode originally published June 20, 2023.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
@@ -4161,7 +4184,7 @@
             },
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Mon, 21 Oct 2024 07:49:57 +0000",
+            "lastBuildDate": "Mon, 28 Oct 2024 07:01:34 +0000",
             "link": "https://www.npr.org/podcasts-and-shows",
             "media:restriction": {
                 "#text": "es fi fr gb nl no se us dk at ch be au nz ca de it ie lu li ad mc pl pt is mx ee lv lt hk sg my tr gr ar tw hu cz mt bg sk cy br cl co uy sv py hn pa ni pe ec do gt cr bo ph id jp th vn ro il za in",

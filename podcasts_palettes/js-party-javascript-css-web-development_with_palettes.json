@@ -23,6 +23,171 @@
             "description": "Your weekly celebration of JavaScript and the web. Current panelists: Jerod Santo, Kevin Ball (KBall), Nick Nisi, Chris Hiller, Amal Hussein & Amy Dutton.\n\nPast panelists: Suz Hinton, Feross Aboukhadijeh, Amelia Wattenberger, Divya Sasidharan, Alex Sexton, Rachel White, Emma Bostian, Ali Spittel, Mikeal Rogers & Jessica Sachs.\n\nWe talk about the web platform (Chrome, Safari, Edge, Firefox, Brave, etc), front-end frameworks (ReactJS, SolidJS, Svelte, VueJS, AngularJS, etc), JavaScript and TypeScript runtimes (Node, Deno, Bun), web animation, SVG, TailwindCSS, robotics, IoT, and much more. If JavaScript and/or the web touch your life, this show\u2019s for you.\n\nSome people search for JSParty and can't find the show, so now the string JSParty is in our description too.",
             "item": [
                 {
+                    "content:encoded": "<p>Jerod &amp; the gang play \u201cTwenty\u201d Questions to get to know Amy, review the big Svelte 5 release, discuss commercial open source &amp; get Nick\u2019s report from SquiggleConf!</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456196-jsparty\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 9 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://jam.dev\">Jam.dev</a> \u2013 <strong>One click bug reports developers love</strong> \u2014 Never explain another bug report again. Jam auto-captures all the info engineers need to debug and repro.\n</li>\n<li><a href=\"https://workos.com\">WorkOS</a> \u2013 <strong>A platform that gives developers a set of building blocks for quickly adding enterprise-ready features</strong> to their application. Add Single Sign-On (Okta, Azure, Google, Microsoft OAuth), sync users from any SCIM directory, HRIS integration, audit trails (SIEM), free magic link sign-in. WorkOS is designed for developers and offers a single, elegant interface that abstracts dozens of enterprise integrations. Learn more and get started at <a href=\"https://workos.com/\">WorkOS.com</a>\n</li>\n</ul></p><p>Featuring:</p><ul><li>Jerod Santo &ndash; <a href=\"https://changelog.social/@jerod\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/jerodsanto\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/jerodsanto\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/jerodsanto\" rel=\"external ugc\">LinkedIn</a></li><li>Kevin Ball &ndash; <a href=\"https://twitter.com/kbal11\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/kball\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/kbal11\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://www.kball.llc\" rel=\"external ugc\">Website</a></li><li>Nick Nisi &ndash; <a href=\"https://nicknisi.com/@nicknisi\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/nicknisi\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/nicknisi\" rel=\"external ugc\">GitHub</a>, <a href=\"https://nicknisi.com\" rel=\"external ugc\">Website</a></li><li>Amy Dutton &ndash; <a href=\"https://twitter.com/selfteachme\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/ahaywood\" rel=\"external ugc\">GitHub</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://svelte.dev/blog/svelte-5-is-alive\">Svelte 5 is alive</a></li>\n<li><a href=\"https://ti.to/gitnation/react-summit-us-edition-2024/discount/JSPARTY10\">Join us at React Summit US (10% off)</a></li>\n<li><a href=\"https://ti.to/gitnation/jsnation-us-edition/discount/JSPARTY10\">Join us at JSNation US (10% off)</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/jsparty/js-party-344.md\">PRs welcome!</a></p>",
+                    "description": "Jerod & the gang play \"Twenty\" Questions to get to know Amy, review the big Svelte 5 release, discuss commercial open source & get Nick's report from SquiggleConf!",
+                    "enclosure": {
+                        "@length": "58401455",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/jsparty/344/js-party-344.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/6/2602",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:00:18",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
+                    },
+                    "link": "https://changelog.com/jsparty/344",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/jsparty/344/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Jerod Santo",
+                            "@href": "https://changelog.com/person/jerodsanto",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/z4/avatar_large.jpeg?v=63760071650",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Kevin Ball",
+                            "@href": "https://changelog.com/person/kball",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/6qd/avatar_large.jpg?v=63721617586",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Nick Nisi",
+                            "@href": "https://changelog.com/person/nicknisi",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/XGd/avatar_large.jpg?v=63740463771",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Amy Dutton",
+                            "@href": "https://changelog.com/person/selfteachme",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/DdQ4r/avatar_large.jpg?v=63866159922",
+                            "@role": "host"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "It's party time, y'all"
+                            },
+                            {
+                                "@href": "https://fly.io/",
+                                "@start": "39",
+                                "@title": "Sponsor: Fly.io"
+                            },
+                            {
+                                "@start": "204",
+                                "@title": "Hello party people!"
+                            },
+                            {
+                                "@href": "https://changelog.com/person/selfteachme",
+                                "@image": "https://cdn.changelog.com/uploads/avatars/people/DdQ4r/avatar_large.jpg?v=63866159922",
+                                "@start": "284",
+                                "@title": "Welcoming Amy"
+                            },
+                            {
+                                "@start": "388",
+                                "@title": "Let's play \"20\" Questions!"
+                            },
+                            {
+                                "@start": "448",
+                                "@title": "1: Pick a web framework"
+                            },
+                            {
+                                "@start": "559",
+                                "@title": "2: Share a spicy take"
+                            },
+                            {
+                                "@start": "646",
+                                "@title": "E_TOO_MANY_DOMAINS"
+                            },
+                            {
+                                "@start": "705",
+                                "@title": "3: Overrated tech (TypeScript)"
+                            },
+                            {
+                                "@start": "880",
+                                "@title": "4: Favorite IRL activities"
+                            },
+                            {
+                                "@start": "997",
+                                "@title": "5: Compare violin to coding"
+                            },
+                            {
+                                "@start": "1086",
+                                "@title": "6: Editors better than Vim"
+                            },
+                            {
+                                "@start": "1133",
+                                "@title": "7: Nashville facts"
+                            },
+                            {
+                                "@start": "1232",
+                                "@title": "8: Full-snack developer"
+                            },
+                            {
+                                "@start": "1294",
+                                "@title": "9: Kinda a big deal"
+                            },
+                            {
+                                "@start": "1383",
+                                "@title": "10: Developer hero"
+                            },
+                            {
+                                "@href": "https://jam.dev",
+                                "@start": "1525",
+                                "@title": "Sponsor: Jam.dev"
+                            },
+                            {
+                                "@href": "https://svelte.dev/blog/svelte-5-is-alive",
+                                "@start": "1658",
+                                "@title": "Svelte 5 is alive"
+                            },
+                            {
+                                "@href": "https://workos.com",
+                                "@start": "2514",
+                                "@title": "Sponsor: WorkOS"
+                            },
+                            {
+                                "@start": "2716",
+                                "@title": "Spicy Vercel takes"
+                            },
+                            {
+                                "@start": "2883",
+                                "@title": "Next, Svelte & WordPress"
+                            },
+                            {
+                                "@start": "3130",
+                                "@title": "Squiggles!"
+                            },
+                            {
+                                "@href": "https://ti.to/gitnation/react-summit-us-edition-2024/discount/JSPARTY10",
+                                "@start": "3348",
+                                "@title": "React Summit US!"
+                            },
+                            {
+                                "@start": "3470",
+                                "@title": "Final words"
+                            },
+                            {
+                                "@start": "3532",
+                                "@title": "Next up on the pod"
+                            }
+                        ]
+                    },
+                    "pubDate": "Thu, 31 Oct 2024 19:30:00 +0000",
+                    "title": "Kind of a big deal"
+                },
+                {
                     "content:encoded": "<p>KBall interviews Jerod about the tools he uses in development, podcasting &amp; business. We start with text editors &amp; terminal tools, move to podcast recording &amp; editing tools, discuss the open source podcasting platform Jerod built in Elixir, then finish with tools to run a small business &amp; our approaches to genAI. Oh, and you don\u2019t want to miss Jerod\u2019s Big Confession!</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456196-jsparty\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 5 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://jam.dev\">Jam.dev</a> \u2013 <strong>One click bug reports developers love</strong> \u2014 Never explain another bug report again. Jam auto-captures all the info engineers need to debug and repro.\n</li>\n<li><a href=\"http://notion.com/changelog\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Kevin Ball &ndash; <a href=\"https://twitter.com/kbal11\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/kball\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/kbal11\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://www.kball.llc\" rel=\"external ugc\">Website</a></li><li>Jerod Santo &ndash; <a href=\"https://changelog.social/@jerod\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/jerodsanto\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/jerodsanto\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/jerodsanto\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://jsparty.fm/278\">Nick\u2019s tool box</a></li>\n<li><a href=\"https://zed.dev/\">Zed Editor</a></li>\n<li><a href=\"https://github.com/tmux/tmux/wiki\">tmux</a></li>\n<li><a href=\"https://github.com/ivaaaan/smug\">Smug</a></li>\n<li><a href=\"http://github.com/thechangelog/changelog.com\">thechangelog/changelog.com</a></li>\n<li><a href=\"https://elixir-lang.org/\">Elixir</a></li>\n<li><a href=\"https://www.phoenixframework.org/\">Phoenix</a></li>\n<li><a href=\"https://github.com/atuinsh/atuin\">Atuin</a></li>\n<li><a href=\"https://riverside.fm\">Riverside</a></li>\n<li><a href=\"https://www.adobe.com/products/audition.html\">Adobe Audition</a></li>\n<li><a href=\"https://transistor.fm/\">Transistor</a></li>\n<li><a href=\"https://www.getharvest.com/\">Harvest</a></li>\n<li><a href=\"https://www.freshbooks.com/\">Freshbooks</a></li>\n<li><a href=\"https://gusto.com/\">Gusto</a></li>\n<li><a href=\"https://ollama.com/\">Ollama</a></li>\n<li><a href=\"https://github.com/AugustDev/enchanted\">Enchanted</a></li>\n<li><a href=\"https://www.cursor.com/\">Cursor</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/jsparty/js-party-343.md\">PRs welcome!</a></p>",
                     "description": "KBall interviews Jerod about the tools he uses in development, podcasting & business. We start with text editors & terminal tools, move to podcast recording & editing tools, discuss the open source podcasting platform Jerod built in Elixir, then finish with tools to run a small business & our approaches to genAI. Oh, and you don't want to miss Jerod's Big Confession!",
                     "enclosure": {
@@ -62,6 +227,10 @@
                     "podcast:socialInteract": {
                         "@protocol": "activitypub",
                         "@uri": "https://changelog.social/@jsparty/113323833094003156"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/jsparty/343/transcript"
                     },
                     "psc:chapters": {
                         "@version": "1.1",

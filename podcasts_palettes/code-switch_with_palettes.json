@@ -7,7 +7,7 @@
         "channel": {
             "copyright": "Copyright 2015-2021 NPR - For Personal Use Only",
             "description": "What's CODE SWITCH? It's the fearless conversations about race that you've been waiting for. Hosted by journalists of color, our podcast tackles the subject of race with empathy and humor. We explore how race affects every part of society \u2014 from politics and pop culture to history, food and everything in between. This podcast makes all of us part of the conversation \u2014 because we're all part of the story. Code Switch was named Apple Podcasts' first-ever Show of the Year in 2020.<br><br><em>Want to level up your Code Switch game? Try Code Switch Plus. </em><em>Your subscription supports the show and unlocks a sponsor-free feed. Learn more at </em><em>plus.npr.org/</em><em>codeswitch</em>",
-            "generator": "NPR Feed Publish Service v1.17.0",
+            "generator": "NPR Feed Publish Service v1.17.4",
             "image": {
                 "link": "https://www.npr.org/podcasts/510312/codeswitch",
                 "palette": [
@@ -22,6 +22,30 @@
                 "url": "https://media.npr.org/assets/img/2022/09/22/code-switch_tile_npr-network-01_sq-02ce31e198d3918fb20e7c3e519566ba44f86bda.jpg?s=1400&c=66&f=jpg"
             },
             "item": [
+                {
+                    "content:encoded": "The manosphere is a sprawling online ecosystem aimed at disgruntled men. Now a subset of the manosphere aimed at Black men is exposing cracks in Black voters' steadfast support of Democrats. On this episode, we take a look at how the Black manosphere came to be and wonder: could this loose community of aggrieved dudes swing the election?<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "description": "The manosphere is a sprawling online ecosystem aimed at disgruntled men. Now a subset of the manosphere aimed at Black men is exposing cracks in Black voters' steadfast support of Democrats. On this episode, we take a look at how the Black manosphere came to be and wonder: could this loose community of aggrieved dudes swing the election?<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "enclosure": {
+                        "@length": "39805684",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR9158262583.mp3?d=2487&size=39805684&e=1210938547&t=podcast&p=510312"
+                    },
+                    "guid": {
+                        "#text": "257b18b6-9736-414e-91bb-11a59d923c41",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:block": "no",
+                    "itunes:duration": "2487",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://media.npr.org/assets/img/2024/10/30/manosphere_reup_sq-b9368faa1f4d55ec8825440b059537b0f837a48b.jpg?s=3000&c=66&f=jpg"
+                    },
+                    "itunes:title": "Diving into the Black Manosphere",
+                    "link": "https://www.npr.org/2024/10/30/1210938547/code-switch-black-manosphere",
+                    "pubDate": "Wed, 30 Oct 2024 10:09:47 +0000",
+                    "title": "Diving into the Black Manosphere"
+                },
                 {
                     "content:encoded": "That's how Nagle begins her new book and how she frames the version of history she's telling. The book digs into the past and future of Native sovereignty through the lens of one of the most significant Supreme Court rulings for Native Americans in over 100 years.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
                     "description": "That's how Nagle begins her new book and how she frames the version of history she's telling. The book digs into the past and future of Native sovereignty through the lens of one of the most significant Supreme Court rulings for Native Americans in over 100 years.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
@@ -11776,7 +11800,7 @@
             },
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Thu, 24 Oct 2024 02:39:21 +0000",
+            "lastBuildDate": "Thu, 31 Oct 2024 13:40:13 +0000",
             "link": "https://www.npr.org/podcasts/510312/codeswitch",
             "media:restriction": {
                 "#text": "es fi fr gb nl no se us dk at ch be au nz ca de it ie lu li ad mc pl pt is mx ee lv lt my gr ar hu cz mt bg sk cy br cl co uy sv py hn pa ni pe ec do gt cr bo id jp th ro il za",

@@ -34,6 +34,63 @@
                         "Arts",
                         "Books"
                     ],
+                    "content:encoded": "<p><span style=\"font-weight: 400;\">Amy Tsang (Star Wars: The Acolyte, Kung Fu) stars in a Chinese tale about a magical gift that makes wishes come true, provided you make them with an honest heart.</span></p>",
+                    "dc:creator": {
+                        "#text": "WBUR",
+                        "@xmlns:dc": "http://purl.org/dc/elements/1.1/"
+                    },
+                    "description": "<p><span style=\"font-weight: 400;\">Amy Tsang (Star Wars: The Acolyte, Kung Fu) stars in a Chinese tale about a magical gift that makes wishes come true, provided you make them with an honest heart.</span></p>",
+                    "enclosure": {
+                        "@length": "26532281",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR9065870641.mp3"
+                    },
+                    "guid": {
+                        "#text": "7d15c861-2873-4855-84e8-f3bb13778ff3",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": " WBUR ",
+                    "itunes:duration": "00:27:38",
+                    "itunes:episode": "18",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://wordpress.wbur.org/wp-content/uploads/2024/10/allwishSQ.jpg"
+                    },
+                    "itunes:season": "8",
+                    "itunes:subtitle": "Amy Tsang (Star Wars: The Acolyte, Kung Fu) stars in a Chinese tale about a magical gift that makes wishes come true, provided you make them with an honest heart.",
+                    "itunes:summary": "<span style=\"font-weight: 400;\">Amy Tsang (Star Wars: The Acolyte, Kung Fu) stars in a Chinese tale about a magical gift that makes wishes come true, provided you make them with an honest heart.</span>",
+                    "itunes:title": " The All-Wish Stick ",
+                    "link": "https://www.wbur.org/circleround/2024/10/29/all-wish-stick",
+                    "media:content": [
+                        {
+                            "@height": "3000",
+                            "@medium": "image",
+                            "@type": "image/jpeg",
+                            "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/10/allwishSQ.jpg",
+                            "@width": "3000",
+                            "media:description": "(Sabina Hahn for WBUR)",
+                            "media:thumbnail": {
+                                "@height": "200",
+                                "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/10/allwishSQ-200x200.jpg",
+                                "@width": "200"
+                            }
+                        },
+                        {
+                            "@fileSize": "26532281",
+                            "@medium": "audio",
+                            "@type": "audio/mpeg",
+                            "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR9065870641.mp3"
+                        }
+                    ],
+                    "pubDate": "Tue, 29 Oct 2024 15:00:00 -0400",
+                    "title": "The All-Wish Stick"
+                },
+                {
+                    "category": [
+                        "Arts",
+                        "Books"
+                    ],
                     "content:encoded": "<p><span style=\"font-weight: 400;\">Actor Kelly Jenrette (All American: Homecoming, The Handmaid\u2019s Tale) and producer/actor Lamar Richardson (Appropriate, Merrily We Roll Along) co-star in a Shona legend that proves how big strength can come in little sizes.</span></p>",
                     "dc:creator": {
                         "#text": "WBUR",
@@ -20647,7 +20704,7 @@
             "itunes:summary": "Created and produced by parents of young children, WBUR's Circle Round adapts carefully-selected folktales from around the world into sound- and music-rich radio plays for kids ages 3-103. Each 15 to 25-minute episode explores important issues like kindness, persistence and generosity. And each episode ends with an activity that inspires a deeper conversation between children and grown-ups.",
             "itunes:type": "serial",
             "language": "en-us",
-            "lastBuildDate": "Sat, 26 Oct 2024 20:30:09 -0400",
+            "lastBuildDate": "Sat, 02 Nov 2024 20:30:08 -0400",
             "link": "https://www.wbur.org/podcasts/circleround",
             "title": "Circle Round"
         }
