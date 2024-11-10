@@ -100,6 +100,11 @@
                     "title": "John Birch vs. the PTA"
                 },
                 {
+                    "category": [
+                        "SolveImport",
+                        "FriendsImport",
+                        "LostImport"
+                    ],
                     "content:encoded": "<p>How is 5G powering the use of AI to revolutionize life-saving solutions? Malcolm sits with T-Mobile for Business CMO Mo Katibeh, 3AM Innovations COO Ryan Litt, and the University of Miami Miller School of Medicine's Dr. Azizi Seixas to find out in this special episode of Revisionist History. Brought to you in partnership with T-Mobile for Business, and recorded live from the Mobile World Congress in Las Vegas.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
                     "description": "<p>How is 5G powering the use of AI to revolutionize life-saving solutions? Malcolm sits with T-Mobile for Business CMO Mo Katibeh, 3AM Innovations COO Ryan Litt, and the University of Miami Miller School of Medicine's Dr. Azizi Seixas to find out in this special episode of Revisionist History. Brought to you in partnership with T-Mobile for Business, and recorded live from the Mobile World Congress in Las Vegas.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
                     "enclosure": {
@@ -118,6 +123,7 @@
                     "itunes:image": {
                         "@href": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0d4cc74d-fff7-4b89-8818-ae32006cd7f0/image.jpg?t=1643956582&size=Large"
                     },
+                    "itunes:keywords": "SolveImport, FriendsImport, LostImport",
                     "itunes:season": "12",
                     "itunes:title": "Exploring Life-Saving AI Tech with T-Mobile for Business",
                     "link": "https://omny.fm/shows/revisionist-history/rhs9-ai-for-business-tmobile-master-v2-sb-102424",
@@ -210,6 +216,64 @@
                     ],
                     "pubDate": "Thu, 24 Oct 2024 04:01:00 +0000",
                     "title": "The Tipping Point Revisited: Broken Windows"
+                },
+                {
+                    "category": "RHImportS4",
+                    "content:encoded": "<p>In this episode of <em>Smart Talks with IBM</em>, Malcolm Gladwell speaks with Jason Kelley, GM, Strategic Partners and Ecosystems at IBM, and Kristy Friedrichs, SVP and Chief Partnership Officer at Palo Alto Networks. They discuss the challenges and opportunities that the rapid development of AI brings to the cybersecurity space. Jason and Kristy also underscore how implementing a zero trust strategy can help enterprises enhance cyber resiliency and simplify operations. Together, IBM and Palo Alto Networks are delivering fully integrated, open, end-to-end security solutions to enterprises.</p> <p>This is a paid advertisement from IBM. The conversations on this podcast don't necessarily represent IBM's positions, strategies or opinions.</p> <p>Visit us at<a href=\"https://www.ibm.com/think/podcasts/smart-talks\"> </a><a href=\"https://ibm.com/smarttalks\">https://ibm.com/smarttalks</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p>In this episode of <em>Smart Talks with IBM</em>, Malcolm Gladwell speaks with Jason Kelley, GM, Strategic Partners and Ecosystems at IBM, and Kristy Friedrichs, SVP and Chief Partnership Officer at Palo Alto Networks. They discuss the challenges and opportunities that the rapid development of AI brings to the cybersecurity space. Jason and Kristy also underscore how implementing a zero trust strategy can help enterprises enhance cyber resiliency and simplify operations. Together, IBM and Palo Alto Networks are delivering fully integrated, open, end-to-end security solutions to enterprises.</p> <p>This is a paid advertisement from IBM. The conversations on this podcast don't necessarily represent IBM's positions, strategies or opinions.</p> <p>Visit us at<a href=\"https://www.ibm.com/think/podcasts/smart-talks\"> </a><a href=\"https://ibm.com/smarttalks\">https://ibm.com/smarttalks</a></p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "38161544",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/57e6827e-242a-4874-9395-b20c0162fc72/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0"
+                    },
+                    "guid": {
+                        "#text": "57e6827e-242a-4874-9395-b20c0162fc72",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries",
+                    "itunes:duration": "2383",
+                    "itunes:episode": "7",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0d4cc74d-fff7-4b89-8818-ae32006cd7f0/image.jpg?t=1643956582&size=Large"
+                    },
+                    "itunes:keywords": "RHImportS4",
+                    "itunes:season": "4",
+                    "itunes:title": "How AI Can Accelerate Cybersecurity",
+                    "link": "https://omny.fm/shows/smart-talks-with-ibm/ibm-s05e07-jasonkristy-master-v1-sb-101724",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/57e6827e-242a-4874-9395-b20c0162fc72/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/smart-talks-with-ibm/ibm-s05e07-jasonkristy-master-v1-sb-101724/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0d4cc74d-fff7-4b89-8818-ae32006cd7f0/image.jpg?t=1643956582&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "57e6827e-242a-4874-9395-b20c0162fc72",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/57e6827e-242a-4874-9395-b20c0162fc72/transcript?format=SubRip&t=1729200960"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/57e6827e-242a-4874-9395-b20c0162fc72/transcript?format=WebVTT&t=1729200960"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/57e6827e-242a-4874-9395-b20c0162fc72/transcript?format=TextWithTimestamps&t=1729200960"
+                        }
+                    ],
+                    "pubDate": "Tue, 22 Oct 2024 10:30:00 +0000",
+                    "title": "How AI Can Accelerate Cybersecurity"
                 },
                 {
                     "content:encoded": "<p>On the very first stop of the <em>Revenge of the Tipping Point </em>book tour,<em> </em>Malcolm sat down with David Remnick, editor of the <em>New Yorker</em>, at the 92Y in New York City. The old friends and former colleagues discuss Malcolm\u2019s past work, his new book and how he traces his love of storytelling back to playing endless games of Monopoly as a child.</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",

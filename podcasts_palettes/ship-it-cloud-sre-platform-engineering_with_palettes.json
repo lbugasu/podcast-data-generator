@@ -23,6 +23,134 @@
             "description": "A podcast about everything that happens after \\`git push\\` Justin Garrison & Autumn Nash explore all things DevOps, infra, cloud & running apps in production. Whether you're cloud native, Kubernetes curious, a pro SRE, or just operating a VPS... you'll love coming along for the ride. \n\nSome people search for ShipIt or ShipItFM and can't find the show, so now the strings ShipIt and ShipItFM are in our description too.",
             "item": [
                 {
+                    "content:encoded": "<p>No interview this week! Instead, Justin &amp; Autumn sit down to talk about what they\u2019ve been learning recently.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456580-shipit\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 8 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://sentry.io/\">Sentry</a> \u2013 <strong>Code breaks, fix it faster.</strong> Don\u2019t just observe. Take action. Sentry is the only app monitoring platform built for developers that gets to the root cause for every issue. 100,000+ growing teams use sentry to find problems fast. Use the code <code>CHANGELOG</code> when you sign up to get $100 OFF the team plan.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Justin Garrison &ndash; <a href=\"https://twitter.com/rothgar\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/rothgar\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/justingarrison\" rel=\"external ugc\">LinkedIn</a></li><li>Autumn Nash &ndash; <a href=\"https://twitter.com/autumn808\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/autumn808\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/autumnnash\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://au.finance.yahoo.com/news/work-from-home-warning-as-video-exposes-chaos-of-return-to-office-mandates-deal-with-it-045302497.html\">RTO is going great</a></li>\n<li><a href=\"https://newsletter.pragmaticengineer.com/p/leaving-big-tech\">Why techies leave Big Tech</a></li>\n<li><a href=\"https://www.linkedin.com/pulse/urgent-need-bias-mitigation-large-language-models-sahil-agarwal-ljvhc/\">Urgent need for bias mitigation in LLMs</a></li>\n<li><a href=\"https://www.kqed.org/news/12007520/how-artificial-intelligence-is-changing-the-reports-police-write\">AI police reports</a></li>\n<li><a href=\"https://machinelearning.apple.com/research/gsm-symbolic\">Apple\u2019s LLM whitepaper</a></li>\n<li><a href=\"https://leanpub.com/platformstrategy\">Platform Strategy book</a></li>\n<li><a href=\"https://arxiv.org/abs/2402.03239\">Bluesky whitepaper</a></li>\n<li><a href=\"https://mitchellh.com/writing/ghostty-is-coming\">Ghostty</a></li>\n<li><a href=\"https://www.inc.com/joe-procopio/the-untimely-death-of-product-management/90990600\">The death of product management</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/shipit/ship-it-129.md\">PRs welcome!</a></p>",
+                    "description": "No interview this week! Instead, Justin & Autumn sit down to talk about what they've been learning recently.",
+                    "enclosure": {
+                        "@length": "74304875",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/shipit/129/ship-it-129.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/14/2600",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:17:10",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/ship-it-original.png?v=63787880447"
+                    },
+                    "link": "https://changelog.com/shipit/129",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/shipit/129/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Justin Garrison",
+                            "@href": "https://changelog.com/person/jgarr",
+                            "@img": "https://secure.gravatar.com/avatar/5b746c23f3b5fae8ad186ddc9e96c34e.jpg?s=600&d=mm",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Autumn Nash",
+                            "@href": "https://changelog.com/person/autumn808",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/e47RO/avatar_large.jpg?v=63877387957",
+                            "@role": "host"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "This is Ship It!"
+                            },
+                            {
+                                "@href": "https://fly.io/",
+                                "@start": "52",
+                                "@title": "Sponsor: Fly"
+                            },
+                            {
+                                "@start": "226",
+                                "@title": "Sweet treat rant"
+                            },
+                            {
+                                "@start": "391",
+                                "@title": "New formula"
+                            },
+                            {
+                                "@start": "525",
+                                "@title": "Going back to work"
+                            },
+                            {
+                                "@start": "857",
+                                "@title": "SCALE CFP"
+                            },
+                            {
+                                "@start": "921",
+                                "@title": "WebMD video"
+                            },
+                            {
+                                "@start": "992",
+                                "@title": "Pragmatic Engineer"
+                            },
+                            {
+                                "@start": "1403",
+                                "@title": "Innovating in big tech"
+                            },
+                            {
+                                "@start": "1661",
+                                "@title": "Autumns DEI talk"
+                            },
+                            {
+                                "@href": "https://sentry.io/",
+                                "@start": "1913",
+                                "@title": "Sponsor: Sentry"
+                            },
+                            {
+                                "@start": "2117",
+                                "@title": "Bias mitigation in LLMs"
+                            },
+                            {
+                                "@start": "2621",
+                                "@title": "LLMs cannot reason"
+                            },
+                            {
+                                "@start": "2727",
+                                "@title": "Platform Strategy"
+                            },
+                            {
+                                "@start": "2784",
+                                "@title": "BlueSky's moment"
+                            },
+                            {
+                                "@start": "3467",
+                                "@title": "Ghostty"
+                            },
+                            {
+                                "@start": "3717",
+                                "@title": "The Ultimate Death of Product Management"
+                            },
+                            {
+                                "@start": "3848",
+                                "@title": "Scaling equality"
+                            },
+                            {
+                                "@start": "4437",
+                                "@title": "Thanks for listening!"
+                            },
+                            {
+                                "@start": "4556",
+                                "@title": "Outro"
+                            }
+                        ]
+                    },
+                    "pubDate": "Fri, 08 Nov 2024 18:00:00 +0000",
+                    "title": "News & whitepapers"
+                },
+                {
                     "content:encoded": "<p>Maybe Jira for your kids\u2019 chores is a good idea\u2026 Probably not.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456580-shipit\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 11 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://sentry.io/\">Sentry</a> \u2013 <strong>Code breaks, fix it faster.</strong> Don\u2019t just observe. Take action. Sentry is the only app monitoring platform built for developers that gets to the root cause for every issue. 100,000+ growing teams use sentry to find problems fast. Use the code <code>CHANGELOG</code> when you sign up to get $100 OFF the team plan.\n</li>\n<li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://www.timescale.com\">Timescale</a> \u2013 Real-time analytics on Postgres, seriously fast. Over 3 million Timescale databases power loT, sensors, Al, dev tools, crypto, and finance apps \u2014 all on Postgres. Postgres, for everything.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Austin Parker &ndash; <a href=\"https://twitter.com/austinlparker\" rel=\"external ugc\">Twitter</a>, <a href=\"https://www.linkedin.com/in/austinlparker\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://aparker.io\" rel=\"external ugc\">Website</a></li><li>Justin Garrison &ndash; <a href=\"https://twitter.com/rothgar\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/rothgar\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/justingarrison\" rel=\"external ugc\">LinkedIn</a></li><li>Autumn Nash &ndash; <a href=\"https://twitter.com/autumn808\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/autumn808\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/autumnnash\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><h4>Interview</h4>\n<ul>\n<li>[Austin on Bluesky](https://bsky.app/profile/aparker.io</li>\n<li><a href=\"https://desertedisland.club/\">Deserted Island Devops</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/shipit/ship-it-128.md\">PRs welcome!</a></p>",
                     "description": "Maybe Jira for your kids' chores is a good idea... Probably not.",
                     "enclosure": {
@@ -65,6 +193,10 @@
                             "@role": "guest"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@shipit/113409471843679242"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",
@@ -207,6 +339,10 @@
                     "podcast:socialInteract": {
                         "@protocol": "activitypub",
                         "@uri": "https://changelog.social/@shipit/113369756846373816"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/shipit/127/transcript"
                     },
                     "psc:chapters": {
                         "@version": "1.1",
@@ -363,6 +499,10 @@
                     "podcast:socialInteract": {
                         "@protocol": "activitypub",
                         "@uri": "https://changelog.social/@shipit/113329204481652582"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/shipit/126/transcript"
                     },
                     "psc:chapters": {
                         "@version": "1.1",

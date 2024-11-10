@@ -23,7 +23,128 @@
             "description": "Your source for wide-ranging discussions from all around the Go community. Panelists include Mat Ryer, Jon Calhoun, Natalie Pistunovich, Johnny Boursiquot, Angelica Hill, Kris Brandow, and Ian Lopshire.\n\nWe discuss cloud infrastructure, distributed systems, microservices, Kubernetes, Docker... oh and also Go!\n\nSome people search for GoTime or GoTimeFM and can't find the show, so now the strings GoTime and GoTimeFM are in our description too.",
             "item": [
                 {
-                    "content:encoded": "<p>Yasir Ekinci joins Johnny &amp; Mat to talk about how virtually every Observability vendor is rushing to add Generative AI capabilities to their products and what that entails from both a development and usability perspective.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/455709-gotime\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 10 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://www.bytesizego.com/goland\">JetBrains</a> \u2013 Sign up for the free \u201cMastering Go with GoLand\u201d course and receive a complimentary 1-year GoLand subscription at <a href=\"https://www.bytesizego.com/goland\">bytesizego.com/goland</a>\n</li>\n<li><a href=\"https://retool.com/changelog\">Retool</a> \u2013 <strong>The low-code platform for developers to build internal tools</strong> \u2014 Some of the best teams out there trust Retool\u2026Brex, Coinbase, Plaid, Doordash, LegalGenius, Amazon, Allbirds, Peloton, and so many more \u2013 the developers at these teams trust Retool as the platform to build their internal tools. Try it free at <a href=\"https://retool.com/changelog\">retool.com/changelog</a>\n</li>\n<li><a href=\"https://incogni.com/gotime\">Incogni</a> \u2013 <a href=\"https://incogni.com/gotime\">Go to incogni.com/gotime</a> and use code <code>GOTIME</code> using our link to get an exclusive 60% off an annual Incogni plan.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Yasir Ekinci &ndash; <a href=\"https://twitter.com/yasirekinci\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/yoziru\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/yasirekinci\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://yasirekinci.com\" rel=\"external ugc\">Website</a></li><li>Johnny Boursiquot &ndash; <a href=\"https://twitter.com/jboursiquot\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/jboursiquot\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.jboursiquot.com/\" rel=\"external ugc\">Website</a></li><li>Mat Ryer &ndash; <a href=\"https://twitter.com/matryer\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/matryer\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/matryer\" rel=\"external ugc\">LinkedIn</a>, <a href=\"http://matryer.com/\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p></p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/gotime/go-time-335.md\">PRs welcome!</a></p>",
+                    "content:encoded": "<p>Writing a shell is rarely the kind of project you take on lightly. In this episode, Johnny is joined by Qi Xiao to explore how to go about such a feat in Go.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/455709-gotime\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 9 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://retool.com/changelog\">Retool</a> \u2013 <strong>The low-code platform for developers to build internal tools</strong> \u2014 Some of the best teams out there trust Retool\u2026Brex, Coinbase, Plaid, Doordash, LegalGenius, Amazon, Allbirds, Peloton, and so many more \u2013 the developers at these teams trust Retool as the platform to build their internal tools. Try it free at <a href=\"https://retool.com/changelog\">retool.com/changelog</a>\n</li>\n<li><a href=\"https://www.timescale.com\">Timescale</a> \u2013 Real-time analytics on Postgres, seriously fast. Over 3 million Timescale databases power loT, sensors, Al, dev tools, crypto, and finance apps \u2014 all on Postgres. Postgres, for everything.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Qi Xiao &ndash; <a href=\"https://twitter.com/xiaq_en\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/xiaq\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/qi-xiao\" rel=\"external ugc\">LinkedIn</a></li><li>Johnny Boursiquot &ndash; <a href=\"https://twitter.com/jboursiquot\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/jboursiquot\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.jboursiquot.com/\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://elv.sh\">Elvish shell</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/gotime/go-time-336.md\">PRs welcome!</a></p>",
+                    "description": "Writing a shell is rarely the kind of project you take on lightly. In this episode, Johnny is joined by Qi Xiao to explore how to go about such a feat in Go.",
+                    "enclosure": {
+                        "@length": "63277097",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/gotime/336/go-time-336.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/2/2606",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:05:22",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/go-time-original.png?v=63725770357"
+                    },
+                    "link": "https://changelog.com/gotime/336",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/gotime/336/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Johnny Boursiquot",
+                            "@href": "https://changelog.com/person/jboursiquot",
+                            "@img": "https://secure.gravatar.com/avatar/6d26a33d20b8e96182b8e71c30ffe927.jpg?s=600&d=mm",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Qi Xiao",
+                            "@href": "https://twitter.com/xiaq_en",
+                            "@img": "https://secure.gravatar.com/avatar/dcecdb372d2c5c8741b5d7a52eead983.jpg?s=600&d=mm",
+                            "@role": "guest"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "It's Go Time!"
+                            },
+                            {
+                                "@href": "https://fly.io/",
+                                "@start": "47",
+                                "@title": "Sponsor: Fly"
+                            },
+                            {
+                                "@start": "212",
+                                "@title": "Qi Xiao"
+                            },
+                            {
+                                "@start": "260",
+                                "@title": "Elvish"
+                            },
+                            {
+                                "@start": "410",
+                                "@title": "What is a shell?"
+                            },
+                            {
+                                "@href": "https://retool.com/changelog",
+                                "@start": "960",
+                                "@title": "Sponsor: Retool"
+                            },
+                            {
+                                "@start": "1131",
+                                "@title": "Why Go?"
+                            },
+                            {
+                                "@start": "1379",
+                                "@title": "Different OS"
+                            },
+                            {
+                                "@start": "1590",
+                                "@title": "Features"
+                            },
+                            {
+                                "@start": "2135",
+                                "@title": "1,000 line bash file"
+                            },
+                            {
+                                "@start": "2276",
+                                "@title": "The perfect use case for Go"
+                            },
+                            {
+                                "@start": "2604",
+                                "@title": "What Go made harder"
+                            },
+                            {
+                                "@start": "2779",
+                                "@title": "What's next?"
+                            },
+                            {
+                                "@href": "https://www.timescale.com",
+                                "@start": "3025",
+                                "@title": "Sponsor: Timescale"
+                            },
+                            {
+                                "@start": "3162",
+                                "@title": "Unpopular Opinions!"
+                            },
+                            {
+                                "@start": "3188",
+                                "@title": "Qi's unpop"
+                            },
+                            {
+                                "@start": "3466",
+                                "@title": "Johnny's unpop"
+                            },
+                            {
+                                "@start": "3852",
+                                "@title": "Outro"
+                            }
+                        ]
+                    },
+                    "pubDate": "Wed, 06 Nov 2024 21:00:00 +0000",
+                    "title": "Writing a shell in Go"
+                },
+                {
+                    "content:encoded": "<p>Yasir Ekinci joins Johnny &amp; Mat to talk about how virtually every Observability vendor is rushing to add Generative AI capabilities to their products and what that entails from both a development and usability perspective.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/455709-gotime\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 10 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://www.bytesizego.com/goland\">JetBrains</a> \u2013 Sign up for the free \u201cMastering Go with GoLand\u201d course and receive a complimentary 1-year GoLand subscription at <a href=\"https://www.bytesizego.com/goland\">bytesizego.com/goland</a>\n</li>\n<li><a href=\"https://retool.com/changelog\">Retool</a> \u2013 <strong>The low-code platform for developers to build internal tools</strong> \u2014 Some of the best teams out there trust Retool\u2026Brex, Coinbase, Plaid, Doordash, LegalGenius, Amazon, Allbirds, Peloton, and so many more \u2013 the developers at these teams trust Retool as the platform to build their internal tools. Try it free at <a href=\"https://retool.com/changelog\">retool.com/changelog</a>\n</li>\n<li><a href=\"https://incogni.com/gotime\">Incogni</a> \u2013 <a href=\"https://incogni.com/gotime\">Go to incogni.com/gotime</a> and use code <code>GOTIME</code> using our link to get an exclusive 60% off an annual Incogni plan.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Johnny Boursiquot &ndash; <a href=\"https://twitter.com/jboursiquot\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/jboursiquot\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.jboursiquot.com/\" rel=\"external ugc\">Website</a></li><li>Mat Ryer &ndash; <a href=\"https://twitter.com/matryer\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/matryer\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/matryer\" rel=\"external ugc\">LinkedIn</a>, <a href=\"http://matryer.com/\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p></p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/gotime/go-time-335.md\">PRs welcome!</a></p>",
                     "description": "Yasir Ekinci joins Johnny & Mat to talk about how virtually every Observability vendor is rushing to add Generative AI capabilities to their products and what that entails from both a development and usability perspective.",
                     "enclosure": {
                         "@length": "67156797",
@@ -57,14 +178,16 @@
                             "@href": "https://changelog.com/person/matryer",
                             "@img": "https://cdn.changelog.com/uploads/avatars/people/lbY/avatar_large.jpg?v=63764553668",
                             "@role": "host"
-                        },
-                        {
-                            "#text": "Yasir Ekinci",
-                            "@href": "https://changelog.com/person/yasirekinci",
-                            "@img": "https://cdn.changelog.com/uploads/avatars/people/gbjoG/avatar_large.jpg?v=63896910955",
-                            "@role": "guest"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@gotime/113357099154882046"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/gotime/335/transcript"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",

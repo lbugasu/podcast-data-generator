@@ -34,6 +34,63 @@
                         "Arts",
                         "Books"
                     ],
+                    "content:encoded": "<p><span style=\"font-weight: 400;\">Jennifer Hale (Stars Wars: The Clone Wars, X-Men \u201897) stars in a Portuguese tale about a big bad wolf and a sharp shrewd owl.</span></p>",
+                    "dc:creator": {
+                        "#text": "WBUR",
+                        "@xmlns:dc": "http://purl.org/dc/elements/1.1/"
+                    },
+                    "description": "<p><span style=\"font-weight: 400;\">Jennifer Hale (Stars Wars: The Clone Wars, X-Men \u201897) stars in a Portuguese tale about a big bad wolf and a sharp shrewd owl.</span></p>",
+                    "enclosure": {
+                        "@length": "16536425",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR2113563416.mp3"
+                    },
+                    "guid": {
+                        "#text": "0c269b81-0c8d-41cc-9bc5-780d6ecef6fa",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": " WBUR ",
+                    "itunes:duration": "00:17:14",
+                    "itunes:episode": "19",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://wordpress.wbur.org/wp-content/uploads/2024/10/wolfsmouthSQ.jpg"
+                    },
+                    "itunes:season": "8",
+                    "itunes:subtitle": "Jennifer Hale (Stars Wars: The Clone Wars, X-Men \u201897) stars in a Portuguese tale about a big bad wolf and a sharp shrewd owl.",
+                    "itunes:summary": "<span style=\"font-weight: 400;\">Jennifer Hale (Stars Wars: The Clone Wars, X-Men \u201897) stars in a Portuguese tale about a big bad wolf and a sharp shrewd owl.</span>",
+                    "itunes:title": " In the Wolf\u2019s Mouth ",
+                    "link": "https://www.wbur.org/circleround/2024/11/05/wolfs-mouth",
+                    "media:content": [
+                        {
+                            "@height": "3000",
+                            "@medium": "image",
+                            "@type": "image/jpeg",
+                            "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/10/wolfsmouthSQ.jpg",
+                            "@width": "3000",
+                            "media:description": "(Sabina Hahn for WBUR)",
+                            "media:thumbnail": {
+                                "@height": "200",
+                                "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/10/wolfsmouthSQ-200x200.jpg",
+                                "@width": "200"
+                            }
+                        },
+                        {
+                            "@fileSize": "16536425",
+                            "@medium": "audio",
+                            "@type": "audio/mpeg",
+                            "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR2113563416.mp3"
+                        }
+                    ],
+                    "pubDate": "Tue, 05 Nov 2024 15:00:00 -0500",
+                    "title": "In the Wolf\u2019s Mouth"
+                },
+                {
+                    "category": [
+                        "Arts",
+                        "Books"
+                    ],
                     "content:encoded": "<p><span style=\"font-weight: 400;\">Amy Tsang (Star Wars: The Acolyte, Kung Fu) stars in a Chinese tale about a magical gift that makes wishes come true, provided you make them with an honest heart.</span></p>",
                     "dc:creator": {
                         "#text": "WBUR",
@@ -20704,7 +20761,7 @@
             "itunes:summary": "Created and produced by parents of young children, WBUR's Circle Round adapts carefully-selected folktales from around the world into sound- and music-rich radio plays for kids ages 3-103. Each 15 to 25-minute episode explores important issues like kindness, persistence and generosity. And each episode ends with an activity that inspires a deeper conversation between children and grown-ups.",
             "itunes:type": "serial",
             "language": "en-us",
-            "lastBuildDate": "Sat, 02 Nov 2024 20:30:08 -0400",
+            "lastBuildDate": "Sat, 09 Nov 2024 19:30:07 -0500",
             "link": "https://www.wbur.org/podcasts/circleround",
             "title": "Circle Round"
         }
