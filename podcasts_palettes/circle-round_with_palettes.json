@@ -34,6 +34,63 @@
                         "Arts",
                         "Books"
                     ],
+                    "content:encoded": "<p><span style=\"font-weight: 400;\">Jon Huertas (This Is Us, Tracker) headlines an Aztec legend about how music first came to the world.</span></p>",
+                    "dc:creator": {
+                        "#text": "WBUR",
+                        "@xmlns:dc": "http://purl.org/dc/elements/1.1/"
+                    },
+                    "description": "<p><span style=\"font-weight: 400;\">Jon Huertas (This Is Us, Tracker) headlines an Aztec legend about how music first came to the world.</span></p>",
+                    "enclosure": {
+                        "@length": "19489668",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR7512401275.mp3"
+                    },
+                    "guid": {
+                        "#text": "76d19885-a758-4328-a70f-1511766a00e4",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": " WBUR ",
+                    "itunes:duration": "00:20:18",
+                    "itunes:episode": "20",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://wordpress.wbur.org/wp-content/uploads/2024/11/sun.jpg"
+                    },
+                    "itunes:season": "8",
+                    "itunes:subtitle": "Jon Huertas (This Is Us, Tracker) headlines an Aztec legend about how music first came to the world.",
+                    "itunes:summary": "<span style=\"font-weight: 400;\">Jon Huertas (This Is Us, Tracker) headlines an Aztec legend about how music first came to the world.</span>",
+                    "itunes:title": " A World of Music ",
+                    "link": "https://www.wbur.org/circleround/2024/11/12/world-of-music",
+                    "media:content": [
+                        {
+                            "@height": "3000",
+                            "@medium": "image",
+                            "@type": "image/jpeg",
+                            "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/11/sun.jpg",
+                            "@width": "3000",
+                            "media:description": "(Sabina Hahn for WBUR)",
+                            "media:thumbnail": {
+                                "@height": "200",
+                                "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/11/sun-200x200.jpg",
+                                "@width": "200"
+                            }
+                        },
+                        {
+                            "@fileSize": "19489668",
+                            "@medium": "audio",
+                            "@type": "audio/mpeg",
+                            "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR7512401275.mp3"
+                        }
+                    ],
+                    "pubDate": "Tue, 12 Nov 2024 15:00:00 -0500",
+                    "title": "A World of Music"
+                },
+                {
+                    "category": [
+                        "Arts",
+                        "Books"
+                    ],
                     "content:encoded": "<p><span style=\"font-weight: 400;\">Jennifer Hale (Stars Wars: The Clone Wars, X-Men \u201897) stars in a Portuguese tale about a big bad wolf and a sharp shrewd owl.</span></p>",
                     "dc:creator": {
                         "#text": "WBUR",
@@ -20761,7 +20818,7 @@
             "itunes:summary": "Created and produced by parents of young children, WBUR's Circle Round adapts carefully-selected folktales from around the world into sound- and music-rich radio plays for kids ages 3-103. Each 15 to 25-minute episode explores important issues like kindness, persistence and generosity. And each episode ends with an activity that inspires a deeper conversation between children and grown-ups.",
             "itunes:type": "serial",
             "language": "en-us",
-            "lastBuildDate": "Sat, 09 Nov 2024 19:30:07 -0500",
+            "lastBuildDate": "Sat, 16 Nov 2024 19:30:07 -0500",
             "link": "https://www.wbur.org/podcasts/circleround",
             "title": "Circle Round"
         }

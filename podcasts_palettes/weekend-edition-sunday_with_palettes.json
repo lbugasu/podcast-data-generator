@@ -10,7 +10,7 @@
         "@xmlns:podcast": "https://podcastindex.org/namespace/1.0",
         "channel": {
             "atom:link": {
-                "@href": "https://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml",
+                "@href": "http://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml",
                 "@rel": "self",
                 "@type": "application/rss+xml"
             },
@@ -26,6 +26,304 @@
                 "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
             },
             "item": [
+                {
+                    "author": "Jackie Fortier",
+                    "description": "Hospitals have been forced to innovate with new ways of hydrating patients and giving them medications, after a key factory that produces IV fluid bags flooded during Hurricane Helene. (This story first aired on Morning Edition on Nov. 7, 2024.)",
+                    "enclosure": {
+                        "@length": "4176000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_encore_hospitals_iv_coping.mp3?size=3714448&d=232124&e=nx-s1-5179041-e1"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-103871",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Jackie Fortier",
+                    "itunes:duration": "00:03:52",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Hospitals face months of IV fluid shortages after Helene damages N.C. factory",
+                    "itunes:summary": "Hospitals have been forced to innovate with new ways of hydrating patients and giving them medications, after a key factory that produces IV fluid bags flooded during Hurricane Helene. (This story first aired on Morning Edition on Nov. 7, 2024.)",
+                    "itunes:title": "Hospitals face months of IV fluid shortages after Helene damages N.C. factory",
+                    "link": "https://www.kuow.org/stories/hospitals-face-months-of-iv-fluid-shortages-after-helene-damages-n-c-factory-746f",
+                    "pubDate": "Sun, 10 Nov 2024 05:34:20 -0800",
+                    "title": "Hospitals face months of IV fluid shortages after Helene damages N.C. factory"
+                },
+                {
+                    "author": [
+                        "Barbara Sprunt",
+                        "Ayesha Rascoe"
+                    ],
+                    "description": "Congress returns this week. Republicans are hopeful they will maintain their House majority in the next Congress. In the Senate, Republicans will choose the next majority leader.",
+                    "enclosure": {
+                        "@length": "3780000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_republicans_hope_for_a_house_majority_as_congress_returns_to_session.mp3?size=3367960&d=210445&e=nx-s1-5184120"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-103872",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Barbara Sprunt",
+                        "Ayesha Rascoe"
+                    ],
+                    "itunes:duration": "00:03:30",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Republicans hope for a House majority as Congress returns to session",
+                    "itunes:summary": "Congress returns this week. Republicans are hopeful they will maintain their House majority in the next Congress. In the Senate, Republicans will choose the next majority leader.",
+                    "itunes:title": "Republicans hope for a House majority as Congress returns to session",
+                    "link": "https://www.kuow.org/stories/republicans-hope-for-a-house-majority-as-congress-returns-to-session",
+                    "pubDate": "Sun, 10 Nov 2024 05:34:17 -0800",
+                    "title": "Republicans hope for a House majority as Congress returns to session"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "\"Candyman\" actor Tony Todd died Nov. 6. He was 69.",
+                    "enclosure": {
+                        "@length": "1890000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_remembering_candyman_actor_tony_todd.mp3?size=1686092&d=105342&e=nx-s1-5185218"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-103873",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:01:45",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Remembering 'Candyman' actor Tony Todd",
+                    "itunes:summary": "\"Candyman\" actor Tony Todd died Nov. 6. He was 69.",
+                    "itunes:title": "Remembering 'Candyman' actor Tony Todd",
+                    "link": "https://www.kuow.org/stories/remembering-candyman-actor-tony-todd",
+                    "pubDate": "Sun, 10 Nov 2024 05:34:14 -0800",
+                    "title": "Remembering 'Candyman' actor Tony Todd"
+                },
+                {
+                    "author": "David Schaper",
+                    "description": "Chicago may soon become the largest city in the northern hemisphere without an intercity bus terminal as Greyhound's downtown station is threatened.",
+                    "enclosure": {
+                        "@length": "3708000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_chicago_may_become_the_latest_city_to_lose_greyhound_bus_services.mp3?size=3309863&d=206836&e=nx-s1-5165532"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-103875",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "David Schaper",
+                    "itunes:duration": "00:03:26",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Chicago may become the latest city to lose Greyhound bus services",
+                    "itunes:summary": "Chicago may soon become the largest city in the northern hemisphere without an intercity bus terminal as Greyhound's downtown station is threatened.",
+                    "itunes:title": "Chicago may become the latest city to lose Greyhound bus services",
+                    "link": "https://www.kuow.org/stories/chicago-may-become-the-latest-city-to-lose-greyhound-bus-services",
+                    "pubDate": "Sun, 10 Nov 2024 05:34:07 -0800",
+                    "title": "Chicago may become the latest city to lose Greyhound bus services"
+                },
+                {
+                    "author": "Kat Lonsdorf",
+                    "description": "A hostage relative tells NPR that now-former Israeli defense minister Yoav Gallant said a deal could have been reached already",
+                    "enclosure": {
+                        "@length": "3906000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_former_israeli_defense_minister_blames_netanyahu_in_a_meeting_with_families_of_hostages.mp3?size=3488332&d=217981&e=nx-s1-5184473"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-103874",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Kat Lonsdorf",
+                    "itunes:duration": "00:03:37",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Former Israeli defense minister blames Netanyahu in a meeting with families of hostages",
+                    "itunes:summary": "A hostage relative tells NPR that now-former Israeli defense minister Yoav Gallant said a deal could have been reached already",
+                    "itunes:title": "Former Israeli defense minister blames Netanyahu in a meeting with families of hostages",
+                    "link": "https://www.kuow.org/stories/former-israeli-defense-minister-blames-netanyahu-in-a-meeting-with-families-of-hostages",
+                    "pubDate": "Sun, 10 Nov 2024 05:34:04 -0800",
+                    "title": "Former Israeli defense minister blames Netanyahu in a meeting with families of hostages"
+                },
+                {
+                    "author": "Lilly Knoepp",
+                    "description": "Tourists stayed away from western North Carolina this year after Helene swept through the area, and towns that depend on leaf lookers are bracing for big losses.",
+                    "enclosure": {
+                        "@length": "2538000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_hurricane_helene_caused_big_losses_for_north_carolina_s_fall_tourism_industry.mp3?size=2263711&d=141441&e=nx-s1-5184425"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-103878",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Lilly Knoepp",
+                    "itunes:duration": "00:02:21",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Hurricane Helene caused big losses for North Carolina's fall tourism industry",
+                    "itunes:summary": "Tourists stayed away from western North Carolina this year after Helene swept through the area, and towns that depend on leaf lookers are bracing for big losses.",
+                    "itunes:title": "Hurricane Helene caused big losses for North Carolina's fall tourism industry",
+                    "link": "https://www.kuow.org/stories/hurricane-helene-caused-big-losses-for-north-carolina-s-fall-tourism-industry",
+                    "pubDate": "Sun, 10 Nov 2024 05:34:00 -0800",
+                    "title": "Hurricane Helene caused big losses for North Carolina's fall tourism industry"
+                },
+                {
+                    "author": "EMMET LIVINGSTONE",
+                    "description": "How a unique wilderness in the Democratic Republic of Congo is being revived and preserved for future generations.",
+                    "enclosure": {
+                        "@length": "4014000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_a_rainforest_in_africa_tries_to_reverse_the_damage_form_years_of_conflict_and_neglect.mp3?size=3584462&d=223988&e=nx-s1-5110010"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-103876",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "EMMET LIVINGSTONE",
+                    "itunes:duration": "00:03:43",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "A rainforest in Africa tries to reverse the damage form years of conflict and neglect",
+                    "itunes:summary": "How a unique wilderness in the Democratic Republic of Congo is being revived and preserved for future generations.",
+                    "itunes:title": "A rainforest in Africa tries to reverse the damage form years of conflict and neglect",
+                    "link": "https://www.kuow.org/stories/a-rainforest-in-africa-tries-to-reverse-the-damage-form-years-of-conflict-and-neglect",
+                    "pubDate": "Sun, 10 Nov 2024 05:33:57 -0800",
+                    "title": "A rainforest in Africa tries to reverse the damage form years of conflict and neglect"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "NPR's Ayesha Rascoe talks to Georgetown Law Professor Steve Vladeck about the role federal courts can play as a check on presidential power during a second Trump Administration.",
+                    "enclosure": {
+                        "@length": "5724000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_a_law_expert_explains_the_role_federal_judges_will_play_in_trump_s_presidency.mp3?size=5094131&d=318336&e=nx-s1-5183158"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-103877",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:05:18",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "A law expert explains the role federal judges will play in Trump's presidency",
+                    "itunes:summary": "NPR's Ayesha Rascoe talks to Georgetown Law Professor Steve Vladeck about the role federal courts can play as a check on presidential power during a second Trump Administration.",
+                    "itunes:title": "A law expert explains the role federal judges will play in Trump's presidency",
+                    "link": "https://www.kuow.org/stories/a-law-expert-explains-the-role-federal-judges-will-play-in-trump-s-presidency",
+                    "pubDate": "Sun, 10 Nov 2024 05:33:48 -0800",
+                    "title": "A law expert explains the role federal judges will play in Trump's presidency"
+                },
+                {
+                    "author": [
+                        "Ayesha Rascoe",
+                        "Eleana Tworek"
+                    ],
+                    "description": "NPR's Ayesha Rascoe speaks with award-winning film composer Hans Zimmer about his latest work for the film \"Blitz.\"",
+                    "enclosure": {
+                        "@length": "10404000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_hans_zimmer_discusses_his_music_blitz_a_film_set_in_world_war_ii.mp3?size=9251571&d=578175&e=nx-s1-5028225"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-103879",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Ayesha Rascoe",
+                        "Eleana Tworek"
+                    ],
+                    "itunes:duration": "00:09:38",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Hans Zimmer discusses his music 'Blitz', a film set in World War II",
+                    "itunes:summary": "NPR's Ayesha Rascoe speaks with award-winning film composer Hans Zimmer about his latest work for the film \"Blitz.\"",
+                    "itunes:title": "Hans Zimmer discusses his music 'Blitz', a film set in World War II",
+                    "link": "https://www.kuow.org/stories/hans-zimmer-discusses-his-music-blitz-a-film-set-in-world-war-ii",
+                    "pubDate": "Sun, 10 Nov 2024 05:33:45 -0800",
+                    "title": "Hans Zimmer discusses his music 'Blitz', a film set in World War II"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "NPR's Ayesha Rascoe speaks with Punchbowl News reporter Brendan Pedersen about the cryptocurrency industry's heavy spending on the 2024 campaign and what it could mean for crypto regulation.",
+                    "enclosure": {
+                        "@length": "7038000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_cryptocurrency_s_power_players_spent_big_on_the_election._will_it_pay_off.mp3?size=6262745&d=391380&e=nx-s1-5183122"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-103870",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:06:31",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Cryptocurrency's power players spent big on the election. Will it pay off?",
+                    "itunes:summary": "NPR's Ayesha Rascoe speaks with Punchbowl News reporter Brendan Pedersen about the cryptocurrency industry's heavy spending on the 2024 campaign and what it could mean for crypto regulation.",
+                    "itunes:title": "Cryptocurrency's power players spent big on the election. Will it pay off?",
+                    "link": "https://www.kuow.org/stories/cryptocurrency-s-power-players-spent-big-on-the-election-will-it-pay-off",
+                    "pubDate": "Sun, 10 Nov 2024 05:33:44 -0800",
+                    "title": "Cryptocurrency's power players spent big on the election. Will it pay off?"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "NPR's Ayesha Rascoe talks with A.B. Stoddard, columnist at The Bulwark, about the election results and if it means there has been a durable political realignment.",
+                    "enclosure": {
+                        "@length": "5202000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_how_trump_increased_his_vote_margins_even_in_traditionally_blue_areas.mp3?size=4628942&d=289274&e=nx-s1-5183084"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-103887",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:04:49",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "How Trump increased his vote margins even in traditionally blue areas",
+                    "itunes:summary": "NPR's Ayesha Rascoe talks with A.B. Stoddard, columnist at The Bulwark, about the election results and if it means there has been a durable political realignment.",
+                    "itunes:title": "How Trump increased his vote margins even in traditionally blue areas",
+                    "link": "https://www.kuow.org/stories/how-trump-increased-his-vote-margins-even-in-traditionally-blue-areas",
+                    "pubDate": "Sun, 10 Nov 2024 05:33:41 -0800",
+                    "title": "How Trump increased his vote margins even in traditionally blue areas"
+                },
                 {
                     "author": "Will Shortz",
                     "description": "NPR's Ayesha Rascoe plays with puzzle with Weekend Edition Puzzlemaster Will Shortz and WBUR listener John Byrne of Watertown, Massachusetts.",
@@ -2515,316 +2813,6 @@
                     "link": "https://www.kuow.org/stories/venezuelan-opposition-leader-edmundo-gonzalez-has-fled-the-country",
                     "pubDate": "Sun, 8 Sep 2024 06:02:39 -0700",
                     "title": "Venezuelan opposition leader Edmundo Gonz\u00e1lez has fled the country"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "NPR's Ayesha Rascoe asks conservative pundit Charlie Sykes about the state of the presidential race and where he thinks it is headed.",
-                    "enclosure": {
-                        "@length": "5328000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240908_wesun_conservative_political_commentator_charlie_sykes_says_the_race_could_go_either_way.mp3?size=4738866&d=296147&e=nx-s1-5103613"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100575",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:04:56",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Conservative political commentator Charlie Sykes says the race could go either way",
-                    "itunes:summary": "NPR's Ayesha Rascoe asks conservative pundit Charlie Sykes about the state of the presidential race and where he thinks it is headed.",
-                    "itunes:title": "Conservative political commentator Charlie Sykes says the race could go either way",
-                    "link": "https://www.kuow.org/stories/conservative-political-commentator-charlie-sykes-says-the-race-could-go-either-way",
-                    "pubDate": "Sun, 8 Sep 2024 05:02:02 -0700",
-                    "title": "Conservative political commentator Charlie Sykes says the race could go either way"
-                },
-                {
-                    "author": "Will Shortz",
-                    "description": "NPR's Ayesha Rascoe plays the puzzle with this week's winner, DJ Boyd of Northville, Michigan, and puzzle master Will Shortz.",
-                    "enclosure": {
-                        "@length": "6300000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240908_wesun_sunday_puzzle_antonyms_attract.mp3?size=5608221&d=350483&e=nx-s1-5103735"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100573",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Will Shortz",
-                    "itunes:duration": "00:05:50",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/70efebf76f5b3d9495989a7440415850.png?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Sunday Puzzle:  Antonyms Attract",
-                    "itunes:summary": "NPR's Ayesha Rascoe plays the puzzle with this week's winner, DJ Boyd of Northville, Michigan, and puzzle master Will Shortz.",
-                    "itunes:title": "Sunday Puzzle:  Antonyms Attract",
-                    "link": "https://www.kuow.org/stories/sunday-puzzle-antonyms-attract",
-                    "pubDate": "Sun, 8 Sep 2024 05:00:40 -0700",
-                    "title": "Sunday Puzzle:  Antonyms Attract"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "The mother of the 14-year-old charged with killing four people at a Georgia high school reportedly called the school before the shootings, warning of an extreme emergency involving her son.",
-                    "enclosure": {
-                        "@length": "4590000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240908_wesun_mother_of_14-year-old_charged_in_georgia_shooting_had_warned_school.mp3?size=4096462&d=255978&e=nx-s1-5105223"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100570",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:04:15",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Mother of 14-year-old charged in Georgia shooting had warned school",
-                    "itunes:summary": "The mother of the 14-year-old charged with killing four people at a Georgia high school reportedly called the school before the shootings, warning of an extreme emergency involving her son.",
-                    "itunes:title": "Mother of 14-year-old charged in Georgia shooting had warned school",
-                    "link": "https://www.kuow.org/stories/mother-of-14-year-old-charged-in-georgia-shooting-had-warned-school",
-                    "pubDate": "Sun, 8 Sep 2024 05:00:27 -0700",
-                    "title": "Mother of 14-year-old charged in Georgia shooting had warned school"
-                },
-                {
-                    "author": [
-                        "Ryan Benk",
-                        "Ayesha Rascoe"
-                    ],
-                    "description": "A new study from Stanford University scientists may point to a delicious new way to see inside the body. NPR's Ayesha Rascoe tells us about the connection between Doritos and medical imaging.",
-                    "enclosure": {
-                        "@length": "3042000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240908_wesun_scientists_may_have_found_a_new_to_see_inside_the_body_and_it_involves_dorito_s.mp3?size=2705494&d=169049&e=nx-s1-5104701"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100574",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Ryan Benk",
-                        "Ayesha Rascoe"
-                    ],
-                    "itunes:duration": "00:02:49",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Scientists may have found a new to see inside the body \u2014 and it involves Dorito's",
-                    "itunes:summary": "A new study from Stanford University scientists may point to a delicious new way to see inside the body. NPR's Ayesha Rascoe tells us about the connection between Doritos and medical imaging.",
-                    "itunes:title": "Scientists may have found a new to see inside the body \u2014 and it involves Dorito's",
-                    "link": "https://www.kuow.org/stories/scientists-may-have-found-a-new-to-see-inside-the-body-and-it-involves-dorito-s",
-                    "pubDate": "Sun, 8 Sep 2024 05:00:24 -0700",
-                    "title": "Scientists may have found a new to see inside the body \u2014 and it involves Dorito's"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "Fighting in and around Sudan's capital is fierce and devastating to the people who either cannot flee or feel compelled to stay.",
-                    "enclosure": {
-                        "@length": "6840000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240908_wesun_on_the_ground_in_sudan_an_apocalyptic_situation.mp3?size=6087202&d=380415&e=nx-s1-5104198"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100568",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:06:20",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "On the ground in Sudan, an 'apocalyptic' situation",
-                    "itunes:summary": "Fighting in and around Sudan's capital is fierce and devastating to the people who either cannot flee or feel compelled to stay.",
-                    "itunes:title": "On the ground in Sudan, an 'apocalyptic' situation",
-                    "link": "https://www.kuow.org/stories/on-the-ground-in-sudan-an-apocalyptic-situation",
-                    "pubDate": "Sun, 8 Sep 2024 05:00:21 -0700",
-                    "title": "On the ground in Sudan, an 'apocalyptic' situation"
-                },
-                {
-                    "author": [
-                        "Ximena Bustillo",
-                        "Ayesha Rascoe"
-                    ],
-                    "description": "Restarting stalled negotiations on a new farm bill is on the Congressional agenda when lawmakers return to Washington Monday.",
-                    "enclosure": {
-                        "@length": "4554000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240908_wesun_congress_will_restart_negotiations_to_update_a_farm_bill_that_impacts_snap.mp3?size=4064698&d=253990&e=nx-s1-5103661"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100579",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Ximena Bustillo",
-                        "Ayesha Rascoe"
-                    ],
-                    "itunes:duration": "00:04:13",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Congress will restart negotiations to update a farm bill that impacts SNAP",
-                    "itunes:summary": "Restarting stalled negotiations on a new farm bill is on the Congressional agenda when lawmakers return to Washington Monday.",
-                    "itunes:title": "Congress will restart negotiations to update a farm bill that impacts SNAP",
-                    "link": "https://www.kuow.org/stories/congress-will-restart-negotiations-to-update-a-farm-bill-that-impacts-snap",
-                    "pubDate": "Sun, 8 Sep 2024 05:00:18 -0700",
-                    "title": "Congress will restart negotiations to update a farm bill that impacts SNAP"
-                },
-                {
-                    "author": [
-                        "Ayesha Rascoe",
-                        "Danny Hensel"
-                    ],
-                    "description": "Listeners Jennifer Orton, Cameron McPhee, Mikyla Veis, Byron Whitney, Rob Cosgrove and Christine Roberts share their picks for songs they just can't bear to hear.",
-                    "enclosure": {
-                        "@length": "5472000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240908_wesun_the_worst_songs_ever_according_to_npr_listeners.mp3?size=4875956&d=304716&e=nx-s1-5103844"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100577",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Ayesha Rascoe",
-                        "Danny Hensel"
-                    ],
-                    "itunes:duration": "00:05:04",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "The worst songs ever, according to NPR listeners",
-                    "itunes:summary": "Listeners Jennifer Orton, Cameron McPhee, Mikyla Veis, Byron Whitney, Rob Cosgrove and Christine Roberts share their picks for songs they just can't bear to hear.",
-                    "itunes:title": "The worst songs ever, according to NPR listeners",
-                    "link": "https://www.kuow.org/stories/the-worst-songs-ever-according-to-npr-listeners",
-                    "pubDate": "Sun, 8 Sep 2024 05:00:12 -0700",
-                    "title": "The worst songs ever, according to NPR listeners"
-                },
-                {
-                    "author": "Julia Carneiro",
-                    "description": "Brazilian musician, Sergio Mendes, who popularised bossa nova, has died at the age of 83.",
-                    "enclosure": {
-                        "@length": "3438000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240908_wesun_brazilian_musician_and_bossa_nova_legend_sergio_mendes_dies_at_83.mp3?size=3059924&d=191207&e=nx-s1-5103830"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100569",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Julia Carneiro",
-                    "itunes:duration": "00:03:11",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Brazilian musician and bossa nova legend Sergio Mendes dies at 83",
-                    "itunes:summary": "Brazilian musician, Sergio Mendes, who popularised bossa nova, has died at the age of 83.",
-                    "itunes:title": "Brazilian musician and bossa nova legend Sergio Mendes dies at 83",
-                    "link": "https://www.kuow.org/stories/brazilian-musician-and-bossa-nova-legend-sergio-mendes-dies-at-83",
-                    "pubDate": "Sun, 8 Sep 2024 05:00:09 -0700",
-                    "title": "Brazilian musician and bossa nova legend Sergio Mendes dies at 83"
-                },
-                {
-                    "author": [
-                        "Ayesha Rascoe",
-                        "Deepa Shivaram"
-                    ],
-                    "description": "Kamala Harris and Donald Trump say they are preparing for Tuesday's debate in starkly different ways. Also Congress returns from break to unfinished business.",
-                    "enclosure": {
-                        "@length": "4734000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240908_wesun_politics_chat_harris-trump_to_debate_congress_back_in_session.mp3?size=4220178&d=263723&e=nx-s1-5103687"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100571",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Ayesha Rascoe",
-                        "Deepa Shivaram"
-                    ],
-                    "itunes:duration": "00:04:23",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Politics chat: Harris-Trump to debate, Congress back in session",
-                    "itunes:summary": "Kamala Harris and Donald Trump say they are preparing for Tuesday's debate in starkly different ways. Also Congress returns from break to unfinished business.",
-                    "itunes:title": "Politics chat: Harris-Trump to debate, Congress back in session",
-                    "link": "https://www.kuow.org/stories/politics-chat-harris-trump-to-debate-congress-back-in-session",
-                    "pubDate": "Sun, 8 Sep 2024 05:00:05 -0700",
-                    "title": "Politics chat: Harris-Trump to debate, Congress back in session"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "As students around the country return to classrooms, Emmet Friend of Chicago, Maria Guillan of Orlando, Fla., and Alice Trithart of Potsdam, N.Y., share their back-to-school feelings.",
-                    "enclosure": {
-                        "@length": "2538000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240908_wesun_kids_reflect_on_the_start_of_a_new_school_year.mp3?size=2259532&d=141181&e=nx-s1-5101763"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100572",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:02:21",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Kids reflect on the start of a new school year",
-                    "itunes:summary": "As students around the country return to classrooms, Emmet Friend of Chicago, Maria Guillan of Orlando, Fla., and Alice Trithart of Potsdam, N.Y., share their back-to-school feelings.",
-                    "itunes:title": "Kids reflect on the start of a new school year",
-                    "link": "https://www.kuow.org/stories/kids-reflect-on-the-start-of-a-new-school-year",
-                    "pubDate": "Sun, 8 Sep 2024 04:59:59 -0700",
-                    "title": "Kids reflect on the start of a new school year"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "NPR's Ayesha Rascoe speaks to Jonathan Dekel-Chen about his son, Sagui. He's an American, taken on Oct. 7, and still being held hostage in Gaza.",
-                    "enclosure": {
-                        "@length": "4392000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240901_wesun_hostage_family_interview.mp3?size=3915068&d=244649&e=nx-s1-5097272"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100233",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:04:04",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "The family of an American hostage still being held captive by Hamas speaks out",
-                    "itunes:summary": "NPR's Ayesha Rascoe speaks to Jonathan Dekel-Chen about his son, Sagui. He's an American, taken on Oct. 7, and still being held hostage in Gaza.",
-                    "itunes:title": "The family of an American hostage still being held captive by Hamas speaks out",
-                    "link": "https://www.kuow.org/stories/the-family-of-an-american-hostage-still-being-held-captive-by-hamas-speaks-out",
-                    "pubDate": "Sun, 1 Sep 2024 09:03:41 -0700",
-                    "title": "The family of an American hostage still being held captive by Hamas speaks out"
                 }
             ],
             "itunes:author": "NPR",
@@ -2841,7 +2829,7 @@
                 "itunes:name": "Weekend Edition Sunday"
             },
             "language": "en",
-            "lastBuildDate": "Sun, 10 Nov 2024 00:30:00 +0000",
+            "lastBuildDate": "Sun, 17 Nov 2024 00:35:45 +0000",
             "link": "https://www.kuow.org/podcasts/weekendedition-sunday",
             "podcast:locked": "no",
             "title": "Weekend Edition Sunday"

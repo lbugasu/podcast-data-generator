@@ -23,6 +23,119 @@
             "description": "Making artificial intelligence practical, productive & accessible to everyone. Practical AI is a show in which technology professionals, business people, students, enthusiasts, and expert guests engage in lively discussions about Artificial Intelligence and related topics (Machine Learning, Deep Learning, Neural Networks, GANs, MLOps, AIOps, LLMs & more).\n\nThe focus is on productive implementations and real-world scenarios that are accessible to everyone. If you want to keep up with the latest advances in AI, while keeping one foot in the real world, then this is the show for you!",
             "item": [
                 {
+                    "content:encoded": "<p>It can be frustrating to get an AI application working amazingly well 80% of the time and failing miserably the other 20%. How can you close the gap and create something that you rely on? Chris and Daniel talk through this process, behavior testing, and the flow from prototype to production in this episode. They also talk a bit about the apparent slow down in the release of frontier models.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456003-practicalai\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 10 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://www.timescale.com\">Timescale</a> \u2013 <strong>Purpose-built performance for AI</strong> Build RAG, search, and AI agents on the cloud and with PostgreSQL and purpose-built extensions for AI: pgvector, pgvectorscale, and pgai.\n</li>\n<li><a href=\"https://www.eightsleep.com/changelog\">Eight Sleep</a> \u2013 <strong>Up to $600 off Pod 4 Ultra</strong> Go to <a href=\"https://www.eightsleep.com/changelog\">eightsleep.com/changelog</a> and use the code <code>CHANGELOG</code>. You can try it for free for 30 days - but we\u2019re confident you will not want to return it (we love ours). Once you experience AI-optimized sleep, you\u2019ll wonder how you ever slept without it. Currently shipping to: United States, Canada, United Kingdom, Europe, and Australia.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Chris Benson &ndash; <a href=\"https://twitter.com/chrisbenson\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/chrisbenson\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://chrisbenson.com\" rel=\"external ugc\">Website</a></li><li>Daniel Whitenack &ndash; <a href=\"https://twitter.com/dwhitena\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/dwhitena\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.datadan.io/\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://home.mlops.community/public/events/aiagentsinprod\">MLOps Community \u201cAgents in Production\u201d event</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/practicalai/practical-ai-295.md\">PRs welcome!</a></p>",
+                    "description": "It can be frustrating to get an AI application working amazingly well 80% of the time and failing miserably the other 20%. How can you close the gap and create something that you rely on? Chris and Daniel talk through this process, behavior testing, and the flow from prototype to production in this episode. They also talk a bit about the apparent slow down in the release of frontier models. ",
+                    "enclosure": {
+                        "@length": "48347185",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/practicalai/295/practical-ai-295.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/7/2615",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "50:09",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
+                    },
+                    "link": "https://changelog.com/practicalai/295",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/practicalai/295/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Chris Benson",
+                            "@href": "https://changelog.com/person/chris",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/j8b/avatar_large.png?v=63706916892",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Daniel Whitenack",
+                            "@href": "https://changelog.com/person/dwhitena",
+                            "@img": "https://secure.gravatar.com/avatar/1ea0c31fbcab54853329d9f7bcdb6d6d.jpg?s=600&d=mm",
+                            "@role": "host"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "Welcome to Practical AI"
+                            },
+                            {
+                                "@href": "https://fly.io/",
+                                "@start": "57",
+                                "@title": "Sponsor: Fly"
+                            },
+                            {
+                                "@start": "213",
+                                "@title": "Thanksgiving preparations"
+                            },
+                            {
+                                "@start": "297",
+                                "@title": "Agents in production"
+                            },
+                            {
+                                "@start": "387",
+                                "@title": "AI ceiling & current hype"
+                            },
+                            {
+                                "@start": "519",
+                                "@title": "Level of transformation"
+                            },
+                            {
+                                "@start": "649",
+                                "@title": "Current models are mostly good enough"
+                            },
+                            {
+                                "@href": "https://www.timescale.com",
+                                "@start": "1015",
+                                "@title": "Sponsor: Timescale"
+                            },
+                            {
+                                "@start": "1174",
+                                "@title": "Robust AI workflows"
+                            },
+                            {
+                                "@start": "1479",
+                                "@title": "Finding the right workflow"
+                            },
+                            {
+                                "@start": "1847",
+                                "@title": "Transition from notebook to code"
+                            },
+                            {
+                                "@href": "https://www.eightsleep.com/changelog",
+                                "@start": "2046",
+                                "@title": "Sponsor: Eight Sleep"
+                            },
+                            {
+                                "@start": "2204",
+                                "@title": "Testing and integrating"
+                            },
+                            {
+                                "@start": "2407",
+                                "@title": "Sketching out a good framework"
+                            },
+                            {
+                                "@start": "2843",
+                                "@title": "Roles have shifted"
+                            },
+                            {
+                                "@start": "2960",
+                                "@title": "Outro"
+                            }
+                        ]
+                    },
+                    "pubDate": "Wed, 13 Nov 2024 19:30:00 +0000",
+                    "title": "Creating tested, reliable AI applications"
+                },
+                {
                     "content:encoded": "<p>This week, Chris is joined by Gregory Richardson, Vice President and Global Advisory CISO at BlackBerry, and Ismael Valenzuela, Vice President of Threat Research &amp; Intelligence at BlackBerry.  They address how AI is changing the threat landscape, why human defenders remain a key part of our cyber defenses, and the explain the AI standoff between cyber threat actors and cyber defenders.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456003-practicalai\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 10 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"http://notion.com/changelog\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n<li><a href=\"https://www.eightsleep.com/practicalai\">Eight Sleep</a> \u2013 <strong>Take your sleep and recovery to the next level.</strong> Go to <a href=\"https://www.eightsleep.com/practicalai/\">eightsleep.com/PRACTICALAI</a> and use the code <code>PRACTICALAI</code> to get $350 off your very own Pod 4 Ultra. You can try it for free for 30 days - but we\u2019re confident you will not want to return it. Once you experience AI-optimized sleep, you\u2019ll wonder how you ever slept without it. Currently shipping to: United States, Canada, United Kingdom, Europe, and Australia.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Gregory Richardson &ndash; <a href=\"https://www.linkedin.com/in/gregorypkrichardson\" rel=\"external ugc\">LinkedIn</a></li><li>Ismael Valenzuela &ndash; <a href=\"https://twitter.com/aboutsecurity\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/aboutsecurity\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/ivalenzuela\" rel=\"external ugc\">LinkedIn</a></li><li>Chris Benson &ndash; <a href=\"https://twitter.com/chrisbenson\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/chrisbenson\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://chrisbenson.com\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://blogs.blackberry.com/en/2024/03/ai-in-cybersecurity-attackers-defenders\">The AI Standoff: Attackers vs. Defenders | Blackberry Blog</a></li>\n<li><a href=\"https://www.blackberry.com\">Blackberry</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/practicalai/practical-ai-294.md\">PRs welcome!</a></p>",
                     "description": "This week, Chris is joined by Gregory Richardson, Vice President and Global Advisory CISO at BlackBerry, and Ismael Valenzuela, Vice President of Threat Research & Intelligence at BlackBerry.  They address how AI is changing the threat landscape, why human defenders remain a key part of our cyber defenses, and the explain the AI standoff between cyber threat actors and cyber defenders.",
                     "enclosure": {
@@ -65,6 +178,14 @@
                             "@role": "guest"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@practicalai/113432042238256295"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/practicalai/294/transcript"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",
@@ -169,6 +290,10 @@
                     "podcast:socialInteract": {
                         "@protocol": "activitypub",
                         "@uri": "https://changelog.social/@practicalai/113392264566190798"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/practicalai/293/transcript"
                     },
                     "psc:chapters": {
                         "@version": "1.1",
@@ -290,6 +415,10 @@
                     "podcast:socialInteract": {
                         "@protocol": "activitypub",
                         "@uri": "https://changelog.social/@practicalai/113363127215686825"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/practicalai/292/transcript"
                     },
                     "psc:chapters": {
                         "@version": "1.1",

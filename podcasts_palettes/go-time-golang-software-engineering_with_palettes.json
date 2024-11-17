@@ -23,6 +23,119 @@
             "description": "Your source for wide-ranging discussions from all around the Go community. Panelists include Mat Ryer, Jon Calhoun, Natalie Pistunovich, Johnny Boursiquot, Angelica Hill, Kris Brandow, and Ian Lopshire.\n\nWe discuss cloud infrastructure, distributed systems, microservices, Kubernetes, Docker... oh and also Go!\n\nSome people search for GoTime or GoTimeFM and can't find the show, so now the strings GoTime and GoTimeFM are in our description too.",
             "item": [
                 {
+                    "content:encoded": "<p>With the number of libraries available to Go developers these days, you\u2019d think building a CLI app was now a trivial matter. But like many things in software development, it depends. In this episode, we explore the challenges that arose during one team\u2019s journey towards a production-ready CLI.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/455709-gotime\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 9 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://www.bytesizego.com/goland\">JetBrains</a> \u2013 Sign up for the free \u201cMastering Go with GoLand\u201d course and receive a complimentary 1-year GoLand subscription at <a href=\"https://www.bytesizego.com/goland\">bytesizego.com/goland</a>\n</li>\n<li><a href=\"https://retool.com/changelog\">Retool</a> \u2013 <strong>The low-code platform for developers to build internal tools</strong> \u2014 Some of the best teams out there trust Retool\u2026Brex, Coinbase, Plaid, Doordash, LegalGenius, Amazon, Allbirds, Peloton, and so many more \u2013 the developers at these teams trust Retool as the platform to build their internal tools. Try it free at <a href=\"https://retool.com/changelog\">retool.com/changelog</a>\n</li>\n</ul></p><p>Featuring:</p><ul><li>Wesley Beary &ndash; <a href=\"https://twitter.com/geemus\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/geemus\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/geemus\" rel=\"external ugc\">LinkedIn</a></li><li>Johnny Boursiquot &ndash; <a href=\"https://twitter.com/jboursiquot\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/jboursiquot\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.jboursiquot.com/\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://anchor.dev/blog/developing-clis\">How Anchor developed a CLI and the tools that helped along the way.</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/gotime/go-time-337.md\">PRs welcome!</a></p>",
+                    "description": "With the number of libraries available to Go developers these days, you'd think building a CLI app was now a trivial matter. But like many things in software development, it depends. In this episode, we explore the challenges that arose during one team's journey towards a production-ready CLI.",
+                    "enclosure": {
+                        "@length": "55996604",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/gotime/337/go-time-337.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/2/2607",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "57:47",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/go-time-original.png?v=63725770357"
+                    },
+                    "link": "https://changelog.com/gotime/337",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/gotime/337/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Johnny Boursiquot",
+                            "@href": "https://changelog.com/person/jboursiquot",
+                            "@img": "https://secure.gravatar.com/avatar/6d26a33d20b8e96182b8e71c30ffe927.jpg?s=600&d=mm",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Wesley Beary",
+                            "@href": "https://twitter.com/geemus",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/qGbLL/avatar_large.jpg?v=63891296405",
+                            "@role": "guest"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "It's Go Time!"
+                            },
+                            {
+                                "@href": "https://fly.io/",
+                                "@start": "47",
+                                "@title": "Sponsor: Fly"
+                            },
+                            {
+                                "@start": "196",
+                                "@title": "Intro"
+                            },
+                            {
+                                "@start": "368",
+                                "@title": "Setting out to build"
+                            },
+                            {
+                                "@start": "848",
+                                "@title": "Network calls"
+                            },
+                            {
+                                "@href": "https://www.bytesizego.com/goland",
+                                "@start": "1277",
+                                "@title": "Sponsor: JetBrains"
+                            },
+                            {
+                                "@start": "1468",
+                                "@title": "Versioning"
+                            },
+                            {
+                                "@start": "1581",
+                                "@title": "Next step"
+                            },
+                            {
+                                "@start": "1798",
+                                "@title": "CLI"
+                            },
+                            {
+                                "@start": "2223",
+                                "@title": "From Ruby to Go"
+                            },
+                            {
+                                "@start": "2513",
+                                "@title": "Words of wisdom"
+                            },
+                            {
+                                "@href": "https://retool.com/changelog",
+                                "@start": "2713",
+                                "@title": "Sponsor: Retool"
+                            },
+                            {
+                                "@start": "2817",
+                                "@title": "Unpopular Opinions!"
+                            },
+                            {
+                                "@start": "2851",
+                                "@title": "Wesley's first unpop"
+                            },
+                            {
+                                "@start": "3182",
+                                "@title": "Wesley's second unpop"
+                            },
+                            {
+                                "@start": "3397",
+                                "@title": "Outro"
+                            }
+                        ]
+                    },
+                    "pubDate": "Tue, 12 Nov 2024 21:30:00 +0000",
+                    "title": "Crawl, walk & run your way to usable CLIs in Go"
+                },
+                {
                     "content:encoded": "<p>Writing a shell is rarely the kind of project you take on lightly. In this episode, Johnny is joined by Qi Xiao to explore how to go about such a feat in Go.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/455709-gotime\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 9 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://retool.com/changelog\">Retool</a> \u2013 <strong>The low-code platform for developers to build internal tools</strong> \u2014 Some of the best teams out there trust Retool\u2026Brex, Coinbase, Plaid, Doordash, LegalGenius, Amazon, Allbirds, Peloton, and so many more \u2013 the developers at these teams trust Retool as the platform to build their internal tools. Try it free at <a href=\"https://retool.com/changelog\">retool.com/changelog</a>\n</li>\n<li><a href=\"https://www.timescale.com\">Timescale</a> \u2013 Real-time analytics on Postgres, seriously fast. Over 3 million Timescale databases power loT, sensors, Al, dev tools, crypto, and finance apps \u2014 all on Postgres. Postgres, for everything.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Qi Xiao &ndash; <a href=\"https://twitter.com/xiaq_en\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/xiaq\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/qi-xiao\" rel=\"external ugc\">LinkedIn</a></li><li>Johnny Boursiquot &ndash; <a href=\"https://twitter.com/jboursiquot\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/jboursiquot\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.jboursiquot.com/\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://elv.sh\">Elvish shell</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/gotime/go-time-336.md\">PRs welcome!</a></p>",
                     "description": "Writing a shell is rarely the kind of project you take on lightly. In this episode, Johnny is joined by Qi Xiao to explore how to go about such a feat in Go.",
                     "enclosure": {
@@ -59,6 +172,10 @@
                             "@role": "guest"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@gotime/113438019170812215"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",

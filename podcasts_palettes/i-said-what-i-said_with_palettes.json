@@ -9,7 +9,7 @@
         "@xmlns:podaccess": "https://access.acast.com/schema/1.0/",
         "channel": {
             "acast:importedFeed": "https://feeds.buzzsprout.com/1670911.rss",
-            "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmccH38fUl6WBk0zd1jmKqMvBfiDew4BCK38/u1YuxHKNCZGkvX8UWH1HbgTuGiw4+9qAm341+8EIY2O7KmEDqBprMyhEhMeJIovB/eBOd/Gs7eN72hE6rOmpyz+9+S68Ci6oFahkdSwSlXeJen3/Yvq+fCFLUGFHr4Q2cWjeAIHMCUpWHUrPTqzr1+mXOWzBXazyabRx8MNeYDAo9G8uT43BtqJd0KXizrm9ru2yaRTnMlZqlXAB1PK54LhZso1xGov9OU7s4Y98sDeCsK8WxvxYNT9CJlPxw0uNQUuEfIiH",
+            "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmccH38fUl6WBk0zd1jmKqMvBfiDew4BCK38/u1YuxHKNCZGkvX8UWH1HbgTuGiw4+9qAm341+8EIY2O7KmEDqBprMyhEhMeJIovB/eBOd/Gs7eN72hE6rOmpyz+9+S68CpO8xkCtvy4ojRUBMly4fRg2rfG4vFLYesJRplyu9yq8xLwlOATYkgsjsQds6zvD9+vLf6vbqHSqJDnT/G5elQwOYc8ySHIQblF44PFi7l8Z",
             "acast:showId": "62e95c1847c51300128261c0",
             "acast:showUrl": "isaidwhatisaidpodcast",
             "acast:signature": {
@@ -23,7 +23,7 @@
                 "@type": "application/rss+xml"
             },
             "copyright": "\u00a9 2023 Carousel Network",
-            "description": "The African millennial experience, according to FK and Jollz.<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+            "description": "The African Millennial Experience, according to FK and Jollz.<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
             "generator": "acast.com",
             "image": {
                 "link": "http://www.isaidwhatisaidpodcast.com",
@@ -39,6 +39,36 @@
                 "url": "https://assets.pippa.io/shows/62e95c1847c51300128261c0/1708351863573-7872bdee4cb4c1ec7cc5c84e3343c746.jpeg"
             },
             "item": [
+                {
+                    "acast:episodeId": "6733b3a71c8f0284cfc5cd0d",
+                    "acast:episodeUrl": "the-it-will-be-alright-in-the-end-episode-ft-yanmo-omorogbe",
+                    "acast:settings": "FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsE1m2nLaqMbLnflBevMvcee1QKfoneWxQBRNvNIPezsCP+zC7kpdUw/YuQbt/AiK/HHpEuxIBTKwSZjzp1cabWeHK1WsGavRgj8TAb3vnxCBg+TfvxArn+1crURvqvSuw",
+                    "acast:showId": "62e95c1847c51300128261c0",
+                    "description": "<p>This week, we are joined by a real baddie babe in business: Yanmo Omorogbe, co-founder of Bamboo! After barely commiserating with Jola on her cough and cold, the ladies get into some dilemmas (look out for the stolen baby name) and talk about building a financial services business and maintaining your personality and authenticity while doing it! </p><br><p>Remember to use #ISWIS or #ISWISPodcast to share your thoughts while listening to the podcast on Twitter! Rate the show 5 stars on whatever app you listen to and leave a review. Share with everyone you know, and if you also watch on YouTube, subscribe, like, and leave a comment!&nbsp;</p><br><p>Make sure to follow us on&nbsp;</p><p>Twitter: @ISWISPodcast</p><p>Instagram: @isaidwhatisaidpod</p><p>Youtube: @isaidwhatisaidpod</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+                    "enclosure": {
+                        "@length": "124429152",
+                        "@type": "audio/mpeg",
+                        "@url": "https://sphinx.acast.com/p/open/s/62e95c1847c51300128261c0/e/6733b3a71c8f0284cfc5cd0d/media.mp3"
+                    },
+                    "guid": {
+                        "#text": "6733b3a71c8f0284cfc5cd0d",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "2:09:36",
+                    "itunes:episode": "49",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "true",
+                    "itunes:image": {
+                        "@href": "https://assets.pippa.io/shows/62e95c1847c51300128261c0/1708351863573-7872bdee4cb4c1ec7cc5c84e3343c746.jpeg"
+                    },
+                    "itunes:season": "6",
+                    "itunes:subtitle": "Bad advice, great gifting & building a great business ",
+                    "itunes:summary": "<p>This week, we are joined by a real baddie babe in business: Yanmo Omorogbe, co-founder of Bamboo! After barely commiserating with Jola on her cough and cold, the ladies get into some dilemmas (look out for the stolen baby name) and talk about building a financial services business and maintaining your personality and authenticity while doing it! </p><br><p>Remember to use #ISWIS or #ISWISPodcast to share your thoughts while listening to the podcast on Twitter! Rate the show 5 stars on whatever app you listen to and leave a review. Share with everyone you know, and if you also watch on YouTube, subscribe, like, and leave a comment!&nbsp;</p><br><p>Make sure to follow us on&nbsp;</p><p>Twitter: @ISWISPodcast</p><p>Instagram: @isaidwhatisaidpod</p><p>Youtube: @isaidwhatisaidpod</p><br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+                    "itunes:title": "The \"It Will Be Alright In The End\" Episode ft. Yanmo Omorogbe ",
+                    "link": "https://shows.acast.com/isaidwhatisaidpodcast/episodes/the-it-will-be-alright-in-the-end-episode-ft-yanmo-omorogbe",
+                    "pubDate": "Wed, 13 Nov 2024 04:00:11 GMT",
+                    "title": "The \"It Will Be Alright In The End\" Episode ft. Yanmo Omorogbe "
+                },
                 {
                     "acast:episodeId": "672a8ff97d34ea8eee3a974f",
                     "acast:episodeUrl": "the-her-money-her-power-episode-ft-rewa-udoji",
@@ -6884,20 +6914,26 @@
                 },
                 {
                     "@text": "Comedy"
+                },
+                {
+                    "@text": "Health & Fitness",
+                    "itunes:category": {
+                        "@text": "Sexuality"
+                    }
                 }
             ],
             "itunes:explicit": "true",
             "itunes:image": {
                 "@href": "https://assets.pippa.io/shows/62e95c1847c51300128261c0/1708351863573-7872bdee4cb4c1ec7cc5c84e3343c746.jpeg"
             },
-            "itunes:keywords": null,
+            "itunes:keywords": "ISWIS, JOLA,FK,JOLLZ,FEYIKEMI,NIGERIAN PODCAST",
             "itunes:new-feed-url": "https://feeds.acast.com/public/shows/62e95c1847c51300128261c0",
             "itunes:owner": {
                 "itunes:email": "jola@carouselnetwork.xyz",
                 "itunes:name": "Carousel Network"
             },
-            "itunes:subtitle": "The unsolicited opinions podcast",
-            "itunes:summary": "The African millennial experience, according to FK and Jollz.<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+            "itunes:subtitle": "The Unsolicited Opinions Podcast",
+            "itunes:summary": "The African Millennial Experience, according to FK and Jollz.<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
             "itunes:type": "episodic",
             "language": "en",
             "link": "http://www.isaidwhatisaidpodcast.com",

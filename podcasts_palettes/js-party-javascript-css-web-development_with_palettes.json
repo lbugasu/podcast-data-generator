@@ -23,6 +23,146 @@
             "description": "Your weekly celebration of JavaScript and the web. Current panelists: Jerod Santo, Kevin Ball (KBall), Nick Nisi, Chris Hiller, Amal Hussein & Amy Dutton.\n\nPast panelists: Suz Hinton, Feross Aboukhadijeh, Amelia Wattenberger, Divya Sasidharan, Alex Sexton, Rachel White, Emma Bostian, Ali Spittel, Mikeal Rogers & Jessica Sachs.\n\nWe talk about the web platform (Chrome, Safari, Edge, Firefox, Brave, etc), front-end frameworks (ReactJS, SolidJS, Svelte, VueJS, AngularJS, etc), JavaScript and TypeScript runtimes (Node, Deno, Bun), web animation, SVG, TailwindCSS, robotics, IoT, and much more. If JavaScript and/or the web touch your life, this show\u2019s for you.\n\nSome people search for JSParty and can't find the show, so now the string JSParty is in our description too.",
             "item": [
                 {
+                    "content:encoded": "<p>Carmen Huidobro joins Amy, KBall &amp; Nick on the show to talk about her work, the importance of writing docs, and her upcoming conference talk at React Summit US!</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456196-jsparty\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 5 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://jam.dev\">Jam.dev</a> \u2013 <strong>One click bug reports developers love</strong> \u2014 Never explain another bug report again. Jam auto-captures all the info engineers need to debug and repro.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Carmen Huidobro &ndash; <a href=\"https://twitter.com/hola_soy_milk\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/hola-soy-milk\" rel=\"external ugc\">GitHub</a>, <a href=\"https://carmenh.dev\" rel=\"external ugc\">Website</a></li><li>Nick Nisi &ndash; <a href=\"https://nicknisi.com/@nicknisi\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/nicknisi\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/nicknisi\" rel=\"external ugc\">GitHub</a>, <a href=\"https://nicknisi.com\" rel=\"external ugc\">Website</a></li><li>Kevin Ball &ndash; <a href=\"https://twitter.com/kbal11\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/kball\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/kbal11\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://www.kball.llc\" rel=\"external ugc\">Website</a></li><li>Amy Dutton &ndash; <a href=\"https://twitter.com/selfteachme\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/ahaywood\" rel=\"external ugc\">GitHub</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://docs.divio.com/documentation-system/\">Divio</a></li>\n<li><a href=\"https://docsfordevelopers.com/\">Docs for Developers</a></li>\n<li><a href=\"https://workwithcarolyn.com/speaking/intuitive-tooling\">Intuitive Tooling</a></li>\n<li><a href=\"https://martinfowler.com/bliki/FrequencyReducesDifficulty.html\">Martin Fowler - if it hurts, do it often</a></li>\n<li><a href=\"https://knip.dev/\">Declutter your JavaScript &amp; TypeScript projects | Knip</a></li>\n<li><a href=\"https://reactsummit.us/schedule\">React Summit</a></li>\n<li><a href=\"http://fuckingblocksyntax.com\">F*cking Block Syntax</a></li>\n<li><a href=\"https://badwebsite.club\">Bad Website Club</a></li>\n<li><a href=\"https://github.com/feross/TheAnnoyingSite.com\">The Annoying Site</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/jsparty/js-party-346.md\">PRs welcome!</a></p>",
+                    "description": "Carmen Huidobro joins Amy, KBall & Nick on the show to talk about her work, the importance of writing docs, and her upcoming conference talk at React Summit US!",
+                    "enclosure": {
+                        "@length": "71835628",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/jsparty/346/js-party-346.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/6/2617",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:14:21",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
+                    },
+                    "link": "https://changelog.com/jsparty/346",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/jsparty/346/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Nick Nisi",
+                            "@href": "https://changelog.com/person/nicknisi",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/XGd/avatar_large.jpg?v=63740463771",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Kevin Ball",
+                            "@href": "https://changelog.com/person/kball",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/6qd/avatar_large.jpg?v=63721617586",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Amy Dutton",
+                            "@href": "https://changelog.com/person/selfteachme",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/DdQ4r/avatar_large.jpg?v=63866159922",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Carmen Huidobro",
+                            "@href": "https://carmenh.dev",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/P2dog/avatar_large.jpg?v=63898838261",
+                            "@role": "guest"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "It's party time, y'all"
+                            },
+                            {
+                                "@href": "https://fly.io/",
+                                "@start": "39",
+                                "@title": "Sponsor: Fly.io"
+                            },
+                            {
+                                "@start": "204",
+                                "@title": "A hoy hoy!"
+                            },
+                            {
+                                "@start": "253",
+                                "@title": "Welcoming Carmen"
+                            },
+                            {
+                                "@start": "341",
+                                "@title": "Developer titles"
+                            },
+                            {
+                                "@start": "483",
+                                "@title": "Documentation"
+                            },
+                            {
+                                "@start": "960",
+                                "@title": "Carmen's talk"
+                            },
+                            {
+                                "@start": "1406",
+                                "@title": "Knip"
+                            },
+                            {
+                                "@start": "1459",
+                                "@title": "Vim"
+                            },
+                            {
+                                "@start": "1614",
+                                "@title": "LLMs for tools"
+                            },
+                            {
+                                "@href": "https://jam.dev",
+                                "@start": "1974",
+                                "@title": "Sponsor: Jam.dev"
+                            },
+                            {
+                                "@start": "2066",
+                                "@title": "Ollama"
+                            },
+                            {
+                                "@start": "2517",
+                                "@title": "How to use these tools"
+                            },
+                            {
+                                "@start": "3120",
+                                "@title": "Dependencies"
+                            },
+                            {
+                                "@start": "3458",
+                                "@title": "Codemods"
+                            },
+                            {
+                                "@start": "3592",
+                                "@title": "Sustainability"
+                            },
+                            {
+                                "@start": "3691",
+                                "@title": "Time to grow up"
+                            },
+                            {
+                                "@start": "3890",
+                                "@title": "Getting in touch"
+                            },
+                            {
+                                "@start": "4275",
+                                "@title": "Closing time"
+                            },
+                            {
+                                "@start": "4381",
+                                "@title": "Next up on the pod"
+                            }
+                        ]
+                    },
+                    "pubDate": "Thu, 14 Nov 2024 21:30:00 +0000",
+                    "title": "It's all about documentation"
+                },
+                {
                     "content:encoded": "<p>Vercel CPO, Tom Occhino, joins Jerod for a one-on-one covering React &amp; Next\u2019s past, present &amp; future. We discuss the birth of React, Tom\u2019s move to Vercel, deploying Next apps to non-Vercel hosts, React as the next jQuery, the viability of Web Components, Vercel customers getting surprise bills &amp; so much more.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456196-jsparty\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 9 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://workos.com\">WorkOS</a> \u2013 <strong>A platform that gives developers a set of building blocks for quickly adding enterprise-ready features</strong> to their application. Add Single Sign-On (Okta, Azure, Google, Microsoft OAuth), sync users from any SCIM directory, HRIS integration, audit trails (SIEM), free magic link sign-in. WorkOS is designed for developers and offers a single, elegant interface that abstracts dozens of enterprise integrations. Learn more and get started at <a href=\"https://workos.com/\">WorkOS.com</a>\n</li>\n<li><a href=\"http://notion.com/changelog\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Tom Occhino &ndash; <a href=\"https://twitter.com/tomocchino\" rel=\"external ugc\">Twitter</a>, <a href=\"https://www.linkedin.com/in/tomocchino\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://www.tomocchino.com\" rel=\"external ugc\">Website</a></li><li>Jerod Santo &ndash; <a href=\"https://changelog.social/@jerod\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/jerodsanto\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/jerodsanto\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/jerodsanto\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://www.youtube.com/watch?v=8pDqJVdNa44\">React.js: The Documentary - YouTube</a></li>\n<li><a href=\"https://changelog.com/podcast/149\">React, React Native, Flux, Relay, GraphQL (Changelog Interviews #149)</a></li>\n<li><a href=\"https://nextjs.org/conf\">Next.js Conf by Vercel</a></li>\n<li><a href=\"https://v0.dev/\">v0 by Vercel</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/jsparty/js-party-345.md\">PRs welcome!</a></p>",
                     "description": "Vercel CPO, Tom Occhino, joins Jerod for a one-on-one covering React & Next's past, present & future. We discuss the birth of React, Tom's move to Vercel, deploying Next apps to non-Vercel hosts, React as the next jQuery, the viability of Web Components, Vercel customers getting surprise bills & so much more.",
                     "enclosure": {
@@ -59,6 +199,10 @@
                             "@role": "guest"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@jsparty/113443586992224910"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",
@@ -222,6 +366,10 @@
                     "podcast:socialInteract": {
                         "@protocol": "activitypub",
                         "@uri": "https://changelog.social/@jsparty/113403691328743714"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/jsparty/344/transcript"
                     },
                     "psc:chapters": {
                         "@version": "1.1",
