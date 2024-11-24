@@ -34,6 +34,63 @@
                         "Arts",
                         "Books"
                     ],
+                    "content:encoded": "<p><span style=\"font-weight: 400;\">Tim Matheson (The West Wing, Virgin River) and Jonathan Tucker (Kingdom, Westworld) co-star in a Jewish and Persian tale about a parrot, a prince, and the priceless value of freedom.</span></p>",
+                    "dc:creator": {
+                        "#text": "WBUR",
+                        "@xmlns:dc": "http://purl.org/dc/elements/1.1/"
+                    },
+                    "description": "<p><span style=\"font-weight: 400;\">Tim Matheson (The West Wing, Virgin River) and Jonathan Tucker (Kingdom, Westworld) co-star in a Jewish and Persian tale about a parrot, a prince, and the priceless value of freedom.</span></p>",
+                    "enclosure": {
+                        "@length": "24130409",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR2197903393.mp3"
+                    },
+                    "guid": {
+                        "#text": "132aa560-a0df-4e6b-b52f-99ed11237099",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": " WBUR ",
+                    "itunes:duration": "00:25:08",
+                    "itunes:episode": "21",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://wordpress.wbur.org/wp-content/uploads/2024/11/CagedBirdSQ.jpg"
+                    },
+                    "itunes:season": "8",
+                    "itunes:subtitle": "Tim Matheson (The West Wing, Virgin River) and Jonathan Tucker (Kingdom, Westworld) co-star in a Jewish and Persian tale about a parrot, a prince, and the priceless value of freedom.",
+                    "itunes:summary": "<span style=\"font-weight: 400;\">Tim Matheson (The West Wing, Virgin River) and Jonathan Tucker (Kingdom, Westworld) co-star in a Jewish and Persian tale about a parrot, a prince, and the priceless value of freedom.</span>",
+                    "itunes:title": " The Caged Bird ",
+                    "link": "https://www.wbur.org/circleround/2024/11/19/caged-bird",
+                    "media:content": [
+                        {
+                            "@height": "3000",
+                            "@medium": "image",
+                            "@type": "image/jpeg",
+                            "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/11/CagedBirdSQ.jpg",
+                            "@width": "3000",
+                            "media:description": "(Sabina Hahn for WBUR)",
+                            "media:thumbnail": {
+                                "@height": "200",
+                                "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/11/CagedBirdSQ-200x200.jpg",
+                                "@width": "200"
+                            }
+                        },
+                        {
+                            "@fileSize": "24130409",
+                            "@medium": "audio",
+                            "@type": "audio/mpeg",
+                            "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR2197903393.mp3"
+                        }
+                    ],
+                    "pubDate": "Tue, 19 Nov 2024 15:00:00 -0500",
+                    "title": "The Caged Bird"
+                },
+                {
+                    "category": [
+                        "Arts",
+                        "Books"
+                    ],
                     "content:encoded": "<p><span style=\"font-weight: 400;\">Jon Huertas (This Is Us, Tracker) headlines an Aztec legend about how music first came to the world.</span></p>",
                     "dc:creator": {
                         "#text": "WBUR",
@@ -20818,7 +20875,7 @@
             "itunes:summary": "Created and produced by parents of young children, WBUR's Circle Round adapts carefully-selected folktales from around the world into sound- and music-rich radio plays for kids ages 3-103. Each 15 to 25-minute episode explores important issues like kindness, persistence and generosity. And each episode ends with an activity that inspires a deeper conversation between children and grown-ups.",
             "itunes:type": "serial",
             "language": "en-us",
-            "lastBuildDate": "Sat, 16 Nov 2024 19:30:07 -0500",
+            "lastBuildDate": "Sat, 23 Nov 2024 19:30:07 -0500",
             "link": "https://www.wbur.org/podcasts/circleround",
             "title": "Circle Round"
         }

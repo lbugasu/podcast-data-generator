@@ -23,6 +23,131 @@
             "description": "Making artificial intelligence practical, productive & accessible to everyone. Practical AI is a show in which technology professionals, business people, students, enthusiasts, and expert guests engage in lively discussions about Artificial Intelligence and related topics (Machine Learning, Deep Learning, Neural Networks, GANs, MLOps, AIOps, LLMs & more).\n\nThe focus is on productive implementations and real-world scenarios that are accessible to everyone. If you want to keep up with the latest advances in AI, while keeping one foot in the real world, then this is the show for you!",
             "item": [
                 {
+                    "content:encoded": "<p>We are at GenAI saturation, so let\u2019s talk about scikit-learn, a long time favorite for data scientists building classifiers, time series analyzers, dimensionality reducers, and more! Scikit-learn is deployed across industry and driving a significant portion of the \u201cAI\u201d that is actually in production. :probabl is a new kind of company that is stewarding this project along with a variety of other open source projects. Yann Lechelle and Guillaume Lemaitre share some of the vision behind the company and talk about the future of scikit-learn!</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456003-practicalai\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 9 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://www.timescale.com\">Timescale</a> \u2013 <strong>Purpose-built performance for AI</strong> Build RAG, search, and AI agents on the cloud and with PostgreSQL and purpose-built extensions for AI: pgvector, pgvectorscale, and pgai.\n</li>\n<li><a href=\"https://workos.com\">WorkOS</a> \u2013 <strong>A platform that gives developers a set of building blocks for quickly adding enterprise-ready features</strong> to their application. Add Single Sign-On (Okta, Azure, Google, Microsoft OAuth), sync users from any SCIM directory, HRIS integration, audit trails (SIEM), free magic link sign-in. WorkOS is designed for developers and offers a single, elegant interface that abstracts dozens of enterprise integrations. Learn more and get started at <a href=\"https://workos.com/\">WorkOS.com</a>\n</li>\n<li><a href=\"https://www.shopify.com/practicalai\">Shopify</a> \u2013 Sign up for a $1/month trial period at <a href=\"https://www.shopify.com/practicalai\">shopify.com/practicalai</a>\n</li>\n</ul></p><p>Featuring:</p><ul><li>Yann Lechelle &ndash; <a href=\"https://www.linkedin.com/in/ylechelle\" rel=\"external ugc\">LinkedIn</a></li><li>Guillaume Lemaitre &ndash; <a href=\"https://fosstodon.org/@glemaitre\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/glemaitre58\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/glemaitre\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/guillaume-lemaitre-b9404939\" rel=\"external ugc\">LinkedIn</a></li><li>Chris Benson &ndash; <a href=\"https://twitter.com/chrisbenson\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/chrisbenson\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://chrisbenson.com\" rel=\"external ugc\">Website</a></li><li>Daniel Whitenack &ndash; <a href=\"https://twitter.com/dwhitena\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/dwhitena\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.datadan.io/\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://probabl.ai/\">:probabl.</a></li>\n<li><a href=\"https://techcrunch.com/2024/02/01/probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn/\">TechCrunch: Probabl is a new AI company built around popular library scikit-learn</a></li>\n<li><a href=\"https://scikit-learn.org/stable/\">scikit-learn</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/practicalai/practical-ai-296.md\">PRs welcome!</a></p>",
+                    "description": "We are at GenAI saturation, so let's talk about scikit-learn, a long time favorite for data scientists building classifiers, time series analyzers, dimensionality reducers, and more! Scikit-learn is deployed across industry and driving a significant portion of the \"AI\" that is actually in production. :probabl is a new kind of company that is stewarding this project along with a variety of other open source projects. Yann Lechelle and Guillaume Lemaitre share some of the vision behind the company and talk about the future of scikit-learn!",
+                    "enclosure": {
+                        "@length": "50183199",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/practicalai/296/practical-ai-296.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/7/2623",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "52:04",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
+                    },
+                    "link": "https://changelog.com/practicalai/296",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/practicalai/296/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Chris Benson",
+                            "@href": "https://changelog.com/person/chris",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/j8b/avatar_large.png?v=63706916892",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Daniel Whitenack",
+                            "@href": "https://changelog.com/person/dwhitena",
+                            "@img": "https://secure.gravatar.com/avatar/1ea0c31fbcab54853329d9f7bcdb6d6d.jpg?s=600&d=mm",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Yann Lechelle",
+                            "@href": "https://changelog.com/person/ylechelle",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/1maeP/avatar_large.jpeg?v=63899267975",
+                            "@role": "guest"
+                        },
+                        {
+                            "#text": "Guillaume Lemaitre",
+                            "@href": "https://changelog.com/person/glemaitre",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/Dd6pd/avatar_large.jpeg?v=63899267864",
+                            "@role": "guest"
+                        }
+                    ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@practicalai/113511629156477753"
+                    },
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "Welcome to Practical AI"
+                            },
+                            {
+                                "@href": "https://www.timescale.com",
+                                "@start": "35",
+                                "@title": "Sponsor: Timescale"
+                            },
+                            {
+                                "@start": "185",
+                                "@title": "What is :probabl?"
+                            },
+                            {
+                                "@start": "453",
+                                "@title": "Stewarding open source projects"
+                            },
+                            {
+                                "@start": "673",
+                                "@title": "What is scikit-learn?"
+                            },
+                            {
+                                "@start": "799",
+                                "@title": "The data science landscape"
+                            },
+                            {
+                                "@href": "https://workos.com",
+                                "@start": "1034",
+                                "@title": "Sponsor: WorkOS"
+                            },
+                            {
+                                "@start": "1250",
+                                "@title": "Scikit's role with general purpose models"
+                            },
+                            {
+                                "@start": "1526",
+                                "@title": "Further development"
+                            },
+                            {
+                                "@start": "1807",
+                                "@title": ":probabl's open source relationship"
+                            },
+                            {
+                                "@href": "https://www.shopify.com/practicalai",
+                                "@start": "2131",
+                                "@title": "Sponsor: Shopify"
+                            },
+                            {
+                                "@start": "2239",
+                                "@title": "Fun & interesting use-cases"
+                            },
+                            {
+                                "@start": "2682",
+                                "@title": "Getting started for new devs"
+                            },
+                            {
+                                "@start": "2833",
+                                "@title": "Future of scikit & :probabl"
+                            },
+                            {
+                                "@start": "3075",
+                                "@title": "Outro"
+                            }
+                        ]
+                    },
+                    "pubDate": "Tue, 19 Nov 2024 21:00:00 +0000",
+                    "title": "scikit-learn & data science you own"
+                },
+                {
                     "content:encoded": "<p>It can be frustrating to get an AI application working amazingly well 80% of the time and failing miserably the other 20%. How can you close the gap and create something that you rely on? Chris and Daniel talk through this process, behavior testing, and the flow from prototype to production in this episode. They also talk a bit about the apparent slow down in the release of frontier models.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456003-practicalai\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 10 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://www.timescale.com\">Timescale</a> \u2013 <strong>Purpose-built performance for AI</strong> Build RAG, search, and AI agents on the cloud and with PostgreSQL and purpose-built extensions for AI: pgvector, pgvectorscale, and pgai.\n</li>\n<li><a href=\"https://www.eightsleep.com/changelog\">Eight Sleep</a> \u2013 <strong>Up to $600 off Pod 4 Ultra</strong> Go to <a href=\"https://www.eightsleep.com/changelog\">eightsleep.com/changelog</a> and use the code <code>CHANGELOG</code>. You can try it for free for 30 days - but we\u2019re confident you will not want to return it (we love ours). Once you experience AI-optimized sleep, you\u2019ll wonder how you ever slept without it. Currently shipping to: United States, Canada, United Kingdom, Europe, and Australia.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Chris Benson &ndash; <a href=\"https://twitter.com/chrisbenson\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/chrisbenson\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://chrisbenson.com\" rel=\"external ugc\">Website</a></li><li>Daniel Whitenack &ndash; <a href=\"https://twitter.com/dwhitena\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/dwhitena\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.datadan.io/\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://home.mlops.community/public/events/aiagentsinprod\">MLOps Community \u201cAgents in Production\u201d event</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/practicalai/practical-ai-295.md\">PRs welcome!</a></p>",
                     "description": "It can be frustrating to get an AI application working amazingly well 80% of the time and failing miserably the other 20%. How can you close the gap and create something that you rely on? Chris and Daniel talk through this process, behavior testing, and the flow from prototype to production in this episode. They also talk a bit about the apparent slow down in the release of frontier models. ",
                     "enclosure": {
@@ -36,7 +161,7 @@
                     },
                     "itunes:duration": "50:09",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -59,6 +184,14 @@
                             "@role": "host"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@practicalai/113477301396056407"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/practicalai/295/transcript"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",
@@ -136,7 +269,7 @@
                     "title": "Creating tested, reliable AI applications"
                 },
                 {
-                    "content:encoded": "<p>This week, Chris is joined by Gregory Richardson, Vice President and Global Advisory CISO at BlackBerry, and Ismael Valenzuela, Vice President of Threat Research &amp; Intelligence at BlackBerry.  They address how AI is changing the threat landscape, why human defenders remain a key part of our cyber defenses, and the explain the AI standoff between cyber threat actors and cyber defenders.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456003-practicalai\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 10 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"http://notion.com/changelog\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n<li><a href=\"https://www.eightsleep.com/practicalai\">Eight Sleep</a> \u2013 <strong>Take your sleep and recovery to the next level.</strong> Go to <a href=\"https://www.eightsleep.com/practicalai/\">eightsleep.com/PRACTICALAI</a> and use the code <code>PRACTICALAI</code> to get $350 off your very own Pod 4 Ultra. You can try it for free for 30 days - but we\u2019re confident you will not want to return it. Once you experience AI-optimized sleep, you\u2019ll wonder how you ever slept without it. Currently shipping to: United States, Canada, United Kingdom, Europe, and Australia.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Gregory Richardson &ndash; <a href=\"https://www.linkedin.com/in/gregorypkrichardson\" rel=\"external ugc\">LinkedIn</a></li><li>Ismael Valenzuela &ndash; <a href=\"https://twitter.com/aboutsecurity\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/aboutsecurity\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/ivalenzuela\" rel=\"external ugc\">LinkedIn</a></li><li>Chris Benson &ndash; <a href=\"https://twitter.com/chrisbenson\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/chrisbenson\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://chrisbenson.com\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://blogs.blackberry.com/en/2024/03/ai-in-cybersecurity-attackers-defenders\">The AI Standoff: Attackers vs. Defenders | Blackberry Blog</a></li>\n<li><a href=\"https://www.blackberry.com\">Blackberry</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/practicalai/practical-ai-294.md\">PRs welcome!</a></p>",
+                    "content:encoded": "<p>This week, Chris is joined by Gregory Richardson, Vice President and Global Advisory CISO at BlackBerry, and Ismael Valenzuela, Vice President of Threat Research &amp; Intelligence at BlackBerry.  They address how AI is changing the threat landscape, why human defenders remain a key part of our cyber defenses, and the explain the AI standoff between cyber threat actors and cyber defenders.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456003-practicalai\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 10 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"http://notion.com/practicalai\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n<li><a href=\"https://www.eightsleep.com/practicalai\">Eight Sleep</a> \u2013 <strong>Take your sleep and recovery to the next level.</strong> Go to <a href=\"https://www.eightsleep.com/practicalai/\">eightsleep.com/PRACTICALAI</a> and use the code <code>PRACTICALAI</code> to get $350 off your very own Pod 4 Ultra. You can try it for free for 30 days - but we\u2019re confident you will not want to return it. Once you experience AI-optimized sleep, you\u2019ll wonder how you ever slept without it. Currently shipping to: United States, Canada, United Kingdom, Europe, and Australia.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Gregory Richardson &ndash; <a href=\"https://www.linkedin.com/in/gregorypkrichardson\" rel=\"external ugc\">LinkedIn</a></li><li>Ismael Valenzuela &ndash; <a href=\"https://twitter.com/aboutsecurity\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/aboutsecurity\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/ivalenzuela\" rel=\"external ugc\">LinkedIn</a></li><li>Chris Benson &ndash; <a href=\"https://twitter.com/chrisbenson\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/chrisbenson\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://chrisbenson.com\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://blogs.blackberry.com/en/2024/03/ai-in-cybersecurity-attackers-defenders\">The AI Standoff: Attackers vs. Defenders | Blackberry Blog</a></li>\n<li><a href=\"https://www.blackberry.com\">Blackberry</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/practicalai/practical-ai-294.md\">PRs welcome!</a></p>",
                     "description": "This week, Chris is joined by Gregory Richardson, Vice President and Global Advisory CISO at BlackBerry, and Ismael Valenzuela, Vice President of Threat Research & Intelligence at BlackBerry.  They address how AI is changing the threat landscape, why human defenders remain a key part of our cyber defenses, and the explain the AI standoff between cyber threat actors and cyber defenders.",
                     "enclosure": {
                         "@length": "53398267",
@@ -149,7 +282,7 @@
                     },
                     "itunes:duration": "55:25",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -264,7 +397,7 @@
                     },
                     "itunes:duration": "51:46",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -364,7 +497,7 @@
                     "title": "The path towards trustworthy AI"
                 },
                 {
-                    "content:encoded": "<p>We are on the other side of \u201cbig data\u201d hype, but what is the future of analytics and how does AI fit in? Till and Adithya from MotherDuck join us to discuss why DuckDB is taking the analytics and AI world by storm. We dive into what makes DuckDB, a free, in-process SQL OLAP database management system, unique including its ability to execute lighting fast analytics queries against a variety of data sources, even on your laptop! Along the way we dig into the intersections with AI, such as text-to-sql, vector search, and AI-driven SQL query correction.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456003-practicalai\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 9 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://www.timescale.com\">Timescale</a> \u2013 Real-time analytics on Postgres, seriously fast. Over 3 million Timescale databases power loT, sensors, Al, dev tools, crypto, and finance apps \u2014 all on Postgres. Postgres, for everything.\n</li>\n<li><a href=\"http://notion.com/changelog\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Till D\u00f6hmen &ndash; <a href=\"https://twitter.com/tdoehmen\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/tdoehmen\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/tdoehmen\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://tdoehmen.github.io\" rel=\"external ugc\">Website</a></li><li>Adithya Krishnan &ndash; <a href=\"https://twitter.com/krish_adi_\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/krish-adi\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/adithyakrishnan\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://krishadi.com\" rel=\"external ugc\">Website</a></li><li>Chris Benson &ndash; <a href=\"https://twitter.com/chrisbenson\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/chrisbenson\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://chrisbenson.com\" rel=\"external ugc\">Website</a></li><li>Daniel Whitenack &ndash; <a href=\"https://twitter.com/dwhitena\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/dwhitena\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.datadan.io/\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://duckdb.org/\">DuckDB</a></li>\n<li><a href=\"https://motherduck.com/\">MotherDuck</a></li>\n<li><a href=\"https://motherduck.com/blog/introducing-fixit-ai-sql-error-fixer/\">Introducing FixIt: an unreasonably effective AI error fixer for SQL</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/practicalai/practical-ai-292.md\">PRs welcome!</a></p>",
+                    "content:encoded": "<p>We are on the other side of \u201cbig data\u201d hype, but what is the future of analytics and how does AI fit in? Till and Adithya from MotherDuck join us to discuss why DuckDB is taking the analytics and AI world by storm. We dive into what makes DuckDB, a free, in-process SQL OLAP database management system, unique including its ability to execute lighting fast analytics queries against a variety of data sources, even on your laptop! Along the way we dig into the intersections with AI, such as text-to-sql, vector search, and AI-driven SQL query correction.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456003-practicalai\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 9 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://www.timescale.com\">Timescale</a> \u2013 Real-time analytics on Postgres, seriously fast. Over 3 million Timescale databases power loT, sensors, Al, dev tools, crypto, and finance apps \u2014 all on Postgres. Postgres, for everything.\n</li>\n<li><a href=\"http://notion.com/practicalai\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Till D\u00f6hmen &ndash; <a href=\"https://twitter.com/tdoehmen\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/tdoehmen\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/tdoehmen\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://tdoehmen.github.io\" rel=\"external ugc\">Website</a></li><li>Adithya Krishnan &ndash; <a href=\"https://twitter.com/krish_adi_\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/krish-adi\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/adithyakrishnan\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://krishadi.com\" rel=\"external ugc\">Website</a></li><li>Chris Benson &ndash; <a href=\"https://twitter.com/chrisbenson\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/chrisbenson\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://chrisbenson.com\" rel=\"external ugc\">Website</a></li><li>Daniel Whitenack &ndash; <a href=\"https://twitter.com/dwhitena\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/dwhitena\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.datadan.io/\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://duckdb.org/\">DuckDB</a></li>\n<li><a href=\"https://motherduck.com/\">MotherDuck</a></li>\n<li><a href=\"https://motherduck.com/blog/introducing-fixit-ai-sql-error-fixer/\">Introducing FixIt: an unreasonably effective AI error fixer for SQL</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/practicalai/practical-ai-292.md\">PRs welcome!</a></p>",
                     "description": "We are on the other side of \"big data\" hype, but what is the future of analytics and how does AI fit in? Till and Adithya from MotherDuck join us to discuss why DuckDB is taking the analytics and AI world by storm. We dive into what makes DuckDB, a free, in-process SQL OLAP database management system, unique including its ability to execute lighting fast analytics queries against a variety of data sources, even on your laptop! Along the way we dig into the intersections with AI, such as text-to-sql, vector search, and AI-driven SQL query correction.",
                     "enclosure": {
                         "@length": "48535877",
@@ -377,7 +510,7 @@
                     },
                     "itunes:duration": "50:21",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -509,7 +642,7 @@
                     "title": "Big data is dead, analytics is alive"
                 },
                 {
-                    "content:encoded": "<p>Workflow orchestration has always been a pain for data scientists, but this is exacerbated in these AI hype days by agentic workflows executing arbitrary (not pre-defined) workflows with a variety of failure modes. Adam from Prefect joins us to talk through their open source Python library for orchestration and visibility into python-based pipelines. Along the way, he introduces us to things like Marvin, their AI engineering framework, and ControlFlow, their agent workflow system.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456003-practicalai\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 9 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://workos.com\">WorkOS</a> \u2013 <strong>A platform that gives developers a set of building blocks for quickly adding enterprise-ready features</strong> to their application. Add Single Sign-On (Okta, Azure, Google, Microsoft OAuth), sync users from any SCIM directory, HRIS integration, audit trails (SIEM), free magic link sign-in. WorkOS is designed for developers and offers a single, elegant interface that abstracts dozens of enterprise integrations. Learn more and get started at <a href=\"https://workos.com/\">WorkOS.com</a>\n</li>\n<li><a href=\"https://www.shopify.com/practicalai\">Shopify</a> \u2013 Sign up for a $1/month trial period at <a href=\"https://www.shopify.com/practicalai\">shopify.com/practicalai</a>\n</li>\n<li><a href=\"http://notion.com/changelog\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Adam Azzam &ndash; <a href=\"https://twitter.com/AAAzzam\" rel=\"external ugc\">Twitter</a>, <a href=\"https://www.linkedin.com/in/adam-azzam\" rel=\"external ugc\">LinkedIn</a></li><li>Chris Benson &ndash; <a href=\"https://twitter.com/chrisbenson\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/chrisbenson\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://chrisbenson.com\" rel=\"external ugc\">Website</a></li><li>Daniel Whitenack &ndash; <a href=\"https://twitter.com/dwhitena\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/dwhitena\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.datadan.io/\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://www.prefect.io/\">Prefect</a></li>\n<li><a href=\"https://www.prefect.io/marvin\">Marvin</a></li>\n<li><a href=\"https://www.prefect.io/controlflow\">ControlFlow</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/practicalai/practical-ai-291.md\">PRs welcome!</a></p>",
+                    "content:encoded": "<p>Workflow orchestration has always been a pain for data scientists, but this is exacerbated in these AI hype days by agentic workflows executing arbitrary (not pre-defined) workflows with a variety of failure modes. Adam from Prefect joins us to talk through their open source Python library for orchestration and visibility into python-based pipelines. Along the way, he introduces us to things like Marvin, their AI engineering framework, and ControlFlow, their agent workflow system.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456003-practicalai\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 9 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://workos.com\">WorkOS</a> \u2013 <strong>A platform that gives developers a set of building blocks for quickly adding enterprise-ready features</strong> to their application. Add Single Sign-On (Okta, Azure, Google, Microsoft OAuth), sync users from any SCIM directory, HRIS integration, audit trails (SIEM), free magic link sign-in. WorkOS is designed for developers and offers a single, elegant interface that abstracts dozens of enterprise integrations. Learn more and get started at <a href=\"https://workos.com/\">WorkOS.com</a>\n</li>\n<li><a href=\"https://www.shopify.com/practicalai\">Shopify</a> \u2013 Sign up for a $1/month trial period at <a href=\"https://www.shopify.com/practicalai\">shopify.com/practicalai</a>\n</li>\n<li><a href=\"http://notion.com/practicalai\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Adam Azzam &ndash; <a href=\"https://twitter.com/AAAzzam\" rel=\"external ugc\">Twitter</a>, <a href=\"https://www.linkedin.com/in/adam-azzam\" rel=\"external ugc\">LinkedIn</a></li><li>Chris Benson &ndash; <a href=\"https://twitter.com/chrisbenson\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/chrisbenson\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://chrisbenson.com\" rel=\"external ugc\">Website</a></li><li>Daniel Whitenack &ndash; <a href=\"https://twitter.com/dwhitena\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/dwhitena\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.datadan.io/\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://www.prefect.io/\">Prefect</a></li>\n<li><a href=\"https://www.prefect.io/marvin\">Marvin</a></li>\n<li><a href=\"https://www.prefect.io/controlflow\">ControlFlow</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/practicalai/practical-ai-291.md\">PRs welcome!</a></p>",
                     "description": "Workflow orchestration has always been a pain for data scientists, but this is exacerbated in these AI hype days by agentic workflows executing arbitrary (not pre-defined) workflows with a variety of failure modes. Adam from Prefect joins us to talk through their open source Python library for orchestration and visibility into python-based pipelines. Along the way, he introduces us to things like Marvin, their AI engineering framework, and ControlFlow, their agent workflow system. ",
                     "enclosure": {
                         "@length": "56305638",
@@ -522,7 +655,7 @@
                     },
                     "itunes:duration": "58:26",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -641,7 +774,7 @@
                     },
                     "itunes:duration": "57:04",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -790,7 +923,7 @@
                     },
                     "itunes:duration": "1:02:23",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -911,7 +1044,7 @@
                     },
                     "itunes:duration": "55:04",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -1042,7 +1175,7 @@
                     },
                     "itunes:duration": "50:12",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -1151,7 +1284,7 @@
                     },
                     "itunes:duration": "51:36",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -1283,7 +1416,7 @@
                     },
                     "itunes:duration": "40:05",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -1406,7 +1539,7 @@
                     },
                     "itunes:duration": "42:14",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -1505,7 +1638,7 @@
                     },
                     "itunes:duration": "54:40",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -1631,7 +1764,7 @@
                     },
                     "itunes:duration": "45:42",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -1763,7 +1896,7 @@
                     },
                     "itunes:duration": "46:30",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -1907,7 +2040,7 @@
                     },
                     "itunes:duration": "42:33",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -2031,7 +2164,7 @@
                     },
                     "itunes:duration": "55:11",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -2209,7 +2342,7 @@
                     },
                     "itunes:duration": "43:23",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -2313,7 +2446,7 @@
                     },
                     "itunes:duration": "44:13",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -2446,7 +2579,7 @@
                     },
                     "itunes:duration": "47:06",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -2569,7 +2702,7 @@
                     },
                     "itunes:duration": "45:08",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -2698,7 +2831,7 @@
                     },
                     "itunes:duration": "46:08",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -2826,7 +2959,7 @@
                     },
                     "itunes:duration": "38:30",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -2945,7 +3078,7 @@
                     },
                     "itunes:duration": "35:37",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -3057,7 +3190,7 @@
                     },
                     "itunes:duration": "40:50",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -3174,7 +3307,7 @@
                     },
                     "itunes:duration": "43:30",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -3306,7 +3439,7 @@
                     },
                     "itunes:duration": "47:04",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -3440,7 +3573,7 @@
                     },
                     "itunes:duration": "41:13",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -3543,7 +3676,7 @@
                     },
                     "itunes:duration": "38:27",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -3684,7 +3817,7 @@
                     },
                     "itunes:duration": "41:15",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -3810,7 +3943,7 @@
                     },
                     "itunes:duration": "38:54",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -3917,7 +4050,7 @@
                     },
                     "itunes:duration": "48:21",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -4056,7 +4189,7 @@
                     },
                     "itunes:duration": "39:22",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -4163,7 +4296,7 @@
                     },
                     "itunes:duration": "57:02",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -4292,7 +4425,7 @@
                     },
                     "itunes:duration": "46:01",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -4422,7 +4555,7 @@
                     },
                     "itunes:duration": "42:08",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -4555,7 +4688,7 @@
                     },
                     "itunes:duration": "42:48",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -4674,7 +4807,7 @@
                     },
                     "itunes:duration": "43:36",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -4806,7 +4939,7 @@
                     },
                     "itunes:duration": "52:05",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -4938,7 +5071,7 @@
                     },
                     "itunes:duration": "43:31",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -5053,7 +5186,7 @@
                     },
                     "itunes:duration": "46:41",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -5170,7 +5303,7 @@
                     },
                     "itunes:duration": "48:15",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -5314,7 +5447,7 @@
                     },
                     "itunes:duration": "46:16",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -5442,7 +5575,7 @@
                     },
                     "itunes:duration": "47:52",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -5584,7 +5717,7 @@
                     },
                     "itunes:duration": "45:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -5727,7 +5860,7 @@
                     },
                     "itunes:duration": "41:53",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -5851,7 +5984,7 @@
                     },
                     "itunes:duration": "42:37",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -5992,7 +6125,7 @@
                     },
                     "itunes:duration": "46:57",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -6121,7 +6254,7 @@
                     },
                     "itunes:duration": "47:09",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -6296,7 +6429,7 @@
                     },
                     "itunes:duration": "50:16",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -6422,7 +6555,7 @@
                     },
                     "itunes:duration": "47:45",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -6535,7 +6668,7 @@
                     },
                     "itunes:duration": "45:07",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -6659,7 +6792,7 @@
                     },
                     "itunes:duration": "41:09",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -6779,7 +6912,7 @@
                     },
                     "itunes:duration": "40:36",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -6945,7 +7078,7 @@
                     },
                     "itunes:duration": "48:24",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -7090,7 +7223,7 @@
                     },
                     "itunes:duration": "49:04",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -7205,7 +7338,7 @@
                     },
                     "itunes:duration": "43:02",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -7342,7 +7475,7 @@
                     },
                     "itunes:duration": "58:09",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -7482,7 +7615,7 @@
                     },
                     "itunes:duration": "45:01",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -7615,7 +7748,7 @@
                     },
                     "itunes:duration": "45:09",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -7744,7 +7877,7 @@
                     },
                     "itunes:duration": "41:40",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -7867,7 +8000,7 @@
                     },
                     "itunes:duration": "51:31",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -7996,7 +8129,7 @@
                     },
                     "itunes:duration": "48:13",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -8126,7 +8259,7 @@
                     },
                     "itunes:duration": "42:53",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -8258,7 +8391,7 @@
                     },
                     "itunes:duration": "42:03",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -8390,7 +8523,7 @@
                     },
                     "itunes:duration": "42:13",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -8529,7 +8662,7 @@
                     },
                     "itunes:duration": "44:38",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -8640,7 +8773,7 @@
                     },
                     "itunes:duration": "46:41",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -8743,7 +8876,7 @@
                     },
                     "itunes:duration": "59:40",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -8907,7 +9040,7 @@
                     },
                     "itunes:duration": "42:04",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -9036,7 +9169,7 @@
                     },
                     "itunes:duration": "49:43",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -9160,7 +9293,7 @@
                     },
                     "itunes:duration": "44:52",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -9284,7 +9417,7 @@
                     },
                     "itunes:duration": "26:33",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -9390,7 +9523,7 @@
                     },
                     "itunes:duration": "38:59",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -9494,7 +9627,7 @@
                     },
                     "itunes:duration": "38:30",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -9604,7 +9737,7 @@
                     },
                     "itunes:duration": "42:21",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -9721,7 +9854,7 @@
                     },
                     "itunes:duration": "38:05",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -9861,7 +9994,7 @@
                     },
                     "itunes:duration": "43:17",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -9961,7 +10094,7 @@
                     },
                     "itunes:duration": "43:54",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -10086,7 +10219,7 @@
                     },
                     "itunes:duration": "45:37",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -10190,7 +10323,7 @@
                     },
                     "itunes:duration": "42:02",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -10306,7 +10439,7 @@
                     },
                     "itunes:duration": "44:21",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -10418,7 +10551,7 @@
                     },
                     "itunes:duration": "43:52",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -10509,7 +10642,7 @@
                     },
                     "itunes:duration": "38:29",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -10618,7 +10751,7 @@
                     },
                     "itunes:duration": "38:33",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -10739,7 +10872,7 @@
                     },
                     "itunes:duration": "56:54",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -10859,7 +10992,7 @@
                     },
                     "itunes:duration": "42:34",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -10967,7 +11100,7 @@
                     },
                     "itunes:duration": "39:52",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -11071,7 +11204,7 @@
                     },
                     "itunes:duration": "49:51",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -11192,7 +11325,7 @@
                     },
                     "itunes:duration": "44:46",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -11232,7 +11365,7 @@
                     },
                     "itunes:duration": "36:46",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -11336,7 +11469,7 @@
                     },
                     "itunes:duration": "30:28",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -11432,7 +11565,7 @@
                     },
                     "itunes:duration": "33:57",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -11516,7 +11649,7 @@
                     },
                     "itunes:duration": "44:12",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -11606,7 +11739,7 @@
                     },
                     "itunes:duration": "48:33",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -11652,7 +11785,7 @@
                     },
                     "itunes:duration": "43:45",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -11698,7 +11831,7 @@
                     },
                     "itunes:duration": "37:26",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -11738,7 +11871,7 @@
                     },
                     "itunes:duration": "33:22",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -11784,7 +11917,7 @@
                     },
                     "itunes:duration": "49:36",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -11830,7 +11963,7 @@
                     },
                     "itunes:duration": "42:19",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -11870,7 +12003,7 @@
                     },
                     "itunes:duration": "31:49",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -11910,7 +12043,7 @@
                     },
                     "itunes:duration": "44:55",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -11956,7 +12089,7 @@
                     },
                     "itunes:duration": "44:21",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -11996,7 +12129,7 @@
                     },
                     "itunes:duration": "44:22",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12036,7 +12169,7 @@
                     },
                     "itunes:duration": "43:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12076,7 +12209,7 @@
                     },
                     "itunes:duration": "43:23",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12122,7 +12255,7 @@
                     },
                     "itunes:duration": "41:26",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12162,7 +12295,7 @@
                     },
                     "itunes:duration": "45:18",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12202,7 +12335,7 @@
                     },
                     "itunes:duration": "42:44",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12248,7 +12381,7 @@
                     },
                     "itunes:duration": "46:11",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12288,7 +12421,7 @@
                     },
                     "itunes:duration": "40:50",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12328,7 +12461,7 @@
                     },
                     "itunes:duration": "51:44",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12374,7 +12507,7 @@
                     },
                     "itunes:duration": "48:48",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12420,7 +12553,7 @@
                     },
                     "itunes:duration": "49:04",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12472,7 +12605,7 @@
                     },
                     "itunes:duration": "42:09",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12512,7 +12645,7 @@
                     },
                     "itunes:duration": "40:34",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12552,7 +12685,7 @@
                     },
                     "itunes:duration": "47:11",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12598,7 +12731,7 @@
                     },
                     "itunes:duration": "49:10",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12644,7 +12777,7 @@
                     },
                     "itunes:duration": "47:57",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12696,7 +12829,7 @@
                     },
                     "itunes:duration": "45:57",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12742,7 +12875,7 @@
                     },
                     "itunes:duration": "51:13",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12800,7 +12933,7 @@
                     },
                     "itunes:duration": "42:08",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12846,7 +12979,7 @@
                     },
                     "itunes:duration": "41:17",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12886,7 +13019,7 @@
                     },
                     "itunes:duration": "41:26",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12926,7 +13059,7 @@
                     },
                     "itunes:duration": "46:08",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -12966,7 +13099,7 @@
                     },
                     "itunes:duration": "52:04",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13012,7 +13145,7 @@
                     },
                     "itunes:duration": "50:56",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13064,7 +13197,7 @@
                     },
                     "itunes:duration": "44:55",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13104,7 +13237,7 @@
                     },
                     "itunes:duration": "43:37",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13156,7 +13289,7 @@
                     },
                     "itunes:duration": "41:21",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13202,7 +13335,7 @@
                     },
                     "itunes:duration": "43:18",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13248,7 +13381,7 @@
                     },
                     "itunes:duration": "44:50",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13294,7 +13427,7 @@
                     },
                     "itunes:duration": "41:40",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13340,7 +13473,7 @@
                     },
                     "itunes:duration": "43:07",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13398,7 +13531,7 @@
                     },
                     "itunes:duration": "50:34",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13438,7 +13571,7 @@
                     },
                     "itunes:duration": "46:35",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13484,7 +13617,7 @@
                     },
                     "itunes:duration": "25:36",
                     "itunes:episodeType": "bonus",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13526,7 +13659,7 @@
                     },
                     "itunes:duration": "46:37",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13572,7 +13705,7 @@
                     },
                     "itunes:duration": "46:19",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13612,7 +13745,7 @@
                     },
                     "itunes:duration": "46:14",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13652,7 +13785,7 @@
                     },
                     "itunes:duration": "44:21",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13698,7 +13831,7 @@
                     },
                     "itunes:duration": "36:35",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13738,7 +13871,7 @@
                     },
                     "itunes:duration": "43:18",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13790,7 +13923,7 @@
                     },
                     "itunes:duration": "45:17",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13830,7 +13963,7 @@
                     },
                     "itunes:duration": "38:03",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13876,7 +14009,7 @@
                     },
                     "itunes:duration": "42:25",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13916,7 +14049,7 @@
                     },
                     "itunes:duration": "47:34",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -13956,7 +14089,7 @@
                     },
                     "itunes:duration": "44:39",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14002,7 +14135,7 @@
                     },
                     "itunes:duration": "42:15",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14048,7 +14181,7 @@
                     },
                     "itunes:duration": "43:03",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14094,7 +14227,7 @@
                     },
                     "itunes:duration": "44:26",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14134,7 +14267,7 @@
                     },
                     "itunes:duration": "44:10",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14180,7 +14313,7 @@
                     },
                     "itunes:duration": "48:05",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14232,7 +14365,7 @@
                     },
                     "itunes:duration": "45:04",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14278,7 +14411,7 @@
                     },
                     "itunes:duration": "45:41",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14318,7 +14451,7 @@
                     },
                     "itunes:duration": "48:32",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14364,7 +14497,7 @@
                     },
                     "itunes:duration": "48:38",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14404,7 +14537,7 @@
                     },
                     "itunes:duration": "42:37",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14444,7 +14577,7 @@
                     },
                     "itunes:duration": "46:25",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14490,7 +14623,7 @@
                     },
                     "itunes:duration": "43:51",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14530,7 +14663,7 @@
                     },
                     "itunes:duration": "43:13",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14576,7 +14709,7 @@
                     },
                     "itunes:duration": "1:01:53",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14622,7 +14755,7 @@
                     },
                     "itunes:duration": "49:06",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14668,7 +14801,7 @@
                     },
                     "itunes:duration": "42:40",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14714,7 +14847,7 @@
                     },
                     "itunes:duration": "42:42",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14760,7 +14893,7 @@
                     },
                     "itunes:duration": "53:10",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14806,7 +14939,7 @@
                     },
                     "itunes:duration": "52:58",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14852,7 +14985,7 @@
                     },
                     "itunes:duration": "44:28",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14898,7 +15031,7 @@
                     },
                     "itunes:duration": "50:48",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14944,7 +15077,7 @@
                     },
                     "itunes:duration": "56:46",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -14984,7 +15117,7 @@
                     },
                     "itunes:duration": "43:22",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15030,7 +15163,7 @@
                     },
                     "itunes:duration": "57:11",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15076,7 +15209,7 @@
                     },
                     "itunes:duration": "1:00:12",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15128,7 +15261,7 @@
                     },
                     "itunes:duration": "48:20",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15168,7 +15301,7 @@
                     },
                     "itunes:duration": "46:05",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15208,7 +15341,7 @@
                     },
                     "itunes:duration": "47:36",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15254,7 +15387,7 @@
                     },
                     "itunes:duration": "54:58",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15306,7 +15439,7 @@
                     },
                     "itunes:duration": "51:10",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15352,7 +15485,7 @@
                     },
                     "itunes:duration": "48:40",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15398,7 +15531,7 @@
                     },
                     "itunes:duration": "46:56",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15438,7 +15571,7 @@
                     },
                     "itunes:duration": "25:34",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15484,7 +15617,7 @@
                     },
                     "itunes:duration": "49:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15530,7 +15663,7 @@
                     },
                     "itunes:duration": "43:58",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15582,7 +15715,7 @@
                     },
                     "itunes:duration": "51:27",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15628,7 +15761,7 @@
                     },
                     "itunes:duration": "49:27",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15668,7 +15801,7 @@
                     },
                     "itunes:duration": "50:40",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15714,7 +15847,7 @@
                     },
                     "itunes:duration": "47:03",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15760,7 +15893,7 @@
                     },
                     "itunes:duration": "48:27",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15806,7 +15939,7 @@
                     },
                     "itunes:duration": "55:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15852,7 +15985,7 @@
                     },
                     "itunes:duration": "54:08",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15898,7 +16031,7 @@
                     },
                     "itunes:duration": "53:17",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15944,7 +16077,7 @@
                     },
                     "itunes:duration": "58:48",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -15996,7 +16129,7 @@
                     },
                     "itunes:duration": "58:30",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16054,7 +16187,7 @@
                     },
                     "itunes:duration": "1:00:35",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16100,7 +16233,7 @@
                     },
                     "itunes:duration": "56:03",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16146,7 +16279,7 @@
                     },
                     "itunes:duration": "59:12",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16192,7 +16325,7 @@
                     },
                     "itunes:duration": "1:09:53",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16244,7 +16377,7 @@
                     },
                     "itunes:duration": "48:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16290,7 +16423,7 @@
                     },
                     "itunes:duration": "46:43",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16336,7 +16469,7 @@
                     },
                     "itunes:duration": "51:08",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16382,7 +16515,7 @@
                     },
                     "itunes:duration": "52:30",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16422,7 +16555,7 @@
                     },
                     "itunes:duration": "47:17",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16458,7 +16591,7 @@
                     },
                     "itunes:duration": "54:04",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16498,7 +16631,7 @@
                     },
                     "itunes:duration": "50:25",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16538,7 +16671,7 @@
                     },
                     "itunes:duration": "50:15",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16578,7 +16711,7 @@
                     },
                     "itunes:duration": "46:40",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16618,7 +16751,7 @@
                     },
                     "itunes:duration": "53:19",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16658,7 +16791,7 @@
                     },
                     "itunes:duration": "42:30",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16704,7 +16837,7 @@
                     },
                     "itunes:duration": "50:36",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16744,7 +16877,7 @@
                     },
                     "itunes:duration": "44:34",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16796,7 +16929,7 @@
                     },
                     "itunes:duration": "43:40",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16842,7 +16975,7 @@
                     },
                     "itunes:duration": "52:51",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16882,7 +17015,7 @@
                     },
                     "itunes:duration": "54:28",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16934,7 +17067,7 @@
                     },
                     "itunes:duration": "49:38",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -16986,7 +17119,7 @@
                     },
                     "itunes:duration": "01:30",
                     "itunes:episodeType": "trailer",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17022,7 +17155,7 @@
                     },
                     "itunes:duration": "49:14",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17068,7 +17201,7 @@
                     },
                     "itunes:duration": "51:08",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17114,7 +17247,7 @@
                     },
                     "itunes:duration": "48:40",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17160,7 +17293,7 @@
                     },
                     "itunes:duration": "47:37",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17206,7 +17339,7 @@
                     },
                     "itunes:duration": "54:50",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17252,7 +17385,7 @@
                     },
                     "itunes:duration": "51:46",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17298,7 +17431,7 @@
                     },
                     "itunes:duration": "42:33",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17344,7 +17477,7 @@
                     },
                     "itunes:duration": "44:32",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17384,7 +17517,7 @@
                     },
                     "itunes:duration": "47:33",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17430,7 +17563,7 @@
                     },
                     "itunes:duration": "47:20",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17476,7 +17609,7 @@
                     },
                     "itunes:duration": "48:52",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17522,7 +17655,7 @@
                     },
                     "itunes:duration": "58:05",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17562,7 +17695,7 @@
                     },
                     "itunes:duration": "46:14",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17608,7 +17741,7 @@
                     },
                     "itunes:duration": "50:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17654,7 +17787,7 @@
                     },
                     "itunes:duration": "56:25",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17706,7 +17839,7 @@
                     },
                     "itunes:duration": "59:04",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17758,7 +17891,7 @@
                     },
                     "itunes:duration": "44:15",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17804,7 +17937,7 @@
                     },
                     "itunes:duration": "57:10",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17850,7 +17983,7 @@
                     },
                     "itunes:duration": "44:33",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17890,7 +18023,7 @@
                     },
                     "itunes:duration": "44:20",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17936,7 +18069,7 @@
                     },
                     "itunes:duration": "42:45",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -17982,7 +18115,7 @@
                     },
                     "itunes:duration": "49:40",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18028,7 +18161,7 @@
                     },
                     "itunes:duration": "49:25",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18068,7 +18201,7 @@
                     },
                     "itunes:duration": "47:48",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18114,7 +18247,7 @@
                     },
                     "itunes:duration": "45:10",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18154,7 +18287,7 @@
                     },
                     "itunes:duration": "45:32",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18200,7 +18333,7 @@
                     },
                     "itunes:duration": "48:24",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18240,7 +18373,7 @@
                     },
                     "itunes:duration": "58:38",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18286,7 +18419,7 @@
                     },
                     "itunes:duration": "55:52",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18332,7 +18465,7 @@
                     },
                     "itunes:duration": "46:17",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18378,7 +18511,7 @@
                     },
                     "itunes:duration": "54:51",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18418,7 +18551,7 @@
                     },
                     "itunes:duration": "53:01",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18464,7 +18597,7 @@
                     },
                     "itunes:duration": "50:54",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18504,7 +18637,7 @@
                     },
                     "itunes:duration": "55:15",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18544,7 +18677,7 @@
                     },
                     "itunes:duration": "43:44",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18590,7 +18723,7 @@
                     },
                     "itunes:duration": "51:32",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18630,7 +18763,7 @@
                     },
                     "itunes:duration": "46:18",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18676,7 +18809,7 @@
                     },
                     "itunes:duration": "1:02:21",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18716,7 +18849,7 @@
                     },
                     "itunes:duration": "57:10",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18756,7 +18889,7 @@
                     },
                     "itunes:duration": "1:02:10",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18808,7 +18941,7 @@
                     },
                     "itunes:duration": "59:20",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18848,7 +18981,7 @@
                     },
                     "itunes:duration": "1:03:21",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18894,7 +19027,7 @@
                     },
                     "itunes:duration": "45:35",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18934,7 +19067,7 @@
                     },
                     "itunes:duration": "51:39",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -18980,7 +19113,7 @@
                     },
                     "itunes:duration": "49:23",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19026,7 +19159,7 @@
                     },
                     "itunes:duration": "51:33",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19066,7 +19199,7 @@
                     },
                     "itunes:duration": "1:05:37",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19106,7 +19239,7 @@
                     },
                     "itunes:duration": "39:06",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19152,7 +19285,7 @@
                     },
                     "itunes:duration": "40:35",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19192,7 +19325,7 @@
                     },
                     "itunes:duration": "51:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19232,7 +19365,7 @@
                     },
                     "itunes:duration": "40:29",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19272,7 +19405,7 @@
                     },
                     "itunes:duration": "37:57",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19312,7 +19445,7 @@
                     },
                     "itunes:duration": "40:37",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19358,7 +19491,7 @@
                     },
                     "itunes:duration": "44:41",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19398,7 +19531,7 @@
                     },
                     "itunes:duration": "35:34",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19438,7 +19571,7 @@
                     },
                     "itunes:duration": "41:43",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19490,7 +19623,7 @@
                     },
                     "itunes:duration": "42:24",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19530,7 +19663,7 @@
                     },
                     "itunes:duration": "40:41",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19576,7 +19709,7 @@
                     },
                     "itunes:duration": "39:54",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19616,7 +19749,7 @@
                     },
                     "itunes:duration": "41:40",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19662,7 +19795,7 @@
                     },
                     "itunes:duration": "38:53",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19702,7 +19835,7 @@
                     },
                     "itunes:duration": "28:49",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19754,7 +19887,7 @@
                     },
                     "itunes:duration": "44:04",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19800,7 +19933,7 @@
                     },
                     "itunes:duration": "30:12",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19846,7 +19979,7 @@
                     },
                     "itunes:duration": "34:53",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19886,7 +20019,7 @@
                     },
                     "itunes:duration": "41:04",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19932,7 +20065,7 @@
                     },
                     "itunes:duration": "44:20",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -19972,7 +20105,7 @@
                     },
                     "itunes:duration": "44:45",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -20018,7 +20151,7 @@
                     },
                     "itunes:duration": "33:08",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -20058,7 +20191,7 @@
                     },
                     "itunes:duration": "48:53",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -20122,7 +20255,7 @@
                     },
                     "itunes:duration": "20:53",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -20162,7 +20295,7 @@
                     },
                     "itunes:duration": "46:43",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -20208,7 +20341,7 @@
                     },
                     "itunes:duration": "31:51",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -20248,7 +20381,7 @@
                     },
                     "itunes:duration": "50:26",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -20294,7 +20427,7 @@
                     },
                     "itunes:duration": "28:59",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -20334,7 +20467,7 @@
                     },
                     "itunes:duration": "44:46",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -20380,7 +20513,7 @@
                     },
                     "itunes:duration": "18:17",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -20420,7 +20553,7 @@
                     },
                     "itunes:duration": "45:16",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -20472,7 +20605,7 @@
                     },
                     "itunes:duration": "48:25",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -20524,7 +20657,7 @@
                     },
                     "itunes:duration": "42:40",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -20582,7 +20715,7 @@
                     },
                     "itunes:duration": "45:04",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -20634,7 +20767,7 @@
                     },
                     "itunes:duration": "35:28",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
                     },
@@ -20677,7 +20810,7 @@
             "itunes:category": {
                 "@text": "Technology"
             },
-            "itunes:explicit": "no",
+            "itunes:explicit": "false",
             "itunes:image": {
                 "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
             },

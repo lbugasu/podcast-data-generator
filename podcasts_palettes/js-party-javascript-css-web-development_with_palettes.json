@@ -23,6 +23,139 @@
             "description": "Your weekly celebration of JavaScript and the web. Current panelists: Jerod Santo, Kevin Ball (KBall), Nick Nisi, Chris Hiller, Amal Hussein & Amy Dutton.\n\nPast panelists: Suz Hinton, Feross Aboukhadijeh, Amelia Wattenberger, Divya Sasidharan, Alex Sexton, Rachel White, Emma Bostian, Ali Spittel, Mikeal Rogers & Jessica Sachs.\n\nWe talk about the web platform (Chrome, Safari, Edge, Firefox, Brave, etc), front-end frameworks (ReactJS, SolidJS, Svelte, VueJS, AngularJS, etc), JavaScript and TypeScript runtimes (Node, Deno, Bun), web animation, SVG, TailwindCSS, robotics, IoT, and much more. If JavaScript and/or the web touch your life, this show\u2019s for you.\n\nSome people search for JSParty and can't find the show, so now the string JSParty is in our description too.",
             "item": [
                 {
+                    "content:encoded": "<p>Recently, four pillars of the JavaScript community (James Snell, Natalia Venditto, Michael Dawson &amp; Matteo Collina) teamed up to create a resource that lays out nine principles for doing Node.js right in enterprise environments. On this episode, Natalia &amp; Matteo join Jerod to discuss all nine.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456196-jsparty\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 6 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"http://notion.com/jsparty\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n<li><a href=\"https://workos.com\">WorkOS</a> \u2013 <strong>A platform that gives developers a set of building blocks for quickly adding enterprise-ready features</strong> to their application. Add Single Sign-On (Okta, Azure, Google, Microsoft OAuth), sync users from any SCIM directory, HRIS integration, audit trails (SIEM), free magic link sign-in. WorkOS is designed for developers and offers a single, elegant interface that abstracts dozens of enterprise integrations. Learn more and get started at <a href=\"https://workos.com/\">WorkOS.com</a>\n</li>\n<li><a href=\"https://jam.dev\">Jam.dev</a> \u2013 <strong>One click bug reports developers love</strong> \u2014 Never explain another bug report again. Jam auto-captures all the info engineers need to debug and repro.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Natalia Venditto &ndash; <a href=\"https://twitter.com/anfibiacreativa\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/anfibiacreativa\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/anfibiacreativa\" rel=\"external ugc\">LinkedIn</a></li><li>Matteo Collina &ndash; <a href=\"https://fosstodon.org/@mcollina\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/matteocollina\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/mcollina\" rel=\"external ugc\">GitHub</a>, <a href=\"http://matteocollina.com\" rel=\"external ugc\">Website</a></li><li>Jerod Santo &ndash; <a href=\"https://changelog.social/@jerod\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/jerodsanto\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/jerodsanto\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/jerodsanto\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://www.platformatichq.com/node-principles\">Nine Node Pillars</a></li>\n<li><a href=\"https://github.com/mcollina/close-with-grace\">close-with-grace</a></li>\n<li><a href=\"https://typespec.io/\">TypeSpec</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/jsparty/js-party-347.md\">PRs welcome!</a></p>",
+                    "description": "Recently, four pillars of the JavaScript community (James Snell, Natalia Venditto, Michael Dawson & Matteo Collina) teamed up to create a resource that lays out nine principles for doing Node.js right in enterprise environments. On this episode, Natalia & Matteo join Jerod to discuss all nine.",
+                    "enclosure": {
+                        "@length": "62124410",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/jsparty/347/js-party-347.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/6/2569",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:04:14",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
+                    },
+                    "link": "https://changelog.com/jsparty/347",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/jsparty/347/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Jerod Santo",
+                            "@href": "https://changelog.com/person/jerodsanto",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/z4/avatar_large.jpeg?v=63760071650",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Natalia Venditto",
+                            "@href": "https://changelog.com/person/anfibiacreativa",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/j4lEb/avatar_large.jpeg?v=63898828341",
+                            "@role": "guest"
+                        },
+                        {
+                            "#text": "Matteo Collina",
+                            "@href": "https://changelog.com/person/matteocollina",
+                            "@img": "https://secure.gravatar.com/avatar/18bd7c6669193d3dd0030d77854b6248.jpg?s=600&d=mm",
+                            "@role": "guest"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "It's party time, y'all"
+                            },
+                            {
+                                "@href": "http://notion.com/jsparty",
+                                "@start": "39",
+                                "@title": "Sponsor: Notion"
+                            },
+                            {
+                                "@start": "127",
+                                "@title": "Hello party people"
+                            },
+                            {
+                                "@start": "223",
+                                "@title": "How it came together"
+                            },
+                            {
+                                "@href": "https://www.platformatichq.com/node-principles",
+                                "@start": "412",
+                                "@title": "The nine pillars"
+                            },
+                            {
+                                "@start": "504",
+                                "@title": "5: Avoid dependency creep"
+                            },
+                            {
+                                "@start": "878",
+                                "@title": "6: De-risk your dependencies"
+                            },
+                            {
+                                "@href": "https://workos.com",
+                                "@start": "1124",
+                                "@title": "Sponsor: WorkOS"
+                            },
+                            {
+                                "@start": "1294",
+                                "@title": "7: Avoid globals"
+                            },
+                            {
+                                "@start": "1809",
+                                "@title": "8: Handle errors, log well"
+                            },
+                            {
+                                "@start": "2086",
+                                "@title": "9: Use API specs, generate clients"
+                            },
+                            {
+                                "@href": "https://jam.dev",
+                                "@start": "2423",
+                                "@title": "Sponsor: Jam.dev"
+                            },
+                            {
+                                "@start": "2515",
+                                "@title": "1: Do not block the event loop"
+                            },
+                            {
+                                "@start": "2747",
+                                "@title": "2: Monitor Node-specific metrics"
+                            },
+                            {
+                                "@start": "2996",
+                                "@title": "3: Use Node LTS"
+                            },
+                            {
+                                "@start": "3272",
+                                "@title": "4: Automate testing, code review, conformance"
+                            },
+                            {
+                                "@start": "3424",
+                                "@title": "Bonus pillars"
+                            },
+                            {
+                                "@start": "3614",
+                                "@title": "Closing time"
+                            },
+                            {
+                                "@href": "https://merch.changelog.com",
+                                "@start": "3788",
+                                "@title": "Next up on the pod (merch!)"
+                            }
+                        ]
+                    },
+                    "pubDate": "Thu, 21 Nov 2024 19:00:00 +0000",
+                    "title": "Nine pillars of great Node apps"
+                },
+                {
                     "content:encoded": "<p>Carmen Huidobro joins Amy, KBall &amp; Nick on the show to talk about her work, the importance of writing docs, and her upcoming conference talk at React Summit US!</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456196-jsparty\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 5 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://jam.dev\">Jam.dev</a> \u2013 <strong>One click bug reports developers love</strong> \u2014 Never explain another bug report again. Jam auto-captures all the info engineers need to debug and repro.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Carmen Huidobro &ndash; <a href=\"https://twitter.com/hola_soy_milk\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/hola-soy-milk\" rel=\"external ugc\">GitHub</a>, <a href=\"https://carmenh.dev\" rel=\"external ugc\">Website</a></li><li>Nick Nisi &ndash; <a href=\"https://nicknisi.com/@nicknisi\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/nicknisi\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/nicknisi\" rel=\"external ugc\">GitHub</a>, <a href=\"https://nicknisi.com\" rel=\"external ugc\">Website</a></li><li>Kevin Ball &ndash; <a href=\"https://twitter.com/kbal11\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/kball\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/kbal11\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://www.kball.llc\" rel=\"external ugc\">Website</a></li><li>Amy Dutton &ndash; <a href=\"https://twitter.com/selfteachme\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/ahaywood\" rel=\"external ugc\">GitHub</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://docs.divio.com/documentation-system/\">Divio</a></li>\n<li><a href=\"https://docsfordevelopers.com/\">Docs for Developers</a></li>\n<li><a href=\"https://workwithcarolyn.com/speaking/intuitive-tooling\">Intuitive Tooling</a></li>\n<li><a href=\"https://martinfowler.com/bliki/FrequencyReducesDifficulty.html\">Martin Fowler - if it hurts, do it often</a></li>\n<li><a href=\"https://knip.dev/\">Declutter your JavaScript &amp; TypeScript projects | Knip</a></li>\n<li><a href=\"https://reactsummit.us/schedule\">React Summit</a></li>\n<li><a href=\"http://fuckingblocksyntax.com\">F*cking Block Syntax</a></li>\n<li><a href=\"https://badwebsite.club\">Bad Website Club</a></li>\n<li><a href=\"https://github.com/feross/TheAnnoyingSite.com\">The Annoying Site</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/jsparty/js-party-346.md\">PRs welcome!</a></p>",
                     "description": "Carmen Huidobro joins Amy, KBall & Nick on the show to talk about her work, the importance of writing docs, and her upcoming conference talk at React Summit US!",
                     "enclosure": {
@@ -36,7 +169,7 @@
                     },
                     "itunes:duration": "1:14:21",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -71,6 +204,10 @@
                             "@role": "guest"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@jsparty/113483435582572370"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",
@@ -163,7 +300,7 @@
                     "title": "It's all about documentation"
                 },
                 {
-                    "content:encoded": "<p>Vercel CPO, Tom Occhino, joins Jerod for a one-on-one covering React &amp; Next\u2019s past, present &amp; future. We discuss the birth of React, Tom\u2019s move to Vercel, deploying Next apps to non-Vercel hosts, React as the next jQuery, the viability of Web Components, Vercel customers getting surprise bills &amp; so much more.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456196-jsparty\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 9 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://workos.com\">WorkOS</a> \u2013 <strong>A platform that gives developers a set of building blocks for quickly adding enterprise-ready features</strong> to their application. Add Single Sign-On (Okta, Azure, Google, Microsoft OAuth), sync users from any SCIM directory, HRIS integration, audit trails (SIEM), free magic link sign-in. WorkOS is designed for developers and offers a single, elegant interface that abstracts dozens of enterprise integrations. Learn more and get started at <a href=\"https://workos.com/\">WorkOS.com</a>\n</li>\n<li><a href=\"http://notion.com/changelog\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Tom Occhino &ndash; <a href=\"https://twitter.com/tomocchino\" rel=\"external ugc\">Twitter</a>, <a href=\"https://www.linkedin.com/in/tomocchino\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://www.tomocchino.com\" rel=\"external ugc\">Website</a></li><li>Jerod Santo &ndash; <a href=\"https://changelog.social/@jerod\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/jerodsanto\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/jerodsanto\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/jerodsanto\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://www.youtube.com/watch?v=8pDqJVdNa44\">React.js: The Documentary - YouTube</a></li>\n<li><a href=\"https://changelog.com/podcast/149\">React, React Native, Flux, Relay, GraphQL (Changelog Interviews #149)</a></li>\n<li><a href=\"https://nextjs.org/conf\">Next.js Conf by Vercel</a></li>\n<li><a href=\"https://v0.dev/\">v0 by Vercel</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/jsparty/js-party-345.md\">PRs welcome!</a></p>",
+                    "content:encoded": "<p>Vercel CPO, Tom Occhino, joins Jerod for a one-on-one covering React &amp; Next\u2019s past, present &amp; future. We discuss the birth of React, Tom\u2019s move to Vercel, deploying Next apps to non-Vercel hosts, React as the next jQuery, the viability of Web Components, Vercel customers getting surprise bills &amp; so much more.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456196-jsparty\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 9 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://workos.com\">WorkOS</a> \u2013 <strong>A platform that gives developers a set of building blocks for quickly adding enterprise-ready features</strong> to their application. Add Single Sign-On (Okta, Azure, Google, Microsoft OAuth), sync users from any SCIM directory, HRIS integration, audit trails (SIEM), free magic link sign-in. WorkOS is designed for developers and offers a single, elegant interface that abstracts dozens of enterprise integrations. Learn more and get started at <a href=\"https://workos.com/\">WorkOS.com</a>\n</li>\n<li><a href=\"http://notion.com/jsparty\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Tom Occhino &ndash; <a href=\"https://twitter.com/tomocchino\" rel=\"external ugc\">Twitter</a>, <a href=\"https://www.linkedin.com/in/tomocchino\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://www.tomocchino.com\" rel=\"external ugc\">Website</a></li><li>Jerod Santo &ndash; <a href=\"https://changelog.social/@jerod\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/jerodsanto\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/jerodsanto\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/jerodsanto\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://www.youtube.com/watch?v=8pDqJVdNa44\">React.js: The Documentary - YouTube</a></li>\n<li><a href=\"https://changelog.com/podcast/149\">React, React Native, Flux, Relay, GraphQL (Changelog Interviews #149)</a></li>\n<li><a href=\"https://nextjs.org/conf\">Next.js Conf by Vercel</a></li>\n<li><a href=\"https://v0.dev/\">v0 by Vercel</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/jsparty/js-party-345.md\">PRs welcome!</a></p>",
                     "description": "Vercel CPO, Tom Occhino, joins Jerod for a one-on-one covering React & Next's past, present & future. We discuss the birth of React, Tom's move to Vercel, deploying Next apps to non-Vercel hosts, React as the next jQuery, the viability of Web Components, Vercel customers getting surprise bills & so much more.",
                     "enclosure": {
                         "@length": "69401732",
@@ -176,7 +313,7 @@
                     },
                     "itunes:duration": "1:11:47",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -202,6 +339,10 @@
                     "podcast:socialInteract": {
                         "@protocol": "activitypub",
                         "@uri": "https://changelog.social/@jsparty/113443586992224910"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/jsparty/345/transcript"
                     },
                     "psc:chapters": {
                         "@version": "1.1",
@@ -328,7 +469,7 @@
                     },
                     "itunes:duration": "1:00:18",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -488,7 +629,7 @@
                     "title": "Kind of a big deal"
                 },
                 {
-                    "content:encoded": "<p>KBall interviews Jerod about the tools he uses in development, podcasting &amp; business. We start with text editors &amp; terminal tools, move to podcast recording &amp; editing tools, discuss the open source podcasting platform Jerod built in Elixir, then finish with tools to run a small business &amp; our approaches to genAI. Oh, and you don\u2019t want to miss Jerod\u2019s Big Confession!</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456196-jsparty\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 5 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://jam.dev\">Jam.dev</a> \u2013 <strong>One click bug reports developers love</strong> \u2014 Never explain another bug report again. Jam auto-captures all the info engineers need to debug and repro.\n</li>\n<li><a href=\"http://notion.com/changelog\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Kevin Ball &ndash; <a href=\"https://twitter.com/kbal11\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/kball\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/kbal11\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://www.kball.llc\" rel=\"external ugc\">Website</a></li><li>Jerod Santo &ndash; <a href=\"https://changelog.social/@jerod\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/jerodsanto\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/jerodsanto\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/jerodsanto\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://jsparty.fm/278\">Nick\u2019s tool box</a></li>\n<li><a href=\"https://zed.dev/\">Zed Editor</a></li>\n<li><a href=\"https://github.com/tmux/tmux/wiki\">tmux</a></li>\n<li><a href=\"https://github.com/ivaaaan/smug\">Smug</a></li>\n<li><a href=\"http://github.com/thechangelog/changelog.com\">thechangelog/changelog.com</a></li>\n<li><a href=\"https://elixir-lang.org/\">Elixir</a></li>\n<li><a href=\"https://www.phoenixframework.org/\">Phoenix</a></li>\n<li><a href=\"https://github.com/atuinsh/atuin\">Atuin</a></li>\n<li><a href=\"https://riverside.fm\">Riverside</a></li>\n<li><a href=\"https://www.adobe.com/products/audition.html\">Adobe Audition</a></li>\n<li><a href=\"https://transistor.fm/\">Transistor</a></li>\n<li><a href=\"https://www.getharvest.com/\">Harvest</a></li>\n<li><a href=\"https://www.freshbooks.com/\">Freshbooks</a></li>\n<li><a href=\"https://gusto.com/\">Gusto</a></li>\n<li><a href=\"https://ollama.com/\">Ollama</a></li>\n<li><a href=\"https://github.com/AugustDev/enchanted\">Enchanted</a></li>\n<li><a href=\"https://www.cursor.com/\">Cursor</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/jsparty/js-party-343.md\">PRs welcome!</a></p>",
+                    "content:encoded": "<p>KBall interviews Jerod about the tools he uses in development, podcasting &amp; business. We start with text editors &amp; terminal tools, move to podcast recording &amp; editing tools, discuss the open source podcasting platform Jerod built in Elixir, then finish with tools to run a small business &amp; our approaches to genAI. Oh, and you don\u2019t want to miss Jerod\u2019s Big Confession!</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456196-jsparty\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 5 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://jam.dev\">Jam.dev</a> \u2013 <strong>One click bug reports developers love</strong> \u2014 Never explain another bug report again. Jam auto-captures all the info engineers need to debug and repro.\n</li>\n<li><a href=\"http://notion.com/jsparty\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Kevin Ball &ndash; <a href=\"https://twitter.com/kbal11\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/kball\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/kbal11\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://www.kball.llc\" rel=\"external ugc\">Website</a></li><li>Jerod Santo &ndash; <a href=\"https://changelog.social/@jerod\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/jerodsanto\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/jerodsanto\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/jerodsanto\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://jsparty.fm/278\">Nick\u2019s tool box</a></li>\n<li><a href=\"https://zed.dev/\">Zed Editor</a></li>\n<li><a href=\"https://github.com/tmux/tmux/wiki\">tmux</a></li>\n<li><a href=\"https://github.com/ivaaaan/smug\">Smug</a></li>\n<li><a href=\"http://github.com/thechangelog/changelog.com\">thechangelog/changelog.com</a></li>\n<li><a href=\"https://elixir-lang.org/\">Elixir</a></li>\n<li><a href=\"https://www.phoenixframework.org/\">Phoenix</a></li>\n<li><a href=\"https://github.com/atuinsh/atuin\">Atuin</a></li>\n<li><a href=\"https://riverside.fm\">Riverside</a></li>\n<li><a href=\"https://www.adobe.com/products/audition.html\">Adobe Audition</a></li>\n<li><a href=\"https://transistor.fm/\">Transistor</a></li>\n<li><a href=\"https://www.getharvest.com/\">Harvest</a></li>\n<li><a href=\"https://www.freshbooks.com/\">Freshbooks</a></li>\n<li><a href=\"https://gusto.com/\">Gusto</a></li>\n<li><a href=\"https://ollama.com/\">Ollama</a></li>\n<li><a href=\"https://github.com/AugustDev/enchanted\">Enchanted</a></li>\n<li><a href=\"https://www.cursor.com/\">Cursor</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/jsparty/js-party-343.md\">PRs welcome!</a></p>",
                     "description": "KBall interviews Jerod about the tools he uses in development, podcasting & business. We start with text editors & terminal tools, move to podcast recording & editing tools, discuss the open source podcasting platform Jerod built in Elixir, then finish with tools to run a small business & our approaches to genAI. Oh, and you don't want to miss Jerod's Big Confession!",
                     "enclosure": {
                         "@length": "57241450",
@@ -501,7 +642,7 @@
                     },
                     "itunes:duration": "59:02",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -665,7 +806,7 @@
                     },
                     "itunes:duration": "1:01:30",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -752,7 +893,7 @@
                     "title": "A great horse to bet on"
                 },
                 {
-                    "content:encoded": "<p>Tomek Su\u0142kowski from TutorialKit joins Jerod to tell him all about the open source toolkit for creating awesome, interactive tutorials without having to code up the hard parts.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456196-jsparty\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 10 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://workos.com\">WorkOS</a> \u2013 <strong>A platform that gives developers a set of building blocks for quickly adding enterprise-ready features</strong> to their application. Add Single Sign-On (Okta, Azure, Google, Microsoft OAuth), sync users from any SCIM directory, HRIS integration, audit trails (SIEM), free magic link sign-in. WorkOS is designed for developers and offers a single, elegant interface that abstracts dozens of enterprise integrations. Learn more and get started at <a href=\"https://workos.com/\">WorkOS.com</a>\n</li>\n<li><a href=\"http://notion.com/changelog\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Tomek Su\u0142kowski &ndash; <a href=\"https://twitter.com/sulco\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/sulco\" rel=\"external ugc\">GitHub</a></li><li>Jerod Santo &ndash; <a href=\"https://changelog.social/@jerod\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/jerodsanto\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/jerodsanto\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/jerodsanto\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://jsparty.fm/178\">Running Node natively in the browser with Eric Simons from StackBlitz</a></li>\n<li><a href=\"https://tutorialkit.dev/\">TutorialKit</a></li>\n<li><a href=\"https://github.com/stackblitz/tutorialkit\">TutorialKit on GitHub</a></li>\n</ul>\n<h4>TutorialKit in the wild</h4>\n<ul>\n<li><a href=\"https://tutorial-vite-plugin.pages.dev/\">Welcome to the Vite Plugin API tutorial</a></li>\n<li><a href=\"https://learn.remult.dev/\">Welcome to the Remult tutorial</a></li>\n<li><a href=\"https://nextpatterns.dev/\">Welcome to Next Patterns</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/jsparty/js-party-341.md\">PRs welcome!</a></p>",
+                    "content:encoded": "<p>Tomek Su\u0142kowski from TutorialKit joins Jerod to tell him all about the open source toolkit for creating awesome, interactive tutorials without having to code up the hard parts.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456196-jsparty\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 10 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://workos.com\">WorkOS</a> \u2013 <strong>A platform that gives developers a set of building blocks for quickly adding enterprise-ready features</strong> to their application. Add Single Sign-On (Okta, Azure, Google, Microsoft OAuth), sync users from any SCIM directory, HRIS integration, audit trails (SIEM), free magic link sign-in. WorkOS is designed for developers and offers a single, elegant interface that abstracts dozens of enterprise integrations. Learn more and get started at <a href=\"https://workos.com/\">WorkOS.com</a>\n</li>\n<li><a href=\"http://notion.com/jsparty\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Tomek Su\u0142kowski &ndash; <a href=\"https://twitter.com/sulco\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/sulco\" rel=\"external ugc\">GitHub</a></li><li>Jerod Santo &ndash; <a href=\"https://changelog.social/@jerod\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/jerodsanto\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/jerodsanto\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/jerodsanto\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://jsparty.fm/178\">Running Node natively in the browser with Eric Simons from StackBlitz</a></li>\n<li><a href=\"https://tutorialkit.dev/\">TutorialKit</a></li>\n<li><a href=\"https://github.com/stackblitz/tutorialkit\">TutorialKit on GitHub</a></li>\n</ul>\n<h4>TutorialKit in the wild</h4>\n<ul>\n<li><a href=\"https://tutorial-vite-plugin.pages.dev/\">Welcome to the Vite Plugin API tutorial</a></li>\n<li><a href=\"https://learn.remult.dev/\">Welcome to the Remult tutorial</a></li>\n<li><a href=\"https://nextpatterns.dev/\">Welcome to Next Patterns</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/jsparty/js-party-341.md\">PRs welcome!</a></p>",
                     "description": "Tomek Su\u0142kowski from TutorialKit joins Jerod to tell him all about the open source toolkit for creating awesome, interactive tutorials without having to code up the hard parts.",
                     "enclosure": {
                         "@length": "49783114",
@@ -765,7 +906,7 @@
                     },
                     "itunes:duration": "51:20",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -903,7 +1044,7 @@
                     },
                     "itunes:duration": "1:06:16",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -1064,7 +1205,7 @@
                     },
                     "itunes:duration": "1:12:10",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -1217,7 +1358,7 @@
                     },
                     "itunes:duration": "1:07:38",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -1344,7 +1485,7 @@
                     },
                     "itunes:duration": "49:01",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -1475,7 +1616,7 @@
                     },
                     "itunes:duration": "53:15",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -1625,7 +1766,7 @@
                     },
                     "itunes:duration": "56:15",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -1771,7 +1912,7 @@
                     },
                     "itunes:duration": "58:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -1929,7 +2070,7 @@
                     },
                     "itunes:duration": "50:39",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -2088,7 +2229,7 @@
                     },
                     "itunes:duration": "1:21:18",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -2255,7 +2396,7 @@
                     },
                     "itunes:duration": "59:26",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -2396,7 +2537,7 @@
                     },
                     "itunes:duration": "1:22:56",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -2529,7 +2670,7 @@
                     },
                     "itunes:duration": "51:18",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -2656,7 +2797,7 @@
                     },
                     "itunes:duration": "58:20",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -2790,7 +2931,7 @@
                     },
                     "itunes:duration": "1:29:08",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -2954,7 +3095,7 @@
                     },
                     "itunes:duration": "1:06:34",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -3177,7 +3318,7 @@
                     },
                     "itunes:duration": "1:15:05",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -3330,7 +3471,7 @@
                     },
                     "itunes:duration": "57:32",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -3471,7 +3612,7 @@
                     },
                     "itunes:duration": "50:40",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -3622,7 +3763,7 @@
                     },
                     "itunes:duration": "1:07:54",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -3781,7 +3922,7 @@
                     },
                     "itunes:duration": "57:45",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -3934,7 +4075,7 @@
                     },
                     "itunes:duration": "1:28:25",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -4082,7 +4223,7 @@
                     },
                     "itunes:duration": "44:56",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -4224,7 +4365,7 @@
                     },
                     "itunes:duration": "55:24",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -4387,7 +4528,7 @@
                     },
                     "itunes:duration": "1:06:15",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -4516,7 +4657,7 @@
                     },
                     "itunes:duration": "2:03:29",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -4667,7 +4808,7 @@
                     },
                     "itunes:duration": "1:24:20",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -4826,7 +4967,7 @@
                     },
                     "itunes:duration": "56:30",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -4981,7 +5122,7 @@
                     },
                     "itunes:duration": "1:13:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -5178,7 +5319,7 @@
                     },
                     "itunes:duration": "1:11:13",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -5350,7 +5491,7 @@
                     },
                     "itunes:duration": "2:07:15",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -5506,7 +5647,7 @@
                     },
                     "itunes:duration": "1:06:46",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -5640,7 +5781,7 @@
                     },
                     "itunes:duration": "54:39",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -5772,7 +5913,7 @@
                     },
                     "itunes:duration": "06:12",
                     "itunes:episodeType": "bonus",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/episode-2312-original.png?v=63873002495"
                     },
@@ -5826,7 +5967,7 @@
                     },
                     "itunes:duration": "48:47",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/episode-2256-original.jpg?v=63872836914"
                     },
@@ -5969,7 +6110,7 @@
                     },
                     "itunes:duration": "1:44:44",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -6099,7 +6240,7 @@
                     },
                     "itunes:duration": "1:12:21",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -6266,7 +6407,7 @@
                     },
                     "itunes:duration": "1:40:56",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -6426,7 +6567,7 @@
                     },
                     "itunes:duration": "58:53",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -6603,7 +6744,7 @@
                     },
                     "itunes:duration": "1:13:39",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -6730,7 +6871,7 @@
                     },
                     "itunes:duration": "1:14:27",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -6882,7 +7023,7 @@
                     },
                     "itunes:duration": "1:02:27",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -7018,7 +7159,7 @@
                     },
                     "itunes:duration": "1:23:10",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -7245,7 +7386,7 @@
                     },
                     "itunes:duration": "58:18",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -7379,7 +7520,7 @@
                     },
                     "itunes:duration": "54:11",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -7535,7 +7676,7 @@
                     },
                     "itunes:duration": "51:24",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -7683,7 +7824,7 @@
                     },
                     "itunes:duration": "1:23:46",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -7838,7 +7979,7 @@
                     },
                     "itunes:duration": "53:44",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -8023,7 +8164,7 @@
                     },
                     "itunes:duration": "1:40:38",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -8207,7 +8348,7 @@
                     },
                     "itunes:duration": "1:26:47",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -8367,7 +8508,7 @@
                     },
                     "itunes:duration": "1:10:05",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -8536,7 +8677,7 @@
                     },
                     "itunes:duration": "1:01:37",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -8699,7 +8840,7 @@
                     },
                     "itunes:duration": "1:05:15",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -8811,7 +8952,7 @@
                     },
                     "itunes:duration": "1:09:49",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -8962,7 +9103,7 @@
                     },
                     "itunes:duration": "1:04:32",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -9087,7 +9228,7 @@
                     },
                     "itunes:duration": "1:00:18",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -9226,7 +9367,7 @@
                     },
                     "itunes:duration": "1:01:44",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -9341,7 +9482,7 @@
                     },
                     "itunes:duration": "49:56",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/episode-2110-original.jpg?v=63872129220"
                     },
@@ -9479,7 +9620,7 @@
                     },
                     "itunes:duration": "1:00:03",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -9615,7 +9756,7 @@
                     },
                     "itunes:duration": "1:07:04",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -9745,7 +9886,7 @@
                     },
                     "itunes:duration": "1:03:03",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -9874,7 +10015,7 @@
                     },
                     "itunes:duration": "1:01:10",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -10055,7 +10196,7 @@
                     },
                     "itunes:duration": "53:21",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -10175,7 +10316,7 @@
                     },
                     "itunes:duration": "42:25",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -10318,7 +10459,7 @@
                     },
                     "itunes:duration": "1:00:11",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -10467,7 +10608,7 @@
                     },
                     "itunes:duration": "59:56",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -10604,7 +10745,7 @@
                     },
                     "itunes:duration": "1:12:16",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -10746,7 +10887,7 @@
                     },
                     "itunes:duration": "55:50",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -10887,7 +11028,7 @@
                     },
                     "itunes:duration": "57:30",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -11038,7 +11179,7 @@
                     },
                     "itunes:duration": "1:14:12",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -11186,7 +11327,7 @@
                     },
                     "itunes:duration": "1:02:06",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -11336,7 +11477,7 @@
                     },
                     "itunes:duration": "49:59",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -11467,7 +11608,7 @@
                     },
                     "itunes:duration": "1:03:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -11577,7 +11718,7 @@
                     },
                     "itunes:duration": "1:10:01",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -11769,7 +11910,7 @@
                     },
                     "itunes:duration": "1:00:25",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -11912,7 +12053,7 @@
                     },
                     "itunes:duration": "1:03:56",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -12057,7 +12198,7 @@
                     },
                     "itunes:duration": "56:56",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -12199,7 +12340,7 @@
                     },
                     "itunes:duration": "56:09",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -12333,7 +12474,7 @@
                     },
                     "itunes:duration": "51:10",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/episode-1971-original.jpg?v=63872129382"
                     },
@@ -12478,7 +12619,7 @@
                     },
                     "itunes:duration": "1:18:24",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -12605,7 +12746,7 @@
                     },
                     "itunes:duration": "59:31",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -12750,7 +12891,7 @@
                     },
                     "itunes:duration": "53:37",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -12881,7 +13022,7 @@
                     },
                     "itunes:duration": "52:01",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -13037,7 +13178,7 @@
                     },
                     "itunes:duration": "51:33",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -13208,7 +13349,7 @@
                     },
                     "itunes:duration": "52:03",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -13376,7 +13517,7 @@
                     },
                     "itunes:duration": "1:17:49",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -13602,7 +13743,7 @@
                     },
                     "itunes:duration": "54:38",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -13767,7 +13908,7 @@
                     },
                     "itunes:duration": "52:31",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -13924,7 +14065,7 @@
                     },
                     "itunes:duration": "56:32",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -14073,7 +14214,7 @@
                     },
                     "itunes:duration": "1:02:04",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -14268,7 +14409,7 @@
                     },
                     "itunes:duration": "1:01:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -14433,7 +14574,7 @@
                     },
                     "itunes:duration": "1:31:22",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -14646,7 +14787,7 @@
                     },
                     "itunes:duration": "1:03:59",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -14819,7 +14960,7 @@
                     },
                     "itunes:duration": "52:45",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -15036,7 +15177,7 @@
                     },
                     "itunes:duration": "1:02:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -15230,7 +15371,7 @@
                     },
                     "itunes:duration": "1:10:21",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -15405,7 +15546,7 @@
                     },
                     "itunes:duration": "1:06:03",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -15554,7 +15695,7 @@
                     },
                     "itunes:duration": "1:02:26",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -15711,7 +15852,7 @@
                     },
                     "itunes:duration": "1:03:07",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -15891,7 +16032,7 @@
                     },
                     "itunes:duration": "1:06:36",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -16015,7 +16156,7 @@
                     },
                     "itunes:duration": "57:34",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -16178,7 +16319,7 @@
                     },
                     "itunes:duration": "1:09:57",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -16324,7 +16465,7 @@
                     },
                     "itunes:duration": "1:00:24",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -16464,7 +16605,7 @@
                     },
                     "itunes:duration": "1:04:25",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -16624,7 +16765,7 @@
                     },
                     "itunes:duration": "1:00:04",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -16782,7 +16923,7 @@
                     },
                     "itunes:duration": "1:02:46",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -16950,7 +17091,7 @@
                     },
                     "itunes:duration": "58:06",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -17075,7 +17216,7 @@
                     },
                     "itunes:duration": "58:01",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/episode-1677-original.jpg?v=63872836982"
                     },
@@ -17217,7 +17358,7 @@
                     },
                     "itunes:duration": "47:47",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -17352,7 +17493,7 @@
                     },
                     "itunes:duration": "59:50",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -17483,7 +17624,7 @@
                     },
                     "itunes:duration": "56:58",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -17582,7 +17723,7 @@
                     },
                     "itunes:duration": "1:11:24",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -17687,7 +17828,7 @@
                     },
                     "itunes:duration": "1:03:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -17792,7 +17933,7 @@
                     },
                     "itunes:duration": "1:02:46",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -17891,7 +18032,7 @@
                     },
                     "itunes:duration": "1:16:57",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -18038,7 +18179,7 @@
                     },
                     "itunes:duration": "1:11:54",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -18090,7 +18231,7 @@
                     },
                     "itunes:duration": "1:00:10",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -18136,7 +18277,7 @@
                     },
                     "itunes:duration": "1:11:59",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -18176,7 +18317,7 @@
                     },
                     "itunes:duration": "55:16",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -18228,7 +18369,7 @@
                     },
                     "itunes:duration": "50:56",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -18280,7 +18421,7 @@
                     },
                     "itunes:duration": "1:06:50",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -18332,7 +18473,7 @@
                     },
                     "itunes:duration": "50:06",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -18372,7 +18513,7 @@
                     },
                     "itunes:duration": "01:30",
                     "itunes:episodeType": "trailer",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -18456,7 +18597,7 @@
                     },
                     "itunes:duration": "55:15",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -18496,7 +18637,7 @@
                     },
                     "itunes:duration": "1:03:51",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -18554,7 +18695,7 @@
                     },
                     "itunes:duration": "53:23",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -18600,7 +18741,7 @@
                     },
                     "itunes:duration": "58:25",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -18646,7 +18787,7 @@
                     },
                     "itunes:duration": "1:13:43",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -18692,7 +18833,7 @@
                     },
                     "itunes:duration": "1:13:01",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -18744,7 +18885,7 @@
                     },
                     "itunes:duration": "54:46",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -18796,7 +18937,7 @@
                     },
                     "itunes:duration": "1:08:12",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -18854,7 +18995,7 @@
                     },
                     "itunes:duration": "1:14:09",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -18900,7 +19041,7 @@
                     },
                     "itunes:duration": "55:14",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -18952,7 +19093,7 @@
                     },
                     "itunes:duration": "1:09:25",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -19004,7 +19145,7 @@
                     },
                     "itunes:duration": "1:06:27",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -19050,7 +19191,7 @@
                     },
                     "itunes:duration": "57:38",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -19096,7 +19237,7 @@
                     },
                     "itunes:duration": "53:40",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -19172,7 +19313,7 @@
                     },
                     "itunes:duration": "1:05:58",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/episode-1505-original.jpg?v=63872837002"
                     },
@@ -19242,7 +19383,7 @@
                     },
                     "itunes:duration": "1:09:08",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -19288,7 +19429,7 @@
                     },
                     "itunes:duration": "1:07:03",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -19334,7 +19475,7 @@
                     },
                     "itunes:duration": "1:05:36",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -19380,7 +19521,7 @@
                     },
                     "itunes:duration": "1:07:17",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -19426,7 +19567,7 @@
                     },
                     "itunes:duration": "1:14:09",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -19472,7 +19613,7 @@
                     },
                     "itunes:duration": "56:48",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -19632,7 +19773,7 @@
                     },
                     "itunes:duration": "56:35",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -19672,7 +19813,7 @@
                     },
                     "itunes:duration": "00:46",
                     "itunes:episodeType": "bonus",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -19700,7 +19841,7 @@
                     },
                     "itunes:duration": "1:14:58",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -19746,7 +19887,7 @@
                     },
                     "itunes:duration": "1:05:43",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -19792,7 +19933,7 @@
                     },
                     "itunes:duration": "54:35",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -19832,7 +19973,7 @@
                     },
                     "itunes:duration": "58:18",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -19884,7 +20025,7 @@
                     },
                     "itunes:duration": "1:12:41",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -19936,7 +20077,7 @@
                     },
                     "itunes:duration": "56:18",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -19988,7 +20129,7 @@
                     },
                     "itunes:duration": "54:10",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/episode-1414-original.jpg?v=63872837020"
                     },
@@ -20058,7 +20199,7 @@
                     },
                     "itunes:duration": "1:05:30",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -20110,7 +20251,7 @@
                     },
                     "itunes:duration": "1:00:23",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -20162,7 +20303,7 @@
                     },
                     "itunes:duration": "1:19:21",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -20214,7 +20355,7 @@
                     },
                     "itunes:duration": "58:52",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -20260,7 +20401,7 @@
                     },
                     "itunes:duration": "58:59",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -20312,7 +20453,7 @@
                     },
                     "itunes:duration": "1:08:38",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -20358,7 +20499,7 @@
                     },
                     "itunes:duration": "1:12:05",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -20410,7 +20551,7 @@
                     },
                     "itunes:duration": "51:24",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -20456,7 +20597,7 @@
                     },
                     "itunes:duration": "50:32",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -20502,7 +20643,7 @@
                     },
                     "itunes:duration": "56:28",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -20554,7 +20695,7 @@
                     },
                     "itunes:duration": "58:23",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -20600,7 +20741,7 @@
                     },
                     "itunes:duration": "1:10:19",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -20646,7 +20787,7 @@
                     },
                     "itunes:duration": "1:04:45",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -20686,7 +20827,7 @@
                     },
                     "itunes:duration": "52:50",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -20738,7 +20879,7 @@
                     },
                     "itunes:duration": "58:14",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -20784,7 +20925,7 @@
                     },
                     "itunes:duration": "1:00:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -20830,7 +20971,7 @@
                     },
                     "itunes:duration": "59:24",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -20876,7 +21017,7 @@
                     },
                     "itunes:duration": "1:02:30",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -20928,7 +21069,7 @@
                     },
                     "itunes:duration": "47:32",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -20980,7 +21121,7 @@
                     },
                     "itunes:duration": "55:53",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -21026,7 +21167,7 @@
                     },
                     "itunes:duration": "1:09:24",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -21072,7 +21213,7 @@
                     },
                     "itunes:duration": "54:03",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -21112,7 +21253,7 @@
                     },
                     "itunes:duration": "56:36",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -21158,7 +21299,7 @@
                     },
                     "itunes:duration": "57:11",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -21204,7 +21345,7 @@
                     },
                     "itunes:duration": "54:59",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -21250,7 +21391,7 @@
                     },
                     "itunes:duration": "46:52",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -21308,7 +21449,7 @@
                     },
                     "itunes:duration": "1:00:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -21360,7 +21501,7 @@
                     },
                     "itunes:duration": "1:08:18",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -21412,7 +21553,7 @@
                     },
                     "itunes:duration": "1:04:43",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -21458,7 +21599,7 @@
                     },
                     "itunes:duration": "49:54",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -21516,7 +21657,7 @@
                     },
                     "itunes:duration": "56:04",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -21562,7 +21703,7 @@
                     },
                     "itunes:duration": "1:04:28",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -21608,7 +21749,7 @@
                     },
                     "itunes:duration": "1:10:32",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -21648,7 +21789,7 @@
                     },
                     "itunes:duration": "1:04:12",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -21694,7 +21835,7 @@
                     },
                     "itunes:duration": "57:25",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -21758,7 +21899,7 @@
                     },
                     "itunes:duration": "1:03:40",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -21804,7 +21945,7 @@
                     },
                     "itunes:duration": "1:06:10",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -21856,7 +21997,7 @@
                     },
                     "itunes:duration": "1:04:30",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -21908,7 +22049,7 @@
                     },
                     "itunes:duration": "53:48",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -21954,7 +22095,7 @@
                     },
                     "itunes:duration": "1:13:26",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -22006,7 +22147,7 @@
                     },
                     "itunes:duration": "51:37",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/episode-1074-original.jpg?v=63872837035"
                     },
@@ -22076,7 +22217,7 @@
                     },
                     "itunes:duration": "1:08:50",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -22134,7 +22275,7 @@
                     },
                     "itunes:duration": "1:09:40",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -22186,7 +22327,7 @@
                     },
                     "itunes:duration": "1:10:56",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -22238,7 +22379,7 @@
                     },
                     "itunes:duration": "43:45",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/episode-1055-original.jpg?v=63872837053"
                     },
@@ -22308,7 +22449,7 @@
                     },
                     "itunes:duration": "1:08:23",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -22354,7 +22495,7 @@
                     },
                     "itunes:duration": "52:37",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -22406,7 +22547,7 @@
                     },
                     "itunes:duration": "1:02:55",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -22458,7 +22599,7 @@
                     },
                     "itunes:duration": "1:09:34",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -22504,7 +22645,7 @@
                     },
                     "itunes:duration": "36:38",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -22556,7 +22697,7 @@
                     },
                     "itunes:duration": "55:36",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -22602,7 +22743,7 @@
                     },
                     "itunes:duration": "50:11",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -22654,7 +22795,7 @@
                     },
                     "itunes:duration": "1:19:18",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -22706,7 +22847,7 @@
                     },
                     "itunes:duration": "47:40",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -22758,7 +22899,7 @@
                     },
                     "itunes:duration": "1:10:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -22804,7 +22945,7 @@
                     },
                     "itunes:duration": "1:07:44",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -22856,7 +22997,7 @@
                     },
                     "itunes:duration": "46:57",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -22908,7 +23049,7 @@
                     },
                     "itunes:duration": "54:13",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -22954,7 +23095,7 @@
                     },
                     "itunes:duration": "47:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -22994,7 +23135,7 @@
                     },
                     "itunes:duration": "57:32",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -23040,7 +23181,7 @@
                     },
                     "itunes:duration": "1:07:12",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -23086,7 +23227,7 @@
                     },
                     "itunes:duration": "54:40",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -23132,7 +23273,7 @@
                     },
                     "itunes:duration": "1:13:13",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -23184,7 +23325,7 @@
                     },
                     "itunes:duration": "1:02:47",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -23230,7 +23371,7 @@
                     },
                     "itunes:duration": "1:04:14",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -23276,7 +23417,7 @@
                     },
                     "itunes:duration": "1:04:05",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -23328,7 +23469,7 @@
                     },
                     "itunes:duration": "51:44",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -23374,7 +23515,7 @@
                     },
                     "itunes:duration": "48:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -23426,7 +23567,7 @@
                     },
                     "itunes:duration": "1:05:22",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -23478,7 +23619,7 @@
                     },
                     "itunes:duration": "1:17:34",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -23524,7 +23665,7 @@
                     },
                     "itunes:duration": "44:42",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -23570,7 +23711,7 @@
                     },
                     "itunes:duration": "59:11",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -23622,7 +23763,7 @@
                     },
                     "itunes:duration": "1:22:20",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -23674,7 +23815,7 @@
                     },
                     "itunes:duration": "1:00:45",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -23720,7 +23861,7 @@
                     },
                     "itunes:duration": "1:03:50",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -23772,7 +23913,7 @@
                     },
                     "itunes:duration": "01:30",
                     "itunes:episodeType": "trailer",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -23850,7 +23991,7 @@
                     },
                     "itunes:duration": "44:42",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -23890,7 +24031,7 @@
                     },
                     "itunes:duration": "55:37",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -23942,7 +24083,7 @@
                     },
                     "itunes:duration": "1:01:19",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -23994,7 +24135,7 @@
                     },
                     "itunes:duration": "30:18",
                     "itunes:episodeType": "bonus",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -24030,7 +24171,7 @@
                     },
                     "itunes:duration": "51:30",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -24076,7 +24217,7 @@
                     },
                     "itunes:duration": "58:50",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -24128,7 +24269,7 @@
                     },
                     "itunes:duration": "1:07:26",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -24174,7 +24315,7 @@
                     },
                     "itunes:duration": "56:50",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -24226,7 +24367,7 @@
                     },
                     "itunes:duration": "1:06:28",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -24296,7 +24437,7 @@
                     },
                     "itunes:duration": "1:10:56",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -24354,7 +24495,7 @@
                     },
                     "itunes:duration": "55:20",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -24400,7 +24541,7 @@
                     },
                     "itunes:duration": "48:16",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -24452,7 +24593,7 @@
                     },
                     "itunes:duration": "52:55",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -24492,7 +24633,7 @@
                     },
                     "itunes:duration": "54:45",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -24538,7 +24679,7 @@
                     },
                     "itunes:duration": "51:50",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -24584,7 +24725,7 @@
                     },
                     "itunes:duration": "55:20",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -24630,7 +24771,7 @@
                     },
                     "itunes:duration": "47:38",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -24688,7 +24829,7 @@
                     },
                     "itunes:duration": "1:18:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -24812,7 +24953,7 @@
                     },
                     "itunes:duration": "45:27",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -24852,7 +24993,7 @@
                     },
                     "itunes:duration": "54:04",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -24898,7 +25039,7 @@
                     },
                     "itunes:duration": "1:09:55",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -24944,7 +25085,7 @@
                     },
                     "itunes:duration": "38:33",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -24990,7 +25131,7 @@
                     },
                     "itunes:duration": "01:30",
                     "itunes:episodeType": "bonus",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -25018,7 +25159,7 @@
                     },
                     "itunes:duration": "52:51",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -25064,7 +25205,7 @@
                     },
                     "itunes:duration": "57:30",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -25116,7 +25257,7 @@
                     },
                     "itunes:duration": "1:04:22",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -25168,7 +25309,7 @@
                     },
                     "itunes:duration": "1:06:45",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -25220,7 +25361,7 @@
                     },
                     "itunes:duration": "1:05:26",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -25266,7 +25407,7 @@
                     },
                     "itunes:duration": "1:05:03",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -25312,7 +25453,7 @@
                     },
                     "itunes:duration": "56:17",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -25364,7 +25505,7 @@
                     },
                     "itunes:duration": "49:57",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -25410,7 +25551,7 @@
                     },
                     "itunes:duration": "53:48",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -25468,7 +25609,7 @@
                     },
                     "itunes:duration": "1:06:38",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -25514,7 +25655,7 @@
                     },
                     "itunes:duration": "27:23",
                     "itunes:episodeType": "bonus",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -25568,7 +25709,7 @@
                     },
                     "itunes:duration": "1:02:49",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -25620,7 +25761,7 @@
                     },
                     "itunes:duration": "45:54",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -25660,7 +25801,7 @@
                     },
                     "itunes:duration": "1:02:27",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -25706,7 +25847,7 @@
                     },
                     "itunes:duration": "35:29",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -25764,7 +25905,7 @@
                     },
                     "itunes:duration": "54:01",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -25810,7 +25951,7 @@
                     },
                     "itunes:duration": "1:04:35",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -25862,7 +26003,7 @@
                     },
                     "itunes:duration": "1:06:38",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -25908,7 +26049,7 @@
                     },
                     "itunes:duration": "57:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -25960,7 +26101,7 @@
                     },
                     "itunes:duration": "1:17:12",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26012,7 +26153,7 @@
                     },
                     "itunes:duration": "53:05",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26058,7 +26199,7 @@
                     },
                     "itunes:duration": "33:29",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26110,7 +26251,7 @@
                     },
                     "itunes:duration": "59:52",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26156,7 +26297,7 @@
                     },
                     "itunes:duration": "1:15:41",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26202,7 +26343,7 @@
                     },
                     "itunes:duration": "42:27",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26266,7 +26407,7 @@
                     },
                     "itunes:duration": "1:10:23",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26306,7 +26447,7 @@
                     },
                     "itunes:duration": "57:12",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26352,7 +26493,7 @@
                     },
                     "itunes:duration": "59:47",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26398,7 +26539,7 @@
                     },
                     "itunes:duration": "57:52",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26450,7 +26591,7 @@
                     },
                     "itunes:duration": "1:02:09",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26496,7 +26637,7 @@
                     },
                     "itunes:duration": "56:19",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26542,7 +26683,7 @@
                     },
                     "itunes:duration": "1:22:26",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26588,7 +26729,7 @@
                     },
                     "itunes:duration": "1:04:03",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26634,7 +26775,7 @@
                     },
                     "itunes:duration": "36:49",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26692,7 +26833,7 @@
                     },
                     "itunes:duration": "1:04:44",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26744,7 +26885,7 @@
                     },
                     "itunes:duration": "55:41",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26790,7 +26931,7 @@
                     },
                     "itunes:duration": "1:01:44",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26836,7 +26977,7 @@
                     },
                     "itunes:duration": "1:02:26",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26882,7 +27023,7 @@
                     },
                     "itunes:duration": "45:45",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26934,7 +27075,7 @@
                     },
                     "itunes:duration": "1:09:45",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -26980,7 +27121,7 @@
                     },
                     "itunes:duration": "1:08:30",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -27032,7 +27173,7 @@
                     },
                     "itunes:duration": "44:59",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -27078,7 +27219,7 @@
                     },
                     "itunes:duration": "55:15",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -27124,7 +27265,7 @@
                     },
                     "itunes:duration": "1:08:31",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -27170,7 +27311,7 @@
                     },
                     "itunes:duration": "58:00",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -27222,7 +27363,7 @@
                     },
                     "itunes:duration": "1:02:33",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -27262,7 +27403,7 @@
                     },
                     "itunes:duration": "54:30",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -27314,7 +27455,7 @@
                     },
                     "itunes:duration": "1:05:35",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -27366,7 +27507,7 @@
                     },
                     "itunes:duration": "50:30",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -27424,7 +27565,7 @@
                     },
                     "itunes:duration": "1:10:31",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -27464,7 +27605,7 @@
                     },
                     "itunes:duration": "58:42",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -27516,7 +27657,7 @@
                     },
                     "itunes:duration": "1:00:02",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -27568,7 +27709,7 @@
                     },
                     "itunes:duration": "1:05:59",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -27620,7 +27761,7 @@
                     },
                     "itunes:duration": "1:28:55",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -27678,7 +27819,7 @@
                     },
                     "itunes:duration": "1:07:15",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -27724,7 +27865,7 @@
                     },
                     "itunes:duration": "52:43",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -27764,7 +27905,7 @@
                     },
                     "itunes:duration": "49:20",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -27816,7 +27957,7 @@
                     },
                     "itunes:duration": "1:07:17",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -27868,7 +28009,7 @@
                     },
                     "itunes:duration": "1:04:26",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -27914,7 +28055,7 @@
                     },
                     "itunes:duration": "53:43",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -27966,7 +28107,7 @@
                     },
                     "itunes:duration": "23:28",
                     "itunes:episodeType": "bonus",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28012,7 +28153,7 @@
                     },
                     "itunes:duration": "1:03:24",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28058,7 +28199,7 @@
                     },
                     "itunes:duration": "27:02",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28098,7 +28239,7 @@
                     },
                     "itunes:duration": "1:02:11",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28150,7 +28291,7 @@
                     },
                     "itunes:duration": "58:28",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28196,7 +28337,7 @@
                     },
                     "itunes:duration": "1:01:57",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28242,7 +28383,7 @@
                     },
                     "itunes:duration": "1:06:52",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28294,7 +28435,7 @@
                     },
                     "itunes:duration": "1:11:33",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28340,7 +28481,7 @@
                     },
                     "itunes:duration": "1:04:26",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28386,7 +28527,7 @@
                     },
                     "itunes:duration": "53:44",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28438,7 +28579,7 @@
                     },
                     "itunes:duration": "57:58",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28490,7 +28631,7 @@
                     },
                     "itunes:duration": "59:08",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28536,7 +28677,7 @@
                     },
                     "itunes:duration": "1:06:24",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28588,7 +28729,7 @@
                     },
                     "itunes:duration": "54:24",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28640,7 +28781,7 @@
                     },
                     "itunes:duration": "54:51",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28692,7 +28833,7 @@
                     },
                     "itunes:duration": "56:25",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28744,7 +28885,7 @@
                     },
                     "itunes:duration": "54:47",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28796,7 +28937,7 @@
                     },
                     "itunes:duration": "48:34",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28848,7 +28989,7 @@
                     },
                     "itunes:duration": "41:47",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28894,7 +29035,7 @@
                     },
                     "itunes:duration": "55:07",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28940,7 +29081,7 @@
                     },
                     "itunes:duration": "55:52",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -28986,7 +29127,7 @@
                     },
                     "itunes:duration": "1:09:28",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -29032,7 +29173,7 @@
                     },
                     "itunes:duration": "1:10:42",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -29078,7 +29219,7 @@
                     },
                     "itunes:duration": "46:27",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -29130,7 +29271,7 @@
                     },
                     "itunes:duration": "54:54",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -29194,7 +29335,7 @@
                     },
                     "itunes:duration": "1:05:05",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -29240,7 +29381,7 @@
                     },
                     "itunes:duration": "1:03:34",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -29286,7 +29427,7 @@
                     },
                     "itunes:duration": "1:10:25",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -29338,7 +29479,7 @@
                     },
                     "itunes:duration": "1:01:01",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -29384,7 +29525,7 @@
                     },
                     "itunes:duration": "53:54",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -29430,7 +29571,7 @@
                     },
                     "itunes:duration": "58:30",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -29476,7 +29617,7 @@
                     },
                     "itunes:duration": "56:58",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -29522,7 +29663,7 @@
                     },
                     "itunes:duration": "1:01:56",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -29568,7 +29709,7 @@
                     },
                     "itunes:duration": "1:01:55",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -29620,7 +29761,7 @@
                     },
                     "itunes:duration": "58:08",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -29666,7 +29807,7 @@
                     },
                     "itunes:duration": "55:32",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -29712,7 +29853,7 @@
                     },
                     "itunes:duration": "56:47",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -29758,7 +29899,7 @@
                     },
                     "itunes:duration": "29:10",
                     "itunes:episodeType": "bonus",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -29804,7 +29945,7 @@
                     },
                     "itunes:duration": "37:46",
                     "itunes:episodeType": "bonus",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -29850,7 +29991,7 @@
                     },
                     "itunes:duration": "37:51",
                     "itunes:episodeType": "bonus",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:image": {
                         "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
                     },
@@ -29887,7 +30028,7 @@
             "itunes:category": {
                 "@text": "Technology"
             },
-            "itunes:explicit": "no",
+            "itunes:explicit": "false",
             "itunes:image": {
                 "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
             },

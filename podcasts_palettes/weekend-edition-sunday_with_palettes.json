@@ -10,7 +10,7 @@
         "@xmlns:podcast": "https://podcastindex.org/namespace/1.0",
         "channel": {
             "atom:link": {
-                "@href": "http://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml",
+                "@href": "https://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml",
                 "@rel": "self",
                 "@type": "application/rss+xml"
             },
@@ -26,6 +26,278 @@
                 "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
             },
             "item": [
+                {
+                    "author": "Will Shortz",
+                    "description": "NPR's Ayesha Rascoe plays the puzzle with Puzzlemaster Will Shortz and KUT listener Dan Tatje of Georgetown, Texas.",
+                    "enclosure": {
+                        "@length": "6264000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241117_wesun_sunday_puzzle_it_takes_two_or_three.mp3?size=5575202&d=348397&e=nx-s1-5185241"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-104208",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Will Shortz",
+                    "itunes:duration": "00:05:48",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/b85ffc5aab8c43d1c81d89cbdc0de869.png?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Sunday Puzzle: It takes two (or three)",
+                    "itunes:summary": "NPR's Ayesha Rascoe plays the puzzle with Puzzlemaster Will Shortz and KUT listener Dan Tatje of Georgetown, Texas.",
+                    "itunes:title": "Sunday Puzzle: It takes two (or three)",
+                    "link": "https://www.kuow.org/stories/sunday-puzzle-it-takes-two-or-three",
+                    "pubDate": "Sun, 17 Nov 2024 05:15:17 -0800",
+                    "title": "Sunday Puzzle: It takes two (or three)"
+                },
+                {
+                    "author": "Julia Simon",
+                    "description": "President-elect Trump has picked oil executive Chris Wright for his nominee for Secretary of Energy. The Trump administration is expected to shift the department's focus away from clean energy initiatives championed under Biden.",
+                    "enclosure": {
+                        "@length": "2214000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241117_wesun_trump_taps_oil_executive_chris_wright_as_secretary_of_energy.mp3?size=1980335&d=123742&e=nx-s1-5193885"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-104204",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Julia Simon",
+                    "itunes:duration": "00:02:03",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Trump taps oil executive Chris Wright as Secretary of Energy",
+                    "itunes:summary": "President-elect Trump has picked oil executive Chris Wright for his nominee for Secretary of Energy. The Trump administration is expected to shift the department's focus away from clean energy initiatives championed under Biden.",
+                    "itunes:title": "Trump taps oil executive Chris Wright as Secretary of Energy",
+                    "link": "https://www.kuow.org/stories/trump-taps-oil-executive-chris-wright-as-secretary-of-energy",
+                    "pubDate": "Sun, 17 Nov 2024 05:14:06 -0800",
+                    "title": "Trump taps oil executive Chris Wright as Secretary of Energy"
+                },
+                {
+                    "author": "Jane Arraf",
+                    "description": "Amid Israeli airstrikes in Lebanon, an animal group in Beirut rescued a baby lion cub and sent it to safety.",
+                    "enclosure": {
+                        "@length": "4194000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241117_wesun_amid_airstrikes_an_animal_rescue_mission_in_lebanon_sends_a_baby_lion_cub_to_safety.mp3?size=3732838&d=233253&e=nx-s1-5193279"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-104207",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Jane Arraf",
+                    "itunes:duration": "00:03:53",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Amid airstrikes, an animal rescue mission in Lebanon sends a baby lion cub to safety",
+                    "itunes:summary": "Amid Israeli airstrikes in Lebanon, an animal group in Beirut rescued a baby lion cub and sent it to safety.",
+                    "itunes:title": "Amid airstrikes, an animal rescue mission in Lebanon sends a baby lion cub to safety",
+                    "link": "https://www.kuow.org/stories/amid-airstrikes-an-animal-rescue-mission-in-lebanon-sends-a-baby-lion-cub-to-safety",
+                    "pubDate": "Sun, 17 Nov 2024 05:14:02 -0800",
+                    "title": "Amid airstrikes, an animal rescue mission in Lebanon sends a baby lion cub to safety"
+                },
+                {
+                    "author": [
+                        "Ryan Lucas",
+                        "Ayesha Rascoe"
+                    ],
+                    "description": "Matt Gaetz resigned from Congress ahead of the release of an ethics report about him but still faces hurdles for confirmation for Attorney General.",
+                    "enclosure": {
+                        "@length": "4770000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241117_wesun_matt_gaetz_s_road_to_attorney_general_may_not_be_completely_in_the_clear.mp3?size=4252779&d=265751&e=nx-s1-5192642"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-104210",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Ryan Lucas",
+                        "Ayesha Rascoe"
+                    ],
+                    "itunes:duration": "00:04:25",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Matt Gaetz's road to Attorney General may not be completely in the clear",
+                    "itunes:summary": "Matt Gaetz resigned from Congress ahead of the release of an ethics report about him but still faces hurdles for confirmation for Attorney General.",
+                    "itunes:title": "Matt Gaetz's road to Attorney General may not be completely in the clear",
+                    "link": "https://www.kuow.org/stories/matt-gaetz-s-road-to-attorney-general-may-not-be-completely-in-the-clear",
+                    "pubDate": "Sun, 17 Nov 2024 05:13:59 -0800",
+                    "title": "Matt Gaetz's road to Attorney General may not be completely in the clear"
+                },
+                {
+                    "author": [
+                        "Ayesha Rascoe",
+                        "Sarah Varney"
+                    ],
+                    "description": "Arguments began last week in a lawsuit challenging Idaho's abortion ban, one of the strictest in the country. We'll hear from some of the plaintiffs and the state attorney.",
+                    "enclosure": {
+                        "@length": "5724000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241117_wesun_idaho_s_abortion_ban_one_of_the_strictest_in_the_u.s._is_being_challenged_in_court.mp3?size=5100818&d=318757&e=nx-s1-5192608"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-104209",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Ayesha Rascoe",
+                        "Sarah Varney"
+                    ],
+                    "itunes:duration": "00:05:18",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Idaho's abortion ban, one of the strictest in the U.S., is being challenged in court",
+                    "itunes:summary": "Arguments began last week in a lawsuit challenging Idaho's abortion ban, one of the strictest in the country. We'll hear from some of the plaintiffs and the state attorney.",
+                    "itunes:title": "Idaho's abortion ban, one of the strictest in the U.S., is being challenged in court",
+                    "link": "https://www.kuow.org/stories/idaho-s-abortion-ban-one-of-the-strictest-in-the-u-s-is-being-challenged-in-court",
+                    "pubDate": "Sun, 17 Nov 2024 05:13:55 -0800",
+                    "title": "Idaho's abortion ban, one of the strictest in the U.S., is being challenged in court"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "What will President-elect Donald Trump's return to the White House mean for US - China relations? NPR's Ayesha Rascoe talks to Ryan Hass, a China expert at the Brookings Institution.",
+                    "enclosure": {
+                        "@length": "5994000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241117_wesun_trump_has_vowed_to_take_an_aggressive_approach_to_china._what_would_that_mean.mp3?size=5332368&d=333241&e=nx-s1-5191890"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-104211",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:05:33",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Trump has vowed to take an aggressive approach to China. What would that mean?",
+                    "itunes:summary": "What will President-elect Donald Trump's return to the White House mean for US - China relations? NPR's Ayesha Rascoe talks to Ryan Hass, a China expert at the Brookings Institution.",
+                    "itunes:title": "Trump has vowed to take an aggressive approach to China. What would that mean?",
+                    "link": "https://www.kuow.org/stories/trump-has-vowed-to-take-an-aggressive-approach-to-china-what-would-that-mean",
+                    "pubDate": "Sun, 17 Nov 2024 05:13:52 -0800",
+                    "title": "Trump has vowed to take an aggressive approach to China. What would that mean?"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "NPR's Ayesha Rascoe speaks with New York City Council Member Chi Oss\u00e9 about his FARE act, which shifts the responsibility for broker fees from the tenant to the landlord in many cases.",
+                    "enclosure": {
+                        "@length": "4986000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241117_wesun_a_new_law_in_new_york_does_away_with_broker_fees.mp3?size=4437935&d=277331&e=nx-s1-5191505"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-104212",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:04:37",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "A new law in New York will do away with broker fees",
+                    "itunes:summary": "NPR's Ayesha Rascoe speaks with New York City Council Member Chi Oss\u00e9 about his FARE act, which shifts the responsibility for broker fees from the tenant to the landlord in many cases.",
+                    "itunes:title": "A new law in New York will do away with broker fees",
+                    "link": "https://www.kuow.org/stories/a-new-law-in-new-york-will-do-away-with-broker-fees",
+                    "pubDate": "Sun, 17 Nov 2024 05:13:49 -0800",
+                    "title": "A new law in New York will do away with broker fees"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "NPR's Ayesha Rascoe asks the Urban-Brookings Tax Policy Center's Janet Holtzblatt about funding for the Internal Revenue Service.",
+                    "enclosure": {
+                        "@length": "5778000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241117_wesun_key_irs_funds_dry_out_in_2026._what_can_we_expect_for_its_future.mp3?size=5151391&d=321930&e=nx-s1-5191842"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-104205",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:05:21",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Key IRS funds dry out in 2026. What can we expect for its future?",
+                    "itunes:summary": "NPR's Ayesha Rascoe asks the Urban-Brookings Tax Policy Center's Janet Holtzblatt about funding for the Internal Revenue Service.",
+                    "itunes:title": "Key IRS funds dry out in 2026. What can we expect for its future?",
+                    "link": "https://www.kuow.org/stories/key-irs-funds-dry-out-in-2026-what-can-we-expect-for-its-future",
+                    "pubDate": "Sun, 17 Nov 2024 05:13:45 -0800",
+                    "title": "Key IRS funds dry out in 2026. What can we expect for its future?"
+                },
+                {
+                    "author": "Abu Bakr Bashir",
+                    "description": "A nurse is fostering a baby from Gaza whose family was killed and whose identity has been lost.",
+                    "enclosure": {
+                        "@length": "6174000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241117_wesun_in_gaza_a_nurse_takes_in_an_orphaned_baby_too_young_to_know_who_she_is.mp3?size=5494536&d=343363&e=nx-s1-5180021"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-104206",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Abu Bakr Bashir",
+                    "itunes:duration": "00:05:43",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "In Gaza, a nurse takes in an orphaned baby too young to know who she is",
+                    "itunes:summary": "A nurse is fostering a baby from Gaza whose family was killed and whose identity has been lost.",
+                    "itunes:title": "In Gaza, a nurse takes in an orphaned baby too young to know who she is",
+                    "link": "https://www.kuow.org/stories/in-gaza-a-nurse-takes-in-an-orphaned-baby-too-young-to-know-who-she-is",
+                    "pubDate": "Sun, 17 Nov 2024 05:13:42 -0800",
+                    "title": "In Gaza, a nurse takes in an orphaned baby too young to know who she is"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "What does it take to be the sexiest collard farmer in North Carolina? Lee Berry, the reigning champ and current competitor in the contest's 2nd year, explains.",
+                    "enclosure": {
+                        "@length": "2682000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241117_wesun_meet_north_carolina_s_sexiest_collard_farmer.mp3?size=2385756&d=149059&e=nx-s1-5189667"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-104308",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:02:29",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Meet North Carolina's sexiest collard farmer",
+                    "itunes:summary": "What does it take to be the sexiest collard farmer in North Carolina? Lee Berry, the reigning champ and current competitor in the contest's 2nd year, explains.",
+                    "itunes:title": "Meet North Carolina's sexiest collard farmer",
+                    "link": "https://www.kuow.org/stories/meet-north-carolina-s-sexiest-collard-farmer",
+                    "pubDate": "Sun, 17 Nov 2024 05:13:35 -0800",
+                    "title": "Meet North Carolina's sexiest collard farmer"
+                },
                 {
                     "author": "Jackie Fortier",
                     "description": "Hospitals have been forced to innovate with new ways of hydrating patients and giving them medications, after a key factory that produces IV fluid bags flooded during Hurricane Helene. (This story first aired on Morning Edition on Nov. 7, 2024.)",
@@ -2519,300 +2791,6 @@
                     "link": "https://www.kuow.org/stories/effective-treatment-for-stimulant-addiction-can-be-hard-to-find",
                     "pubDate": "Sun, 15 Sep 2024 04:46:40 -0700",
                     "title": "Effective treatment for stimulant addiction can be hard to find"
-                },
-                {
-                    "author": "Eleanor Beardsley",
-                    "description": "In France, thousands demonstrated in support of a woman whose ex-husband is on trial for drugging her and recruiting other men to sexually assault her.",
-                    "enclosure": {
-                        "@length": "5742000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240915_wesun_gang_rape_trial_draws_thousands_of_demonstrators_in_france.mp3?size=5107924&d=319205&e=nx-s1-5112459"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100939",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Eleanor Beardsley",
-                    "itunes:duration": "00:05:19",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Gang rape trial draws thousands of demonstrators in France",
-                    "itunes:summary": "In France, thousands demonstrated in support of a woman whose ex-husband is on trial for drugging her and recruiting other men to sexually assault her.",
-                    "itunes:title": "Gang rape trial draws thousands of demonstrators in France",
-                    "link": "https://www.kuow.org/stories/gang-rape-trial-draws-thousands-of-demonstrators-in-france",
-                    "pubDate": "Sun, 15 Sep 2024 04:43:02 -0700",
-                    "title": "Gang rape trial draws thousands of demonstrators in France"
-                },
-                {
-                    "author": "Chris Welter",
-                    "description": "IN recent days, there have been bomb threats in Springfield, Ohio after the spread of false claims  on line and by politicians that vilify Haitians in the city.  Many Haitians say they feel unsafe and they gathered to speak out during a virtual conversation.",
-                    "enclosure": {
-                        "@length": "3078000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240915_wesun_after_false_claims_spread_online_ohio_haitians_speak_out.mp3?size=2752724&d=171995&e=nx-s1-5111892"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100938",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Chris Welter",
-                    "itunes:duration": "00:02:51",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "After false claims spread online, Ohio Haitians speak out",
-                    "itunes:summary": "IN recent days, there have been bomb threats in Springfield, Ohio after the spread of false claims  on line and by politicians that vilify Haitians in the city.  Many Haitians say they feel unsafe and they gathered to speak out during a virtual conversation.",
-                    "itunes:title": "After false claims spread online, Ohio Haitians speak out",
-                    "link": "https://www.kuow.org/stories/after-false-claims-spread-online-ohio-haitians-speak-out",
-                    "pubDate": "Sun, 15 Sep 2024 04:42:59 -0700",
-                    "title": "After false claims spread online, Ohio Haitians speak out"
-                },
-                {
-                    "author": "Maayan Silver",
-                    "description": "In Wisconsin, some conservative voters voice their discontent with Republican nominee Donald Trump.",
-                    "enclosure": {
-                        "@length": "4248000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240915_wesun_some_wisconsin_gop_voters_are_backing_harris.mp3?size=3792606&d=236990&e=nx-s1-5110219"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100934",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Maayan Silver",
-                    "itunes:duration": "00:03:56",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Some Wisconsin GOP Voters are backing Harris",
-                    "itunes:summary": "In Wisconsin, some conservative voters voice their discontent with Republican nominee Donald Trump.",
-                    "itunes:title": "Some Wisconsin GOP Voters are backing Harris",
-                    "link": "https://www.kuow.org/stories/some-wisconsin-gop-voters-are-backing-harris",
-                    "pubDate": "Sun, 15 Sep 2024 04:42:56 -0700",
-                    "title": "Some Wisconsin GOP Voters are backing Harris"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "NPR's Ayesha Rascoe talks with journalist Stephen Gutowski of The Reload about the NRA and the influence of the gun lobby this election.",
-                    "enclosure": {
-                        "@length": "5742000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240915_wesun_how_the_gun_lobby_has_influenced_the_2024_election.mp3?size=5113775&d=319577&e=nx-s1-5111412"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100932",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:05:19",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "How the gun lobby has influenced the 2024 election",
-                    "itunes:summary": "NPR's Ayesha Rascoe talks with journalist Stephen Gutowski of The Reload about the NRA and the influence of the gun lobby this election.",
-                    "itunes:title": "How the gun lobby has influenced the 2024 election",
-                    "link": "https://www.kuow.org/stories/how-the-gun-lobby-has-influenced-the-2024-election",
-                    "pubDate": "Sun, 15 Sep 2024 04:42:53 -0700",
-                    "title": "How the gun lobby has influenced the 2024 election"
-                },
-                {
-                    "author": [
-                        "Deepa Shivaram",
-                        "Ayesha Rascoe"
-                    ],
-                    "description": "As the candidates vie for the Oval Office, President Biden continues working and Congress stalls on funding the government.",
-                    "enclosure": {
-                        "@length": "3978000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240915_wesun_politics_chat_biden_to_host_foreign_leaders_congress_stalls_on_government_funding.mp3?size=3537651&d=221057&e=nx-s1-5110260"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100933",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Deepa Shivaram",
-                        "Ayesha Rascoe"
-                    ],
-                    "itunes:duration": "00:03:41",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Politics chat: Biden to host foreign leaders, Congress stalls on government funding",
-                    "itunes:summary": "As the candidates vie for the Oval Office, President Biden continues working and Congress stalls on funding the government.",
-                    "itunes:title": "Politics chat: Biden to host foreign leaders, Congress stalls on government funding",
-                    "link": "https://www.kuow.org/stories/politics-chat-biden-to-host-foreign-leaders-congress-stalls-on-government-funding",
-                    "pubDate": "Sun, 15 Sep 2024 04:42:47 -0700",
-                    "title": "Politics chat: Biden to host foreign leaders, Congress stalls on government funding"
-                },
-                {
-                    "author": [
-                        "Ayesha Rascoe",
-                        "Regan McCarthy",
-                        "Elizabeth Rembert"
-                    ],
-                    "description": "In more than half the states where abortion rights are expected on the ballot in 2024, there are efforts to stop those amendments before they make it to voters this November.",
-                    "enclosure": {
-                        "@length": "5814000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240915_wesun_abortion_opponents_seek_to_block_state_amendments.mp3?size=5171036&d=323155&e=nx-s1-5108969"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100940",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Ayesha Rascoe",
-                        "Regan McCarthy",
-                        "Elizabeth Rembert"
-                    ],
-                    "itunes:duration": "00:05:23",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Abortion opponents seek to block state amendments",
-                    "itunes:summary": "In more than half the states where abortion rights are expected on the ballot in 2024, there are efforts to stop those amendments before they make it to voters this November.",
-                    "itunes:title": "Abortion opponents seek to block state amendments",
-                    "link": "https://www.kuow.org/stories/abortion-opponents-seek-to-block-state-amendments",
-                    "pubDate": "Sun, 15 Sep 2024 04:42:44 -0700",
-                    "title": "Abortion opponents seek to block state amendments"
-                },
-                {
-                    "author": [
-                        "Andrea Hsu",
-                        "Ayesha Rascoe"
-                    ],
-                    "description": "A year ago today, Big 3 autoworkers walked off the job to fight for better wages and benefits. Now a year later, autoworkers remain concerned about the future of their industry.",
-                    "enclosure": {
-                        "@length": "4878000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240915_wesun_a_year_after_uaw_strike_autoworkers_still_worry_about_their_future.mp3?size=4340969&d=271268&e=nx-s1-5109972"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100935",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Andrea Hsu",
-                        "Ayesha Rascoe"
-                    ],
-                    "itunes:duration": "00:04:31",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "A year after UAW strike, autoworkers still worry about their future",
-                    "itunes:summary": "A year ago today, Big 3 autoworkers walked off the job to fight for better wages and benefits. Now a year later, autoworkers remain concerned about the future of their industry.",
-                    "itunes:title": "A year after UAW strike, autoworkers still worry about their future",
-                    "link": "https://www.kuow.org/stories/a-year-after-uaw-strike-autoworkers-still-worry-about-their-future",
-                    "pubDate": "Sun, 15 Sep 2024 04:42:40 -0700",
-                    "title": "A year after UAW strike, autoworkers still worry about their future"
-                },
-                {
-                    "author": [
-                        "Felix Contreras",
-                        "Ayesha Rascoe",
-                        "Anamaria Sayre"
-                    ],
-                    "description": "NPR's Alt.Latino takes over the Tiny Desk concerts for the next four weeks in celebration of Latino Heritage Month.",
-                    "enclosure": {
-                        "@length": "6102000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240915_wesun_alt.latino_celebrates_latino_heritage_month_with_a_tiny_desk_takeover.mp3?size=5430588&d=339362&e=nx-s1-5108967"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100937",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Felix Contreras",
-                        "Ayesha Rascoe",
-                        "Anamaria Sayre"
-                    ],
-                    "itunes:duration": "00:05:39",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Alt.Latino celebrates Latino Heritage Month with a Tiny Desk takeover",
-                    "itunes:summary": "NPR's Alt.Latino takes over the Tiny Desk concerts for the next four weeks in celebration of Latino Heritage Month.",
-                    "itunes:title": "Alt.Latino celebrates Latino Heritage Month with a Tiny Desk takeover",
-                    "link": "https://www.kuow.org/stories/alt-latino-celebrates-latino-heritage-month-with-a-tiny-desk-takeover",
-                    "pubDate": "Sun, 15 Sep 2024 04:42:37 -0700",
-                    "title": "Alt.Latino celebrates Latino Heritage Month with a Tiny Desk takeover"
-                },
-                {
-                    "author": "Asma Khalid",
-                    "description": "President Biden has been talking about a ceasefire deal for Gaza all summer long. It's an important but elusive goal for his legacy, and for Vice President Harris' campaign, too.",
-                    "enclosure": {
-                        "@length": "4590000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240908_wesun_the_biden_administration_is_under_pressure_to_reach_a_ceasefire_deal.mp3?size=4096462&d=255978&e=nx-s1-5099226"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100576",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Asma Khalid",
-                    "itunes:duration": "00:04:15",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "The Biden administration is under pressure to reach a ceasefire deal",
-                    "itunes:summary": "President Biden has been talking about a ceasefire deal for Gaza all summer long. It's an important but elusive goal for his legacy, and for Vice President Harris' campaign, too.",
-                    "itunes:title": "The Biden administration is under pressure to reach a ceasefire deal",
-                    "link": "https://www.kuow.org/stories/the-biden-administration-is-under-pressure-to-reach-a-ceasefire-deal",
-                    "pubDate": "Sun, 8 Sep 2024 06:20:20 -0700",
-                    "title": "The Biden administration is under pressure to reach a ceasefire deal"
-                },
-                {
-                    "author": [
-                        "Ayesha Rascoe",
-                        "John Otis"
-                    ],
-                    "description": "Venezuelan opposition leader Edmundo Gonz\u00e1lez widely recognized as the winner of July\u2019s presidential election has fled the country for exile.",
-                    "enclosure": {
-                        "@length": "4374000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/09/20240908_wesun_venezuelan_opposition_leader_edmundo_gonz_lez_has_fled_the_country.mp3?size=3895424&d=243417&e=nx-s1-5105241"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-100578",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Ayesha Rascoe",
-                        "John Otis"
-                    ],
-                    "itunes:duration": "00:04:03",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Venezuelan opposition leader Edmundo Gonz\u00e1lez has fled the country",
-                    "itunes:summary": "Venezuelan opposition leader Edmundo Gonz\u00e1lez widely recognized as the winner of July\u2019s presidential election has fled the country for exile.",
-                    "itunes:title": "Venezuelan opposition leader Edmundo Gonz\u00e1lez has fled the country",
-                    "link": "https://www.kuow.org/stories/venezuelan-opposition-leader-edmundo-gonzalez-has-fled-the-country",
-                    "pubDate": "Sun, 8 Sep 2024 06:02:39 -0700",
-                    "title": "Venezuelan opposition leader Edmundo Gonz\u00e1lez has fled the country"
                 }
             ],
             "itunes:author": "NPR",
@@ -2829,7 +2807,7 @@
                 "itunes:name": "Weekend Edition Sunday"
             },
             "language": "en",
-            "lastBuildDate": "Sun, 17 Nov 2024 00:35:45 +0000",
+            "lastBuildDate": "Sun, 24 Nov 2024 00:34:51 +0000",
             "link": "https://www.kuow.org/podcasts/weekendedition-sunday",
             "podcast:locked": "no",
             "title": "Weekend Edition Sunday"

@@ -40,6 +40,34 @@
             "item": [
                 {
                     "author": "scott@hanselman.com (Scott Hanselman)",
+                    "content:encoded": "<p>Dante Lex saw a problem with developers losing track of - and sometimes checking in secrets - so he and his team started Onboardbase to make secret management easy and secure from project creation to production. Scott chats with Dante about his philosophy of systems design, why secrets management is the next frontier in software, and why Onboardbase is for everyone.\u00a0</p><ul><li><a href=\"https://www.onboardbase.com/\">https://www.onboardbase.com/</a></li></ul>\n",
+                    "description": "<p>Dante Lex saw a problem with developers losing track of - and sometimes checking in secrets - so he and his team started Onboardbase to make secret management easy and secure from project creation to production. Scott chats with Dante about his philosophy of systems design, why secrets management is the next frontier in software, and why Onboardbase is for everyone.\u00a0</p><ul><li><a href=\"https://www.onboardbase.com/\">https://www.onboardbase.com/</a></li></ul>\n",
+                    "enclosure": {
+                        "@length": "30484673",
+                        "@type": "audio/mpeg",
+                        "@url": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/620f06e3-9cb7-4cb5-9e83-2f445a5ca34c/audio/f0623f26-6cca-4af8-8395-b6dce657104b/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+                    },
+                    "guid": {
+                        "#text": "a3fe3855-6e64-4870-b973-eec330d6cf6f",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Scott Hanselman",
+                    "itunes:duration": "00:31:39",
+                    "itunes:episode": "972",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/e464c34b-2f32-411b-bdd2-dcf02e5301eb/96fa00aa-f8cc-421a-9dae-aa5db3884da1/3000x3000/972.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "Dante Lex saw a problem with developers losing track of - and sometimes checking in secrets - so he and his team started Onboardbase to make secret management easy and secure from project creation to production. Scott chats with Dante about his philosophy of systems design, why secrets management is the next frontier in software, and why Onboardbase is for everyone. ",
+                    "itunes:summary": "Dante Lex saw a problem with developers losing track of - and sometimes checking in secrets - so he and his team started Onboardbase to make secret management easy and secure from project creation to production. Scott chats with Dante about his philosophy of systems design, why secrets management is the next frontier in software, and why Onboardbase is for everyone. ",
+                    "itunes:title": "Managing secrets with Onboardbase and Dante Lex",
+                    "link": "https://www.hanselminutes.com",
+                    "pubDate": "Sun, 24 Nov 2024 00:17:05 +0000",
+                    "title": "Managing secrets with Onboardbase and Dante Lex"
+                },
+                {
+                    "author": "scott@hanselman.com (Scott Hanselman)",
                     "content:encoded": "<p>Join host Scott Hanselman as he sits down with Faisal Islam, the mind behind the book Kotlin from Scratch. In this engaging episode, they delve into the world of Kotlin, the modern programming language that's making waves in the development community. Faisal shares insights from his journey writing the book, the key features of Kotlin that make it a favorite among developers, and practical advice for anyone looking to get started with or master this powerful language.\u00a0</p><ul><li><a href=\"https://nostarch.com/kotlin-scratch\">https://nostarch.com/kotlin-scratch</a></li></ul>\n",
                     "description": "<p>Join host Scott Hanselman as he sits down with Faisal Islam, the mind behind the book Kotlin from Scratch. In this engaging episode, they delve into the world of Kotlin, the modern programming language that's making waves in the development community. Faisal shares insights from his journey writing the book, the key features of Kotlin that make it a favorite among developers, and practical advice for anyone looking to get started with or master this powerful language.\u00a0</p><ul><li><a href=\"https://nostarch.com/kotlin-scratch\">https://nostarch.com/kotlin-scratch</a></li></ul>\n",
                     "enclosure": {
@@ -17143,34 +17171,6 @@
                 },
                 {
                     "author": "scott@hanselman.com (Scott Hanselman)",
-                    "content:encoded": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
-                    "description": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
-                    "enclosure": {
-                        "@length": "35504018",
-                        "@type": "audio/mpeg",
-                        "@url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/ada6609b-9aaa-4afa-87e1-1d89501e17a8/1f7fe125_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-                    },
-                    "guid": {
-                        "#text": "http://www.hanselminutes.com/default.aspx?ShowID=379",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Scott Hanselman",
-                    "itunes:duration": "00:36:53",
-                    "itunes:episode": "359",
-                    "itunes:episodeType": "full",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/ada6609b-9aaa-4afa-87e1-1d89501e17a8/3000x3000/1519423177artwork.jpg?aid=rss_feed"
-                    },
-                    "itunes:subtitle": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.\n\n",
-                    "itunes:summary": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.\n\n",
-                    "itunes:title": "Git support within Visual Studio",
-                    "link": "https://www.hanselminutes.com",
-                    "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
-                    "title": "Git support within Visual Studio"
-                },
-                {
-                    "author": "scott@hanselman.com (Scott Hanselman)",
                     "content:encoded": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
                     "description": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
                     "enclosure": {
@@ -17196,6 +17196,34 @@
                     "link": "https://www.hanselminutes.com",
                     "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
                     "title": "Halo 4 - Services in Azure with Caitie McCaffrey"
+                },
+                {
+                    "author": "scott@hanselman.com (Scott Hanselman)",
+                    "content:encoded": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
+                    "description": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
+                    "enclosure": {
+                        "@length": "35504018",
+                        "@type": "audio/mpeg",
+                        "@url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/ada6609b-9aaa-4afa-87e1-1d89501e17a8/1f7fe125_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+                    },
+                    "guid": {
+                        "#text": "http://www.hanselminutes.com/default.aspx?ShowID=379",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Scott Hanselman",
+                    "itunes:duration": "00:36:53",
+                    "itunes:episode": "359",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/ada6609b-9aaa-4afa-87e1-1d89501e17a8/3000x3000/1519423177artwork.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.\n\n",
+                    "itunes:summary": "Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.\n\n",
+                    "itunes:title": "Git support within Visual Studio",
+                    "link": "https://www.hanselminutes.com",
+                    "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
+                    "title": "Git support within Visual Studio"
                 },
                 {
                     "author": "scott@hanselman.com (Scott Hanselman)",
@@ -27138,9 +27166,9 @@
             "itunes:summary": "Hanselminutes is Fresh Air for Developers. A weekly commute-time podcast that promotes fresh technology and fresh voices. Talk and Tech for Developers, Life-long Learners, and Technologists.",
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Thu, 14 Nov 2024 21:53:13 +0000",
+            "lastBuildDate": "Sun, 24 Nov 2024 00:17:09 +0000",
             "link": "https://www.hanselminutes.com",
-            "pubDate": "Thu, 14 Nov 2024 21:00:00 +0000",
+            "pubDate": "Sun, 24 Nov 2024 00:17:05 +0000",
             "title": "Hanselminutes with Scott Hanselman"
         }
     }
