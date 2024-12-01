@@ -20,17 +20,42 @@
             "image": {
                 "link": "https://hbr.org/podcasts/ideacast",
                 "palette": [
-                    "040404",
-                    "E30434",
-                    "F87D3F",
-                    "B5B4BB",
-                    "E7DEDD",
-                    "545454"
+                    "060606",
+                    "E30534",
+                    "F87C3E",
+                    "D3D4D2",
+                    "B9B1B9",
+                    "6C6C6C"
                 ],
                 "title": "HBR IdeaCast",
                 "url": "https://hbr.org/resources/images/podcasts/1400-hbr-ideacast-lg-3.jpg"
             },
             "item": [
+                {
+                    "description": "Twenty-five years ago, a Harvard Business School case study featured the exceptional networking practices of Silicon Valley entrepreneur and venture capitalist Heidi Roizen. This was before the rise of online social networks and the ubiquity of social media. But today, Roizen says that those developments have not fundamentally changed how she builds and maintains strong personal and professional relationships. Now a partner at Threshold Ventures and a lecturer at Stanford Graduate School of Business, she shares the biggest missteps that she sees people take. She also explains the impact of AI and remote work on networking, her most effective strategies for building relationships, and her frank advice for those just starting their careers. Roizen is subject of the HBS case study \u201cHeidi Roizen.\u201d",
+                    "enclosure": {
+                        "@length": "27722401",
+                        "@type": "audio/mpeg",
+                        "@url": "https://audio.hbr.org/ideacast/20241107163811-1002_Tried-and-TrueNetworkingTipsfromDecadesofExperience.mp3"
+                    },
+                    "guid": {
+                        "#text": "tag:audio.hbr.org,2006-05-08:ideacast.1002",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1629",
+                    "itunes:episode": "1002",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "Twenty-five years ago, a Harvard Business School case study featured the exceptional networking practices of Silicon Valley entrepreneur and venture capitalist Heidi Roizen. This was before the rise of online social networks and the ubiquity of social media. But today, Roizen says that those developments have not fundamentally changed how she builds and maintains strong personal and professional relationships. Now a partner at Threshold Ventures and a lecturer at Stanford Graduate School of Business, she shares the biggest missteps that she sees people take. She also explains the impact of AI and remote work on networking, her most effective strategies for building relationships, and her frank advice for those just starting their careers. Roizen is subject of the HBS case study \u201cHeidi Roizen.\u201d",
+                    "itunes:title": "Tried-and-True Networking Tips from Decades of Experience",
+                    "link": "https://hbr.org/podcast/2024/11/tried-and-true-networking-tips-from-decades-of-experience",
+                    "media:thumbnail": {
+                        "@url": "https://hbr.org/resources/images/podcasts/1400-hbr-ideacast-lg-3.jpg"
+                    },
+                    "pubDate": "Tue, 26 Nov 2024 08:00:22 -0500",
+                    "title": "Tried-and-True Networking Tips from Decades of Experience"
+                },
                 {
                     "description": "Palo Alto Networks is the leading global cybersecurity company. Over his six-year tenure there, CEO Nikesh Arora has expanded and reorganized the organization, including safely incorporating generative AI into all of its products. Nikesh explains how he\u2019s managing new opportunities and risks in the age of generative AI \u2013 including the single cybersecurity risk that keeps him up at night. He also shares his approach to leading innovation and evolving Palo Alto\u2019s go-to-market strategy when new technologies are developing so rapidly.",
                     "enclosure": {
@@ -16276,31 +16301,6 @@
                     },
                     "pubDate": "Thu, 19 Sep 2013 17:53:21 -0500",
                     "title": "Clay Christensen and Dominic Barton on Consulting\u2019s Disruption"
-                },
-                {
-                    "description": "William D. Eggers and Paul Macmillan, authors of \"The Solution Revolution,\" discuss why \"triple-strength\" leaders are the best problem solvers.",
-                    "enclosure": {
-                        "@length": "16294828",
-                        "@type": "audio/mpeg",
-                        "@url": "https://audio.hbr.org/ideacast/369__Leading_Across_Sectors.mp3"
-                    },
-                    "guid": {
-                        "#text": "c3d3415b5f489b6301e591e13a74fb94",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:duration": "984",
-                    "itunes:episode": "369",
-                    "itunes:episodeType": "full",
-                    "itunes:explicit": "false",
-                    "itunes:subtitle": null,
-                    "itunes:summary": "William D. Eggers and Paul Macmillan, authors of \"The Solution Revolution,\" discuss why \"triple-strength\" leaders are the best problem solvers.",
-                    "itunes:title": "Leading Across Sectors",
-                    "link": "https://hbr.org/podcast/2013/09/leading-across-sectors",
-                    "media:thumbnail": {
-                        "@url": "https://hbr.org/resources/images/podcasts/1400-hbr-ideacast-lg-3.jpg"
-                    },
-                    "pubDate": "Thu, 12 Sep 2013 20:12:49 -0500",
-                    "title": "Leading Across Sectors"
                 }
             ],
             "itunes:author": "Harvard Business Review",
@@ -16337,7 +16337,7 @@
             "itunes:summary": "A weekly podcast featuring the leading thinkers in business and management.",
             "itunes:type": "episodic",
             "language": "en",
-            "lastBuildDate": "Thu, 21 Nov 2024 11:28:08 UT",
+            "lastBuildDate": "Wed, 27 Nov 2024 11:27:07 UT",
             "link": "https://hbr.org/podcasts/ideacast",
             "managingEditor": "ideacast@hbr.org (ideacast@hbr.org)",
             "media:category": [
@@ -16359,7 +16359,7 @@
             "media:thumbnail": {
                 "@url": "https://hbr.org/resources/images/podcasts/1400-hbr-ideacast-lg-3.jpg"
             },
-            "pubDate": "Thu, 21 Nov 2024 13:20:00 UT",
+            "pubDate": "Tue, 26 Nov 2024 14:02:32 UT",
             "title": "HBR IdeaCast"
         }
     }

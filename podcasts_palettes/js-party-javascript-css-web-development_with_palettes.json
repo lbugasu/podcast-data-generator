@@ -23,6 +23,142 @@
             "description": "Your weekly celebration of JavaScript and the web. Current panelists: Jerod Santo, Kevin Ball (KBall), Nick Nisi, Chris Hiller, Amal Hussein & Amy Dutton.\n\nPast panelists: Suz Hinton, Feross Aboukhadijeh, Amelia Wattenberger, Divya Sasidharan, Alex Sexton, Rachel White, Emma Bostian, Ali Spittel, Mikeal Rogers & Jessica Sachs.\n\nWe talk about the web platform (Chrome, Safari, Edge, Firefox, Brave, etc), front-end frameworks (ReactJS, SolidJS, Svelte, VueJS, AngularJS, etc), JavaScript and TypeScript runtimes (Node, Deno, Bun), web animation, SVG, TailwindCSS, robotics, IoT, and much more. If JavaScript and/or the web touch your life, this show\u2019s for you.\n\nSome people search for JSParty and can't find the show, so now the string JSParty is in our description too.",
             "item": [
                 {
+                    "content:encoded": "<p>At React Summit in New York, KBall &amp; Nick sat down with Kent C. Dodds &amp; Theo Browne for two fascinating conversations. Both of them showed us the whole gamut of their personalities!</p>\n<p>Kent shared his insights on effective teaching methodologies and the future of developer education, while diving deep into React and the Remix/React Router ecosystem, and closing on an appeal for kindness int he world.</p>\n<p>Then Theo took us behind the scenes of his developer-focused content creation, from streaming to the origins of the T3 stack, and how his online persona (including T3!) is \u201cjust him\u201d.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456196-jsparty\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 5 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://workos.com\">WorkOS</a> \u2013 <strong>AuthKit offers 1,000,000 monthly active users (MAU) free</strong> \u2014 The world\u2019s best login box, powered by WorkOS + Radix. Learn more and get started at <a href=\"https://workos.com/\">WorkOS.com</a> and <a href=\"https://www.authkit.com\">AuthKit.com</a>\n</li>\n<li><a href=\"https://jam.dev\">Jam.dev</a> \u2013 <strong>One click bug reports developers love</strong> \u2014 Never explain another bug report again. Jam auto-captures all the info engineers need to debug and repro.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Kent C. Dodds &ndash; <a href=\"https://twitter.com/kentcdodds\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/kentcdodds\" rel=\"external ugc\">GitHub</a>, <a href=\"https://kentcdodds.com\" rel=\"external ugc\">Website</a></li><li>Theo Browne &ndash; <a href=\"https://twitter.com/t3dotgg\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/theobr\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/t3gg\" rel=\"external ugc\">LinkedIn</a></li><li>Kevin Ball &ndash; <a href=\"https://twitter.com/kbal11\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/kball\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/kbal11\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://www.kball.llc\" rel=\"external ugc\">Website</a></li><li>Nick Nisi &ndash; <a href=\"https://nicknisi.com/@nicknisi\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/nicknisi\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/nicknisi\" rel=\"external ugc\">GitHub</a>, <a href=\"https://nicknisi.com\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://reactsummit.us\">React Summit</a></li>\n<li><a href=\"https://www.epicweb.dev\">Epic Web</a></li>\n<li><a href=\"https://remix.run\">Remix</a></li>\n<li><a href=\"https://reactrouter.com\">React Router</a></li>\n<li><a href=\"https://create.t3.gg\">T3 Stack</a></li>\n<li><a href=\"https://www.trycursor.com\">Cursor</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/jsparty/js-party-348.md\">PRs welcome!</a></p>",
+                    "description": "At React Summit in New York, KBall & Nick sat down with Kent C. Dodds & Theo Browne for two fascinating conversations. Both of them showed us the whole gamut of their personalities!\n\nKent shared his insights on effective teaching methodologies and the future of developer education, while diving deep into React and the Remix/React Router ecosystem, and closing on an appeal for kindness int he world. \n\nThen Theo took us behind the scenes of his developer-focused content creation, from streaming to the origins of the T3 stack, and how his online persona (including T3!) is \"just him\".",
+                    "enclosure": {
+                        "@length": "74555179",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/jsparty/348/js-party-348.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/6/2624",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:17:11",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
+                    },
+                    "link": "https://changelog.com/jsparty/348",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/jsparty/348/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Kevin Ball",
+                            "@href": "https://changelog.com/person/kball",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/6qd/avatar_large.jpg?v=63721617586",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Nick Nisi",
+                            "@href": "https://changelog.com/person/nicknisi",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/XGd/avatar_large.jpg?v=63740463771",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Kent C. Dodds",
+                            "@href": "https://changelog.com/person/kentcdodds",
+                            "@img": "https://secure.gravatar.com/avatar/b8e0b12b5777510f350ab2a57b4628ed.jpg?s=600&d=mm",
+                            "@role": "guest"
+                        },
+                        {
+                            "#text": "Theo Browne",
+                            "@href": "https://twitter.com/t3dotgg",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/LkpNo/avatar_large.png?v=63810525805",
+                            "@role": "guest"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "It's party time, y'all"
+                            },
+                            {
+                                "@href": "https://workos.com",
+                                "@start": "39",
+                                "@title": "Sponsor: WorkOS"
+                            },
+                            {
+                                "@start": "208",
+                                "@title": "Kent C. Dodds!"
+                            },
+                            {
+                                "@start": "291",
+                                "@title": "AI talk"
+                            },
+                            {
+                                "@start": "726",
+                                "@title": "Which AI?"
+                            },
+                            {
+                                "@start": "908",
+                                "@title": "Most excited"
+                            },
+                            {
+                                "@start": "1441",
+                                "@title": "Codemods"
+                            },
+                            {
+                                "@start": "1890",
+                                "@title": "Making connections"
+                            },
+                            {
+                                "@start": "2023",
+                                "@title": "Be selfish"
+                            },
+                            {
+                                "@href": "https://jam.dev",
+                                "@start": "2139",
+                                "@title": "Sponsor: Jam.dev"
+                            },
+                            {
+                                "@start": "2231",
+                                "@title": "Theo Browne!"
+                            },
+                            {
+                                "@start": "2627",
+                                "@title": "The T-3 stack"
+                            },
+                            {
+                                "@start": "2816",
+                                "@title": "Pages router"
+                            },
+                            {
+                                "@start": "2980",
+                                "@title": "TypeScript"
+                            },
+                            {
+                                "@start": "3419",
+                                "@title": "On career"
+                            },
+                            {
+                                "@start": "3577",
+                                "@title": "AI Talk"
+                            },
+                            {
+                                "@start": "4035",
+                                "@title": "Why confs"
+                            },
+                            {
+                                "@start": "4516",
+                                "@title": "Follow your excitement"
+                            },
+                            {
+                                "@start": "4567",
+                                "@title": "Next up on the pod"
+                            }
+                        ]
+                    },
+                    "pubDate": "Fri, 29 Nov 2024 17:20:00 +0000",
+                    "title": "WYSIWYG"
+                },
+                {
                     "content:encoded": "<p>Recently, four pillars of the JavaScript community (James Snell, Natalia Venditto, Michael Dawson &amp; Matteo Collina) teamed up to create a resource that lays out nine principles for doing Node.js right in enterprise environments. On this episode, Natalia &amp; Matteo join Jerod to discuss all nine.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456196-jsparty\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 6 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"http://notion.com/jsparty\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n<li><a href=\"https://workos.com\">WorkOS</a> \u2013 <strong>A platform that gives developers a set of building blocks for quickly adding enterprise-ready features</strong> to their application. Add Single Sign-On (Okta, Azure, Google, Microsoft OAuth), sync users from any SCIM directory, HRIS integration, audit trails (SIEM), free magic link sign-in. WorkOS is designed for developers and offers a single, elegant interface that abstracts dozens of enterprise integrations. Learn more and get started at <a href=\"https://workos.com/\">WorkOS.com</a>\n</li>\n<li><a href=\"https://jam.dev\">Jam.dev</a> \u2013 <strong>One click bug reports developers love</strong> \u2014 Never explain another bug report again. Jam auto-captures all the info engineers need to debug and repro.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Natalia Venditto &ndash; <a href=\"https://twitter.com/anfibiacreativa\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/anfibiacreativa\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/anfibiacreativa\" rel=\"external ugc\">LinkedIn</a></li><li>Matteo Collina &ndash; <a href=\"https://fosstodon.org/@mcollina\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/matteocollina\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/mcollina\" rel=\"external ugc\">GitHub</a>, <a href=\"http://matteocollina.com\" rel=\"external ugc\">Website</a></li><li>Jerod Santo &ndash; <a href=\"https://changelog.social/@jerod\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/jerodsanto\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/jerodsanto\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/jerodsanto\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://www.platformatichq.com/node-principles\">Nine Node Pillars</a></li>\n<li><a href=\"https://github.com/mcollina/close-with-grace\">close-with-grace</a></li>\n<li><a href=\"https://typespec.io/\">TypeSpec</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/jsparty/js-party-347.md\">PRs welcome!</a></p>",
                     "description": "Recently, four pillars of the JavaScript community (James Snell, Natalia Venditto, Michael Dawson & Matteo Collina) teamed up to create a resource that lays out nine principles for doing Node.js right in enterprise environments. On this episode, Natalia & Matteo join Jerod to discuss all nine.",
                     "enclosure": {
@@ -65,6 +201,10 @@
                             "@role": "guest"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@jsparty/113522497743091016"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",
@@ -207,6 +347,10 @@
                     "podcast:socialInteract": {
                         "@protocol": "activitypub",
                         "@uri": "https://changelog.social/@jsparty/113483435582572370"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/jsparty/346/transcript"
                     },
                     "psc:chapters": {
                         "@version": "1.1",

@@ -34,6 +34,63 @@
                         "Arts",
                         "Books"
                     ],
+                    "content:encoded": "<p><span style=\"font-weight: 400;\">World-renowned violinist Hilary Hahn plays a musician with a miraculous gift in this whimsical folktale from South America, North Africa, Europe and the US.</span></p>",
+                    "dc:creator": {
+                        "#text": "WBUR",
+                        "@xmlns:dc": "http://purl.org/dc/elements/1.1/"
+                    },
+                    "description": "<p><span style=\"font-weight: 400;\">World-renowned violinist Hilary Hahn plays a musician with a miraculous gift in this whimsical folktale from South America, North Africa, Europe and the US.</span></p>",
+                    "enclosure": {
+                        "@length": "21973600",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR3259901186.mp3"
+                    },
+                    "guid": {
+                        "#text": "8d15e5fe-2181-442c-b7a6-7cf177f1702d",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": " WBUR ",
+                    "itunes:duration": "00:22:53",
+                    "itunes:episode": "22",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://wordpress.wbur.org/wp-content/uploads/2024/11/differenttuneSQ.jpg"
+                    },
+                    "itunes:season": "8",
+                    "itunes:subtitle": "World-renowned violinist Hilary Hahn plays a musician with a miraculous gift in this whimsical folktale from South America, North Africa, Europe and the US.",
+                    "itunes:summary": "<span style=\"font-weight: 400;\">World-renowned violinist Hilary Hahn plays a musician with a miraculous gift in this whimsical folktale from South America, North Africa, Europe and the US.</span>",
+                    "itunes:title": " Dancing to a Different Tune ",
+                    "link": "https://www.wbur.org/circleround/2024/11/26/dancing-different-tune",
+                    "media:content": [
+                        {
+                            "@height": "3000",
+                            "@medium": "image",
+                            "@type": "image/jpeg",
+                            "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/11/differenttuneSQ.jpg",
+                            "@width": "3000",
+                            "media:description": "(Sabina Hahn for WBUR)",
+                            "media:thumbnail": {
+                                "@height": "200",
+                                "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/11/differenttuneSQ-200x200.jpg",
+                                "@width": "200"
+                            }
+                        },
+                        {
+                            "@fileSize": "21973600",
+                            "@medium": "audio",
+                            "@type": "audio/mpeg",
+                            "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR3259901186.mp3"
+                        }
+                    ],
+                    "pubDate": "Tue, 26 Nov 2024 15:00:00 -0500",
+                    "title": "Dancing to a Different Tune"
+                },
+                {
+                    "category": [
+                        "Arts",
+                        "Books"
+                    ],
                     "content:encoded": "<p><span style=\"font-weight: 400;\">Tim Matheson (The West Wing, Virgin River) and Jonathan Tucker (Kingdom, Westworld) co-star in a Jewish and Persian tale about a parrot, a prince, and the priceless value of freedom.</span></p>",
                     "dc:creator": {
                         "#text": "WBUR",
@@ -20875,7 +20932,7 @@
             "itunes:summary": "Created and produced by parents of young children, WBUR's Circle Round adapts carefully-selected folktales from around the world into sound- and music-rich radio plays for kids ages 3-103. Each 15 to 25-minute episode explores important issues like kindness, persistence and generosity. And each episode ends with an activity that inspires a deeper conversation between children and grown-ups.",
             "itunes:type": "serial",
             "language": "en-us",
-            "lastBuildDate": "Sat, 23 Nov 2024 19:30:07 -0500",
+            "lastBuildDate": "Sat, 30 Nov 2024 19:45:07 -0500",
             "link": "https://www.wbur.org/podcasts/circleround",
             "title": "Circle Round"
         }

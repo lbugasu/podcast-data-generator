@@ -23,6 +23,137 @@
             "description": "A podcast about everything that happens after \\`git push\\` Justin Garrison & Autumn Nash explore all things DevOps, infra, cloud & running apps in production. Whether you're cloud native, Kubernetes curious, a pro SRE, or just operating a VPS... you'll love coming along for the ride. \n\nSome people search for ShipIt or ShipItFM and can't find the show, so now the strings ShipIt and ShipItFM are in our description too.",
             "item": [
                 {
+                    "content:encoded": "<p>Marc Boorshtein from Tremolo Security joins Justin &amp; Autumn to talk all about running Kubernetes in the public sector.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456580-shipit\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 8 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://www.systeminit.com/?utm_source=changelog\">System Initiative</a> \u2013 <strong>The future of DevOps automation (is here!)</strong> \u2014 System Initiative is an intuitive, powerful, collaborative replacement for Infrastructure as Code (IaC). The free tier is awesome (no credit card required) and you can <a href=\"https://www.systeminit.com/?utm_source=changelog\">get started</a> in 3 clicks.\n</li>\n<li><a href=\"https://retool.com/changelog\">Retool</a> \u2013 <strong>The low-code platform for developers to build internal tools</strong> \u2014 Some of the best teams out there trust Retool\u2026Brex, Coinbase, Plaid, Doordash, LegalGenius, Amazon, Allbirds, Peloton, and so many more \u2013 the developers at these teams trust Retool as the platform to build their internal tools. Try it free at <a href=\"https://retool.com/changelog\">retool.com/changelog</a>\n</li>\n<li><a href=\"https://www.timescale.com\">Timescale</a> \u2013 <strong>Purpose-built performance for AI</strong> Build RAG, search, and AI agents on the cloud and with PostgreSQL and purpose-built extensions for AI: pgvector, pgvectorscale, and pgai.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Marc Boorshtein &ndash; <a href=\"https://twitter.com/mlbiam\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/mlbiam\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/marc-boorshtein-5979a82\" rel=\"external ugc\">LinkedIn</a></li><li>Justin Garrison &ndash; <a href=\"https://twitter.com/rothgar\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/rothgar\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/justingarrison\" rel=\"external ugc\">LinkedIn</a></li><li>Autumn Nash &ndash; <a href=\"https://twitter.com/autumn808\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/autumn808\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/autumnnash\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://www.tremolo.io/\">Kubernetes Authentication and Namespace as a Service</a></li>\n<li><a href=\"https://openunison.github.io/\">Kubernetes Authentication and SSO</a></li>\n<li><a href=\"https://external-secrets.io/latest/\">Introduction - External Secrets Operator</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/shipit/ship-it-132.md\">PRs welcome!</a></p>",
+                    "description": "Marc Boorshtein from Tremolo Security joins Justin & Autumn to talk all about running Kubernetes in the public sector.",
+                    "enclosure": {
+                        "@length": "64870103",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/shipit/132/ship-it-132.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/14/2561",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:07:20",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/ship-it-original.png?v=63787880447"
+                    },
+                    "link": "https://changelog.com/shipit/132",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/shipit/132/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Justin Garrison",
+                            "@href": "https://changelog.com/person/jgarr",
+                            "@img": "https://secure.gravatar.com/avatar/5b746c23f3b5fae8ad186ddc9e96c34e.jpg?s=600&d=mm",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Autumn Nash",
+                            "@href": "https://changelog.com/person/autumn808",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/e47RO/avatar_large.jpg?v=63877387957",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Marc Boorshtein",
+                            "@href": "https://changelog.com/person/marcboorshtein",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/nn3w0/avatar_large.jpg?v=63900115806",
+                            "@role": "guest"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "This is Ship It!"
+                            },
+                            {
+                                "@href": "https://www.systeminit.com/?utm_source=changelog",
+                                "@start": "52",
+                                "@title": "Sponsor: System Initiative"
+                            },
+                            {
+                                "@start": "151",
+                                "@title": "Identity system for 1st responders"
+                            },
+                            {
+                                "@start": "790",
+                                "@title": "Biggest painpoint"
+                            },
+                            {
+                                "@start": "1052",
+                                "@title": "Importance of feedback loops"
+                            },
+                            {
+                                "@start": "1253",
+                                "@title": "The isolation of the public safety industry"
+                            },
+                            {
+                                "@start": "1355",
+                                "@title": "Compliance vs security"
+                            },
+                            {
+                                "@href": "https://retool.com/changelog",
+                                "@start": "1652",
+                                "@title": "Sponsor: Retool"
+                            },
+                            {
+                                "@start": "1767",
+                                "@title": "COVID's effect on IT"
+                            },
+                            {
+                                "@start": "2072",
+                                "@title": "Automated patching"
+                            },
+                            {
+                                "@start": "2154",
+                                "@title": "Azure DevOPS backend & push vs pull"
+                            },
+                            {
+                                "@start": "2474",
+                                "@title": "Azure's security velnerabilities"
+                            },
+                            {
+                                "@start": "2778",
+                                "@title": "Props to Azure"
+                            },
+                            {
+                                "@href": "https://www.timescale.com",
+                                "@start": "2892",
+                                "@title": "Sponsor: Timescale"
+                            },
+                            {
+                                "@start": "3037",
+                                "@title": "Growing past identity"
+                            },
+                            {
+                                "@start": "3557",
+                                "@title": "Email is not good identity"
+                            },
+                            {
+                                "@start": "3647",
+                                "@title": "Next improvements"
+                            },
+                            {
+                                "@start": "3917",
+                                "@title": "Flux or Argo?"
+                            },
+                            {
+                                "@start": "3966",
+                                "@title": "Outro"
+                            }
+                        ]
+                    },
+                    "pubDate": "Fri, 29 Nov 2024 16:15:00 +0000",
+                    "title": "Public safety Kubernetes"
+                },
+                {
                     "content:encoded": "<p>Hazel Weakly joins Justin and Autumn to talk about when to build abstractions and how to implement them. They also share experiences from tech conferences, and delve into the importance of building community and psychological safety in tech environments.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456580-shipit\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 9 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://sentry.io/\">Sentry</a> \u2013 <strong>Code breaks, fix it faster.</strong> Use the code <code>CHANGELOG</code> when you sign up to <strong>get $100 off the team plan</strong>. Don\u2019t just observe. Take action. Sentry is the only app monitoring platform built for developers that gets to the root cause for every issue. 100,000+ growing teams use sentry to find problems fast.\n</li>\n<li><a href=\"https://www.timescale.com\">Timescale</a> \u2013 <strong>Purpose-built performance for AI</strong> Build RAG, search, and AI agents on the cloud and with PostgreSQL and purpose-built extensions for AI: pgvector, pgvectorscale, and pgai.\n</li>\n<li><a href=\"https://retool.com/changelog\">Retool</a> \u2013 <strong>The low-code platform for developers to build internal tools</strong> \u2014 Some of the best teams out there trust Retool\u2026Brex, Coinbase, Plaid, Doordash, LegalGenius, Amazon, Allbirds, Peloton, and so many more \u2013 the developers at these teams trust Retool as the platform to build their internal tools. Try it free at <a href=\"https://retool.com/changelog\">retool.com/changelog</a>\n</li>\n</ul></p><p>Featuring:</p><ul><li>Hazel Weakly &ndash; <a href=\"https://hachyderm.io/@hazelweakly\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/hazelweakly\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/hazelweakly\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/hazelweakly\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://hazelweakly.me\" rel=\"external ugc\">Website</a></li><li>Justin Garrison &ndash; <a href=\"https://twitter.com/rothgar\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/rothgar\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/justingarrison\" rel=\"external ugc\">LinkedIn</a></li><li>Autumn Nash &ndash; <a href=\"https://twitter.com/autumn808\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/autumn808\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/autumnnash\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><h4>Interview</h4>\n<ul>\n<li><a href=\"https://bsky.app/profile/hazelweakly.me\">Hazel on Bluesky</a></li>\n<li><a href=\"https://hazelweakly.me/blog/home-baked-abstractions-store-bought-implementations/\">Home baked abstractions, store bought implementations</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/shipit/ship-it-131.md\">PRs welcome!</a></p>",
                     "description": "Hazel Weakly joins Justin and Autumn to talk about when to build abstractions and how to implement them. They also share experiences from tech conferences, and delve into the importance of building community and psychological safety in tech environments.",
                     "enclosure": {
@@ -65,6 +196,10 @@
                             "@role": "guest"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@shipit/113528266160965101"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",
@@ -183,6 +318,10 @@
                     "podcast:socialInteract": {
                         "@protocol": "activitypub",
                         "@uri": "https://changelog.social/@shipit/113488276120300099"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/shipit/130/transcript"
                     },
                     "psc:chapters": {
                         "@version": "1.1",

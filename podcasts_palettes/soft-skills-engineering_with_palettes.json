@@ -26,6 +26,29 @@
             },
             "item": [
                 {
+                    "description": "<p>In this episode, Dave and Jamison answer these questions:</p>\n\n<ol>\n  <li>\n    <p>Marcus Zackerberg asks,</p>\n\n    <p>I work at a megacorp whose recent focus has been on reliability. The company already has mature SLO coverage outage response standards, but my org has taken it to the extreme this year. For example\u2026</p>\n\n    <p>There is now a dashboard of \u201cservice health\u201d that is reviewed by engineering leadership. In it, services are marked \u201cunhealthy\u201d permanently upon a failing check (think HTTP /health). To return to a \u201chealthy\u201d state, one must manually explain the failure with an entry in a spreadsheet, which must be reviewed and signed off.</p>\n\n    <p>Increasingly I feel this has the opposite effect, discouraging nuanced work to improve reliability and instead becoming \u201ccheckbox driven development\u201d, as well as impacting our ability to ship on our existing roadmap items. Additionally, our tech lead is fairly junior and frequently fails to communicate the org\u2019s expectations to the team, leading to us being under the gun of the reliability dashboard often.</p>\n\n    <p>Any advice on how to make the best of this situation?</p>\n  </li>\n  <li>\n    <p>Hi Guys! I\u2019m a senior engineer at a mid sized software company. The company has had a couple of high level departures recently, and during that process I\u2019ve come into the knowledge that my name is one of a handful on a list of \u201cengineers to keep happy\u201d. I feel like this information should be of use to me, but I\u2019m unsure on how I should leverage it.</p>\n\n    <p>On one hand it\u2019s nice to know I\u2019m valued, but I think I\u2019d rather be explicitly told that or better yet, receive dollars in lieu of praise. I\u2019m also at the point in my career where I\u2019m looking for staff roles, and the topic of promotion has come up several times with my manager. He supports me (and I believe him), but we agree that it would be difficult to make the case to the business.</p>\n\n    <p>What do I do with this new knowledge, and is there a way to benefit from it without accidentally triggering a preemptive search for my own replacement?</p>\n  </li>\n</ol>\n",
+                    "enclosure": {
+                        "@length": "48342109",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-436.mp3?source=rss"
+                    },
+                    "guid": {
+                        "#text": "9fb8b4e8-fa7d-40dc-8920-9518c4444992",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "",
+                    "itunes:duration": "33:34",
+                    "itunes:explicit": "no",
+                    "itunes:subtitle": "",
+                    "link": "https://softskills.audio/2024/11/25/episode-436-paralyzed-by-checkboxes-and-i'm-on-a-must-keep-happy-list/",
+                    "pubDate": "Mon, 25 Nov 2024 12:00:00 +0000",
+                    "source": {
+                        "#text": "Soft Skills Engineering",
+                        "@url": "https://softskills.audio"
+                    },
+                    "title": "Episode 436: Paralyzed by checkboxes and I'm on a \"must keep happy\" list"
+                },
+                {
                     "description": "<p>In this episode, Dave and Jamison answer these questions:</p>\n\n<ol>\n  <li>\n    <p>First! I recently listened to episode 178 (huge backlog of episodes to work through!) and Dave made the assertion (in 2019!) that 47% of all companies would be remote by 2023: wildly close, what else do you see in the future?</p>\n\n    <p>Second: my work situation continues to confound and external insight would be helpful! My boss and I have a long working history going back to an entirely separate company. I\u2019m a high-ownership/high-drive Principal level IC and feedback has been lackluster. Takeaway from last years performance review would be best summarized as \u201cI agree with your self review. End message.\u201d I\u2019ve been working to \u201cmanage up\u201d and mentor (reverse mentor?) him, but he always makes snap decisions and then refuses to reevaluate after presented with more info.\nCoupled with his myopic view of our team\u2019s scope and general preference for speaking only (not much for action), I\u2019m trying to figure out how to get where I want to be without burning an old and historically very useful bridge! I want to work on big technical problems, instead I\u2019m de facto manager of a team\u2026 I managed before and did not enjoy being responsible for people. As a principal I\u2019m responsible for their output somewhat, but if they underperform I work with their manager and them to prioritize, and do up front work to incentivize their investment in what we\u2019re doing\u2026 help!</p>\n  </li>\n  <li>\n    <p>What do I do when my teammate proposes a new architecture or framework in a new project? It might solve some existing problems but has a high chance to create technical debt and make the onboarding harder for new engineers.</p>\n\n    <p>How can I convince them to use the existing solution while still helping them feel comfortable sharing their opinion next time?</p>\n\n    <p>If I follow their suggestion but things don\u2019t go well, how can I convince them to refactor the structure without them feeling like I\u2019m blaming them?</p>\n  </li>\n</ol>\n",
                     "enclosure": {
                         "@length": "47036821",
@@ -10071,7 +10094,7 @@
             "itunes:subtitle": "It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly advice podcast for software developers about the non-technical stuff that goes into being a great software developer.",
             "itunes:summary": "It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly advice podcast for software developers about the non-technical stuff that goes into being a great software developer.",
             "language": "en",
-            "lastBuildDate": "2024-11-18 12:00:00 +0000",
+            "lastBuildDate": "2024-11-25 12:00:00 +0000",
             "link": "https://softskills.audio/",
             "managingEditor": "Jamison Dance and Dave Smith",
             "title": "Soft Skills Engineering",
