@@ -23,6 +23,152 @@
             "description": "A podcast about everything that happens after \\`git push\\` Justin Garrison & Autumn Nash explore all things DevOps, infra, cloud & running apps in production. Whether you're cloud native, Kubernetes curious, a pro SRE, or just operating a VPS... you'll love coming along for the ride. \n\nSome people search for ShipIt or ShipItFM and can't find the show, so now the strings ShipIt and ShipItFM are in our description too.",
             "item": [
                 {
+                    "content:encoded": "<p>Gerhard Lazu joins the show to discuss how Ship It! started and why you might want a general purpose language for your CI/CD.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456580-shipit\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 8 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://sentry.io/events/launch-week/\">Sentry</a> \u2013 <strong>When your app breaks, fix it faster with Sentry</strong> Use the code <code>CHANGELOG</code> when you sign up to <strong>get $100 off the team plan</strong>. Learn more about what they shipped for <a href=\"https://sentry.io/events/launch-week/\">Launch Week</a> and <a href=\"https://docs.sentry.io/product/explore/session-replay/mobile/\">Session Replay for Mobile.</a>\n</li>\n<li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Gerhard Lazu &ndash; <a href=\"https://twitter.com/gerhardlazu\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/gerhard\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/gerhardlazu\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://gerhard.io\" rel=\"external ugc\">Website</a></li><li>Justin Garrison &ndash; <a href=\"https://twitter.com/rothgar\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/rothgar\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/justingarrison\" rel=\"external ugc\">LinkedIn</a></li><li>Autumn Nash &ndash; <a href=\"https://twitter.com/autumn808\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/autumn808\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/autumnnash\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><h4>Interview</h4>\n<ul>\n<li><a href=\"https://gerhard.io/\">Gerhard\u2019s webiste</a></li>\n<li><a href=\"https://makeitwork.fm/\">Make it work podcast</a></li>\n<li><a href=\"https://makeitwork.tv/\">Make it work videos</a></li>\n<li><a href=\"https://dagger.io\">Dagger</a></li>\n<li><a href=\"https://daggerverse.dev/\">Daggerverse</a></li>\n</ul>\n<h4>Fork Around and Find Out</h4>\n<p>Justin and Autumn\u2019s new podcast coming in 2025 <a href=\"https://fafo.fm\">fafo.fm</a></p>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/shipit/ship-it-133.md\">PRs welcome!</a></p>",
+                    "description": "Gerhard Lazu joins the show to discuss how Ship It! started and why you might want a general purpose language for your CI/CD.",
+                    "enclosure": {
+                        "@length": "80028294",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/shipit/133/ship-it-133.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/14/2592",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:23:07",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/ship-it-original.png?v=63787880447"
+                    },
+                    "link": "https://changelog.com/shipit/133",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/shipit/133/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Justin Garrison",
+                            "@href": "https://changelog.com/person/jgarr",
+                            "@img": "https://secure.gravatar.com/avatar/5b746c23f3b5fae8ad186ddc9e96c34e.jpg?s=600&d=mm",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Autumn Nash",
+                            "@href": "https://changelog.com/person/autumn808",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/e47RO/avatar_large.jpg?v=63877387957",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Gerhard Lazu",
+                            "@href": "https://changelog.com/person/gerhard",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/py/avatar_large.png?v=63898311270",
+                            "@role": "guest"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "This is Ship It!"
+                            },
+                            {
+                                "@href": "https://sentry.io/events/launch-week/",
+                                "@start": "52",
+                                "@title": "Sponsor: Sentry"
+                            },
+                            {
+                                "@start": "257",
+                                "@title": "Big changes"
+                            },
+                            {
+                                "@start": "572",
+                                "@title": "Summarizing Ship It!"
+                            },
+                            {
+                                "@start": "906",
+                                "@title": "What have you been up to?"
+                            },
+                            {
+                                "@start": "1161",
+                                "@title": "What is Dagger?"
+                            },
+                            {
+                                "@start": "1337",
+                                "@title": "Familiarity of code"
+                            },
+                            {
+                                "@start": "1591",
+                                "@title": "Extensive automation"
+                            },
+                            {
+                                "@start": "1775",
+                                "@title": "Double edged sword"
+                            },
+                            {
+                                "@start": "1955",
+                                "@title": "Maintain your factory"
+                            },
+                            {
+                                "@start": "2159",
+                                "@title": "What are we missing?"
+                            },
+                            {
+                                "@start": "2460",
+                                "@title": "Distributing the dag"
+                            },
+                            {
+                                "@start": "2549",
+                                "@title": "Docker caching"
+                            },
+                            {
+                                "@href": "https://fly.io/",
+                                "@start": "2610",
+                                "@title": "Sponsor: Fly"
+                            },
+                            {
+                                "@start": "2782",
+                                "@title": "Shell SDK"
+                            },
+                            {
+                                "@start": "2844",
+                                "@title": "Mix n' Match SDKs"
+                            },
+                            {
+                                "@start": "2957",
+                                "@title": "Importance of documentation"
+                            },
+                            {
+                                "@start": "3450",
+                                "@title": "The end goal"
+                            },
+                            {
+                                "@start": "3640",
+                                "@title": "Recurring mistakes?"
+                            },
+                            {
+                                "@start": "3878",
+                                "@title": "Host for fun vs enterprise"
+                            },
+                            {
+                                "@start": "4340",
+                                "@title": "What makes a good dev"
+                            },
+                            {
+                                "@start": "4544",
+                                "@title": "Thanks for joining us!"
+                            },
+                            {
+                                "@start": "4915",
+                                "@title": "Outro"
+                            }
+                        ]
+                    },
+                    "pubDate": "Fri, 06 Dec 2024 22:00:00 +0000",
+                    "title": "CI/CDagger"
+                },
+                {
                     "content:encoded": "<p>Marc Boorshtein from Tremolo Security joins Justin &amp; Autumn to talk all about running Kubernetes in the public sector.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456580-shipit\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 8 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://www.systeminit.com/?utm_source=changelog\">System Initiative</a> \u2013 <strong>The future of DevOps automation (is here!)</strong> \u2014 System Initiative is an intuitive, powerful, collaborative replacement for Infrastructure as Code (IaC). The free tier is awesome (no credit card required) and you can <a href=\"https://www.systeminit.com/?utm_source=changelog\">get started</a> in 3 clicks.\n</li>\n<li><a href=\"https://retool.com/changelog\">Retool</a> \u2013 <strong>The low-code platform for developers to build internal tools</strong> \u2014 Some of the best teams out there trust Retool\u2026Brex, Coinbase, Plaid, Doordash, LegalGenius, Amazon, Allbirds, Peloton, and so many more \u2013 the developers at these teams trust Retool as the platform to build their internal tools. Try it free at <a href=\"https://retool.com/changelog\">retool.com/changelog</a>\n</li>\n<li><a href=\"https://www.timescale.com\">Timescale</a> \u2013 <strong>Purpose-built performance for AI</strong> Build RAG, search, and AI agents on the cloud and with PostgreSQL and purpose-built extensions for AI: pgvector, pgvectorscale, and pgai.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Marc Boorshtein &ndash; <a href=\"https://twitter.com/mlbiam\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/mlbiam\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/marc-boorshtein-5979a82\" rel=\"external ugc\">LinkedIn</a></li><li>Justin Garrison &ndash; <a href=\"https://twitter.com/rothgar\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/rothgar\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/justingarrison\" rel=\"external ugc\">LinkedIn</a></li><li>Autumn Nash &ndash; <a href=\"https://twitter.com/autumn808\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/autumn808\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/autumnnash\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://www.tremolo.io/\">Kubernetes Authentication and Namespace as a Service</a></li>\n<li><a href=\"https://openunison.github.io/\">Kubernetes Authentication and SSO</a></li>\n<li><a href=\"https://external-secrets.io/latest/\">Introduction - External Secrets Operator</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/shipit/ship-it-132.md\">PRs welcome!</a></p>",
                     "description": "Marc Boorshtein from Tremolo Security joins Justin & Autumn to talk all about running Kubernetes in the public sector.",
                     "enclosure": {
@@ -65,6 +211,10 @@
                             "@role": "guest"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@shipit/113567131586217448"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",
@@ -199,6 +349,10 @@
                     "podcast:socialInteract": {
                         "@protocol": "activitypub",
                         "@uri": "https://changelog.social/@shipit/113528266160965101"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/shipit/131/transcript"
                     },
                     "psc:chapters": {
                         "@version": "1.1",

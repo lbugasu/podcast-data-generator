@@ -40,6 +40,62 @@
             "item": [
                 {
                     "author": "scott@hanselman.com (Scott Hanselman)",
+                    "content:encoded": "<p>Join us for this very special episode as Scott's wife Mo returns for a 2024 check in. Mo and Scott are coming up on 25 years of marriage. How do they make it happen? Do they consider themselves a mixed marriage - and is it cultural or is it just that Scott is a weird computer person?</p>\n",
+                    "description": "<p>Join us for this very special episode as Scott's wife Mo returns for a 2024 check in. Mo and Scott are coming up on 25 years of marriage. How do they make it happen? Do they consider themselves a mixed marriage - and is it cultural or is it just that Scott is a weird computer person?</p>\n",
+                    "enclosure": {
+                        "@length": "35154517",
+                        "@type": "audio/mpeg",
+                        "@url": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/d7c12a34-7126-4bd2-8671-968d15390857/audio/2d7f28a2-4b9b-430f-bfec-3f9a13fb7855/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+                    },
+                    "guid": {
+                        "#text": "2bd8e1fd-dd9b-4c57-b7ca-2c5bcfed5b4b",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Scott Hanselman",
+                    "itunes:duration": "00:36:31",
+                    "itunes:episode": "974",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/e464c34b-2f32-411b-bdd2-dcf02e5301eb/c073007b-c9ec-4d0f-aee5-9bd7b14dbdb8/3000x3000/974.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "Join us for this very special episode as Scott's wife Mo returns for a 2024 check in. Mo and Scott are coming up on 25 years of marriage. How do they make it happen? Do they consider themselves a mixed marriage - and is it cultural or is it just that Scott is a weird computer person?",
+                    "itunes:summary": "Join us for this very special episode as Scott's wife Mo returns for a 2024 check in. Mo and Scott are coming up on 25 years of marriage. How do they make it happen? Do they consider themselves a mixed marriage - and is it cultural or is it just that Scott is a weird computer person?",
+                    "itunes:title": "The Return of Scott's Wife Mo",
+                    "link": "https://www.hanselminutes.com",
+                    "pubDate": "Thu, 5 Dec 2024 21:00:00 +0000",
+                    "title": "The Return of Scott's Wife Mo"
+                },
+                {
+                    "author": "scott@hanselman.com (Scott Hanselman)",
+                    "content:encoded": "<p>Let's hear about .NET Aspire from a real-world practitioner! Anthony Simmon has been using .NET Aspire at as a Staff Software Developer at Workleap and he's been blogging his experiences and improvements! Let's talk to Anthony about what he likes and doesn't like about .NET Aspire and how it's making his multi-container development better on his local machines!</p><ul><li><a href=\"https://anthonysimmon.com/\">https://anthonysimmon.com/</a><br />\u00a0</li></ul>\n",
+                    "description": "<p>Let's hear about .NET Aspire from a real-world practitioner! Anthony Simmon has been using .NET Aspire at as a Staff Software Developer at Workleap and he's been blogging his experiences and improvements! Let's talk to Anthony about what he likes and doesn't like about .NET Aspire and how it's making his multi-container development better on his local machines!</p><ul><li><a href=\"https://anthonysimmon.com/\">https://anthonysimmon.com/</a><br />\u00a0</li></ul>\n",
+                    "enclosure": {
+                        "@length": "33488947",
+                        "@type": "audio/mpeg",
+                        "@url": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/47b9c24b-dbbd-4ae1-8095-e414ec6cd18f/audio/03f2e227-0375-456c-a114-09621c4e8215/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+                    },
+                    "guid": {
+                        "#text": "9393fd76-2b3c-4fa3-b6f0-db468dfd0938",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Scott Hanselman",
+                    "itunes:duration": "00:34:47",
+                    "itunes:episode": "973",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/e464c34b-2f32-411b-bdd2-dcf02e5301eb/e9cdbae7-6547-4da6-ad2c-d6864c3e3dbd/3000x3000/973.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "Let's hear about .NET Aspire from a real-world practitioner! Anthony Simmon has been using .NET Aspire at as a Staff Software Developer at Workleap and he's been blogging his experiences and improvements! Let's talk to Anthony about what he likes and doesn't like about .NET Aspire and how it's making his multi-container development better on his local machines!",
+                    "itunes:summary": "Let's hear about .NET Aspire from a real-world practitioner! Anthony Simmon has been using .NET Aspire at as a Staff Software Developer at Workleap and he's been blogging his experiences and improvements! Let's talk to Anthony about what he likes and doesn't like about .NET Aspire and how it's making his multi-container development better on his local machines!",
+                    "itunes:title": ".NET Aspire with Anthony Simmon",
+                    "link": "https://www.hanselminutes.com",
+                    "pubDate": "Thu, 28 Nov 2024 21:00:00 +0000",
+                    "title": ".NET Aspire with Anthony Simmon"
+                },
+                {
+                    "author": "scott@hanselman.com (Scott Hanselman)",
                     "content:encoded": "<p>Dante Lex saw a problem with developers losing track of - and sometimes checking in secrets - so he and his team started Onboardbase to make secret management easy and secure from project creation to production. Scott chats with Dante about his philosophy of systems design, why secrets management is the next frontier in software, and why Onboardbase is for everyone.\u00a0</p><ul><li><a href=\"https://www.onboardbase.com/\">https://www.onboardbase.com/</a></li></ul>\n",
                     "description": "<p>Dante Lex saw a problem with developers losing track of - and sometimes checking in secrets - so he and his team started Onboardbase to make secret management easy and secure from project creation to production. Scott chats with Dante about his philosophy of systems design, why secrets management is the next frontier in software, and why Onboardbase is for everyone.\u00a0</p><ul><li><a href=\"https://www.onboardbase.com/\">https://www.onboardbase.com/</a></li></ul>\n",
                     "enclosure": {
@@ -63,7 +119,7 @@
                     "itunes:summary": "Dante Lex saw a problem with developers losing track of - and sometimes checking in secrets - so he and his team started Onboardbase to make secret management easy and secure from project creation to production. Scott chats with Dante about his philosophy of systems design, why secrets management is the next frontier in software, and why Onboardbase is for everyone. ",
                     "itunes:title": "Managing secrets with Onboardbase and Dante Lex",
                     "link": "https://www.hanselminutes.com",
-                    "pubDate": "Sun, 24 Nov 2024 00:17:05 +0000",
+                    "pubDate": "Thu, 21 Nov 2024 00:17:00 +0000",
                     "title": "Managing secrets with Onboardbase and Dante Lex"
                 },
                 {
@@ -17171,34 +17227,6 @@
                 },
                 {
                     "author": "scott@hanselman.com (Scott Hanselman)",
-                    "content:encoded": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
-                    "description": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
-                    "enclosure": {
-                        "@length": "31814349",
-                        "@type": "audio/mpeg",
-                        "@url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/f239e3a2_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-                    },
-                    "guid": {
-                        "#text": "http://www.hanselminutes.com/default.aspx?ShowID=380",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Scott Hanselman",
-                    "itunes:duration": "00:33:07",
-                    "itunes:episode": "358",
-                    "itunes:episodeType": "full",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/3000x3000/1519423024artwork.jpg?aid=rss_feed"
-                    },
-                    "itunes:subtitle": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
-                    "itunes:summary": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
-                    "itunes:title": "Halo 4 - Services in Azure with Caitie McCaffrey",
-                    "link": "https://www.hanselminutes.com",
-                    "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
-                    "title": "Halo 4 - Services in Azure with Caitie McCaffrey"
-                },
-                {
-                    "author": "scott@hanselman.com (Scott Hanselman)",
                     "content:encoded": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
                     "description": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
                     "enclosure": {
@@ -17224,6 +17252,34 @@
                     "link": "https://www.hanselminutes.com",
                     "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
                     "title": "Git support within Visual Studio"
+                },
+                {
+                    "author": "scott@hanselman.com (Scott Hanselman)",
+                    "content:encoded": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
+                    "description": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
+                    "enclosure": {
+                        "@length": "31814349",
+                        "@type": "audio/mpeg",
+                        "@url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/f239e3a2_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+                    },
+                    "guid": {
+                        "#text": "http://www.hanselminutes.com/default.aspx?ShowID=380",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Scott Hanselman",
+                    "itunes:duration": "00:33:07",
+                    "itunes:episode": "358",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/3000x3000/1519423024artwork.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
+                    "itunes:summary": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
+                    "itunes:title": "Halo 4 - Services in Azure with Caitie McCaffrey",
+                    "link": "https://www.hanselminutes.com",
+                    "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
+                    "title": "Halo 4 - Services in Azure with Caitie McCaffrey"
                 },
                 {
                     "author": "scott@hanselman.com (Scott Hanselman)",
@@ -27166,9 +27222,9 @@
             "itunes:summary": "Hanselminutes is Fresh Air for Developers. A weekly commute-time podcast that promotes fresh technology and fresh voices. Talk and Tech for Developers, Life-long Learners, and Technologists.",
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Sun, 24 Nov 2024 01:07:45 +0000",
+            "lastBuildDate": "Thu, 5 Dec 2024 21:00:12 +0000",
             "link": "https://www.hanselminutes.com",
-            "pubDate": "Sun, 24 Nov 2024 00:17:05 +0000",
+            "pubDate": "Thu, 5 Dec 2024 21:00:00 +0000",
             "title": "Hanselminutes with Scott Hanselman"
         }
     }

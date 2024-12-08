@@ -34,6 +34,63 @@
                         "Arts",
                         "Books"
                     ],
+                    "content:encoded": "<p><span style=\"font-weight: 400;\">Q'orianka Kilcher (Yellowstone, Dora and the Lost City of Gold) stars in a Cherokee tale about a clever rabbit who craftily tries pulling the wool \u2014 and fur \u2014 over everyone\u2019s eyes.</span></p>",
+                    "dc:creator": {
+                        "#text": "WBUR",
+                        "@xmlns:dc": "http://purl.org/dc/elements/1.1/"
+                    },
+                    "description": "<p><span style=\"font-weight: 400;\">Q'orianka Kilcher (Yellowstone, Dora and the Lost City of Gold) stars in a Cherokee tale about a clever rabbit who craftily tries pulling the wool \u2014 and fur \u2014 over everyone\u2019s eyes.</span></p>",
+                    "enclosure": {
+                        "@length": "23876969",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR6212455157.mp3"
+                    },
+                    "guid": {
+                        "#text": "9eaa67bb-ed84-4c09-931f-0537ac5b520e",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": " WBUR ",
+                    "itunes:duration": "00:24:52",
+                    "itunes:episode": "23",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://wordpress.wbur.org/wp-content/uploads/2024/12/FabfurSQ.jpg"
+                    },
+                    "itunes:season": "8",
+                    "itunes:subtitle": "Q'orianka Kilcher (Yellowstone, Dora and the Lost City of Gold) stars in a Cherokee tale about a clever rabbit who craftily tries pulling the wool \u2014 and fur \u2014 over everyone\u2019s eyes.",
+                    "itunes:summary": "<span style=\"font-weight: 400;\">Q'orianka Kilcher (Yellowstone, Dora and the Lost City of Gold) stars in a Cherokee tale about a clever rabbit who craftily tries pulling the wool \u2014 and fur \u2014 over everyone\u2019s eyes.</span>",
+                    "itunes:title": " Encore: The Most Fabulous Fur of All ",
+                    "link": "https://www.wbur.org/circleround/2024/12/03/fabulous-fur-encore",
+                    "media:content": [
+                        {
+                            "@height": "3000",
+                            "@medium": "image",
+                            "@type": "image/jpeg",
+                            "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/12/FabfurSQ.jpg",
+                            "@width": "3000",
+                            "media:description": "(Sabina Hahn for WBUR)",
+                            "media:thumbnail": {
+                                "@height": "200",
+                                "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/12/FabfurSQ-200x200.jpg",
+                                "@width": "200"
+                            }
+                        },
+                        {
+                            "@fileSize": "23876969",
+                            "@medium": "audio",
+                            "@type": "audio/mpeg",
+                            "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR6212455157.mp3"
+                        }
+                    ],
+                    "pubDate": "Tue, 03 Dec 2024 15:00:00 -0500",
+                    "title": "Encore: The Most Fabulous Fur of All"
+                },
+                {
+                    "category": [
+                        "Arts",
+                        "Books"
+                    ],
                     "content:encoded": "<p><span style=\"font-weight: 400;\">World-renowned violinist Hilary Hahn plays a musician with a miraculous gift in this whimsical folktale from South America, North Africa, Europe and the US.</span></p>",
                     "dc:creator": {
                         "#text": "WBUR",
@@ -212,7 +269,7 @@
                     },
                     "description": "<p><span style=\"font-weight: 400;\">Jennifer Hale (Stars Wars: The Clone Wars, X-Men \u201897) stars in a Portuguese tale about a big bad wolf and a sharp shrewd owl.</span></p>",
                     "enclosure": {
-                        "@length": "16536425",
+                        "@length": "16570994",
                         "@type": "audio/mpeg",
                         "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR2113563416.mp3"
                     },
@@ -221,7 +278,7 @@
                         "@isPermaLink": "false"
                     },
                     "itunes:author": " WBUR ",
-                    "itunes:duration": "00:17:14",
+                    "itunes:duration": "00:17:16",
                     "itunes:episode": "19",
                     "itunes:episodeType": "full",
                     "itunes:explicit": "no",
@@ -248,7 +305,7 @@
                             }
                         },
                         {
-                            "@fileSize": "16536425",
+                            "@fileSize": "16570994",
                             "@medium": "audio",
                             "@type": "audio/mpeg",
                             "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR2113563416.mp3"
@@ -20932,7 +20989,7 @@
             "itunes:summary": "Created and produced by parents of young children, WBUR's Circle Round adapts carefully-selected folktales from around the world into sound- and music-rich radio plays for kids ages 3-103. Each 15 to 25-minute episode explores important issues like kindness, persistence and generosity. And each episode ends with an activity that inspires a deeper conversation between children and grown-ups.",
             "itunes:type": "serial",
             "language": "en-us",
-            "lastBuildDate": "Sat, 30 Nov 2024 19:45:07 -0500",
+            "lastBuildDate": "Sat, 07 Dec 2024 19:30:06 -0500",
             "link": "https://www.wbur.org/podcasts/circleround",
             "title": "Circle Round"
         }

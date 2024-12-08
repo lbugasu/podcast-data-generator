@@ -23,6 +23,129 @@
             "description": "Making artificial intelligence practical, productive & accessible to everyone. Practical AI is a show in which technology professionals, business people, students, enthusiasts, and expert guests engage in lively discussions about Artificial Intelligence and related topics (Machine Learning, Deep Learning, Neural Networks, GANs, MLOps, AIOps, LLMs & more).\n\nThe focus is on productive implementations and real-world scenarios that are accessible to everyone. If you want to keep up with the latest advances in AI, while keeping one foot in the real world, then this is the show for you!",
             "item": [
                 {
+                    "content:encoded": "<p>Kyutai, an open science research lab, made headlines over the summer when they released their real-time speech-to-speech AI assistant (beating OpenAI to market with their teased GPT-driven speech-to-speech functionality). Alex from Kyutai joins us in this episode to discuss the research lab, their recent Moshi models, and what might be coming next from the lab. Along the way we discuss small models and the AI ecosystem in France.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456003-practicalai\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 10 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://www.timescale.com\">Timescale</a> \u2013 <strong>Purpose-built performance for AI</strong> Build RAG, search, and AI agents on the cloud and with PostgreSQL and purpose-built extensions for AI: pgvector, pgvectorscale, and pgai.\n</li>\n<li><a href=\"https://workos.com\">WorkOS</a> \u2013 <strong>AuthKit offers 1,000,000 monthly active users (MAU) free</strong> \u2014 The world\u2019s best login box, powered by WorkOS + Radix. Learn more and get started at <a href=\"https://workos.com/\">WorkOS.com</a> and <a href=\"https://www.authkit.com\">AuthKit.com</a>\n</li>\n</ul></p><p>Featuring:</p><ul><li>Alexandre D\u00e9fossez &ndash; <a href=\"https://twitter.com/honualx\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/adefossez\" rel=\"external ugc\">GitHub</a>, <a href=\"https://ai.honu.io\" rel=\"external ugc\">Website</a></li><li>Chris Benson &ndash; <a href=\"https://twitter.com/chrisbenson\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/chrisbenson\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://chrisbenson.com\" rel=\"external ugc\">Website</a></li><li>Daniel Whitenack &ndash; <a href=\"https://twitter.com/dwhitena\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/dwhitena\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.datadan.io/\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://kyutai.org/\">Kyutai</a></li>\n<li><a href=\"https://github.com/kyutai-labs/moshi\">Kyutai on GitHub</a></li>\n<li><a href=\"https://huggingface.co/kyutai\">Kyutai on Hugging Face</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/practicalai/practical-ai-298.md\">PRs welcome!</a></p>",
+                    "description": "Kyutai, an open science research lab, made headlines over the summer when they released their real-time speech-to-speech AI assistant (beating OpenAI to market with their teased GPT-driven speech-to-speech functionality). Alex from Kyutai joins us in this episode to discuss the research lab, their recent Moshi models, and what might be coming next from the lab. Along the way we discuss small models and the AI ecosystem in France.",
+                    "enclosure": {
+                        "@length": "48280672",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/practicalai/298/practical-ai-298.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/7/2631",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "50:05",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
+                    },
+                    "link": "https://changelog.com/practicalai/298",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/practicalai/298/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Chris Benson",
+                            "@href": "https://changelog.com/person/chris",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/j8b/avatar_large.png?v=63706916892",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Daniel Whitenack",
+                            "@href": "https://changelog.com/person/dwhitena",
+                            "@img": "https://secure.gravatar.com/avatar/1ea0c31fbcab54853329d9f7bcdb6d6d.jpg?s=600&d=mm",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Alexandre D\u00e9fossez",
+                            "@href": "https://changelog.com/person/adefossez",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/e4Lgn/avatar_large.jpeg?v=63900546897",
+                            "@role": "guest"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "Welcome to Practical AI"
+                            },
+                            {
+                                "@href": "https://fly.io/",
+                                "@start": "35",
+                                "@title": "Sponsor: Fly"
+                            },
+                            {
+                                "@start": "196",
+                                "@title": "What is Kyutai?"
+                            },
+                            {
+                                "@start": "359",
+                                "@title": "French AI ecosystem"
+                            },
+                            {
+                                "@start": "521",
+                                "@title": "Formin a non-profit"
+                            },
+                            {
+                                "@start": "631",
+                                "@title": "Connecting to open science"
+                            },
+                            {
+                                "@start": "748",
+                                "@title": "What makes Kyutai stand out?"
+                            },
+                            {
+                                "@href": "https://www.timescale.com",
+                                "@start": "986",
+                                "@title": "Sponsor: Timescale"
+                            },
+                            {
+                                "@start": "1144",
+                                "@title": "Moshi's capabilities"
+                            },
+                            {
+                                "@start": "1378",
+                                "@title": "History of speech-to-speech models"
+                            },
+                            {
+                                "@start": "1853",
+                                "@title": "Cool things to try"
+                            },
+                            {
+                                "@href": "https://workos.com",
+                                "@start": "2053",
+                                "@title": "Sponsor: WorkOS"
+                            },
+                            {
+                                "@start": "2233",
+                                "@title": "Fine tuning data sets"
+                            },
+                            {
+                                "@start": "2548",
+                                "@title": "Model sizes"
+                            },
+                            {
+                                "@start": "2710",
+                                "@title": "Things to come"
+                            },
+                            {
+                                "@start": "2914",
+                                "@title": "Thanks for joining us!"
+                            },
+                            {
+                                "@start": "2956",
+                                "@title": "Outro"
+                            }
+                        ]
+                    },
+                    "pubDate": "Wed, 04 Dec 2024 16:00:00 +0000",
+                    "title": "Full-duplex, real-time dialogue with Kyutai"
+                },
+                {
                     "content:encoded": "<p>Chris and Daniel dive into what Trump\u2019s impending second term could mean for AI companies, model developers, and regulators, unpacking the potential shifts in policy and innovation. Next, they discuss the latest models, like Qwen, that blur the performance gap between open and closed systems. Finally, they explore new AI tools for meeting clones and AI-driven commerce, sparking a conversation about the balance between digital convenience and fostering genuine human connections.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456003-practicalai\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 8 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://workos.com\">WorkOS</a> \u2013 <strong>AuthKit offers 1,000,000 monthly active users (MAU) free</strong> \u2014 The world\u2019s best login box, powered by WorkOS + Radix. Learn more and get started at <a href=\"https://workos.com/\">WorkOS.com</a> and <a href=\"https://www.authkit.com\">AuthKit.com</a>\n</li>\n<li><a href=\"http://notion.com/practicalai\">Notion</a> \u2013 Notion is a place where any team can write, plan, organize, and rediscover the joy of play. It\u2019s a workspace designed not just for making progress, but getting inspired. Notion is for everyone \u2014 whether you\u2019re a Fortune 500 company or freelance designer, starting a new startup or a student juggling classes and clubs.\n</li>\n<li><a href=\"https://retool.com/changelog\">Retool</a> \u2013 <strong>The low-code platform for developers to build internal tools</strong> \u2014 Some of the best teams out there trust Retool\u2026Brex, Coinbase, Plaid, Doordash, LegalGenius, Amazon, Allbirds, Peloton, and so many more \u2013 the developers at these teams trust Retool as the platform to build their internal tools. Try it free at <a href=\"https://retool.com/changelog\">retool.com/changelog</a>\n</li>\n</ul></p><p>Featuring:</p><ul><li>Chris Benson &ndash; <a href=\"https://twitter.com/chrisbenson\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/chrisbenson\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://chrisbenson.com\" rel=\"external ugc\">Website</a></li><li>Daniel Whitenack &ndash; <a href=\"https://twitter.com/dwhitena\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/dwhitena\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.datadan.io/\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li>New Models\n<ul>\n<li>Qwen2.5\n<ul>\n<li><a href=\"https://restofworld.org/2024/alibaba-qwen-ai-model/\">Alibaba\u2019s Qwen AI Model</a></li>\n<li><a href=\"https://the-decoder.com/alibabas-qwen2-5-turbo-reads-ten-novels-in-just-about-one-minute/\">Qwen2.5 Turbo Reads Ten Novels in One Minute</a></li>\n</ul>\n</li>\n<li>DeepSeek\n<ul>\n<li><a href=\"https://api-docs.deepseek.com/news/news1120\">DeepSeek API Docs Update</a></li>\n</ul>\n</li>\n<li>FLUX\n<ul>\n<li><a href=\"https://huggingface.co/black-forest-labs/FLUX.1-dev\">Black Forest Labs\u2019 FLUX.1-dev on Hugging Face</a></li>\n</ul>\n</li>\n<li>OuteTTS\n<ul>\n<li><a href=\"https://www.outeai.com/blog/outetts-0.1-350m\">OuteTTS 0.1 - 350M Blog</a></li>\n<li><a href=\"https://www.outeai.com/blog/outetts-0.2-500m\">OuteTTS 0.2 - 500M Blog</a></li>\n<li><a href=\"https://www.linkedin.com/posts/vaibhavs10_smol-tts-keeps-getting-better-introducing-a-new-467706429441-SOOG?utm_source=share&amp;utm_medium=member_desktop\">Smol TTS Update on LinkedIn</a></li>\n</ul>\n</li>\n<li>SmolLVM\n<ul>\n<li><a href=\"https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_smollm-can-now-see-meet-smolv-075214778369-0Zlu?utm_source=share&amp;utm_medium=member_desktop\">SmolLVM Updates on LinkedIn</a></li>\n</ul>\n</li>\n</ul>\n</li>\n<li><a href=\"https://time.com/7174210/what-donald-trump-win-means-for-ai/\">What Donald Trump\u2019s Win Means for AI</a>\n<ul>\n<li><a href=\"https://changelog.com/practicalai/244\">Practical AI Podcast: Episode 244</a></li>\n</ul>\n</li>\n<li><a href=\"https://getpickle.ai/\">GetPickle.ai</a></li>\n<li>Docling\n<ul>\n<li><a href=\"https://arxiv.org/pdf/2408.09869\">Docling Paper on arXiv</a></li>\n<li><a href=\"https://github.com/DS4SD/docling\">Docling GitHub Repository</a></li>\n<li><a href=\"https://www.redhat.com/en/blog/docling-missing-document-processing-companion-generative-ai\">Red Hat Blog on Docling</a></li>\n<li><a href=\"https://www.linkedin.com/posts/inesmontani_many-of-you-have-been-asking-about-pdf-table-extraction-985818955776-18ex?utm_source=share&amp;utm_medium=member_android\">LinkedIn Post on PDF Table Extraction</a></li>\n<li><a href=\"https://huggingface.co/blog/davidberenstein1957/observers-a-lightweight-sdk-for-ai-observability\">Hugging Face Blog on Observers SDK</a></li>\n</ul>\n</li>\n<li>AI and Commerce\n<ul>\n<li><a href=\"https://stripe.dev/blog/adding-payments-to-your-agentic-workflows\">Stripe Blog: Adding Payments to Agentic Workflows</a></li>\n<li><a href=\"https://www.linkedin.com/posts/aravind-srinivas-16051987_we-are-excited-to-introduce-payments-sdk-601475915776-BFEN?utm_source=share&amp;utm_medium=member_desktop\">LinkedIn Announcement: Payments Integration SDK</a></li>\n</ul>\n</li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/practicalai/practical-ai-297.md\">PRs welcome!</a></p>",
                     "description": "Chris and Daniel dive into what Trump\u2019s impending second term could mean for AI companies, model developers, and regulators, unpacking the potential shifts in policy and innovation. Next, they discuss the latest models, like Qwen, that blur the performance gap between open and closed systems. Finally, they explore new AI tools for meeting clones and AI-driven commerce, sparking a conversation about the balance between digital convenience and fostering genuine human connections.",
                     "enclosure": {
@@ -59,6 +182,10 @@
                             "@role": "host"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@practicalai/113567426554721873"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",

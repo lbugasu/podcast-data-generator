@@ -23,6 +23,155 @@
             "description": "Your weekly celebration of JavaScript and the web. Current panelists: Jerod Santo, Kevin Ball (KBall), Nick Nisi, Chris Hiller, Amal Hussein & Amy Dutton.\n\nPast panelists: Suz Hinton, Feross Aboukhadijeh, Amelia Wattenberger, Divya Sasidharan, Alex Sexton, Rachel White, Emma Bostian, Ali Spittel, Mikeal Rogers & Jessica Sachs.\n\nWe talk about the web platform (Chrome, Safari, Edge, Firefox, Brave, etc), front-end frameworks (ReactJS, SolidJS, Svelte, VueJS, AngularJS, etc), JavaScript and TypeScript runtimes (Node, Deno, Bun), web animation, SVG, TailwindCSS, robotics, IoT, and much more. If JavaScript and/or the web touch your life, this show\u2019s for you.\n\nSome people search for JSParty and can't find the show, so now the string JSParty is in our description too.",
             "item": [
                 {
+                    "content:encoded": "<p>Back at React Summit in New York, KBall &amp; Nick sat down with Tom Occhino &amp; Shruti Kapoor for more fascinating conversations.</p>\n<p>Tom Occhino, a key figure in React\u2019s history at Facebook (now Meta), reveals the origin story of React, which began when an ads engineer presented a revolutionary approach to web UI rendering. The discussion extends to React\u2019s evolution through Next.js.</p>\n<p>Then, Shruti Kapoor breaks down React 19\u2019s major features, including React Server Components (RSC), the new compiler implementation, and enhanced APIs that promise to streamline development workflows.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456196-jsparty\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 7 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://workos.com\">WorkOS</a> \u2013 <strong>AuthKit offers 1,000,000 monthly active users (MAU) free</strong> \u2014 The world\u2019s best login box, powered by WorkOS + Radix. Learn more and get started at <a href=\"https://workos.com/\">WorkOS.com</a> and <a href=\"https://www.authkit.com\">AuthKit.com</a>\n</li>\n<li><a href=\"https://jam.dev\">Jam.dev</a> \u2013 <strong>One click bug reports developers love</strong> \u2014 Never explain another bug report again. Jam auto-captures all the info engineers need to debug and repro.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Tom Occhino &ndash; <a href=\"https://twitter.com/tomocchino\" rel=\"external ugc\">Twitter</a>, <a href=\"https://www.linkedin.com/in/tomocchino\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://www.tomocchino.com\" rel=\"external ugc\">Website</a></li><li>Shruti Kapoor &ndash; <a href=\"https://twitter.com/shrutikapoor08\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/shrutikapoor08\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.twitch.tv/shrutikapoor\" rel=\"external ugc\">Website</a></li><li>Nick Nisi &ndash; <a href=\"https://nicknisi.com/@nicknisi\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/nicknisi\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/nicknisi\" rel=\"external ugc\">GitHub</a>, <a href=\"https://nicknisi.com\" rel=\"external ugc\">Website</a></li><li>Kevin Ball &ndash; <a href=\"https://twitter.com/kbal11\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/kball\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/kbal11\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://www.kball.llc\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://cult.honeypot.io/originals/react-the-documentary/\">React.js: The Documentary</a></li>\n<li><a href=\"https://react.dev/blog/2024/04/25/react-19\">React 19 RC</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/jsparty/js-party-349.md\">PRs welcome!</a></p>",
+                    "description": "Back at React Summit in New York, KBall & Nick sat down with Tom Occhino & Shruti Kapoor for more fascinating conversations.\n\nTom Occhino, a key figure in React's history at Facebook (now Meta), reveals the origin story of React, which began when an ads engineer presented a revolutionary approach to web UI rendering. The discussion extends to React's evolution through Next.js.\n\nThen, Shruti Kapoor breaks down React 19's major features, including React Server Components (RSC), the new compiler implementation, and enhanced APIs that promise to streamline development workflows.",
+                    "enclosure": {
+                        "@length": "70800980",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/jsparty/349/js-party-349.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/6/2625",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:13:16",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/js-party-original.png?v=63725770332"
+                    },
+                    "link": "https://changelog.com/jsparty/349",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/jsparty/349/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Nick Nisi",
+                            "@href": "https://changelog.com/person/nicknisi",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/XGd/avatar_large.jpg?v=63740463771",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Kevin Ball",
+                            "@href": "https://changelog.com/person/kball",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/6qd/avatar_large.jpg?v=63721617586",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Tom Occhino",
+                            "@href": "https://changelog.com/person/tomocchino",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/j4lwg/avatar_large.jpg?v=63898230808",
+                            "@role": "guest"
+                        },
+                        {
+                            "#text": "Shruti Kapoor",
+                            "@href": "https://changelog.com/person/shrutikapoor08",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/Zq1pL/avatar_large.jpg?v=63797725856",
+                            "@role": "guest"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "It's party time, y'all"
+                            },
+                            {
+                                "@href": "https://fly.io/",
+                                "@start": "39",
+                                "@title": "Sponsor: Fly.io"
+                            },
+                            {
+                                "@start": "188",
+                                "@title": "Tom Occhino!"
+                            },
+                            {
+                                "@start": "707",
+                                "@title": "When React was first released"
+                            },
+                            {
+                                "@start": "938",
+                                "@title": "Vercel vs Facebook"
+                            },
+                            {
+                                "@start": "1299",
+                                "@title": "Next.js"
+                            },
+                            {
+                                "@start": "1567",
+                                "@title": "Constraints"
+                            },
+                            {
+                                "@start": "1707",
+                                "@title": "AI (obligatory)"
+                            },
+                            {
+                                "@start": "2046",
+                                "@title": "Conferences"
+                            },
+                            {
+                                "@start": "2157",
+                                "@title": "Tom's final words"
+                            },
+                            {
+                                "@href": "https://workos.com",
+                                "@start": "2212",
+                                "@title": "Sponsor: WorkOS"
+                            },
+                            {
+                                "@href": "https://jam.dev",
+                                "@start": "2382",
+                                "@title": "Sponsor: Jam.dev"
+                            },
+                            {
+                                "@start": "2475",
+                                "@title": "Shruti Kapoor!"
+                            },
+                            {
+                                "@start": "2675",
+                                "@title": "Actions"
+                            },
+                            {
+                                "@start": "2836",
+                                "@title": "Compiler"
+                            },
+                            {
+                                "@start": "3124",
+                                "@title": "Suspense"
+                            },
+                            {
+                                "@start": "3429",
+                                "@title": "Conferences"
+                            },
+                            {
+                                "@start": "3680",
+                                "@title": "CDD"
+                            },
+                            {
+                                "@start": "3745",
+                                "@title": "Exciting things"
+                            },
+                            {
+                                "@start": "3949",
+                                "@title": "TypeScript (obligatory)"
+                            },
+                            {
+                                "@start": "4135",
+                                "@title": "Shruti's final words"
+                            },
+                            {
+                                "@start": "4335",
+                                "@title": "Outro"
+                            }
+                        ]
+                    },
+                    "pubDate": "Thu, 05 Dec 2024 17:45:00 +0000",
+                    "title": "React: then & now"
+                },
+                {
                     "content:encoded": "<p>At React Summit in New York, KBall &amp; Nick sat down with Kent C. Dodds &amp; Theo Browne for two fascinating conversations. Both of them showed us the whole gamut of their personalities!</p>\n<p>Kent shared his insights on effective teaching methodologies and the future of developer education, while diving deep into React and the Remix/React Router ecosystem, and closing on an appeal for kindness int he world.</p>\n<p>Then Theo took us behind the scenes of his developer-focused content creation, from streaming to the origins of the T3 stack, and how his online persona (including T3!) is \u201cjust him\u201d.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456196-jsparty\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 5 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://workos.com\">WorkOS</a> \u2013 <strong>AuthKit offers 1,000,000 monthly active users (MAU) free</strong> \u2014 The world\u2019s best login box, powered by WorkOS + Radix. Learn more and get started at <a href=\"https://workos.com/\">WorkOS.com</a> and <a href=\"https://www.authkit.com\">AuthKit.com</a>\n</li>\n<li><a href=\"https://jam.dev\">Jam.dev</a> \u2013 <strong>One click bug reports developers love</strong> \u2014 Never explain another bug report again. Jam auto-captures all the info engineers need to debug and repro.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Kent C. Dodds &ndash; <a href=\"https://twitter.com/kentcdodds\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/kentcdodds\" rel=\"external ugc\">GitHub</a>, <a href=\"https://kentcdodds.com\" rel=\"external ugc\">Website</a></li><li>Theo Browne &ndash; <a href=\"https://twitter.com/t3dotgg\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/theobr\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/t3gg\" rel=\"external ugc\">LinkedIn</a></li><li>Kevin Ball &ndash; <a href=\"https://twitter.com/kbal11\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/kball\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/kbal11\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://www.kball.llc\" rel=\"external ugc\">Website</a></li><li>Nick Nisi &ndash; <a href=\"https://nicknisi.com/@nicknisi\" rel=\"external ugc\">Mastodon</a>, <a href=\"https://twitter.com/nicknisi\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/nicknisi\" rel=\"external ugc\">GitHub</a>, <a href=\"https://nicknisi.com\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://reactsummit.us\">React Summit</a></li>\n<li><a href=\"https://www.epicweb.dev\">Epic Web</a></li>\n<li><a href=\"https://remix.run\">Remix</a></li>\n<li><a href=\"https://reactrouter.com\">React Router</a></li>\n<li><a href=\"https://create.t3.gg\">T3 Stack</a></li>\n<li><a href=\"https://www.trycursor.com\">Cursor</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/jsparty/js-party-348.md\">PRs welcome!</a></p>",
                     "description": "At React Summit in New York, KBall & Nick sat down with Kent C. Dodds & Theo Browne for two fascinating conversations. Both of them showed us the whole gamut of their personalities!\n\nKent shared his insights on effective teaching methodologies and the future of developer education, while diving deep into React and the Remix/React Router ecosystem, and closing on an appeal for kindness int he world. \n\nThen Theo took us behind the scenes of his developer-focused content creation, from streaming to the origins of the T3 stack, and how his online persona (including T3!) is \"just him\".",
                     "enclosure": {
@@ -71,6 +220,10 @@
                             "@role": "guest"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@jsparty/113567387190875976"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",
@@ -204,6 +357,10 @@
                     "podcast:socialInteract": {
                         "@protocol": "activitypub",
                         "@uri": "https://changelog.social/@jsparty/113522497743091016"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/jsparty/347/transcript"
                     },
                     "psc:chapters": {
                         "@version": "1.1",
