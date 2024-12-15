@@ -34,6 +34,63 @@
                         "Arts",
                         "Books"
                     ],
+                    "content:encoded": "<p><span style=\"font-weight: 400;\">Recorded live at Symphony Space with a star-studded cast, this magical tale inspired by Ukrainian and Russian lore follows a kindly tailor as he embarks on an unforgettable chase.</span></p>",
+                    "dc:creator": {
+                        "#text": "WBUR",
+                        "@xmlns:dc": "http://purl.org/dc/elements/1.1/"
+                    },
+                    "description": "<p><span style=\"font-weight: 400;\">Recorded live at Symphony Space with a star-studded cast, this magical tale inspired by Ukrainian and Russian lore follows a kindly tailor as he embarks on an unforgettable chase.</span></p>",
+                    "enclosure": {
+                        "@length": "25979760",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR8209555218.mp3"
+                    },
+                    "guid": {
+                        "#text": "a638b7c8-25db-4793-b1af-509b6feefa99",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": " WBUR ",
+                    "itunes:duration": "00:27:04",
+                    "itunes:episode": "24",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://wordpress.wbur.org/wp-content/uploads/2024/12/WildGooseSQ.jpg"
+                    },
+                    "itunes:season": "8",
+                    "itunes:subtitle": "Recorded live at Symphony Space with a star-studded cast, this magical tale inspired by Ukrainian and Russian lore follows a kindly tailor as he embarks on an unforgettable chase.",
+                    "itunes:summary": "<span style=\"font-weight: 400;\">Recorded live at Symphony Space with a star-studded cast, this magical tale inspired by Ukrainian and Russian lore follows a kindly tailor as he embarks on an unforgettable chase.</span>",
+                    "itunes:title": " The Wild Goose Chase ",
+                    "link": "https://www.wbur.org/circleround/2024/12/10/wild-goose-chase",
+                    "media:content": [
+                        {
+                            "@height": "3000",
+                            "@medium": "image",
+                            "@type": "image/jpeg",
+                            "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/12/WildGooseSQ.jpg",
+                            "@width": "3000",
+                            "media:description": "(Sabina Hahn for WBUR)",
+                            "media:thumbnail": {
+                                "@height": "200",
+                                "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/12/WildGooseSQ-200x200.jpg",
+                                "@width": "200"
+                            }
+                        },
+                        {
+                            "@fileSize": "25979760",
+                            "@medium": "audio",
+                            "@type": "audio/mpeg",
+                            "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR8209555218.mp3"
+                        }
+                    ],
+                    "pubDate": "Tue, 10 Dec 2024 15:00:00 -0500",
+                    "title": "The Wild Goose Chase"
+                },
+                {
+                    "category": [
+                        "Arts",
+                        "Books"
+                    ],
                     "content:encoded": "<p><span style=\"font-weight: 400;\">Q'orianka Kilcher (Yellowstone, Dora and the Lost City of Gold) stars in a Cherokee tale about a clever rabbit who craftily tries pulling the wool \u2014 and fur \u2014 over everyone\u2019s eyes.</span></p>",
                     "dc:creator": {
                         "#text": "WBUR",
@@ -20989,7 +21046,7 @@
             "itunes:summary": "Created and produced by parents of young children, WBUR's Circle Round adapts carefully-selected folktales from around the world into sound- and music-rich radio plays for kids ages 3-103. Each 15 to 25-minute episode explores important issues like kindness, persistence and generosity. And each episode ends with an activity that inspires a deeper conversation between children and grown-ups.",
             "itunes:type": "serial",
             "language": "en-us",
-            "lastBuildDate": "Sat, 07 Dec 2024 19:30:06 -0500",
+            "lastBuildDate": "Sat, 14 Dec 2024 19:45:06 -0500",
             "link": "https://www.wbur.org/podcasts/circleround",
             "title": "Circle Round"
         }

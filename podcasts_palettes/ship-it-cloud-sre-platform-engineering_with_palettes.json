@@ -23,6 +23,129 @@
             "description": "A podcast about everything that happens after \\`git push\\` Justin Garrison & Autumn Nash explore all things DevOps, infra, cloud & running apps in production. Whether you're cloud native, Kubernetes curious, a pro SRE, or just operating a VPS... you'll love coming along for the ride. \n\nSome people search for ShipIt or ShipItFM and can't find the show, so now the strings ShipIt and ShipItFM are in our description too.",
             "item": [
                 {
+                    "content:encoded": "<p>Phillip Carter, Principle PM at Honeycomb, joins Justin &amp; Autumn to discuss his work at Microsoft &amp; Honeycomb, building AI infrastructure &amp; more.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456580-shipit\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 9 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://sentry.io/events/launch-week/\">Sentry</a> \u2013 <strong>When your app breaks, fix it faster with Sentry</strong> Use the code <code>CHANGELOG</code> when you sign up to <strong>get $100 off the team plan</strong>. Learn more about what they shipped for <a href=\"https://sentry.io/events/launch-week/\">Launch Week</a> and <a href=\"https://docs.sentry.io/product/explore/session-replay/mobile/\">Session Replay for Mobile.</a>\n</li>\n<li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://www.timescale.com\">Timescale</a> \u2013 <strong>Purpose-built performance for AI</strong> Build RAG, search, and AI agents on the cloud and with PostgreSQL and purpose-built extensions for AI: pgvector, pgvectorscale, and pgai.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Phillip Carter &ndash; <a href=\"https://twitter.com/_cartermp\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/cartermp\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/phillip-carter-4714a135\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://phillipcarter.dev\" rel=\"external ugc\">Website</a></li><li>Justin Garrison &ndash; <a href=\"https://twitter.com/rothgar\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/rothgar\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/justingarrison\" rel=\"external ugc\">LinkedIn</a></li><li>Autumn Nash &ndash; <a href=\"https://twitter.com/autumn808\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/autumn808\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/autumnnash\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://changelog.com/posts/a-new-era-for-the-changelog-podcast-universe\">A new era for the Changelog Podcast Universe</a></li>\n<li><a href=\"https://fafo.fm\">FAFO.fm</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/shipit/ship-it-134.md\">PRs welcome!</a></p>",
+                    "description": "Phillip Carter, Principle PM at Honeycomb, joins Justin & Autumn to discuss his work at Microsoft & Honeycomb, building AI infrastructure & more.",
+                    "enclosure": {
+                        "@length": "62639914",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/shipit/134/ship-it-134.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/14/2635",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1:05:01",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/ship-it-original.png?v=63787880447"
+                    },
+                    "link": "https://changelog.com/shipit/134",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/shipit/134/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Justin Garrison",
+                            "@href": "https://changelog.com/person/jgarr",
+                            "@img": "https://secure.gravatar.com/avatar/5b746c23f3b5fae8ad186ddc9e96c34e.jpg?s=600&d=mm",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Autumn Nash",
+                            "@href": "https://changelog.com/person/autumn808",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/e47RO/avatar_large.jpg?v=63877387957",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Phillip Carter",
+                            "@href": "https://changelog.com/person/pcarter",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/LkJY0/avatar_large.jpg?v=63901410981",
+                            "@role": "guest"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "This is Ship It!"
+                            },
+                            {
+                                "@href": "https://sentry.io/events/launch-week/",
+                                "@start": "53",
+                                "@title": "Sponsor: Sentry"
+                            },
+                            {
+                                "@start": "177",
+                                "@title": "FAFO.fm"
+                            },
+                            {
+                                "@start": "434",
+                                "@title": "Honeycomb PM"
+                            },
+                            {
+                                "@start": "737",
+                                "@title": "Legacy makes money"
+                            },
+                            {
+                                "@href": "https://fly.io/",
+                                "@start": "927",
+                                "@title": "Sponsor: Fly"
+                            },
+                            {
+                                "@start": "1084",
+                                "@title": "Mono in Microsoft"
+                            },
+                            {
+                                "@start": "1338",
+                                "@title": "Huge Java improvements"
+                            },
+                            {
+                                "@start": "1499",
+                                "@title": "Post-Microsoft"
+                            },
+                            {
+                                "@href": "https://www.timescale.com",
+                                "@start": "2042",
+                                "@title": "Sponsor: Timescale"
+                            },
+                            {
+                                "@start": "2187",
+                                "@title": "OpenTelemetry & Honeycomb"
+                            },
+                            {
+                                "@start": "2448",
+                                "@title": "Building ML infrastructure"
+                            },
+                            {
+                                "@start": "3125",
+                                "@title": "Good AI product"
+                            },
+                            {
+                                "@start": "3324",
+                                "@title": "Improve don't reinvent the wheel"
+                            },
+                            {
+                                "@start": "3563",
+                                "@title": "Philip's tenure at Honeycomb"
+                            },
+                            {
+                                "@start": "3622",
+                                "@title": "Socials and closing"
+                            },
+                            {
+                                "@start": "3827",
+                                "@title": "Outro"
+                            }
+                        ]
+                    },
+                    "pubDate": "Sat, 14 Dec 2024 16:00:00 +0000",
+                    "title": "AI IRL at Honeycomb"
+                },
+                {
                     "content:encoded": "<p>Gerhard Lazu joins the show to discuss how Ship It! started and why you might want a general purpose language for your CI/CD.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456580-shipit\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 8 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://sentry.io/events/launch-week/\">Sentry</a> \u2013 <strong>When your app breaks, fix it faster with Sentry</strong> Use the code <code>CHANGELOG</code> when you sign up to <strong>get $100 off the team plan</strong>. Learn more about what they shipped for <a href=\"https://sentry.io/events/launch-week/\">Launch Week</a> and <a href=\"https://docs.sentry.io/product/explore/session-replay/mobile/\">Session Replay for Mobile.</a>\n</li>\n<li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Gerhard Lazu &ndash; <a href=\"https://twitter.com/gerhardlazu\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/gerhard\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/gerhardlazu\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://gerhard.io\" rel=\"external ugc\">Website</a></li><li>Justin Garrison &ndash; <a href=\"https://twitter.com/rothgar\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/rothgar\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/justingarrison\" rel=\"external ugc\">LinkedIn</a></li><li>Autumn Nash &ndash; <a href=\"https://twitter.com/autumn808\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/autumn808\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/autumnnash\" rel=\"external ugc\">LinkedIn</a></li></ul></p><p>Show Notes:</p><p><h4>Interview</h4>\n<ul>\n<li><a href=\"https://gerhard.io/\">Gerhard\u2019s webiste</a></li>\n<li><a href=\"https://makeitwork.fm/\">Make it work podcast</a></li>\n<li><a href=\"https://makeitwork.tv/\">Make it work videos</a></li>\n<li><a href=\"https://dagger.io\">Dagger</a></li>\n<li><a href=\"https://daggerverse.dev/\">Daggerverse</a></li>\n</ul>\n<h4>Fork Around and Find Out</h4>\n<p>Justin and Autumn\u2019s new podcast coming in 2025 <a href=\"https://fafo.fm\">fafo.fm</a></p>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/shipit/ship-it-133.md\">PRs welcome!</a></p>",
                     "description": "Gerhard Lazu joins the show to discuss how Ship It! started and why you might want a general purpose language for your CI/CD.",
                     "enclosure": {
@@ -65,6 +188,10 @@
                             "@role": "guest"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@shipit/113608145429741076"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",
@@ -214,6 +341,10 @@
                     "podcast:socialInteract": {
                         "@protocol": "activitypub",
                         "@uri": "https://changelog.social/@shipit/113567131586217448"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/shipit/132/transcript"
                     },
                     "psc:chapters": {
                         "@version": "1.1",

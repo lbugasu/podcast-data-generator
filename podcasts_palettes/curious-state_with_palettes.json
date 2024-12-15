@@ -16,7 +16,7 @@
                     "@type": "application/atom+xml"
                 },
                 {
-                    "@href": "https://simplecast.superfeedr.com/",
+                    "@href": "https://simplecast.superfeedr.com",
                     "@rel": "hub",
                     "@xmlns": "http://www.w3.org/2005/Atom"
                 }
@@ -45,7 +45,7 @@
                     "enclosure": {
                         "@length": "2881945",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/a7859227-33ac-4c8d-824b-49d8809ad0d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=a7859227-33ac-4c8d-824b-49d8809ad0d8&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/a7859227-33ac-4c8d-824b-49d8809ad0d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=a7859227-33ac-4c8d-824b-49d8809ad0d8&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "e43542b2-6bed-49e6-a375-913455ab353b",
@@ -55,7 +55,7 @@
                     "itunes:duration": "00:02:59",
                     "itunes:episode": "39",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:subtitle": "Dear listener: Thank you.",
                     "itunes:summary": "Dear listener: Thank you.",
                     "itunes:title": "A fond farewell",
@@ -70,7 +70,7 @@
                     "enclosure": {
                         "@length": "12112392",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/86135069-56cb-4f46-ad32-30633fec6ad8/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=86135069-56cb-4f46-ad32-30633fec6ad8&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/86135069-56cb-4f46-ad32-30633fec6ad8/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=86135069-56cb-4f46-ad32-30633fec6ad8&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "079c57ca-c929-4287-a8f4-aae3320d6eeb",
@@ -80,7 +80,7 @@
                     "itunes:duration": "00:12:28",
                     "itunes:episode": "38",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "bach, classical, classical music, music, beethoven",
                     "itunes:subtitle": "Why is it that songs hundreds of years old are still being listened to? Benjamin Zander, conductor of the Boston Philharmonic, shares his passion for the love that classical music generates.",
                     "itunes:summary": "Why is it that songs hundreds of years old are still being listened to? Benjamin Zander, conductor of the Boston Philharmonic, shares his passion for the love that classical music generates.",
@@ -96,7 +96,7 @@
                     "enclosure": {
                         "@length": "12448973",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/00e18458-cb0f-42a9-9924-a176a415ae49/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=00e18458-cb0f-42a9-9924-a176a415ae49&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/00e18458-cb0f-42a9-9924-a176a415ae49/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=00e18458-cb0f-42a9-9924-a176a415ae49&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "ac9e5f26-051d-4103-b662-115c572bf710",
@@ -106,7 +106,7 @@
                     "itunes:duration": "00:12:41",
                     "itunes:episode": "37",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "music, music composer, podcast music, this american life, gym class heroes, serial, s town",
                     "itunes:subtitle": "By Google\u2019s count, between 97 and 230 million songs exist worldwide. It makes you wonder\u2026haven\u2019t all the possible songs been written by now?",
                     "itunes:summary": "By Google\u2019s count, between 97 and 230 million songs exist worldwide. It makes you wonder\u2026haven\u2019t all the possible songs been written by now?",
@@ -122,7 +122,7 @@
                     "enclosure": {
                         "@length": "15208418",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/984cdf94-734d-4dd6-8894-acad0d59bb7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=984cdf94-734d-4dd6-8894-acad0d59bb7f&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/984cdf94-734d-4dd6-8894-acad0d59bb7f/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=984cdf94-734d-4dd6-8894-acad0d59bb7f&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "dfb7d159-9237-4442-82a3-5f00835d3ad8",
@@ -132,7 +132,7 @@
                     "itunes:duration": "00:15:34",
                     "itunes:episode": "36",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "ransomware hunting team, cybercrime, ransomware",
                     "itunes:subtitle": "Easy money is hard to come by. Unless you\u2019re in the ransomware business. Then tens of millions of dollars can be yours in a single, unsuspecting click.",
                     "itunes:summary": "Easy money is hard to come by. Unless you\u2019re in the ransomware business. Then tens of millions of dollars can be yours in a single, unsuspecting click.",
@@ -148,7 +148,7 @@
                     "enclosure": {
                         "@length": "19352594",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/5cb1e96c-6bff-4de7-be43-a9e6ca628186/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=5cb1e96c-6bff-4de7-be43-a9e6ca628186&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/5cb1e96c-6bff-4de7-be43-a9e6ca628186/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=5cb1e96c-6bff-4de7-be43-a9e6ca628186&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "bd2585e4-72ad-4445-9f5e-8e903f4e43c4",
@@ -158,7 +158,7 @@
                     "itunes:duration": "00:19:49",
                     "itunes:episode": "35",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "chris hansen, to catch a predator, predator investigations",
                     "itunes:subtitle": "To Catch a Predator's investigations were real\u2014so was the danger. And one night in Florida, that danger came with a car full of guns.",
                     "itunes:summary": "To Catch a Predator's investigations were real\u2014so was the danger. And one night in Florida, that danger came with a car full of guns.",
@@ -174,7 +174,7 @@
                     "enclosure": {
                         "@length": "15270153",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/4864e240-b857-4f66-b48c-97db6ed5674e/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=4864e240-b857-4f66-b48c-97db6ed5674e&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/4864e240-b857-4f66-b48c-97db6ed5674e/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=4864e240-b857-4f66-b48c-97db6ed5674e&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "fa0d3b54-b309-4b93-971e-30a52d1a2b44",
@@ -184,7 +184,7 @@
                     "itunes:duration": "00:15:40",
                     "itunes:episode": "34",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "princeton, jewish culture, history",
                     "itunes:subtitle": "Back in the day, Princeton eating clubs were the pulse of the Princeton experience. But for many Jews in 1958, that experience was denied.",
                     "itunes:summary": "Back in the day, Princeton eating clubs were the pulse of the Princeton experience. But for many Jews in 1958, that experience was denied.",
@@ -200,7 +200,7 @@
                     "enclosure": {
                         "@length": "13254588",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/1279e9fd-aadd-41d1-b23f-37eebf6926cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=1279e9fd-aadd-41d1-b23f-37eebf6926cf&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/1279e9fd-aadd-41d1-b23f-37eebf6926cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=1279e9fd-aadd-41d1-b23f-37eebf6926cf&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "a97fc303-eea7-48eb-8838-7542d1157da7",
@@ -210,7 +210,7 @@
                     "itunes:duration": "00:13:35",
                     "itunes:episode": "33",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "jeffrey dahmer, cannibal, cannibalism",
                     "itunes:subtitle": "Fun fact: Cannibalism in nature is incredibly widespread. In fact, it covers the entire spectrum of the animal kingdom. Just ask Bill Schutt, the author of Cannibalism: A Perfectly Natural History.",
                     "itunes:summary": "Fun fact: Cannibalism in nature is incredibly widespread. In fact, it covers the entire spectrum of the animal kingdom. Just ask Bill Schutt, the author of Cannibalism: A Perfectly Natural History.",
@@ -226,7 +226,7 @@
                     "enclosure": {
                         "@length": "13031139",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/e2d398e4-5fed-4841-a325-9cdef6bf9c09/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=e2d398e4-5fed-4841-a325-9cdef6bf9c09&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/e2d398e4-5fed-4841-a325-9cdef6bf9c09/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=e2d398e4-5fed-4841-a325-9cdef6bf9c09&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "1eabe8e0-9e08-4739-94af-fcc532d15d47",
@@ -236,7 +236,7 @@
                     "itunes:duration": "00:13:17",
                     "itunes:episode": "32",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "dungeons and dragons, horror, music editor, science fiction, stranger things",
                     "itunes:subtitle": "Stranger Things has killer tunes. But it\u2019s not just what music plays\u2014it\u2019s when.",
                     "itunes:summary": "Stranger Things has killer tunes. But it\u2019s not just what music plays\u2014it\u2019s when.",
@@ -252,7 +252,7 @@
                     "enclosure": {
                         "@length": "19602282",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/e66d9f7d-f992-4c94-85eb-80f7600b0045/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=e66d9f7d-f992-4c94-85eb-80f7600b0045&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/e66d9f7d-f992-4c94-85eb-80f7600b0045/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=e66d9f7d-f992-4c94-85eb-80f7600b0045&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "4169ab10-da54-44ff-93a6-2906e05fa3e7",
@@ -262,7 +262,7 @@
                     "itunes:duration": "00:20:10",
                     "itunes:episode": "31",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "blood, monster, quentin tarantino, horror, creature, movie magic, hollywood, halloween",
                     "itunes:subtitle": "Movies and blood go together like PB&J. And Howard Berger is the head chef.",
                     "itunes:summary": "Movies and blood go together like PB&J. And Howard Berger is the head chef.",
@@ -278,7 +278,7 @@
                     "enclosure": {
                         "@length": "17367642",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/61181ab4-cb0f-494f-8072-27eff98d6f59/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=61181ab4-cb0f-494f-8072-27eff98d6f59&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/61181ab4-cb0f-494f-8072-27eff98d6f59/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=61181ab4-cb0f-494f-8072-27eff98d6f59&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "166fd9f3-20bb-4026-9bbc-a7fa2cf67372",
@@ -288,7 +288,7 @@
                     "itunes:duration": "00:17:54",
                     "itunes:episode": "30",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "vampires, vampire, energy vampire, halloween",
                     "itunes:subtitle": "Michelle Belanger is an occult researcher, author, and television personality. She also happens to be a vampire.",
                     "itunes:summary": "Michelle Belanger is an occult researcher, author, and television personality. She also happens to be a vampire.",
@@ -304,7 +304,7 @@
                     "enclosure": {
                         "@length": "17952134",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/955d18b1-6cad-4d6f-baab-2ccd07bd1321/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=955d18b1-6cad-4d6f-baab-2ccd07bd1321&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/955d18b1-6cad-4d6f-baab-2ccd07bd1321/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=955d18b1-6cad-4d6f-baab-2ccd07bd1321&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "caf57cdc-07e1-47de-bf7f-7b7b5b149f08",
@@ -314,7 +314,7 @@
                     "itunes:duration": "00:18:25",
                     "itunes:episode": "29",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "haunted mansion, haunted house, scary, ghost, crypt keeper, cryptkeeper, halloween, tales from the crypt",
                     "itunes:subtitle": "Impossible floor plans. Broken rules of architecture. Capitalizing on the creep factor. It's all in a day's work for haunted house designer Leonard Pickel.",
                     "itunes:summary": "Impossible floor plans. Broken rules of architecture. Capitalizing on the creep factor. It's all in a day's work for haunted house designer Leonard Pickel.",
@@ -330,7 +330,7 @@
                     "enclosure": {
                         "@length": "11041451",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/43ffad8d-6385-4f85-987e-d63a166b1642/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=43ffad8d-6385-4f85-987e-d63a166b1642&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/43ffad8d-6385-4f85-987e-d63a166b1642/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=43ffad8d-6385-4f85-987e-d63a166b1642&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "3e03d560-d5c0-46db-86f6-dd4fc338ef9e",
@@ -340,7 +340,7 @@
                     "itunes:duration": "00:11:13",
                     "itunes:episode": "28",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "ultimate fighting championship, pillow fighting, pillow fighting championships, pfc, ufc",
                     "itunes:subtitle": "Imagine the Ultimate Fighting Championship\u2026 but with pillows. ",
                     "itunes:summary": "Imagine the Ultimate Fighting Championship\u2026 but with pillows. ",
@@ -356,7 +356,7 @@
                     "enclosure": {
                         "@length": "14217745",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/711e4051-5751-4bb6-a5c7-2eb8626537cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=711e4051-5751-4bb6-a5c7-2eb8626537cd&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/711e4051-5751-4bb6-a5c7-2eb8626537cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=711e4051-5751-4bb6-a5c7-2eb8626537cd&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "5d96327e-dcfd-435b-b324-9dc3e5b8b38c",
@@ -366,7 +366,7 @@
                     "itunes:duration": "00:14:37",
                     "itunes:episode": "27",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "twenty thousand hertz, movie trailer, curious state, tv trailer, dallas taylor, defacto sound",
                     "itunes:subtitle": "Movie and TV trailer production is a game of chess. Except in this game, millions of dollars are at stake with every move.",
                     "itunes:summary": "Movie and TV trailer production is a game of chess. Except in this game, millions of dollars are at stake with every move.",
@@ -382,7 +382,7 @@
                     "enclosure": {
                         "@length": "14632675",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/94bd5ca0-47cb-4ac6-b884-c324f3906030/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=94bd5ca0-47cb-4ac6-b884-c324f3906030&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/94bd5ca0-47cb-4ac6-b884-c324f3906030/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=94bd5ca0-47cb-4ac6-b884-c324f3906030&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "3080a106-d0d5-44ce-b224-355fdc382f9f",
@@ -392,7 +392,7 @@
                     "itunes:duration": "00:15:01",
                     "itunes:episode": "26",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "world record, guinness book of world records, believe it or not",
                     "itunes:subtitle": "Underwater pogo-sticking. Extinguishing matches with your tongue. Ashrita Furman's broken hundreds of world records...and he has a secret weapon to do it.",
                     "itunes:summary": "Underwater pogo-sticking. Extinguishing matches with your tongue. Ashrita Furman's broken hundreds of world records...and he has a secret weapon to do it.",
@@ -408,7 +408,7 @@
                     "enclosure": {
                         "@length": "15787146",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/8ca5e9dd-172e-4504-bf81-f49b00d0d4bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=8ca5e9dd-172e-4504-bf81-f49b00d0d4bf&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/8ca5e9dd-172e-4504-bf81-f49b00d0d4bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=8ca5e9dd-172e-4504-bf81-f49b00d0d4bf&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "bbc58da1-380d-49cb-baaf-a960a39e6deb",
@@ -418,7 +418,7 @@
                     "itunes:duration": "00:16:14",
                     "itunes:episode": "25",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "concentration camp, ww2, germany, angora rabbits, history, holocaust, auschwitz",
                     "itunes:subtitle": "A photo album made with rabbit fur. A secret breeding project. A lost alligator. The story of Project Angora is truly stranger than fiction.",
                     "itunes:summary": "A photo album made with rabbit fur. A secret breeding project. A lost alligator. The story of Project Angora is truly stranger than fiction.",
@@ -434,7 +434,7 @@
                     "enclosure": {
                         "@length": "19486273",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/ed65d683-4daa-4816-9806-ab8e936d9b2a/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=ed65d683-4daa-4816-9806-ab8e936d9b2a&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/ed65d683-4daa-4816-9806-ab8e936d9b2a/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=ed65d683-4daa-4816-9806-ab8e936d9b2a&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "c88538c4-80b3-4a24-9262-91446a696e18",
@@ -444,7 +444,7 @@
                     "itunes:duration": "00:20:06",
                     "itunes:episode": "24",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "sex, relationships, friends with benefits, friends",
                     "itunes:subtitle": "How do you navigate going from buddy to booty call? Dr. Justin Lehmiller has the answers.",
                     "itunes:summary": "How do you navigate going from buddy to booty call? Dr. Justin Lehmiller has the answers.",
@@ -460,7 +460,7 @@
                     "enclosure": {
                         "@length": "16034515",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/c8deb905-e64c-4b16-9bd8-80164d3548e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=c8deb905-e64c-4b16-9bd8-80164d3548e0&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/c8deb905-e64c-4b16-9bd8-80164d3548e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=c8deb905-e64c-4b16-9bd8-80164d3548e0&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "41065858-85dd-42f3-b6ac-45a08e5347c3",
@@ -470,7 +470,7 @@
                     "itunes:duration": "00:16:28",
                     "itunes:episode": "23",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "murder mystery, murder, curious state, cyanide, poisoning",
                     "itunes:subtitle": "Cyanide causes a swift, gruesome death. But how exactly does it kill you?",
                     "itunes:summary": "Cyanide causes a swift, gruesome death. But how exactly does it kill you?",
@@ -486,7 +486,7 @@
                     "enclosure": {
                         "@length": "17630927",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/f69f292f-e439-44f9-8957-30cc8e733866/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=f69f292f-e439-44f9-8957-30cc8e733866&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/f69f292f-e439-44f9-8957-30cc8e733866/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=f69f292f-e439-44f9-8957-30cc8e733866&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "a3402445-3570-467c-abf1-e76fc380470e",
@@ -496,7 +496,7 @@
                     "itunes:duration": "00:18:05",
                     "itunes:episode": "22",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "jackson galaxy, cats from hell, dog people, cats, animal planet, cat people",
                     "itunes:subtitle": "Jackson Galaxy is America\u2019s Cat Daddy. Does he think cats are assholes? Or is there more to those furry enigmas than meets the eye?",
                     "itunes:summary": "Jackson Galaxy is America\u2019s Cat Daddy. Does he think cats are assholes? Or is there more to those furry enigmas than meets the eye?",
@@ -512,7 +512,7 @@
                     "enclosure": {
                         "@length": "17867516",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/a16cca28-8c19-4767-999f-e3d05cc60c7b/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=a16cca28-8c19-4767-999f-e3d05cc60c7b&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/a16cca28-8c19-4767-999f-e3d05cc60c7b/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=a16cca28-8c19-4767-999f-e3d05cc60c7b&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "11efc53c-52ca-4805-9cc3-8c15845fc3fe",
@@ -522,7 +522,7 @@
                     "itunes:duration": "00:18:25",
                     "itunes:episode": "21",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "reality tv, the bachelorette, drag race, rupaul's drag race, the bachelor, dating, survivor",
                     "itunes:subtitle": "The shows we refer to as guilty pleasures may be more insightful than we think. Danielle J. Lindemann, author of True Story: What Reality TV Says About Us, takes us on a journey into ourselves.\n",
                     "itunes:summary": "The shows we refer to as guilty pleasures may be more insightful than we think. Danielle J. Lindemann, author of True Story: What Reality TV Says About Us, takes us on a journey into ourselves.\n",
@@ -538,7 +538,7 @@
                     "enclosure": {
                         "@length": "12142023",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/4d80fde0-8c8b-45f7-a2f8-644ae8e673c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=4d80fde0-8c8b-45f7-a2f8-644ae8e673c9&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/4d80fde0-8c8b-45f7-a2f8-644ae8e673c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=4d80fde0-8c8b-45f7-a2f8-644ae8e673c9&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "a29e5526-15f8-49e8-bcca-98ddd3663509",
@@ -548,7 +548,7 @@
                     "itunes:duration": "00:12:25",
                     "itunes:episode": "20",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "hsam, memory, rain man, photographic memory",
                     "itunes:subtitle": "Only 80 known people have highly superior autobiographical memory (HSAM). What's it like to be one of them?",
                     "itunes:summary": "Only 80 known people have highly superior autobiographical memory (HSAM). What's it like to be one of them?",
@@ -564,7 +564,7 @@
                     "enclosure": {
                         "@length": "22696072",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/de6c0ec9-bee5-4e8b-bd27-fbeafea4c764/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=de6c0ec9-bee5-4e8b-bd27-fbeafea4c764&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/de6c0ec9-bee5-4e8b-bd27-fbeafea4c764/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=de6c0ec9-bee5-4e8b-bd27-fbeafea4c764&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "5ceeb814-2551-441d-a077-4270024431ec",
@@ -574,7 +574,7 @@
                     "itunes:duration": "00:23:22",
                     "itunes:episode": "19",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "exploding whale, humpback whale, national geogrpahic, dolphin, dead whale, whale, nature",
                     "itunes:subtitle": "Whales are textbook beauty and grace\u2014and they\u2019re a helluva lot of work to clean up when they die.",
                     "itunes:summary": "Whales are textbook beauty and grace\u2014and they\u2019re a helluva lot of work to clean up when they die.",
@@ -590,7 +590,7 @@
                     "enclosure": {
                         "@length": "17713726",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/094292ab-7873-4b53-85e9-d5b1d865e4f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=094292ab-7873-4b53-85e9-d5b1d865e4f4&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/094292ab-7873-4b53-85e9-d5b1d865e4f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=094292ab-7873-4b53-85e9-d5b1d865e4f4&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "8af50c33-5ea3-4d21-bded-a5c6b18cb74b",
@@ -600,7 +600,7 @@
                     "itunes:duration": "00:18:15",
                     "itunes:episode": "18",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "creative output, how to maximize productivity, winston churchill, deep play, 4-day work week, life hack, rest",
                     "itunes:subtitle": "Under the right conditions, hobbies and physical activities become deep play. But what exactly is it?",
                     "itunes:summary": "Under the right conditions, hobbies and physical activities become deep play. But what exactly is it?",
@@ -616,7 +616,7 @@
                     "enclosure": {
                         "@length": "17559004",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/816a26bd-05d8-415e-922b-816c96f2d24e/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=816a26bd-05d8-415e-922b-816c96f2d24e&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/816a26bd-05d8-415e-922b-816c96f2d24e/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=816a26bd-05d8-415e-922b-816c96f2d24e&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "c21144ad-4606-422f-8233-a2ad04c6e72e",
@@ -626,7 +626,7 @@
                     "itunes:duration": "00:18:00",
                     "itunes:episode": "17",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "city animals, new york city, pigeon, nature, birds, animals, nyc, birdwatching",
                     "itunes:subtitle": "Pigeons. How much do you really know about these incredible creatures? Author Andrew Blechman is here to share the jaw-dropping details.",
                     "itunes:summary": "Pigeons. How much do you really know about these incredible creatures? Author Andrew Blechman is here to share the jaw-dropping details.",
@@ -642,7 +642,7 @@
                     "enclosure": {
                         "@length": "14218153",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/3e05bdcc-a455-4175-b0fe-aa4dc0b9e558/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=3e05bdcc-a455-4175-b0fe-aa4dc0b9e558&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/3e05bdcc-a455-4175-b0fe-aa4dc0b9e558/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=3e05bdcc-a455-4175-b0fe-aa4dc0b9e558&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "20c54126-9bbd-45dc-8ead-b071efef22b4",
@@ -652,7 +652,7 @@
                     "itunes:duration": "00:14:35",
                     "itunes:episode": "16",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "mortician, funeral, death care, headstone, mortuary, death, grave",
                     "itunes:subtitle": "Over the next year, 56 million people around the world will kick the bucket. Whose job is it to pick them up?",
                     "itunes:summary": "Over the next year, 56 million people around the world will kick the bucket. Whose job is it to pick them up?",
@@ -668,7 +668,7 @@
                     "enclosure": {
                         "@length": "22906828",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/a99f7f64-3085-496b-a9c7-3d19b1b26188/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=a99f7f64-3085-496b-a9c7-3d19b1b26188&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/a99f7f64-3085-496b-a9c7-3d19b1b26188/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=a99f7f64-3085-496b-a9c7-3d19b1b26188&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "40b0157e-1aa1-4b3e-8a42-1a6f79197f26",
@@ -678,7 +678,7 @@
                     "itunes:duration": "00:23:32",
                     "itunes:episode": "15",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "kids movies, woody, pixar, lightyear, buzz, animation, buzz lightyear",
                     "itunes:subtitle": "20-year Pixar storytelling veteran Matthew Luhn takes us on his journey into the writers\u2019 room.",
                     "itunes:summary": "20-year Pixar storytelling veteran Matthew Luhn takes us on his journey into the writers\u2019 room.",
@@ -694,7 +694,7 @@
                     "enclosure": {
                         "@length": "20252900",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/21d0136f-250e-493e-8d6d-b790ec538d79/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=21d0136f-250e-493e-8d6d-b790ec538d79&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/21d0136f-250e-493e-8d6d-b790ec538d79/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=21d0136f-250e-493e-8d6d-b790ec538d79&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "6fc1b253-b027-491c-b1c7-41bf54b45c85",
@@ -704,7 +704,7 @@
                     "itunes:duration": "00:20:54",
                     "itunes:episode": "14",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "ww1, lindsey fitzharris, first world war, world war one, doug fraser, wwi, history, great war",
                     "itunes:subtitle": "Dr. Lindsey Fitzharris takes us behind the scenes of a medical revolution: the birth of plastic surgery.",
                     "itunes:summary": "Dr. Lindsey Fitzharris takes us behind the scenes of a medical revolution: the birth of plastic surgery.",
@@ -720,7 +720,7 @@
                     "enclosure": {
                         "@length": "13906962",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/34f5189b-2ab0-4b7e-a664-9373d9e7eb5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=34f5189b-2ab0-4b7e-a664-9373d9e7eb5d&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/34f5189b-2ab0-4b7e-a664-9373d9e7eb5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=34f5189b-2ab0-4b7e-a664-9373d9e7eb5d&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "ac8d49f9-64ab-47d2-bfe1-3e1d5a0793b7",
@@ -730,7 +730,7 @@
                     "itunes:duration": "00:14:16",
                     "itunes:episode": "13",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "grammar girl, thou, curious state, grammar, history",
                     "itunes:subtitle": "Where\u2019d \"thou\" go? And will it ever make a comeback? Grammar Girl (aka Mignon Fogarty) helps us parse through the grammatical treasures of yore.",
                     "itunes:summary": "Where\u2019d \"thou\" go? And will it ever make a comeback? Grammar Girl (aka Mignon Fogarty) helps us parse through the grammatical treasures of yore.",
@@ -746,7 +746,7 @@
                     "enclosure": {
                         "@length": "17435927",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/f2c71080-ad98-4f08-a592-afc41d50266f/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=f2c71080-ad98-4f08-a592-afc41d50266f&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/f2c71080-ad98-4f08-a592-afc41d50266f/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=f2c71080-ad98-4f08-a592-afc41d50266f&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "fd89cd59-0595-4658-91a4-c038b244504c",
@@ -756,7 +756,7 @@
                     "itunes:duration": "00:17:54",
                     "itunes:episode": "12",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "why we sleep, sleep, dear scooter, sleep podcast, matthew walker, sleep with me",
                     "itunes:subtitle": "What's the secret sauce to a sleepy story? Drew Ackerman (aka Dearest Scooter of the Sleep With Me podcast) lulls us into enlightenment.",
                     "itunes:summary": "What's the secret sauce to a sleepy story? Drew Ackerman (aka Dearest Scooter of the Sleep With Me podcast) lulls us into enlightenment.",
@@ -772,7 +772,7 @@
                     "enclosure": {
                         "@length": "15484873",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/5a4fab27-e44c-46d6-bc1c-ac06921bf826/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=5a4fab27-e44c-46d6-bc1c-ac06921bf826&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/5a4fab27-e44c-46d6-bc1c-ac06921bf826/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=5a4fab27-e44c-46d6-bc1c-ac06921bf826&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "61210566-80b5-4dec-a572-4245b1480924",
@@ -782,7 +782,7 @@
                     "itunes:duration": "00:15:52",
                     "itunes:episode": "11",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "extinct, extinction, ologies, science talk, science, curious state, doug fraser, alie ward",
                     "itunes:subtitle": "What if everything we\u2019ve come to know about the world (and that the natural world knows about itself) disappeared? Could science itself go extinct? Alie Ward stops by to set the scientific record straight.",
                     "itunes:summary": "What if everything we\u2019ve come to know about the world (and that the natural world knows about itself) disappeared? Could science itself go extinct? Alie Ward stops by to set the scientific record straight.",
@@ -798,7 +798,7 @@
                     "enclosure": {
                         "@length": "15819753",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/a84c1ed7-f882-44f3-a15c-c6763c28feb5/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=a84c1ed7-f882-44f3-a15c-c6763c28feb5&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/a84c1ed7-f882-44f3-a15c-c6763c28feb5/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=a84c1ed7-f882-44f3-a15c-c6763c28feb5&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "4484a06a-e120-458c-b8cc-fef894f7e5ab",
@@ -808,7 +808,7 @@
                     "itunes:duration": "00:16:11",
                     "itunes:episode": "10",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "cemetery, graveyard, cemetery tourism, dead, grave",
                     "itunes:subtitle": "How do these resting grounds for the deceased become tourist destinations for the living? Cemetery historian and author Loren Rhoads helps us dig up the truth.",
                     "itunes:summary": "How do these resting grounds for the deceased become tourist destinations for the living? Cemetery historian and author Loren Rhoads helps us dig up the truth.",
@@ -824,7 +824,7 @@
                     "enclosure": {
                         "@length": "16074783",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/f8f7dff6-e6ca-42cf-86be-b4566a70f847/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=f8f7dff6-e6ca-42cf-86be-b4566a70f847&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/f8f7dff6-e6ca-42cf-86be-b4566a70f847/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=f8f7dff6-e6ca-42cf-86be-b4566a70f847&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "71851351-2937-49b1-aa89-5f67f8690b00",
@@ -834,7 +834,7 @@
                     "itunes:duration": "00:16:27",
                     "itunes:episode": "9",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "law, can animals break the law, mary roach, wildlife, bears, nature, animals",
                     "itunes:subtitle": "We humans love law and order. But what happens when non-humans go mucking around and chewing on our rules? Can animals actually break the law? Renowned science writer and raccoon super-fan Mary Roach has the answers. ",
                     "itunes:summary": "We humans love law and order. But what happens when non-humans go mucking around and chewing on our rules? Can animals actually break the law? Renowned science writer and raccoon super-fan Mary Roach has the answers. ",
@@ -850,7 +850,7 @@
                     "enclosure": {
                         "@length": "15029182",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/a7ffda71-d725-46c4-9219-cea6b15d3265/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=a7ffda71-d725-46c4-9219-cea6b15d3265&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/a7ffda71-d725-46c4-9219-cea6b15d3265/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=a7ffda71-d725-46c4-9219-cea6b15d3265&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "8187ba49-f47c-4284-b789-a992f08a364d",
@@ -860,7 +860,7 @@
                     "itunes:duration": "00:15:26",
                     "itunes:episode": "8",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "virginia aquarium, virginia, seal, monty, harbor seal, virginia beach, monty the seal, aquarium",
                     "itunes:subtitle": "What do a crow and a glossy-eyed harbor seal named Monty have in common? Us.\n",
                     "itunes:summary": "What do a crow and a glossy-eyed harbor seal named Monty have in common? Us.\n",
@@ -876,7 +876,7 @@
                     "enclosure": {
                         "@length": "15336864",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/6bec3007-7ec1-4ee5-b8d5-c8b3e5496c90/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=6bec3007-7ec1-4ee5-b8d5-c8b3e5496c90&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/6bec3007-7ec1-4ee5-b8d5-c8b3e5496c90/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=6bec3007-7ec1-4ee5-b8d5-c8b3e5496c90&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "0be5f772-cac4-49ef-822a-3d5edeb2d893",
@@ -886,7 +886,7 @@
                     "itunes:duration": "00:15:46",
                     "itunes:episode": "7",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "dylan marron, internet troll, conversations with people who hate me, haters",
                     "itunes:subtitle": "Five years ago, Dylan Marron started engaging his internet detractors in phone conversations. But is it possible to empathize with someone who hates you?",
                     "itunes:summary": "Five years ago, Dylan Marron started engaging his internet detractors in phone conversations. But is it possible to empathize with someone who hates you?",
@@ -902,7 +902,7 @@
                     "enclosure": {
                         "@length": "14658586",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/df9164f8-5595-4f15-b511-9833404df3f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=df9164f8-5595-4f15-b511-9833404df3f6&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/df9164f8-5595-4f15-b511-9833404df3f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=df9164f8-5595-4f15-b511-9833404df3f6&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "bc3fa401-37aa-44c7-84a8-4ad498975feb",
@@ -912,7 +912,7 @@
                     "itunes:duration": "00:15:02",
                     "itunes:episode": "6",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "mtv vma, mtv, 2000s, suchin pak, mtv music video awards, mtv video music awards, 1990s",
                     "itunes:subtitle": "Sure, celebrities have fame and wealth. But are they more interesting than the rest of us? SuChin Pak, journalist and co-host of Add to Cart, has a definitive answer.",
                     "itunes:summary": "Sure, celebrities have fame and wealth. But are they more interesting than the rest of us? SuChin Pak, journalist and co-host of Add to Cart, has a definitive answer.",
@@ -928,7 +928,7 @@
                     "enclosure": {
                         "@length": "17098738",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/922e3ef3-b6a1-4856-b0bb-a5c5003805da/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=922e3ef3-b6a1-4856-b0bb-a5c5003805da&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/922e3ef3-b6a1-4856-b0bb-a5c5003805da/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=922e3ef3-b6a1-4856-b0bb-a5c5003805da&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "e557912a-a445-4344-a117-f98de7628396",
@@ -938,7 +938,7 @@
                     "itunes:duration": "00:17:36",
                     "itunes:episode": "5",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "psychopath, kidnapping, murder, psychopathy, james bond, angela the remorseless",
                     "itunes:subtitle": "History and entertainment are both full of psychopathic men who manipulate their victims. But it makes you wonder... why aren't there more female psychopaths? Or are they out there and we just don't know it?",
                     "itunes:summary": "History and entertainment are both full of psychopathic men who manipulate their victims. But it makes you wonder... why aren't there more female psychopaths? Or are they out there and we just don't know it?",
@@ -954,7 +954,7 @@
                     "enclosure": {
                         "@length": "18947904",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/4aff92de-2f9e-4aa6-9869-49d16a4b8781/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=4aff92de-2f9e-4aa6-9869-49d16a4b8781&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/4aff92de-2f9e-4aa6-9869-49d16a4b8781/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=4aff92de-2f9e-4aa6-9869-49d16a4b8781&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "24f6b1e7-0e52-45b9-aa90-8cadd595ba89",
@@ -964,7 +964,7 @@
                     "itunes:duration": "00:19:33",
                     "itunes:episode": "4",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "to sell is human, psychology, curious state, daniel pink, mental health, curious, regret",
                     "itunes:subtitle": "Regret gets a bad rap. But what if it's actually the way to a happier, more fulfilling life? Let's dive into Daniel Pink's findings from the World Regret Survey.",
                     "itunes:summary": "Regret gets a bad rap. But what if it's actually the way to a happier, more fulfilling life? Let's dive into Daniel Pink's findings from the World Regret Survey.",
@@ -980,7 +980,7 @@
                     "enclosure": {
                         "@length": "13894489",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/d1f67664-7496-410e-8e87-67959d986fd5/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=d1f67664-7496-410e-8e87-67959d986fd5&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/d1f67664-7496-410e-8e87-67959d986fd5/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=d1f67664-7496-410e-8e87-67959d986fd5&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "a6553b41-894a-40f3-ba3c-9bc699f74f83",
@@ -990,7 +990,7 @@
                     "itunes:duration": "00:14:17",
                     "itunes:episode": "3",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "mob, italian mob, curious, mafia",
                     "itunes:subtitle": "The mafia and violence go together like a fist and brass knuckles. But is the mafia really as violent as pop culture would have us believe? Or are we being conned?",
                     "itunes:summary": "The mafia and violence go together like a fist and brass knuckles. But is the mafia really as violent as pop culture would have us believe? Or are we being conned?",
@@ -1006,7 +1006,7 @@
                     "enclosure": {
                         "@length": "13248523",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/0c01d93c-3d2d-4164-bd19-139c4c9836d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=0c01d93c-3d2d-4164-bd19-139c4c9836d0&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/0c01d93c-3d2d-4164-bd19-139c4c9836d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=0c01d93c-3d2d-4164-bd19-139c4c9836d0&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "0c5837e5-4a39-4717-aabe-eb7a619cb6c7",
@@ -1016,7 +1016,7 @@
                     "itunes:duration": "00:13:36",
                     "itunes:episode": "2",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "childhood, pyschology, ted talk, social sciences",
                     "itunes:subtitle": "Somewhere in the rows and rows of office cubicles that make up the emotional business of our brains, there\u2019s one employee hellbent on burning the whole place down. Her name\u2026is childhood. Is it possible to pry ourselves from her firey grasp?",
                     "itunes:summary": "Somewhere in the rows and rows of office cubicles that make up the emotional business of our brains, there\u2019s one employee hellbent on burning the whole place down. Her name\u2026is childhood. Is it possible to pry ourselves from her firey grasp?",
@@ -1032,7 +1032,7 @@
                     "enclosure": {
                         "@length": "14952057",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/f638d67a-ad20-4547-8342-fc9c8128d234/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=f638d67a-ad20-4547-8342-fc9c8128d234&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/f638d67a-ad20-4547-8342-fc9c8128d234/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=f638d67a-ad20-4547-8342-fc9c8128d234&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "8648aea4-9651-4c43-9512-86ed79d57016",
@@ -1042,7 +1042,7 @@
                     "itunes:duration": "00:15:22",
                     "itunes:episode": "1",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "t-rex, science, dinosaur, curious",
                     "itunes:subtitle": "Ah, the T-Rex. King of the tyrant lizards. Ruler of children\u2019s imaginations the world over. With its savagery and you-look-tasty-enough-to-eat smile\u2026could we have domesticated it?",
                     "itunes:summary": "Ah, the T-Rex. King of the tyrant lizards. Ruler of children\u2019s imaginations the world over. With its savagery and you-look-tasty-enough-to-eat smile\u2026could we have domesticated it?",
@@ -1058,7 +1058,7 @@
                     "enclosure": {
                         "@length": "1904388",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/b8dad2c2-10e8-483a-805a-b9e12bd37d51/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=b8dad2c2-10e8-483a-805a-b9e12bd37d51&feed=FLqOPHE4"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/media.blubrry.com/1465060/stitcher.simplecastaudio.com/b825204a-c5ee-43dd-8714-6e458d9fb64a/episodes/b8dad2c2-10e8-483a-805a-b9e12bd37d51/audio/128/default.mp3?aid=rss_feed&awCollectionId=b825204a-c5ee-43dd-8714-6e458d9fb64a&awEpisodeId=b8dad2c2-10e8-483a-805a-b9e12bd37d51&feed=FLqOPHE4"
                     },
                     "guid": {
                         "#text": "32cb8536-67a8-4bbd-8b40-6157d7a286ce",
@@ -1067,7 +1067,7 @@
                     "itunes:author": "doug fraser",
                     "itunes:duration": "00:01:52",
                     "itunes:episodeType": "trailer",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:subtitle": "Dive into what you didn\u2019t know you needed to know on Curious State with Doug Fraser. First two episodes drop on March 29.",
                     "itunes:summary": "Dive into what you didn\u2019t know you needed to know on Curious State with Doug Fraser. First two episodes drop on March 29.",
                     "itunes:title": "Trailer",
@@ -1080,7 +1080,7 @@
             "itunes:category": {
                 "@text": "Society & Culture"
             },
-            "itunes:explicit": "no",
+            "itunes:explicit": "false",
             "itunes:image": {
                 "@href": "https://image.simplecastcdn.com/images/65f48c48-6d55-4a6a-b867-2a315a7f7f76/a442075e-a313-4451-ae8c-d6eaf3ba09b7/3000x3000/cs-logo.jpg?aid=rss_feed"
             },
@@ -1092,7 +1092,7 @@
             "itunes:summary": "Could we have domesticated a T-Rex? Is the mafia really that violent? Haven't all the possible songs been written by now? Unexpected gems of knowledge are hidden all around us. Let\u2019s dig them up, one offbeat question at a time.",
             "itunes:type": "episodic",
             "language": "en",
-            "lastBuildDate": "Wed, 14 Feb 2024 18:53:41 +0000",
+            "lastBuildDate": "Mon, 9 Dec 2024 16:34:36 +0000",
             "link": "https://curious-state.simplecast.com",
             "pubDate": "Tue, 20 Dec 2022 05:00:00 +0000",
             "title": "Curious State"

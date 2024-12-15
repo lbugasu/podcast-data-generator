@@ -23,6 +23,145 @@
             "description": "Making artificial intelligence practical, productive & accessible to everyone. Practical AI is a show in which technology professionals, business people, students, enthusiasts, and expert guests engage in lively discussions about Artificial Intelligence and related topics (Machine Learning, Deep Learning, Neural Networks, GANs, MLOps, AIOps, LLMs & more).\n\nThe focus is on productive implementations and real-world scenarios that are accessible to everyone. If you want to keep up with the latest advances in AI, while keeping one foot in the real world, then this is the show for you!",
             "item": [
                 {
+                    "content:encoded": "<p>Today, Chris explores Shopify Magic and other AI offerings with Mike Tamir, Distinguished ML Engineer and Head of Machine Learning, and Matt Colyer, Director of Product Management for Sidekick.  They talk about how Shopify uses generative AI and LLMs to enhance their products, and they take a deeper dive into Sidekick, a first-of-its-kind, AI-enabled commerce assistant that understands a merchant\u2019s business (products, orders, customers) and has been trained to know all about Shopify.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456003-practicalai\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 9 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://www.timescale.com\">Timescale</a> \u2013 <strong>Purpose-built performance for AI</strong> Build RAG, search, and AI agents on the cloud and with PostgreSQL and purpose-built extensions for AI: pgvector, pgvectorscale, and pgai.\n</li>\n<li><a href=\"https://www.eightsleep.com/changelog\">Eight Sleep</a> \u2013 <strong>Up to $600 off Pod 4 Ultra</strong> \u2014 Go to <a href=\"https://www.eightsleep.com/changelog\">eightsleep.com/changelog</a> and use the code <code>CHANGELOG</code>. You can try it for free for 30 days - but we\u2019re confident you will not want to return it (we love ours). Once you experience AI-optimized sleep, you\u2019ll wonder how you ever slept without it. Currently shipping to: United States, Canada, United Kingdom, Europe, and Australia.\n</li>\n</ul></p><p>Featuring:</p><ul><li>Mike Tamir &ndash; <a href=\"https://www.linkedin.com/in/miketamir\" rel=\"external ugc\">LinkedIn</a></li><li>Matt Colyer &ndash; <a href=\"https://twitter.com/mcolyer\" rel=\"external ugc\">Twitter</a>, <a href=\"https://www.linkedin.com/in/mattcolyer\" rel=\"external ugc\">LinkedIn</a></li><li>Chris Benson &ndash; <a href=\"https://twitter.com/chrisbenson\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/chrisbenson\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://chrisbenson.com\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://shopify.com\">Shopify</a></li>\n<li><a href=\"http://shopify.com/editions/winter2025\">Shopify\u2019s Winter Edition \u201925</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/practicalai/practical-ai-299.md\">PRs welcome!</a></p>",
+                    "description": "Today, Chris explores Shopify Magic and other AI offerings with Mike Tamir, Distinguished ML Engineer and Head of Machine Learning, and Matt Colyer, Director of Product Management for Sidekick.  They talk about how Shopify uses generative AI and LLMs to enhance their products, and they take a deeper dive into Sidekick, a first-of-its-kind, AI-enabled commerce assistant that understands a merchant\u2019s business (products, orders, customers) and has been trained to know all about Shopify.",
+                    "enclosure": {
+                        "@length": "49784986",
+                        "@type": "audio/mpeg",
+                        "@url": "https://op3.dev/e/https://cdn.changelog.com/uploads/practicalai/299/practical-ai-299.mp3"
+                    },
+                    "guid": {
+                        "#text": "changelog.com/7/2640",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "51:39",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://cdn.changelog.com/uploads/covers/practical-ai-original.png?v=63725770374"
+                    },
+                    "link": "https://changelog.com/practicalai/299",
+                    "podcast:chapters": {
+                        "@type": "application/json+chapters",
+                        "@url": "https://changelog.com/practicalai/299/chapters"
+                    },
+                    "podcast:person": [
+                        {
+                            "#text": "Chris Benson",
+                            "@href": "https://changelog.com/person/chris",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/j8b/avatar_large.png?v=63706916892",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Mike Tamir",
+                            "@href": "https://changelog.com/person/miketamir",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/qG3Lq/avatar_large.jpg?v=63901173202",
+                            "@role": "guest"
+                        },
+                        {
+                            "#text": "Matt Colyer",
+                            "@href": "https://changelog.com/person/mattcolyer",
+                            "@img": "https://cdn.changelog.com/uploads/avatars/people/4Wa67/avatar_large.jpg?v=63901173272",
+                            "@role": "guest"
+                        }
+                    ],
+                    "psc:chapters": {
+                        "@version": "1.1",
+                        "@xmlns": "http://podlove.org/simple-chapters",
+                        "psc:chapter": [
+                            {
+                                "@start": "0",
+                                "@title": "Welcome to Practical AI"
+                            },
+                            {
+                                "@href": "https://fly.io/",
+                                "@start": "35",
+                                "@title": "Sponsor: Fly"
+                            },
+                            {
+                                "@start": "196",
+                                "@title": "What is Shopify?"
+                            },
+                            {
+                                "@start": "310",
+                                "@title": "What sets Shopify apart?"
+                            },
+                            {
+                                "@start": "369",
+                                "@title": "Wide array of customers"
+                            },
+                            {
+                                "@start": "481",
+                                "@title": "The Ai turning point"
+                            },
+                            {
+                                "@start": "552",
+                                "@title": "Shopify's mission"
+                            },
+                            {
+                                "@start": "633",
+                                "@title": "Approaching different models"
+                            },
+                            {
+                                "@start": "703",
+                                "@title": "Strengths and weaknesses of different perspectives"
+                            },
+                            {
+                                "@start": "891",
+                                "@title": "Growing pains"
+                            },
+                            {
+                                "@href": "https://www.timescale.com",
+                                "@start": "1041",
+                                "@title": "Sponsor: Timescale"
+                            },
+                            {
+                                "@start": "1198",
+                                "@title": "Find your way out of the forest"
+                            },
+                            {
+                                "@start": "1409",
+                                "@title": "Other products"
+                            },
+                            {
+                                "@start": "1637",
+                                "@title": "Plugging in the ecosystem"
+                            },
+                            {
+                                "@href": "https://www.eightsleep.com/changelog",
+                                "@start": "1845",
+                                "@title": "Sponsor: Eight Sleep"
+                            },
+                            {
+                                "@start": "2009",
+                                "@title": "What is Magic?"
+                            },
+                            {
+                                "@start": "2050",
+                                "@title": "Adding more AI capabilities?"
+                            },
+                            {
+                                "@start": "2410",
+                                "@title": "Finding utility in other tools"
+                            },
+                            {
+                                "@start": "2657",
+                                "@title": "Looking to the future"
+                            },
+                            {
+                                "@start": "3023",
+                                "@title": "Thanks for joining us!"
+                            },
+                            {
+                                "@start": "3050",
+                                "@title": "Outro"
+                            }
+                        ]
+                    },
+                    "pubDate": "Wed, 11 Dec 2024 22:15:00 +0000",
+                    "title": "Sidekick is an AI Shopify expert"
+                },
+                {
                     "content:encoded": "<p>Kyutai, an open science research lab, made headlines over the summer when they released their real-time speech-to-speech AI assistant (beating OpenAI to market with their teased GPT-driven speech-to-speech functionality). Alex from Kyutai joins us in this episode to discuss the research lab, their recent Moshi models, and what might be coming next from the lab. Along the way we discuss small models and the AI ecosystem in France.</p>\n<p><a href=\"https://changelog.zulipchat.com/#narrow/stream/456003-practicalai\">Join the discussion</a></p><p><a href=\"https://changelog.com/++\" rel=\"payment\">Changelog++</a> members save 10 minutes on this episode because they made the ads disappear. Join today!</p><p>Sponsors:</p><p><ul><li><a href=\"https://fly.io/\">Fly.io</a> \u2013 <strong>The home of Changelog.com</strong> \u2014 Deploy your apps close to your users \u2014 global Anycast load-balancing, zero-configuration private networking, hardware isolation, and instant WireGuard VPN connections. Push-button deployments that scale to thousands of instances. <a href=\"https://fly.io/speedrun/\">Check out the speedrun</a> to get started in minutes.\n</li>\n<li><a href=\"https://www.timescale.com\">Timescale</a> \u2013 <strong>Purpose-built performance for AI</strong> Build RAG, search, and AI agents on the cloud and with PostgreSQL and purpose-built extensions for AI: pgvector, pgvectorscale, and pgai.\n</li>\n<li><a href=\"https://workos.com\">WorkOS</a> \u2013 <strong>AuthKit offers 1,000,000 monthly active users (MAU) free</strong> \u2014 The world\u2019s best login box, powered by WorkOS + Radix. Learn more and get started at <a href=\"https://workos.com/\">WorkOS.com</a> and <a href=\"https://www.authkit.com\">AuthKit.com</a>\n</li>\n</ul></p><p>Featuring:</p><ul><li>Alexandre D\u00e9fossez &ndash; <a href=\"https://twitter.com/honualx\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/adefossez\" rel=\"external ugc\">GitHub</a>, <a href=\"https://ai.honu.io\" rel=\"external ugc\">Website</a></li><li>Chris Benson &ndash; <a href=\"https://twitter.com/chrisbenson\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/chrisbenson\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.linkedin.com/in/chrisbenson\" rel=\"external ugc\">LinkedIn</a>, <a href=\"https://chrisbenson.com\" rel=\"external ugc\">Website</a></li><li>Daniel Whitenack &ndash; <a href=\"https://twitter.com/dwhitena\" rel=\"external ugc\">Twitter</a>, <a href=\"https://github.com/dwhitena\" rel=\"external ugc\">GitHub</a>, <a href=\"https://www.datadan.io/\" rel=\"external ugc\">Website</a></li></ul></p><p>Show Notes:</p><p><ul>\n<li><a href=\"https://kyutai.org/\">Kyutai</a></li>\n<li><a href=\"https://github.com/kyutai-labs/moshi\">Kyutai on GitHub</a></li>\n<li><a href=\"https://huggingface.co/kyutai\">Kyutai on Hugging Face</a></li>\n</ul>\n</p><p>Something missing or broken? <a href=\"https://github.com/thechangelog/show-notes/blob/master/practicalai/practical-ai-298.md\">PRs welcome!</a></p>",
                     "description": "Kyutai, an open science research lab, made headlines over the summer when they released their real-time speech-to-speech AI assistant (beating OpenAI to market with their teased GPT-driven speech-to-speech functionality). Alex from Kyutai joins us in this episode to discuss the research lab, their recent Moshi models, and what might be coming next from the lab. Along the way we discuss small models and the AI ecosystem in France.",
                     "enclosure": {
@@ -65,6 +204,14 @@
                             "@role": "guest"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@practicalai/113595384215759061"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/practicalai/298/transcript"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",
@@ -185,6 +332,10 @@
                     "podcast:socialInteract": {
                         "@protocol": "activitypub",
                         "@uri": "https://changelog.social/@practicalai/113567426554721873"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/practicalai/297/transcript"
                     },
                     "psc:chapters": {
                         "@version": "1.1",
