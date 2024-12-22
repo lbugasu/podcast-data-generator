@@ -44,6 +44,63 @@
             },
             "item": [
                 {
+                    "content:encoded": "<p dir=\"ltr\">What happens when the biggest movie star in the world directs the smallest Christmas film on basic cable? A holiday miracle.&nbsp;</p> <p dir=\"ltr\">Today on the show: The never-before-published, extremely bizarre story of the making of &lsquo;Christmas in Connecticut&rsquo;... the remake.</p> <p>&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "description": "<p dir=\"ltr\">What happens when the biggest movie star in the world directs the smallest Christmas film on basic cable? A holiday miracle.&nbsp;</p> <p dir=\"ltr\">Today on the show: The never-before-published, extremely bizarre story of the making of &lsquo;Christmas in Connecticut&rsquo;... the remake.</p> <p>&nbsp;</p><p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
+                    "enclosure": {
+                        "@length": "42562897",
+                        "@type": "audio/mpeg",
+                        "@url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f1d8e468-64e3-4ee8-bd45-b249016adc55/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0"
+                    },
+                    "guid": {
+                        "#text": "f1d8e468-64e3-4ee8-bd45-b249016adc55",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Pushkin Industries",
+                    "itunes:duration": "2658",
+                    "itunes:episode": "8",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0d4cc74d-fff7-4b89-8818-ae32006cd7f0/image.jpg?t=1643956582&size=Large"
+                    },
+                    "itunes:season": "12",
+                    "itunes:title": "A Very Terminator Christmas",
+                    "link": "https://omny.fm/shows/revisionist-history/a-very-terminator-christmas",
+                    "media:content": [
+                        {
+                            "@type": "audio/mpeg",
+                            "@url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/pdrl.fm/ebe9fc/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/f1d8e468-64e3-4ee8-bd45-b249016adc55/audio.mp3?utm_source=Podcast&in_playlist=0d4cc74d-fff7-4b89-8818-ae32006cd7f0",
+                            "media:player": {
+                                "@url": "https://omny.fm/shows/revisionist-history/a-very-terminator-christmas/embed"
+                            }
+                        },
+                        {
+                            "@type": "image/jpeg",
+                            "@url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0d4cc74d-fff7-4b89-8818-ae32006cd7f0/image.jpg?t=1643956582&size=Large"
+                        }
+                    ],
+                    "omny:clipId": "f1d8e468-64e3-4ee8-bd45-b249016adc55",
+                    "podcast:transcript": [
+                        {
+                            "@language": "en-us",
+                            "@type": "application/srt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f1d8e468-64e3-4ee8-bd45-b249016adc55/transcript?format=SubRip&t=1734498605"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/vtt",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f1d8e468-64e3-4ee8-bd45-b249016adc55/transcript?format=WebVTT&t=1734498605"
+                        },
+                        {
+                            "@language": "en-us",
+                            "@type": "text/plain",
+                            "@url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f1d8e468-64e3-4ee8-bd45-b249016adc55/transcript?format=TextWithTimestamps&t=1734498605"
+                        }
+                    ],
+                    "pubDate": "Wed, 18 Dec 2024 05:01:00 +0000",
+                    "title": "A Very Terminator Christmas"
+                },
+                {
                     "category": [
                         "RevisionistImport",
                         "WYPImport",

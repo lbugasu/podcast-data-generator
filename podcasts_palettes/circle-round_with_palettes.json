@@ -34,6 +34,63 @@
                         "Arts",
                         "Books"
                     ],
+                    "content:encoded": "<p><span style=\"font-weight: 400;\">Recorded live at Symphony Space, a star-studded cast brings to life this Chinese and Vietnamese legend about the healing power of a kind and honest heart.</span></p>",
+                    "dc:creator": {
+                        "#text": "WBUR",
+                        "@xmlns:dc": "http://purl.org/dc/elements/1.1/"
+                    },
+                    "description": "<p><span style=\"font-weight: 400;\">Recorded live at Symphony Space, a star-studded cast brings to life this Chinese and Vietnamese legend about the healing power of a kind and honest heart.</span></p>",
+                    "enclosure": {
+                        "@length": "26358410",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR7590930841.mp3"
+                    },
+                    "guid": {
+                        "#text": "c8c12366-ad8e-4c21-9257-40f7a60cb1d3",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": " WBUR ",
+                    "itunes:duration": "00:27:27",
+                    "itunes:episode": "25",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://wordpress.wbur.org/wp-content/uploads/2024/12/peachlifeSQ.jpg"
+                    },
+                    "itunes:season": "8",
+                    "itunes:subtitle": "Recorded live at Symphony Space, a star-studded cast brings to life this Chinese and Vietnamese legend about the healing power of a kind and honest heart.",
+                    "itunes:summary": "<span style=\"font-weight: 400;\">Recorded live at Symphony Space, a star-studded cast brings to life this Chinese and Vietnamese legend about the healing power of a kind and honest heart.</span>",
+                    "itunes:title": " The Peach of Life ",
+                    "link": "https://www.wbur.org/circleround/2024/12/17/peach-of-life",
+                    "media:content": [
+                        {
+                            "@height": "3000",
+                            "@medium": "image",
+                            "@type": "image/jpeg",
+                            "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/12/peachlifeSQ.jpg",
+                            "@width": "3000",
+                            "media:description": "(Sabina Hahn for WBUR)",
+                            "media:thumbnail": {
+                                "@height": "200",
+                                "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/12/peachlifeSQ-200x200.jpg",
+                                "@width": "200"
+                            }
+                        },
+                        {
+                            "@fileSize": "26358410",
+                            "@medium": "audio",
+                            "@type": "audio/mpeg",
+                            "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR7590930841.mp3"
+                        }
+                    ],
+                    "pubDate": "Tue, 17 Dec 2024 15:00:00 -0500",
+                    "title": "The Peach of Life"
+                },
+                {
+                    "category": [
+                        "Arts",
+                        "Books"
+                    ],
                     "content:encoded": "<p><span style=\"font-weight: 400;\">Recorded live at Symphony Space with a star-studded cast, this magical tale inspired by Ukrainian and Russian lore follows a kindly tailor as he embarks on an unforgettable chase.</span></p>",
                     "dc:creator": {
                         "#text": "WBUR",
@@ -21046,7 +21103,7 @@
             "itunes:summary": "Created and produced by parents of young children, WBUR's Circle Round adapts carefully-selected folktales from around the world into sound- and music-rich radio plays for kids ages 3-103. Each 15 to 25-minute episode explores important issues like kindness, persistence and generosity. And each episode ends with an activity that inspires a deeper conversation between children and grown-ups.",
             "itunes:type": "serial",
             "language": "en-us",
-            "lastBuildDate": "Sat, 14 Dec 2024 19:45:06 -0500",
+            "lastBuildDate": "Sat, 21 Dec 2024 19:30:07 -0500",
             "link": "https://www.wbur.org/podcasts/circleround",
             "title": "Circle Round"
         }
