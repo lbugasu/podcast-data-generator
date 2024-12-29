@@ -40,6 +40,34 @@
             "item": [
                 {
                     "author": "scott@hanselman.com (Scott Hanselman)",
+                    "content:encoded": "<p>Maggie Appleton makes visual essays about programming, design, and anthropology. She's been thinking about how we interact with computers - and AI - longer than you've know about AI. She sits down with Scott to discuss how we interact with our computers through an anthropological lens.</p><p><a href=\"https://maggieappleton.com/\">https://maggieappleton.com</a></p>\n",
+                    "description": "<p>Maggie Appleton makes visual essays about programming, design, and anthropology. She's been thinking about how we interact with computers - and AI - longer than you've know about AI. She sits down with Scott to discuss how we interact with our computers through an anthropological lens.</p><p><a href=\"https://maggieappleton.com/\">https://maggieappleton.com</a></p>\n",
+                    "enclosure": {
+                        "@length": "34050289",
+                        "@type": "audio/mpeg",
+                        "@url": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/f5a8f022-b471-4d0e-84a0-da0d4cfa542e/audio/59634d63-7b33-40d7-8fa1-77f913550799/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+                    },
+                    "guid": {
+                        "#text": "5ac99f48-2597-472a-a49b-3c5586afd742",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Scott Hanselman",
+                    "itunes:duration": "00:35:22",
+                    "itunes:episode": "977",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/e464c34b-2f32-411b-bdd2-dcf02e5301eb/94c9a992-fa07-4be1-8daa-b43e327542df/3000x3000/977.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "Maggie Appleton makes visual essays about programming, design, and anthropology. She's been thinking about how we interact with computers - and AI - longer than you've know about AI. She sits down with Scott to discuss how we interact with our computers through an anthropological lens.",
+                    "itunes:summary": "Maggie Appleton makes visual essays about programming, design, and anthropology. She's been thinking about how we interact with computers - and AI - longer than you've know about AI. She sits down with Scott to discuss how we interact with our computers through an anthropological lens.",
+                    "itunes:title": "What is AI's UI? with Maggie Appleton",
+                    "link": "https://www.hanselminutes.com",
+                    "pubDate": "Thu, 26 Dec 2024 21:00:00 +0000",
+                    "title": "What is AI's UI? with Maggie Appleton"
+                },
+                {
+                    "author": "scott@hanselman.com (Scott Hanselman)",
                     "content:encoded": "<p>Brian Douglas is the founder and CEO of Open Sauced where he works on increasing the knowledge and insights of open-source communities. In the past he\u2019s lead Developer Advocacy at GitHub by fostering a community of early adopters through content creation showcasing the newest Github features. Open Sauced just joined the Linux Foundation and we learn how and why that move happened on this episode!</p><p><a href=\"https://opensauced.pizza/blog/bridging-the-gap-organizational-insights\">https://opensauced.pizza/blog/bridging-the-gap-organizational-insights</a></p>\n",
                     "description": "<p>Brian Douglas is the founder and CEO of Open Sauced where he works on increasing the knowledge and insights of open-source communities. In the past he\u2019s lead Developer Advocacy at GitHub by fostering a community of early adopters through content creation showcasing the newest Github features. Open Sauced just joined the Linux Foundation and we learn how and why that move happened on this episode!</p><p><a href=\"https://opensauced.pizza/blog/bridging-the-gap-organizational-insights\">https://opensauced.pizza/blog/bridging-the-gap-organizational-insights</a></p>\n",
                     "enclosure": {
@@ -17283,34 +17311,6 @@
                 },
                 {
                     "author": "scott@hanselman.com (Scott Hanselman)",
-                    "content:encoded": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
-                    "description": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
-                    "enclosure": {
-                        "@length": "31814349",
-                        "@type": "audio/mpeg",
-                        "@url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/f239e3a2_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-                    },
-                    "guid": {
-                        "#text": "http://www.hanselminutes.com/default.aspx?ShowID=380",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Scott Hanselman",
-                    "itunes:duration": "00:33:07",
-                    "itunes:episode": "358",
-                    "itunes:episodeType": "full",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/3000x3000/1519423024artwork.jpg?aid=rss_feed"
-                    },
-                    "itunes:subtitle": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
-                    "itunes:summary": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
-                    "itunes:title": "Halo 4 - Services in Azure with Caitie McCaffrey",
-                    "link": "https://www.hanselminutes.com",
-                    "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
-                    "title": "Halo 4 - Services in Azure with Caitie McCaffrey"
-                },
-                {
-                    "author": "scott@hanselman.com (Scott Hanselman)",
                     "content:encoded": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
                     "description": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
                     "enclosure": {
@@ -17336,6 +17336,34 @@
                     "link": "https://www.hanselminutes.com",
                     "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
                     "title": "Git support within Visual Studio"
+                },
+                {
+                    "author": "scott@hanselman.com (Scott Hanselman)",
+                    "content:encoded": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
+                    "description": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
+                    "enclosure": {
+                        "@length": "31814349",
+                        "@type": "audio/mpeg",
+                        "@url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/f239e3a2_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+                    },
+                    "guid": {
+                        "#text": "http://www.hanselminutes.com/default.aspx?ShowID=380",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Scott Hanselman",
+                    "itunes:duration": "00:33:07",
+                    "itunes:episode": "358",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/3000x3000/1519423024artwork.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
+                    "itunes:summary": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
+                    "itunes:title": "Halo 4 - Services in Azure with Caitie McCaffrey",
+                    "link": "https://www.hanselminutes.com",
+                    "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
+                    "title": "Halo 4 - Services in Azure with Caitie McCaffrey"
                 },
                 {
                     "author": "scott@hanselman.com (Scott Hanselman)",
@@ -27278,9 +27306,9 @@
             "itunes:summary": "Hanselminutes is Fresh Air for Developers. A weekly commute-time podcast that promotes fresh technology and fresh voices. Talk and Tech for Developers, Life-long Learners, and Technologists.",
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Sat, 21 Dec 2024 23:55:51 +0000",
+            "lastBuildDate": "Thu, 26 Dec 2024 21:00:13 +0000",
             "link": "https://www.hanselminutes.com",
-            "pubDate": "Thu, 19 Dec 2024 21:00:00 +0000",
+            "pubDate": "Thu, 26 Dec 2024 21:00:00 +0000",
             "title": "Hanselminutes with Scott Hanselman"
         }
     }

@@ -48,6 +48,42 @@
                     "category": [
                         "All Content",
                         "Exclusive Content",
+                        "Podcast",
+                        "End-of-Year Message",
+                        "Software Engineering Daily"
+                    ],
+                    "comments": "https://softwareengineeringdaily.com/2024/12/24/special-end-year-message-from-software-engineering-daily/#respond",
+                    "content:encoded": "<div style=\"text-align: justify;\">\n<p>To our Software Engineering Daily listeners &#8211; as we wrap up 2024, we want to thank you all for listening to the show. We&#8217;ve had a great time putting together all of our episodes this year, and we&#8217;re grateful for your support.</p>\n</div>\n<div style=\"text-align: justify;\">\n<p>This year we continued our wide lens coverage of software engineering, and we also expanded our coverage of security, AI, and game development. We want to extend our thanks to all of our fantastic guests for sharing their time and expertise.</p>\n</div>\n<div style=\"text-align: justify;\">\n<p>We&#8217;re really excited about our 2025 podcast season and we think you&#8217;re going to love what we have in store. As always, we&#8217;re committed to bringing you high-caliber experts from across the tech landscape, and we can&#8217;t wait to explore new topics and perspectives in the coming year.</p>\n</div>\n<div style=\"text-align: justify;\">\n<p>To close out 2024, we&#8217;ll be pausing releases this week to spend time with our families, but we&#8217;ll be back with new episodes the first week of January.</p>\n</div>\n<div style=\"text-align: justify;\">\n<p>Please consider leaving us a review on Apple Podcasts or Spotify if you haven&#8217;t yet. We take your feedback very seriously and it helps us improve the show. And, if you have any topics or guests you&#8217;d like to hear on the podcast we want to know, and you can send them our way at editor@softwareengineeringdaily.com.</p>\n</div>\n<div>Thank you again for listening to Software Engineering Daily and we wish you all a happy New Year!</div>\n<p>The post <a href=\"https://softwareengineeringdaily.com/2024/12/24/special-end-year-message-from-software-engineering-daily/\">Special End-of-Year Message from Software Engineering Daily</a> appeared first on <a href=\"https://softwareengineeringdaily.com\">Software Engineering Daily</a>.</p>\n",
+                    "description": "<p>To our Software Engineering Daily listeners \u2013 as we wrap up 2024, we want to thank you all for listening to the show. We\u2019ve had a great time putting together all of our episodes this year, and we\u2019re grateful for your support. This year we continued our wide lens coverage of software engineering, and we</p>\n<p>The post <a href=\"https://softwareengineeringdaily.com/2024/12/24/special-end-year-message-from-software-engineering-daily/\">Special End-of-Year Message from Software Engineering Daily</a> appeared first on <a href=\"https://softwareengineeringdaily.com\">Software Engineering Daily</a>.</p>",
+                    "enclosure": {
+                        "@length": "1048588",
+                        "@type": "audio/mpeg",
+                        "@url": "https://traffic.megaphone.fm/SED7674691638.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://softwareengineeringdaily.com/?p=17354",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Software Engineering Daily",
+                    "itunes:duration": "1:04",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:subtitle": "To our Software Engineering Daily listeners \u2013 as we wrap up 2024, we want to thank you all for listening to the show. We\u2019ve had a great time putting together all of our episodes this year, and we\u2019re grateful for your support.",
+                    "itunes:summary": "To our Software Engineering Daily listeners \u2013 as we wrap up 2024, we want to thank you all for listening to the show. We\u2019ve had a great time putting together all of our episodes this year, and we\u2019re grateful for your support. This year we continued our wide lens coverage of software engineering, and we",
+                    "link": "https://softwareengineeringdaily.com/2024/12/24/special-end-year-message-from-software-engineering-daily/?utm_source=rss&utm_medium=rss&utm_campaign=special-end-year-message-from-software-engineering-daily",
+                    "post-id": {
+                        "#text": "17354",
+                        "@xmlns": "com-wordpress:feed-additions:1"
+                    },
+                    "pubDate": "Tue, 24 Dec 2024 10:00:37 +0000",
+                    "slash:comments": "0",
+                    "title": "Special End-of-Year Message from Software Engineering Daily",
+                    "wfw:commentRss": "https://softwareengineeringdaily.com/2024/12/24/special-end-year-message-from-software-engineering-daily/feed/"
+                },
+                {
+                    "category": [
+                        "All Content",
+                        "Exclusive Content",
                         "Hosts",
                         "Podcast",
                         "graphics API",
@@ -4010,45 +4046,6 @@
                     "slash:comments": "0",
                     "title": "Nuxt JS with Anthony Fu",
                     "wfw:commentRss": "https://softwareengineeringdaily.com/2024/05/08/nuxt-js-with-anthony-fu/feed/"
-                },
-                {
-                    "category": [
-                        "All Content",
-                        "Exclusive Content",
-                        "Hosts",
-                        "Podcast",
-                        "Sean Falconer",
-                        "Argmax",
-                        "Atila Orhon",
-                        "ML models",
-                        "non-dedicated hardware"
-                    ],
-                    "comments": "https://softwareengineeringdaily.com/2024/05/07/scaling-large-ml-models-to-small-devices-with-atila-orhon/#respond",
-                    "content:encoded": "<div style=\"text-align: justify;\">\n<p>The size of ML models is growing into the many billions of parameters. This poses a challenge for running inference on non-dedicated hardware like phones and laptops.</p>\n</div>\n<div style=\"text-align: justify;\">\n<p><a href=\"https://twitter.com/argmaxinc\">Argmax</a> is a startup focused on developing methods to run large models on commodity hardware. A key observation behind their strategy is that the largest models are getting larger, but the smallest models that are commercially relevant are getting smaller. The company was started in 2023 and has raised money from General Catalyst and other industry leaders.</p>\n</div>\n<div style=\"text-align: justify;\">\n<p><a href=\"https://www.linkedin.com/in/atila-orhon-7ab99975/?locale=en_US\">Atila Orhon</a> is the founder of Argmax and he previously worked at Apple and NVIDIA. He joins the show to talk about working in computer vision, building ML tooling at Apple, optimizing ML models, and more.</p>\n<div>\n<p><span style=\"font-weight: 400;\"><a href=\"https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/10/Rectangle-3-2.png\"><img data-recalc-dims=\"1\" decoding=\"async\" class=\"size-full wp-image-15613 alignleft\" src=\"https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2023/10/Rectangle-3-2.png?resize=218%2C258&#038;ssl=1\" alt=\"\" width=\"218\" height=\"258\" /><img class=\"\" alt=\"\" width=\"\" height=\"\" /></a>Sean&#8217;s been an academic, startup founder, and Googler. He has published works covering a wide range of topics from information visualization to quantum computing. Currently, Sean is Head of Marketing and Developer Relations at <a>Skyflow</a> and host of the podcast Partially Redacted, a podcast about privacy and security engineering. You can connect with Sean on Twitter <a>@seanfalconer.</a></span></p>\n<p>&nbsp;</p>\n<div style=\"text-align: left;\">\n<p><a href=\"http://softwareengineeringdaily.com/wp-content/uploads/2024/05/SED1692-Atila-Orhon.txt\">Please click here to see the transcript of this episode.</a></p>\n</div>\n<div style=\"text-align: justify;\">\n<p style=\"text-align: left;\">Sponsorship inquiries: <a href=\"https://cms.megaphone.fm/organizations/619b680e-d813-11ea-9750-e7ecac406436/podcasts/e60108fe-e328-11ea-b2b6-1348249f900a/episodes/3913370a-bc44-11ed-ace6-8b1f96d82bba/sponsor@softwareengineeringdaily.com\">sponsor@softwareengineeringdaily.com</a></p>\n</div>\n</div>\n</div>\n<p>The post <a href=\"https://softwareengineeringdaily.com/2024/05/07/scaling-large-ml-models-to-small-devices-with-atila-orhon/\">Scaling Large ML Models to Small Devices with Atila Orhon</a> appeared first on <a href=\"https://softwareengineeringdaily.com\">Software Engineering Daily</a>.</p>\n",
-                    "description": "<p>The size of ML models is growing into the many billions of parameters. This poses a challenge for running inference on non-dedicated hardware like phones and laptops. Argmax is a startup focused on developing methods to run large models on commodity hardware. A key observation behind their strategy is that the largest models are getting</p>\n<p>The post <a href=\"https://softwareengineeringdaily.com/2024/05/07/scaling-large-ml-models-to-small-devices-with-atila-orhon/\">Scaling Large ML Models to Small Devices with Atila Orhon</a> appeared first on <a href=\"https://softwareengineeringdaily.com\">Software Engineering Daily</a>.</p>",
-                    "enclosure": {
-                        "@length": "81830891",
-                        "@type": "audio/mpeg",
-                        "@url": "https://traffic.megaphone.fm/SED4955720350.mp3"
-                    },
-                    "guid": {
-                        "#text": "https://softwareengineeringdaily.com/?p=16793",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Software Engineering Daily",
-                    "itunes:episodeType": "full",
-                    "itunes:explicit": "false",
-                    "itunes:subtitle": "The size of ML models is growing into the many billions of parameters. This poses a challenge for running inference on non-dedicated hardware like phones and laptops. Argmax is a startup focused on developing methods to run large models on commodity ha...",
-                    "itunes:summary": "The size of ML models is growing into the many billions of parameters. This poses a challenge for running inference on non-dedicated hardware like phones and laptops. Argmax is a startup focused on developing methods to run large models on commodity hardware. A key observation behind their strategy is that the largest models are getting",
-                    "link": "https://softwareengineeringdaily.com/2024/05/07/scaling-large-ml-models-to-small-devices-with-atila-orhon/?utm_source=rss&utm_medium=rss&utm_campaign=scaling-large-ml-models-to-small-devices-with-atila-orhon",
-                    "post-id": {
-                        "#text": "16793",
-                        "@xmlns": "com-wordpress:feed-additions:1"
-                    },
-                    "pubDate": "Tue, 07 May 2024 09:00:47 +0000",
-                    "slash:comments": "0",
-                    "title": "Scaling Large ML Models to Small Devices with Atila Orhon",
-                    "wfw:commentRss": "https://softwareengineeringdaily.com/2024/05/07/scaling-large-ml-models-to-small-devices-with-atila-orhon/feed/"
                 }
             ],
             "itunes:author": "Software Engineering Daily",
@@ -4073,7 +4070,7 @@
             "itunes:subtitle": "Software Engineering Daily",
             "itunes:summary": "Technical interviews about software topics.",
             "language": "en-US",
-            "lastBuildDate": "Thu, 19 Dec 2024 10:00:52 +0000",
+            "lastBuildDate": "Tue, 24 Dec 2024 10:00:37 +0000",
             "link": "https://softwareengineeringdaily.com/",
             "podcast:guid": "273cb2c5-02e4-5e26-a2e6-4652c27182cb",
             "podcast:medium": "podcast",
