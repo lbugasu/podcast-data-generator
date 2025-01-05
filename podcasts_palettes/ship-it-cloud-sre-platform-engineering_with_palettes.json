@@ -59,6 +59,10 @@
                             "@role": "host"
                         }
                     ],
+                    "podcast:socialInteract": {
+                        "@protocol": "activitypub",
+                        "@uri": "https://changelog.social/@shipit/113685804172763149"
+                    },
                     "psc:chapters": {
                         "@version": "1.1",
                         "@xmlns": "http://podlove.org/simple-chapters",
@@ -180,6 +184,10 @@
                     "podcast:socialInteract": {
                         "@protocol": "activitypub",
                         "@uri": "https://changelog.social/@shipit/113652030916104235"
+                    },
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "https://changelog.com/shipit/134/transcript"
                     },
                     "psc:chapters": {
                         "@version": "1.1",
