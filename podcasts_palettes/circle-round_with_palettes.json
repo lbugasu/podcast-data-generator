@@ -34,6 +34,63 @@
                         "Arts",
                         "Books"
                     ],
+                    "content:encoded": "<p><span style=\"font-weight: 400;\">Mireille Enos (Hanna, The Killing) headlines this new spin on an ancient Greek legend about an instrument that captivates everyone who hears it \u2013 whether they have skin, scales, hair, hides, feathers or fur!</span></p>",
+                    "dc:creator": {
+                        "#text": "WBUR",
+                        "@xmlns:dc": "http://purl.org/dc/elements/1.1/"
+                    },
+                    "description": "<p><span style=\"font-weight: 400;\">Mireille Enos (Hanna, The Killing) headlines this new spin on an ancient Greek legend about an instrument that captivates everyone who hears it \u2013 whether they have skin, scales, hair, hides, feathers or fur!</span></p>",
+                    "enclosure": {
+                        "@length": "20936690",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR4161641059.mp3"
+                    },
+                    "guid": {
+                        "#text": "6bb698f9-5c14-4140-9d75-69edce711993",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": " WBUR ",
+                    "itunes:duration": "00:21:49",
+                    "itunes:episode": "28",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://wordpress.wbur.org/wp-content/uploads/2024/12/arianasmusicSQ.jpg"
+                    },
+                    "itunes:season": "8",
+                    "itunes:subtitle": "Mireille Enos (Hanna, The Killing) headlines this new spin on an ancient Greek legend about an instrument that captivates everyone who hears it \u2013 whether they have skin, scales, hair, hides, feathers or fur!",
+                    "itunes:summary": "<span style=\"font-weight: 400;\">Mireille Enos (Hanna, The Killing) headlines this new spin on an ancient Greek legend about an instrument that captivates everyone who hears it \u2013 whether they have skin, scales, hair, hides, feathers or fur!</span>",
+                    "itunes:title": " Encore: Ariana\u2019s Music ",
+                    "link": "https://www.wbur.org/circleround/2025/01/07/encore-arianas-music",
+                    "media:content": [
+                        {
+                            "@height": "3000",
+                            "@medium": "image",
+                            "@type": "image/jpeg",
+                            "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/12/arianasmusicSQ.jpg",
+                            "@width": "3000",
+                            "media:description": "(Sabina Hahn for WBUR)",
+                            "media:thumbnail": {
+                                "@height": "200",
+                                "@url": "https://wordpress.wbur.org/wp-content/uploads/2024/12/arianasmusicSQ-200x200.jpg",
+                                "@width": "200"
+                            }
+                        },
+                        {
+                            "@fileSize": "20936690",
+                            "@medium": "audio",
+                            "@type": "audio/mpeg",
+                            "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR4161641059.mp3"
+                        }
+                    ],
+                    "pubDate": "Tue, 07 Jan 2025 15:00:00 -0500",
+                    "title": "Encore: Ariana\u2019s Music"
+                },
+                {
+                    "category": [
+                        "Arts",
+                        "Books"
+                    ],
                     "content:encoded": "<p><span style=\"font-weight: 400;\">Alexandra Billings (Transparent, Paddleton) stars in a North African, Middle Eastern and central and north-central Asian folktale about the power of a keen eye and a quick mind. </span></p>",
                     "dc:creator": {
                         "#text": "WBUR",
@@ -21217,7 +21274,7 @@
             "itunes:summary": "Created and produced by parents of young children, WBUR's Circle Round adapts carefully-selected folktales from around the world into sound- and music-rich radio plays for kids ages 3-103. Each 15 to 25-minute episode explores important issues like kindness, persistence and generosity. And each episode ends with an activity that inspires a deeper conversation between children and grown-ups.",
             "itunes:type": "serial",
             "language": "en-us",
-            "lastBuildDate": "Sat, 04 Jan 2025 19:30:07 -0500",
+            "lastBuildDate": "Sat, 11 Jan 2025 19:30:13 -0500",
             "link": "https://www.wbur.org/podcasts/circleround",
             "title": "Circle Round"
         }

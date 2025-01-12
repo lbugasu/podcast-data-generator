@@ -10,7 +10,7 @@
         "@xmlns:podcast": "https://podcastindex.org/namespace/1.0",
         "channel": {
             "atom:link": {
-                "@href": "https://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml",
+                "@href": "http://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml",
                 "@rel": "self",
                 "@type": "application/rss+xml"
             },
@@ -26,6 +26,382 @@
                 "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
             },
             "item": [
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "NPR's Ayesha Rascoe speaks with Jason Pootoolal, president of Save the Giraffes, about using in vitro fertilization for wild giraffes to save the species from extinction.",
+                    "enclosure": {
+                        "@length": "4050000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250105_wesun_giraffes_may_be_facing_extinction._ivf_could_help.mp3?size=3610794&d=225641&e=nx-s1-5247458"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106408",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:03:45",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Giraffes may be facing extinction. IVF could help",
+                    "itunes:summary": "NPR's Ayesha Rascoe speaks with Jason Pootoolal, president of Save the Giraffes, about using in vitro fertilization for wild giraffes to save the species from extinction.",
+                    "itunes:title": "Giraffes may be facing extinction. IVF could help",
+                    "link": "https://www.kuow.org/stories/giraffes-may-be-facing-extinction-ivf-could-help",
+                    "pubDate": "Sun, 5 Jan 2025 05:29:32 -0800",
+                    "title": "Giraffes may be facing extinction. IVF could help"
+                },
+                {
+                    "author": "Danny Hensel",
+                    "description": "The new Netflix film \"Carry-On\" reminds us of how airports are the perfect setting for thrillers. Tight security, short tempers, and high stakes make for the perfect edge-of-your-seat storyline.",
+                    "enclosure": {
+                        "@length": "4536000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250105_wesun_why_airports_have_remained_one_of_film_s_favorite_settings_for_thrillers.mp3?size=4039620&d=252438&e=nx-s1-5246068"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106411",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Danny Hensel",
+                    "itunes:duration": "00:04:12",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Why airports have remained one of film's favorite settings for thrillers",
+                    "itunes:summary": "The new Netflix film \"Carry-On\" reminds us of how airports are the perfect setting for thrillers. Tight security, short tempers, and high stakes make for the perfect edge-of-your-seat storyline.",
+                    "itunes:title": "Why airports have remained one of film's favorite settings for thrillers",
+                    "link": "https://www.kuow.org/stories/why-airports-have-remained-one-of-film-s-favorite-settings-for-thrillers",
+                    "pubDate": "Sun, 5 Jan 2025 05:29:29 -0800",
+                    "title": "Why airports have remained one of film's favorite settings for thrillers"
+                },
+                {
+                    "author": "Zachary Harold",
+                    "description": "The longtime pilot of the only Ohio River ferry in West Virginia is retiring. We'll take a ride with him. (This story first aired on Morning Edition on December 25, 2024.)",
+                    "enclosure": {
+                        "@length": "3114000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250105_wesun_longtime_captain_s_retirement_begins_a_new_chapter_for_a_west_virginia_ferry_ride.mp3?size=2784489&d=173994&e=nx-s1-5230351-e1"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106407",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Zachary Harold",
+                    "itunes:duration": "00:02:53",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Longtime captain's retirement begins a new chapter for a West Virginia ferry ride",
+                    "itunes:summary": "The longtime pilot of the only Ohio River ferry in West Virginia is retiring. We'll take a ride with him. (This story first aired on Morning Edition on December 25, 2024.)",
+                    "itunes:title": "Longtime captain's retirement begins a new chapter for a West Virginia ferry ride",
+                    "link": "https://www.kuow.org/stories/longtime-captain-s-retirement-begins-a-new-chapter-for-a-west-virginia-ferry-ride-1196",
+                    "pubDate": "Sun, 5 Jan 2025 05:29:22 -0800",
+                    "title": "Longtime captain's retirement begins a new chapter for a West Virginia ferry ride"
+                },
+                {
+                    "author": "Debbie Elliott",
+                    "description": "Following the New Year's Day truck attack in New Orleans, people who live in the French Quarter discuss what's ahead for them and their neighborhood.",
+                    "enclosure": {
+                        "@length": "6372000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250105_wesun_new_orleans_residents_say_they_won_t_let_an_act_of_terror_destroy_the_city_s_spirit.mp3?size=5665063&d=354016&e=nx-s1-5246596"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106405",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Debbie Elliott",
+                    "itunes:duration": "00:05:54",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "New Orleans residents say they won't let an act of terror destroy the city's spirit",
+                    "itunes:summary": "Following the New Year's Day truck attack in New Orleans, people who live in the French Quarter discuss what's ahead for them and their neighborhood.",
+                    "itunes:title": "New Orleans residents say they won't let an act of terror destroy the city's spirit",
+                    "link": "https://www.kuow.org/stories/new-orleans-residents-say-they-won-t-let-an-act-of-terror-destroy-the-city-s-spirit",
+                    "pubDate": "Sun, 5 Jan 2025 05:29:18 -0800",
+                    "title": "New Orleans residents say they won't let an act of terror destroy the city's spirit"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "NPR's Ayesha Rascoe speaks with Holly Anderson of the Shutdown Fullcast podcast, about the newly expanded college playoffs that are now entering the semifinals.",
+                    "enclosure": {
+                        "@length": "5256000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250105_wesun_looking_ahead_to_the_semifinals_after_a_surreal_week_in_college_football.mp3?size=4679934&d=292466&e=nx-s1-5246578"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106409",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:04:52",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Looking ahead to the semifinals after a surreal week in college football",
+                    "itunes:summary": "NPR's Ayesha Rascoe speaks with Holly Anderson of the Shutdown Fullcast podcast, about the newly expanded college playoffs that are now entering the semifinals.",
+                    "itunes:title": "Looking ahead to the semifinals after a surreal week in college football",
+                    "link": "https://www.kuow.org/stories/looking-ahead-to-the-semifinals-after-a-surreal-week-in-college-football",
+                    "pubDate": "Sun, 5 Jan 2025 05:29:11 -0800",
+                    "title": "Looking ahead to the semifinals after a surreal week in college football"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "NPR's Ayesha Rascoe speaks to musician Lubalin about his latest album, \"Haha, No Worries.\"",
+                    "enclosure": {
+                        "@length": "9612000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250105_wesun_canadian_singer_lubalin_discusses_his_album_haha_no_worries.mp3?size=8555669&d=534693&e=nx-s1-5246001"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106410",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:08:54",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Canadian singer Lubalin discusses his album 'haha no worries'",
+                    "itunes:summary": "NPR's Ayesha Rascoe speaks to musician Lubalin about his latest album, \"Haha, No Worries.\"",
+                    "itunes:title": "Canadian singer Lubalin discusses his album 'haha no worries'",
+                    "link": "https://www.kuow.org/stories/canadian-singer-lubalin-discusses-his-album-haha-no-worries",
+                    "pubDate": "Sun, 5 Jan 2025 05:28:57 -0800",
+                    "title": "Canadian singer Lubalin discusses his album 'haha no worries'"
+                },
+                {
+                    "author": [
+                        "Mara Liasson",
+                        "Ayesha Rascoe"
+                    ],
+                    "description": "Congress will certify the 2024 presidential election results Monday, exactly four years after the attack on the Capitol. Plus, the split among Republicans over immigration reform.",
+                    "enclosure": {
+                        "@length": "4878000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250105_wesun_politics_chat_january_6_anniversary_republicans_in_congress_split_over_immigration.mp3?size=4345148&d=271532&e=nx-s1-5248290"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106398",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Mara Liasson",
+                        "Ayesha Rascoe"
+                    ],
+                    "itunes:duration": "00:04:31",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Politics chat: January 6 anniversary, Republicans in Congress split over immigration",
+                    "itunes:summary": "Congress will certify the 2024 presidential election results Monday, exactly four years after the attack on the Capitol. Plus, the split among Republicans over immigration reform.",
+                    "itunes:title": "Politics chat: January 6 anniversary, Republicans in Congress split over immigration",
+                    "link": "https://www.kuow.org/stories/politics-chat-january-6-anniversary-republicans-in-congress-split-over-immigration",
+                    "pubDate": "Sun, 5 Jan 2025 05:01:42 -0800",
+                    "title": "Politics chat: January 6 anniversary, Republicans in Congress split over immigration"
+                },
+                {
+                    "author": "Jennifer Ludden",
+                    "description": "President-elect Trump wants to overhaul how the U.S.\u00a0manages record-high homelessness. It could shift billions in federal funding away from housing and toward drug addiction programs. (This story first aired on Morning Edition on Jan. 3, 2025.)",
+                    "enclosure": {
+                        "@length": "4068000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250105_wesun_trump_wants_to_address_homelessness_by_working_with_states_to_ban_street_camping.mp3?size=3622497&d=226375&e=nx-s1-5230211-e1"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106400",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Jennifer Ludden",
+                    "itunes:duration": "00:03:46",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Trump wants to address homelessness by working with states to ban street camping",
+                    "itunes:summary": "President-elect Trump wants to overhaul how the U.S.\u00a0manages record-high homelessness. It could shift billions in federal funding away from housing and toward drug addiction programs. (This story first aired on Morning Edition on Jan. 3, 2025.)",
+                    "itunes:title": "Trump wants to address homelessness by working with states to ban street camping",
+                    "link": "https://www.kuow.org/stories/trump-wants-to-address-homelessness-by-working-with-states-to-ban-street-camping-26e4",
+                    "pubDate": "Sun, 5 Jan 2025 05:01:38 -0800",
+                    "title": "Trump wants to address homelessness by working with states to ban street camping"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "NPR's Ayesha Rascoe speaks to Mara Revkin, a professor at Duke Law School, about recent developments with ISIS, the group that appeared to inspire the New Year's Day terror attack in New Orleans.",
+                    "enclosure": {
+                        "@length": "6516000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250105_wesun_nearly_6_years_after_it_was_wiped_out_is_isis_having_a_possible_resurgence.mp3?size=5802572&d=362614&e=nx-s1-5246583"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106399",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:06:02",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Nearly 6 years after it was wiped out, is ISIS having a possible resurgence?",
+                    "itunes:summary": "NPR's Ayesha Rascoe speaks to Mara Revkin, a professor at Duke Law School, about recent developments with ISIS, the group that appeared to inspire the New Year's Day terror attack in New Orleans.",
+                    "itunes:title": "Nearly 6 years after it was wiped out, is ISIS having a possible resurgence?",
+                    "link": "https://www.kuow.org/stories/nearly-6-years-after-it-was-wiped-out-is-isis-having-a-possible-resurgence",
+                    "pubDate": "Sun, 5 Jan 2025 05:01:34 -0800",
+                    "title": "Nearly 6 years after it was wiped out, is ISIS having a possible resurgence?"
+                },
+                {
+                    "author": [
+                        "Claire Giangrave",
+                        "Ayesha Rascoe"
+                    ],
+                    "description": "Pope Francis has declared 2025 to be a Jubilee year for the Catholic Church. NPR's Ayesha Rascoe speaks with Claire Giangrav\u00e9 from the Religion News Service about the tradition.",
+                    "enclosure": {
+                        "@length": "4788000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250105_wesun_millions_of_pilgrims_are_expected_in_rome_for_the_catholic_church_s_jubilee_year.mp3?size=4259049&d=266153&e=nx-s1-5246284"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106401",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Claire Giangrave",
+                        "Ayesha Rascoe"
+                    ],
+                    "itunes:duration": "00:04:26",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Millions of pilgrims are expected in Rome for the Catholic Church's Jubilee year",
+                    "itunes:summary": "Pope Francis has declared 2025 to be a Jubilee year for the Catholic Church. NPR's Ayesha Rascoe speaks with Claire Giangrav\u00e9 from the Religion News Service about the tradition.",
+                    "itunes:title": "Millions of pilgrims are expected in Rome for the Catholic Church's Jubilee year",
+                    "link": "https://www.kuow.org/stories/millions-of-pilgrims-are-expected-in-rome-for-the-catholic-church-s-jubilee-year",
+                    "pubDate": "Sun, 5 Jan 2025 05:01:31 -0800",
+                    "title": "Millions of pilgrims are expected in Rome for the Catholic Church's Jubilee year"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "NPR's Ayesha Rascoe speaks with animators Nick Park and Merlin Crossingham about their new claymation movie, \"Wallace and Gromit: Vengeance Most Fowl.\"",
+                    "enclosure": {
+                        "@length": "9396000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250105_wesun_the_new_wallace_gromit_movie_tackles_ai_with_its_signature_british_sense_of_humor.mp3?size=8355467&d=522178&e=nx-s1-5154789"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106406",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:08:42",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "The new 'Wallace & Gromit' movie tackles AI with its signature British sense of humor",
+                    "itunes:summary": "NPR's Ayesha Rascoe speaks with animators Nick Park and Merlin Crossingham about their new claymation movie, \"Wallace and Gromit: Vengeance Most Fowl.\"",
+                    "itunes:title": "The new 'Wallace & Gromit' movie tackles AI with its signature British sense of humor",
+                    "link": "https://www.kuow.org/stories/the-new-wallace-gromit-movie-tackles-ai-with-its-signature-british-sense-of-humor",
+                    "pubDate": "Sun, 5 Jan 2025 05:01:27 -0800",
+                    "title": "The new 'Wallace & Gromit' movie tackles AI with its signature British sense of humor"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "China is planning to build a series of enormous hydropower dams. NPR's Ayesha Rascoe talks to Georgetown University professor Mark Giordano about the project and its effect on Sino-Indian relations.",
+                    "enclosure": {
+                        "@length": "5004000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250105_wesun_china_s_plan_to_build_dams_along_a_contested_border_with_india_is_raising_tensions.mp3?size=4454236&d=278341&e=nx-s1-5246161"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106402",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:04:38",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "China's plan to build dams along a contested border with India is raising tensions",
+                    "itunes:summary": "China is planning to build a series of enormous hydropower dams. NPR's Ayesha Rascoe talks to Georgetown University professor Mark Giordano about the project and its effect on Sino-Indian relations.",
+                    "itunes:title": "China's plan to build dams along a contested border with India is raising tensions",
+                    "link": "https://www.kuow.org/stories/china-s-plan-to-build-dams-along-a-contested-border-with-india-is-raising-tensions",
+                    "pubDate": "Sun, 5 Jan 2025 05:01:24 -0800",
+                    "title": "China's plan to build dams along a contested border with India is raising tensions"
+                },
+                {
+                    "author": "Kavitha Cardoza",
+                    "description": "Arkansas was the first state to start sending letters home flagging students' Body Mass Index. Twenty years later, they do not appear to have had any effect on childhood obesity.",
+                    "enclosure": {
+                        "@length": "5238000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250105_wesun_20_years_since_schools_started_flagging_students_bmi_obesity_has_only_risen.mp3?size=4662797&d=291389&e=nx-s1-5207992"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106403",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Kavitha Cardoza",
+                    "itunes:duration": "00:04:51",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "20 years since schools started flagging students' BMI, obesity has only risen",
+                    "itunes:summary": "Arkansas was the first state to start sending letters home flagging students' Body Mass Index. Twenty years later, they do not appear to have had any effect on childhood obesity.",
+                    "itunes:title": "20 years since schools started flagging students' BMI, obesity has only risen",
+                    "link": "https://www.kuow.org/stories/20-years-since-schools-started-flagging-students-bmi-obesity-has-only-risen",
+                    "pubDate": "Sun, 5 Jan 2025 05:01:20 -0800",
+                    "title": "20 years since schools started flagging students' BMI, obesity has only risen"
+                },
+                {
+                    "author": "Will Shortz",
+                    "description": "NPR's Ayesha Rascoe plays the puzzle with Puzzlemaster Will Shortz and KQED listener Cricket Liu of San Jose, Calif.",
+                    "enclosure": {
+                        "@length": "7956000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250105_wesun_sunday_puzzle_the_2024_news_quiz.mp3?size=7081109&d=442523&e=nx-s1-5245998"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106404",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Will Shortz",
+                    "itunes:duration": "00:07:22",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/bc152855f2bd0cdbc959374ebbc1eb7f.png?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Sunday Puzzle: The 2024 news quiz!",
+                    "itunes:summary": "NPR's Ayesha Rascoe plays the puzzle with Puzzlemaster Will Shortz and KQED listener Cricket Liu of San Jose, Calif.",
+                    "itunes:title": "Sunday Puzzle: The 2024 news quiz!",
+                    "link": "https://www.kuow.org/stories/sunday-puzzle-the-2024-news-quiz",
+                    "pubDate": "Sun, 5 Jan 2025 05:00:00 -0800",
+                    "title": "Sunday Puzzle: The 2024 news quiz!"
+                },
                 {
                     "author": [
                         "Anthony Kuhn",
@@ -2411,394 +2787,6 @@
                     "link": "https://www.kuow.org/stories/hurricane-helene-caused-big-losses-for-north-carolina-s-fall-tourism-industry",
                     "pubDate": "Sun, 10 Nov 2024 05:34:00 -0800",
                     "title": "Hurricane Helene caused big losses for North Carolina's fall tourism industry"
-                },
-                {
-                    "author": "EMMET LIVINGSTONE",
-                    "description": "How a unique wilderness in the Democratic Republic of Congo is being revived and preserved for future generations.",
-                    "enclosure": {
-                        "@length": "4014000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_a_rainforest_in_africa_tries_to_reverse_the_damage_form_years_of_conflict_and_neglect.mp3?size=3584462&d=223988&e=nx-s1-5110010"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-103876",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "EMMET LIVINGSTONE",
-                    "itunes:duration": "00:03:43",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "A rainforest in Africa tries to reverse the damage form years of conflict and neglect",
-                    "itunes:summary": "How a unique wilderness in the Democratic Republic of Congo is being revived and preserved for future generations.",
-                    "itunes:title": "A rainforest in Africa tries to reverse the damage form years of conflict and neglect",
-                    "link": "https://www.kuow.org/stories/a-rainforest-in-africa-tries-to-reverse-the-damage-form-years-of-conflict-and-neglect",
-                    "pubDate": "Sun, 10 Nov 2024 05:33:57 -0800",
-                    "title": "A rainforest in Africa tries to reverse the damage form years of conflict and neglect"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "NPR's Ayesha Rascoe talks to Georgetown Law Professor Steve Vladeck about the role federal courts can play as a check on presidential power during a second Trump Administration.",
-                    "enclosure": {
-                        "@length": "5724000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_a_law_expert_explains_the_role_federal_judges_will_play_in_trump_s_presidency.mp3?size=5094131&d=318336&e=nx-s1-5183158"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-103877",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:05:18",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "A law expert explains the role federal judges will play in Trump's presidency",
-                    "itunes:summary": "NPR's Ayesha Rascoe talks to Georgetown Law Professor Steve Vladeck about the role federal courts can play as a check on presidential power during a second Trump Administration.",
-                    "itunes:title": "A law expert explains the role federal judges will play in Trump's presidency",
-                    "link": "https://www.kuow.org/stories/a-law-expert-explains-the-role-federal-judges-will-play-in-trump-s-presidency",
-                    "pubDate": "Sun, 10 Nov 2024 05:33:48 -0800",
-                    "title": "A law expert explains the role federal judges will play in Trump's presidency"
-                },
-                {
-                    "author": [
-                        "Ayesha Rascoe",
-                        "Eleana Tworek"
-                    ],
-                    "description": "NPR's Ayesha Rascoe speaks with award-winning film composer Hans Zimmer about his latest work for the film \"Blitz.\"",
-                    "enclosure": {
-                        "@length": "10404000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_hans_zimmer_discusses_his_music_blitz_a_film_set_in_world_war_ii.mp3?size=9251571&d=578175&e=nx-s1-5028225"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-103879",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Ayesha Rascoe",
-                        "Eleana Tworek"
-                    ],
-                    "itunes:duration": "00:09:38",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Hans Zimmer discusses his music 'Blitz', a film set in World War II",
-                    "itunes:summary": "NPR's Ayesha Rascoe speaks with award-winning film composer Hans Zimmer about his latest work for the film \"Blitz.\"",
-                    "itunes:title": "Hans Zimmer discusses his music 'Blitz', a film set in World War II",
-                    "link": "https://www.kuow.org/stories/hans-zimmer-discusses-his-music-blitz-a-film-set-in-world-war-ii",
-                    "pubDate": "Sun, 10 Nov 2024 05:33:45 -0800",
-                    "title": "Hans Zimmer discusses his music 'Blitz', a film set in World War II"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "NPR's Ayesha Rascoe speaks with Punchbowl News reporter Brendan Pedersen about the cryptocurrency industry's heavy spending on the 2024 campaign and what it could mean for crypto regulation.",
-                    "enclosure": {
-                        "@length": "7038000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_cryptocurrency_s_power_players_spent_big_on_the_election._will_it_pay_off.mp3?size=6262745&d=391380&e=nx-s1-5183122"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-103870",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:06:31",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Cryptocurrency's power players spent big on the election. Will it pay off?",
-                    "itunes:summary": "NPR's Ayesha Rascoe speaks with Punchbowl News reporter Brendan Pedersen about the cryptocurrency industry's heavy spending on the 2024 campaign and what it could mean for crypto regulation.",
-                    "itunes:title": "Cryptocurrency's power players spent big on the election. Will it pay off?",
-                    "link": "https://www.kuow.org/stories/cryptocurrency-s-power-players-spent-big-on-the-election-will-it-pay-off",
-                    "pubDate": "Sun, 10 Nov 2024 05:33:44 -0800",
-                    "title": "Cryptocurrency's power players spent big on the election. Will it pay off?"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "NPR's Ayesha Rascoe talks with A.B. Stoddard, columnist at The Bulwark, about the election results and if it means there has been a durable political realignment.",
-                    "enclosure": {
-                        "@length": "5202000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_how_trump_increased_his_vote_margins_even_in_traditionally_blue_areas.mp3?size=4628942&d=289274&e=nx-s1-5183084"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-103887",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:04:49",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "How Trump increased his vote margins even in traditionally blue areas",
-                    "itunes:summary": "NPR's Ayesha Rascoe talks with A.B. Stoddard, columnist at The Bulwark, about the election results and if it means there has been a durable political realignment.",
-                    "itunes:title": "How Trump increased his vote margins even in traditionally blue areas",
-                    "link": "https://www.kuow.org/stories/how-trump-increased-his-vote-margins-even-in-traditionally-blue-areas",
-                    "pubDate": "Sun, 10 Nov 2024 05:33:41 -0800",
-                    "title": "How Trump increased his vote margins even in traditionally blue areas"
-                },
-                {
-                    "author": "Will Shortz",
-                    "description": "NPR's Ayesha Rascoe plays with puzzle with Weekend Edition Puzzlemaster Will Shortz and WBUR listener John Byrne of Watertown, Massachusetts.",
-                    "enclosure": {
-                        "@length": "6246000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241103_wesun_sunday_puzzle_can_you_guess_these_words_from_these_phonetic_clues.mp3?size=5563917&d=347712&e=nx-s1-5166133"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-103504",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Will Shortz",
-                    "itunes:duration": "00:05:47",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/2eb282580f1e3bbe0793080b066dcc9a.png?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Sunday Puzzle: Can you guess these words from these phonetic clues?",
-                    "itunes:summary": "NPR's Ayesha Rascoe plays with puzzle with Weekend Edition Puzzlemaster Will Shortz and WBUR listener John Byrne of Watertown, Massachusetts.",
-                    "itunes:title": "Sunday Puzzle: Can you guess these words from these phonetic clues?",
-                    "link": "https://www.kuow.org/stories/sunday-puzzle-can-you-guess-these-words-from-these-phonetic-clues",
-                    "pubDate": "Sun, 3 Nov 2024 11:44:45 -0800",
-                    "title": "Sunday Puzzle: Can you guess these words from these phonetic clues?"
-                },
-                {
-                    "author": "Jason DeRose",
-                    "description": "The Yale Center for Public Theology and Public Policy is raising up the next generation of Christian leaders focused on social justice. It's led by Rev. William Barber, after retirement from his longtime congregation.",
-                    "enclosure": {
-                        "@length": "8226000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241103_wesun_meet_the_religious_leaders_shaping_the_next_generation_of_civil_rights_activism.mp3?size=7317674&d=457318&e=nx-s1-5114960"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-103505",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Jason DeRose",
-                    "itunes:duration": "00:07:37",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/95f07776166b12f67d76d1e557df60d6?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Meet the religious leaders shaping the next generation of civil rights activism",
-                    "itunes:summary": "The Yale Center for Public Theology and Public Policy is raising up the next generation of Christian leaders focused on social justice. It's led by Rev. William Barber, after retirement from his longtime congregation.",
-                    "itunes:title": "Meet the religious leaders shaping the next generation of civil rights activism",
-                    "link": "https://www.kuow.org/stories/meet-the-religious-leaders-shaping-the-next-generation-of-civil-rights-activism",
-                    "pubDate": "Sun, 3 Nov 2024 05:00:00 -0800",
-                    "title": "Meet the religious leaders shaping the next generation of civil rights activism"
-                },
-                {
-                    "author": "Gabrielle Emanuel",
-                    "description": "The Marburg virus is notable for its very high fatality rate. But in the current Marburg outbreak, in Rwanda, the fatality rate is far lower than normal.",
-                    "enclosure": {
-                        "@length": "3006000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241103_wesun_rwanda_s_marburg_virus_outbreak_is_seeing_an_unusually_low_fatality_rate.mp3?size=2673311&d=167042&e=nx-s1-5175789"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-103506",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Gabrielle Emanuel",
-                    "itunes:duration": "00:02:47",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Rwanda's Marburg virus outbreak is seeing an unusually low fatality rate",
-                    "itunes:summary": "The Marburg virus is notable for its very high fatality rate. But in the current Marburg outbreak, in Rwanda, the fatality rate is far lower than normal.",
-                    "itunes:title": "Rwanda's Marburg virus outbreak is seeing an unusually low fatality rate",
-                    "link": "https://www.kuow.org/stories/rwanda-s-marburg-virus-outbreak-is-seeing-an-unusually-low-fatality-rate",
-                    "pubDate": "Sun, 3 Nov 2024 04:48:43 -0800",
-                    "title": "Rwanda's Marburg virus outbreak is seeing an unusually low fatality rate"
-                },
-                {
-                    "author": [
-                        "Franco Ordo\u00f1ez",
-                        "Ayesha Rascoe"
-                    ],
-                    "description": "In the final days of his presidential campaign, Donald Trump is traveling to the reliably blue states of Virginia and New Mexico after visits to New York and California.",
-                    "enclosure": {
-                        "@length": "4104000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241103_wesun_trump_is_choosing_to_campaign_in_blue_states._will_the_risk_pay_off.mp3?size=3651754&d=228198&e=nx-s1-5175599"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-103510",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Franco Ordo\u00f1ez",
-                        "Ayesha Rascoe"
-                    ],
-                    "itunes:duration": "00:03:48",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Trump is choosing to campaign in blue states. Will the risk pay off?",
-                    "itunes:summary": "In the final days of his presidential campaign, Donald Trump is traveling to the reliably blue states of Virginia and New Mexico after visits to New York and California.",
-                    "itunes:title": "Trump is choosing to campaign in blue states. Will the risk pay off?",
-                    "link": "https://www.kuow.org/stories/trump-is-choosing-to-campaign-in-blue-states-will-the-risk-pay-off",
-                    "pubDate": "Sun, 3 Nov 2024 04:48:40 -0800",
-                    "title": "Trump is choosing to campaign in blue states. Will the risk pay off?"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "NPR's Ayesha Rascoe talks to Andrew Weiss of the Carnegie Endowment for International Peace about Ukraine\u2019s latest conscription efforts following recent Russian military gains.",
-                    "enclosure": {
-                        "@length": "5760000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241103_wesun_ukraine_plans_to_conscript_over_160_000_more_men_in_the_war.mp3?size=5120880&d=320018&e=nx-s1-5173779"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-103507",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:05:20",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Ukraine plans to conscript over 160,000 more men in the war",
-                    "itunes:summary": "NPR's Ayesha Rascoe talks to Andrew Weiss of the Carnegie Endowment for International Peace about Ukraine\u2019s latest conscription efforts following recent Russian military gains.",
-                    "itunes:title": "Ukraine plans to conscript over 160,000 more men in the war",
-                    "link": "https://www.kuow.org/stories/ukraine-plans-to-conscript-over-160-000-more-men-in-the-war",
-                    "pubDate": "Sun, 3 Nov 2024 04:48:36 -0800",
-                    "title": "Ukraine plans to conscript over 160,000 more men in the war"
-                },
-                {
-                    "author": [
-                        "Ayesha Rascoe",
-                        "Maria Aspan"
-                    ],
-                    "description": "How is the election playing out across the country\u2019s workplaces? So far it has included lots of tense conversations around the water cooler and has resulted in a productivity dip.",
-                    "enclosure": {
-                        "@length": "3924000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241103_wesun_businesses_brace_for_tensions_to_rise_among_workers_across_political_divides.mp3?size=3492094&d=218212&e=nx-s1-5171086"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-103511",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Ayesha Rascoe",
-                        "Maria Aspan"
-                    ],
-                    "itunes:duration": "00:03:38",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Businesses brace for tensions to rise among workers across political divides",
-                    "itunes:summary": "How is the election playing out across the country\u2019s workplaces? So far it has included lots of tense conversations around the water cooler and has resulted in a productivity dip.",
-                    "itunes:title": "Businesses brace for tensions to rise among workers across political divides",
-                    "link": "https://www.kuow.org/stories/businesses-brace-for-tensions-to-rise-among-workers-across-political-divides",
-                    "pubDate": "Sun, 3 Nov 2024 04:48:33 -0800",
-                    "title": "Businesses brace for tensions to rise among workers across political divides"
-                },
-                {
-                    "author": "Odette Yousef",
-                    "description": "For some Christians in the U.S., the 2020 Covid lockdowns fueled the belief that they were being politically persecuted, prompting them to now resolve to \u201ctake back\u201d America as the election nears.",
-                    "enclosure": {
-                        "@length": "4518000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241103_wesun_how_covid-19_conspiracy_theories_fueled_support_for_trump_among_christian_nationalists.mp3?size=4019558&d=251175&e=nx-s1-5170322"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-103509",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Odette Yousef",
-                    "itunes:duration": "00:04:11",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "How COVID-19 conspiracy theories fueled support for Trump among Christian Nationalists",
-                    "itunes:summary": "For some Christians in the U.S., the 2020 Covid lockdowns fueled the belief that they were being politically persecuted, prompting them to now resolve to \u201ctake back\u201d America as the election nears.",
-                    "itunes:title": "How COVID-19 conspiracy theories fueled support for Trump among Christian Nationalists",
-                    "link": "https://www.kuow.org/stories/how-covid-19-conspiracy-theories-fueled-support-for-trump-among-christian-nationalists",
-                    "pubDate": "Sun, 3 Nov 2024 04:48:30 -0800",
-                    "title": "How COVID-19 conspiracy theories fueled support for Trump among Christian Nationalists"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "NPR's Ayesha Rascoe asks Derek Tisler, an expert on election administration and security at the Brennan Center for Justice, when to expect results after the polls close on Tuesday.",
-                    "enclosure": {
-                        "@length": "4752000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241103_wesun_an_election_expert_s_guidance_on_when_to_expect_results_after_polls_close_on_tuesday.mp3?size=4226448&d=264105&e=nx-s1-5173650"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-103508",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:04:24",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "An election expert's guidance on when to expect results after polls close on Tuesday",
-                    "itunes:summary": "NPR's Ayesha Rascoe asks Derek Tisler, an expert on election administration and security at the Brennan Center for Justice, when to expect results after the polls close on Tuesday.",
-                    "itunes:title": "An election expert's guidance on when to expect results after polls close on Tuesday",
-                    "link": "https://www.kuow.org/stories/an-election-expert-s-guidance-on-when-to-expect-results-after-polls-close-on-tuesday",
-                    "pubDate": "Sun, 3 Nov 2024 04:48:26 -0800",
-                    "title": "An election expert's guidance on when to expect results after polls close on Tuesday"
-                },
-                {
-                    "author": [
-                        "Ayesha Rascoe",
-                        "Stephen Thompson"
-                    ],
-                    "description": "Some song recommendations to ease anxiety and help with jitters around Election Day.",
-                    "enclosure": {
-                        "@length": "7740000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241103_wesun_an_anti-anxiety_playlist_for_election_day_or_after.mp3?size=6884668&d=430251&e=nx-s1-5172868"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-103512",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Ayesha Rascoe",
-                        "Stephen Thompson"
-                    ],
-                    "itunes:duration": "00:07:10",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "An anti-anxiety playlist for Election Day (or after)",
-                    "itunes:summary": "Some song recommendations to ease anxiety and help with jitters around Election Day.",
-                    "itunes:title": "An anti-anxiety playlist for Election Day (or after)",
-                    "link": "https://www.kuow.org/stories/an-anti-anxiety-playlist-for-election-day-or-after",
-                    "pubDate": "Sun, 3 Nov 2024 04:48:23 -0800",
-                    "title": "An anti-anxiety playlist for Election Day (or after)"
                 }
             ],
             "itunes:author": "NPR",
@@ -2815,7 +2803,7 @@
                 "itunes:name": "Weekend Edition Sunday"
             },
             "language": "en",
-            "lastBuildDate": "Sun, 05 Jan 2025 00:30:09 +0000",
+            "lastBuildDate": "Sat, 11 Jan 2025 23:56:31 +0000",
             "link": "https://www.kuow.org/podcasts/weekendedition-sunday",
             "podcast:locked": "no",
             "title": "Weekend Edition Sunday"

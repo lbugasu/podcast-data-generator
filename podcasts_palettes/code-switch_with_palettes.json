@@ -7,7 +7,7 @@
         "channel": {
             "copyright": "Copyright 2015-2021 NPR - For Personal Use Only",
             "description": "What's CODE SWITCH? It's the fearless conversations about race that you've been waiting for. Hosted by journalists of color, our podcast tackles the subject of race with empathy and humor. We explore how race affects every part of society \u2014 from politics and pop culture to history, food and everything in between. This podcast makes all of us part of the conversation \u2014 because we're all part of the story. Code Switch was named Apple Podcasts' first-ever Show of the Year in 2020.<br><br><em>Want to level up your Code Switch game? Try Code Switch Plus. </em><em>Your subscription supports the show and unlocks a sponsor-free feed. Learn more at </em><em>plus.npr.org/</em><em>codeswitch</em>",
-            "generator": "NPR Feed Publish Service v1.17.11",
+            "generator": "NPR Feed Publish Service v1.17.13",
             "image": {
                 "link": "https://www.npr.org/podcasts/510312/codeswitch",
                 "palette": [
@@ -22,6 +22,35 @@
                 "url": "https://media.npr.org/assets/img/2022/09/22/code-switch_tile_npr-network-01_sq-02ce31e198d3918fb20e7c3e519566ba44f86bda.jpg?s=1400&c=66&f=jpg"
             },
             "item": [
+                {
+                    "content:encoded": "How should Black parents talk to their kids about the police? Gene gets into it with his friend Chenjerai Kumanyika, host of <em>Empire City</em>, a podcast about the history of the NYPD. Chenjerai's show sprang out of his own attempts to talk with his young daughter about the police and what they do.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "description": "How should Black parents talk to their kids about the police? Gene gets into it with his friend Chenjerai Kumanyika, host of <em>Empire City</em>, a podcast about the history of the NYPD. Chenjerai's show sprang out of his own attempts to talk with his young daughter about the police and what they do.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "enclosure": {
+                        "@length": "35376571",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR9565973215.mp3?d=2211&size=35376571&e=1223466588&t=podcast&p=510312"
+                    },
+                    "guid": {
+                        "#text": "22952873-b460-41e5-ad46-fa51efa48291",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:block": "no",
+                    "itunes:duration": "2211",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://media.npr.org/assets/img/2025/01/07/empirecity_sq-664c986a82853b9a462ea6c505211a182dac50e2.jpg?s=3000&c=66&f=jpg"
+                    },
+                    "itunes:title": "\"The police are our friends\"?",
+                    "link": "https://www.npr.org/2025/01/08/1223466588/empire-city-nypd-history-kids",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@href": "https://media.npr.org/assets/img/2025/01/07/empirecity_wide-a3a6152d126c755f397d90b0fc14c282204bfd85.jpg?s=1280&c=66&f=jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Wed, 08 Jan 2025 08:00:59 +0000",
+                    "title": "\"The police are our friends\"?"
+                },
                 {
                     "content:encoded": "Happy New Year, fam! This year, we're celebrating Ecuadorian style: by burning away what we want to let go of from last year and creating space for moving ahead with this year. <em>Code Switch</em> producer Xavier Lopez takes us on his journey to explore the tradition of his childhood, learn its origins, and honor it in his life in New York today.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
                     "description": "Happy New Year, fam! This year, we're celebrating Ecuadorian style: by burning away what we want to let go of from last year and creating space for moving ahead with this year. <em>Code Switch</em> producer Xavier Lopez takes us on his journey to explore the tradition of his childhood, learn its origins, and honor it in his life in New York today.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
@@ -14534,7 +14563,7 @@
             },
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Fri, 03 Jan 2025 15:45:10 +0000",
+            "lastBuildDate": "Wed, 08 Jan 2025 21:00:10 +0000",
             "link": "https://www.npr.org/podcasts/510312/codeswitch",
             "media:restriction": {
                 "#text": "es fi fr gb nl no se us dk at ch be au nz ca de it ie lu li ad mc pl pt is mx ee lv lt my gr ar hu cz mt bg sk cy br cl co uy sv py hn pa ni pe ec do gt cr bo id jp th ro il za",

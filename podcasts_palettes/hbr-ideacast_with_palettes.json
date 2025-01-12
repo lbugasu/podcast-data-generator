@@ -13,7 +13,7 @@
                 "@rel": "self",
                 "@type": "application/rss+xml"
             },
-            "copyright": "Copyright 2024 Harvard Business School Publishing Corporation. All rights reserved.",
+            "copyright": "Copyright 2025 Harvard Business School Publishing Corporation. All rights reserved.",
             "description": "A weekly podcast featuring the leading thinkers in business and management.",
             "docs": "http://feed2.w3.org/docs/rss2.html",
             "generator": "MT",
@@ -31,6 +31,31 @@
                 "url": "https://hbr.org/resources/images/podcasts/1400-hbr-ideacast-lg-3.jpg"
             },
             "item": [
+                {
+                    "description": "High standards, attention to detail, and self-control are invaluable qualities at work. They\u2019re also aspects of perfectionism, something to which many high achievers credit much of their success. But Ellen Hendriksen, clinical psychologist at Boston University's Center for Anxiety and Related Disorders, says being your own worst critic can also lead to constant dissatisfaction at work and alienation from coworkers. Her new book is How to Be Enough: Self-Acceptance for Self-Critics and Perfectionists. Drawing on her own research, clinical work, and personal experience as a perfectionist, she explains where perfectionism comes from and how it affects teams. Hendriksen shares how not to be so hard on yourself\u2014while still keeping your high standards.",
+                    "enclosure": {
+                        "@length": "28468797",
+                        "@type": "audio/mpeg",
+                        "@url": "https://audio.hbr.org/ideacast/20241127100944-1008_DealingwithPerfectionism.mp3"
+                    },
+                    "guid": {
+                        "#text": "tag:audio.hbr.org,2006-05-08:ideacast.1008",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:duration": "1612",
+                    "itunes:episode": "1008",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:subtitle": null,
+                    "itunes:summary": "High standards, attention to detail, and self-control are invaluable qualities at work. They\u2019re also aspects of perfectionism, something to which many high achievers credit much of their success. But Ellen Hendriksen, clinical psychologist at Boston University's Center for Anxiety and Related Disorders, says being your own worst critic can also lead to constant dissatisfaction at work and alienation from coworkers. Her new book is How to Be Enough: Self-Acceptance for Self-Critics and Perfectionists. Drawing on her own research, clinical work, and personal experience as a perfectionist, she explains where perfectionism comes from and how it affects teams. Hendriksen shares how not to be so hard on yourself\u2014while still keeping your high standards.",
+                    "itunes:title": "Dealing with Perfectionism",
+                    "link": "https://hbr.org/podcast/2025/01/dealing-with-perfectionism",
+                    "media:thumbnail": {
+                        "@url": "https://hbr.org/resources/images/podcasts/1400-hbr-ideacast-lg-3.jpg"
+                    },
+                    "pubDate": "Tue, 07 Jan 2025 08:00:57 -0500",
+                    "title": "Dealing with Perfectionism"
+                },
                 {
                     "description": "We all know the stereotypes of leaders who use charisma, manipulation, domineering behavior, or their status in the hierarchy to exert control. But there is another type of leader whose power isn\u2019t necessarily related to their position on the org chart. Chris Lipp has spent years studying people who\u2019ve developed this \u201cpersonal power\u201d that is rooted in their internal values. Lipp is a professor at Tulane University\u2019s Freeman School of Business, an executive coach, and the author of the new book The Science of Personal Power. He\u2019s investigated where this second type of power comes from, how it can enhance our lives, and how to tap into it using some simple strategies and tools.",
                     "enclosure": {
@@ -16276,31 +16301,6 @@
                     },
                     "pubDate": "Thu, 31 Oct 2013 16:29:34 -0500",
                     "title": "Feeling Conflicted? Get Out of Your Own Way"
-                },
-                {
-                    "description": "Ram Charan, coauthor of \"Boards that Lead,\" talks about what he's learned in three decades of helping executives make tough decisions.",
-                    "enclosure": {
-                        "@length": "13404650",
-                        "@type": "audio/mpeg",
-                        "@url": "https://audio.hbr.org/ideacast/375__What_the_Best_Decision_Makers_Do.mp3"
-                    },
-                    "guid": {
-                        "#text": "ca0f40ad5af7545c36bc19a1e6757fd0",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:duration": "804",
-                    "itunes:episode": "375",
-                    "itunes:episodeType": "full",
-                    "itunes:explicit": "false",
-                    "itunes:subtitle": null,
-                    "itunes:summary": "Ram Charan, coauthor of \"Boards that Lead,\" talks about what he's learned in three decades of helping executives make tough decisions.",
-                    "itunes:title": "What the Best Decision Makers Do",
-                    "link": "https://hbr.org/podcast/2013/10/what-the-best-decision-makers",
-                    "media:thumbnail": {
-                        "@url": "https://hbr.org/resources/images/podcasts/1400-hbr-ideacast-lg-3.jpg"
-                    },
-                    "pubDate": "Thu, 24 Oct 2013 18:29:45 -0500",
-                    "title": "What the Best Decision Makers Do"
                 }
             ],
             "itunes:author": "Harvard Business Review",
@@ -16337,7 +16337,7 @@
             "itunes:summary": "A weekly podcast featuring the leading thinkers in business and management.",
             "itunes:type": "episodic",
             "language": "en",
-            "lastBuildDate": "Tue, 31 Dec 2024 08:01:37 UT",
+            "lastBuildDate": "Tue, 7 Jan 2025 08:02:07 UT",
             "link": "https://hbr.org/podcasts/ideacast",
             "managingEditor": "ideacast@hbr.org (ideacast@hbr.org)",
             "media:category": [
@@ -16354,12 +16354,12 @@
                     "@scheme": "http://www.itunes.com/dtds/podcast-1.0.dtd"
                 }
             ],
-            "media:copyright": "Copyright 2024 Harvard Business School Publishing Corporation. All rights reserved.",
+            "media:copyright": "Copyright 2025 Harvard Business School Publishing Corporation. All rights reserved.",
             "media:keywords": "strategy,innovation,leadership,entrepreneurship,management,economics,finance,communication,teams,hbr,harvard",
             "media:thumbnail": {
                 "@url": "https://hbr.org/resources/images/podcasts/1400-hbr-ideacast-lg-3.jpg"
             },
-            "pubDate": "Tue, 31 Dec 2024 13:00:51 UT",
+            "pubDate": "Tue, 7 Jan 2025 13:00:57 UT",
             "title": "HBR IdeaCast"
         }
     }
