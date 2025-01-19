@@ -7,7 +7,7 @@
         "channel": {
             "copyright": "Copyright 2019-2021 NPR - For Personal Use Only",
             "description": "Taking care of yourself shouldn't be complicated. We talk to the experts for practical advice to live a long and healthy life, based on science. Updated every time Life Kit posts an episode on health and wellness.<br>Want another life hack? Try Life Kit+. Your subscription supports the show and unlocks an exclusive sponsor-free feed. Learn more at plus.npr.org/lifekit",
-            "generator": "NPR Feed Publish Service v1.17.12",
+            "generator": "NPR Feed Publish Service v1.17.17",
             "image": {
                 "link": "https://www.npr.org/podcasts-and-shows",
                 "palette": [
@@ -22,6 +22,34 @@
                 "url": "https://media.npr.org/assets/img/2024/09/23/life-kit_tile-art---health---d_sq-573d0d1c27bcdd0a32228293a0456a3226ec9aa5.jpg?s=1400&c=66&f=jpg"
             },
             "item": [
+                {
+                    "content:encoded": "Cardio \u2014 exercise that gets your heart rate up \u2014 can support good health in many ways. It can help prevent heart disease, increase your energy levels, decrease stress and more. In this episode, we cover what exercise and activities count as cardio, how to reap its benefits and how much to do.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "description": "Cardio \u2014 exercise that gets your heart rate up \u2014 can support good health in many ways. It can help prevent heart disease, increase your energy levels, decrease stress and more. In this episode, we cover what exercise and activities count as cardio, how to reap its benefits and how much to do.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "enclosure": {
+                        "@length": "11055065",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510340/traffic.megaphone.fm/NPR3393422170.mp3?d=690&size=11055065&e=1263701570&t=podcast&p=510340"
+                    },
+                    "guid": {
+                        "#text": "d11afeda-b7a4-4467-9a1b-ca619d94fe7e",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:block": "no",
+                    "itunes:duration": "690",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://media.npr.org/assets/img/2025/01/10/template-1-example-16-_sq-a4cf8b4b684311b6439fb58675e8b0604a090de5.jpg?s=3000&c=66&f=jpg"
+                    },
+                    "itunes:title": "What you need to know about cardio",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://media.npr.org/assets/img/2025/01/10/template-1-example-17-_wide-a6acef534dd971a9ecc7dea55b5935e1ff479f42.jpg?s=1280&c=66&f=jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Mon, 13 Jan 2025 08:00:00 +0000",
+                    "title": "What you need to know about cardio"
+                },
                 {
                     "content:encoded": "Whether your stress manifests in your mind, body or behavior (or maybe all three) there are ways to find relief quickly. Clinical psychologist Jenny Taitz talks about some of the 75 evidence-based tips from her book <em>Stress Resets: How to Soothe Your Body and Mind in Minutes</em>. This episode originally published Jan. 15, 2024.                                                       Sign up for Life Kit's Guide to Dry January, our special newsletter series: http://npr.org/dryjanuary<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
                     "description": "Whether your stress manifests in your mind, body or behavior (or maybe all three) there are ways to find relief quickly. Clinical psychologist Jenny Taitz talks about some of the 75 evidence-based tips from her book <em>Stress Resets: How to Soothe Your Body and Mind in Minutes</em>. This episode originally published Jan. 15, 2024.                                                       Sign up for Life Kit's Guide to Dry January, our special newsletter series: http://npr.org/dryjanuary<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
@@ -45,7 +73,7 @@
                     "link": "https://www.npr.org/2026/01/01/1263701569/stress-resets",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2025/01/02/template-1-example-12-_wide-05e5ee3eeecd56d6803ca75871d65a3a2aa51782.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2025/01/02/template-1-example-12-_wide-05e5ee3eeecd56d6803ca75871d65a3a2aa51782.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 06 Jan 2025 08:00:00 +0000",
@@ -74,7 +102,7 @@
                     "link": "https://www.npr.org/2026/01/01/1261413421/how-to-exercise-more-new-years-resolutions",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/12/18/lk_get-moving_1_wide-59cb0b4847857b1e8a881b2f7d61e3a18463cb87.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/12/18/lk_get-moving_1_wide-59cb0b4847857b1e8a881b2f7d61e3a18463cb87.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 02 Jan 2025 08:00:00 +0000",
@@ -103,7 +131,7 @@
                     "link": "https://www.npr.org/2026/01/01/1261413417/quit-drinking-for-dry-january",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/12/17/dry-january_lk_drink-less_martini-ice-cube_wide-5986f2240305b317625a074d107ea2ad45f3500a.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/12/17/dry-january_lk_drink-less_martini-ice-cube_wide-5986f2240305b317625a074d107ea2ad45f3500a.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 26 Dec 2024 08:00:00 +0000",
@@ -132,7 +160,7 @@
                     "link": "https://www.npr.org/2026/01/01/1261413416/how-to-optimize-your-circadian-rhythm",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/12/13/template-1-example-24-_wide-4fb91b2de8e17b0fc28019f3b705209be4b882bf.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/12/13/template-1-example-24-_wide-4fb91b2de8e17b0fc28019f3b705209be4b882bf.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 17 Dec 2024 08:00:00 +0000",
@@ -160,7 +188,7 @@
                     "itunes:title": "Why you should take a 'fart walk' after a meal",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/12/11/template-1-example-21-_wide-25c9f115cdf7f63ce4982041c4c571e190c5bdb9.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/12/11/template-1-example-21-_wide-25c9f115cdf7f63ce4982041c4c571e190c5bdb9.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 12 Dec 2024 08:00:00 +0000",
@@ -189,7 +217,7 @@
                     "link": "https://www.npr.org/2026/01/01/1261413411/how-to-winter",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/12/06/template-1-example-20-_wide-f5f1748c0dc4dc86737f429f5f3dc8575b847bf7.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/12/06/template-1-example-20-_wide-f5f1748c0dc4dc86737f429f5f3dc8575b847bf7.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 09 Dec 2024 08:00:00 +0000",
@@ -218,7 +246,7 @@
                     "link": "https://www.npr.org/2026/01/01/1261413407/its-ok-to-run-slow-af",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/11/21/template-1-example-18-_wide-b320e4e8093b97aa75aa14fe6d4a2138c27c39bc.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/11/21/template-1-example-18-_wide-b320e4e8093b97aa75aa14fe6d4a2138c27c39bc.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 28 Nov 2024 08:00:00 +0000",
@@ -246,7 +274,7 @@
                     "itunes:title": "What people get wrong about hangovers",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/11/21/template-5-example-1-_wide-3007964b3eda8431dfb1b81cecc5d207d3b5eda6.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/11/21/template-5-example-1-_wide-3007964b3eda8431dfb1b81cecc5d207d3b5eda6.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 26 Nov 2024 08:00:00 +0000",
@@ -274,7 +302,7 @@
                     "itunes:title": "How long do leftovers last? And other food safety questions, answered",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/11/08/template-1-example-17-_wide-85d2f1e132448ca4a18f21f804dc8ee2818eb05c.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/11/08/template-1-example-17-_wide-85d2f1e132448ca4a18f21f804dc8ee2818eb05c.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 12 Nov 2024 08:00:00 +0000",
@@ -302,7 +330,7 @@
                     "itunes:title": "How to pick the right health insurance plan",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/11/07/template-1-example-15-_wide-b661ffe4b3bce4ad103053955f8c215aab10dfbc.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/11/07/template-1-example-15-_wide-b661ffe4b3bce4ad103053955f8c215aab10dfbc.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 11 Nov 2024 08:00:00 +0000",
@@ -330,7 +358,7 @@
                     "itunes:title": "Busting myths about hydration",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/11/01/template-5-example_wide-ce0ebd95a4853a7578ecc5642444a3189251f670.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/11/01/template-5-example_wide-ce0ebd95a4853a7578ecc5642444a3189251f670.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 07 Nov 2024 08:00:00 +0000",
@@ -358,7 +386,7 @@
                     "itunes:title": "How to recover from a bad night of sleep",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/11/04/template-1-example-13-_wide-1dfc6543f06452d92eddf98f623e01f13b1009a2.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/11/04/template-1-example-13-_wide-1dfc6543f06452d92eddf98f623e01f13b1009a2.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 05 Nov 2024 08:00:00 +0000",
@@ -386,7 +414,7 @@
                     "itunes:title": "How to slow down when you eat",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/11/01/template-1-example-11-_wide-e343df2acdd52dc7c8c32ff6bde775cf335efcbe.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/11/01/template-1-example-11-_wide-e343df2acdd52dc7c8c32ff6bde775cf335efcbe.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 04 Nov 2024 08:00:00 +0000",
@@ -414,7 +442,7 @@
                     "itunes:title": "A guide to breast cancer screening",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/10/17/template-1-example-3-_wide-a09c7355103ad92e094ea00053684a2bb59e4366.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/10/17/template-1-example-3-_wide-a09c7355103ad92e094ea00053684a2bb59e4366.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 28 Oct 2024 07:00:00 +0000",
@@ -442,7 +470,7 @@
                     "itunes:title": "How to cut ultra-processed foods from your diet",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/10/18/life-kit---10.21---square_wide-acab03d538b1a91acdbc969ff5ab357722aa70f5.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/10/18/life-kit---10.21---square_wide-acab03d538b1a91acdbc969ff5ab357722aa70f5.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 21 Oct 2024 07:00:00 +0000",
@@ -470,7 +498,7 @@
                     "itunes:title": "How to deal with climate anxiety",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/10/08/template-1-example-14-_wide-0616231c171b451cfa952c54236c0b8e793aae33.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/10/08/template-1-example-14-_wide-0616231c171b451cfa952c54236c0b8e793aae33.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 10 Oct 2024 07:00:00 +0000",
@@ -498,7 +526,7 @@
                     "itunes:title": "Stress-busting skills to try in everyday life",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/10/02/template-2-example_wide-9f2f1615c2c475822a9778e69419ea0d8c567ca3.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/10/02/template-2-example_wide-9f2f1615c2c475822a9778e69419ea0d8c567ca3.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 03 Oct 2024 07:00:05 +0000",
@@ -526,7 +554,7 @@
                     "itunes:title": "I ditched plastic for a week. Here's what I learned",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/09/26/template-4-example-2-_wide-5d63faf202cad6bf835bd306de22355da851f24c.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/09/26/template-4-example-2-_wide-5d63faf202cad6bf835bd306de22355da851f24c.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 01 Oct 2024 07:00:00 +0000",
@@ -555,7 +583,7 @@
                     "itunes:title": "The dirt on bathing",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/09/17/template-1-example-5-_wide-325bf65306f7dd95ba1b09a5d90ea82ed556d0ca.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/09/17/template-1-example-5-_wide-325bf65306f7dd95ba1b09a5d90ea82ed556d0ca.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 19 Sep 2024 07:00:00 +0000",
@@ -584,7 +612,7 @@
                     "itunes:title": "Can magnesium help you sleep?",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/09/09/template-2-example-1-_wide-b5d71a5f8150f12edbcd2240da1d7d796de84b9c.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/09/09/template-2-example-1-_wide-b5d71a5f8150f12edbcd2240da1d7d796de84b9c.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 10 Sep 2024 07:00:00 +0000",
@@ -612,7 +640,7 @@
                     "itunes:title": "Boost your mood in 15 minutes",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/08/30/template-4-example-4-_wide-297ba6b2a62e01738361d05bca2ebe9394882854.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/08/30/template-4-example-4-_wide-297ba6b2a62e01738361d05bca2ebe9394882854.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 03 Sep 2024 07:00:00 +0000",
@@ -640,7 +668,7 @@
                     "itunes:title": "Build strength with a weightlifting routine",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/08/12/lk_harlan_weightlifting_blue_wide-3249b0e84addd85d94054137e14d66008162602b.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/08/12/lk_harlan_weightlifting_blue_wide-3249b0e84addd85d94054137e14d66008162602b.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 13 Aug 2024 07:00:00 +0000",
@@ -668,7 +696,7 @@
                     "itunes:title": "Take your salads from drab to fab",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/07/19/lk_salads_gettyimages-634461407_wide-6e2034cae5079fa08bf01be365aab35329be142a.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/07/19/lk_salads_gettyimages-634461407_wide-6e2034cae5079fa08bf01be365aab35329be142a.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 25 Jul 2024 07:00:00 +0000",
@@ -696,7 +724,7 @@
                     "itunes:title": "Avoid these 6 sunscreen mistakes",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/07/03/gettyimages-1496994995_wide-7bcea11a24158b4a8d7b8c47d6655cc969affb9b.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/07/03/gettyimages-1496994995_wide-7bcea11a24158b4a8d7b8c47d6655cc969affb9b.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 04 Jul 2024 07:00:00 +0000",
@@ -724,7 +752,7 @@
                     "itunes:title": "BMI is flawed. Try a body composition test",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/06/12/lk_body-composition_fabrizio_1_wide-925dbe2057560c8f5fdccaf421163193e4bccc8d.jpeg?s=1280&c=66&f=jpeg",
+                        "@url": "https://media.npr.org/assets/img/2024/06/12/lk_body-composition_fabrizio_1_wide-925dbe2057560c8f5fdccaf421163193e4bccc8d.jpeg?s=1280&c=66&f=jpeg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 25 Jun 2024 07:00:00 +0000",
@@ -752,7 +780,7 @@
                     "itunes:title": "Debunking sleep myths",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/06/12/lk_harlan_instrument_wide-85b090dc9a79fca5532af778e45932129a1ad685.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/06/12/lk_harlan_instrument_wide-85b090dc9a79fca5532af778e45932129a1ad685.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 24 Jun 2024 07:00:00 +0000",
@@ -780,7 +808,7 @@
                     "itunes:title": "Staying safe in the extreme heat",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/06/18/untitled_artwork_wide-cfa6d19c3dc63312fa61f27f61ef37afe7285a97.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/06/18/untitled_artwork_wide-cfa6d19c3dc63312fa61f27f61ef37afe7285a97.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 20 Jun 2024 07:00:00 +0000",
@@ -808,7 +836,7 @@
                     "itunes:title": "These water safety tips can save lives",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/05/30/gettyimages-996843402_wide-3688c727d1bb06e9476fddb04c2e56a5cfd6c7f7.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/05/30/gettyimages-996843402_wide-3688c727d1bb06e9476fddb04c2e56a5cfd6c7f7.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 03 Jun 2024 07:00:00 +0000",
@@ -836,7 +864,7 @@
                     "itunes:title": "Where did I put the keys? Tips to improve memory",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/05/29/gettyimages-1447700717_wide-8b3a731d9bc97ad927607ca915c50c16aa95b3d2.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/05/29/gettyimages-1447700717_wide-8b3a731d9bc97ad927607ca915c50c16aa95b3d2.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 30 May 2024 07:00:00 +0000",
@@ -864,7 +892,7 @@
                     "itunes:title": "Fiber has tons of benefits. Here's how to eat more of it",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/05/23/lk_fiber_foods_wide-84c2e7d358757a339638b2cc0272d42d2e5fbb86.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/05/23/lk_fiber_foods_wide-84c2e7d358757a339638b2cc0272d42d2e5fbb86.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 28 May 2024 07:00:00 +0000",
@@ -892,7 +920,7 @@
                     "itunes:title": "Take charge of your gyno visit",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/05/15/lk_obgyn-questions_wide-a295006be9caebb00bfaa5fb830fbdb7977d246a.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/05/15/lk_obgyn-questions_wide-a295006be9caebb00bfaa5fb830fbdb7977d246a.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 16 May 2024 07:00:00 +0000",
@@ -920,7 +948,7 @@
                     "itunes:title": "Jet lag is 'not a choice' \u2014 here's what to know",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/05/13/lk_jetlag-copy_wide-67ecc45be996b2b46b126ad002469160134f9fe0.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/05/13/lk_jetlag-copy_wide-67ecc45be996b2b46b126ad002469160134f9fe0.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 14 May 2024 07:00:00 +0000",
@@ -949,7 +977,7 @@
                     "link": "https://www.npr.org/2026/01/01/1197232826/fear-needles-shots",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/04/25/lk_vaccine_fear_shot_kids_children_wide-9110c0a42c065e7009a0b282df479d93cb31c7a0.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/04/25/lk_vaccine_fear_shot_kids_children_wide-9110c0a42c065e7009a0b282df479d93cb31c7a0.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 29 Apr 2024 07:00:00 +0000",
@@ -977,7 +1005,7 @@
                     "itunes:title": "Colorectal cancer rates are on the rise. Here's what to know",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/04/23/gettyimages-1311548911_wide-472f0ccb36e7711993d52fb01f4caa240143f6b5.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/04/23/gettyimages-1311548911_wide-472f0ccb36e7711993d52fb01f4caa240143f6b5.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 25 Apr 2024 07:00:00 +0000",
@@ -1005,7 +1033,7 @@
                     "itunes:title": "Protect your ears from hearing loss",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/04/12/lk_ear-care_1_wide-88820a8d224aed588bad0e429922182536cedd43.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/04/12/lk_ear-care_1_wide-88820a8d224aed588bad0e429922182536cedd43.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 15 Apr 2024 07:00:00 +0000",
@@ -1034,7 +1062,7 @@
                     "link": "https://www.npr.org/2026/01/01/1197232786/eye-health-care",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/03/20/gettyimages-1645813356_wide-3c0ef0f379cdf85c09325b274d59dbc9b59eb2d4.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/03/20/gettyimages-1645813356_wide-3c0ef0f379cdf85c09325b274d59dbc9b59eb2d4.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 21 Mar 2024 07:00:00 +0000",
@@ -1062,7 +1090,7 @@
                     "itunes:title": "How much protein do you need?",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/03/13/lk_protein-and-muscle-copy_wide-949d3b9387f5b0677a5c6be135605503ddec94da.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/03/13/lk_protein-and-muscle-copy_wide-949d3b9387f5b0677a5c6be135605503ddec94da.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 18 Mar 2024 07:00:00 +0000",
@@ -1090,7 +1118,7 @@
                     "itunes:title": "Thoughts on Ozempic from a body-positive doctor",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/02/23/finalv2_wide-c7a0574acda0eba4f8e7922a3f0653ff0fc78900.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/02/23/finalv2_wide-c7a0574acda0eba4f8e7922a3f0653ff0fc78900.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 27 Feb 2024 08:00:00 +0000",
@@ -1118,7 +1146,7 @@
                     "itunes:title": "Here's how to take better naps",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/02/23/ouellette-npr-napping-feb24_wide-e3a190027722e55d5318f51fc2806f8062e577a2.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/02/23/ouellette-npr-napping-feb24_wide-e3a190027722e55d5318f51fc2806f8062e577a2.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 26 Feb 2024 08:00:00 +0000",
@@ -1147,7 +1175,7 @@
                     "itunes:title": "5 simple ways to minimize stress",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/02/01/lk_stress-less-8_rizzo_podcast_wide-369996619a429ec240c328ba83aa3776838ff253.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/02/01/lk_stress-less-8_rizzo_podcast_wide-369996619a429ec240c328ba83aa3776838ff253.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 06 Feb 2024 08:00:00 +0000",
@@ -1175,7 +1203,7 @@
                     "itunes:title": "Improve your indoor air quality",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/01/26/gettyimages-84011040_wide-db4a89aaf98f446bc4971e7b19c64b269e747ccb.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/01/26/gettyimages-84011040_wide-db4a89aaf98f446bc4971e7b19c64b269e747ccb.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 30 Jan 2024 08:00:00 +0000",
@@ -1203,7 +1231,7 @@
                     "itunes:title": "How to have a healthy relationship with caffeine",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/01/23/f_lifekit_caffeine_wide-a195c08e874e401d31db3333e113a7e9fa77e980.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/01/23/f_lifekit_caffeine_wide-a195c08e874e401d31db3333e113a7e9fa77e980.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 25 Jan 2024 08:00:00 +0000",
@@ -1231,7 +1259,7 @@
                     "itunes:title": "Why being uncomfortable is important",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/01/19/1_gettyimages-1471373623_wide-b74e8a7304de22ae417aa8fb429e954a15b4e498.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/01/19/1_gettyimages-1471373623_wide-b74e8a7304de22ae417aa8fb429e954a15b4e498.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 22 Jan 2024 08:00:00 +0000",
@@ -1259,7 +1287,7 @@
                     "itunes:title": "Your body is changing. So should your fitness routine",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/01/11/gettyimages-1292960973_wide-56724b82599829cd4afcd4a54b1fd253c2804cdd.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/01/11/gettyimages-1292960973_wide-56724b82599829cd4afcd4a54b1fd253c2804cdd.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 16 Jan 2024 08:00:00 +0000",
@@ -1287,7 +1315,7 @@
                     "itunes:title": "Soothe your stress in minutes",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/01/10/gettyimages-1417406964_wide-67e3baf1603055c3969d9616b0a66d9562c8bb07.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/01/10/gettyimages-1417406964_wide-67e3baf1603055c3969d9616b0a66d9562c8bb07.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 15 Jan 2024 08:00:00 +0000",
@@ -1315,7 +1343,7 @@
                     "itunes:title": "Sleep myths, busted",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/01/05/gettyimages-1344831034-copy_wide-1d92a44fc8237525966b117b680ea5cf96e73d69.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/01/05/gettyimages-1344831034-copy_wide-1d92a44fc8237525966b117b680ea5cf96e73d69.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 09 Jan 2024 08:00:00 +0000",
@@ -1343,7 +1371,7 @@
                     "itunes:title": "How to start an exercise habit",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/01/03/exercising-swright_wide-2fa5ae6bf05c92c133a8b7413812b1d2d71228bd.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/01/03/exercising-swright_wide-2fa5ae6bf05c92c133a8b7413812b1d2d71228bd.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 04 Jan 2024 08:00:00 +0000",
@@ -1372,7 +1400,7 @@
                     "link": "https://www.npr.org/2026/01/01/1197232717/zz-life-kit-health-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/12/28/aubreytime1_wide-138241fca0c688ec7a5da0cc15153271983d65f7.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/12/28/aubreytime1_wide-138241fca0c688ec7a5da0cc15153271983d65f7.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 01 Jan 2024 08:00:00 +0000",
@@ -1400,7 +1428,7 @@
                     "itunes:title": "Ready to get running? A starter guide",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/12/21/gettyimages-155361890_wide-c0cb2fb84812dda3112c6ba7e5941545b3ff337a.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/12/21/gettyimages-155361890_wide-c0cb2fb84812dda3112c6ba7e5941545b3ff337a.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 28 Dec 2023 08:00:00 +0000",
@@ -1428,7 +1456,7 @@
                     "itunes:title": "How to cope with seasonal affective disorder (SAD)",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/12/20/npr-sad-capossela_wide-240bb61efb9f2d58b525693250c6032b680afd80.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/12/20/npr-sad-capossela_wide-240bb61efb9f2d58b525693250c6032b680afd80.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 21 Dec 2023 08:00:00 +0000",
@@ -1456,7 +1484,7 @@
                     "itunes:title": "How to relieve constipation",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/12/08/lk_constipation_1_wide-046c8e925c3fe8bc5d53c6ff0b18378aa1c66ea0.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/12/08/lk_constipation_1_wide-046c8e925c3fe8bc5d53c6ff0b18378aa1c66ea0.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Sat, 09 Dec 2023 14:32:40 +0000",
@@ -1484,7 +1512,7 @@
                     "itunes:title": "How to combat loneliness",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/11/30/project_unlonely_book_life_kit_wide-5f2065db4cb77783506699b1dc94796cc4e0653b.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/11/30/project_unlonely_book_life_kit_wide-5f2065db4cb77783506699b1dc94796cc4e0653b.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 05 Dec 2023 08:00:00 +0000",
@@ -1512,7 +1540,7 @@
                     "itunes:title": "Make the most of your chilly outdoor workouts",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/12/01/gettyimages-1367691061_wide-e2b7fefb641c5d33dad099504435a801ba97e1f2.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/12/01/gettyimages-1367691061_wide-e2b7fefb641c5d33dad099504435a801ba97e1f2.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 04 Dec 2023 08:00:00 +0000",
@@ -1540,7 +1568,7 @@
                     "itunes:title": "Ready to cold plunge? We dive into the science to see if it's worth it",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/11/17/09_09032023_cold_water_plunge_03_wide-af554c5797617aab8446a175edabfe84c348bd6b.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/11/17/09_09032023_cold_water_plunge_03_wide-af554c5797617aab8446a175edabfe84c348bd6b.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 20 Nov 2023 08:00:00 +0000",
@@ -1568,7 +1596,7 @@
                     "itunes:title": "Demystifying your health insurance plan",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/10/30/npr_healthinsurance_final3_wide-6c6c7ff7b0468ad84264f58f9fd07590e15bdde7.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/10/30/npr_healthinsurance_final3_wide-6c6c7ff7b0468ad84264f58f9fd07590e15bdde7.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 31 Oct 2023 07:00:00 +0000",
@@ -1596,7 +1624,7 @@
                     "itunes:title": "How to save a life with CPR",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/10/25/gettyimages-1404400016_wide-a3cd32f1968b9893d48d2ec3e6e3eb670b1af306.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/10/25/gettyimages-1404400016_wide-a3cd32f1968b9893d48d2ec3e6e3eb670b1af306.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 26 Oct 2023 07:00:00 +0000",
@@ -1624,7 +1652,7 @@
                     "itunes:title": "Fiber is a dietary superhero. Are you eating enough of it?",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/09/18/gettyimages-1465039109_wide-6632d0b20dfbc28402d1033de4abf2df7d44ee61.jpeg?s=1280&c=66&f=jpeg",
+                        "@url": "https://media.npr.org/assets/img/2023/09/18/gettyimages-1465039109_wide-6632d0b20dfbc28402d1033de4abf2df7d44ee61.jpeg?s=1280&c=66&f=jpeg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 19 Sep 2023 07:03:00 +0000",
@@ -1652,7 +1680,7 @@
                     "itunes:title": "Scarfing down your food? Here's how to slow down and eat more mindfully",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/09/08/gettyimages-1335806101_wide-fae7a5eb9dd1021c410b3d8e69a83be135239dd2.jpeg?s=1280&c=66&f=jpeg",
+                        "@url": "https://media.npr.org/assets/img/2023/09/08/gettyimages-1335806101_wide-fae7a5eb9dd1021c410b3d8e69a83be135239dd2.jpeg?s=1280&c=66&f=jpeg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 11 Sep 2023 07:03:00 +0000",
@@ -1680,7 +1708,7 @@
                     "itunes:title": "Meal prep made easy",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/08/17/gettyimages-1409934785_wide-9047a8e1bfa8862b2127a5fe90022e62fd0f3b15.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/08/17/gettyimages-1409934785_wide-9047a8e1bfa8862b2127a5fe90022e62fd0f3b15.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 21 Aug 2023 04:00:39 +0000",
@@ -1708,7 +1736,7 @@
                     "itunes:title": "Protect your hearing and ears",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/08/16/gettyimages-1158832290_wide-2b5cc1d9a52ff64790c5ba5dfab0eedcab6ce2fa.jpeg?s=1280&c=66&f=jpeg",
+                        "@url": "https://media.npr.org/assets/img/2023/08/16/gettyimages-1158832290_wide-2b5cc1d9a52ff64790c5ba5dfab0eedcab6ce2fa.jpeg?s=1280&c=66&f=jpeg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 17 Aug 2023 04:00:54 +0000",
@@ -1756,7 +1784,7 @@
                     "itunes:title": "Minimize your back pain while cooking",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/07/28/gettyimages-1495582663_wide-fa40c33b21c967a7aec898e330ebfc04ac7aa6c6.jpeg?s=1280&c=66&f=jpeg",
+                        "@url": "https://media.npr.org/assets/img/2023/07/28/gettyimages-1495582663_wide-fa40c33b21c967a7aec898e330ebfc04ac7aa6c6.jpeg?s=1280&c=66&f=jpeg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 31 Jul 2023 04:00:42 +0000",
@@ -1784,7 +1812,7 @@
                     "itunes:title": "Bring more play into your life",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/07/26/gettyimages-1285353302_wide-deb5b64d3c3c4130c00294088e9a073e7b2a32ed.jpeg?s=1280&c=66&f=jpeg",
+                        "@url": "https://media.npr.org/assets/img/2023/07/26/gettyimages-1285353302_wide-deb5b64d3c3c4130c00294088e9a073e7b2a32ed.jpeg?s=1280&c=66&f=jpeg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 27 Jul 2023 04:00:28 +0000",
@@ -1812,7 +1840,7 @@
                     "itunes:title": "Make a salad you want to eat",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/07/21/gettyimages-634461407-copy_wide-77bb00b293a2d8fa867b293ffb40e615dc003c18.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/07/21/gettyimages-634461407-copy_wide-77bb00b293a2d8fa867b293ffb40e615dc003c18.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 24 Jul 2023 07:03:49 +0000",
@@ -1840,7 +1868,7 @@
                     "itunes:title": "What to do when you're constipated",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/07/07/poop_02_wide-237519f2843db20c12ee0d03fba0826167dbb9bb.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/07/07/poop_02_wide-237519f2843db20c12ee0d03fba0826167dbb9bb.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 10 Jul 2023 04:00:54 +0000",
@@ -1868,7 +1896,7 @@
                     "itunes:title": "Learning how to swim could save your life. Here's where to start",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/06/28/swimming_final_02_wide-4d97f7ee55b51426be8612f08227acefac9e94be.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/06/28/swimming_final_02_wide-4d97f7ee55b51426be8612f08227acefac9e94be.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 29 Jun 2023 04:00:47 +0000",
@@ -1896,7 +1924,7 @@
                     "itunes:title": "How to start running in the body you have",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/06/21/slowaf_bookauthor-copy_wide-af60dd871804ad4ec7f4ab09a60bd35c7cd5d893.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/06/21/slowaf_bookauthor-copy_wide-af60dd871804ad4ec7f4ab09a60bd35c7cd5d893.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 22 Jun 2023 07:03:41 +0000",
@@ -1924,7 +1952,7 @@
                     "itunes:title": "Ultra-processed foods are everywhere. Here's how to avoid them",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/06/15/ultraprocessed-foods-explained-2_wide-f52b5b166fbe08b20ae918915b27f87bc3dada10.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/06/15/ultraprocessed-foods-explained-2_wide-f52b5b166fbe08b20ae918915b27f87bc3dada10.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 20 Jun 2023 04:00:16 +0000",
@@ -1952,7 +1980,7 @@
                     "itunes:title": "Pick the best sunscreen for you",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/05/24/sunscreen-2_wide-b61527b30ca81369c9e39d1e7e08cf40ec6e7b63.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/05/24/sunscreen-2_wide-b61527b30ca81369c9e39d1e7e08cf40ec6e7b63.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 29 May 2023 04:00:23 +0000",
@@ -1980,7 +2008,7 @@
                     "itunes:title": "What to do when you're feeling anxious",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/05/22/superpoweranxiety_final_02_wide-b8fc29f94afd64f056895a0ff27a273a72e0a091.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/05/22/superpoweranxiety_final_02_wide-b8fc29f94afd64f056895a0ff27a273a72e0a091.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 23 May 2023 04:03:49 +0000",
@@ -2008,7 +2036,7 @@
                     "itunes:title": "Pregnant? Here's how to deal with the new you",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/05/10/gettyimages-523521238_wide-579f2536908a226219dfe0939476686dea77bce2.jpeg?s=1280&c=66&f=jpeg",
+                        "@url": "https://media.npr.org/assets/img/2023/05/10/gettyimages-523521238_wide-579f2536908a226219dfe0939476686dea77bce2.jpeg?s=1280&c=66&f=jpeg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 11 May 2023 04:00:19 +0000",
@@ -2036,7 +2064,7 @@
                     "itunes:title": "5 ways to improve your indoor air quality",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/05/08/gettyimages-84011040_wide-148db5a2b0bfc801d714bed702f9c7bfc53a97c4.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/05/08/gettyimages-84011040_wide-148db5a2b0bfc801d714bed702f9c7bfc53a97c4.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 09 May 2023 04:00:13 +0000",
@@ -2064,7 +2092,7 @@
                     "itunes:title": "A better way to talk to your doctor",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/05/01/gettyimages-1412633614_wide-87df4c895095043984ccf721cad28f403330b6ec.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/05/01/gettyimages-1412633614_wide-87df4c895095043984ccf721cad28f403330b6ec.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 02 May 2023 07:03:25 +0000",
@@ -2092,7 +2120,7 @@
                     "itunes:title": "How to have the STIs conversation",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/03/20/gettyimages-1277824241_wide-db2c55bbf420e93dca2a4c4abadd846480326164.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/03/20/gettyimages-1277824241_wide-db2c55bbf420e93dca2a4c4abadd846480326164.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 21 Mar 2023 04:03:44 +0000",
@@ -2120,7 +2148,7 @@
                     "itunes:title": "The truth about caffeine",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/03/06/gettyimages-456344392_wide-afb3e74da733c343010ba140cc889f4b21bdcef7.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/03/06/gettyimages-456344392_wide-afb3e74da733c343010ba140cc889f4b21bdcef7.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 07 Mar 2023 05:03:45 +0000",
@@ -2148,7 +2176,7 @@
                     "itunes:title": "The period talk you never got",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/03/03/ljohnson-periods-and-potties-v1_wide-442f87bf3b7cf3a663fe2ede2e0d3b3a38a3c715.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/03/03/ljohnson-periods-and-potties-v1_wide-442f87bf3b7cf3a663fe2ede2e0d3b3a38a3c715.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 06 Mar 2023 05:03:42 +0000",
@@ -2176,7 +2204,7 @@
                     "itunes:title": "Teeth: an owner's manual",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/02/23/gettyimages-1467907329_wide-9467078197a8fd8257b4a3ec0383a05ee1a36001.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/02/23/gettyimages-1467907329_wide-9467078197a8fd8257b4a3ec0383a05ee1a36001.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 27 Feb 2023 08:03:32 +0000",
@@ -2204,7 +2232,7 @@
                     "itunes:title": "Practical tips for exercising in the cold",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/01/20/gettyimages-490636365_wide-aff7de9fe8e5d5b9f0305a9c298118504b9b4a00.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/01/20/gettyimages-490636365_wide-aff7de9fe8e5d5b9f0305a9c298118504b9b4a00.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 23 Jan 2023 05:00:25 +0000",
@@ -2232,7 +2260,7 @@
                     "itunes:title": "How to wake up early, even if you're a night owl",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2022/10/24/lk_wakingupearly-41_wide-0223f39dd837addbc40ac3e8c412da2cd450f40f.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2022/10/24/lk_wakingupearly-41_wide-0223f39dd837addbc40ac3e8c412da2cd450f40f.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 25 Oct 2022 04:03:05 +0000",
@@ -2260,7 +2288,7 @@
                     "itunes:title": "Tips for finding relief from IBS",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2022/10/07/gettyimages-932691468_wide-264730fe35c9225ed9012734d97b45a680aff842.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2022/10/07/gettyimages-932691468_wide-264730fe35c9225ed9012734d97b45a680aff842.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 11 Oct 2022 07:03:24 +0000",
@@ -2288,7 +2316,7 @@
                     "itunes:title": "Exercises to 'futureproof' your body against chronic pain",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2022/08/26/lk_futureproof_1-copy_wide-b7418f4274296de5cb46d7608526b263cafbf5de.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2022/08/26/lk_futureproof_1-copy_wide-b7418f4274296de5cb46d7608526b263cafbf5de.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 29 Aug 2022 04:03:43 +0000",
@@ -2316,7 +2344,7 @@
                     "itunes:title": "How to stop revenge bedtime procrastination",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2022/06/15/lk_revengebedtime_wide-dd816fd3137c5bc889418803043aa6713c844b84.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2022/06/15/lk_revengebedtime_wide-dd816fd3137c5bc889418803043aa6713c844b84.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 16 Jun 2022 07:03:38 +0000",
@@ -2364,7 +2392,7 @@
                     "itunes:title": "Masks are off on public transit. How to assess risk in a less-masked world",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2022/04/22/gettyimages-1313410791_wide-471ad11bbe3e0082955bd210799eaadc9e93aab7.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2022/04/22/gettyimages-1313410791_wide-471ad11bbe3e0082955bd210799eaadc9e93aab7.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Sat, 23 Apr 2022 04:03:43 +0000",
@@ -2392,7 +2420,7 @@
                     "itunes:title": "How to pick a birth control that works for you",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2022/03/04/lk-birthcontrol-harlan_wide-6479ddec99b2db33748c843179f2398b6b0ee3a2.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2022/03/04/lk-birthcontrol-harlan_wide-6479ddec99b2db33748c843179f2398b6b0ee3a2.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 07 Mar 2022 05:03:57 +0000",
@@ -2420,7 +2448,7 @@
                     "itunes:title": "How to cope with seasonal affective disorder (SAD)",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2022/01/11/npr-sad-capossela_wide-8b4c0bdea0b8723e83f2b52cf080a823f696777a.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2022/01/11/npr-sad-capossela_wide-8b4c0bdea0b8723e83f2b52cf080a823f696777a.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 27 Jan 2022 05:03:41 +0000",
@@ -2448,7 +2476,7 @@
                     "itunes:title": "How to talk to your Latinx parents about mental health",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2022/01/17/erickmramos-final-v2_wide-cdd37434c3a0e04f0723bc20756ee8ff0e384002.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2022/01/17/erickmramos-final-v2_wide-cdd37434c3a0e04f0723bc20756ee8ff0e384002.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 18 Jan 2022 05:03:39 +0000",
@@ -2476,7 +2504,7 @@
                     "itunes:title": "Need to make a change in your life? Behavioral science can help",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2022/01/05/lk_howtogrow_harlan_1_wide-3e6acfb6a3ae16ba14bb0278a17e812208a01cba.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2022/01/05/lk_howtogrow_harlan_1_wide-3e6acfb6a3ae16ba14bb0278a17e812208a01cba.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 17 Jan 2022 05:03:37 +0000",
@@ -2504,7 +2532,7 @@
                     "itunes:title": "How to talk about the COVID-19 vaccine with people who are hesitant",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2022/01/12/let-s-talk-about-it-banner_wide-74f6057d1a1ec8cc40b183d50ad8203a0e5ead91.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2022/01/12/let-s-talk-about-it-banner_wide-74f6057d1a1ec8cc40b183d50ad8203a0e5ead91.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Sat, 15 Jan 2022 05:03:28 +0000",
@@ -2532,7 +2560,7 @@
                     "itunes:title": "A pediatrician's advice on omicron, daycare and travel for kids under 5",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2022/01/07/gettyimages-1230711125_wide-6a23c769ab8ea92265e4390603dc610468a1a716.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2022/01/07/gettyimages-1230711125_wide-6a23c769ab8ea92265e4390603dc610468a1a716.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Sat, 08 Jan 2022 05:03:33 +0000",
@@ -2560,7 +2588,7 @@
                     "itunes:title": "How to divest from diet culture",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/12/24/lk_dietculture_lam_final_wide-bda9611a1e3a558edb36f4323e899b8b4d533a07.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/12/24/lk_dietculture_lam_final_wide-bda9611a1e3a558edb36f4323e899b8b4d533a07.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 04 Jan 2022 05:03:03 +0000",
@@ -2608,7 +2636,7 @@
                     "itunes:title": "When it comes to exercise, \"all movements count\"",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2019/09/26/exercising-shannon-wright_wide-a0bcbf3e895ec38a50f14e26da51cd9d77ccc9e9.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2019/09/26/exercising-shannon-wright_wide-a0bcbf3e895ec38a50f14e26da51cd9d77ccc9e9.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 30 Dec 2021 05:03:55 +0000",
@@ -2636,7 +2664,7 @@
                     "itunes:title": "6 tips on taking a break from drinking",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/12/22/lk_dryjanuary_harlan-30-2_wide-cdecdccc8204a73361e989643d8aa159199e1740.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/12/22/lk_dryjanuary_harlan-30-2_wide-cdecdccc8204a73361e989643d8aa159199e1740.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 27 Dec 2021 05:03:23 +0000",
@@ -2664,7 +2692,7 @@
                     "itunes:title": "How solitude can help you regulate your mood",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/12/17/npr-_solitude_main_wide-0710be0cd55d168c9bcae8cc74991b1bd84fc706.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/12/17/npr-_solitude_main_wide-0710be0cd55d168c9bcae8cc74991b1bd84fc706.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 23 Dec 2021 05:45:59 +0000",
@@ -2692,7 +2720,7 @@
                     "itunes:title": "What happens in our brain when we grieve \u2014 and how it helps us stay afloat",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/12/17/gettyimages-1285353300_wide-5265f3f5876becd68acdf30b61234362c12be6a5.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/12/17/gettyimages-1285353300_wide-5265f3f5876becd68acdf30b61234362c12be6a5.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Sat, 18 Dec 2021 05:03:44 +0000",
@@ -2720,7 +2748,7 @@
                     "itunes:title": "Omicron variant, COVID booster shots \u2014 and how to stay safe during the holidays",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/12/10/omnicrom_holiday_wide-166293028143745732b3ff2db7e220c48834c668.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/12/10/omnicrom_holiday_wide-166293028143745732b3ff2db7e220c48834c668.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 13 Dec 2021 05:03:51 +0000",
@@ -2748,7 +2776,7 @@
                     "itunes:title": "How to decide if freezing your eggs is right for you \u2014 and how to get started",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/11/22/lk_freezing-eggs_sol-cotti_wide-609a80a6b3adc057bc881342f2d2facffc9ea1a7.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/11/22/lk_freezing-eggs_sol-cotti_wide-609a80a6b3adc057bc881342f2d2facffc9ea1a7.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 30 Nov 2021 05:03:28 +0000",
@@ -2776,7 +2804,7 @@
                     "itunes:title": "How To Build A Sleep Routine For You And Your Children",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/11/05/gettyimages-1289083507-copy_wide-7636b0159c7249bcfd588083fd87b75949a9270a.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/11/05/gettyimages-1289083507-copy_wide-7636b0159c7249bcfd588083fd87b75949a9270a.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 08 Nov 2021 05:03:42 +0000",
@@ -2804,7 +2832,7 @@
                     "itunes:title": "How to wake up early, even if you're not a morning person",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/11/03/lk_wakingupearly-4_wide-0e684fc01e0d120ffa46854b19a1b4a4a6e4b739.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/11/03/lk_wakingupearly-4_wide-0e684fc01e0d120ffa46854b19a1b4a4a6e4b739.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 04 Nov 2021 04:03:08 +0000",
@@ -2832,7 +2860,7 @@
                     "itunes:title": "How to create a basic skin care routine",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/10/27/lk_skincare_1-6-copy_wide-294cac310497f69d439b17d1f8788663ed6f3c05.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/10/27/lk_skincare_1-6-copy_wide-294cac310497f69d439b17d1f8788663ed6f3c05.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 28 Oct 2021 04:03:38 +0000",
@@ -2860,7 +2888,7 @@
                     "itunes:title": "Climate Anxiety Is Real. Here's How To Address It",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/10/22/lk_climateanxiety_13_wide-cf8f7c678b502754fb336288cb12f3e9c9b73493.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/10/22/lk_climateanxiety_13_wide-cf8f7c678b502754fb336288cb12f3e9c9b73493.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 25 Oct 2021 04:03:12 +0000",
@@ -2888,7 +2916,7 @@
                     "itunes:title": "How To Choose A Health Insurance Plan",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/10/15/npr_healthinsurance_final1_wide-bc51ec9e7a86291e3632727e1077f09707778da3.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/10/15/npr_healthinsurance_final1_wide-bc51ec9e7a86291e3632727e1077f09707778da3.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 18 Oct 2021 04:03:34 +0000",
@@ -2916,7 +2944,7 @@
                     "itunes:title": "5 Tips For Getting Started With Strength Training",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/10/07/lk_weightlifting-5-copy_wide-c1cfecbc3678bc9cba5ffb6c1aba2f262175a44c.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/10/07/lk_weightlifting-5-copy_wide-c1cfecbc3678bc9cba5ffb6c1aba2f262175a44c.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 12 Oct 2021 04:03:21 +0000",
@@ -2944,7 +2972,7 @@
                     "itunes:title": "How You Can Help Someone At Risk Of Suicide",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/09/27/ways-to-help-suicide_wide-aeb159562f89e936d96d9636a3f9a11e31520f14.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/09/27/ways-to-help-suicide_wide-aeb159562f89e936d96d9636a3f9a11e31520f14.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 28 Sep 2021 04:03:52 +0000",
@@ -2972,7 +3000,7 @@
                     "itunes:title": "Is It Laziness, Or A Sign You Need To Slow Down?",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/09/22/lk_lazinessdoesnotexist_wide-3479c4a9ca7b5c30a084cf5bad19e46370be4796.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/09/22/lk_lazinessdoesnotexist_wide-3479c4a9ca7b5c30a084cf5bad19e46370be4796.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 23 Sep 2021 04:03:51 +0000",
@@ -3000,7 +3028,7 @@
                     "itunes:title": "In 'We're Not Broken,' Author Eric Garcia Takes On Myths About Autism",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/09/17/gettyimages-862457080_wide-e1c19192d3438cb7aee630da5fc51a9da58c2390.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/09/17/gettyimages-862457080_wide-e1c19192d3438cb7aee630da5fc51a9da58c2390.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 20 Sep 2021 04:03:14 +0000",
@@ -3028,7 +3056,7 @@
                     "itunes:title": "There's More To Getting In Shape Than How You Look",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/09/13/20210812_dull_healthyliving-79-copy_wide-0771ac3e18bdc80d09ed50ce91b8ac9d88455e3a.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/09/13/20210812_dull_healthyliving-79-copy_wide-0771ac3e18bdc80d09ed50ce91b8ac9d88455e3a.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 14 Sep 2021 04:03:22 +0000",
@@ -3056,7 +3084,7 @@
                     "itunes:title": "How To Start Hormone Replacement Therapy",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/09/08/gettyimages-1192772351_wide-df498e329e1dbb31232d2f195d8c0caa0f031aee.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/09/08/gettyimages-1192772351_wide-df498e329e1dbb31232d2f195d8c0caa0f031aee.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 13 Sep 2021 04:03:59 +0000",
@@ -3084,7 +3112,7 @@
                     "itunes:title": "How To Tap Into The Good Anxiety In Your Life",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/09/08/lk_good-anxiety_jasjyot-singh-hans_wide-5d1d5c968032ee4680b0f0100f2990311d5f08e4.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/09/08/lk_good-anxiety_jasjyot-singh-hans_wide-5d1d5c968032ee4680b0f0100f2990311d5f08e4.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 09 Sep 2021 04:03:31 +0000",
@@ -3112,7 +3140,7 @@
                     "itunes:title": "How To Keep Your Kids Safe From The Delta Variant",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/08/27/gettyimages-1273890914_wide-a4e687f42a8c10ad9073bf3784ff02578ef8eef7.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/08/27/gettyimages-1273890914_wide-a4e687f42a8c10ad9073bf3784ff02578ef8eef7.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 30 Aug 2021 04:03:43 +0000",
@@ -3140,7 +3168,7 @@
                     "itunes:title": "'Can I Ask That?' Tips For Navigating Questions About Booster Shots And More",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/08/23/gettyimages-1287036245_wide-ef4e076ff2b981008df565af833e7781d47a605d.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/08/23/gettyimages-1287036245_wide-ef4e076ff2b981008df565af833e7781d47a605d.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 24 Aug 2021 04:03:15 +0000",
@@ -3168,7 +3196,7 @@
                     "itunes:title": "Do's And Don'ts For Parents Whose Kids Have Gained Weight In The Pandemic",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/08/15/get-healthier-npr_wide-00f8f9c813b6c39c8cfc94101b621739617531b9.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/08/15/get-healthier-npr_wide-00f8f9c813b6c39c8cfc94101b621739617531b9.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 16 Aug 2021 04:03:25 +0000",
@@ -3216,7 +3244,7 @@
                     "itunes:title": "4 Tips To Beat Extreme Heat",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/07/16/gettyimages-1278747879_wide-be38c4d0da207c850ebc27c7ca049c6ba4d7894c.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/07/16/gettyimages-1278747879_wide-be38c4d0da207c850ebc27c7ca049c6ba4d7894c.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 19 Jul 2021 04:03:41 +0000",
@@ -3244,7 +3272,7 @@
                     "itunes:title": "A Sunscreen Evangelist Explains The Importance Of SPF",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/05/26/sunscreen-2_wide-4a9e7cf88f727920253299fdf22965ac9ee7e9f4.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/05/26/sunscreen-2_wide-4a9e7cf88f727920253299fdf22965ac9ee7e9f4.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 01 Jun 2021 04:03:27 +0000",
@@ -3272,7 +3300,7 @@
                     "itunes:title": "Understanding The Latest CDC Mask Guidance",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/05/21/gettyimages-1218643169_wide-a064b0e26ebc0a5073a91f797043d2ab0dad4953.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/05/21/gettyimages-1218643169_wide-a064b0e26ebc0a5073a91f797043d2ab0dad4953.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Sat, 22 May 2021 04:03:23 +0000",
@@ -3300,7 +3328,7 @@
                     "itunes:title": "Feeling Foggy? It's Not Just You",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/05/14/gettyimages-1257996355_wide-6539d9a7fd8b78210526802d63b2dff10418a496.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/05/14/gettyimages-1257996355_wide-6539d9a7fd8b78210526802d63b2dff10418a496.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 17 May 2021 04:03:59 +0000",
@@ -3328,7 +3356,7 @@
                     "itunes:title": "Questions To Ask Yourself Before Going Maskless",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/05/07/vaccinated-masking_wide-5aaff69364a9d86656a80866143bce5ce93a54f4.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2021/05/07/vaccinated-masking_wide-5aaff69364a9d86656a80866143bce5ce93a54f4.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 10 May 2021 04:03:44 +0000",
@@ -3356,7 +3384,7 @@
                     "itunes:title": "Reframing (And Reclaiming) Your Relationship With Food",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/04/27/gettyimages-667586207_wide-7a445324c314eb0db64ac562d8619fbcee19670e.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/04/27/gettyimages-667586207_wide-7a445324c314eb0db64ac562d8619fbcee19670e.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 29 Apr 2021 04:03:37 +0000",
@@ -3384,7 +3412,7 @@
                     "itunes:title": "The Sex Ed Most Queer Students Never Got",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/04/26/2021.04.06_lifekit_sexed_02_wide-39cdb70ad880d688fc8d2dc8e88eaa53fb4709ce.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/04/26/2021.04.06_lifekit_sexed_02_wide-39cdb70ad880d688fc8d2dc8e88eaa53fb4709ce.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 27 Apr 2021 04:03:51 +0000",
@@ -3412,7 +3440,7 @@
                     "itunes:title": "Why (And How) To Cut Back On Meat",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/04/16/lk_eatlessmeat_-2_wide-347bd381a9fbaefd696ca556ccb814600bd8935e.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/04/16/lk_eatlessmeat_-2_wide-347bd381a9fbaefd696ca556ccb814600bd8935e.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 19 Apr 2021 04:05:48 +0000",
@@ -3440,7 +3468,7 @@
                     "itunes:title": "Navigating Life After Pregnancy Loss",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/04/09/lk_pregnancy-loss_wide-f4d170154811304dab32b8bd8f81f8fead4f9e9b.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/04/09/lk_pregnancy-loss_wide-f4d170154811304dab32b8bd8f81f8fead4f9e9b.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 12 Apr 2021 04:03:50 +0000",
@@ -3468,7 +3496,7 @@
                     "itunes:title": "How To Deal With Burnout",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/03/17/lk_burnout__wide-923f2838bd631f15b929dd3830039b45443543c6.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/03/17/lk_burnout__wide-923f2838bd631f15b929dd3830039b45443543c6.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 18 Mar 2021 04:03:13 +0000",
@@ -3516,7 +3544,7 @@
                     "itunes:title": "Start Therapy (And Make It Work For You)",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/03/10/npr_therapy_final_wide-3d015039b6813621c9418939daf918263be0a277.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/03/10/npr_therapy_final_wide-3d015039b6813621c9418939daf918263be0a277.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 11 Mar 2021 05:03:14 +0000",
@@ -3544,7 +3572,7 @@
                     "itunes:title": "Deciding When To Have A Baby",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/02/28/life-kit_npr_baby_jbrion_2_wide-84630140648cfdfef018ab6d0d0359a361a8155a.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/02/28/life-kit_npr_baby_jbrion_2_wide-84630140648cfdfef018ab6d0d0359a361a8155a.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 01 Mar 2021 05:03:12 +0000",
@@ -3572,7 +3600,7 @@
                     "itunes:title": "Coping With Anxiety Around The News",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/01/15/screen-shot-2020-10-27-at-12.21.08-pm_wide-346982f52e3bf08c7cb1ba3e934c31d71ae6e248.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2021/01/15/screen-shot-2020-10-27-at-12.21.08-pm_wide-346982f52e3bf08c7cb1ba3e934c31d71ae6e248.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 18 Jan 2021 05:03:36 +0000",
@@ -3600,7 +3628,7 @@
                     "itunes:title": "What To Say To People Hesitant About The Coronavirus Vaccine",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2021/01/11/gettyimages-1284476683_wide-9dd9b4879cb23a4a90ea936fa4436b710fe5b36d.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2021/01/11/gettyimages-1284476683_wide-9dd9b4879cb23a4a90ea936fa4436b710fe5b36d.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 12 Jan 2021 05:03:22 +0000",
@@ -3628,7 +3656,7 @@
                     "itunes:title": "Trying To Form A Habit? Start Small",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/12/18/lk_tinyhabits_harlan-40_wide-730eb4409e204482fe10126fda3f20bbf4b45a6e.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/12/18/lk_tinyhabits_harlan-40_wide-730eb4409e204482fe10126fda3f20bbf4b45a6e.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 29 Dec 2020 05:03:35 +0000",
@@ -3656,7 +3684,7 @@
                     "itunes:title": "Understanding The Biology Of Weight Loss",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/12/18/healthy-choices-1-_wide-d3e84ec80093f17bbc376141ece2bec02d320c8b.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/12/18/healthy-choices-1-_wide-d3e84ec80093f17bbc376141ece2bec02d320c8b.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 28 Dec 2020 05:03:26 +0000",
@@ -3707,7 +3735,7 @@
                     "itunes:title": "Avoiding The Common Cold This Year",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/12/06/commoncold-lajohnson-npr_wide-b23d3264b698600e453865329436e9587791bee5.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/12/06/commoncold-lajohnson-npr_wide-b23d3264b698600e453865329436e9587791bee5.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 07 Dec 2020 05:03:06 +0000",
@@ -3735,7 +3763,7 @@
                     "itunes:title": "Peter Sagal Teaches Us How To Run",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/11/18/lk_running_-1-3_wide-2ecb9f175842542290ec2b48f98ae77f4b741309.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/11/18/lk_running_-1-3_wide-2ecb9f175842542290ec2b48f98ae77f4b741309.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 26 Nov 2020 05:03:49 +0000",
@@ -3763,7 +3791,7 @@
                     "itunes:title": "Scientifically Proven Ways To Be Happier",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/11/18/draft-2_wide-c91b24666f57ea057c40fbc399dfdbede513ae5e.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/11/18/draft-2_wide-c91b24666f57ea057c40fbc399dfdbede513ae5e.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 24 Nov 2020 05:03:51 +0000",
@@ -3791,7 +3819,7 @@
                     "itunes:title": "How To Have A Safe Thanksgiving",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/11/22/gettyimages-1229592593_wide-e2e60b48e70de7a5078e659152f2d87f6cfb2061.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/11/22/gettyimages-1229592593_wide-e2e60b48e70de7a5078e659152f2d87f6cfb2061.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 23 Nov 2020 05:03:07 +0000",
@@ -3819,7 +3847,7 @@
                     "itunes:title": "How To Take Care Of Yourself This Election Season",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/11/04/060318_lorigottlieb3154_crop_v4_wide-70b8553885daa8970acd116488e63d0e435c6a8a.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/11/04/060318_lorigottlieb3154_crop_v4_wide-70b8553885daa8970acd116488e63d0e435c6a8a.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 05 Nov 2020 05:03:35 +0000",
@@ -3867,7 +3895,7 @@
                     "itunes:title": "Coping With Anxiety From Constant Headlines",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/10/24/lifekit-judsonbrewer-worrycomicartboard-6_wide-b1878a8b5811bc44ab609023773dd7b179de8ded.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/10/24/lifekit-judsonbrewer-worrycomicartboard-6_wide-b1878a8b5811bc44ab609023773dd7b179de8ded.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 26 Oct 2020 04:03:40 +0000",
@@ -3895,7 +3923,7 @@
                     "itunes:title": "Making Social Change, With Help From Meditation",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/10/19/mindfulness_wide-36bb046e95641fb369a2b20e777f16fb71d76a33.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/10/19/mindfulness_wide-36bb046e95641fb369a2b20e777f16fb71d76a33.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 20 Oct 2020 04:03:11 +0000",
@@ -3923,7 +3951,7 @@
                     "itunes:title": "Eating Healthy Without Overspending",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/10/07/ljohnson-lk-foodonbudget_wide-bf0faaac3d0b4e6f8a5d171411f4e904ca16b775.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/10/07/ljohnson-lk-foodonbudget_wide-bf0faaac3d0b4e6f8a5d171411f4e904ca16b775.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 08 Oct 2020 04:05:58 +0000",
@@ -3951,7 +3979,7 @@
                     "itunes:title": "Vaccines 101: How They Work And Why You Need Them",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/09/30/gettyimages-1218761838_wide-4302d0117dfef20f3957d93410ed7eda1df31a12.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/09/30/gettyimages-1218761838_wide-4302d0117dfef20f3957d93410ed7eda1df31a12.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 01 Oct 2020 04:05:36 +0000",
@@ -3979,7 +4007,7 @@
                     "itunes:title": "Lift Your Head And Lower Your Arms: A Better Work From Home Setup",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/09/18/lifekit-ergoartboard-11_wide-9d488ead65e902b2ea34b8708c8b6140d88637ca.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/09/18/lifekit-ergoartboard-11_wide-9d488ead65e902b2ea34b8708c8b6140d88637ca.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 21 Sep 2020 04:03:21 +0000",
@@ -4007,7 +4035,7 @@
                     "itunes:title": "Why Forgiving Others Actually Heals You",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/07/29/hsieh_angela_nprlifekit_radicalforgiveness_wide-3dadcd1d7b866e4e5923fa6f3ae138bb85e7555e.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/07/29/hsieh_angela_nprlifekit_radicalforgiveness_wide-3dadcd1d7b866e4e5923fa6f3ae138bb85e7555e.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 30 Jul 2020 04:03:28 +0000",
@@ -4035,7 +4063,7 @@
                     "itunes:title": "Regulate Your Mood With Solitude",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/07/23/npr-_solitude_main_wide-ec361f5a32248b270846386014ff4af24a3ca162.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/07/23/npr-_solitude_main_wide-ec361f5a32248b270846386014ff4af24a3ca162.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 27 Jul 2020 04:03:52 +0000",
@@ -4063,7 +4091,7 @@
                     "itunes:title": "A Sunscreen Evangelist Explains Why You Need To Get On Board",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/07/16/sunscreen-2_wide-41a22ca99079371cd6ab4ff9f57b5b2b1e2dc9f2.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/07/16/sunscreen-2_wide-41a22ca99079371cd6ab4ff9f57b5b2b1e2dc9f2.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 20 Jul 2020 04:03:42 +0000",
@@ -4091,7 +4119,7 @@
                     "itunes:title": "The Grandparents Want To See You. Is It Worth The Risk In A Pandemic?",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/07/15/gettyimages-1222432040_wide-27fc17a8b2fdf2c5a2818bc2d6ee1e839fe0e19e.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/07/15/gettyimages-1222432040_wide-27fc17a8b2fdf2c5a2818bc2d6ee1e839fe0e19e.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 16 Jul 2020 04:03:35 +0000",
@@ -4119,7 +4147,7 @@
                     "itunes:title": "Getting Out Of Medical Debt Can Feel Impossible. Here's How To Do It",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/07/13/lifekitmedicaldebt_wide-ed801034fcce4d30d3c2b977744acc313ac08bdb.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/07/13/lifekitmedicaldebt_wide-ed801034fcce4d30d3c2b977744acc313ac08bdb.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 14 Jul 2020 04:03:18 +0000",
@@ -4147,7 +4175,7 @@
                     "itunes:title": "What You Need To Know About Protective Face Masks",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/07/09/lk_harlan_masks_wide-c1bdc07d92f4dcb2fe788170371c6ee56daf2c8d.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/07/09/lk_harlan_masks_wide-c1bdc07d92f4dcb2fe788170371c6ee56daf2c8d.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 13 Jul 2020 04:03:41 +0000",
@@ -4175,7 +4203,7 @@
                     "itunes:title": "Your Boss Wants You Back. But Is It Safe?",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/07/06/gettyimages-912016096_wide-94b7634ba6b05a3e99ee9cad6cb68bb710db1733.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/07/06/gettyimages-912016096_wide-94b7634ba6b05a3e99ee9cad6cb68bb710db1733.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 07 Jul 2020 04:03:52 +0000",
@@ -4203,7 +4231,7 @@
                     "itunes:title": "Anxiety Is Overwhelming. Here's A Mindfulness Tool That Works",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/07/01/meditation_final_web_wide-d2f80a8f1b314d5684ab70c46b13f702cb2f5c42.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/07/01/meditation_final_web_wide-d2f80a8f1b314d5684ab70c46b13f702cb2f5c42.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 02 Jul 2020 04:03:31 +0000",
@@ -4231,7 +4259,7 @@
                     "itunes:title": "End-Of-Life Planning Is A 'Lifetime Gift' To Your Loved Ones",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/06/29/gx7f3qdb_wide-12e646a2b761c721ef6ae25e9e0804a324161955.jpeg?s=1280&c=66&f=jpeg",
+                        "@url": "https://media.npr.org/assets/img/2020/06/29/gx7f3qdb_wide-12e646a2b761c721ef6ae25e9e0804a324161955.jpeg?s=1280&c=66&f=jpeg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 30 Jun 2020 04:03:09 +0000",
@@ -4259,7 +4287,7 @@
                     "itunes:title": "Sleep Better With These Bedtime Rituals",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/06/05/gettyimages-522656814_wide-ce97fae096e44f4a94c248834f2ad886d12b9760.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/06/05/gettyimages-522656814_wide-ce97fae096e44f4a94c248834f2ad886d12b9760.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 08 Jun 2020 04:03:37 +0000",
@@ -4287,7 +4315,7 @@
                     "itunes:title": "Telehealth Tips: How To Make The Most Of Video Visits With Your Doctor",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/05/29/telemed_wide-68703ebb70c9bef1a2476fe5c6e312c60a95d5f8.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/05/29/telemed_wide-68703ebb70c9bef1a2476fe5c6e312c60a95d5f8.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 01 Jun 2020 04:03:57 +0000",
@@ -4315,7 +4343,7 @@
                     "itunes:title": "From Camping To Road Trips: Here's How Experts Rate The Risks Of Summer Activities",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/05/29/miotke_npr_camping_final_wide-186798b1ec41a89af4188746366b9cada02c3847.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/05/29/miotke_npr_camping_final_wide-186798b1ec41a89af4188746366b9cada02c3847.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Sat, 30 May 2020 04:03:01 +0000",
@@ -4343,7 +4371,7 @@
                     "itunes:title": "How Body Positivity Can Lead To Better Health",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/05/20/gettyimages-1070060796_wide-78bdaac27bfa3f6f1ea78de1205b892dbc102572.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/05/20/gettyimages-1070060796_wide-78bdaac27bfa3f6f1ea78de1205b892dbc102572.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 25 May 2020 04:03:53 +0000",
@@ -4371,7 +4399,7 @@
                     "itunes:title": "Why Caring For Yourself Helps You Care For Others",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/05/15/home-page_wide-fa8b73460e10fbbbfda77d325f6a0e5a735e831d.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/05/15/home-page_wide-fa8b73460e10fbbbfda77d325f6a0e5a735e831d.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 18 May 2020 04:03:45 +0000",
@@ -4399,7 +4427,7 @@
                     "itunes:title": "Grief For Beginners: 5 Things To Know About Processing Loss",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/05/13/gettyimages-522256734_wide-ec4d8e48462fb1160ccd2e7d4df04655cea8f0f2.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/05/13/gettyimages-522256734_wide-ec4d8e48462fb1160ccd2e7d4df04655cea8f0f2.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 14 May 2020 04:03:35 +0000",
@@ -4427,7 +4455,7 @@
                     "itunes:title": "Screen Time Overload? Here's How To Find Balance",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/04/29/lk_screenlifebalance_1_2_wide-79d0c637af65dee3a38821f83ef25c9ae9c810ac.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/04/29/lk_screenlifebalance_1_2_wide-79d0c637af65dee3a38821f83ef25c9ae9c810ac.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 30 Apr 2020 04:03:10 +0000",
@@ -4455,7 +4483,7 @@
                     "itunes:title": "How To Start Running With Peter Sagal",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/04/22/lk_running_-1-3_wide-d108dcf5273964076fa08abd4192d7a414c6ac8d.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/04/22/lk_running_-1-3_wide-d108dcf5273964076fa08abd4192d7a414c6ac8d.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 23 Apr 2020 04:02:57 +0000",
@@ -4483,7 +4511,7 @@
                     "itunes:title": "Fake News Can Be Deadly. Here's How To Spot It",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/04/17/lk_coronavirus_comic_title_wide-9679175962223fb000fd69014e899d5ef11394bf.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/04/17/lk_coronavirus_comic_title_wide-9679175962223fb000fd69014e899d5ef11394bf.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 20 Apr 2020 04:03:36 +0000",
@@ -4511,7 +4539,7 @@
                     "itunes:title": "Coronavirus Panic: How To Get Your Thinking Brain Back Online",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/04/13/house_final_wide-4d8d94f75416e2eee6ffa2302e2a6efd255f595c.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/04/13/house_final_wide-4d8d94f75416e2eee6ffa2302e2a6efd255f595c.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 16 Apr 2020 04:03:59 +0000",
@@ -4539,7 +4567,7 @@
                     "itunes:title": "How To Shop For Groceries During Coronavirus",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/04/13/gettyimages-98110645_wide-850d29cd2b2b5cacc0d72268260052ef41c8c1c3.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/04/13/gettyimages-98110645_wide-850d29cd2b2b5cacc0d72268260052ef41c8c1c3.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 14 Apr 2020 04:03:48 +0000",
@@ -4567,7 +4595,7 @@
                     "itunes:title": "How To Get Therapy When You Can't Leave The House",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/04/03/one-more-1-_wide-37f02bea2e2a4d984abf6f1c5eea92e135467337.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/04/03/one-more-1-_wide-37f02bea2e2a4d984abf6f1c5eea92e135467337.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 06 Apr 2020 04:03:38 +0000",
@@ -4595,7 +4623,7 @@
                     "itunes:title": "Anxious Thoughts? 5 Tips To Help You Sleep",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/03/25/life-kit-sleep_wide-083c7fc97578b01104d39110782cbd6b77d99fc4.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/03/25/life-kit-sleep_wide-083c7fc97578b01104d39110782cbd6b77d99fc4.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 26 Mar 2020 04:03:41 +0000",
@@ -4623,7 +4651,7 @@
                     "itunes:title": "Disrupted and Distanced: The Latest Advice On Navigating Coronavirus",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/03/18/image-for-corona_wide-2273320b19e497b780874ff2cf5800a6efdff64e.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/03/18/image-for-corona_wide-2273320b19e497b780874ff2cf5800a6efdff64e.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Wed, 18 Mar 2020 14:46:13 +0000",
@@ -4651,7 +4679,7 @@
                     "itunes:title": "How To Read Food Labels, From Free-Range To Fair Trade",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/03/09/balbierz_ethicalfood_r2_wide-6975d0599f059813efb6fac1fbc07a0c6046bc07.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/03/09/balbierz_ethicalfood_r2_wide-6975d0599f059813efb6fac1fbc07a0c6046bc07.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 10 Mar 2020 04:03:37 +0000",
@@ -4679,7 +4707,7 @@
                     "itunes:title": "When It Comes To Exercise, \"All Movement Counts\"",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/03/04/exercising-shannon-wright_wide-9331a05be4ea6b8cbc7747426c766587f7f7fb5a.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/03/04/exercising-shannon-wright_wide-9331a05be4ea6b8cbc7747426c766587f7f7fb5a.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 05 Mar 2020 05:03:42 +0000",
@@ -4707,7 +4735,7 @@
                     "itunes:title": "5 Ways To Prevent And Prepare For The Coronavirus",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/03/02/lk_coronavirus_grid1_wide-f97311296eaa738c6b970776771d6f7756505903.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/03/02/lk_coronavirus_grid1_wide-f97311296eaa738c6b970776771d6f7756505903.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 02 Mar 2020 18:50:47 +0000",
@@ -4735,7 +4763,7 @@
                     "itunes:title": "A Guide To Navigating Birth Control",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/02/19/lk-birthcontrol-harlan_wide-8f543e52afd266c4e57f7672602331cd3bdea7ef.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/02/19/lk-birthcontrol-harlan_wide-8f543e52afd266c4e57f7672602331cd3bdea7ef.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 20 Feb 2020 05:03:34 +0000",
@@ -4763,7 +4791,7 @@
                     "itunes:title": "Helping A Child Whose Parent Is Struggling With Addiction",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/02/05/kids-addiction_final_wide-f3c3bcb00acbc75d9517b2723668828999755336.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/02/05/kids-addiction_final_wide-f3c3bcb00acbc75d9517b2723668828999755336.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 06 Feb 2020 05:03:59 +0000",
@@ -4791,7 +4819,7 @@
                     "itunes:title": "Feeling Anxious? Here's a Quick Tool To Center Your Soul",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/02/03/meditation_final_web_wide-17cd530413c13bc8faacab73ab267337346c715b.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/02/03/meditation_final_web_wide-17cd530413c13bc8faacab73ab267337346c715b.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 04 Feb 2020 05:03:26 +0000",
@@ -4819,7 +4847,7 @@
                     "itunes:title": "What Is Postpartum Depression? Recognizing The Signs And Getting Help",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/01/27/npr_lw_final_wide-f8382d518fe8a4bb59391d1b1c7d0c12063ad626.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2020/01/27/npr_lw_final_wide-f8382d518fe8a4bb59391d1b1c7d0c12063ad626.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 28 Jan 2020 05:03:30 +0000",
@@ -4867,7 +4895,7 @@
                     "itunes:title": "How To Quit Smoking, With Help From Science",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/01/14/lk-quitsmoking-harlan_wide-4b6cc9e4ef357498ec9e7e4a9d8bc3886c5ac505.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/01/14/lk-quitsmoking-harlan_wide-4b6cc9e4ef357498ec9e7e4a9d8bc3886c5ac505.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 16 Jan 2020 05:03:01 +0000",
@@ -4895,7 +4923,7 @@
                     "itunes:title": "Making Art Is Good For Your Health. Here's How To Start A Habit",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2020/01/02/lk_gharib_creativity_wide-11512cf9c8814572c77d001a62a1ebc3a933ba7b.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2020/01/02/lk_gharib_creativity_wide-11512cf9c8814572c77d001a62a1ebc3a933ba7b.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 07 Jan 2020 05:03:22 +0000",
@@ -4923,7 +4951,7 @@
                     "itunes:title": "6 Ways To Take A Break From Drinking",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2019/12/24/lk_dryjanuary_harlan-30-2_wide-5eb881c58664809ac9add56465fbe4b58d5649d5.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2019/12/24/lk_dryjanuary_harlan-30-2_wide-5eb881c58664809ac9add56465fbe4b58d5649d5.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 02 Jan 2020 05:03:24 +0000",
@@ -4951,7 +4979,7 @@
                     "itunes:title": "How To Have A Good Weekend",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2019/12/23/npr_relax_mb-28_wide-3a44298cd5b0292543aabe9a16b3a8d6f1736ee5.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2019/12/23/npr_relax_mb-28_wide-3a44298cd5b0292543aabe9a16b3a8d6f1736ee5.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 31 Dec 2019 05:03:53 +0000",
@@ -4979,7 +5007,7 @@
                     "itunes:title": "Choose The Best Diet For You",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2019/12/19/_dsc1956_wide-ee92975bbea587052a460445890ac0d87a2abca6.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2019/12/19/_dsc1956_wide-ee92975bbea587052a460445890ac0d87a2abca6.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 26 Dec 2019 05:03:36 +0000",
@@ -5007,7 +5035,7 @@
                     "itunes:title": "This 22-Minute Workout Has Everything You Need",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2019/09/26/ap_17286664883285_wide-645eedaae3a5ac37c1f4eec8ef4d975f542217e8.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2019/09/26/ap_17286664883285_wide-645eedaae3a5ac37c1f4eec8ef4d975f542217e8.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 24 Dec 2019 05:03:20 +0000",
@@ -5035,7 +5063,7 @@
                     "itunes:title": "The Truth About Carbs And Calories",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2019/11/11/gettyimages-675786622_wide-a1cbcb71e72825b70622fd8a94283b7c69b59fbe.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2019/11/11/gettyimages-675786622_wide-a1cbcb71e72825b70622fd8a94283b7c69b59fbe.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 12 Nov 2019 05:02:08 +0000",
@@ -5063,7 +5091,7 @@
                     "itunes:title": "When Is Snoring A Sign Of A Serious Health Issue?",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2019/10/24/gettyimages-7422611651_wide-00fc563982c330296b5109ddc66a932e1c13eeed.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2019/10/24/gettyimages-7422611651_wide-00fc563982c330296b5109ddc66a932e1c13eeed.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Sat, 26 Oct 2019 04:11:18 +0000",
@@ -5111,7 +5139,7 @@
                     "itunes:title": "How To Be A Better Caregiver When A Loved One Gets Sick",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2019/07/11/gettyimages-640966555_wide-a7ceb0c319f818002a4892fa3a2ea29e4366be37.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2019/07/11/gettyimages-640966555_wide-a7ceb0c319f818002a4892fa3a2ea29e4366be37.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Fri, 12 Jul 2019 04:15:31 +0000",
@@ -5139,7 +5167,7 @@
                     "itunes:title": "Take Control Of Your Care When You're Seriously Sick",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2019/07/09/gettyimages-946399418_wide-5a29a70ef6b87b5a00f5e4b5d42279134f470c08.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2019/07/09/gettyimages-946399418_wide-5a29a70ef6b87b5a00f5e4b5d42279134f470c08.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Wed, 10 Jul 2019 04:07:34 +0000",
@@ -5167,7 +5195,7 @@
                     "itunes:title": "How To Get The Best From Your Doctor",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2019/07/05/lk-doc-patient_wide-3527f8bdbcf9d28d499addf13a9faad493bf59fb.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2019/07/05/lk-doc-patient_wide-3527f8bdbcf9d28d499addf13a9faad493bf59fb.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 08 Jul 2019 04:04:12 +0000",
@@ -5195,7 +5223,7 @@
                     "itunes:title": "Free-Range Food Labels: Can My Groceries Really Help The Planet?",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2019/05/28/balbierz_ethicalfood_r2_wide-789a893f1bb5b5477e876038572539753f1da793.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2019/05/28/balbierz_ethicalfood_r2_wide-789a893f1bb5b5477e876038572539753f1da793.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Wed, 29 May 2019 04:10:53 +0000",
@@ -5223,7 +5251,7 @@
                     "itunes:title": "Trust Your Gut: A Beginner's Guide To Intuitive Eating",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2019/05/23/gettyimages-1077455732_wide-7134a668d5a81b1d6a778f5411010cf649c37e6f.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2019/05/23/gettyimages-1077455732_wide-7134a668d5a81b1d6a778f5411010cf649c37e6f.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 27 May 2019 04:06:18 +0000",
@@ -5251,7 +5279,7 @@
                     "itunes:title": "A Saner Mindset For Weight Loss",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2019/05/02/gettyimages-872364518_wide-1b7cc99d4ae903f1aff4d4f8685ccefcb0de49cb.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2019/05/02/gettyimages-872364518_wide-1b7cc99d4ae903f1aff4d4f8685ccefcb0de49cb.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Fri, 03 May 2019 04:02:47 +0000",
@@ -5279,7 +5307,7 @@
                     "itunes:title": "The Biology Of Weight Loss",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2019/04/30/healthy-choices-1-_wide-baa8fb325409f3af99744061a738d119e4730b2b.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2019/04/30/healthy-choices-1-_wide-baa8fb325409f3af99744061a738d119e4730b2b.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Wed, 01 May 2019 04:02:39 +0000",
@@ -5327,7 +5355,7 @@
                     "itunes:title": "Think Your Way Out Of Insomnia",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2019/04/25/life-kit-sleep_wide-3686b2a433a93e9adb50968a01fb383b50c1318d.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2019/04/25/life-kit-sleep_wide-3686b2a433a93e9adb50968a01fb383b50c1318d.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Sat, 27 Apr 2019 04:21:16 +0000",
@@ -5355,7 +5383,7 @@
                     "itunes:title": "Don't Count Sheep: Better Bedtime Rituals",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2019/04/25/gettyimages-167160397_wide-3c590ec76e0de980fdef3e17bc5b644e9eeb952a.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2019/04/25/gettyimages-167160397_wide-3c590ec76e0de980fdef3e17bc5b644e9eeb952a.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Sat, 27 Apr 2019 04:11:08 +0000",
@@ -5383,7 +5411,7 @@
                     "itunes:title": "Do This Today To Sleep Well Tonight",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2019/04/25/88_wide-b575806dea867ee08776f866275a675757346c6e.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2019/04/25/88_wide-b575806dea867ee08776f866275a675757346c6e.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Fri, 26 Apr 2019 15:44:21 +0000",
@@ -5409,7 +5437,7 @@
             },
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Mon, 06 Jan 2025 08:01:43 +0000",
+            "lastBuildDate": "Mon, 13 Jan 2025 08:01:21 +0000",
             "link": "https://www.npr.org/podcasts-and-shows",
             "media:restriction": {
                 "#text": "es fi fr gb nl no se us dk at ch be au nz ca de it ie lu li ad mc pl pt is mx ee lv lt hk sg my tr gr ar tw hu cz mt bg sk cy br cl co uy sv py hn pa ni pe ec do gt cr bo ph id jp th vn ro il za in",

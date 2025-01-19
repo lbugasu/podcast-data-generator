@@ -34,6 +34,63 @@
                         "Arts",
                         "Books"
                     ],
+                    "content:encoded": "<p><span style=\"font-weight: 400;\">John Patrick Amedori (Three Women, Dear White People) headlines an internationally-inspired story about fixing soles and saving souls.</span></p>",
+                    "dc:creator": {
+                        "#text": "WBUR",
+                        "@xmlns:dc": "http://purl.org/dc/elements/1.1/"
+                    },
+                    "description": "<p><span style=\"font-weight: 400;\">John Patrick Amedori (Three Women, Dear White People) headlines an internationally-inspired story about fixing soles and saving souls.</span></p>",
+                    "enclosure": {
+                        "@length": "28877867",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR2112287215.mp3"
+                    },
+                    "guid": {
+                        "#text": "fdffc31f-50b6-4540-8d3e-07f69f528e27",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": " WBUR ",
+                    "itunes:duration": "00:30:05",
+                    "itunes:episode": "29",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://wordpress.wbur.org/wp-content/uploads/2025/01/CobblerSQ.jpg"
+                    },
+                    "itunes:season": "8",
+                    "itunes:subtitle": "John Patrick Amedori (Three Women, Dear White People) headlines an internationally-inspired story about fixing soles and saving souls.",
+                    "itunes:summary": "<span style=\"font-weight: 400;\">John Patrick Amedori (Three Women, Dear White People) headlines an internationally-inspired story about fixing soles and saving souls.</span>",
+                    "itunes:title": " The Cobbler\u2019s Soul ",
+                    "link": "https://www.wbur.org/circleround/2025/01/14/cobblers-soul",
+                    "media:content": [
+                        {
+                            "@height": "3000",
+                            "@medium": "image",
+                            "@type": "image/jpeg",
+                            "@url": "https://wordpress.wbur.org/wp-content/uploads/2025/01/CobblerSQ.jpg",
+                            "@width": "3000",
+                            "media:description": "(Sabina Hahn for WBUR)",
+                            "media:thumbnail": {
+                                "@height": "200",
+                                "@url": "https://wordpress.wbur.org/wp-content/uploads/2025/01/CobblerSQ-200x200.jpg",
+                                "@width": "200"
+                            }
+                        },
+                        {
+                            "@fileSize": "28877867",
+                            "@medium": "audio",
+                            "@type": "audio/mpeg",
+                            "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR2112287215.mp3"
+                        }
+                    ],
+                    "pubDate": "Tue, 14 Jan 2025 15:00:00 -0500",
+                    "title": "The Cobbler\u2019s Soul"
+                },
+                {
+                    "category": [
+                        "Arts",
+                        "Books"
+                    ],
                     "content:encoded": "<p><span style=\"font-weight: 400;\">Mireille Enos (Hanna, The Killing) headlines this new spin on an ancient Greek legend about an instrument that captivates everyone who hears it \u2013 whether they have skin, scales, hair, hides, feathers or fur!</span></p>",
                     "dc:creator": {
                         "#text": "WBUR",
@@ -21274,7 +21331,7 @@
             "itunes:summary": "Created and produced by parents of young children, WBUR's Circle Round adapts carefully-selected folktales from around the world into sound- and music-rich radio plays for kids ages 3-103. Each 15 to 25-minute episode explores important issues like kindness, persistence and generosity. And each episode ends with an activity that inspires a deeper conversation between children and grown-ups.",
             "itunes:type": "serial",
             "language": "en-us",
-            "lastBuildDate": "Sat, 11 Jan 2025 19:30:13 -0500",
+            "lastBuildDate": "Sat, 18 Jan 2025 19:30:19 -0500",
             "link": "https://www.wbur.org/podcasts/circleround",
             "title": "Circle Round"
         }

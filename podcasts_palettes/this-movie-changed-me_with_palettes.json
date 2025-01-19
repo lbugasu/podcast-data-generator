@@ -5,6 +5,8 @@
         "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
         "@xmlns:googleplay": "http://www.google.com/schemas/play-podcasts/1.0",
         "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@xmlns:media": "http://search.yahoo.com/mrss/",
+        "@xmlns:podcast": "https://podcastindex.org/namespace/1.0",
         "channel": {
             "atom:link": [
                 {
@@ -14,7 +16,7 @@
                     "@type": "application/atom+xml"
                 },
                 {
-                    "@href": "https://simplecast.superfeedr.com/",
+                    "@href": "https://simplecast.superfeedr.com",
                     "@rel": "hub",
                     "@xmlns": "http://www.w3.org/2005/Atom"
                 }
@@ -43,16 +45,16 @@
                     "enclosure": {
                         "@length": "26173791",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/b48171c6-54b8-4038-a7f6-19b028c5be6d/audio/ce8c4667-17a0-4a30-b1f4-f9420d02d96b/default_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/b48171c6-54b8-4038-a7f6-19b028c5be6d/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=b48171c6-54b8-4038-a7f6-19b028c5be6d&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "2badbdcf-7132-44c7-9913-b445bb48526a",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:26:44",
+                    "itunes:duration": "00:26:43",
                     "itunes:episodeType": "bonus",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "this movie changed me, gautam srikishan, eddie gonzalez, lily percy, lilian vo, chris heagle",
                     "itunes:season": "3",
                     "itunes:subtitle": "For this special bonus episode, we gathered everyone on the This Movie Changed Me team to talk about the role movies have played in our lives, and what we\u2019ve learned from working on this podcast. We\u2019re grateful to all the listeners and guests who have joined us across three seasons of this podcast and have shared their own stories of transformation through movies. Thank you, movie friends! ",
@@ -69,17 +71,17 @@
                     "enclosure": {
                         "@length": "39561421",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/19a64084-e574-4ae6-a45d-060ea89aa689/audio/03d9204b-6c0c-42a2-bdb2-c05b23de66e6/default_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/19a64084-e574-4ae6-a45d-060ea89aa689/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=19a64084-e574-4ae6-a45d-060ea89aa689&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "4e1dfbb1-1a6e-4646-8b19-f145057cc630",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:40:41",
+                    "itunes:duration": "00:40:40",
                     "itunes:episode": "8",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "sanaa lathan, sports, romance, omar epps, basketball, gina prince-bythewood, drama",
                     "itunes:season": "3",
                     "itunes:subtitle": "Gina Prince-Bythewood\u2019s Love & Basketball tells the story of two talented athletes who weave in and out of each other\u2019s lives as they pursue big dreams. Monica Wright (played by Sanaa Lathan) and Quincy McCall (played by Omar Epps) are sometimes friends, enemies, lovers, and competitors. Writer Liara Tamani first saw the movie in 2000 when she was a reluctant student at Harvard Law School. She says Monica\u2019s dedication to pursuing what she loved was a revelation for her. \u201cWhen [Monica] turned around and looked at Quincy and their child, I almost felt like she was reaching through the screen, asking me, \u2018So what you \u2019bout to do?\u2019\u201d",
@@ -96,17 +98,17 @@
                     "enclosure": {
                         "@length": "38929406",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/20b980b4-f08d-41c6-97c4-78410cc65dd0/audio/362edd52-03ec-4a5c-810f-19d48bab028e/default_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/20b980b4-f08d-41c6-97c4-78410cc65dd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=20b980b4-f08d-41c6-97c4-78410cc65dd0&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "2b0209b7-94b4-4692-9d99-4c77841e2ebc",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:40:02",
+                    "itunes:duration": "00:40:01",
                     "itunes:episode": "7",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "edward james olmos, fashion, shea serrano, music, tejano, mexican american, jennifer lopez, selena",
                     "itunes:season": "3",
                     "itunes:subtitle": "Selena tells the true story of the iconic Tejano singer, played by Jennifer Lopez, who broke barriers in music and fashion until her untimely death at age 23. Like Selena the person, writer Shea Serrano is also a Mexican American from Texas. When he first saw the movie in 1997, he was captivated by all the things it got right about his world \u2014 the accents, dialogue, and intimate moments. When he watches it now, he finds new lessons on parenthood in the relationship between Selena and her father, played by Edward James Olmos. ",
@@ -123,17 +125,17 @@
                     "enclosure": {
                         "@length": "40750489",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/c73e58d0-2ee2-4469-ad05-5ecd882e3332/audio/84d4e148-abc2-4faf-834c-7886d2c8621f/default_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/c73e58d0-2ee2-4469-ad05-5ecd882e3332/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=c73e58d0-2ee2-4469-ad05-5ecd882e3332&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "a55ab17e-7948-4d45-9c1d-a97a30a116fd",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:41:55",
+                    "itunes:duration": "00:41:54",
                     "itunes:episode": "6",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "kay cannon, coming of age, kathryn newton, leslie mann, john cena, ike barinholtz, gideon adlon, geraldine viswanathan, blockers, gender, sexuality, sex comedy",
                     "itunes:season": "3",
                     "itunes:subtitle": "Blockers tells the story of three teenage girls determined to lose their virginity on prom night; it\u2019s also about their parents mourning the loss of their daughters, watching them grow up and learning to let them go. The 2018 movie, directed by Kay Cannon, has everything you\u2019d expect in a sex comedy: vulgarity, ridiculous gags, and hilarious jokes. It also complicates notions of sexuality and gender in surprising ways. Emily VanDerWerff, a writer and critic-at-large for Vox, was deeply struck by the movie when she first saw it. She realized it was showing her something she never could have imagined: a life for herself as a woman.",
@@ -150,17 +152,17 @@
                     "enclosure": {
                         "@length": "29665380",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/4aa06507-55a8-4ffa-add5-c73abd3cbfbe/audio/e9cd6314-4b84-4e62-b7d3-10d139da7bb4/default_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/4aa06507-55a8-4ffa-add5-c73abd3cbfbe/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=4aa06507-55a8-4ffa-add5-c73abd3cbfbe&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "f82fd925-f6af-4a83-beba-67526de69baa",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:30:23",
+                    "itunes:duration": "00:30:22",
                     "itunes:episode": "5",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "death, david cronenberg, geena davis, decay, grief, sci-fi, jeff goldblum, the fly, icarus, interfaith, horror, drama",
                     "itunes:season": "3",
                     "itunes:subtitle": "David Cronenberg\u2019s The Fly tells the story of one man\u2019s quest to develop teleportation \u2014 and everything that goes wrong along the way. The 1986 sci-fi horror movie stars Jeff Goldblum as Seth, the genius scientist, and Geena Davis as Ronnie, a journalist who falls in love with him. After an experiment goes awry, Seth begins a grisly transformation into a human-fly hybrid. Tony Banout, who works in interfaith dialogue, says he saw the movie as a cautionary tale about the dangers of an unchecked ego \u2014 and took lessons from it about grappling with death, decay, and grief. \n",
@@ -177,7 +179,7 @@
                     "enclosure": {
                         "@length": "42528876",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/f2176efb-ee31-47e6-938b-09d861327988/audio/e9b54078-fad2-4088-88f3-15e4f526d00a/default_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/f2176efb-ee31-47e6-938b-09d861327988/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=f2176efb-ee31-47e6-938b-09d861327988&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "0184fec6-d8eb-4241-9a30-a5d851b7fdf9",
@@ -187,7 +189,7 @@
                     "itunes:duration": "00:43:46",
                     "itunes:episode": "4",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "latina, coming of age, virgie tovar, comedy, patricia cardoso, body image, mexican american, body positivity, drama, lupe ontiveros, america ferrera",
                     "itunes:season": "3",
                     "itunes:subtitle": "Real Women Have Curves tells the story of a young Mexican American woman walking between two worlds, trying to please her immigrant family and be true to herself. Ana, played by America Ferrera, dreams of leaving Los Angeles and going to college. But even as she wants out, she yearns for her family\u2019s blessing and acceptance. This in-betweenness \u2014 and Ana\u2019s radical acceptance of her body as it is \u2014 was powerful to Virgie Tovar, a writer and body image activist. She says the movie showed her that she could ask for what her body needs, no matter its size.",
@@ -204,17 +206,17 @@
                     "enclosure": {
                         "@length": "35194556",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/4a737fbb-3c1a-404a-b04b-2e588226ec18/audio/55f6ee63-cf86-4fba-88bf-059e07bae01e/default_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/4a737fbb-3c1a-404a-b04b-2e588226ec18/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=4a737fbb-3c1a-404a-b04b-2e588226ec18&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "f5ad0631-fe1c-4a4e-8f1d-e82f5a81996e",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:36:08",
+                    "itunes:duration": "00:36:07",
                     "itunes:episode": "3",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "the way we were, breakup, romantic, robert redford, movie, partnership, romantic relationship, sydney pollack, barbra streisand, relationship, marriage",
                     "itunes:season": "3",
                     "itunes:subtitle": "The Way We Were is a quintessential breakup movie. Told across decades, it stars Barbra Streisand and Robert Redford as two wildly different people growing together before eventually growing apart. Writer Sophie Krueger says the 1973 movie has resonated differently over time. As a child, she idolized Streisand and loved her portrayal of an independent woman charting her own course. As an adult, she recognized the stakes of any romantic relationship \u2014 and how the differences that excite you initially can become irreconcilable. \n\nPS (Movie friends \u2014 We\u2019re hosting a live virtual event, and you\u2019re invited! Join us for \u2018Yentl\u2019 Changed Me on Sunday, February 28th at 12 p.m. ET. Free tickets are available now.)",
@@ -231,17 +233,17 @@
                     "enclosure": {
                         "@length": "40857545",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/492abe5b-83b4-4819-a0b6-ccbc94609246/audio/afacbc3b-a440-4fec-a8bb-3824b16624c4/default_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/492abe5b-83b4-4819-a0b6-ccbc94609246/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=492abe5b-83b4-4819-a0b6-ccbc94609246&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "4a8b188b-692b-4409-bc57-9689d64d97df",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:42:02",
+                    "itunes:duration": "00:42:01",
                     "itunes:episode": "2",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "the color purple, black women, oprah winfrey, coming of age, family, relationships, quincy jones, alice walker, whoopi goldberg, jim crow, drama, steven spielberg",
                     "itunes:season": "3",
                     "itunes:subtitle": "The Color Purple is about the traumas and triumphs of a Black woman named Celie. Set in the Jim Crow South, the story radically centers complicated relationships between Black people, even as whiteness and racism loom in the background. Directed by Steven Spielberg, the movie adaptation of Alice Walker\u2019s classic novel was released in 1985. Both tellings have been beloved companions to Danez Smith, a queer writer and performer. Smith says Walker\u2019s story helped them embrace the messiness of life; \u201cto let life exist best within that brilliant complication that lives somewhere between the joy and pain of a single experience.\u201d",
@@ -258,23 +260,23 @@
                     "enclosure": {
                         "@length": "37585300",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/71a4d531-1dfd-4626-9dc0-f7dbe045e7bc/audio/c6db79ee-a534-462a-ba92-7005cf02dac4/default_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/71a4d531-1dfd-4626-9dc0-f7dbe045e7bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=71a4d531-1dfd-4626-9dc0-f7dbe045e7bc&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "c8b2e0d5-3bef-4223-9f92-06f46c093014",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:38:38",
+                    "itunes:duration": "00:38:37",
                     "itunes:episode": "1",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "daughter, coming of age, comedy, relationships, mother, lady bird, movie, greta gerwig, drama, laurie metcalf, saoirse ronan",
                     "itunes:season": "3",
                     "itunes:subtitle": "As much as it is a coming-of-age story, Greta Gerwig\u2019s Lady Bird is also about the complicated relationship between a teenage daughter and her mother. Even as they argue, they want to connect; to be seen and understood as a complex and ever-evolving person by the other. Their on-screen dynamic resonated with writer Kyle Turner, who has had his own challenging relationship with his mother. He says Lady Bird helped him begin to develop compassion for her \u2014 and to explore the possibilities of expressing empathy.",
                     "itunes:summary": "As much as it is a coming-of-age story, Greta Gerwig\u2019s Lady Bird is also about the complicated relationship between a teenage daughter and her mother. Even as they argue, they want to connect; to be seen and understood as a complex and ever-evolving person by the other. Their on-screen dynamic resonated with writer Kyle Turner, who has had his own challenging relationship with his mother. He says Lady Bird helped him begin to develop compassion for her \u2014 and to explore the possibilities of expressing empathy.",
                     "itunes:title": "Lady Bird \u2014 Kyle Turner",
-                    "link": "https://this-movie-changed-me.simplecast.com/episodes/kyle-turner-lady-bird-pewfw5YE",
+                    "link": "https://onbeing.org",
                     "pubDate": "Tue, 2 Feb 2021 07:00:00 +0000",
                     "title": "Lady Bird \u2014 Kyle Turner"
                 },
@@ -285,17 +287,17 @@
                     "enclosure": {
                         "@length": "4129322",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/faba20a7-d941-4cea-8403-a3205a1d2111/audio/b20c0fec-51c2-4e3c-8885-e8d19de0d782/default_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/faba20a7-d941-4cea-8403-a3205a1d2111/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=faba20a7-d941-4cea-8403-a3205a1d2111&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "75b7bb4d-0cd5-4589-b627-b42d3726728c",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:03:47",
+                    "itunes:duration": "00:03:46",
                     "itunes:episode": "18",
                     "itunes:episodeType": "trailer",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "the color purple, identity, the way we were, love & basketball, the fly, lady bird, movie, real women have curves, blockers, selena",
                     "itunes:season": "3",
                     "itunes:subtitle": "Our podcast about how movies teach, connect and transform us will be back for its final season on February 2. Join us every Tuesday for a new conversation about identity, possibility, and self-discovery as told through the movies Lady Bird, The Color Purple, The Way We Were, Real Women Have Curves, The Fly, Blockers, Selena, and Love & Basketball. \n\nSubscribe on Apple Podcasts, Google Podcasts, Spotify, or wherever you get podcasts.",
@@ -312,7 +314,7 @@
                     "enclosure": {
                         "@length": "1067399",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/62ba13c1-e8fb-42bf-9e27-b99f319ffc7b/this-movie-changed-me-what-would-you-like-to-hear-next_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/62ba13c1-e8fb-42bf-9e27-b99f319ffc7b/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=62ba13c1-e8fb-42bf-9e27-b99f319ffc7b&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "3588c44d-594a-4587-a773-b713a8159c3a",
@@ -322,7 +324,7 @@
                     "itunes:duration": "00:01:00",
                     "itunes:episode": "17",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "this movie changed me, feedback, survey, krista tippett",
                     "itunes:season": "2",
                     "itunes:subtitle": "Season 2 of This Movie Changed Me is a wrap! Before we go away to work on our next season, we\u2019d love to hear from you. What did you love? How can we make the podcast even better? Go to onbeing.org/tmcmsurvey to tell us a little about yourself and what you\u2019d like to hear next. Stay tuned for more episodes when we\u2019re back with season 3.\n\nSubscribe to our newsletter so we can stay in touch with you about our next season: onbeing.org/tmcmletter.",
@@ -339,17 +341,17 @@
                     "enclosure": {
                         "@length": "23352025",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/e1974da7-6482-48f7-86c3-8dd0cf423c8a/the-wiz-michael-strautmanis_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/e1974da7-6482-48f7-86c3-8dd0cf423c8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=e1974da7-6482-48f7-86c3-8dd0cf423c8a&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "1af9a5c0-ed95-46e4-907e-0e66569f71db",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:23:49",
+                    "itunes:duration": "00:23:51",
                     "itunes:episode": "16",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "diana ross, lena horne, sidney lumet, community, thanksgiving, pop culture, the wizard of oz, chicago, quincy jones, home, movie, richard pryor, nipsey russell, south side of chicago, michael jackson",
                     "itunes:season": "2",
                     "itunes:subtitle": "The Wiz is a reimagining of the classic Wizard of Oz tale, complete with an all-black, all-star cast and Quincy Jones-produced soundtrack. Diana Ross stars as Dorothy, a 24-year-old school teacher who has never set foot outside her neighborhood in Harlem. When a violent storm transports her to a faraway place, she\u2019s taken out of her comfort zone and yearns to find a way back. Lawyer Michael Strautmanis had never seen a movie that offered a warm portrayal of his experience growing up on the South Side of Chicago in a tight-knit African American community. His love for every aspect of the movie \u2014 from the iconic casting to the costume design and music \u2014 speaks to the idea that movies help us feel seen.",
@@ -366,17 +368,17 @@
                     "enclosure": {
                         "@length": "25532487",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/508014b6-2ec7-4724-864e-bf6ab5e048f7/the-wizard-of-oz-seth-godin_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/508014b6-2ec7-4724-864e-bf6ab5e048f7/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=508014b6-2ec7-4724-864e-bf6ab5e048f7&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "3bc6696c-91fd-4502-b580-279b4d371419",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:26:05",
+                    "itunes:duration": "00:26:07",
                     "itunes:episode": "15",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "musical, victor fleming, fantasy, coming of age, magic, pop culture, judy garland, adventure, movie, yellow brick road, somewhere over the rainbow",
                     "itunes:season": "2",
                     "itunes:subtitle": "The Wizard of Oz is one of the most watched films of all time. When a tornado whisks Dorothy and her dog Toto from their Kansas home to the magical Land of Oz, Dorothy has to seek out its wizard to find a way home. Along the way, she makes new friends and encounters all sorts of obstacles \u2014 all made delightful by the movie\u2019s iconic original music and use of color, which was groundbreaking at the time. Entrepreneur Seth Godin says the movie made a strong impression on him as a child: Seeing a young person take action inspired him to do the same. \u201cIt\u2019s up to us,\u201d he says, \u201cand we could do it if we wanted to.\u201d",
@@ -393,17 +395,17 @@
                     "enclosure": {
                         "@length": "32646046",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/791df435-14ac-4bb2-a736-11000da0ea51/the-namesake-nishta-mehra_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/791df435-14ac-4bb2-a736-11000da0ea51/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=791df435-14ac-4bb2-a736-11000da0ea51&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "9165453f-89f3-4a81-abbd-7cce58e011ab",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:33:54",
+                    "itunes:duration": "00:33:58",
                     "itunes:episode": "14",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "jhumpa lahiri, gogol, tabu, pop culture, the namesake, immigration, irrfan khan, movie, nishta mehra, sooni taraporevala, mira nair, kal penn, immigrant experience",
                     "itunes:season": "2",
                     "itunes:subtitle": "The Namesake, an adaptation of Jhumpa Lahiri\u2019s novel, is a moving exploration of the immigrant experience told through the story of the Ganguli family. The parents, Ashoke and Ashima, marry in India and emigrate to New York state, where they raise their two children, Gogol and Sonia. In tracing the lives of two generations of a family, the movie examines not just the opportunity and promise gained from immigrating to a new country, but also all that is lost from one generation to the next. The wholeness of this depiction offered solace to writer Nishta Mehra after her father\u2019s death. For her, the movie mirrored back the parts of her parents\u2019 lives she did not understand as a young person.",
@@ -420,17 +422,17 @@
                     "enclosure": {
                         "@length": "29739499",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/4c0af215-30b9-4e80-8aee-2f49b68dc140/auntie-mame-justin-sayre_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/4c0af215-30b9-4e80-8aee-2f49b68dc140/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=4c0af215-30b9-4e80-8aee-2f49b68dc140&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "cdf546f1-b1d9-460f-8cbd-7b814200466b",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:30:52",
+                    "itunes:duration": "00:30:56",
                     "itunes:episode": "13",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "comedy, diversity, pop culture, bohemian, coming out, movie, lgbtq, difference, comedian",
                     "itunes:season": "2",
                     "itunes:subtitle": "\u201cLife is a banquet, and most poor suckers are starving to death!\u201d So declares the title character in the 1958 comedy Auntie Mame. She introduces her Bohemian world to her nephew, Patrick, who comes under her care after he is orphaned. The movie\u2019s celebration of individuality and independence inspired comedian Justin Sayre to embrace his own \u2014 whether as a gay person or a queer artist. \u201cYou don\u2019t have to do anything you\u2019re told,\u201d he says. \u201cYou just have to be kind. And you just have to never stop looking. That\u2019s it.\u201d",
@@ -447,17 +449,17 @@
                     "enclosure": {
                         "@length": "35477866",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/c6b6e766-628c-4799-b4de-25a499cb51ba/malcolm-x-andrea-jenkins_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/c6b6e766-628c-4799-b4de-25a499cb51ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=c6b6e766-628c-4799-b4de-25a499cb51ba&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "5aac2b2b-232f-48de-8395-960aa0373fcd",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:36:26",
+                    "itunes:duration": "00:36:28",
                     "itunes:episode": "12",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "minnesota, african american, civil rights movement, denzel washington, pop culture, trans experience, history, transformation, historic figure, spike lee, movie, minneapolis, lgbtq, activism, biopic",
                     "itunes:season": "2",
                     "itunes:subtitle": "Spike Lee\u2019s Malcolm X paints a nuanced portrait of a historical icon \u2014 as a human being who was constantly searching for his truth and who was willing to change his mind in public, over and over again. The movie takes us through the various chapters of Malcolm X\u2019s life: first as Malcolm Little, then, in his early 20s, as \u201cDetroit Red,\u201d to his rise as Malcolm X, the activist preserved in history books today \u2014 and beyond. Activist and poet Andrea Jenkins related to Malcolm X\u2019s experience of transformation and evolution portrayed in the movie. She\u2019s a city council member in Minneapolis and was the first openly transgender black woman elected to office in the United States. She joined us for a live recording and screening of the movie at the Parkway Theater in Minneapolis. ",
@@ -474,17 +476,17 @@
                     "enclosure": {
                         "@length": "31859110",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/d86afc20-501b-423f-8a47-526401517aea/a-league-of-their-own-jessica-mendoza_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/d86afc20-501b-423f-8a47-526401517aea/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=d86afc20-501b-423f-8a47-526401517aea&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "06d4d761-f6d6-4e57-a751-47cbfe6803fe",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:33:04",
+                    "itunes:duration": "00:33:08",
                     "itunes:episode": "11",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "sports, softball, competition, geena davis, kit hinson, tom hanks, pop culture, feminism, rosie o\u2019donnell, madonna, world war ii, baseball, sportsmanship, inspiration, movie, dottie hinson, penny marshall, lori petty, athlete, all-american girls professional baseball league, olympics",
                     "itunes:season": "2",
                     "itunes:subtitle": "A League of Their Own is a fictionalized account of the real-life All-American Girls Professional Baseball League, formed during World War II. Geena Davis and Lori Petty play the competitive Hinson sisters, who are recruited to join the Rockford Peaches and play in the league. Since its release in 1992, the movie has inspired many young female athletes, including baseball commentator Jessica Mendoza. She grew up playing softball with her sister and went on to compete at the Olympics \u2014 including winning gold and silver. Jessica says one of the movie\u2019s famous lines \u2014 \u201cIt\u2019s the hard that makes it great\u201d \u2014 inspired her to break records on the field and off.",
@@ -501,17 +503,17 @@
                     "enclosure": {
                         "@length": "24162034",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/b37a7d24-34a5-4360-b979-5068e36a79b6/kes-june-thomas_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/b37a7d24-34a5-4360-b979-5068e36a79b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=b37a7d24-34a5-4360-b979-5068e36a79b6&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "885130f1-6be2-4e65-9474-bbe90547ec43",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:24:39",
+                    "itunes:duration": "00:24:41",
                     "itunes:episode": "10",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "northern england, coal mining, film, pop culture, kestrel, david bradley, british, ken loach, freddie fletcher, movie, nature, barry hines, yorkshire, falconry, the north, bird",
                     "itunes:season": "2",
                     "itunes:subtitle": "Set in a coal mining community in Yorkshire, the movie Kes tells the story of 15-year-old Billy Casper, who is in many ways a victim of his environment: He\u2019s picked on at school and at home, and the adults in his life have given up on him. But he begins to find freedom and refuge when he starts training a kestrel hawk. Podcast producer June Thomas, who grew up in a similar community to the one portrayed in Kes, says it\u2019s this realism that helped her connect with her hometown in Northern England, even years after she left.",
@@ -528,17 +530,17 @@
                     "enclosure": {
                         "@length": "29966676",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/fac0a229-2f31-44ef-84f1-357a4eb83583/coco-monica-castillo_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/fac0a229-2f31-44ef-84f1-357a4eb83583/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=fac0a229-2f31-44ef-84f1-357a4eb83583&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "82995702-34f2-4e4e-b71f-bb37b43d6d8d",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:30:42",
+                    "itunes:duration": "00:30:44",
                     "itunes:episode": "9",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "cuban, love, lee unkrich, gael garc\u00eda bernal, identity, mexican, benjamin bratt, college, heritage, family, day of the dead, el dia de los muertos, celebration, pop culture, adrian molina, intergenerational, ancestry, movie, coco, remembrance, pixar, anthony gonzalez, latin",
                     "itunes:season": "2",
                     "itunes:subtitle": "Coco is a heartwarming tribute to the spirit of El D\u00eda de Los Muertos, the Mexican celebration of remembrance. The Pixar movie tells the story of Miguel, a young boy who dreams of becoming a musician. When his family forbids him to perform at a concert on El D\u00eda de Los Muertos, he steals a guitar from the memorial of a renowned musician and finds himself journeying to the Land of the Dead, where he meets some of his ancestors \u2014 and learns more about the role they play in his identity. Writer and critic Monica Castillo was moved by the portrayal of family dynamics, forgiveness, and memory across generations that comes to life through the movie\u2019s beautiful music and animation.",
@@ -555,17 +557,17 @@
                     "enclosure": {
                         "@length": "31603906",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/3a87ccde-e5fd-46e1-8267-32ac0a79e38e/the-exorcist-mark-kermode_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/3a87ccde-e5fd-46e1-8267-32ac0a79e38e/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=3a87ccde-e5fd-46e1-8267-32ac0a79e38e&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "6dc39165-b84d-4060-91e0-262f96e4fadc",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:32:48",
+                    "itunes:duration": "00:32:52",
                     "itunes:episode": "8",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "william friedkin, kermode and mayo, film, max von sydow, pop culture, faith, ellen burstyn, religion, exorcism, scary movie, movie, linda blair, wittertainment, horror, william peter blatty",
                     "itunes:season": "2",
                     "itunes:subtitle": "The Exorcist is known for being absolutely terrifying, but film critic Mark Kermode argues that it\u2019s also a masterpiece. He was too young to see the movie when it was released and had to wait six years before he could watch it in a theater. Decades later, he has made documentaries about The Exorcist, written long essays and a book about it, and even became friends with the movie's director and screenwriter. But he says every time he watches the movie, he\u2019s still taken back to the experience of transcendence and magic he experienced when he watched the movie for the first time. ",
@@ -582,17 +584,17 @@
                     "enclosure": {
                         "@length": "30726524",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/164d6682-3d86-4675-b786-9dea0072f93f/amadeus-sue-phillips_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/164d6682-3d86-4675-b786-9dea0072f93f/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=164d6682-3d86-4675-b786-9dea0072f93f&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "54b4a042-aab4-42b0-bc38-011b3d915026",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:31:54",
+                    "itunes:duration": "00:31:58",
                     "itunes:episode": "7",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "seekers, tmcm, saul zaentz, spiritual growth, wolfgang amadeus mozart, pop culture, inner life, faith, f. murray abraham, religion, moral questions, spiritual exploration, tom hulce, peter shaffer, movie, antonio salieri, milo\u0161 forman, tcmc",
                     "itunes:season": "2",
                     "itunes:subtitle": "What does it mean to be good? What does it mean if we aren\u2019t good? Whose fault is it? These are just some of the questions that animate Amadeus, a fictional portrayal of famed composer Wolfgang Amadeus Mozart and his musical rival Antonio Salieri. These questions also inspire Sue Phillips, a Unitarian Universalist minister. She first watched the movie in the late \u201980s, just as she was coming out and understanding her place in the world.\n",
@@ -609,17 +611,17 @@
                     "enclosure": {
                         "@length": "27880210",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/547e15a9-450b-46a9-b387-6af43fe06c8a/career-girls-karen-corday_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/547e15a9-450b-46a9-b387-6af43fe06c8a/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=547e15a9-450b-46a9-b387-6af43fe06c8a&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "0ae86c0e-9903-47d9-98ca-dbc8aea68629",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:28:29",
+                    "itunes:duration": "00:28:30",
                     "itunes:episode": "6",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "growing up, friendship, coming of age, katrin cartlidge, pop culture, college friends, mike leigh, female friendship, lynda steadman, movie, reunion",
                     "itunes:season": "2",
                     "itunes:subtitle": "Career Girls is a love letter to the friendships that shape us in our formative years, and the nostalgia that accompanies us once we\u2019ve grown out of them. The indie movie follows Annie and Hannah, college friends who reunite for the first time since they graduated six years ago. Karen Corday, a writer, was the same age as the characters when she first saw the movie. She says it helped her feel seen and comforted to know that her experiences \u201cjust living as a person in the world\u201d were worth exploring.",
@@ -636,17 +638,17 @@
                     "enclosure": {
                         "@length": "32414286",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/4070c18b-741c-4097-b633-ac8cb7f4617c/brown-sugar-nick-george_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/4070c18b-741c-4097-b633-ac8cb7f4617c/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=4070c18b-741c-4097-b633-ac8cb7f4617c&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "a7d362db-50d4-45fc-987a-7d2d099827f7",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:33:12",
+                    "itunes:duration": "00:33:13",
                     "itunes:episode": "5",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "sanaa lathan, love, romance, production, coming of age, rick famuyiwa, poetry, brown sugar, pop culture, music, movie, hip-hop culture, taye diggs, growth",
                     "itunes:season": "2",
                     "itunes:subtitle": "The movie Brown Sugar is, at its heart, a tribute to hip-hop \u2014 complete with a soundtrack featuring artists like Mos Def, Erykah Badu, Jill Scott, and Mary J. Blige. It follows Dre and Sidney, childhood friends whose love of hip-hop is what connects them throughout their life. This coming-of-age story celebrates how love and music feed one another \u2014 an idea that spoke to Nick George. From the first time he picked up the DVD at Walmart as a college student to his life now as a spoken-word poet and community leader, Brown Sugar has accompanied him as a grown-up in life, in art, and in love. ",
@@ -663,17 +665,17 @@
                     "enclosure": {
                         "@length": "31591382",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/996d3854-b274-4cc0-8af7-95b5b9a6b452/contact__drew_hammond_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/996d3854-b274-4cc0-8af7-95b5b9a6b452/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=996d3854-b274-4cc0-8af7-95b5b9a6b452&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "4bb4592f-ef23-410c-9e4b-4a7eb711915d",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:32:48",
+                    "itunes:duration": "00:32:52",
                     "itunes:episode": "4",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "science fiction, tmcm, extraterrestrial intelligence, seti, carl sagan, jodie foster, pop culture, robert zemeckis, faith, sci-fi, christian philosophy, religion, atheism, movie, science, search, matthew mcconaughey, journey, tcmc, ann druyan",
                     "itunes:season": "2",
                     "itunes:subtitle": "Contact takes the sometimes opposing forces of science and religion and puts them in conversation. The movie is based on a 1985 novel by Carl Sagan about Ellie Arroway, a SETI scientist who discovers a radio signal that could suggest extraterrestrial life. During her search she encounters Palmer Joss, a Christian philosopher who challenges her convictions as a scientist. Ellie\u2019s pursuit of meaning outside of religion \u2014 an oftentimes lonely endeavor \u2014 was an experience Drew Hammond had never seen portrayed in a movie before. A high school teacher, Hammond says the movie granted him permission to stay curious and pursue the questions he has about the world \u2014 and it continues to shape how he interacts with his students.\n\nDrew Hammond is an English teacher at Eagan High School in Eagan, Minn. He\u2019s also an award-winning public speaking coach, a published playwright, and a former stand-up comedian. He is featured in the documentary \u201cFigures of Speech,\u201d which is out on Netflix.\n\nFind the transcript at https://onbeing.org/series/this-movie-changed-me/\nSubscribe to our weekly newsletter at https://onbeing.org/tmcmletter/",
@@ -690,17 +692,17 @@
                     "enclosure": {
                         "@length": "30683929",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/3ed1d27e-0302-46b3-a1f2-99fe45c08ec5/black_panther__zahida_sherman_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/3ed1d27e-0302-46b3-a1f2-99fe45c08ec5/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=3ed1d27e-0302-46b3-a1f2-99fe45c08ec5&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "a92d0efe-3db0-46be-85cf-dce57c04a32d",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:31:26",
+                    "itunes:duration": "00:31:29",
                     "itunes:episode": "3",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "letitia wright, michael b. jordan, chadwick boseman, identity, superhero movie, marvel, wakanda, african american, pop culture, action, women, black panther, lupita nyong'o, movie, avengers, danai gurira, black, media representation, ryan coogler",
                     "itunes:season": "2",
                     "itunes:subtitle": "Black Panther made all sorts of history \u2014 as the first Marvel production to feature a primarily black cast and the first superhero movie to receive an Academy Award nomination. For Zahida Sherman, a writer and college administrator, taking her students to watch the movie in theaters felt like participating in a historical, cultural moment. \u201cIt was just black joy, all day long,\u201d she recalls. In portraying a wide range of black identities \u2014 both superhuman and mortal \u2014 Sherman says the movie offered her permission to be herself and see that anything is possible.\n\nSherman is the director of the Multicultural Resource Center at Oberlin College. She was formerly the assistant director of black student success at the University of the Pacific. Find her writings on race, gender, and adulthood in Bustle and Blavity.\n\nFind the transcript at https://onbeing.org/series/this-movie-changed-me/\nSubscribe to our weekly newsletter at https://onbeing.org/tmcmletter/",
@@ -717,17 +719,17 @@
                     "enclosure": {
                         "@length": "25981427",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/49395c78-a6b0-4446-8e7a-166f58d3e948/ratatouille__a_o_scott_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/49395c78-a6b0-4446-8e7a-166f58d3e948/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=49395c78-a6b0-4446-8e7a-166f58d3e948&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "7af763f8-0e97-41d8-994e-bf3ff0000535",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:26:33",
+                    "itunes:duration": "00:26:35",
                     "itunes:episode": "2",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "wesleyan, love, patton oswalt, creativity, film criticism, burnout, new york times, pop culture, food, brad bird, art, restaurant, dream, movie review, ratatouille, cooking, movie, pixar",
                     "itunes:season": "2",
                     "itunes:subtitle": "Ratatouille is a Pixar feast. The tale of Remy, a rat who dreams of becoming an excellent chef, is a delight to experience in all five senses. One particular character \u2014 Anton Ego, the restaurant critic \u2014 brings A. O. Scott back to the heart of his own work as a New York Times\u2019 chief film critic. He says Ratatouille changed how he understands the work of criticism. This conversation is not just about food; it\u2019s a reminder to return to our love for our craft \u2014 whether that\u2019s food, movies, or something else altogether.\n\nScott is a chief film critic for the New York Times and is the Distinguished Professor of Film Criticism at Wesleyan University. His book is \u201cBetter Living Through Criticism: How to Think About Art, Pleasure, Beauty, and Truth.\u201d\n\nFind the transcript at https://onbeing.org/series/this-movie-changed-me/\nSubscribe to our weekly newsletter at https://onbeing.org/tmcmletter/",
@@ -744,17 +746,17 @@
                     "enclosure": {
                         "@length": "26967379",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/48502cf8-f09a-4b08-a72d-971d918f581c/groundhog_day__naomi_alderman_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/48502cf8-f09a-4b08-a72d-971d918f581c/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=48502cf8-f09a-4b08-a72d-971d918f581c&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "324226f9-7f64-4018-937e-1e141666455c",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:27:34",
+                    "itunes:duration": "00:27:36",
                     "itunes:episode": "1",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "harold ramis, life advice, writing, wisdom, zombies, run!, life stages, pop culture, inspiration, 90s, monotony, movie, daily routine, groundhog day, bill murray",
                     "itunes:season": "2",
                     "itunes:subtitle": "Groundhog Day is a classic movie for two groups of people: Bill Murray fans and anyone who was alive in the \u201990s. But writer Naomi Alderman falls into a wholly different category of fandom. The author of The Power first watched Groundhog Day when she was 18 and has seen it dozens of times since then. She says the movie has offered her solace for her existential angst and helped her devise a routine for the times when she\u2019s stuck in a rut.\n\nNaomi Alderman is a professor of creative writing at Bath Spa University. Her books include \u201cDisobedience,\u201d which was adapted into a feature film starring Rachel Weisz and Rachel McAdams. She's also a game writer whose work includes the alternate reality game, \u201cPerplex City,\u201d and the fitness game, \u201cZombies, Run!\u201d\n\nFind the transcript at https://onbeing.org/series/this-movie-changed-me/\nSubscribe to our weekly newsletter at https://onbeing.org/tmcmletter/",
@@ -771,7 +773,7 @@
                     "enclosure": {
                         "@length": "2867588",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/6577e412-2bf0-4cce-8a14-fd54850a00e0/this_movie_changed_me__season_two_trailer_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/6577e412-2bf0-4cce-8a14-fd54850a00e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=6577e412-2bf0-4cce-8a14-fd54850a00e0&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "f34a846c-420d-4bd8-9b91-2812776ce70b",
@@ -781,7 +783,7 @@
                     "itunes:duration": "00:02:53",
                     "itunes:episode": "0",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "yes",
+                    "itunes:explicit": "true",
                     "itunes:keywords": "kes, career girls, the wiz, a league of their own, amadeus, malcolm x, auntie mame, brown sugar, pop culture, the wizard of oz, the namesake, black panther, contact, ratatouille, movie, coco, groundhog day, the exorcist",
                     "itunes:season": "2",
                     "itunes:subtitle": "Our podcast This Movie Changed Me is coming back with a new season of movie magic, featuring conversations about favorites old and new \u2014 from Groundhog Day and Black Panther to Coco and The Exorcist.\n\nNew episodes coming to your podcast feed Tuesdays in September. Subscribe on Apple Podcasts, Google Podcasts, Spotify, or wherever you get podcasts.",
@@ -798,17 +800,17 @@
                     "enclosure": {
                         "@length": "29114473",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/beda3781-49dd-41b5-bc7c-49a631974887/522279837_the_joy_luck_club_amy_s_choi_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/beda3781-49dd-41b5-bc7c-49a631974887/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=beda3781-49dd-41b5-bc7c-49a631974887&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/522279837-the-joy-luck-club-amy-s-choi.mp3",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:30:13",
+                    "itunes:duration": "00:30:16",
                     "itunes:episode": "21",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "daughter, on being, mash-up, immigrant, family, ethnicity, people of color, amy s. choi, parenting, the joy luck club, feminism, korean, chicago, race, film, amy tan, mother, lily percy, cinema, mash-up americans, movie, the mash up americans, tmcm, asian american, chinese, women",
                     "itunes:season": "1",
                     "itunes:subtitle": "You don\u2019t see many Asian leads in Western cinema, that\u2019s why The Joy Luck Club\u2019s all-Asian cast was so radical. Its portrayal of complicated mother-daughter relationships and the immigrant experience spoke to Amy Choi as a child \u2014 and again as a mother.",
@@ -825,17 +827,17 @@
                     "enclosure": {
                         "@length": "27696008",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/9466cd5f-3b06-4f69-ba5f-dea8d4610997/515151015_kill_bill_volume_2_lauren_wilford_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/9466cd5f-3b06-4f69-ba5f-dea8d4610997/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=9466cd5f-3b06-4f69-ba5f-dea8d4610997&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/515151015-kill-bill-volume-2-lauren-wilford.mp3",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:28:20",
+                    "itunes:duration": "00:28:22",
                     "itunes:episode": "20",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "on being, lauren wilford, lily percy, empowerment, christianity, women, seattle, church, christ and pop culture, feminism, depression, tmcm, samurai, bright wall dark room, grindhouse, rage, martial arts, anxiety, strength, washington, quentin tarantino, mental health, uma thurman",
                     "itunes:season": "1",
                     "itunes:subtitle": "Movie characters can rewrite the possibilities for our lives. That\u2019s what Uma Thurman\u2019s role as The Bride did for Lauren Wilford. The character redefined Lauren\u2019s idea of femininity \u2014 helping her find her inner strength, determination, and persistence.",
@@ -852,17 +854,17 @@
                     "enclosure": {
                         "@length": "27090433",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/47cffb83-cecf-4a8a-b40e-c57b01325cc0/508628535_wings_of_desire_gustavo_santaolalla_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/47cffb83-cecf-4a8a-b40e-c57b01325cc0/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=47cffb83-cecf-4a8a-b40e-c57b01325cc0&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/508628535-wings-of-desire-gustavo-santaolalla.mp3",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:27:42",
+                    "itunes:duration": "00:27:44",
                     "itunes:episode": "19",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "80s, babel, peter falk, criterion, live, childhood, lily percy, amores perros, tmcm, german, latin america, argentina, on being, music, heaven, composer, gustavo santaolalla, book of life, wim wenders, brokeback mountain, angel",
                     "itunes:season": "1",
                     "itunes:subtitle": "For Oscar-winning composer Gustavo Santaolalla, the classic German film Wings of Desire transformed how he makes music. It showed him the value of silence and space in sound \u2014 qualities he embraced in his music for movies like Brokeback Mountain and Babel.",
@@ -879,17 +881,17 @@
                     "enclosure": {
                         "@length": "31570524",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/9b475cab-461c-45ae-b7ab-7dffa46a5b87/501812631_bend_it_like_beckham_rajpreet_heir_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/9b475cab-461c-45ae-b7ab-7dffa46a5b87/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=9b475cab-461c-45ae-b7ab-7dffa46a5b87&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/501812631-bend-it-like-beckham-rajpreet-heir.mp3",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:32:22",
+                    "itunes:duration": "00:32:24",
                     "itunes:episode": "18",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "britain, movies, sports, ethnicity, identity, football, atlantic, england, rajpreet heir, tmcm, keira knightley, lily percy, feminism, soccer, race, gurinder chadha, self-acceptance, ted, romantic comedy, film, indian, indiana, parminder nagra",
                     "itunes:season": "1",
                     "itunes:subtitle": "As an Indian-British-American girl, Rajpreet Heir didn\u2019t feel like she fit anywhere. But Bend It Like Beckham spoke to her across continents. The movie helped her embrace an important truth \u2014 that she was never defined by a single identity.",
@@ -906,17 +908,17 @@
                     "enclosure": {
                         "@length": "30742821",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/a62ee8bb-cbea-4422-a321-f76d358ea70e/486831591_now_voyager_angelica_jade_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/a62ee8bb-cbea-4422-a321-f76d358ea70e/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=a62ee8bb-cbea-4422-a321-f76d358ea70e&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/486831591-now-voyager-angelica-jade.mp3",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:31:55",
+                    "itunes:duration": "00:31:58",
                     "itunes:episode": "17",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "movies, daughter, claude rains, academy award, vulture, film, hope, peace, bette davis, healing, anniversary, nymag, lily percy, feminism, tmcm, therapy, mother, bipolar, self-acceptance, tcmc, recovery, gladys cooper, angelica jade basti\u00e9n, empathy, illness, feminist, oscar, mental health",
                     "itunes:season": "1",
                     "itunes:subtitle": "Complex portrayals of women with mental illness are rare. But that\u2019s what Vulture\u2019s Angelica Jade Bastie\u0301n saw in the Bette Davis feature Now, Voyager. Angelica says the movie saved her life, giving her hope and encouraging her own healing.",
@@ -933,17 +935,17 @@
                     "enclosure": {
                         "@length": "22206136",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/61e95afa-811f-4e2f-bdf2-1243ec220cb8/486837129_the_big_lebowski_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/61e95afa-811f-4e2f-bdf2-1243ec220cb8/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=61e95afa-811f-4e2f-bdf2-1243ec220cb8&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/486837129-the-big-lebowski.mp3",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:22:37",
+                    "itunes:duration": "00:22:39",
                     "itunes:episode": "16",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "joel, slacker, lily percy, humor, steve buscemi, the dude, vice, zen, the guardian, peace, movies, comedy, bob dylan, scott oliver, tmcm, new statesman, recovery, julianne moore, ethan, coen brothers, cult classic, john goodman, stoner, the big lebowski, anniversary, jeff bridges, tcmc, film, philip seymour hoffman, santana, i-d",
                     "itunes:season": "1",
                     "itunes:subtitle": "Looking for some chill in your life? For the 20th anniversary of The Big Lebowski, Scott Oliver talks about how the movie helped him keep perspective in a time of chaos. In typical Dude fashion, he remembered \u201cnothing is f***ed,\u201d even if it felt that way.",
@@ -960,17 +962,17 @@
                     "enclosure": {
                         "@length": "25515547",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/91e27216-d06d-4545-8a40-cac2b59b072b/482364417_you_can_count_on_me_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/91e27216-d06d-4545-8a40-cac2b59b072b/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=91e27216-d06d-4545-8a40-cac2b59b072b&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/482364417-you-can-count-on-me.mp3",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:26:04",
+                    "itunes:duration": "00:26:06",
                     "itunes:episode": "15",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "mark ruffalo, film, radiotopia, shame, immigrant, tcmc, lily percy, movies, sister, family, hrishikesh hirway, the west wing weekly, siblings, you can count on me, prx, kenneth lonergan, laura linney, song exploder, tmcm, brother",
                     "itunes:season": "1",
                     "itunes:subtitle": "Siblings. Love them or hate them, if you had one \u2014 or many \u2014 odds are they played a big role in your life. Song Exploder\u2019s Hrishikesh Hirway talks about his relationship with his sister, and how You Can Count On Me shaped the type of brother he wanted to be.",
@@ -987,17 +989,17 @@
                     "enclosure": {
                         "@length": "24524647",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/52191ad9-d6c7-442d-a261-ccf8e6258725/473982474_wonder_woman_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/52191ad9-d6c7-442d-a261-ccf8e6258725/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=52191ad9-d6c7-442d-a261-ccf8e6258725&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/473982474-wonder-woman.mp3",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:25:26",
+                    "itunes:duration": "00:25:29",
                     "itunes:episode": "14",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "dc comics, lily percy, diana prince, tmcm, woman, superhero, feminism, movies, women, patty jenkins, goldman sachs, leadership, jacki zehner, gal gadot, bodybuilding, tcmc, chris pine",
                     "itunes:season": "1",
                     "itunes:subtitle": "From bodybuilding to thriving in the male-dominated Goldman Sachs, Jacki Zehner turned to Wonder Woman to become the leader she is today. In leading a campaign to bring her hero to the big screen, Jacki embodied the power of women to change the world.",
@@ -1014,17 +1016,17 @@
                     "enclosure": {
                         "@length": "23899799",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/d30bd01d-277d-4196-a9e9-0fb686603c6a/469863486_the_ox_bow_incident_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/d30bd01d-277d-4196-a9e9-0fb686603c6a/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=d30bd01d-277d-4196-a9e9-0fb686603c6a&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/469863486-the-ox-bow-incident.mp3",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:24:44",
+                    "itunes:duration": "00:24:47",
                     "itunes:episode": "13",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "mexican, justice, tmcm, noir, salsa, rub\u00e9n blades, movies, the ox-bow incident, henry fonda, lily percy, tcmc, panama, mexico, grammy, law, music, western, ruben blades",
                     "itunes:season": "1",
                     "itunes:subtitle": "Movies can fundamentally shape the course of our work. That\u2019s how the 1940s noir-Western \u201cThe Ox-Bow Incident\u201d transformed salsa musician-activist-lawyer Rub\u00e9n Blades. It taught him that it wasn\u2019t enough to speak about justice \u2014 he had to defend its ideals.",
@@ -1041,17 +1043,17 @@
                     "enclosure": {
                         "@length": "25940260",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/7d34c6b7-154c-4c20-b521-f2617dc54045/463749498_interstellar_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/7d34c6b7-154c-4c20-b521-f2617dc54045/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=7d34c6b7-154c-4c20-b521-f2617dc54045&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/463749498-interstellar.mp3",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:26:09",
+                    "itunes:duration": "00:26:12",
                     "itunes:episode": "12",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "daughter, anne hathaway, overdose, space, addiction, opioid, science fiction, on being, interstellar, family, lily percy, cinema, grief, christopher nolan, loss, sci-fi, jessica chastain, healing, michael caine, tmcm, fatherhood, film, matthew mcconaughey, hans zimmer",
                     "itunes:season": "1",
                     "itunes:subtitle": "What movie helps you reckon with the loss of a loved one? Jamie Berube turned to \u201cInterstellar\u201d to cope with the death of her father. Matthew McConaughey\u2019s character showed that her father\u2019s love was still alive, beyond the dimensions of time and space.",
@@ -1068,17 +1070,17 @@
                     "enclosure": {
                         "@length": "23018198",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/dc66785f-30b6-4f63-be1a-e8e61f27f7dc/457318431_toy_story_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/dc66785f-30b6-4f63-be1a-e8e61f27f7dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=dc66785f-30b6-4f63-be1a-e8e61f27f7dc&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/457318431-toy-story.mp3",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:22:01",
+                    "itunes:duration": "00:22:03",
                     "itunes:episode": "11",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "tim allen, humility, ego, tmcm, cinema, randy newman, pride, film, failure, perfection, on being, tom hanks, imperfection, catholic, self acceptance, pixar, lily percy, disney, god",
                     "itunes:season": "1",
                     "itunes:subtitle": "\u201cToy Story\u201d helped Monsignor Charles Pope through a time of personal crisis. From ego to failure to self-acceptance, Charles Pope embraced his inner Buzz Lightyear and in the process, himself.",
@@ -1095,17 +1097,17 @@
                     "enclosure": {
                         "@length": "22481485",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/508fa460-eca1-460b-b3c5-f2e72c03f892/450774951_bridget_joness_diary_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/508fa460-eca1-460b-b3c5-f2e72c03f892/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=508fa460-eca1-460b-b3c5-f2e72c03f892&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/450774951-bridget-joness-diary.mp3",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:22:55",
+                    "itunes:duration": "00:22:58",
                     "itunes:episode": "10",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "self love, tmcm, hugh grant, rom com, comedy, film, self-acceptance, romantic, british, colin firth, imperfection, bridget jones diary, cinema, samantha powell, ren\u00e9e, lily percy, on being, zellweger",
                     "itunes:season": "1",
                     "itunes:subtitle": "For Samantha Powell, the pressure to be the perfect adult felt like a stranglehold. But this all changed with \u201cBridget Jones\u2019s Diary.\u201d The movie loosened the grip of perfectionism, and taught her she didn\u2019t need to be flawless to be happy.",
@@ -1122,17 +1124,17 @@
                     "enclosure": {
                         "@length": "20971265",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/2d46a200-6cc3-4206-b186-4ab06d6381c1/444009030_avalon_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/2d46a200-6cc3-4206-b186-4ab06d6381c1/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=2d46a200-6cc3-4206-b186-4ab06d6381c1&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/444009030-avalon.mp3",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:21:24",
+                    "itunes:duration": "00:21:27",
                     "itunes:episode": "9",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "tmcm, family, barry levinson, baltimore, armin mueller-stahl, film, cinema, elijah wood, immigration, lily percy, on being, judaism, anthony breznican, entertainment weekly, jewish",
                     "itunes:season": "1",
                     "itunes:subtitle": "What movie mirrors your life so perfectly you think it was made about you? For Entertainment Weekly\u2019s Anthony Breznican, that film is \u201cAvalon.\u201d The story of a Jewish immigrant family reminds him that families are so much more alike than they are different.",
@@ -1149,17 +1151,17 @@
                     "enclosure": {
                         "@length": "32848865",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/1beb8607-3417-4d16-83f8-8387bb024d39/437836731_boyhood_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/1beb8607-3417-4d16-83f8-8387bb024d39/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=1beb8607-3417-4d16-83f8-8387bb024d39&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/437836731-boyhood.mp3",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:32:39",
+                    "itunes:duration": "00:32:42",
                     "itunes:episode": "8",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "richard linklater, aging, tmcm, lily percy, nigh, coming of age, mom, family, poetry, cinema, motherhood, film, shihob, texas, tcmc, children, patricia arquette, ethan hawke, growth",
                     "itunes:season": "1",
                     "itunes:subtitle": "Naomi Shihab Nye uncovers poetry in the everyday, an art practiced in Richard Linklater\u2019s coming-of-age classic, \u201cBoyhood.\u201d Naomi found herself \u201cliving inside\u201d the movie \u2014 seeing her daydreaming-childhood-self and life as a mother on screen.",
@@ -1176,7 +1178,7 @@
                     "enclosure": {
                         "@length": "21410286",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/88a17020-5693-43bd-b074-3b361b80a315/431014332_dan_in_real_life_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/88a17020-5693-43bd-b074-3b361b80a315/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=88a17020-5693-43bd-b074-3b361b80a315&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/431014332-dan-in-real-life.mp3",
@@ -1186,7 +1188,7 @@
                     "itunes:duration": "00:20:41",
                     "itunes:episode": "7",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "sharon salzberg, carrell, death, cinema, family, juliette binoche, tcmc, peter hedges, dad, lily percy, love, tmcm, fatherhood, children, film, steve carell",
                     "itunes:season": "1",
                     "itunes:subtitle": "Love is an ability, not just a feeling. \u201cDan in Real Life\u201d brought this lesson home for meditation teacher Sharon Salzberg. The story of Steve Carell\u2019s flawed but loveable character echoed Sharon\u2019s own work \u2014 to realize love as a capacity within ourselves.",
@@ -1203,17 +1205,17 @@
                     "enclosure": {
                         "@length": "27416317",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/3129a5a8-7d03-4dc9-b5da-4c674944af3f/422391753_ordinary_people_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/3129a5a8-7d03-4dc9-b5da-4c674944af3f/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=3129a5a8-7d03-4dc9-b5da-4c674944af3f&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/422391753-ordinary-people.mp3",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:26:41",
+                    "itunes:duration": "00:26:40",
                     "itunes:episode": "6",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "masculinity, emotion, heal, therapy, new york times, family, depression, steve almond, robert redford, relationships, mother, dysfunction, feelings, suicide, lily percy, dear sugars, film, mental health, movies",
                     "itunes:season": "1",
                     "itunes:subtitle": "Dear Sugars\u2019 Steve Almond talks about the liberating vulnerability of this Robert Redford classic. It taught him to embrace the complexity and pain in his own family, and in the process, move towards a more meaningful life.",
@@ -1230,7 +1232,7 @@
                     "enclosure": {
                         "@length": "18941359",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/760412e4-fe35-4541-9db5-d413b47c44d3/414780429_say_anything_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/760412e4-fe35-4541-9db5-d413b47c44d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=760412e4-fe35-4541-9db5-d413b47c44d3&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/414780429-say-anything.mp3",
@@ -1240,7 +1242,7 @@
                     "itunes:duration": "00:17:00",
                     "itunes:episode": "5",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "ione skye, friendship, tmcm, cameron crowe, teen, lily percy, 80s, romcom, on being, john cusack, friend, john hughes",
                     "itunes:season": "1",
                     "itunes:subtitle": "Sexual tension? Romance? Teen angst? Sounds like a typical \u201980s movie. But The Guardian\u2019s Hadley Freeman says \u201cSay Anything\u201d is different, even radical, in its portrayal of women and men as friends.",
@@ -1257,17 +1259,17 @@
                     "enclosure": {
                         "@length": "26448738",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/122628a1-56b5-44a2-ab49-dbf76699d5c1/409538208_eternal_sunshine_of_the_spotless_mind_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/122628a1-56b5-44a2-ab49-dbf76699d5c1/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=122628a1-56b5-44a2-ab49-dbf76699d5c1&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/409538208-eternal-sunshine-of-the-spotless-mind.mp3",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:25:14",
+                    "itunes:duration": "00:25:13",
                     "itunes:episode": "4",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "memory, charlie kaufman, heartbreak, tmcm, lily percy, film, tcmc, chaitanya kumar, michel gondry, eternal sunshine of the spotless mind, love, growth",
                     "itunes:season": "1",
                     "itunes:subtitle": "If you could, would you erase memories of past lovers? This idea is at the heart of \u201cEternal Sunshine of the Spotless Mind,\u201d and Chaitanya Kumar says he wouldn\u2019t. Still, the movie made him rethink the way we experience and remember love.",
@@ -1284,17 +1286,17 @@
                     "enclosure": {
                         "@length": "21923110",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/2a27601d-d5f1-4462-8e01-7121de8123a9/398578458_youve_got_mail_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/2a27601d-d5f1-4462-8e01-7121de8123a9/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=2a27601d-d5f1-4462-8e01-7121de8123a9&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/398578458-youve-got-mail.mp3",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:21:11",
+                    "itunes:duration": "00:21:10",
                     "itunes:episode": "3",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "film, casper ter kuile, movies, transformation, love, meg ryan, personal growth, life lessons, tom hanks, lily percy, tmcm, online dating, this movie changed me, intimacy, tcmc, nora ephron, partner, storytelling, you\u2019ve got mail",
                     "itunes:season": "1",
                     "itunes:subtitle": "Harry Potter and the Sacred Text\u2019s Casper ter Kuile talks about this classic Meg Ryan/Tom Hanks movie, one he always watches with a pint of ice cream. It shaped the world he longed for as a 14-year-old, and later on, even the kind of man he would marry.",
@@ -1311,17 +1313,17 @@
                     "enclosure": {
                         "@length": "26799449",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/f157b4d8-57e8-4921-ac8d-59672416b347/395356449_the_nightmare_before_christmas_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/f157b4d8-57e8-4921-ac8d-59672416b347/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=f157b4d8-57e8-4921-ac8d-59672416b347&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/395356449-the-nightmare-before-christmas.mp3",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:27:30",
+                    "itunes:duration": "00:27:34",
                     "itunes:episode": "2",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "tmcm, tcmc, this movie changed me, cinema, personal growth, film, tim burton, jack skellington, halloween, lily percy, christmas, life lessons, the nightmare before christmas, danny elfman, storytelling, transformation",
                     "itunes:season": "1",
                     "itunes:subtitle": "The Nightmare Before Christmas helped writer Ashley C. Ford accept life\u2019s imperfections. As a kid, the movie taught her that it was okay to be different and to embrace the weird and the creepy.",
@@ -1338,17 +1340,17 @@
                     "enclosure": {
                         "@length": "21041978",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/94086fad-403d-4122-b37d-bbd926c0ca76/388080431_star_wars_episode_iv_a_new_hope_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/94086fad-403d-4122-b37d-bbd926c0ca76/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=94086fad-403d-4122-b37d-bbd926c0ca76&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/388080431-star-wars-episode-iv-a-new-hope.mp3",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:21:40",
+                    "itunes:duration": "00:21:42",
                     "itunes:episode": "1",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "movies, david greene, cinema, personal growth, this movie changed me, tmcm, transformation, life lessons, lily percy, film, star wars, david green, star wars episode iv: a new hope, storytelling, tcmc",
                     "itunes:season": "1",
                     "itunes:subtitle": "David Greene, co-host of NPR\u2019s Morning Edition and Up First, shares how Star Wars: Episode IV instilled a sense of wanderlust and adventure in his life and ultimately made him want to become a foreign correspondent.",
@@ -1365,17 +1367,17 @@
                     "enclosure": {
                         "@length": "5056419",
                         "@type": "audio/mpeg",
-                        "@url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/26562c/26562cf3-7945-4af6-af0b-e7a689a005a4/3acd6ce2-85f5-43ac-91e7-78192af1470f/382603850_this_movie_changed_me_trailer_tc.mp3?aid=rss_feed&feed=nULeSwXi"
+                        "@url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/26562cf3-7945-4af6-af0b-e7a689a005a4/episodes/3acd6ce2-85f5-43ac-91e7-78192af1470f/audio/128/default.mp3?aid=rss_feed&awCollectionId=26562cf3-7945-4af6-af0b-e7a689a005a4&awEpisodeId=3acd6ce2-85f5-43ac-91e7-78192af1470f&feed=nULeSwXi"
                     },
                     "guid": {
                         "#text": "http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/382603850-this-movie-changed-me-trailer.mp3",
                         "@isPermaLink": "false"
                     },
                     "itunes:author": "On Being Studios",
-                    "itunes:duration": "00:01:33",
+                    "itunes:duration": "00:01:32",
                     "itunes:episode": "0",
                     "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
+                    "itunes:explicit": "false",
                     "itunes:keywords": "this movie changed me, trailer, life lessons, on being, personal growth, tmcm, movies, on being studios, lily percy, film, storytelling",
                     "itunes:season": "1",
                     "itunes:subtitle": "A sneak peek into This Movie Changed Me, a new podcast from On Being Studios hosted by Lily Percy.",
@@ -1398,7 +1400,7 @@
                     }
                 }
             ],
-            "itunes:explicit": "yes",
+            "itunes:explicit": "true",
             "itunes:image": {
                 "@href": "https://image.simplecastcdn.com/images/8b774a2b-4c5b-4893-b25f-d045583d8230/bf1be68b-5d24-4565-8f6d-d51288d2ecac/3000x3000/1500x1500_tmcm_soundcloud_icon.jpg?aid=rss_feed"
             },
@@ -1411,7 +1413,7 @@
             "itunes:summary": "Movies create space to explore some of life\u2019s biggest questions. This Movie Changed Me features conversations about how they teach, connect, and transform us. In each episode, host and lifelong movie fanatic Lily Percy guides guests to explore and celebrate the transformative role movies play in their lives.",
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Tue, 23 Mar 2021 06:00:10 +0000",
+            "lastBuildDate": "Tue, 14 Jan 2025 16:57:02 +0000",
             "link": "https://onbeing.org",
             "pubDate": "Tue, 23 Mar 2021 06:00:00 +0000",
             "title": "This Movie Changed Me"

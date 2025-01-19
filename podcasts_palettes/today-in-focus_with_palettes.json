@@ -3,7 +3,7 @@
         "@version": "2.0",
         "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
         "channel": {
-            "copyright": "\u00a9 2024 Guardian News & Media Limited or its affiliated companies. All rights reserved. ",
+            "copyright": "\u00a9 2025 Guardian News & Media Limited or its affiliated companies. All rights reserved. ",
             "description": "Hosted by Michael Safi and Helen Pidd, Today in Focus brings you closer to Guardian journalism. Combining storytelling with insightful analysis and personal testimonies, the podcast takes you behind the headlines for a deeper understanding of the news, every weekday. And, in the run up to the US Election, Lucy Hough presents US Election Extra, a daily series of short updates, running alongside the regular Today in Focus podcast. Today in Focus is unmatched in both scope and depth, delivering analysis and storytelling from right across the planet. With a global network of over 900 journalists and five dedicated editions covering news in the US, UK, Australia, Europe, and beyond, the Guardian offers comprehensive reporting across every continent. Most recently we have introduced new correspondents in the Caribbean, South America and Africa.",
             "image": {
                 "link": "https://www.theguardian.com/news/series/todayinfocus",
@@ -20,6 +20,132 @@
             },
             "item": [
                 {
+                    "description": "The Guardian\u2019s Jerusalem correspondent Bethan McKernan explains the pact reached between Israel and Hamas to halt fighting. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "41425424",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2025/01/17-58751-20250117tifgazadeal.mp3"
+                    },
+                    "guid": {
+                        "#text": "678a2a988f0800365d4fa0b7",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:25:14",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "Israel-Gaza war, Hamas, Israel, Gaza, Donald Trump, Palestinian territories, Trump administration",
+                    "itunes:subtitle": "The Guardian\u2019s Jerusalem correspondent, Bethan McKernan, explains the pact reached between Israel and Hamas to halt fighting",
+                    "itunes:summary": "The Guardian\u2019s Jerusalem correspondent Bethan McKernan explains the pact reached between Israel and Hamas to halt fighting. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "Finally, a ceasefire in Gaza",
+                    "pubDate": "Fri, 17 Jan 2025 16:19:51 GMT",
+                    "title": "Finally, a ceasefire in Gaza"
+                },
+                {
+                    "description": "The Guardian\u2019s health editor Andrew Gregory explores the promises and challenges of revolutionary technology in the fight against cancer. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "46028239",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2025/01/16-56559-20250117tifcancer.mp3"
+                    },
+                    "guid": {
+                        "#text": "671e94608f085a5821813af0",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:28:26",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "Cancer, Health, Vaccines and immunisation, Medical research, Science, Cancer research",
+                    "itunes:subtitle": "The Guardian\u2019s health editor Andrew Gregory explores the promises and challenges of revolutionary technology in the fight against cancer",
+                    "itunes:summary": "The Guardian\u2019s health editor Andrew Gregory explores the promises and challenges of revolutionary technology in the fight against cancer. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "A golden age of cancer treatment?",
+                    "pubDate": "Fri, 17 Jan 2025 03:00:17 GMT",
+                    "title": "A golden age of cancer treatment?"
+                },
+                {
+                    "description": "Political correspondent Kiran Stacey traces the allegations of corruption against Labour MP Tulip Siddiq that caused her to resign from her ministerial role in Keir Starmer\u2019s government. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "40462935",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2025/01/15-70768-20250116tiftulip.mp3"
+                    },
+                    "guid": {
+                        "#text": "6787dc5e8f08ce4b9f2dad3a",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:24:34",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "Labour, Bangladesh, Sheikh Hasina, Politics, UK news, Keir Starmer",
+                    "itunes:subtitle": "Political correspondent Kiran Stacey traces the allegations of corruption against Labour MP Tulip Siddiq that caused her to resign from her ministerial role in Keir Starmer\u2019s government",
+                    "itunes:summary": "Political correspondent Kiran Stacey traces the allegations of corruption against Labour MP Tulip Siddiq that caused her to resign from her ministerial role in Keir Starmer\u2019s government. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "The resignation of Tulip Siddiq",
+                    "pubDate": "Thu, 16 Jan 2025 00:00:54 GMT",
+                    "title": "The resignation of Tulip Siddiq"
+                },
+                {
+                    "description": "Gabrielle Canon reports from Los Angeles on the wildfires destroying homes and communities. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "45929184",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2025/01/14-73859-20250115TIFfires.mp3"
+                    },
+                    "guid": {
+                        "#text": "678654ce8f084d6d97e17632",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:28:22",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "Climate crisis, California, Wildfires, US news",
+                    "itunes:subtitle": "Gabrielle Canon reports from Los Angeles on the wildfires destroying homes and communities",
+                    "itunes:summary": "Gabrielle Canon reports from Los Angeles on the wildfires destroying homes and communities. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "\u2018The entire community is just gone\u2019: inside the Los Angeles wildfires",
+                    "pubDate": "Wed, 15 Jan 2025 03:00:07 GMT",
+                    "title": "\u2018The entire community is just gone\u2019: inside the Los Angeles wildfires"
+                },
+                {
+                    "description": "Factchecker Jesse Stiller and technology journalist Chris Stokel-Walker explore why Mark Zuckerberg has announced dramatic changes to Meta\u2019s social platforms, and what they will mean for their 3.3 billion users. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "56603424",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2025/01/13-70634-20250114TIFMETAFactCheck.mp3"
+                    },
+                    "guid": {
+                        "#text": "678535178f084a3a98c24dcc",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:35:47",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "Facebook, Meta, Mark Zuckerberg, Donald Trump",
+                    "itunes:subtitle": "Factchecker Jesse Stiller and technology journalist Chris Stokel-Walker explore why Mark Zuckerberg has announced dramatic changes to Meta\u2019s social platforms, and what they will mean for their 3.3 billion users",
+                    "itunes:summary": "Factchecker Jesse Stiller and technology journalist Chris Stokel-Walker explore why Mark Zuckerberg has announced dramatic changes to Meta\u2019s social platforms, and what they will mean for their 3.3 billion users. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "A new Facebook for the era of President Trump",
+                    "pubDate": "Tue, 14 Jan 2025 03:00:45 GMT",
+                    "title": "A new Facebook for the era of President Trump"
+                },
+                {
+                    "description": "Culture critics Lanre Bakare, Ben Beaumont-Thomas and Catherine Shoard look ahead to the best of the year in film, TV, books and music. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "42601381",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2025/01/10-63733-20250113TIFculture.mp3"
+                    },
+                    "guid": {
+                        "#text": "678141848f080fc8a0ad37d0",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:26:03",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "Culture, Music, Books, Television",
+                    "itunes:subtitle": "Culture critics Lanre Bakare, Ben Beaumont-Thomas and Catherine Shoard look ahead to the best of the year in film, TV, books and music",
+                    "itunes:summary": "Culture critics Lanre Bakare, Ben Beaumont-Thomas and Catherine Shoard look ahead to the best of the year in film, TV, books and music. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "Culture 2025: what to watch, read and listen to this year",
+                    "pubDate": "Mon, 13 Jan 2025 03:00:49 GMT",
+                    "title": "Culture 2025: what to watch, read and listen to this year"
+                },
+                {
                     "description": "Biodiversity writer Phoebe Weston hears from farmers on the west coast of Scotland who claim they are losing hundreds of lambs a year in a case of rewilding gone wrong. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
                     "enclosure": {
                         "@length": "47889898",
@@ -33,7 +159,7 @@
                     "itunes:author": "The Guardian",
                     "itunes:duration": "00:29:43",
                     "itunes:explicit": "clean",
-                    "itunes:keywords": "Rewilding, Farming, Scotland",
+                    "itunes:keywords": "Rewilding, Farming, Scotland, Birds, Environment",
                     "itunes:subtitle": "Biodiversity writer Phoebe Weston hears from farmers on the west coast of Scotland who claim they are losing hundreds of lambs a year in a case of rewilding gone wrong",
                     "itunes:summary": "Biodiversity writer Phoebe Weston hears from farmers on the west coast of Scotland who claim they are losing hundreds of lambs a year in a case of rewilding gone wrong. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
                     "itunes:title": "It was a wildlife conservation triumph, then came the corpses",
@@ -6181,132 +6307,6 @@
                     "itunes:title": "Why the military are the real winners of Pakistan\u2019s election",
                     "pubDate": "Thu, 08 Feb 2024 03:00:00 GMT",
                     "title": "Why the military are the real winners of Pakistan\u2019s election"
-                },
-                {
-                    "description": "Studies on the attitudes of young people between the age of 16 and 29 show a serious split towards both feminism and influencers such as Andrew Tate. What\u2019s behind it?. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "45549483",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/02/06-71641-TiFGenZFeminism2.mp3"
-                    },
-                    "guid": {
-                        "#text": "65c25b128f085a8182392bc4",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:28:07",
-                    "itunes:explicit": "clean",
-                    "itunes:keywords": "Social trends, Young people, Feminism, Women, Men, Society, Andrew Tate, UK news",
-                    "itunes:subtitle": "Studies on the attitudes of young people between the age of 16 and 29 show a serious split towards both feminism and influencers such as Andrew Tate. What\u2019s behind it?",
-                    "itunes:summary": "Studies on the attitudes of young people between the age of 16 and 29 show a serious split towards both feminism and influencers such as Andrew Tate. What\u2019s behind it?. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "Why is generation Z so divided on gender?",
-                    "pubDate": "Wed, 07 Feb 2024 03:00:02 GMT",
-                    "title": "Why is generation Z so divided on gender?"
-                },
-                {
-                    "description": "A year on from the murder of Brianna Ghey, her killers have been sentenced, and her mother is leading an extraordinary campaign of compassion. Helen Pidd reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "41147525",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/02/05-72919-20240131TIFbriannaghey.mp3"
-                    },
-                    "guid": {
-                        "#text": "65c0a1e28f08412dd4e99ef0",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:30:17",
-                    "itunes:explicit": "yes",
-                    "itunes:keywords": "UK news, Law, North of England, Crime",
-                    "itunes:subtitle": "A year on from the murder of Brianna Ghey, her killers have been sentenced, and her mother is leading an extraordinary campaign of compassion. Helen Pidd reports",
-                    "itunes:summary": "A year on from the murder of Brianna Ghey, her killers have been sentenced, and her mother is leading an extraordinary campaign of compassion. Helen Pidd reports. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "The murder of Brianna Ghey",
-                    "pubDate": "Tue, 06 Feb 2024 03:00:48 GMT",
-                    "title": "The murder of Brianna Ghey"
-                },
-                {
-                    "description": "Vapes are often used by smokers to help them quit cigarettes, but in recent years more British children have taken up the habit. So is a ban the right course of action? Sarah Boseley reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "38689433",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/02/02-60908-20240205TIFvapes.mp3"
-                    },
-                    "guid": {
-                        "#text": "65bcd3c78f089802d51fac25",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:23:20",
-                    "itunes:explicit": "clean",
-                    "itunes:keywords": "Vaping, Health, Smoking, NHS",
-                    "itunes:subtitle": "Vapes are often used by smokers to help them quit cigarettes, but in recent years more British children have taken up the habit. So is a ban the right course of action? Sarah Boseley reports",
-                    "itunes:summary": "Vapes are often used by smokers to help them quit cigarettes, but in recent years more British children have taken up the habit. So is a ban the right course of action? Sarah Boseley reports. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "The disposable vape ban",
-                    "pubDate": "Mon, 05 Feb 2024 03:00:02 GMT",
-                    "title": "The disposable vape ban"
-                },
-                {
-                    "description": "A deal agreed with the DUP will allow power sharing to resume in Northern Ireland, with Sinn F\u00e9in as the largest party. Rory Carroll reports from Belfast. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "41168182",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/02/01-72335-20240202TIFstormont.mp3"
-                    },
-                    "guid": {
-                        "#text": "65ba6f848f08afcc69b127d2",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:30:18",
-                    "itunes:explicit": "clean",
-                    "itunes:keywords": "Northern Irish politics, Northern Ireland, Democratic Unionist party (DUP), Sinn F\u00e9in, UK news, Politics, Brexit, European Union, World news",
-                    "itunes:subtitle": "A deal agreed with the DUP will allow power sharing to resume in Northern Ireland, with Sinn F\u00e9in the largest party. Rory Carroll reports from Belfast",
-                    "itunes:summary": "A deal agreed with the DUP will allow power sharing to resume in Northern Ireland, with Sinn F\u00e9in as the largest party. Rory Carroll reports from Belfast. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "The deal that could transform politics in Northern Ireland",
-                    "pubDate": "Fri, 02 Feb 2024 03:00:36 GMT",
-                    "title": "The deal that could transform politics in Northern Ireland"
-                },
-                {
-                    "description": "The British army has been struggling to attract applicants for years. Why don\u2019t young people want to sign up? Dan Sabbagh reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "38044314",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/01/31-84323-20240201TIFarmy.mp3"
-                    },
-                    "guid": {
-                        "#text": "65ba4b1f8f083a5d7094f379",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:22:53",
-                    "itunes:explicit": "clean",
-                    "itunes:keywords": "British army, Military",
-                    "itunes:subtitle": "The British army has been struggling to attract applicants for years. Why don\u2019t young people want to sign up? Dan Sabbagh reports",
-                    "itunes:summary": "The British army has been struggling to attract applicants for years. Why don\u2019t young people want to sign up? Dan Sabbagh reports. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "Is Britain fit to fight a war?",
-                    "pubDate": "Thu, 01 Feb 2024 03:00:38 GMT",
-                    "title": "Is Britain fit to fight a war?"
-                },
-                {
-                    "description": "A terrifying mid-air blowout of a door plug at 16,000 feet (4,900 metres) left passengers fearing for their lives on an Alaska Airlines flight earlier this month. It\u2019s just the latest crisis for Boeing so what has gone wrong? Jeff Wise and Gwyn Topham report. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "43816330",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/01/30-72819-20240131TIFboeing.mp3"
-                    },
-                    "guid": {
-                        "#text": "65b8d1aa8f08e5a570b22042",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:32:31",
-                    "itunes:explicit": "clean",
-                    "itunes:keywords": "Boeing, Airline industry, US news, World news",
-                    "itunes:subtitle": "A terrifying mid-air blowout of a door plug at 16,000 feet (4,900 metres) left passengers fearing for their lives on an Alaska Airlines flight earlier this month. It\u2019s just the latest crisis for Boeing so what has gone wrong? Jeff Wise and Gwyn Topham report",
-                    "itunes:summary": "A terrifying mid-air blowout of a door plug at 16,000 feet (4,900 metres) left passengers fearing for their lives on an Alaska Airlines flight earlier this month. It\u2019s just the latest crisis for Boeing so what has gone wrong? Jeff Wise and Gwyn Topham report. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "What\u2019s gone wrong at Boeing?",
-                    "pubDate": "Wed, 31 Jan 2024 03:00:01 GMT",
-                    "title": "What\u2019s gone wrong at Boeing?"
                 }
             ],
             "itunes:author": "The Guardian",
@@ -6327,7 +6327,7 @@
             },
             "itunes:summary": "Hosted by Michael Safi and Helen Pidd, Today in Focus brings you closer to Guardian journalism. Combining storytelling with insightful analysis and personal testimonies, the podcast takes you behind the headlines for a deeper understanding of the news, every weekday. And, in the run up to the US Election, Lucy Hough presents US Election Extra, a daily series of short updates, running alongside the regular Today in Focus podcast. Today in Focus is unmatched in both scope and depth, delivering analysis and storytelling from right across the planet. With a global network of over 900 journalists and five dedicated editions covering news in the US, UK, Australia, Europe, and beyond, the Guardian offers comprehensive reporting across every continent. Most recently we have introduced new correspondents in the Caribbean, South America and Africa.",
             "language": "en-gb",
-            "lastBuildDate": "\n              Sun, 12 Jan 2025 00:40:04 GMT\n            ",
+            "lastBuildDate": "\n              Sun, 19 Jan 2025 00:36:45 GMT\n            ",
             "link": "https://www.theguardian.com/news/series/todayinfocus",
             "title": "Today in Focus",
             "ttl": "15"

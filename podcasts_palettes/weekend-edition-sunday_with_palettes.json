@@ -10,7 +10,7 @@
         "@xmlns:podcast": "https://podcastindex.org/namespace/1.0",
         "channel": {
             "atom:link": {
-                "@href": "http://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml",
+                "@href": "https://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml",
                 "@rel": "self",
                 "@type": "application/rss+xml"
             },
@@ -26,6 +26,350 @@
                 "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
             },
             "item": [
+                {
+                    "author": [
+                        "Jason DeRose",
+                        "Sarah Ventre"
+                    ],
+                    "description": "Faith communities in Los Angeles are trying to protect their homes and houses of worship from deadly wildfires. They are also trying to provide spiritual support for their traumatized congregations.",
+                    "enclosure": {
+                        "@length": "5238000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250112_wesun_southern_california_wildfires_destroy_or_damage_many_houses_of_worship.mp3?size=4658618&d=291118&e=nx-s1-5254071"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106771",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Jason DeRose",
+                        "Sarah Ventre"
+                    ],
+                    "itunes:duration": "00:04:51",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/5b464e4fa38960bed72b1ed269900899?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Southern California wildfires destroy or damage many houses of worship",
+                    "itunes:summary": "Faith communities in Los Angeles are trying to protect their homes and houses of worship from deadly wildfires. They are also trying to provide spiritual support for their traumatized congregations.",
+                    "itunes:title": "Southern California wildfires destroy or damage many houses of worship",
+                    "link": "https://www.kuow.org/stories/southern-california-wildfires-destroy-or-damage-many-houses-of-worship",
+                    "pubDate": "Sun, 12 Jan 2025 06:00:00 -0800",
+                    "title": "Southern California wildfires destroy or damage many houses of worship"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "NPR's Ayesha Rascoe speaks with FEMA Administrator Deanne Criswell about the federal assistance available to victims of the Los Angeles wildfires.",
+                    "enclosure": {
+                        "@length": "5274000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250112_wesun_fema_administrator_discusses_their_plan_of_action_for_the_california_fires.mp3?size=4695398&d=293420&e=nx-s1-5256903"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106766",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:04:53",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "FEMA administrator discusses their plan of action for the California fires",
+                    "itunes:summary": "NPR's Ayesha Rascoe speaks with FEMA Administrator Deanne Criswell about the federal assistance available to victims of the Los Angeles wildfires.",
+                    "itunes:title": "FEMA administrator discusses their plan of action for the California fires",
+                    "link": "https://www.kuow.org/stories/fema-administrator-discusses-their-plan-of-action-for-the-california-fires",
+                    "pubDate": "Sun, 12 Jan 2025 05:47:09 -0800",
+                    "title": "FEMA administrator discusses their plan of action for the California fires"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "NPR's Ayesha Rascoe speaks with Karen Attiah of the Washington Post about her experience with Meta's new AI chatbot \"Liv,\" and what she calls \"digital blackface.\"",
+                    "enclosure": {
+                        "@length": "7452000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250112_wesun_why_critics_say_meta_s_chatbot_is_digital_blackface.mp3?size=6634311&d=414599&e=nx-s1-5253945"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106768",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:06:54",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Why critics say Meta's chatbot is 'digital blackface'",
+                    "itunes:summary": "NPR's Ayesha Rascoe speaks with Karen Attiah of the Washington Post about her experience with Meta's new AI chatbot \"Liv,\" and what she calls \"digital blackface.\"",
+                    "itunes:title": "Why critics say Meta's chatbot is 'digital blackface'",
+                    "link": "https://www.kuow.org/stories/why-critics-say-meta-s-chatbot-is-digital-blackface",
+                    "pubDate": "Sun, 12 Jan 2025 05:46:56 -0800",
+                    "title": "Why critics say Meta's chatbot is 'digital blackface'"
+                },
+                {
+                    "author": [
+                        "Ryan Benk",
+                        "Ayesha Rascoe"
+                    ],
+                    "description": "The number of people enrolled in Affordable Care Act health insurance plans has doubled over the last four yeas. NPR's Ayesha Rascoe talks with healthcare navigator Katie Roders Turner about the reasons.",
+                    "enclosure": {
+                        "@length": "5778000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250112_wesun_states_that_voted_for_trump_saw_some_of_the_biggest_surges_in_aca_signups.mp3?size=5137181&d=321027&e=nx-s1-5253900"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106767",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Ryan Benk",
+                        "Ayesha Rascoe"
+                    ],
+                    "itunes:duration": "00:05:21",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "States that voted for Trump saw some of the biggest surges in ACA signups",
+                    "itunes:summary": "The number of people enrolled in Affordable Care Act health insurance plans has doubled over the last four yeas. NPR's Ayesha Rascoe talks with healthcare navigator Katie Roders Turner about the reasons.",
+                    "itunes:title": "States that voted for Trump saw some of the biggest surges in ACA signups",
+                    "link": "https://www.kuow.org/stories/states-that-voted-for-trump-saw-some-of-the-biggest-surges-in-aca-signups",
+                    "pubDate": "Sun, 12 Jan 2025 05:46:50 -0800",
+                    "title": "States that voted for Trump saw some of the biggest surges in ACA signups"
+                },
+                {
+                    "author": "Barbara Sprunt",
+                    "description": "Members of Congress are facing an increasing amount of swatting, where police are forced to respond to threatening calls or emails \u2014 which often turn out to be a hoax.",
+                    "enclosure": {
+                        "@length": "4482000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250112_wesun_swatting_threats_against_congress_are_becoming_increasingly_common_and_costly.mp3?size=3988211&d=249224&e=nx-s1-5226974"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106769",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Barbara Sprunt",
+                    "itunes:duration": "00:04:09",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Swatting threats against Congress are becoming increasingly common \u2014 and costly",
+                    "itunes:summary": "Members of Congress are facing an increasing amount of swatting, where police are forced to respond to threatening calls or emails \u2014 which often turn out to be a hoax.",
+                    "itunes:title": "Swatting threats against Congress are becoming increasingly common \u2014 and costly",
+                    "link": "https://www.kuow.org/stories/swatting-threats-against-congress-are-becoming-increasingly-common-and-costly",
+                    "pubDate": "Sun, 12 Jan 2025 05:46:46 -0800",
+                    "title": "Swatting threats against Congress are becoming increasingly common \u2014 and costly"
+                },
+                {
+                    "author": "Buffy Gorrilla",
+                    "description": "A lot of yoga classes included music, but in Pennsylvania, yogis are moving to the performance of a live string quintet and music composed just for yoga practice.",
+                    "enclosure": {
+                        "@length": "4230000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250112_wesun_some_california_yoga_classes_are_moving_to_include_live_string_quartets.mp3?size=3765857&d=235319&e=nx-s1-5251467"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106770",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Buffy Gorrilla",
+                    "itunes:duration": "00:03:55",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Some California yoga classes are moving to include live string quartets",
+                    "itunes:summary": "A lot of yoga classes included music, but in Pennsylvania, yogis are moving to the performance of a live string quintet and music composed just for yoga practice.",
+                    "itunes:title": "Some California yoga classes are moving to include live string quartets",
+                    "link": "https://www.kuow.org/stories/some-california-yoga-classes-are-moving-to-include-live-string-quartets",
+                    "pubDate": "Sun, 12 Jan 2025 05:46:36 -0800",
+                    "title": "Some California yoga classes are moving to include live string quartets"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "NPR's Ayesha Rascoe talks with Grady Hendrix about his latest horror novel, \"Witchcraft for Wayward Girls,\" in which the witches are not the worst evil-doers, the humans are.",
+                    "enclosure": {
+                        "@length": "9396000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250112_wesun_grady_hendrix_on_her_horror_novel_witchcraft_for_wayward_girls.mp3?size=8361318&d=522548&e=nx-s1-5116574"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106773",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:08:42",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Grady Hendrix on her horror novel 'Witchcraft for Wayward Girls'",
+                    "itunes:summary": "NPR's Ayesha Rascoe talks with Grady Hendrix about his latest horror novel, \"Witchcraft for Wayward Girls,\" in which the witches are not the worst evil-doers, the humans are.",
+                    "itunes:title": "Grady Hendrix on her horror novel 'Witchcraft for Wayward Girls'",
+                    "link": "https://www.kuow.org/stories/grady-hendrix-on-her-horror-novel-witchcraft-for-wayward-girls",
+                    "pubDate": "Sun, 12 Jan 2025 05:46:33 -0800",
+                    "title": "Grady Hendrix on her horror novel 'Witchcraft for Wayward Girls'"
+                },
+                {
+                    "author": "Hanna Palamarenko",
+                    "description": "Almost three years of war have changed how Ukrainian children play, and how they see the world.",
+                    "enclosure": {
+                        "@length": "5544000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250112_wesun_three_years_of_war_is_taking_a_toll_on_ukraine_s_children.mp3?size=4940322&d=308717&e=nx-s1-5240918"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106772",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Hanna Palamarenko",
+                    "itunes:duration": "00:05:08",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Three years of war is taking a toll on Ukraine's children",
+                    "itunes:summary": "Almost three years of war have changed how Ukrainian children play, and how they see the world.",
+                    "itunes:title": "Three years of war is taking a toll on Ukraine's children",
+                    "link": "https://www.kuow.org/stories/three-years-of-war-is-taking-a-toll-on-ukraine-s-children",
+                    "pubDate": "Sun, 12 Jan 2025 05:46:29 -0800",
+                    "title": "Three years of war is taking a toll on Ukraine's children"
+                },
+                {
+                    "author": "Will Shortz",
+                    "description": "NPR's Ayesha Rascoe plays the puzzle with Weekend Edition puzzle master Will Shortz and Chris House of Annandale, Virginia.",
+                    "enclosure": {
+                        "@length": "6786000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250112_wesun_sunday_puzzle_familiar_three-word_phrases.mp3?size=6044988&d=377779&e=nx-s1-5254172"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106765",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Will Shortz",
+                    "itunes:duration": "00:06:17",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/d6a89c655dc3f748e926971c26039a8a.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Sunday Puzzle: Familiar three-word phrases",
+                    "itunes:summary": "NPR's Ayesha Rascoe plays the puzzle with Weekend Edition puzzle master Will Shortz and Chris House of Annandale, Virginia.",
+                    "itunes:title": "Sunday Puzzle: Familiar three-word phrases",
+                    "link": "https://www.kuow.org/stories/sunday-puzzle-familiar-three-word-phrases",
+                    "pubDate": "Sun, 12 Jan 2025 05:00:08 -0800",
+                    "title": "Sunday Puzzle: Familiar three-word phrases"
+                },
+                {
+                    "author": [
+                        "Sarah Varney",
+                        "Ayesha Rascoe"
+                    ],
+                    "description": "In \"Brooke Shields is Not Allowed to Get Old,\" the actor writes about what a doctor did to her, as she calls them, \"lady parts\" without her consent. Health reporter Sarah Varney tells NPR's Ayesha Rasco that Shields is not alone in the violation of her body's autonomy.",
+                    "enclosure": {
+                        "@length": "5454000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250112_wesun_in_new_memoir_brooke_shields_opens_up_about_receiving_an_unconsensual_procedure.mp3?size=4862164&d=303846&e=nx-s1-5256393"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106764",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Sarah Varney",
+                        "Ayesha Rascoe"
+                    ],
+                    "itunes:duration": "00:05:03",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "In new memoir, Brooke Shields opens up about receiving an unconsensual procedure",
+                    "itunes:summary": "In \"Brooke Shields is Not Allowed to Get Old,\" the actor writes about what a doctor did to her, as she calls them, \"lady parts\" without her consent. Health reporter Sarah Varney tells NPR's Ayesha Rasco that Shields is not alone in the violation of her body's autonomy.",
+                    "itunes:title": "In new memoir, Brooke Shields opens up about receiving an unconsensual procedure",
+                    "link": "https://www.kuow.org/stories/in-new-memoir-brooke-shields-opens-up-about-receiving-an-unconsensual-procedure",
+                    "pubDate": "Sun, 12 Jan 2025 04:48:47 -0800",
+                    "title": "In new memoir, Brooke Shields opens up about receiving an unconsensual procedure"
+                },
+                {
+                    "author": [
+                        "Eric Whitney",
+                        "Greg Allen",
+                        "Ayesha Rascoe"
+                    ],
+                    "description": "Mandatory evacuations remain in place in some communities in the LA basin while firefighting continues. But in Altadena, an extended family ignored evacuation orders and took heroic measures to save their home.",
+                    "enclosure": {
+                        "@length": "6084000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250112_wesun_new_evacuations_ordered_in_la_fires_at_least_13_dead.mp3?size=5422647&d=338868&e=nx-s1-5256251"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106763",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Eric Whitney",
+                        "Greg Allen",
+                        "Ayesha Rascoe"
+                    ],
+                    "itunes:duration": "00:05:38",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "New evacuations ordered in LA fires, at least 13 dead",
+                    "itunes:summary": "Mandatory evacuations remain in place in some communities in the LA basin while firefighting continues. But in Altadena, an extended family ignored evacuation orders and took heroic measures to save their home.",
+                    "itunes:title": "New evacuations ordered in LA fires, at least 13 dead",
+                    "link": "https://www.kuow.org/stories/new-evacuations-ordered-in-la-fires-at-least-13-dead",
+                    "pubDate": "Sun, 12 Jan 2025 04:48:43 -0800",
+                    "title": "New evacuations ordered in LA fires, at least 13 dead"
+                },
+                {
+                    "author": [
+                        "Ayesha Rascoe",
+                        "Asma Khalid"
+                    ],
+                    "description": "We take a look at President Biden's last week not only in the White House, but also as a life-long public servant.",
+                    "enclosure": {
+                        "@length": "5634000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/01/20250112_wesun_politics_chat_looking_back_at_biden_s_career_as_he_enters_his_last_week_in_the_white_house.mp3?size=5022242&d=313841&e=nx-s1-5252719"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-106762",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Ayesha Rascoe",
+                        "Asma Khalid"
+                    ],
+                    "itunes:duration": "00:05:13",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Politics chat: Looking back at Biden's career as he enters his last week in the White House",
+                    "itunes:summary": "We take a look at President Biden's last week not only in the White House, but also as a life-long public servant.",
+                    "itunes:title": "Politics chat: Looking back at Biden's career as he enters his last week in the White House",
+                    "link": "https://www.kuow.org/stories/politics-chat-looking-back-at-biden-s-career-as-he-enters-his-last-week-in-the-white-house",
+                    "pubDate": "Sun, 12 Jan 2025 04:48:29 -0800",
+                    "title": "Politics chat: Looking back at Biden's career as he enters his last week in the White House"
+                },
                 {
                     "author": "Ayesha Rascoe",
                     "description": "NPR's Ayesha Rascoe speaks with Jason Pootoolal, president of Save the Giraffes, about using in vitro fertilization for wild giraffes to save the species from extinction.",
@@ -2463,330 +2807,6 @@
                     "link": "https://www.kuow.org/stories/matt-gaetz-s-road-to-attorney-general-may-not-be-completely-in-the-clear",
                     "pubDate": "Sun, 17 Nov 2024 05:13:59 -0800",
                     "title": "Matt Gaetz's road to Attorney General may not be completely in the clear"
-                },
-                {
-                    "author": [
-                        "Ayesha Rascoe",
-                        "Sarah Varney"
-                    ],
-                    "description": "Arguments began last week in a lawsuit challenging Idaho's abortion ban, one of the strictest in the country. We'll hear from some of the plaintiffs and the state attorney.",
-                    "enclosure": {
-                        "@length": "5724000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241117_wesun_idaho_s_abortion_ban_one_of_the_strictest_in_the_u.s._is_being_challenged_in_court.mp3?size=5100818&d=318757&e=nx-s1-5192608"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-104209",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Ayesha Rascoe",
-                        "Sarah Varney"
-                    ],
-                    "itunes:duration": "00:05:18",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Idaho's abortion ban, one of the strictest in the U.S., is being challenged in court",
-                    "itunes:summary": "Arguments began last week in a lawsuit challenging Idaho's abortion ban, one of the strictest in the country. We'll hear from some of the plaintiffs and the state attorney.",
-                    "itunes:title": "Idaho's abortion ban, one of the strictest in the U.S., is being challenged in court",
-                    "link": "https://www.kuow.org/stories/idaho-s-abortion-ban-one-of-the-strictest-in-the-u-s-is-being-challenged-in-court",
-                    "pubDate": "Sun, 17 Nov 2024 05:13:55 -0800",
-                    "title": "Idaho's abortion ban, one of the strictest in the U.S., is being challenged in court"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "What will President-elect Donald Trump's return to the White House mean for US - China relations? NPR's Ayesha Rascoe talks to Ryan Hass, a China expert at the Brookings Institution.",
-                    "enclosure": {
-                        "@length": "5994000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241117_wesun_trump_has_vowed_to_take_an_aggressive_approach_to_china._what_would_that_mean.mp3?size=5332368&d=333241&e=nx-s1-5191890"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-104211",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:05:33",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Trump has vowed to take an aggressive approach to China. What would that mean?",
-                    "itunes:summary": "What will President-elect Donald Trump's return to the White House mean for US - China relations? NPR's Ayesha Rascoe talks to Ryan Hass, a China expert at the Brookings Institution.",
-                    "itunes:title": "Trump has vowed to take an aggressive approach to China. What would that mean?",
-                    "link": "https://www.kuow.org/stories/trump-has-vowed-to-take-an-aggressive-approach-to-china-what-would-that-mean",
-                    "pubDate": "Sun, 17 Nov 2024 05:13:52 -0800",
-                    "title": "Trump has vowed to take an aggressive approach to China. What would that mean?"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "NPR's Ayesha Rascoe speaks with New York City Council Member Chi Oss\u00e9 about his FARE act, which shifts the responsibility for broker fees from the tenant to the landlord in many cases.",
-                    "enclosure": {
-                        "@length": "4986000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241117_wesun_a_new_law_in_new_york_does_away_with_broker_fees.mp3?size=4437935&d=277331&e=nx-s1-5191505"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-104212",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:04:37",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "A new law in New York will do away with broker fees",
-                    "itunes:summary": "NPR's Ayesha Rascoe speaks with New York City Council Member Chi Oss\u00e9 about his FARE act, which shifts the responsibility for broker fees from the tenant to the landlord in many cases.",
-                    "itunes:title": "A new law in New York will do away with broker fees",
-                    "link": "https://www.kuow.org/stories/a-new-law-in-new-york-will-do-away-with-broker-fees",
-                    "pubDate": "Sun, 17 Nov 2024 05:13:49 -0800",
-                    "title": "A new law in New York will do away with broker fees"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "NPR's Ayesha Rascoe asks the Urban-Brookings Tax Policy Center's Janet Holtzblatt about funding for the Internal Revenue Service.",
-                    "enclosure": {
-                        "@length": "5778000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241117_wesun_key_irs_funds_dry_out_in_2026._what_can_we_expect_for_its_future.mp3?size=5151391&d=321930&e=nx-s1-5191842"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-104205",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:05:21",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Key IRS funds dry out in 2026. What can we expect for its future?",
-                    "itunes:summary": "NPR's Ayesha Rascoe asks the Urban-Brookings Tax Policy Center's Janet Holtzblatt about funding for the Internal Revenue Service.",
-                    "itunes:title": "Key IRS funds dry out in 2026. What can we expect for its future?",
-                    "link": "https://www.kuow.org/stories/key-irs-funds-dry-out-in-2026-what-can-we-expect-for-its-future",
-                    "pubDate": "Sun, 17 Nov 2024 05:13:45 -0800",
-                    "title": "Key IRS funds dry out in 2026. What can we expect for its future?"
-                },
-                {
-                    "author": "Abu Bakr Bashir",
-                    "description": "A nurse is fostering a baby from Gaza whose family was killed and whose identity has been lost.",
-                    "enclosure": {
-                        "@length": "6174000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241117_wesun_in_gaza_a_nurse_takes_in_an_orphaned_baby_too_young_to_know_who_she_is.mp3?size=5494536&d=343363&e=nx-s1-5180021"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-104206",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Abu Bakr Bashir",
-                    "itunes:duration": "00:05:43",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "In Gaza, a nurse takes in an orphaned baby too young to know who she is",
-                    "itunes:summary": "A nurse is fostering a baby from Gaza whose family was killed and whose identity has been lost.",
-                    "itunes:title": "In Gaza, a nurse takes in an orphaned baby too young to know who she is",
-                    "link": "https://www.kuow.org/stories/in-gaza-a-nurse-takes-in-an-orphaned-baby-too-young-to-know-who-she-is",
-                    "pubDate": "Sun, 17 Nov 2024 05:13:42 -0800",
-                    "title": "In Gaza, a nurse takes in an orphaned baby too young to know who she is"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "What does it take to be the sexiest collard farmer in North Carolina? Lee Berry, the reigning champ and current competitor in the contest's 2nd year, explains.",
-                    "enclosure": {
-                        "@length": "2682000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241117_wesun_meet_north_carolina_s_sexiest_collard_farmer.mp3?size=2385756&d=149059&e=nx-s1-5189667"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-104308",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:02:29",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Meet North Carolina's sexiest collard farmer",
-                    "itunes:summary": "What does it take to be the sexiest collard farmer in North Carolina? Lee Berry, the reigning champ and current competitor in the contest's 2nd year, explains.",
-                    "itunes:title": "Meet North Carolina's sexiest collard farmer",
-                    "link": "https://www.kuow.org/stories/meet-north-carolina-s-sexiest-collard-farmer",
-                    "pubDate": "Sun, 17 Nov 2024 05:13:35 -0800",
-                    "title": "Meet North Carolina's sexiest collard farmer"
-                },
-                {
-                    "author": "Jackie Fortier",
-                    "description": "Hospitals have been forced to innovate with new ways of hydrating patients and giving them medications, after a key factory that produces IV fluid bags flooded during Hurricane Helene. (This story first aired on Morning Edition on Nov. 7, 2024.)",
-                    "enclosure": {
-                        "@length": "4176000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_encore_hospitals_iv_coping.mp3?size=3714448&d=232124&e=nx-s1-5179041-e1"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-103871",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Jackie Fortier",
-                    "itunes:duration": "00:03:52",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Hospitals face months of IV fluid shortages after Helene damages N.C. factory",
-                    "itunes:summary": "Hospitals have been forced to innovate with new ways of hydrating patients and giving them medications, after a key factory that produces IV fluid bags flooded during Hurricane Helene. (This story first aired on Morning Edition on Nov. 7, 2024.)",
-                    "itunes:title": "Hospitals face months of IV fluid shortages after Helene damages N.C. factory",
-                    "link": "https://www.kuow.org/stories/hospitals-face-months-of-iv-fluid-shortages-after-helene-damages-n-c-factory-746f",
-                    "pubDate": "Sun, 10 Nov 2024 05:34:20 -0800",
-                    "title": "Hospitals face months of IV fluid shortages after Helene damages N.C. factory"
-                },
-                {
-                    "author": [
-                        "Barbara Sprunt",
-                        "Ayesha Rascoe"
-                    ],
-                    "description": "Congress returns this week. Republicans are hopeful they will maintain their House majority in the next Congress. In the Senate, Republicans will choose the next majority leader.",
-                    "enclosure": {
-                        "@length": "3780000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_republicans_hope_for_a_house_majority_as_congress_returns_to_session.mp3?size=3367960&d=210445&e=nx-s1-5184120"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-103872",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Barbara Sprunt",
-                        "Ayesha Rascoe"
-                    ],
-                    "itunes:duration": "00:03:30",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Republicans hope for a House majority as Congress returns to session",
-                    "itunes:summary": "Congress returns this week. Republicans are hopeful they will maintain their House majority in the next Congress. In the Senate, Republicans will choose the next majority leader.",
-                    "itunes:title": "Republicans hope for a House majority as Congress returns to session",
-                    "link": "https://www.kuow.org/stories/republicans-hope-for-a-house-majority-as-congress-returns-to-session",
-                    "pubDate": "Sun, 10 Nov 2024 05:34:17 -0800",
-                    "title": "Republicans hope for a House majority as Congress returns to session"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "\"Candyman\" actor Tony Todd died Nov. 6. He was 69.",
-                    "enclosure": {
-                        "@length": "1890000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_remembering_candyman_actor_tony_todd.mp3?size=1686092&d=105342&e=nx-s1-5185218"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-103873",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:01:45",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Remembering 'Candyman' actor Tony Todd",
-                    "itunes:summary": "\"Candyman\" actor Tony Todd died Nov. 6. He was 69.",
-                    "itunes:title": "Remembering 'Candyman' actor Tony Todd",
-                    "link": "https://www.kuow.org/stories/remembering-candyman-actor-tony-todd",
-                    "pubDate": "Sun, 10 Nov 2024 05:34:14 -0800",
-                    "title": "Remembering 'Candyman' actor Tony Todd"
-                },
-                {
-                    "author": "David Schaper",
-                    "description": "Chicago may soon become the largest city in the northern hemisphere without an intercity bus terminal as Greyhound's downtown station is threatened.",
-                    "enclosure": {
-                        "@length": "3708000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_chicago_may_become_the_latest_city_to_lose_greyhound_bus_services.mp3?size=3309863&d=206836&e=nx-s1-5165532"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-103875",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "David Schaper",
-                    "itunes:duration": "00:03:26",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Chicago may become the latest city to lose Greyhound bus services",
-                    "itunes:summary": "Chicago may soon become the largest city in the northern hemisphere without an intercity bus terminal as Greyhound's downtown station is threatened.",
-                    "itunes:title": "Chicago may become the latest city to lose Greyhound bus services",
-                    "link": "https://www.kuow.org/stories/chicago-may-become-the-latest-city-to-lose-greyhound-bus-services",
-                    "pubDate": "Sun, 10 Nov 2024 05:34:07 -0800",
-                    "title": "Chicago may become the latest city to lose Greyhound bus services"
-                },
-                {
-                    "author": "Kat Lonsdorf",
-                    "description": "A hostage relative tells NPR that now-former Israeli defense minister Yoav Gallant said a deal could have been reached already",
-                    "enclosure": {
-                        "@length": "3906000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_former_israeli_defense_minister_blames_netanyahu_in_a_meeting_with_families_of_hostages.mp3?size=3488332&d=217981&e=nx-s1-5184473"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-103874",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Kat Lonsdorf",
-                    "itunes:duration": "00:03:37",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Former Israeli defense minister blames Netanyahu in a meeting with families of hostages",
-                    "itunes:summary": "A hostage relative tells NPR that now-former Israeli defense minister Yoav Gallant said a deal could have been reached already",
-                    "itunes:title": "Former Israeli defense minister blames Netanyahu in a meeting with families of hostages",
-                    "link": "https://www.kuow.org/stories/former-israeli-defense-minister-blames-netanyahu-in-a-meeting-with-families-of-hostages",
-                    "pubDate": "Sun, 10 Nov 2024 05:34:04 -0800",
-                    "title": "Former Israeli defense minister blames Netanyahu in a meeting with families of hostages"
-                },
-                {
-                    "author": "Lilly Knoepp",
-                    "description": "Tourists stayed away from western North Carolina this year after Helene swept through the area, and towns that depend on leaf lookers are bracing for big losses.",
-                    "enclosure": {
-                        "@length": "2538000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/11/20241110_wesun_hurricane_helene_caused_big_losses_for_north_carolina_s_fall_tourism_industry.mp3?size=2263711&d=141441&e=nx-s1-5184425"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-103878",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Lilly Knoepp",
-                    "itunes:duration": "00:02:21",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Hurricane Helene caused big losses for North Carolina's fall tourism industry",
-                    "itunes:summary": "Tourists stayed away from western North Carolina this year after Helene swept through the area, and towns that depend on leaf lookers are bracing for big losses.",
-                    "itunes:title": "Hurricane Helene caused big losses for North Carolina's fall tourism industry",
-                    "link": "https://www.kuow.org/stories/hurricane-helene-caused-big-losses-for-north-carolina-s-fall-tourism-industry",
-                    "pubDate": "Sun, 10 Nov 2024 05:34:00 -0800",
-                    "title": "Hurricane Helene caused big losses for North Carolina's fall tourism industry"
                 }
             ],
             "itunes:author": "NPR",
@@ -2803,7 +2823,7 @@
                 "itunes:name": "Weekend Edition Sunday"
             },
             "language": "en",
-            "lastBuildDate": "Sat, 11 Jan 2025 23:56:31 +0000",
+            "lastBuildDate": "Sun, 19 Jan 2025 00:13:17 +0000",
             "link": "https://www.kuow.org/podcasts/weekendedition-sunday",
             "podcast:locked": "no",
             "title": "Weekend Edition Sunday"

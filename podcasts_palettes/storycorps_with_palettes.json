@@ -7,7 +7,7 @@
         "channel": {
             "copyright": "Copyright 2016-2021 StoryCorps, Inc. - For Personal Use Only",
             "description": "Stories of the human heart. A candid, unscripted conversation between two people about what's really important in life: love, loss, family, friendship. When the world seems out of hand, tune in to <em>StoryCorps</em> and be reminded of the things that matter most.",
-            "generator": "NPR Feed Publish Service v1.17.11",
+            "generator": "NPR Feed Publish Service v1.17.18",
             "image": {
                 "link": "https://www.npr.org/podcasts/510200/storycorps",
                 "palette": [
@@ -22,6 +22,37 @@
                 "url": "https://media.npr.org/assets/img/2022/09/23/story-corps_tile_npr-network-01_sq-2590f9fef8285e162e8aa524e0fedd5462c64292.jpg?s=1400&c=66&f=jpg"
             },
             "item": [
+                {
+                    "content:encoded": "Anna Cherepnina fulfilled a long-held dream of serving in the military when she enlisted in the Army Reserves in 2009. But a string of personal tragedies brought her to the darkest moment of her life. At StoryCorps, she reflected on how an encounter with an insolent fox and a trip to the base of Mount Everest helped her see the light again.<br/><br/><em>Leave us a voicemail at 702-706-TALK, or email us at podcast@storycorps.org.</em><br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "description": "Anna Cherepnina fulfilled a long-held dream of serving in the military when she enlisted in the Army Reserves in 2009. But a string of personal tragedies brought her to the darkest moment of her life. At StoryCorps, she reflected on how an encounter with an insolent fox and a trip to the base of Mount Everest helped her see the light again.<br/><br/><em>Leave us a voicemail at 702-706-TALK, or email us at podcast@storycorps.org.</em><br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "enclosure": {
+                        "@length": "5311931",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510200/traffic.megaphone.fm/NPR5997886722.mp3?d=331&size=5311931&e=1263953528&t=podcast&p=510200"
+                    },
+                    "guid": {
+                        "#text": "5cb523b6-0e7e-4757-83e3-a33a8178056e",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:block": "no",
+                    "itunes:duration": "331",
+                    "itunes:episode": "1",
+                    "itunes:episodeType": "bonus",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://media.npr.org/assets/img/2025/01/13/cherepnina16x9_sq-b1fc95b9d3fca29576b4a265fb76d696feffdd59.jpg?s=3000&c=66&f=jpg"
+                    },
+                    "itunes:season": "15",
+                    "itunes:title": "EXTRA: 14,468 Feet",
+                    "link": "https://www.npr.org/2025/01/13/1263953528/storycorps-draft-01-14-2025",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://media.npr.org/assets/img/2025/01/13/cherepnina16x9_wide-9a6c622fdd24a8c1c56560c0b8be454c8bad9ab9.jpg?s=1280&c=66&f=jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Tue, 14 Jan 2025 08:00:00 +0000",
+                    "title": "EXTRA: 14,468 Feet"
+                },
                 {
                     "content:encoded": "Leah Bash is an avid runner, a dog mom, a wife \u2013 and there's a part of her family's history she can't stop thinking about. Both sides of her family were incarcerated alongside 125,000 other Japanese Americans during World War II. Her father and his six siblings spent more than three years behind barbed wire at isolated camps in Manzanar, California and Crystal City, Texas. After Leah learns about her father's struggles with panic attacks and is herself diagnosed with bipolar disorder, she starts to wonder: could those experiences at camp during World War II have far-reaching consequences a generation later? In this episode of <em>Inheriting</em> from LAist Studios and the NPR network, Leah has a candid conversation with her cousin Joya, for the very first time, about their family's mental health and the effects of the incarceration camp.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
                     "description": "Leah Bash is an avid runner, a dog mom, a wife \u2013 and there's a part of her family's history she can't stop thinking about. Both sides of her family were incarcerated alongside 125,000 other Japanese Americans during World War II. Her father and his six siblings spent more than three years behind barbed wire at isolated camps in Manzanar, California and Crystal City, Texas. After Leah learns about her father's struggles with panic attacks and is herself diagnosed with bipolar disorder, she starts to wonder: could those experiences at camp during World War II have far-reaching consequences a generation later? In this episode of <em>Inheriting</em> from LAist Studios and the NPR network, Leah has a candid conversation with her cousin Joya, for the very first time, about their family's mental health and the effects of the incarceration camp.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
@@ -47,7 +78,7 @@
                     "link": "https://www.npr.org/2024/12/16/1261672049/leah-japanese-american-incarceration-by-inheriting",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/12/12/inheriting-tile-art-final_wide-42934f6e865cda02c835188f744be96d7f819e6d.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2024/12/12/inheriting-tile-art-final_wide-42934f6e865cda02c835188f744be96d7f819e6d.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 17 Dec 2024 08:00:56 +0000",
@@ -78,7 +109,7 @@
                     "link": "https://www.npr.org/2024/11/25/1261672051/storycorps-draft-11-26-2024",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/11/22/voicemail_artwork_wide-dc351755491e8c158f628f12fc6435ef3c66d0e1.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2024/11/22/voicemail_artwork_wide-dc351755491e8c158f628f12fc6435ef3c66d0e1.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 26 Nov 2024 08:00:00 +0000",
@@ -109,7 +140,7 @@
                     "link": "https://www.npr.org/2024/11/11/1261672053/storycorps-draft-11-12-2024",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/11/07/bartonfull_wide-de2c76a70f1be12623812e4e5dd5d443bea6b6bf.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/11/07/bartonfull_wide-de2c76a70f1be12623812e4e5dd5d443bea6b6bf.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 12 Nov 2024 08:00:00 +0000",
@@ -140,7 +171,7 @@
                     "link": "https://www.npr.org/2026/01/01/1261217874/zz-storycorps-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/11/04/podcast_s14e05_16x9_wide-d698ee1043e4cdf1ad2f424a83be4b776161f228.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2024/11/04/podcast_s14e05_16x9_wide-d698ee1043e4cdf1ad2f424a83be4b776161f228.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 05 Nov 2024 08:00:00 +0000",
@@ -171,7 +202,7 @@
                     "link": "https://www.npr.org/2026/01/01/1261217872/zz-storycorps-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/10/28/podcast_s14e04_16x9_wide-86cadde15fd4786548b7adc8b2e4d4368b032b23.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2024/10/28/podcast_s14e04_16x9_wide-86cadde15fd4786548b7adc8b2e4d4368b032b23.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 29 Oct 2024 07:00:00 +0000",
@@ -202,7 +233,7 @@
                     "link": "https://www.npr.org/2026/01/01/1259269571/story-corps-love-thy-neighbor",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/10/21/podcast_s14e03_16x9_wide-a94c340f8bdf66d3d43ddf34617c7beb564aae6d.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2024/10/21/podcast_s14e03_16x9_wide-a94c340f8bdf66d3d43ddf34617c7beb564aae6d.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 22 Oct 2024 12:44:08 +0000",
@@ -233,7 +264,7 @@
                     "link": "https://www.npr.org/2026/01/01/1218593261/the-world-peace-game",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/10/14/podcast_s14e02_16x91_wide-2f80acf36b4fbf0dcd80b6df792b771ac02f3adf.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2024/10/14/podcast_s14e02_16x91_wide-2f80acf36b4fbf0dcd80b6df792b771ac02f3adf.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 15 Oct 2024 07:00:29 +0000",
@@ -264,7 +295,7 @@
                     "link": "https://www.npr.org/2026/01/01/1218593263/zz-storycorps-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/10/07/podcast_s14e01_16x9_wide-4a56b6ff1ba65f55d25c70f9ed1af0728cc82a40.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2024/10/07/podcast_s14e01_16x9_wide-4a56b6ff1ba65f55d25c70f9ed1af0728cc82a40.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 08 Oct 2024 07:00:00 +0000",
@@ -295,7 +326,7 @@
                     "link": "https://www.npr.org/2026/01/01/1218593259/zz-storycorps-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/09/23/gordito_wide-ca0da7eb45e4b3705e05bcf098b793b79b919761.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2024/09/23/gordito_wide-ca0da7eb45e4b3705e05bcf098b793b79b919761.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 24 Sep 2024 07:00:00 +0000",
@@ -326,7 +357,7 @@
                     "link": "https://www.npr.org/2026/01/01/1218593257/zz-storycorps-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/09/05/alvarez16x9_wide-c1708c5138af38ed3d33b7c0790b4093d193ec10.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/09/05/alvarez16x9_wide-c1708c5138af38ed3d33b7c0790b4093d193ec10.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 10 Sep 2024 07:00:00 +0000",
@@ -357,7 +388,7 @@
                     "link": "https://www.npr.org/2026/01/01/1218593227/zz-storycorps-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/08/26/s13_e5art_16x9_wide-a87192b2d48c291520242b1b02198883cdee486a.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2024/08/26/s13_e5art_16x9_wide-a87192b2d48c291520242b1b02198883cdee486a.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 27 Aug 2024 07:00:00 +0000",
@@ -388,7 +419,7 @@
                     "link": "https://www.npr.org/2026/01/01/1218593221/zz-storycorps-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/08/19/s13_e4art_16x9_wide-45217132fe53d68945bc727ffb787beefdf528ff.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2024/08/19/s13_e4art_16x9_wide-45217132fe53d68945bc727ffb787beefdf528ff.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 20 Aug 2024 07:00:00 +0000",
@@ -419,7 +450,7 @@
                     "link": "https://www.npr.org/2026/01/01/1218593219/zz-storycorps-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/08/12/s13_e3art_16x9_wide-5de11b4c424b3a93ec92e64b86e329f7ec1263e5.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2024/08/12/s13_e3art_16x9_wide-5de11b4c424b3a93ec92e64b86e329f7ec1263e5.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 13 Aug 2024 07:00:00 +0000",
@@ -450,7 +481,7 @@
                     "link": "https://www.npr.org/2026/01/01/1218593217/zz-storycorps-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/08/05/s13_e2art_16x9_wide-ce673bc0a46c3468e04bd28b406d4661f073be38.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2024/08/05/s13_e2art_16x9_wide-ce673bc0a46c3468e04bd28b406d4661f073be38.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 06 Aug 2024 07:00:00 +0000",
@@ -481,7 +512,7 @@
                     "link": "https://www.npr.org/2026/01/01/1218593215/zz-storycorps-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/07/29/s13_e1art_16x9_wide-733f1c906d13d2dc0cdc250e6b010f47a0048d3d.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2024/07/29/s13_e1art_16x9_wide-733f1c906d13d2dc0cdc250e6b010f47a0048d3d.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 30 Jul 2024 07:00:00 +0000",
@@ -511,7 +542,7 @@
                     "link": "https://www.npr.org/2026/01/01/1218593212/zz-storycorps-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/07/22/unmarked-graveyard-stories-from-hart-island-artwork_wide-2c043493d980cee94a6a6e8b213c5e24333c6bda.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2024/07/22/unmarked-graveyard-stories-from-hart-island-artwork_wide-2c043493d980cee94a6a6e8b213c5e24333c6bda.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 23 Jul 2024 07:00:00 +0000",
@@ -542,7 +573,7 @@
                     "link": "https://www.npr.org/2026/01/01/1218593209/zz-storycorps-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/07/03/bennett16x9_wide-ae6d2f9a620b65c6398e5a2cebc7bd60dc083e5d.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/07/03/bennett16x9_wide-ae6d2f9a620b65c6398e5a2cebc7bd60dc083e5d.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Sat, 06 Jul 2024 07:00:00 +0000",
@@ -573,7 +604,7 @@
                     "link": "https://www.npr.org/2026/01/01/1218593180/zz-storycorps-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/06/03/podcasts12_seasonart_16x9_wide-2f8b30c095e709d2ff3cc11556c4d5f1a8ffcd43.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2024/06/03/podcasts12_seasonart_16x9_wide-2f8b30c095e709d2ff3cc11556c4d5f1a8ffcd43.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 04 Jun 2024 07:00:00 +0000",
@@ -604,7 +635,7 @@
                     "link": "https://www.npr.org/2026/01/01/1218593178/zz-storycorps-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/05/20/podcasts12_seasonart_16x9_wide-534d448fb28f218a1f23d1bdc2639e83e618e1a5.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2024/05/20/podcasts12_seasonart_16x9_wide-534d448fb28f218a1f23d1bdc2639e83e618e1a5.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 21 May 2024 07:00:00 +0000",
@@ -635,7 +666,7 @@
                     "link": "https://www.npr.org/2026/01/01/1218593083/zz-storycorps-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/05/13/podcasts12_seasonart_16x9_wide-bd15f1d89faa12878faf198e630bf0b742d8ad2d.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2024/05/13/podcasts12_seasonart_16x9_wide-bd15f1d89faa12878faf198e630bf0b742d8ad2d.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 14 May 2024 07:00:00 +0000",
@@ -666,7 +697,7 @@
                     "link": "https://www.npr.org/2026/01/01/1218593080/zz-storycorps-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/05/06/podcasts12_seasonart_16x9_wide-8cd2803d4b5437c7961bdd417e0ba47ada0aefd8.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2024/05/06/podcasts12_seasonart_16x9_wide-8cd2803d4b5437c7961bdd417e0ba47ada0aefd8.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 07 May 2024 07:00:00 +0000",
@@ -697,7 +728,7 @@
                     "link": "https://www.npr.org/2026/01/01/1218593078/zz-storycorps-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/04/29/podcasts12_seasonart_16x9_wide-c919cb227a92a6801b440b1cc8f3d5c7410e73cc.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2024/04/29/podcasts12_seasonart_16x9_wide-c919cb227a92a6801b440b1cc8f3d5c7410e73cc.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 30 Apr 2024 07:00:00 +0000",
@@ -728,7 +759,7 @@
                     "link": "https://www.npr.org/2026/01/01/1218593076/my-way",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/04/22/podcasts12_seasonart_16x9_wide-f13d8acd123fd4f6f991b0dc93c230f4b0ecd874.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2024/04/22/podcasts12_seasonart_16x9_wide-f13d8acd123fd4f6f991b0dc93c230f4b0ecd874.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 23 Apr 2024 07:00:00 +0000",
@@ -758,7 +789,7 @@
                     "link": "https://www.npr.org/2026/01/01/1218593074/zz-storycorps-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/04/01/francisextra1_wide-cadcedc4a7c0d449dd44a048dd638355091510df.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/04/01/francisextra1_wide-cadcedc4a7c0d449dd44a048dd638355091510df.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 09 Apr 2024 07:00:00 +0000",
@@ -788,7 +819,7 @@
                     "link": "https://www.npr.org/2026/01/01/1218593069/zz-storycorps-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2024/03/27/abathnpr1_wide-4d3103a64b39c64736054883bc2fc6206f45c5af.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2024/03/27/abathnpr1_wide-4d3103a64b39c64736054883bc2fc6206f45c5af.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 28 Mar 2024 07:00:00 +0000",
@@ -819,7 +850,7 @@
                     "link": "https://www.npr.org/2026/01/01/1218593072/zz-storycorps-bonusdraft",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/12/19/podcast_20thanni_e08_square_wide-817a354bfa2c61ec66b605cdd311cc20b8661d42.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2023/12/19/podcast_20thanni_e08_square_wide-817a354bfa2c61ec66b605cdd311cc20b8661d42.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 19 Dec 2023 08:00:00 +0000",
@@ -849,7 +880,7 @@
                     "link": "https://www.npr.org/2023/12/12/1199534033/story-corps-draft-12-12-2023",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/12/11/cruitt-16x9_wide-4af2fe856799251d338d47b42e14b8d55b53105a.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/12/11/cruitt-16x9_wide-4af2fe856799251d338d47b42e14b8d55b53105a.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 12 Dec 2023 08:00:59 +0000",
@@ -880,7 +911,7 @@
                     "link": "https://www.npr.org/2023/12/05/1199534031/story-corps-draft-12-05-2023",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/12/04/podcast_20thanni_e07_16x9_wide-42bfc745a80022aec32f428d53a64850fb069106.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2023/12/04/podcast_20thanni_e07_16x9_wide-42bfc745a80022aec32f428d53a64850fb069106.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 05 Dec 2023 08:00:59 +0000",
@@ -911,7 +942,7 @@
                     "link": "https://www.npr.org/2023/11/28/1199533950/story-corps-draft-11-28-2023",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/11/27/podcast_20thanni_e06_16x9_wide-109d9a09c1b487d3d0418af1356286f7e977a6a9.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2023/11/27/podcast_20thanni_e06_16x9_wide-109d9a09c1b487d3d0418af1356286f7e977a6a9.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 28 Nov 2023 08:00:59 +0000",
@@ -942,7 +973,7 @@
                     "link": "https://www.npr.org/2023/11/21/1199533182/story-corps-draft-11-21-2023",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/11/20/podcast_20thanni_e05_16x9_wide-0764e570f75fb5bc1a042fab26ded125a6224047.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2023/11/20/podcast_20thanni_e05_16x9_wide-0764e570f75fb5bc1a042fab26ded125a6224047.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 21 Nov 2023 08:00:59 +0000",
@@ -973,7 +1004,7 @@
                     "link": "https://www.npr.org/2023/11/14/1199533178/story-corps-draft-11-14-2023",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/11/13/podcast_20thanni_e04_16x9_wide-4addc78f2a4bc68af333da3432e59da4ccb69693.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2023/11/13/podcast_20thanni_e04_16x9_wide-4addc78f2a4bc68af333da3432e59da4ccb69693.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 14 Nov 2023 08:00:59 +0000",
@@ -1004,7 +1035,7 @@
                     "link": "https://www.npr.org/2023/11/07/1199533176/story-corps-draft-11-07-2023",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/11/06/podcast_20thanni_e03_16x9_wide-bfca74fd3ed8708d29019700b0d1614a6bd63b8c.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2023/11/06/podcast_20thanni_e03_16x9_wide-bfca74fd3ed8708d29019700b0d1614a6bd63b8c.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 07 Nov 2023 08:00:59 +0000",
@@ -1035,7 +1066,7 @@
                     "link": "https://www.npr.org/2023/10/31/1199533174/story-corps-draft-10-31-2023",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/10/30/podcast_20thanni_e02_16x9_wide-07329c8caa1449303ee0d5c6c181c0d4235ee4f6.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2023/10/30/podcast_20thanni_e02_16x9_wide-07329c8caa1449303ee0d5c6c181c0d4235ee4f6.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 31 Oct 2023 07:00:59 +0000",
@@ -1066,7 +1097,7 @@
                     "link": "https://www.npr.org/2023/10/24/1199533172/story-corps-draft-10-24-2023",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/10/23/podcast_20thanni_e01_16x9_wide-7e2309d8a98a9f85cb52e8571ee224315b166b59.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2023/10/23/podcast_20thanni_e01_16x9_wide-7e2309d8a98a9f85cb52e8571ee224315b166b59.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 24 Oct 2023 07:00:11 +0000",
@@ -1097,7 +1128,7 @@
                     "link": "https://www.npr.org/2023/09/26/1199532017/story-corps-draft-09-26-2023",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/09/25/subiono16x9_wide-26989dd385f7efa33a64ebe6a9854d902b1005a0.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/09/25/subiono16x9_wide-26989dd385f7efa33a64ebe6a9854d902b1005a0.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 26 Sep 2023 07:01:15 +0000",
@@ -1128,7 +1159,7 @@
                     "link": "https://www.npr.org/2023/09/19/1199531964/story-corps-draft-09-19-2023",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/09/18/cliburn16x9_wide-fc0dfda7c4930dde0aa8e6cb3a784b066d84e35e.png?s=1280&c=66&f=png",
+                        "@url": "https://media.npr.org/assets/img/2023/09/18/cliburn16x9_wide-fc0dfda7c4930dde0aa8e6cb3a784b066d84e35e.png?s=1280&c=66&f=png",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 19 Sep 2023 04:05:53 +0000",
@@ -1159,7 +1190,7 @@
                     "link": "https://www.npr.org/2023/07/31/1191165617/living-for-the-dead",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/07/31/draft-6-10-1-_wide-12a0d0f0a649f0d30e60a75f7979bbc061005bdb.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/07/31/draft-6-10-1-_wide-12a0d0f0a649f0d30e60a75f7979bbc061005bdb.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 01 Aug 2023 04:00:32 +0000",
@@ -1190,7 +1221,7 @@
                     "link": "https://www.npr.org/2023/07/24/1189894046/same-train-different-tracks",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/07/24/-final-storycorps-stigmas-ll-10-_wide-717003557509984e90753421aa20215f113edad8.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/07/24/-final-storycorps-stigmas-ll-10-_wide-717003557509984e90753421aa20215f113edad8.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 25 Jul 2023 04:00:33 +0000",
@@ -1221,7 +1252,7 @@
                     "link": "https://www.npr.org/2023/07/17/1188197856/to-speak-up",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/07/17/e6_16x9_wide-55f061055fbb710e369d0f70533c229ae4ed1fe8.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/07/17/e6_16x9_wide-55f061055fbb710e369d0f70533c229ae4ed1fe8.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 18 Jul 2023 04:00:07 +0000",
@@ -1252,7 +1283,7 @@
                     "link": "https://www.npr.org/2023/07/10/1186888818/the-long-way-home",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/07/10/final-storycorps-stigmas-ll-4-_wide-7a1aa2489024b98db94bb4376bed134fa069c9ae.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/07/10/final-storycorps-stigmas-ll-4-_wide-7a1aa2489024b98db94bb4376bed134fa069c9ae.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 11 Jul 2023 04:00:44 +0000",
@@ -1283,7 +1314,7 @@
                     "link": "https://www.npr.org/2023/07/03/1185826589/seeing-the-way",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/07/03/e4_16x9_wide-210fe5bbfdd4751fb6dde3d0094c43e8d4bad42c.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/07/03/e4_16x9_wide-210fe5bbfdd4751fb6dde3d0094c43e8d4bad42c.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 04 Jul 2023 04:00:10 +0000",
@@ -1314,7 +1345,7 @@
                     "link": "https://www.npr.org/2023/06/26/1184359578/thank-god-for-coney-island",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/06/26/e3_16x9_wide-e4f7f2c1c37a881f2a47429c9c88e5a43d8665df.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/06/26/e3_16x9_wide-e4f7f2c1c37a881f2a47429c9c88e5a43d8665df.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 27 Jun 2023 04:00:37 +0000",
@@ -1345,7 +1376,7 @@
                     "link": "https://www.npr.org/2023/06/14/1182275721/a-lasting-shot",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/06/14/e2_16x9_wide-8babd4afc86a9a6f2ce6cb0549dc4ab62f3618ee.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/06/14/e2_16x9_wide-8babd4afc86a9a6f2ce6cb0549dc4ab62f3618ee.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 20 Jun 2023 04:00:12 +0000",
@@ -1376,7 +1407,7 @@
                     "link": "https://www.npr.org/2023/06/09/1181452665/in-safe-hands",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/06/12/lazowski-16x9-1-_wide-9eb17422f12ae544c09dd68eac4cba1e984f2c58.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/06/12/lazowski-16x9-1-_wide-9eb17422f12ae544c09dd68eac4cba1e984f2c58.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 13 Jun 2023 04:00:33 +0000",
@@ -1406,7 +1437,7 @@
                     "link": "https://www.npr.org/2023/06/07/1180884394/turning-points",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/06/07/season-10-artwork-final_wide-eb2789eb5ae65c0413683b031ccde33511a4f5e1.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/06/07/season-10-artwork-final_wide-eb2789eb5ae65c0413683b031ccde33511a4f5e1.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Thu, 08 Jun 2023 04:00:29 +0000",
@@ -1436,7 +1467,7 @@
                     "link": "https://www.npr.org/2023/05/26/1178404923/extra-living-life-for-them",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/05/26/screen-shot-2023-05-26-at-3-4-_wide-d65ffd32268ed7b36fe4d2513e70cd60c7facd4d.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/05/26/screen-shot-2023-05-26-at-3-4-_wide-d65ffd32268ed7b36fe4d2513e70cd60c7facd4d.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Mon, 29 May 2023 04:00:26 +0000",
@@ -1466,7 +1497,7 @@
                     "link": "https://www.npr.org/2023/05/11/1175679611/extra-grandmas-hands",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2023/05/11/owuso16x9_wide-7bce21a557e299bce1e7f9322bb391ab8c0b388f.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2023/05/11/owuso16x9_wide-7bce21a557e299bce1e7f9322bb391ab8c0b388f.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Sun, 14 May 2023 06:00:19 +0000",
@@ -1497,7 +1528,7 @@
                     "link": "https://www.npr.org/2022/12/16/1143681276/extra-the-santa-tracker",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2022/12/16/episode-812_wide-0e067a70f6532d4a15b653b3de541db9868a06d0.jpeg?s=1280&c=66&f=jpeg",
+                        "@url": "https://media.npr.org/assets/img/2022/12/16/episode-812_wide-0e067a70f6532d4a15b653b3de541db9868a06d0.jpeg?s=1280&c=66&f=jpeg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 20 Dec 2022 05:00:13 +0000",
@@ -1528,41 +1559,11 @@
                     "link": "https://www.npr.org/2022/12/12/1142355875/the-voice-for-my-song",
                     "media:thumbnail": {
                         "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2022/12/12/e8-square_wide-2609b7a3429d92a1c571a344435e01ed8369b18b.jpg?s=1280&c=66&f=jpg",
+                        "@url": "https://media.npr.org/assets/img/2022/12/12/e8-square_wide-2609b7a3429d92a1c571a344435e01ed8369b18b.jpg?s=1280&c=66&f=jpg",
                         "@width": "1280"
                     },
                     "pubDate": "Tue, 13 Dec 2022 05:00:39 +0000",
                     "title": "The Voice For My Song"
-                },
-                {
-                    "content:encoded": "In the early 90s, teenagers LeAlan Jones and Lloyd Newman recorded a week of their lives on Chicago's South Side. Working with StoryCorps founder Dave Isay, LeAlan and Lloyd produced a documentary they called Ghetto Life 101, one of the most acclaimed programs in public radio history. In remembrance of Lloyd, who died this week, we bring you a special presentation of Ghetto Life 101.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
-                    "description": "In the early 90s, teenagers LeAlan Jones and Lloyd Newman recorded a week of their lives on Chicago's South Side. Working with StoryCorps founder Dave Isay, LeAlan and Lloyd produced a documentary they called Ghetto Life 101, one of the most acclaimed programs in public radio history. In remembrance of Lloyd, who died this week, we bring you a special presentation of Ghetto Life 101.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
-                    "enclosure": {
-                        "@length": "32166601",
-                        "@type": "audio/mpeg",
-                        "@url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510200/traffic.megaphone.fm/NPR5179808001.mp3?d=2010&size=32166601&e=1141714373&t=podcast&p=510200"
-                    },
-                    "guid": {
-                        "#text": "1fc0dcb1-251a-4d25-a29b-5d0372e2595f",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:block": "no",
-                    "itunes:duration": "2010",
-                    "itunes:episodeType": "bonus",
-                    "itunes:explicit": "no",
-                    "itunes:image": {
-                        "@href": "https://media.npr.org/assets/img/2022/12/08/ghetto-life-101_sq-cfe266b3ee90ccbdc8f811d7fb5cfcde8ab86d97.png?s=3000&c=66&f=png"
-                    },
-                    "itunes:season": "9",
-                    "itunes:title": "SPECIAL: Remembering Lloyd Newman of Ghetto Life 101",
-                    "link": "https://www.npr.org/2022/12/08/1141714373/special-remembering-lloyd-newman-of-ghetto-life-101",
-                    "media:thumbnail": {
-                        "@height": "720",
-                        "@href": "https://media.npr.org/assets/img/2022/12/08/ghetto-life-101_wide-12ef2f4455725eb3e0f3094c9a89673f00710580.png?s=1280&c=66&f=png",
-                        "@width": "1280"
-                    },
-                    "pubDate": "Fri, 09 Dec 2022 05:08:58 +0000",
-                    "title": "SPECIAL: Remembering Lloyd Newman of Ghetto Life 101"
                 }
             ],
             "itunes:author": "NPR",
@@ -1579,7 +1580,7 @@
             },
             "itunes:type": "episodic",
             "language": "en",
-            "lastBuildDate": "Tue, 17 Dec 2024 08:02:36 +0000",
+            "lastBuildDate": "Tue, 14 Jan 2025 08:01:38 +0000",
             "link": "https://www.npr.org/podcasts/510200/storycorps",
             "media:restriction": {
                 "#text": "es fi fr gb nl no se us dk at ch be au nz ca de it ie lu li ad mc pl pt is mx ee lv lt my gr ar hu cz mt bg sk cy br cl co uy sv py hn pa ni pe ec do gt cr bo id jp th ro il za",

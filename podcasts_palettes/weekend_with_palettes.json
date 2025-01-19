@@ -3,7 +3,7 @@
         "@version": "2.0",
         "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
         "channel": {
-            "copyright": "\u00a9 2024 Guardian News & Media Limited or its affiliated companies. All rights reserved. ",
+            "copyright": "\u00a9 2025 Guardian News & Media Limited or its affiliated companies. All rights reserved. ",
             "description": "Every Saturday, the Weekend podcast brings some of the best Guardian writing from the week, read by talented narrators. Listen to celebrity interviews, lifestyle features, and opinions from our most popular columnists including Marina Hyde and John Crace. Weekend is the perfect way to relax.",
             "image": {
                 "link": "https://www.theguardian.com/lifeandstyle/series/weekend",
@@ -19,6 +19,27 @@
                 "url": "https://uploads.guim.co.uk/2022/02/02/Weekend-3000x3000-01.png"
             },
             "item": [
+                {
+                    "description": "Move fast, break things, sprint to kiss Trump\u2019s ring: Marina Hyde on the tech bro inauguration derby. \u2018I get hate from both sides \u2013 vegans and carnivores\u2019: James Collier on UPFs, emotional eating and why he created Huel. And \u201cMy partner blames a \u2018lack of attraction\u2019 for not wanting sex\u201d: Philippa Perry advises one reader",
+                    "enclosure": {
+                        "@length": "33994201",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2025/01/17-67784-gdn.weekend.250118.RP.Huel.mp3"
+                    },
+                    "guid": {
+                        "#text": "6788d0c08f08ce4b9f2db665",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:33:39",
+                    "itunes:explicit": "yes",
+                    "itunes:keywords": "Life and style, Health, Fitness, Nutrition, Mental health, Donald Trump, Village People, Elon Musk, Mark Zuckerberg, Jeff Bezos, Relationships, Sex",
+                    "itunes:subtitle": "Move fast, break things, sprint to kiss Trump\u2019s ring: Marina Hyde on the tech bro inauguration derby. \u2018I get hate from both sides \u2013 vegans and carnivores\u2019: James Collier on UPFs, emotional eating and why he created Huel. And \u201cMy partner blames a \u2018lack of attraction\u2019 for not wanting sex\u201d: Philippa Perry advises one reader",
+                    "itunes:summary": "Move fast, break things, sprint to kiss Trump\u2019s ring: Marina Hyde on the tech bro inauguration derby. \u2018I get hate from both sides \u2013 vegans and carnivores\u2019: James Collier on UPFs, emotional eating and why he created Huel. And \u201cMy partner blames a \u2018lack of attraction\u2019 for not wanting sex\u201d: Philippa Perry advises one reader",
+                    "itunes:title": "Huel creator James Collier on bodybuilding and bullies; Marina Hyde on fawning Trump tech bros; and Philippa Perry\u2019s advice on a dwindling sex life \u2013 Podcast",
+                    "pubDate": "Sat, 18 Jan 2025 05:00:16 GMT",
+                    "title": "Huel creator James Collier on bodybuilding and bullies; Marina Hyde on fawning Trump tech bros; and Philippa Perry\u2019s advice on a dwindling sex life \u2013 Podcast"
+                },
                 {
                     "description": "Caroline Darian, daughter of Dominique and Gis\u00e8le Pelicot, tells of the \u2018crushing double burden\u2019 of being the child of both victim and perpetrator. Plus Philippa Perry invites one reader to see what happens when you prioritise someone who offers you stability and decency",
                     "enclosure": {
@@ -3517,7 +3538,7 @@
             },
             "itunes:summary": "Every Saturday, the Weekend podcast brings some of the best Guardian writing from the week, read by talented narrators. Listen to celebrity interviews, lifestyle features, and opinions from our most popular columnists including Marina Hyde and John Crace. Weekend is the perfect way to relax.",
             "language": "en-gb",
-            "lastBuildDate": "\n              Sun, 12 Jan 2025 00:36:17 GMT\n            ",
+            "lastBuildDate": "\n              Sun, 19 Jan 2025 00:37:11 GMT\n            ",
             "link": "https://www.theguardian.com/lifeandstyle/series/weekend",
             "title": "Weekend",
             "ttl": "15"
