@@ -34,6 +34,63 @@
                         "Arts",
                         "Books"
                     ],
+                    "content:encoded": "<p><span style=\"font-weight: 400;\">Arlen Escarpeta (Found, The Oath) headlines a tale from southern Africa about stolen spuds and hare-brained schemes.</span></p>",
+                    "dc:creator": {
+                        "#text": "WBUR",
+                        "@xmlns:dc": "http://purl.org/dc/elements/1.1/"
+                    },
+                    "description": "<p><span style=\"font-weight: 400;\">Arlen Escarpeta (Found, The Oath) headlines a tale from southern Africa about stolen spuds and hare-brained schemes.</span></p>",
+                    "enclosure": {
+                        "@length": "21699001",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR9770805496.mp3"
+                    },
+                    "guid": {
+                        "#text": "dac3c3d6-49af-40ff-aa7a-cd7027bc30b9",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": " WBUR ",
+                    "itunes:duration": "00:22:36",
+                    "itunes:episode": "30",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://wordpress.wbur.org/wp-content/uploads/2025/01/HotPotatosSQ.jpg"
+                    },
+                    "itunes:season": "8",
+                    "itunes:subtitle": "Arlen Escarpeta (Found, The Oath) headlines a tale from southern Africa about stolen spuds and hare-brained schemes.",
+                    "itunes:summary": "<span style=\"font-weight: 400;\">Arlen Escarpeta (Found, The Oath) headlines a tale from southern Africa about stolen spuds and hare-brained schemes.</span>",
+                    "itunes:title": " Hot Potatoes ",
+                    "link": "https://www.wbur.org/circleround/2025/01/21/hot-potatoes",
+                    "media:content": [
+                        {
+                            "@height": "3000",
+                            "@medium": "image",
+                            "@type": "image/jpeg",
+                            "@url": "https://wordpress.wbur.org/wp-content/uploads/2025/01/HotPotatosSQ.jpg",
+                            "@width": "3000",
+                            "media:description": "(Sabina Hahn for WBUR)",
+                            "media:thumbnail": {
+                                "@height": "200",
+                                "@url": "https://wordpress.wbur.org/wp-content/uploads/2025/01/HotPotatosSQ-200x200.jpg",
+                                "@width": "200"
+                            }
+                        },
+                        {
+                            "@fileSize": "21699001",
+                            "@medium": "audio",
+                            "@type": "audio/mpeg",
+                            "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR9770805496.mp3"
+                        }
+                    ],
+                    "pubDate": "Tue, 21 Jan 2025 15:35:46 -0500",
+                    "title": "Hot Potatoes"
+                },
+                {
+                    "category": [
+                        "Arts",
+                        "Books"
+                    ],
                     "content:encoded": "<p><span style=\"font-weight: 400;\">John Patrick Amedori (Three Women, Dear White People) headlines an internationally-inspired story about fixing soles and saving souls.</span></p>",
                     "dc:creator": {
                         "#text": "WBUR",
@@ -21331,7 +21388,7 @@
             "itunes:summary": "Created and produced by parents of young children, WBUR's Circle Round adapts carefully-selected folktales from around the world into sound- and music-rich radio plays for kids ages 3-103. Each 15 to 25-minute episode explores important issues like kindness, persistence and generosity. And each episode ends with an activity that inspires a deeper conversation between children and grown-ups.",
             "itunes:type": "serial",
             "language": "en-us",
-            "lastBuildDate": "Sat, 18 Jan 2025 19:30:19 -0500",
+            "lastBuildDate": "Sat, 25 Jan 2025 19:30:06 -0500",
             "link": "https://www.wbur.org/podcasts/circleround",
             "title": "Circle Round"
         }

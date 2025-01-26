@@ -7,7 +7,7 @@
         "channel": {
             "copyright": "Copyright 2012-2021 NPR and Ted Conferences, LLC - For Personal Use Only",
             "description": "Exploring the biggest questions of our time with the help of the world's greatest thinkers. Host Manoush Zomorodi inspires us to learn more about the world, our communities, and most importantly, ourselves.<br><br><em>Get more brainy miscellany with TED Radio Hour+. Your subscription supports the show and unlocks a sponsor-free feed. Learn more at plus.npr.org/ted</em>",
-            "generator": "NPR Feed Publish Service v1.17.18",
+            "generator": "NPR Feed Publish Service v1.18.0",
             "image": {
                 "link": "https://www.npr.org/podcasts/510298/ted-radio-hour",
                 "palette": [
@@ -22,6 +22,35 @@
                 "url": "https://media.npr.org/assets/img/2022/09/23/ted-radio-hour_tile_npr-network-01_sq-75eeb1db55c439c11197a2eb1ca921fe3b1943cc.jpg?s=1400&c=66&f=jpg"
             },
             "item": [
+                {
+                    "content:encoded": "From creating \"synthetic\" memories to reviving ruined monuments, tech no longer simply stores the past\u2014it can enhance it. This hour, we explore new ways to capture, share and even recreate our past. Guests include technologist Pau Aleikum Garcia, cartoonist Amy Kurzweil and digital archaeologist Chance Coughenour. <br/><br/>TED Radio Hour+ subscribers now get access to bonus episodes, with more ideas from TED speakers and a behind the scenes look with our producers. A Plus subscription also lets you listen to regular episodes (like this one!) without sponsors. Sign-up at: plus.npr.org/ted<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "description": "From creating \"synthetic\" memories to reviving ruined monuments, tech no longer simply stores the past\u2014it can enhance it. This hour, we explore new ways to capture, share and even recreate our past. Guests include technologist Pau Aleikum Garcia, cartoonist Amy Kurzweil and digital archaeologist Chance Coughenour. <br/><br/>TED Radio Hour+ subscribers now get access to bonus episodes, with more ideas from TED speakers and a behind the scenes look with our producers. A Plus subscription also lets you listen to regular episodes (like this one!) without sponsors. Sign-up at: plus.npr.org/ted<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "enclosure": {
+                        "@length": "47668707",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510298/traffic.megaphone.fm/NPR3115470631.mp3?d=2979&size=47668707&e=1226561694&t=podcast&p=510298"
+                    },
+                    "guid": {
+                        "#text": "fb49502f-1e28-4c60-ba18-46ffc292e7d8",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:block": "no",
+                    "itunes:duration": "2979",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://media.npr.org/assets/img/2025/01/23/trh_future_of_memory_artwork-2000x2000_sq-b0a85279cf75540e63494f662cb906332a7eebc9.jpg?s=3000&c=66&f=jpg"
+                    },
+                    "itunes:title": "The future of our memories",
+                    "link": "https://www.npr.org/2025/01/24/1226561694/ted-radio-hour-future-of-memory-technology",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://media.npr.org/assets/img/2025/01/23/trh_future_of_memory_artwork_wide-58c1b7ee9a4b1cf6b1bc25fffca15784fda536d3.jpg?s=1280&c=66&f=jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Fri, 24 Jan 2025 08:00:04 +0000",
+                    "title": "The future of our memories"
+                },
                 {
                     "content:encoded": "We're entering a new era of brain monitoring and enhancement, but what are the ethical implications? This hour, TED speakers explore the potential and pitfalls of merging our minds with machines. Guests include legal scholar and AI ethicist Nita Farahany, neurotechnologist and entrepreneur Conor Russomanno, neuroscientist and physician Sergiu Pa\u0219ca and sous chef Kate Faulkner. <br/><br/>Original broadcast date: January 26, 2024.<br/><br/>TED Radio Hour+ subscribers now get access to bonus episodes, with more ideas from TED speakers and a behind the scenes look with our producers. A Plus subscription also lets you listen to regular episodes (like this one!) without sponsors. Sign-up at plus.npr.org/ted.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
                     "description": "We're entering a new era of brain monitoring and enhancement, but what are the ethical implications? This hour, TED speakers explore the potential and pitfalls of merging our minds with machines. Guests include legal scholar and AI ethicist Nita Farahany, neurotechnologist and entrepreneur Conor Russomanno, neuroscientist and physician Sergiu Pa\u0219ca and sous chef Kate Faulkner. <br/><br/>Original broadcast date: January 26, 2024.<br/><br/>TED Radio Hour+ subscribers now get access to bonus episodes, with more ideas from TED speakers and a behind the scenes look with our producers. A Plus subscription also lets you listen to regular episodes (like this one!) without sponsors. Sign-up at plus.npr.org/ted.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
@@ -8674,34 +8703,6 @@
                     },
                     "pubDate": "Fri, 18 Oct 2019 04:01:00 +0000",
                     "title": "Rethinking Anger"
-                },
-                {
-                    "content:encoded": "Many of us either cope with mental illness or know someone who does. But we still have a hard time talking about it. This hour, TED speakers explore ways to push past \u2014 and even erase \u2014 the stigma. Guests include musician and comedian Jordan Raskopoulos, neuroscientist and psychiatrist Thomas Insel, psychiatrist Dixon Chibanda, anxiety and depression researcher Olivia Remes, and entrepreneur Sangu Delle.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
-                    "description": "Many of us either cope with mental illness or know someone who does. But we still have a hard time talking about it. This hour, TED speakers explore ways to push past \u2014 and even erase \u2014 the stigma. Guests include musician and comedian Jordan Raskopoulos, neuroscientist and psychiatrist Thomas Insel, psychiatrist Dixon Chibanda, anxiety and depression researcher Olivia Remes, and entrepreneur Sangu Delle.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
-                    "enclosure": {
-                        "@length": "49965648",
-                        "@type": "audio/mpeg",
-                        "@url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510298/traffic.megaphone.fm/NPR9864044159.mp3?d=2958&size=49965648&e=768700733&t=podcast&p=510298"
-                    },
-                    "guid": {
-                        "#text": "22a22aa4-3bc6-4f1e-bd35-07f0e76f08dc",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:block": "no",
-                    "itunes:duration": "2958",
-                    "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
-                    "itunes:image": {
-                        "@href": "https://media.npr.org/assets/img/2019/10/10/trh_erasing_the_stigma_artwork1_sq-c09cbbedc6e751dedc62e14eac4f56b13ae9ec29.jpg?s=3000&c=66&f=jpg"
-                    },
-                    "itunes:title": "Erasing The Stigma",
-                    "media:thumbnail": {
-                        "@height": "720",
-                        "@url": "https://media.npr.org/assets/img/2019/10/10/trh_erasing_the_stigma_artwork1_wide-74bc8d788897866603db7218f088db5b960a2735.jpg?s=1280&c=66&f=jpg",
-                        "@width": "1280"
-                    },
-                    "pubDate": "Fri, 11 Oct 2019 04:01:00 +0000",
-                    "title": "Erasing The Stigma"
                 }
             ],
             "itunes:author": "NPR",
@@ -8729,7 +8730,7 @@
             },
             "itunes:type": "episodic",
             "language": "en",
-            "lastBuildDate": "Fri, 17 Jan 2025 08:02:43 +0000",
+            "lastBuildDate": "Fri, 24 Jan 2025 08:01:47 +0000",
             "link": "https://www.npr.org/podcasts/510298/ted-radio-hour",
             "media:restriction": {
                 "#text": "es fi fr gb nl no se us dk at ch be au nz ca de it ie lu li ad mc pl pt is mx ee lv lt my gr ar hu cz mt bg sk cy br cl co uy sv py hn pa ni pe ec do gt cr bo id jp th ro il za",
