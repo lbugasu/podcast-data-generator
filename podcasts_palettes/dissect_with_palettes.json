@@ -18,17 +18,40 @@
             "image": {
                 "link": "http://dissectpodcast.com",
                 "palette": [
-                    "040404",
-                    "D5D5D5",
-                    "565656",
-                    "7C7C7C",
-                    "747474",
-                    "3C3C3C"
+                    "7F3F22",
+                    "EBECCF",
+                    "AD8F67",
+                    "CAAE81",
+                    "CCA27A",
+                    "837464"
                 ],
                 "title": "Dissect",
-                "url": "https://megaphone.imgix.net/podcasts/8515bb4e-78e7-11ea-ad4d-738f44e139ea/image/ce1236f12c1a9d0e1356deb6f3c67b4c.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+                "url": "https://megaphone.imgix.net/podcasts/8515bb4e-78e7-11ea-ad4d-738f44e139ea/image/ad3062803beb45f24401007bd50d79c0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
             },
             "item": [
+                {
+                    "content:encoded": "<p>Season 13 of Dissect begins Tuesday, February 4th. A VIDEO version of the podcast will be available on <a href=\"https://open.spotify.com/show/2b025hq3gJ17tQdxS3aV43?si=696b0aa467a7421a\">Spotify</a> and <a href=\"https://www.youtube.com/c/DissectPodcast\">YouTube.</a> However, Dissect remains an <strong>audio-first experience</strong>, and has not changed from its original format.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a></p>",
+                    "description": "Season 13 of Dissect begins Tuesday, February 4th. A VIDEO version of the podcast will be available on Spotify and YouTube. However, Dissect remains an audio-first experience, and has not changed from its original format.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+                    "enclosure": {
+                        "@length": "0",
+                        "@type": "audio/mpeg",
+                        "@url": "https://traffic.megaphone.fm/GLT6084159102.mp3?updated=1737833759"
+                    },
+                    "guid": {
+                        "#text": "a70f14e4-da9d-11ef-81c1-5bf95282011e",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Ringer",
+                    "itunes:duration": "87",
+                    "itunes:episodeType": "full",
+                    "itunes:image": {
+                        "@href": "https://megaphone.imgix.net/podcasts/a70f14e4-da9d-11ef-81c1-5bf95282011e/image/d5f1b2512ad20c6b406f2d12ed2ea671.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+                    },
+                    "itunes:subtitle": "",
+                    "itunes:summary": "Season 13 of Dissect begins Tuesday, February 4th. A VIDEO version of the podcast will be available on Spotify and YouTube. However, Dissect remains an audio-first experience, and has not changed from its original format.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+                    "pubDate": "Tue, 28 Jan 2025 10:30:00 -0000",
+                    "title": "Season 13 Album Reveal! Begins February 4th."
+                },
                 {
                     "content:encoded": "<p>Dissect's Cole Cuchna breaks down the title, themes, and sequencing of Mac Miller's <em>Balloonerism</em> - a surreal exploration of mortality, addiction, and purpose. Cole dissects each song, explores the psychedelic influences of The Beatles, and places special emphasis on the album's final song \"Tomorrow Will Never Know.\"</p><p><br></p><p>Dissect Season 13 will premiere February 4th. Follow @dissectpodcast for clues leading up to the album reveal.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a></p>",
                     "description": "Dissect's Cole Cuchna breaks down the title, themes, and sequencing of Mac Miller's Balloonerism - a surreal exploration of mortality, addiction, and purpose. Cole dissects each song, explores the psychedelic influences of The Beatles, and places special emphasis on the album's final song \"Tomorrow Will Never Know.\"\n\nDissect Season 13 will premiere February 4th. Follow @dissectpodcast for clues leading up to the album reveal.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -6939,7 +6962,7 @@
             ],
             "itunes:explicit": "yes",
             "itunes:image": {
-                "@href": "https://megaphone.imgix.net/podcasts/8515bb4e-78e7-11ea-ad4d-738f44e139ea/image/ce1236f12c1a9d0e1356deb6f3c67b4c.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+                "@href": "https://megaphone.imgix.net/podcasts/8515bb4e-78e7-11ea-ad4d-738f44e139ea/image/ad3062803beb45f24401007bd50d79c0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
             },
             "itunes:new-feed-url": "https://feeds.megaphone.fm/dissectwide",
             "itunes:owner": {

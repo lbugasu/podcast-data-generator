@@ -40,6 +40,33 @@
             "item": [
                 {
                     "author": "scott@hanselman.com (Scott Hanselman)",
+                    "description": "\n",
+                    "enclosure": {
+                        "@length": "27266375",
+                        "@type": "audio/mpeg",
+                        "@url": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/653cbbd5-b623-4dbd-870c-dd82b6fa604a/audio/d963df25-f51d-4f41-8030-0a6a004a1e27/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+                    },
+                    "guid": {
+                        "#text": "b15070e2-bb43-48ac-8c9e-ba7f6f59e8bd",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Scott Hanselman",
+                    "itunes:duration": "00:28:18",
+                    "itunes:episode": "982",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/e464c34b-2f32-411b-bdd2-dcf02e5301eb/2f85194d-be5c-4f3b-b286-f109dcb5804b/3000x3000/982.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "",
+                    "itunes:summary": "",
+                    "itunes:title": "Teaching the next-gen engineer with Dr Carlotta Berry",
+                    "link": "https://www.hanselminutes.com",
+                    "pubDate": "Thu, 30 Jan 2025 21:00:00 +0000",
+                    "title": "Teaching the next-gen engineer with Dr Carlotta Berry"
+                },
+                {
+                    "author": "scott@hanselman.com (Scott Hanselman)",
                     "content:encoded": "<p>Mark Downie has been blogging about technical topics for years, and also is the primary maintainer of the DasBlog-Core blogging engine. He talks with Scott about writing technical blogs that get read. Why does one blog and in this time of walled gardens, why is it more important than ever?\u00a0</p><ul><li>50% off code for Hanselminutes Listeners <strong>\"HMdunlop\" </strong>for \"Writing for Developers\" <a href=\"https://www.manning.com/books/writing-for-developers\">https://www.manning.com/books/writing-for-developers</a></li></ul>\n",
                     "description": "<p>Mark Downie has been blogging about technical topics for years, and also is the primary maintainer of the DasBlog-Core blogging engine. He talks with Scott about writing technical blogs that get read. Why does one blog and in this time of walled gardens, why is it more important than ever?\u00a0</p><ul><li>50% off code for Hanselminutes Listeners <strong>\"HMdunlop\" </strong>for \"Writing for Developers\" <a href=\"https://www.manning.com/books/writing-for-developers\">https://www.manning.com/books/writing-for-developers</a></li></ul>\n",
                     "enclosure": {
@@ -17423,34 +17450,6 @@
                 },
                 {
                     "author": "scott@hanselman.com (Scott Hanselman)",
-                    "content:encoded": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
-                    "description": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
-                    "enclosure": {
-                        "@length": "31814349",
-                        "@type": "audio/mpeg",
-                        "@url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/f239e3a2_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-                    },
-                    "guid": {
-                        "#text": "http://www.hanselminutes.com/default.aspx?ShowID=380",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Scott Hanselman",
-                    "itunes:duration": "00:33:07",
-                    "itunes:episode": "358",
-                    "itunes:episodeType": "full",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/3000x3000/1519423024artwork.jpg?aid=rss_feed"
-                    },
-                    "itunes:subtitle": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
-                    "itunes:summary": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
-                    "itunes:title": "Halo 4 - Services in Azure with Caitie McCaffrey",
-                    "link": "https://www.hanselminutes.com",
-                    "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
-                    "title": "Halo 4 - Services in Azure with Caitie McCaffrey"
-                },
-                {
-                    "author": "scott@hanselman.com (Scott Hanselman)",
                     "content:encoded": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
                     "description": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
                     "enclosure": {
@@ -17476,6 +17475,34 @@
                     "link": "https://www.hanselminutes.com",
                     "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
                     "title": "Git support within Visual Studio"
+                },
+                {
+                    "author": "scott@hanselman.com (Scott Hanselman)",
+                    "content:encoded": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
+                    "description": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
+                    "enclosure": {
+                        "@length": "31814349",
+                        "@type": "audio/mpeg",
+                        "@url": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/f239e3a2_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+                    },
+                    "guid": {
+                        "#text": "http://www.hanselminutes.com/default.aspx?ShowID=380",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Scott Hanselman",
+                    "itunes:duration": "00:33:07",
+                    "itunes:episode": "358",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://image.simplecastcdn.com/images/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/3000x3000/1519423024artwork.jpg?aid=rss_feed"
+                    },
+                    "itunes:subtitle": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
+                    "itunes:summary": "Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?\n\n",
+                    "itunes:title": "Halo 4 - Services in Azure with Caitie McCaffrey",
+                    "link": "https://www.hanselminutes.com",
+                    "pubDate": "Fri, 8 Feb 2013 04:00:00 +0000",
+                    "title": "Halo 4 - Services in Azure with Caitie McCaffrey"
                 },
                 {
                     "author": "scott@hanselman.com (Scott Hanselman)",
@@ -27418,9 +27445,9 @@
             "itunes:summary": "Hanselminutes is Fresh Air for Developers. A weekly commute-time podcast that promotes fresh technology and fresh voices. Talk and Tech for Developers, Life-long Learners, and Technologists.",
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Thu, 23 Jan 2025 21:00:13 +0000",
+            "lastBuildDate": "Fri, 31 Jan 2025 05:05:46 +0000",
             "link": "https://www.hanselminutes.com",
-            "pubDate": "Thu, 23 Jan 2025 21:00:00 +0000",
+            "pubDate": "Thu, 30 Jan 2025 21:00:00 +0000",
             "title": "Hanselminutes with Scott Hanselman"
         }
     }

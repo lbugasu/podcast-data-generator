@@ -34,6 +34,63 @@
                         "Arts",
                         "Books"
                     ],
+                    "content:encoded": "<p><span style=\"font-weight: 400;\">Tzi Ma (Five Blind Dates, Interior Chinatown) and Jimmy Wong (Mulan, Wish Dragon) co-star in an action-packed legend about the origin of the Chinese zodiac animals.</span></p>",
+                    "dc:creator": {
+                        "#text": "WBUR",
+                        "@xmlns:dc": "http://purl.org/dc/elements/1.1/"
+                    },
+                    "description": "<p><span style=\"font-weight: 400;\">Tzi Ma (Five Blind Dates, Interior Chinatown) and Jimmy Wong (Mulan, Wish Dragon) co-star in an action-packed legend about the origin of the Chinese zodiac animals.</span></p>",
+                    "enclosure": {
+                        "@length": "28816845",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR9594059579.mp3"
+                    },
+                    "guid": {
+                        "#text": "d44f71be-0977-4aa0-8d6a-cccc9b3581f4",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": " WBUR ",
+                    "itunes:duration": "00:30:01",
+                    "itunes:episode": "31",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://wordpress.wbur.org/wp-content/uploads/2025/01/ZodiacSQ.jpg"
+                    },
+                    "itunes:season": "8",
+                    "itunes:subtitle": "Tzi Ma (Five Blind Dates, Interior Chinatown) and Jimmy Wong (Mulan, Wish Dragon) co-star in an action-packed legend about the origin of the Chinese zodiac animals.",
+                    "itunes:summary": "<span style=\"font-weight: 400;\">Tzi Ma (Five Blind Dates, Interior Chinatown) and Jimmy Wong (Mulan, Wish Dragon) co-star in an action-packed legend about the origin of the Chinese zodiac animals.</span>",
+                    "itunes:title": " The Zodiac Twelve ",
+                    "link": "https://www.wbur.org/circleround/2025/01/28/zodiac-twelve",
+                    "media:content": [
+                        {
+                            "@height": "3000",
+                            "@medium": "image",
+                            "@type": "image/jpeg",
+                            "@url": "https://wordpress.wbur.org/wp-content/uploads/2025/01/ZodiacSQ.jpg",
+                            "@width": "3000",
+                            "media:description": "(Sabina Hahn for WBUR)",
+                            "media:thumbnail": {
+                                "@height": "200",
+                                "@url": "https://wordpress.wbur.org/wp-content/uploads/2025/01/ZodiacSQ-200x200.jpg",
+                                "@width": "200"
+                            }
+                        },
+                        {
+                            "@fileSize": "28816845",
+                            "@medium": "audio",
+                            "@type": "audio/mpeg",
+                            "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR9594059579.mp3"
+                        }
+                    ],
+                    "pubDate": "Tue, 28 Jan 2025 15:00:00 -0500",
+                    "title": "The Zodiac Twelve"
+                },
+                {
+                    "category": [
+                        "Arts",
+                        "Books"
+                    ],
                     "content:encoded": "<p><span style=\"font-weight: 400;\">Arlen Escarpeta (Found, The Oath) headlines a tale from southern Africa about stolen spuds and hare-brained schemes.</span></p>",
                     "dc:creator": {
                         "#text": "WBUR",
@@ -21388,7 +21445,7 @@
             "itunes:summary": "Created and produced by parents of young children, WBUR's Circle Round adapts carefully-selected folktales from around the world into sound- and music-rich radio plays for kids ages 3-103. Each 15 to 25-minute episode explores important issues like kindness, persistence and generosity. And each episode ends with an activity that inspires a deeper conversation between children and grown-ups.",
             "itunes:type": "serial",
             "language": "en-us",
-            "lastBuildDate": "Sat, 25 Jan 2025 19:30:06 -0500",
+            "lastBuildDate": "Fri, 31 Jan 2025 07:45:10 -0500",
             "link": "https://www.wbur.org/podcasts/circleround",
             "title": "Circle Round"
         }

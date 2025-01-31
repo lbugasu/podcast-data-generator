@@ -7,7 +7,7 @@
         "channel": {
             "copyright": "Copyright 2019-2021 NPR - For Personal Use Only",
             "description": "Taking care of yourself shouldn't be complicated. We talk to the experts for practical advice to live a long and healthy life, based on science. Updated every time Life Kit posts an episode on health and wellness.<br>Want another life hack? Try Life Kit+. Your subscription supports the show and unlocks an exclusive sponsor-free feed. Learn more at plus.npr.org/lifekit",
-            "generator": "NPR Feed Publish Service v1.17.18",
+            "generator": "NPR Feed Publish Service v1.19.0",
             "image": {
                 "link": "https://www.npr.org/podcasts-and-shows",
                 "palette": [
@@ -22,6 +22,34 @@
                 "url": "https://media.npr.org/assets/img/2024/09/23/life-kit_tile-art---health---d_sq-573d0d1c27bcdd0a32228293a0456a3226ec9aa5.jpg?s=1400&c=66&f=jpg"
             },
             "item": [
+                {
+                    "content:encoded": "It's normal to feel some pain or soreness after a workout. But how much is too much, and more importantly, how do you get relief? This episode, build out your post-workout recovery routine. A sports medicine doctor, nutritionist and professional athlete break down everything you can do from the moment your last workout finishes to right before your next one begins \u2013 to feel better in your body, minimize your injury risk and get the most out of that gym session.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "description": "It's normal to feel some pain or soreness after a workout. But how much is too much, and more importantly, how do you get relief? This episode, build out your post-workout recovery routine. A sports medicine doctor, nutritionist and professional athlete break down everything you can do from the moment your last workout finishes to right before your next one begins \u2013 to feel better in your body, minimize your injury risk and get the most out of that gym session.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "enclosure": {
+                        "@length": "22635042",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510340/traffic.megaphone.fm/NPR8720465001.mp3?d=1414&size=22635042&e=1263701571&t=podcast&p=510340"
+                    },
+                    "guid": {
+                        "#text": "849bec30-7012-409b-b287-ee271a46ecfa",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:block": "no",
+                    "itunes:duration": "1414",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://media.npr.org/assets/img/2025/01/29/template-1-example-23-_sq-3da82e9825d1faaa9e3239c1d9ee53675038c034.jpg?s=3000&c=66&f=jpg"
+                    },
+                    "itunes:title": "How to recover after a workout",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://media.npr.org/assets/img/2025/01/29/template-1-example-24-_wide-c26e4ab5a4f99794f6b88fc42abd4f080855fb2c.jpg?s=1280&c=66&f=jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Thu, 30 Jan 2025 08:00:00 +0000",
+                    "title": "How to recover after a workout"
+                },
                 {
                     "content:encoded": "Posture doesn't mean standing up straight or gliding across a room with a book on your head. This episode, a physical therapist and a biomechanist break down the meaning of healthy posture and how you can nurture it.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
                     "description": "Posture doesn't mean standing up straight or gliding across a room with a book on your head. This episode, a physical therapist and a biomechanist break down the meaning of healthy posture and how you can nurture it.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
@@ -5465,7 +5493,7 @@
             },
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Thu, 23 Jan 2025 01:23:59 +0000",
+            "lastBuildDate": "Thu, 30 Jan 2025 08:01:39 +0000",
             "link": "https://www.npr.org/podcasts-and-shows",
             "media:restriction": {
                 "#text": "es fi fr gb nl no se us dk at ch be au nz ca de it ie lu li ad mc pl pt is mx ee lv lt hk sg my tr gr ar tw hu cz mt bg sk cy br cl co uy sv py hn pa ni pe ec do gt cr bo ph id jp th vn ro il za in",

@@ -4,7 +4,7 @@
         "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
         "channel": {
             "copyright": "\u00a9 2025 Guardian News & Media Limited or its affiliated companies. All rights reserved. ",
-            "description": "Hosted by Michael Safi and Helen Pidd, Today in Focus brings you closer to Guardian journalism. Combining storytelling with insightful analysis and personal testimonies, the podcast takes you behind the headlines for a deeper understanding of the news, every weekday. And, in the run up to the US Election, Lucy Hough presents US Election Extra, a daily series of short updates, running alongside the regular Today in Focus podcast. Today in Focus is unmatched in both scope and depth, delivering analysis and storytelling from right across the planet. With a global network of over 900 journalists and five dedicated editions covering news in the US, UK, Australia, Europe, and beyond, the Guardian offers comprehensive reporting across every continent. Most recently we have introduced new correspondents in the Caribbean, South America and Africa.",
+            "description": "Hosted by Michael Safi and Helen Pidd, Today in Focus brings you closer to Guardian journalism. Combining storytelling with insightful analysis and personal testimonies, the podcast takes you behind the headlines for a deeper understanding of the news, every weekday. Today in Focus is unmatched in both scope and depth, delivering analysis and storytelling from right across the planet. With a global network of over 900 journalists and five dedicated editions covering news in the US, UK, Australia, Europe, and beyond, the Guardian offers comprehensive reporting across every continent. Most recently we have introduced new correspondents in the Caribbean, South America and Africa.",
             "image": {
                 "link": "https://www.theguardian.com/news/series/todayinfocus",
                 "palette": [
@@ -19,6 +19,132 @@
                 "url": "https://uploads.guim.co.uk/2022/02/10/TiF_FINAL_3000x3000.jpg"
             },
             "item": [
+                {
+                    "description": "Why is the US technology industry worried about Chinese company DeepSeek? Robert Booth reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "38681756",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2025/01/30-69666-20250131TIFdeepseek.mp3"
+                    },
+                    "guid": {
+                        "#text": "679b9c438f0807a2708d9dde",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:23:20",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "Artificial intelligence (AI), Technology, DeepSeek, ChatGPT, OpenAI",
+                    "itunes:subtitle": "Why is the US technology industry worried about Chinese company DeepSeek? Robert Booth reports",
+                    "itunes:summary": "Why is the US technology industry worried about Chinese company DeepSeek? Robert Booth reports. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "How DeepSeek stunned the AI industry",
+                    "pubDate": "Fri, 31 Jan 2025 03:00:43 GMT",
+                    "title": "How DeepSeek stunned the AI industry"
+                },
+                {
+                    "description": "What do Greenlanders make of Donald Trump\u2019s interest in their island? Miranda Bryant reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "37980429",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2025/01/29-73780-20250130TIFtrumpgreenland.mp3"
+                    },
+                    "guid": {
+                        "#text": "679a1f768f083fa6b3a7b349",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:30:50",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "Greenland, Trump administration, Donald Trump, US foreign policy, US news, Denmark, Arctic, Indigenous peoples, World news",
+                    "itunes:subtitle": "What do Greenlanders make of Donald Trump\u2019s interest in their island? Miranda Bryant reports",
+                    "itunes:summary": "What do Greenlanders make of Donald Trump\u2019s interest in their island? Miranda Bryant reports. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "A journey to Greenland: Trump\u2019s 51st state?",
+                    "pubDate": "Thu, 30 Jan 2025 03:00:23 GMT",
+                    "title": "A journey to Greenland: Trump\u2019s 51st state?"
+                },
+                {
+                    "description": "The chancellor is keen to strike a more business-friendly note, but will it come at a cost to the environment? Heather Stewart reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "37770605",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2025/01/28-66898-20250128TiFReevesA.mp3"
+                    },
+                    "guid": {
+                        "#text": "6798f6da8f083b697d04041f",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:22:43",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "Economic growth (GDP), Rachel Reeves, Politics",
+                    "itunes:subtitle": "The chancellor is keen to strike a more business-friendly note, but will it come at a cost to the environment? Heather Stewart reports",
+                    "itunes:summary": "The chancellor is keen to strike a more business-friendly note, but will it come at a cost to the environment? Heather Stewart reports. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "Rachel Reeves\u2019 plans for the UK: all growth, no green?",
+                    "pubDate": "Wed, 29 Jan 2025 03:00:33 GMT",
+                    "title": "Rachel Reeves\u2019 plans for the UK: all growth, no green?"
+                },
+                {
+                    "description": "Journalist Shane Harrison and campaigner Michael Gallagher chart the long legal struggle for a public inquiry into the 1998 atrocity, which begins by hearing from survivors and bereaved families. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "58072958",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2025/01/27-71950-20250128TIFomagh.mp3"
+                    },
+                    "guid": {
+                        "#text": "67977b138f08d9a272331ad8",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:36:48",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "Omagh bombing, Northern Ireland, Real IRA, Good Friday agreement, UK news, Politics, Law",
+                    "itunes:subtitle": "Journalist Shane Harrison and campaigner Michael Gallagher chart the long legal struggle for a public inquiry into the 1998 atrocity, which begins by hearing from survivors and bereaved families",
+                    "itunes:summary": "Journalist Shane Harrison and campaigner Michael Gallagher chart the long legal struggle for a public inquiry into the 1998 atrocity, which begins by hearing from survivors and bereaved families. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "The Omagh bombing inquiry: one father\u2019s 26-year fight for the truth",
+                    "pubDate": "Tue, 28 Jan 2025 03:00:03 GMT",
+                    "title": "The Omagh bombing inquiry: one father\u2019s 26-year fight for the truth"
+                },
+                {
+                    "description": "Revisited: Ivor Perl and Susan Pollack were 12 and 13 when they were transported to Auschwitz. On the 80th anniversary of the concentration camp\u2019s liberation, we revisit a podcast we published marking the 75th anniversary. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "58197409",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2025/01/27-54666-20250127TIFauschwitz.mp3"
+                    },
+                    "guid": {
+                        "#text": "67976de18f085ba4e4d8cb07",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:36:53",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "Holocaust, Second world war, Judaism, Poland, Nazism, Germany, Adolf Hitler",
+                    "itunes:subtitle": "Revisited: Ivor Perl and Susan Pollack were 12 and 13 when they were transported to Auschwitz. On the 80th anniversary of the concentration camp\u2019s liberation, we revisit a podcast we published marking the 75th anniversary",
+                    "itunes:summary": "Revisited: Ivor Perl and Susan Pollack were 12 and 13 when they were transported to Auschwitz. On the 80th anniversary of the concentration camp\u2019s liberation, we revisit a podcast we published marking the 75th anniversary. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "Revisited: Life after Auschwitz",
+                    "pubDate": "Mon, 27 Jan 2025 18:00:52 GMT",
+                    "title": "Revisited: Life after Auschwitz"
+                },
+                {
+                    "description": "Jenny Kleeman reports on a new therapy where patients who suffer from psychosis create a digital avatar of the voices they hear. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
+                    "enclosure": {
+                        "@length": "49874500",
+                        "@type": "audio/mpeg",
+                        "@url": "https://flex.acast.com/audio.guim.co.uk/2025/01/24-66003-20250127TIFavatar.mp3"
+                    },
+                    "guid": {
+                        "#text": "6793a12f8f08d4eb8c48fd77",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "The Guardian",
+                    "itunes:duration": "00:31:06",
+                    "itunes:explicit": "clean",
+                    "itunes:keywords": "Mental health, Health, Psychology",
+                    "itunes:subtitle": "Jenny Kleeman reports on a new therapy where patients who suffer from psychosis create a digital avatar of the voices they hear",
+                    "itunes:summary": "Jenny Kleeman reports on a new therapy where patients who suffer from psychosis create a digital avatar of the voices they hear. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
+                    "itunes:title": "Digital demons: the radical new treatment helping people with psychosis",
+                    "pubDate": "Mon, 27 Jan 2025 03:00:07 GMT",
+                    "title": "Digital demons: the radical new treatment helping people with psychosis"
+                },
                 {
                     "description": "The murders of three little girls in the seaside town led to horror \u2013 and then racist riots. Now the teenaged killer has been sentenced to 52 years. Josh Halliday reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
                     "enclosure": {
@@ -6181,132 +6307,6 @@
                     "itunes:title": "How a ceasefire vote led to two days of chaos in the Commons \u2013\u00a0podcast",
                     "pubDate": "Fri, 23 Feb 2024 03:00:35 GMT",
                     "title": "How a ceasefire vote led to two days of chaos in the Commons \u2013\u00a0podcast"
-                },
-                {
-                    "description": "Furious farmers across Europe have blocked roads and railways as part of protests against new regulations and cheap imports. Jon Henley reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "29805610",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/02/21-56668-20240222TIFfarmers.mp3"
-                    },
-                    "guid": {
-                        "#text": "65d5d67b8f084d7f1c62be25",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:20:50",
-                    "itunes:explicit": "clean",
-                    "itunes:keywords": "European Union, Farming, Environment, Europe",
-                    "itunes:subtitle": "Furious farmers across Europe have blocked roads and railways as part of protests against new regulations and cheap imports. Jon Henley reports",
-                    "itunes:summary": "Furious farmers across Europe have blocked roads and railways as part of protests against new regulations and cheap imports. Jon Henley reports. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "Is an uprising by Europe\u2019s farmers sowing the seeds for the far right?",
-                    "pubDate": "Thu, 22 Feb 2024 03:00:40 GMT",
-                    "title": "Is an uprising by Europe\u2019s farmers sowing the seeds for the far right?"
-                },
-                {
-                    "description": "Following a campaign by her family in memory of Martha Mills, the NHS is introducing Martha\u2019s rule giving hospital patients in England access to a rapid review from a separate medical team if they are concerned with the care they are receiving. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "49188017",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/02/20-64828-2024021TIFmarthasrule.mp3"
-                    },
-                    "guid": {
-                        "#text": "65d348a08f08dfb189f50264",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:36:59",
-                    "itunes:explicit": "clean",
-                    "itunes:keywords": "NHS, Health, Hospitals, Society, UK news, Doctors",
-                    "itunes:subtitle": "Following a campaign by her family in memory of Martha Mills, the NHS is introducing Martha\u2019s rule giving hospital patients in England access to a rapid review from a separate medical team if they are concerned with the care they are receiving",
-                    "itunes:summary": "Following a campaign by her family in memory of Martha Mills, the NHS is introducing Martha\u2019s rule giving hospital patients in England access to a rapid review from a separate medical team if they are concerned with the care they are receiving. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "Why the NHS needs Martha\u2019s rule",
-                    "pubDate": "Wed, 21 Feb 2024 03:00:03 GMT",
-                    "title": "Why the NHS needs Martha\u2019s rule"
-                },
-                {
-                    "description": "The opposition leader and anti-corruption campaigner was Putin\u2019s fiercest critic. What does his death in a Siberian prison tell us about Russia today? Andrew Roth reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "45962763",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/02/20-07575-TIFNavalnydeath.mp3"
-                    },
-                    "guid": {
-                        "#text": "65d368448f08364f5b7b8495",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:28:24",
-                    "itunes:explicit": "clean",
-                    "itunes:keywords": "Alexei Navalny, Russia, Vladimir Putin",
-                    "itunes:subtitle": "The opposition leader was Putin\u2019s fiercest critic. What does his death in prison tell us about Russia? Andrew Roth reports",
-                    "itunes:summary": "The opposition leader and anti-corruption campaigner was Putin\u2019s fiercest critic. What does his death in a Siberian prison tell us about Russia today? Andrew Roth reports. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "The shocking death and extraordinary life of Alexei Navalny",
-                    "pubDate": "Tue, 20 Feb 2024 03:00:35 GMT",
-                    "title": "The shocking death and extraordinary life of Alexei Navalny"
-                },
-                {
-                    "description": "In 2014, the Home Office revoked the visas of 35,000 students accused of cheating in an English language exam. The consequences for those wrongly accused was devastating. Amelia Gentleman reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "53913148",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/02/18-51759-20240219TIFtest1.mp3"
-                    },
-                    "guid": {
-                        "#text": "65cf5c288f08dfb189f4e51d",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:40:56",
-                    "itunes:explicit": "clean",
-                    "itunes:keywords": "English language testing scandal, Home Office, Theresa May, Immigration and asylum, Education, UK news",
-                    "itunes:subtitle": "In 2014, the Home Office revoked the visas of 35,000 students accused of cheating in an English language exam. The consequences for those wrongly accused was devastating. Amelia Gentleman reports",
-                    "itunes:summary": "In 2014, the Home Office revoked the visas of 35,000 students accused of cheating in an English language exam. The consequences for those wrongly accused was devastating. Amelia Gentleman reports. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "Deported and disgraced: the students wrongly accused of cheating",
-                    "pubDate": "Mon, 19 Feb 2024 03:00:00 GMT",
-                    "title": "Deported and disgraced: the students wrongly accused of cheating"
-                },
-                {
-                    "description": "Everyone agrees the state pension system needs reforming \u2013 so why is changing it so hard?. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "46116948",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/02/15-67148-20240216TIFpensions.mp3"
-                    },
-                    "guid": {
-                        "#text": "65ce3abc8f08b3287a2c2056",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:28:30",
-                    "itunes:explicit": "clean",
-                    "itunes:keywords": "Retirement age, Retirement planning, State pensions, Older people, Pensions",
-                    "itunes:subtitle": "Everyone agrees the state pension system needs reforming \u2013 so why is changing it so hard?",
-                    "itunes:summary": "Everyone agrees the state pension system needs reforming \u2013 so why is changing it so hard?. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "Why is it becoming so hard to retire in the UK?",
-                    "pubDate": "Fri, 16 Feb 2024 03:00:32 GMT",
-                    "title": "Why is it becoming so hard to retire in the UK?"
-                },
-                {
-                    "description": "What does the Israeli ground invasion threat mean for the million refugees sheltering in the city of Rafah? Ruth Michaelson reports. Help support our independent journalism at <a href=\"https://www.theguardian.com/infocus\">theguardian.com/infocus</a>",
-                    "enclosure": {
-                        "@length": "44371665",
-                        "@type": "audio/mpeg",
-                        "@url": "https://flex.acast.com/audio.guim.co.uk/2024/02/14-67162-20240215TIFrafah.mp3"
-                    },
-                    "guid": {
-                        "#text": "65cc99438f08475cae3d66dc",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "The Guardian",
-                    "itunes:duration": "00:27:17",
-                    "itunes:explicit": "clean",
-                    "itunes:keywords": "Israel-Gaza war, Palestinian territories, Gaza, World news",
-                    "itunes:subtitle": "What does the Israeli ground invasion threat mean for the million refugees sheltering in the city of Rafah? Ruth Michaelson reports",
-                    "itunes:summary": "What does the Israeli ground invasion threat mean for the million refugees sheltering in the city of Rafah? Ruth Michaelson reports. Help support our independent journalism at &lt;a href=&quot;https://www.theguardian.com/infocus&quot;&gt;theguardian.com/infocus&lt;/a&gt;",
-                    "itunes:title": "Israel\u2019s threat to Gaza\u2019s last refuge",
-                    "pubDate": "Thu, 15 Feb 2024 03:00:03 GMT",
-                    "title": "Israel\u2019s threat to Gaza\u2019s last refuge"
                 }
             ],
             "itunes:author": "The Guardian",
@@ -6325,9 +6325,9 @@
                 "itunes:email": "userhelp@theguardian.com",
                 "itunes:name": "The Guardian"
             },
-            "itunes:summary": "Hosted by Michael Safi and Helen Pidd, Today in Focus brings you closer to Guardian journalism. Combining storytelling with insightful analysis and personal testimonies, the podcast takes you behind the headlines for a deeper understanding of the news, every weekday. And, in the run up to the US Election, Lucy Hough presents US Election Extra, a daily series of short updates, running alongside the regular Today in Focus podcast. Today in Focus is unmatched in both scope and depth, delivering analysis and storytelling from right across the planet. With a global network of over 900 journalists and five dedicated editions covering news in the US, UK, Australia, Europe, and beyond, the Guardian offers comprehensive reporting across every continent. Most recently we have introduced new correspondents in the Caribbean, South America and Africa.",
+            "itunes:summary": "Hosted by Michael Safi and Helen Pidd, Today in Focus brings you closer to Guardian journalism. Combining storytelling with insightful analysis and personal testimonies, the podcast takes you behind the headlines for a deeper understanding of the news, every weekday. Today in Focus is unmatched in both scope and depth, delivering analysis and storytelling from right across the planet. With a global network of over 900 journalists and five dedicated editions covering news in the US, UK, Australia, Europe, and beyond, the Guardian offers comprehensive reporting across every continent. Most recently we have introduced new correspondents in the Caribbean, South America and Africa.",
             "language": "en-gb",
-            "lastBuildDate": "\n              Sun, 26 Jan 2025 00:37:23 GMT\n            ",
+            "lastBuildDate": "\n              Fri, 31 Jan 2025 12:54:54 GMT\n            ",
             "link": "https://www.theguardian.com/news/series/todayinfocus",
             "title": "Today in Focus",
             "ttl": "15"
