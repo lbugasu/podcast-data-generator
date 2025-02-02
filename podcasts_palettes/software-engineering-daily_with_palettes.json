@@ -6,7 +6,6 @@
         "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
         "@xmlns:geo": "http://www.w3.org/2003/01/geo/wgs84_pos#",
         "@xmlns:georss": "http://www.georss.org/georss",
-        "@xmlns:googleplay": "http://www.google.com/schemas/play-podcasts/1.0",
         "@xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
         "@xmlns:podcast": "https://podcastindex.org/namespace/1.0",
         "@xmlns:rawvoice": "https://blubrry.com/developer/rawvoice-rss/",
@@ -27,9 +26,6 @@
             ],
             "description": "Technical interviews about software topics.",
             "generator": "https://wordpress.org/?v=6.7.1",
-            "googleplay:category": {
-                "@text": "News & Politics"
-            },
             "image": {
                 "link": "https://softwareengineeringdaily.com",
                 "palette": [
