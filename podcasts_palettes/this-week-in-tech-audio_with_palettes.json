@@ -21,7 +21,7 @@
             "creativeCommons:license": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
             "description": "This Week in Tech is the top-ranked flagship tech podcast from TWiT.tv. Every Sunday, Leo Laporte and a roundtable of insiders explore the week's hottest tech news from AI to robots, and PCs to privacy. When it comes to tech, TWiT is IT.\n\nRecords live every Sunday at 5:15pm Eastern / 2:15pm Pacific / 22:15 UTC.",
             "docs": "http://blogs.law.harvard.edu/tech/rss",
-            "generator": "TWiT Feed Generator v4.7.1",
+            "generator": "TWiT Feed Generator v4.7.3",
             "googleplay:block": "No",
             "image": {
                 "link": "https://twit.tv/shows/this-week-in-tech",
@@ -37,6 +37,117 @@
                 "url": "https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/this_week_in_tech/album_art/audio/twit_2022albumart_standard_2048.jpg"
             },
             "item": [
+                {
+                    "category": [
+                        "News",
+                        "Tech News"
+                    ],
+                    "comments": "https://twit.tv/shows/this-week-in-tech/episodes/1017",
+                    "content:encoded": "\n<ul> \n<li>Takeaways From a Monumental Week for AI</li> \n<li>Sam Altman: OpenAI has been on the 'wrong side of history' concerning open source | TechCrunch</li> \n<li>DeepSeek's AI success is overshadowed by a serious security breac</li> \n<li>AI systems with 'unacceptable risk' are now banned in the EU | TechCrunch</li> \n<li>OpenAI partners with U.S. National Laboratories on scientific research, nuclear weapons security</li> \n<li>The NTSB chooses Elon Musk's X to update the press on plane crashes</li> \n<li>OpenAI launches o3-mini, its latest 'reasoning' model | TechCrunch</li> \n<li>Rabbit R1 and Pebble</li> \n<li>Apple's AI and AR Struggles Show It Has Lost Some of Its Product Edge</li> \n<li>Elon Musk's X begins its push into financial services with Visa deal</li> \n<li>Elon Musk's X sues Lego, Nestl\u00e9 and more brands, accusing them of advertising boycott</li> \n<li>Thousands of U.S. Government Web Pages Have Been Taken Down Since Friday</li> \n<li>Musk aides lock workers out of OPM computer systems</li> \n<li>Elon Musk seizes computer system, locks out senior government officials</li> \n<li>Google says it will change Gulf of Mexico to 'Gulf of America' in Maps app after government updates</li> \n<li>Comcast unveils ultra-low lag Internet connection</li> \n<li>23andMe might sell itself as it runs out of money</li> \n<li>Streaming prices climb in 2025 after already surpassing inflation rates</li> \n<li>Super Bowl Sundays are really noisy everywhere in the US </li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://twitter.com/SenatorShoshana\" target=\"_blank\">Shoshana Weissmann</a>, <a href=\"https://twitter.com/film_girl\" target=\"_blank\">Christina Warren</a>, and <a href=\"https://www.danpatterson.com/\" target=\"_blank\">Dan Patterson</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> \nSupport what you love and get ad-free shows, a members-only Discord, and behind-the-scenes access. Join today: <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://uscloud.com\" target=\"_blank\" rel=\"sponsored\">uscloud.com</a></li>\n<li><a href=\"http://canary.tools/twit\" target=\"_blank\" rel=\"sponsored\">canary.tools/twit - use code: TWIT</a></li>\n<li><a href=\"http://ZipRecruiter.com/Twit\" target=\"_blank\" rel=\"sponsored\">ZipRecruiter.com/Twit</a></li>\n<li><a href=\"http://joindeleteme.com/twit\" target=\"_blank\" rel=\"sponsored\">joindeleteme.com/twit promo code TWIT</a></li>\n<li><a href=\"http://zscaler.com/security\" target=\"_blank\" rel=\"sponsored\">zscaler.com/security</a></li>\n</ul></p>\n",
+                    "description": "\n<ul> \n<li>Takeaways From a Monumental Week for AI</li> \n<li>Sam Altman: OpenAI has been on the 'wrong side of history' concerning open source | TechCrunch</li> \n<li>DeepSeek's AI success is overshadowed by a serious security breac</li> \n<li>AI systems with 'unacceptable risk' are now banned in the EU | TechCrunch</li> \n<li>OpenAI partners with U.S. National Laboratories on scientific research, nuclear weapons security</li> \n<li>The NTSB chooses Elon Musk's X to update the press on plane crashes</li> \n<li>OpenAI launches o3-mini, its latest 'reasoning' model | TechCrunch</li> \n<li>Rabbit R1 and Pebble</li> \n<li>Apple's AI and AR Struggles Show It Has Lost Some of Its Product Edge</li> \n<li>Elon Musk's X begins its push into financial services with Visa deal</li> \n<li>Elon Musk's X sues Lego, Nestl\u00e9 and more brands, accusing them of advertising boycott</li> \n<li>Thousands of U.S. Government Web Pages Have Been Taken Down Since Friday</li> \n<li>Musk aides lock workers out of OPM computer systems</li> \n<li>Elon Musk seizes computer system, locks out senior government officials</li> \n<li>Google says it will change Gulf of Mexico to 'Gulf of America' in Maps app after government updates</li> \n<li>Comcast unveils ultra-low lag Internet connection</li> \n<li>23andMe might sell itself as it runs out of money</li> \n<li>Streaming prices climb in 2025 after already surpassing inflation rates</li> \n<li>Super Bowl Sundays are really noisy everywhere in the US </li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://twitter.com/SenatorShoshana\" target=\"_blank\">Shoshana Weissmann</a>, <a href=\"https://twitter.com/film_girl\" target=\"_blank\">Christina Warren</a>, and <a href=\"https://www.danpatterson.com/\" target=\"_blank\">Dan Patterson</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> \nSupport what you love and get ad-free shows, a members-only Discord, and behind-the-scenes access. Join today: <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://uscloud.com\" target=\"_blank\" rel=\"sponsored\">uscloud.com</a></li>\n<li><a href=\"http://canary.tools/twit\" target=\"_blank\" rel=\"sponsored\">canary.tools/twit - use code: TWIT</a></li>\n<li><a href=\"http://ZipRecruiter.com/Twit\" target=\"_blank\" rel=\"sponsored\">ZipRecruiter.com/Twit</a></li>\n<li><a href=\"http://joindeleteme.com/twit\" target=\"_blank\" rel=\"sponsored\">joindeleteme.com/twit promo code TWIT</a></li>\n<li><a href=\"http://zscaler.com/security\" target=\"_blank\" rel=\"sponsored\">zscaler.com/security</a></li>\n</ul></p>\n",
+                    "enclosure": {
+                        "@length": "188702366",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/libsyn/twit_1017/b26992aa-b1b1-4f90-a2b7-efc6a7d4b42a/R1_twit1017.mp3"
+                    },
+                    "guid": {
+                        "#text": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/audio/twit/twit1017/twit1017.mp3",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "TWiT",
+                    "itunes:duration": "3:16:25",
+                    "itunes:episode": "1017",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2025/02/855095/hero/TWIT1017_thumbnail.jpg"
+                    },
+                    "itunes:keywords": "Technology, TWiT, This Week in Tech, Leo Laporte, openAI, sam altnmanm, deepseek, NTSB, o3-mini, rabbit r1, pebble, apple elon musk, visa, nestle, lego, 23andme, Google, gulf of mexico, comcast, netflix, hulu, YouTube, youtubetv, super bowl",
+                    "itunes:subtitle": "Return of Pebble, O3-Mini, Apple AI",
+                    "itunes:summary": "\n<ul> \n<li>Takeaways From a Monumental Week for AI</li> \n<li>Sam Altman: OpenAI has been on the 'wrong side of history' concerning open source | TechCrunch</li> \n<li>DeepSeek's AI success is overshadowed by a serious security breac</li> \n<li>AI systems with 'unacceptable risk' are now banned in the EU | TechCrunch</li> \n<li>OpenAI partners with U.S. National Laboratories on scientific research, nuclear weapons security</li> \n<li>The NTSB chooses Elon Musk's X to update the press on plane crashes</li> \n<li>OpenAI launches o3-mini, its latest 'reasoning' model | TechCrunch</li> \n<li>Rabbit R1 and Pebble</li> \n<li>Apple's AI and AR Struggles Show It Has Lost Some of Its Product Edge</li> \n<li>Elon Musk's X begins its push into financial services with Visa deal</li> \n<li>Elon Musk's X sues Lego, Nestl\u00e9 and more brands, accusing them of advertising boycott</li> \n<li>Thousands of U.S. Government Web Pages Have Been Taken Down Since Friday</li> \n<li>Musk aides lock workers out of OPM computer systems</li> \n<li>Elon Musk seizes computer system, locks out senior government officials</li> \n<li>Google says it will change Gulf of Mexico to 'Gulf of America' in Maps app after government updates</li> \n<li>Comcast unveils ultra-low lag Internet connection</li> \n<li>23andMe might sell itself as it runs out of money</li> \n<li>Streaming prices climb in 2025 after already surpassing inflation rates</li> \n<li>Super Bowl Sundays are really noisy everywhere in the US </li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://twitter.com/SenatorShoshana\" target=\"_blank\">Shoshana Weissmann</a>, <a href=\"https://twitter.com/film_girl\" target=\"_blank\">Christina Warren</a>, and <a href=\"https://www.danpatterson.com/\" target=\"_blank\">Dan Patterson</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> \nSupport what you love and get ad-free shows, a members-only Discord, and behind-the-scenes access. Join today: <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://uscloud.com\" target=\"_blank\" rel=\"sponsored\">uscloud.com</a></li>\n<li><a href=\"http://canary.tools/twit\" target=\"_blank\" rel=\"sponsored\">canary.tools/twit - use code: TWIT</a></li>\n<li><a href=\"http://ZipRecruiter.com/Twit\" target=\"_blank\" rel=\"sponsored\">ZipRecruiter.com/Twit</a></li>\n<li><a href=\"http://joindeleteme.com/twit\" target=\"_blank\" rel=\"sponsored\">joindeleteme.com/twit promo code TWIT</a></li>\n<li><a href=\"http://zscaler.com/security\" target=\"_blank\" rel=\"sponsored\">zscaler.com/security</a></li>\n</ul></p>\n",
+                    "itunes:title": "Yellow-Bellied Marmots - Return of Pebble, O3-Mini, Apple AI",
+                    "link": "https://twit.tv/shows/this-week-in-tech/episodes/1017",
+                    "media:content": {
+                        "@fileSize": "188702366",
+                        "@medium": "audio",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/libsyn/twit_1017/b26992aa-b1b1-4f90-a2b7-efc6a7d4b42a/R1_twit1017.mp3",
+                        "media:category": {
+                            "#text": "IAB19",
+                            "@label": "Technology & Computing",
+                            "@scheme": "urn:iab:categories"
+                        },
+                        "media:credit": [
+                            {
+                                "#text": "Leo Laporte",
+                                "@role": "host"
+                            },
+                            {
+                                "#text": "Shoshana Weissmann",
+                                "@role": "guest"
+                            },
+                            {
+                                "#text": "Christina Warren",
+                                "@role": "guest"
+                            },
+                            {
+                                "#text": "Dan Patterson",
+                                "@role": "guest"
+                            }
+                        ],
+                        "media:description": {
+                            "#text": "Return of Pebble, O3-Mini, Apple AI",
+                            "@type": "plain"
+                        },
+                        "media:keywords": "Technology, TWiT, This Week in Tech, Leo Laporte, openAI, sam altnmanm, deepseek, NTSB, o3-mini, rabbit r1, pebble, apple elon musk, visa, nestle, lego, 23andme, Google, gulf of mexico, comcast, netflix, hulu, YouTube, youtubetv, super bowl",
+                        "media:rating": [
+                            {
+                                "#text": "nonadult",
+                                "@scheme": "urn:simple"
+                            },
+                            {
+                                "#text": "tv-g",
+                                "@scheme": "urn:v-chip"
+                            }
+                        ],
+                        "media:thumbnail": {
+                            "@height": "225",
+                            "@url": "https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/2025/02/855095/hero/TWIT1017_thumbnail.jpg",
+                            "@width": "400"
+                        },
+                        "media:title": {
+                            "#text": "TWiT 1017: Yellow-Bellied Marmots - Return of Pebble, O3-Mini, Apple AI",
+                            "@type": "plain"
+                        }
+                    },
+                    "podcast:episode": "1017",
+                    "podcast:person": [
+                        {
+                            "#text": "Leo Laporte",
+                            "@href": "https://twit.tv/people/leo-laporte",
+                            "@img": "https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/21/pictures/leo_1.jpg",
+                            "@role": "host"
+                        },
+                        {
+                            "#text": "Shoshana Weissmann",
+                            "@href": "https://twitter.com/SenatorShoshana",
+                            "@role": "guest"
+                        },
+                        {
+                            "#text": "Christina Warren",
+                            "@href": "https://twitter.com/film_girl",
+                            "@img": "https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/50093/pictures/christina-warren.png",
+                            "@role": "guest"
+                        },
+                        {
+                            "#text": "Dan Patterson",
+                            "@href": "https://www.danpatterson.com/",
+                            "@role": "guest"
+                        }
+                    ],
+                    "pubDate": "Sun, 02 Feb 2025 18:29:55 PST",
+                    "title": "TWiT 1017: Yellow-Bellied Marmots - Return of Pebble, O3-Mini, Apple AI"
+                },
                 {
                     "category": [
                         "News",
@@ -145,6 +256,10 @@
                             "@role": "guest"
                         }
                     ],
+                    "podcast:transcript": {
+                        "@type": "text/html",
+                        "@url": "http://twit.tv/posts/tech/microsoft-365s-copilot-integration-was-questionable"
+                    },
                     "pubDate": "Sun, 26 Jan 2025 18:51:32 PST",
                     "title": "TWiT 1016: Marc or Marx? - Copilot Launch Disaster, DeepSeek, Sir Paul vs. AI"
                 },
@@ -154,8 +269,8 @@
                         "Tech News"
                     ],
                     "comments": "https://twit.tv/shows/this-week-in-tech/episodes/1015",
-                    "content:encoded": "\n<ul> \n<li>Supreme Court Upholds Law That Threatens US TikTok Ban</li> \n<li>Trumpcoin</li> \n<li>Texas Sues Allstate Over Its Collection of Driver Data</li> \n<li>Skyrocketing car-insurance premiums are pushing inflation higher</li> \n<li>Behind the Curtain \u2014 Coming soon: Ph.D.-level super-agents</li> \n<li>4 surprise products we could see at Samsung Unpacked 2025</li> \n<li>Apple suspends error-strewn AI generated news alerts</li> \n<li>US Finalizes Rule Banning Smart Cars With Russian, Chinese Tech</li> \n<li>Natrium 'advanced nuclear' power plant wins Wyoming permit - WyoFile</li> \n<li>Cash App parent fined $175 million for 'woefully incomplete' response to fraud</li> \n<li>FDA Proposes Significant Step Toward Reducing Nicotine to Minimally or Nonaddictive Level in Cigarettes and Certain Other Combusted Tobacco Products</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://twitter.com/jasonhiner\" target=\"_blank\">Jason Hiner</a>, <a href=\"https://twit.tv/people/paris-martineau\">Paris Martineau</a>, and <a href=\"https://www.mollywhite.net/\" target=\"_blank\">Molly White</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p>Get episodes ad-free with Club TWiT at <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://joindeleteme.com/twit\" target=\"_blank\" rel=\"sponsored\">joindeleteme.com/twit promo code TWIT</a></li>\n<li><a href=\"http://www.ziprecruiter.com/twit\" target=\"_blank\" rel=\"sponsored\">ziprecruiter.com/twit</a></li>\n<li><a href=\"http://NetSuite.com/TWIT\" target=\"_blank\" rel=\"sponsored\">NetSuite.com/TWIT</a></li>\n<li><a href=\"http://canary.tools/twit\" target=\"_blank\" rel=\"sponsored\">canary.tools/twit - use code: TWIT</a></li>\n<li><a href=\"http://shopify.com/twit\" target=\"_blank\" rel=\"sponsored\">shopify.com/twit</a></li>\n</ul></p>\n",
-                    "description": "\n<ul> \n<li>Supreme Court Upholds Law That Threatens US TikTok Ban</li> \n<li>Trumpcoin</li> \n<li>Texas Sues Allstate Over Its Collection of Driver Data</li> \n<li>Skyrocketing car-insurance premiums are pushing inflation higher</li> \n<li>Behind the Curtain \u2014 Coming soon: Ph.D.-level super-agents</li> \n<li>4 surprise products we could see at Samsung Unpacked 2025</li> \n<li>Apple suspends error-strewn AI generated news alerts</li> \n<li>US Finalizes Rule Banning Smart Cars With Russian, Chinese Tech</li> \n<li>Natrium 'advanced nuclear' power plant wins Wyoming permit - WyoFile</li> \n<li>Cash App parent fined $175 million for 'woefully incomplete' response to fraud</li> \n<li>FDA Proposes Significant Step Toward Reducing Nicotine to Minimally or Nonaddictive Level in Cigarettes and Certain Other Combusted Tobacco Products</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://twitter.com/jasonhiner\" target=\"_blank\">Jason Hiner</a>, <a href=\"https://twit.tv/people/paris-martineau\">Paris Martineau</a>, and <a href=\"https://www.mollywhite.net/\" target=\"_blank\">Molly White</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p>Get episodes ad-free with Club TWiT at <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://joindeleteme.com/twit\" target=\"_blank\" rel=\"sponsored\">joindeleteme.com/twit promo code TWIT</a></li>\n<li><a href=\"http://www.ziprecruiter.com/twit\" target=\"_blank\" rel=\"sponsored\">ziprecruiter.com/twit</a></li>\n<li><a href=\"http://NetSuite.com/TWIT\" target=\"_blank\" rel=\"sponsored\">NetSuite.com/TWIT</a></li>\n<li><a href=\"http://canary.tools/twit\" target=\"_blank\" rel=\"sponsored\">canary.tools/twit - use code: TWIT</a></li>\n<li><a href=\"http://shopify.com/twit\" target=\"_blank\" rel=\"sponsored\">shopify.com/twit</a></li>\n</ul></p>\n",
+                    "content:encoded": "\n<ul> \n<li>Supreme Court Upholds Law That Threatens US TikTok Ban</li> \n<li>Trumpcoin</li> \n<li>Texas Sues Allstate Over Its Collection of Driver Data</li> \n<li>Skyrocketing car-insurance premiums are pushing inflation higher</li> \n<li>Behind the Curtain \u2014 Coming soon: Ph.D.-level super-agents</li> \n<li>4 surprise products we could see at Samsung Unpacked 2025</li> \n<li>Apple suspends error-strewn AI generated news alerts</li> \n<li>US Finalizes Rule Banning Smart Cars With Russian, Chinese Tech</li> \n<li>Natrium 'advanced nuclear' power plant wins Wyoming permit - WyoFile</li> \n<li>Cash App parent fined $175 million for 'woefully incomplete' response to fraud</li> \n<li>FDA Proposes Significant Step Toward Reducing Nicotine to Minimally or Nonaddictive Level in Cigarettes and Certain Other Combusted Tobacco Products</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://x.com/jasonhiner\" target=\"_blank\">Jason Hiner</a>, <a href=\"https://twit.tv/people/paris-martineau\">Paris Martineau</a>, and <a href=\"https://www.mollywhite.net/\" target=\"_blank\">Molly White</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p>Get episodes ad-free with Club TWiT at <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://joindeleteme.com/twit\" target=\"_blank\" rel=\"sponsored\">joindeleteme.com/twit promo code TWIT</a></li>\n<li><a href=\"http://www.ziprecruiter.com/twit\" target=\"_blank\" rel=\"sponsored\">ziprecruiter.com/twit</a></li>\n<li><a href=\"http://NetSuite.com/TWIT\" target=\"_blank\" rel=\"sponsored\">NetSuite.com/TWIT</a></li>\n<li><a href=\"http://canary.tools/twit\" target=\"_blank\" rel=\"sponsored\">canary.tools/twit - use code: TWIT</a></li>\n<li><a href=\"http://shopify.com/twit\" target=\"_blank\" rel=\"sponsored\">shopify.com/twit</a></li>\n</ul></p>\n",
+                    "description": "\n<ul> \n<li>Supreme Court Upholds Law That Threatens US TikTok Ban</li> \n<li>Trumpcoin</li> \n<li>Texas Sues Allstate Over Its Collection of Driver Data</li> \n<li>Skyrocketing car-insurance premiums are pushing inflation higher</li> \n<li>Behind the Curtain \u2014 Coming soon: Ph.D.-level super-agents</li> \n<li>4 surprise products we could see at Samsung Unpacked 2025</li> \n<li>Apple suspends error-strewn AI generated news alerts</li> \n<li>US Finalizes Rule Banning Smart Cars With Russian, Chinese Tech</li> \n<li>Natrium 'advanced nuclear' power plant wins Wyoming permit - WyoFile</li> \n<li>Cash App parent fined $175 million for 'woefully incomplete' response to fraud</li> \n<li>FDA Proposes Significant Step Toward Reducing Nicotine to Minimally or Nonaddictive Level in Cigarettes and Certain Other Combusted Tobacco Products</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://x.com/jasonhiner\" target=\"_blank\">Jason Hiner</a>, <a href=\"https://twit.tv/people/paris-martineau\">Paris Martineau</a>, and <a href=\"https://www.mollywhite.net/\" target=\"_blank\">Molly White</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p>Get episodes ad-free with Club TWiT at <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://joindeleteme.com/twit\" target=\"_blank\" rel=\"sponsored\">joindeleteme.com/twit promo code TWIT</a></li>\n<li><a href=\"http://www.ziprecruiter.com/twit\" target=\"_blank\" rel=\"sponsored\">ziprecruiter.com/twit</a></li>\n<li><a href=\"http://NetSuite.com/TWIT\" target=\"_blank\" rel=\"sponsored\">NetSuite.com/TWIT</a></li>\n<li><a href=\"http://canary.tools/twit\" target=\"_blank\" rel=\"sponsored\">canary.tools/twit - use code: TWIT</a></li>\n<li><a href=\"http://shopify.com/twit\" target=\"_blank\" rel=\"sponsored\">shopify.com/twit</a></li>\n</ul></p>\n",
                     "enclosure": {
                         "@length": "176117184",
                         "@type": "audio/mpeg",
@@ -175,7 +290,7 @@
                     },
                     "itunes:keywords": "Technology, TWiT, This Week in Tech, Leo Laporte, tiktok, supreme court, trumpcoin, texas, allstate, Samsung Unpacked, Apple, natrium, nuclear power, cash app, FDA, nicotine, cigarettes",
                     "itunes:subtitle": "TikTok, Trumpcoin, Samsung Unpacked 2025",
-                    "itunes:summary": "\n<ul> \n<li>Supreme Court Upholds Law That Threatens US TikTok Ban</li> \n<li>Trumpcoin</li> \n<li>Texas Sues Allstate Over Its Collection of Driver Data</li> \n<li>Skyrocketing car-insurance premiums are pushing inflation higher</li> \n<li>Behind the Curtain \u2014 Coming soon: Ph.D.-level super-agents</li> \n<li>4 surprise products we could see at Samsung Unpacked 2025</li> \n<li>Apple suspends error-strewn AI generated news alerts</li> \n<li>US Finalizes Rule Banning Smart Cars With Russian, Chinese Tech</li> \n<li>Natrium 'advanced nuclear' power plant wins Wyoming permit - WyoFile</li> \n<li>Cash App parent fined $175 million for 'woefully incomplete' response to fraud</li> \n<li>FDA Proposes Significant Step Toward Reducing Nicotine to Minimally or Nonaddictive Level in Cigarettes and Certain Other Combusted Tobacco Products</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://twitter.com/jasonhiner\" target=\"_blank\">Jason Hiner</a>, <a href=\"https://twit.tv/people/paris-martineau\">Paris Martineau</a>, and <a href=\"https://www.mollywhite.net/\" target=\"_blank\">Molly White</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p>Get episodes ad-free with Club TWiT at <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://joindeleteme.com/twit\" target=\"_blank\" rel=\"sponsored\">joindeleteme.com/twit promo code TWIT</a></li>\n<li><a href=\"http://www.ziprecruiter.com/twit\" target=\"_blank\" rel=\"sponsored\">ziprecruiter.com/twit</a></li>\n<li><a href=\"http://NetSuite.com/TWIT\" target=\"_blank\" rel=\"sponsored\">NetSuite.com/TWIT</a></li>\n<li><a href=\"http://canary.tools/twit\" target=\"_blank\" rel=\"sponsored\">canary.tools/twit - use code: TWIT</a></li>\n<li><a href=\"http://shopify.com/twit\" target=\"_blank\" rel=\"sponsored\">shopify.com/twit</a></li>\n</ul></p>\n",
+                    "itunes:summary": "\n<ul> \n<li>Supreme Court Upholds Law That Threatens US TikTok Ban</li> \n<li>Trumpcoin</li> \n<li>Texas Sues Allstate Over Its Collection of Driver Data</li> \n<li>Skyrocketing car-insurance premiums are pushing inflation higher</li> \n<li>Behind the Curtain \u2014 Coming soon: Ph.D.-level super-agents</li> \n<li>4 surprise products we could see at Samsung Unpacked 2025</li> \n<li>Apple suspends error-strewn AI generated news alerts</li> \n<li>US Finalizes Rule Banning Smart Cars With Russian, Chinese Tech</li> \n<li>Natrium 'advanced nuclear' power plant wins Wyoming permit - WyoFile</li> \n<li>Cash App parent fined $175 million for 'woefully incomplete' response to fraud</li> \n<li>FDA Proposes Significant Step Toward Reducing Nicotine to Minimally or Nonaddictive Level in Cigarettes and Certain Other Combusted Tobacco Products</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://x.com/jasonhiner\" target=\"_blank\">Jason Hiner</a>, <a href=\"https://twit.tv/people/paris-martineau\">Paris Martineau</a>, and <a href=\"https://www.mollywhite.net/\" target=\"_blank\">Molly White</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p>Get episodes ad-free with Club TWiT at <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://joindeleteme.com/twit\" target=\"_blank\" rel=\"sponsored\">joindeleteme.com/twit promo code TWIT</a></li>\n<li><a href=\"http://www.ziprecruiter.com/twit\" target=\"_blank\" rel=\"sponsored\">ziprecruiter.com/twit</a></li>\n<li><a href=\"http://NetSuite.com/TWIT\" target=\"_blank\" rel=\"sponsored\">NetSuite.com/TWIT</a></li>\n<li><a href=\"http://canary.tools/twit\" target=\"_blank\" rel=\"sponsored\">canary.tools/twit - use code: TWIT</a></li>\n<li><a href=\"http://shopify.com/twit\" target=\"_blank\" rel=\"sponsored\">shopify.com/twit</a></li>\n</ul></p>\n",
                     "itunes:title": "Smarter Than a House Cat - TikTok, Trumpcoin, Samsung Unpacked 2025",
                     "link": "https://twit.tv/shows/this-week-in-tech/episodes/1015",
                     "media:content": {
@@ -241,7 +356,7 @@
                         },
                         {
                             "#text": "Jason Hiner",
-                            "@href": "https://twitter.com/jasonhiner",
+                            "@href": "https://x.com/jasonhiner",
                             "@img": "https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/59771/pictures/jason-hiner-headshot.png",
                             "@role": "guest"
                         },
@@ -1042,120 +1157,6 @@
                     },
                     "pubDate": "Sun, 01 Dec 2024 18:22:33 PST",
                     "title": "TWiT 1008: Internet Legal - Australia's Social Media Ban for Kids, Smart Home Nightmare, Bluesky's Ascent"
-                },
-                {
-                    "category": [
-                        "News",
-                        "Tech News"
-                    ],
-                    "comments": "https://twit.tv/shows/this-week-in-tech/episodes/1007",
-                    "content:encoded": "\n<p>In this episode of <em>This Week in Tech</em>, the panel tackles the \"biggest hack in US history,\" the future of AI, and the role of government in tech. From the Chinese hack's implications to Microsoft's AI-powered Recall, the Supreme Court's tech-related cases, and the push for social media age verification, Leo Laporte, Patrick Beja, Wesley Faulkner, and Alex Wilhelm provide insightful analysis and lively discussion on the most pressing issues facing the industry today.</p><ul> \n<li>China's \"Salt Typhoon\" hack, dubbed the \"worst hack in our nation's history,\" which compromised US telecommunications infrastructure and allowed surveillance of high-profile individuals</li> \n<li>The panel debates the challenges of securing outdated infrastructure and the role of government in regulating tech companies</li> \n<li>DOJ's push for Google to sell off Chrome to break its search monopoly, and the potential implications for competition and innovation</li> \n<li>Alex Wilhelm's article \"If you like startups, you should love anti-trust\" and the importance of fostering competition in the tech industry</li> \n<li>Microsoft's Windows 365 Link, a $349 mini PC that streams Windows from the cloud, and the potential for thin client computing</li> \n<li>Microsoft's Recall AI feature, which records and indexes users' screen activity, raising security concerns but offering potential benefits for users</li> \n<li>The Supreme Court's involvement in cases related to Facebook's Cambridge Analytica data breach and the fate of America's low-income broadband fund</li> \n<li>The panel also discusses their personal experiences with parenting in the digital age and the challenges of balancing screen time, privacy, and education for children</li> \n<li>Meta's push for Apple and Google to verify users' ages on social media platforms, and the challenges of implementing effective age verification while protecting user privacy</li> \n<li>Amazon's talks with Instacart, Uber, Ticketmaster, and others to enhance its AI-powered Alexa assistant</li> \n<li>Spirit Airlines filing for bankruptcy amidst financial losses and mounting debt payments</li> \n<li>Alex laments the addition of ads to Amazon Prime Video and the panel debates the tradeoffs of bundled subscription services</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://notpatrick.com/\" target=\"_blank\">Patrick Beja</a>, <a href=\"https://wesley83.com/\" target=\"_blank\">Wesley Faulkner</a>, and <a href=\"https://twitter.com/alex\" target=\"_blank\">Alex Wilhelm</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p>Get episodes ad-free with Club TWiT at <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://Melissa.com/twit\" target=\"_blank\" rel=\"sponsored\">Melissa.com/twit</a></li>\n<li><a href=\"http://shopify.com/twit\" target=\"_blank\" rel=\"sponsored\">shopify.com/twit</a></li>\n<li><a href=\"https://www.veeam.com/?utm_source=twit.tv&utm_medium=audio&utm_campaign=fy24-brand-campaign&utm_content=twit\" target=\"_blank\" rel=\"sponsored\">veeam.com</a></li>\n<li><a href=\"http://lookout.com\" target=\"_blank\" rel=\"sponsored\">lookout.com</a></li>\n<li><a href=\"http://bitwarden.com/twit\" target=\"_blank\" rel=\"sponsored\">bitwarden.com/twit</a></li>\n</ul></p>\n",
-                    "description": "\n<p>In this episode of <em>This Week in Tech</em>, the panel tackles the \"biggest hack in US history,\" the future of AI, and the role of government in tech. From the Chinese hack's implications to Microsoft's AI-powered Recall, the Supreme Court's tech-related cases, and the push for social media age verification, Leo Laporte, Patrick Beja, Wesley Faulkner, and Alex Wilhelm provide insightful analysis and lively discussion on the most pressing issues facing the industry today.</p><ul> \n<li>China's \"Salt Typhoon\" hack, dubbed the \"worst hack in our nation's history,\" which compromised US telecommunications infrastructure and allowed surveillance of high-profile individuals</li> \n<li>The panel debates the challenges of securing outdated infrastructure and the role of government in regulating tech companies</li> \n<li>DOJ's push for Google to sell off Chrome to break its search monopoly, and the potential implications for competition and innovation</li> \n<li>Alex Wilhelm's article \"If you like startups, you should love anti-trust\" and the importance of fostering competition in the tech industry</li> \n<li>Microsoft's Windows 365 Link, a $349 mini PC that streams Windows from the cloud, and the potential for thin client computing</li> \n<li>Microsoft's Recall AI feature, which records and indexes users' screen activity, raising security concerns but offering potential benefits for users</li> \n<li>The Supreme Court's involvement in cases related to Facebook's Cambridge Analytica data breach and the fate of America's low-income broadband fund</li> \n<li>The panel also discusses their personal experiences with parenting in the digital age and the challenges of balancing screen time, privacy, and education for children</li> \n<li>Meta's push for Apple and Google to verify users' ages on social media platforms, and the challenges of implementing effective age verification while protecting user privacy</li> \n<li>Amazon's talks with Instacart, Uber, Ticketmaster, and others to enhance its AI-powered Alexa assistant</li> \n<li>Spirit Airlines filing for bankruptcy amidst financial losses and mounting debt payments</li> \n<li>Alex laments the addition of ads to Amazon Prime Video and the panel debates the tradeoffs of bundled subscription services</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://notpatrick.com/\" target=\"_blank\">Patrick Beja</a>, <a href=\"https://wesley83.com/\" target=\"_blank\">Wesley Faulkner</a>, and <a href=\"https://twitter.com/alex\" target=\"_blank\">Alex Wilhelm</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p>Get episodes ad-free with Club TWiT at <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://Melissa.com/twit\" target=\"_blank\" rel=\"sponsored\">Melissa.com/twit</a></li>\n<li><a href=\"http://shopify.com/twit\" target=\"_blank\" rel=\"sponsored\">shopify.com/twit</a></li>\n<li><a href=\"https://www.veeam.com/?utm_source=twit.tv&utm_medium=audio&utm_campaign=fy24-brand-campaign&utm_content=twit\" target=\"_blank\" rel=\"sponsored\">veeam.com</a></li>\n<li><a href=\"http://lookout.com\" target=\"_blank\" rel=\"sponsored\">lookout.com</a></li>\n<li><a href=\"http://bitwarden.com/twit\" target=\"_blank\" rel=\"sponsored\">bitwarden.com/twit</a></li>\n</ul></p>\n",
-                    "enclosure": {
-                        "@length": "181763886",
-                        "@type": "audio/mpeg",
-                        "@url": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/libsyn/twit_1007/b26992aa-b1b1-4f90-a2b7-efc6a7d4b42a/R2_twit1007.mp3"
-                    },
-                    "guid": {
-                        "#text": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/audio/twit/twit1007/twit1007.mp3",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "TWiT",
-                    "itunes:duration": "3:09:01",
-                    "itunes:episode": "1007",
-                    "itunes:episodeType": "full",
-                    "itunes:explicit": "no",
-                    "itunes:image": {
-                        "@href": "https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2024/11/854228/hero/TWIT1007_thumbnail.jpg"
-                    },
-                    "itunes:keywords": "TWiT, This Week in Tech, Leo Laporte, Patrick Beja, Wesley Faulkner, Alex Wilhelm, china hack, Salt Typhoon, US telecommunications, google antitrust, Chrome divestiture, windows 365 link, microsoft recall ai, Supreme Court tech cases",
-                    "itunes:subtitle": "China's \"Salt Typhoon\" Hack, Google on the Chopping Block, Recall AI",
-                    "itunes:summary": "\n<p>In this episode of <em>This Week in Tech</em>, the panel tackles the \"biggest hack in US history,\" the future of AI, and the role of government in tech. From the Chinese hack's implications to Microsoft's AI-powered Recall, the Supreme Court's tech-related cases, and the push for social media age verification, Leo Laporte, Patrick Beja, Wesley Faulkner, and Alex Wilhelm provide insightful analysis and lively discussion on the most pressing issues facing the industry today.</p><ul> \n<li>China's \"Salt Typhoon\" hack, dubbed the \"worst hack in our nation's history,\" which compromised US telecommunications infrastructure and allowed surveillance of high-profile individuals</li> \n<li>The panel debates the challenges of securing outdated infrastructure and the role of government in regulating tech companies</li> \n<li>DOJ's push for Google to sell off Chrome to break its search monopoly, and the potential implications for competition and innovation</li> \n<li>Alex Wilhelm's article \"If you like startups, you should love anti-trust\" and the importance of fostering competition in the tech industry</li> \n<li>Microsoft's Windows 365 Link, a $349 mini PC that streams Windows from the cloud, and the potential for thin client computing</li> \n<li>Microsoft's Recall AI feature, which records and indexes users' screen activity, raising security concerns but offering potential benefits for users</li> \n<li>The Supreme Court's involvement in cases related to Facebook's Cambridge Analytica data breach and the fate of America's low-income broadband fund</li> \n<li>The panel also discusses their personal experiences with parenting in the digital age and the challenges of balancing screen time, privacy, and education for children</li> \n<li>Meta's push for Apple and Google to verify users' ages on social media platforms, and the challenges of implementing effective age verification while protecting user privacy</li> \n<li>Amazon's talks with Instacart, Uber, Ticketmaster, and others to enhance its AI-powered Alexa assistant</li> \n<li>Spirit Airlines filing for bankruptcy amidst financial losses and mounting debt payments</li> \n<li>Alex laments the addition of ads to Amazon Prime Video and the panel debates the tradeoffs of bundled subscription services</li></ul> \n<p><strong>Host:</strong> <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p><strong>Guests:</strong> <a href=\"https://notpatrick.com/\" target=\"_blank\">Patrick Beja</a>, <a href=\"https://wesley83.com/\" target=\"_blank\">Wesley Faulkner</a>, and <a href=\"https://twitter.com/alex\" target=\"_blank\">Alex Wilhelm</a></p> \n<p>Download or subscribe to <em>This Week in Tech</em> at <a href=\"https://twit.tv/shows/this-week-in-tech\">https://twit.tv/shows/this-week-in-tech</a></p> \n<p>Get episodes ad-free with Club TWiT at <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://Melissa.com/twit\" target=\"_blank\" rel=\"sponsored\">Melissa.com/twit</a></li>\n<li><a href=\"http://shopify.com/twit\" target=\"_blank\" rel=\"sponsored\">shopify.com/twit</a></li>\n<li><a href=\"https://www.veeam.com/?utm_source=twit.tv&utm_medium=audio&utm_campaign=fy24-brand-campaign&utm_content=twit\" target=\"_blank\" rel=\"sponsored\">veeam.com</a></li>\n<li><a href=\"http://lookout.com\" target=\"_blank\" rel=\"sponsored\">lookout.com</a></li>\n<li><a href=\"http://bitwarden.com/twit\" target=\"_blank\" rel=\"sponsored\">bitwarden.com/twit</a></li>\n</ul></p>\n",
-                    "itunes:title": "All the Hotdogs in the World - China's \"Salt Typhoon\" Hack, Google on the Chopping Block, Recall AI",
-                    "link": "https://twit.tv/shows/this-week-in-tech/episodes/1007",
-                    "media:content": {
-                        "@fileSize": "181763886",
-                        "@medium": "audio",
-                        "@type": "audio/mpeg",
-                        "@url": "https://pdst.fm/e/pscrb.fm/rss/p/cdn.twit.tv/libsyn/twit_1007/b26992aa-b1b1-4f90-a2b7-efc6a7d4b42a/R2_twit1007.mp3",
-                        "media:category": {
-                            "#text": "IAB19",
-                            "@label": "Technology & Computing",
-                            "@scheme": "urn:iab:categories"
-                        },
-                        "media:credit": [
-                            {
-                                "#text": "Leo Laporte",
-                                "@role": "host"
-                            },
-                            {
-                                "#text": "Patrick Beja",
-                                "@role": "guest"
-                            },
-                            {
-                                "#text": "Wesley Faulkner",
-                                "@role": "guest"
-                            },
-                            {
-                                "#text": "Alex Wilhelm",
-                                "@role": "guest"
-                            }
-                        ],
-                        "media:description": {
-                            "#text": "China's \"Salt Typhoon\" Hack, Google on the Chopping Block, Recall AI",
-                            "@type": "plain"
-                        },
-                        "media:keywords": "TWiT, This Week in Tech, Leo Laporte, Patrick Beja, Wesley Faulkner, Alex Wilhelm, china hack, Salt Typhoon, US telecommunications, google antitrust, Chrome divestiture, windows 365 link, microsoft recall ai, Supreme Court tech cases",
-                        "media:rating": [
-                            {
-                                "#text": "nonadult",
-                                "@scheme": "urn:simple"
-                            },
-                            {
-                                "#text": "tv-g",
-                                "@scheme": "urn:v-chip"
-                            }
-                        ],
-                        "media:thumbnail": {
-                            "@height": "225",
-                            "@url": "https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/2024/11/854228/hero/TWIT1007_thumbnail.jpg",
-                            "@width": "400"
-                        },
-                        "media:title": {
-                            "#text": "TWiT 1007: All the Hotdogs in the World - China's \"Salt Typhoon\" Hack, Google on the Chopping Block, Recall AI",
-                            "@type": "plain"
-                        }
-                    },
-                    "podcast:episode": "1007",
-                    "podcast:person": [
-                        {
-                            "#text": "Leo Laporte",
-                            "@href": "https://twit.tv/people/leo-laporte",
-                            "@img": "https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/21/pictures/leo_1.jpg",
-                            "@role": "host"
-                        },
-                        {
-                            "#text": "Patrick Beja",
-                            "@href": "https://notpatrick.com/",
-                            "@role": "guest"
-                        },
-                        {
-                            "#text": "Wesley Faulkner",
-                            "@href": "https://wesley83.com/",
-                            "@role": "guest"
-                        },
-                        {
-                            "#text": "Alex Wilhelm",
-                            "@href": "https://twitter.com/alex",
-                            "@role": "guest"
-                        }
-                    ],
-                    "podcast:transcript": {
-                        "@type": "text/html",
-                        "@url": "http://twit.tv/posts/tech/unraveling-chinas-salt-typhoon"
-                    },
-                    "pubDate": "Sun, 24 Nov 2024 21:00:00 PST",
-                    "title": "TWiT 1007: All the Hotdogs in the World - China's \"Salt Typhoon\" Hack, Google on the Chopping Block, Recall AI"
                 }
             ],
             "itunes:author": "TWiT",
@@ -1177,14 +1178,14 @@
             "itunes:summary": "This Week in Tech is the top-ranked flagship tech podcast from TWiT.tv. Every Sunday, Leo Laporte and a roundtable of insiders explore the week's hottest tech news from AI to robots, and PCs to privacy. When it comes to tech, TWiT is IT.\n\nRecords live every Sunday at 5:15pm Eastern / 2:15pm Pacific / 22:15 UTC.",
             "itunes:type": "episodic",
             "language": "en-US",
-            "lastBuildDate": "Sun, 26 Jan 2025 21:44:50 PST",
+            "lastBuildDate": "Sun, 02 Feb 2025 22:45:01 PST",
             "link": "https://twit.tv/shows/this-week-in-tech",
             "managingEditor": "distro@twit.tv (TWiT Editors)",
             "podcast:funding": {
                 "#text": "Become a Club TWiT member!",
                 "@url": "https://twit.tv/clubtwit"
             },
-            "pubDate": "Sun, 26 Jan 2025 21:44:50 PST",
+            "pubDate": "Sun, 02 Feb 2025 22:45:01 PST",
             "rawvoice:frequency": "weekly",
             "rawvoice:location": "Petaluma, CA",
             "rawvoice:rating": {

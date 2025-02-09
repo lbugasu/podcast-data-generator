@@ -7,7 +7,7 @@
         "channel": {
             "copyright": "Copyright 2015-2021 NPR - For Personal Use Only",
             "description": "What's CODE SWITCH? It's the fearless conversations about race that you've been waiting for. Hosted by journalists of color, our podcast tackles the subject of race with empathy and humor. We explore how race affects every part of society \u2014 from politics and pop culture to history, food and everything in between. This podcast makes all of us part of the conversation \u2014 because we're all part of the story. Code Switch was named Apple Podcasts' first-ever Show of the Year in 2020.<br><br><em>Want to level up your Code Switch game? Try Code Switch Plus. </em><em>Your subscription supports the show and unlocks a sponsor-free feed. Learn more at </em><em>plus.npr.org/</em><em>codeswitch</em>",
-            "generator": "NPR Feed Publish Service v1.19.0",
+            "generator": "NPR Feed Publish Service v1.19.4",
             "image": {
                 "link": "https://www.npr.org/podcasts/510312/codeswitch",
                 "palette": [
@@ -22,6 +22,35 @@
                 "url": "https://media.npr.org/assets/img/2022/09/22/code-switch_tile_npr-network-01_sq-02ce31e198d3918fb20e7c3e519566ba44f86bda.jpg?s=1400&c=66&f=jpg"
             },
             "item": [
+                {
+                    "content:encoded": "Critics point out the apparent hypocrisy of a pro-Black rapper like Kendrick Lamar headlining the Super Bowl halftime show, since the NFL isn't exactly an institution that's known for its support of Black lives. So on this episode, we're digging into the history of hip hop and how it's been co-opted.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "description": "Critics point out the apparent hypocrisy of a pro-Black rapper like Kendrick Lamar headlining the Super Bowl halftime show, since the NFL isn't exactly an institution that's known for its support of Black lives. So on this episode, we're digging into the history of hip hop and how it's been co-opted.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "enclosure": {
+                        "@length": "33375800",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510312/traffic.megaphone.fm/NPR5373148233.mp3?d=2085&size=33375800&e=1229167014&t=podcast&p=510312"
+                    },
+                    "guid": {
+                        "#text": "af714ed2-44a0-469e-b595-1d822fe4b37d",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:block": "no",
+                    "itunes:duration": "2085",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "yes",
+                    "itunes:image": {
+                        "@href": "https://media.npr.org/assets/img/2025/02/03/illustration-04-5-_sq-499963336791959d24dc85b4f20f2b6ad815eee7.jpg?s=3000&c=66&f=jpg"
+                    },
+                    "itunes:title": "Hip-hop is 'fight the power' but also advertises for the power",
+                    "link": "https://www.npr.org/2025/02/05/1229167014/hip-hop-is-fight-the-power-but-also-advertises-for-the-power",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://media.npr.org/assets/img/2025/02/03/illustration-04-5-_wide-50562497abb658d5ff1a408e97784a8069c0e3ac.jpg?s=1280&c=66&f=jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Wed, 05 Feb 2025 08:00:59 +0000",
+                    "title": "Hip-hop is 'fight the power' but also advertises for the power"
+                },
                 {
                     "content:encoded": "Parker has been trying to find her place in the banjo world. So this week, she talks to Black banjo players like Grammy nominee Rhiannon Giddens about creating community and reclaiming an instrument that's historically already theirs.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
                     "description": "Parker has been trying to find her place in the banjo world. So this week, she talks to Black banjo players like Grammy nominee Rhiannon Giddens about creating community and reclaiming an instrument that's historically already theirs.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
@@ -14650,7 +14679,7 @@
             },
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Thu, 30 Jan 2025 15:05:09 +0000",
+            "lastBuildDate": "Fri, 07 Feb 2025 04:43:51 +0000",
             "link": "https://www.npr.org/podcasts/510312/codeswitch",
             "media:restriction": {
                 "#text": "es fi fr gb nl no se us dk at ch be au nz ca de it ie lu li ad mc pl pt is mx ee lv lt my gr ar hu cz mt bg sk cy br cl co uy sv py hn pa ni pe ec do gt cr bo id jp th ro il za",

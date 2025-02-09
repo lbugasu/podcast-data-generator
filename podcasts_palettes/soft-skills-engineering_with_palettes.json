@@ -26,6 +26,29 @@
             },
             "item": [
                 {
+                    "description": "<p>In this episode, Dave and Jamison answer these questions:</p>\n\n<ol>\n  <li>\n    <p>A listener named Matthias (mah-TEA-as) asks,</p>\n\n    <p>In episode 444 you\u2019re talking about the problems when hiring in the age of AI. I\u2019m a manager who\u2019s trying to hire right now and frankly I\u2019m at a loss. If feels like I\u2019m wading through a sea of AI slop. What tips do you have to cut through the slop and reach actually good candidates?</p>\n  </li>\n  <li>\n    <p>Where I work the developers do not seem to \u201cget\u201d source code control systems like git. I\u2019m not a developer but have worked with developers at previous jobs and usually the developers instituted good source control practices themselves.</p>\n\n    <p>Our developers know they should push their code to the repo but only do it weekly/monthly, treating it as a \u201cbackup\u201d. Some back up their laptops using tools like Time Machine so think have taken care of safeguarding their source code that way.</p>\n\n    <p>How can I convince them that working in git, committing their code as they go, pushing regularly, branching/merging, tying code updates to tickets, etc will benefit them far more in the long run?</p>\n  </li>\n</ol>\n",
+                    "enclosure": {
+                        "@length": "32849637",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-446.mp3?source=rss"
+                    },
+                    "guid": {
+                        "#text": "8d5b268d-2a14-410b-97f8-e0b8689b9341",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "",
+                    "itunes:duration": "33:19",
+                    "itunes:explicit": "no",
+                    "itunes:subtitle": "",
+                    "link": "https://softskills.audio/2025/02/03/episode-446-wading-through-ai-slop-and-they-don't-get-git/",
+                    "pubDate": "Mon, 03 Feb 2025 12:00:00 +0000",
+                    "source": {
+                        "#text": "Soft Skills Engineering",
+                        "@url": "https://softskills.audio"
+                    },
+                    "title": "Episode 446: Wading through AI slop and they don't get git"
+                },
+                {
                     "description": "<p>In this episode, Dave and Jamison answer these questions:</p>\n\n<ol>\n  <li>\n    <p>A listener named Kevin asks,</p>\n\n    <p>Hey, found the show and really enjoy it! Been listening from the beginning and have noticed that one of the pieces of advice given is that you should not stay at your first job for too long, because it\u2019s more likely that you\u2019ve not found the best job for you. I think The Secretary Problem is the closest thing being cited.</p>\n\n    <p>I tend to agree with the math, but I\u2019m still at my first software engineering job after 5 years and don\u2019t really want to leave. There are obviously things I don\u2019t particularly like or people I find challenging, but for the most part, I work on interesting projects with smart people, it\u2019s fully remote, the benefits are great, and my salary is comfortable. There have been times where I started to look for another job, only to have my current circumstances improve enough that I stopped the search.</p>\n\n    <p>What advice do you have for someone like me?</p>\n\n    <p>I don\u2019t know if it\u2019s relevant, but I\u2019ve managed to get married, buy a house, and just recently had our first baby. The pressure to provide and be conservative with my career is building.</p>\n\n    <p>Again, love the show and I hope you\u2019ll get to answering this before I catch up. I started from the beginning in late 2024, and in mid Jan 2025, I\u2019m just past episode 50. I\u2019ll let you do the math.</p>\n  </li>\n  <li>\n    <p>As a tech lead, I joined a project two years in the making which had only one engineer doing everything, including management. In the two years, only a POC has been completed and a \u201cpre MVP-MVP\u201d build is in progress. There is a hangup though, the funding for the project is supposed to come from another departments budget that doesn\u2019t want it, and work was committed by the department I am in, and a third department intended to be completed by the end of the quarter.</p>\n\n    <p>I have been trying to finesse my teammate into cancelling the project or at least allow a resetting of expectations. My manager agrees with me. There seems to be a tug of war between AVPs and Directors. This has led my teammate to make some corporate aggressive comments. These are being directed in many directions, including department heads opposing the project.</p>\n\n    <p>In your professional space <job title=\"\"> experience, how can I help my teammate with understanding that his tactics are potentially damaging to his reputation and the project?</job></p>\n  </li>\n</ol>\n",
                     "enclosure": {
                         "@length": "37996530",
@@ -10301,7 +10324,7 @@
             "itunes:subtitle": "It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly advice podcast for software developers about the non-technical stuff that goes into being a great software developer.",
             "itunes:summary": "It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly advice podcast for software developers about the non-technical stuff that goes into being a great software developer.",
             "language": "en",
-            "lastBuildDate": "2025-01-27 12:00:00 +0000",
+            "lastBuildDate": "2025-02-03 12:00:00 +0000",
             "link": "https://softskills.audio/",
             "managingEditor": "Jamison Dance and Dave Smith",
             "title": "Soft Skills Engineering",

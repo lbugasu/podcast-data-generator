@@ -7,7 +7,7 @@
         "channel": {
             "copyright": "Copyright 2019-2021 NPR - For Personal Use Only",
             "description": "Everyone needs a little help being a human. From sleep to saving money to parenting and more, host Marielle Segarra talks to experts to get the best advice out there. Life Kit is here to help you get it together. <br><br>Want another life hack? Try Life Kit+. You'll support the show and unlock exclusive curated playlists and sponsor-free listening. Learn more at plus.npr.org/lifekit",
-            "generator": "NPR Feed Publish Service v1.19.0",
+            "generator": "NPR Feed Publish Service v1.19.4",
             "image": {
                 "link": "https://www.npr.org/podcasts/510338/all-guides",
                 "palette": [
@@ -22,6 +22,91 @@
                 "url": "https://media.npr.org/assets/img/2022/09/23/life-kit_tile_npr-network-01_sq-200388bae100cab944ffa3655e7f3119e026d305.jpg?s=1400&c=66&f=jpg"
             },
             "item": [
+                {
+                    "content:encoded": "You have more power over your emotions than you think, says psychologist and neuroscientist Ethan Kross. In his new book, <a href=\"https://www.penguinrandomhouse.ca/books/720405/shift-by-ethan-kross/9780593444412\">Shift: Managing Your Emotions \u2014 So They Don't Manage You</a>, he says there are specific tools you can use to \"skillfully push\" your feelings around in a way that's useful, whether that's confronting them in the moment or avoiding them until you're ready to process them.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "description": "You have more power over your emotions than you think, says psychologist and neuroscientist Ethan Kross. In his new book, <a href=\"https://www.penguinrandomhouse.ca/books/720405/shift-by-ethan-kross/9780593444412\">Shift: Managing Your Emotions \u2014 So They Don't Manage You</a>, he says there are specific tools you can use to \"skillfully push\" your feelings around in a way that's useful, whether that's confronting them in the moment or avoiding them until you're ready to process them.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "enclosure": {
+                        "@length": "20719953",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510338/traffic.megaphone.fm/NPR8086825438.mp3?d=1294&size=20719953&e=1229439864&t=podcast&p=510338"
+                    },
+                    "guid": {
+                        "#text": "879c95c7-1d84-4077-a7e5-78e8db380ab6",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:block": "no",
+                    "itunes:duration": "1294",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://media.npr.org/assets/img/2025/02/05/life-kit_shift_kross-copy_sq-31687121f3667f6f86e1ff8be574ee60caf697d8.jpg?s=3000&c=66&f=jpg"
+                    },
+                    "itunes:title": "How to 'shift' your emotions",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://media.npr.org/assets/img/2025/02/05/life-kit_shift_kross_2_wide-846045d703d7433320f0934c8459232c2b79ba80.jpg?s=1280&c=66&f=jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Thu, 06 Feb 2025 08:00:59 +0000",
+                    "title": "How to 'shift' your emotions"
+                },
+                {
+                    "content:encoded": "Today's parents are more involved in their children's lives \u2014 and more stressed out \u2014 than they were two decades ago, according to an advisory from the 2024 U.S. Surgeon General. So how can they catch a break? Life Kit reporter Andee Tagle explains why parental burnout is a public health crisis and offers realistic ways to ease the pressure.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "description": "Today's parents are more involved in their children's lives \u2014 and more stressed out \u2014 than they were two decades ago, according to an advisory from the 2024 U.S. Surgeon General. So how can they catch a break? Life Kit reporter Andee Tagle explains why parental burnout is a public health crisis and offers realistic ways to ease the pressure.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "enclosure": {
+                        "@length": "26125837",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510338/traffic.megaphone.fm/NPR1396021096.mp3?d=1632&size=26125837&e=1228912523&t=podcast&p=510338"
+                    },
+                    "guid": {
+                        "#text": "1eaf0338-f5a3-498f-89d6-a2930ba877c0",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:block": "no",
+                    "itunes:duration": "1632",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://media.npr.org/assets/img/2025/01/29/template-1-example-27-_sq-23b5f6ca1c0bf79e4d03dccfda72a62fd214d742.jpg?s=3000&c=66&f=jpg"
+                    },
+                    "itunes:title": "How to combat parental burnout",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://media.npr.org/assets/img/2025/01/29/template-1-example-28-_wide-42adb8915aed26b7223e237629b44373b188c508.jpg?s=1280&c=66&f=jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Tue, 04 Feb 2025 08:00:59 +0000",
+                    "title": "How to combat parental burnout"
+                },
+                {
+                    "content:encoded": "Last month, the Food and Drug Administration announced it is banning Red No. 3, a food dye additive in processed foods like sodas, sweets and snacks. Recently, it and other dyes were linked to negative behavioral issues in children, and decades ago, high levels of Red No. 3 were linked to cancer in rats. This episode, NPR science podcast Short Wave explains what we know about Red No. 3's harmful health effects and the other dyes that may replace it.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "description": "Last month, the Food and Drug Administration announced it is banning Red No. 3, a food dye additive in processed foods like sodas, sweets and snacks. Recently, it and other dyes were linked to negative behavioral issues in children, and decades ago, high levels of Red No. 3 were linked to cancer in rats. This episode, NPR science podcast Short Wave explains what we know about Red No. 3's harmful health effects and the other dyes that may replace it.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "enclosure": {
+                        "@length": "10425200",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510338/traffic.megaphone.fm/NPR4829181078.mp3?d=651&size=10425200&e=1228844197&t=podcast&p=510338"
+                    },
+                    "guid": {
+                        "#text": "f89c3b7e-4618-4348-a68d-7ebe82660915",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:block": "no",
+                    "itunes:duration": "651",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://media.npr.org/assets/img/2025/01/29/template-1-example-25-_sq-96dda0f9de27ca18c877a1e76be4fb93eefc1efa.jpg?s=3000&c=66&f=jpg"
+                    },
+                    "itunes:title": "The science behind the FDA ban on food dye Red No. 3",
+                    "link": "https://www.npr.org/2025/02/03/1228844197/red-dye-number-three",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://media.npr.org/assets/img/2025/01/29/template-1-example-26-_wide-0ef7e9ca031ded4afc438fddce2090eedd721fc4.jpg?s=1280&c=66&f=jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Mon, 03 Feb 2025 08:00:59 +0000",
+                    "title": "The science behind the FDA ban on food dye Red No. 3"
+                },
                 {
                     "content:encoded": "It's normal to feel some pain or soreness after a workout. But how much is too much, and more importantly, how do you get relief? This episode, build out your post-workout recovery routine. A sports medicine doctor, nutritionist and professional athlete break down everything you can do from the moment your last workout finishes to right before your next one begins \u2013 to feel better in your body, minimize your injury risk and get the most out of that gym session.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
                     "description": "It's normal to feel some pain or soreness after a workout. But how much is too much, and more importantly, how do you get relief? This episode, build out your post-workout recovery routine. A sports medicine doctor, nutritionist and professional athlete break down everything you can do from the moment your last workout finishes to right before your next one begins \u2013 to feel better in your body, minimize your injury risk and get the most out of that gym session.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
@@ -14060,8 +14145,8 @@
                     "title": "How to get over someone"
                 },
                 {
-                    "content:encoded": "Losing is inevitable, but failure doesn't have to be. Learn how to reframe the way you look at loss, with the help of a former NBA player, a therapist who helps clients build unconditional self-worth and an entrepreneur who challenged himself to experience 100 days of rejection.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
-                    "description": "Losing is inevitable, but failure doesn't have to be. Learn how to reframe the way you look at loss, with the help of a former NBA player, a therapist who helps clients build unconditional self-worth and an entrepreneur who challenged himself to experience 100 days of rejection.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "content:encoded": "How to turn failure into an opportunity \u2014 and walk away a winner even in the face of defeat.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "description": "How to turn failure into an opportunity \u2014 and walk away a winner even in the face of defeat.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
                     "enclosure": {
                         "@length": "22579454",
                         "@type": "audio/mpeg",
@@ -26492,7 +26577,7 @@
             },
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Thu, 30 Jan 2025 19:05:12 +0000",
+            "lastBuildDate": "Fri, 07 Feb 2025 18:11:40 +0000",
             "link": "https://www.npr.org/podcasts/510338/all-guides",
             "media:restriction": {
                 "#text": "es fi fr gb nl no se us dk at ch be au nz ca de it ie lu li ad mc pl pt is mx ee lv lt hk sg my tr gr ar tw hu cz mt bg sk cy br cl co uy sv py hn pa ni pe ec do gt cr bo ph id jp th vn ro il za in",
