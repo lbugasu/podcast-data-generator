@@ -7,7 +7,7 @@
         "channel": {
             "copyright": "Copyright 2019-2021 NPR - For Personal Use Only",
             "description": "Taking care of yourself shouldn't be complicated. We talk to the experts for practical advice to live a long and healthy life, based on science. Updated every time Life Kit posts an episode on health and wellness.<br>Want another life hack? Try Life Kit+. Your subscription supports the show and unlocks an exclusive sponsor-free feed. Learn more at plus.npr.org/lifekit",
-            "generator": "NPR Feed Publish Service v1.19.0",
+            "generator": "NPR Feed Publish Service v1.19.5",
             "image": {
                 "link": "https://www.npr.org/podcasts-and-shows",
                 "palette": [
@@ -22,6 +22,34 @@
                 "url": "https://media.npr.org/assets/img/2024/09/23/life-kit_tile-art---health---d_sq-573d0d1c27bcdd0a32228293a0456a3226ec9aa5.jpg?s=1400&c=66&f=jpg"
             },
             "item": [
+                {
+                    "content:encoded": "A recent study found that one key to gut health is eating a wide variety of plants. In this episode, we talk about the research with NPR's Maria Godoy and offer tips to help you mix up your diet.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "description": "A recent study found that one key to gut health is eating a wide variety of plants. In this episode, we talk about the research with NPR's Maria Godoy and offer tips to help you mix up your diet.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
+                    "enclosure": {
+                        "@length": "11203022",
+                        "@type": "audio/mpeg",
+                        "@url": "https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510340/traffic.megaphone.fm/NPR3969885819.mp3?d=700&size=11203022&e=1263701572&t=podcast&p=510340"
+                    },
+                    "guid": {
+                        "#text": "36e6d3db-64e8-4c26-b173-f0fd5a1e6976",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:block": "no",
+                    "itunes:duration": "700",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://media.npr.org/assets/img/2025/02/06/lk_plant-vairiety_1_sq-a0c3a1fbe587626ab9571be875e379b630f52d11.jpg?s=3000&c=66&f=jpg"
+                    },
+                    "itunes:title": "The benefits of a plant-based diet on your gut",
+                    "media:thumbnail": {
+                        "@height": "720",
+                        "@url": "https://media.npr.org/assets/img/2025/02/06/lk_plant_variety_2_wide-d0b4932eb2c0877899e20d2871bddd7dcaaef371.jpg?s=1280&c=66&f=jpg",
+                        "@width": "1280"
+                    },
+                    "pubDate": "Tue, 11 Feb 2025 08:00:00 +0000",
+                    "title": "The benefits of a plant-based diet on your gut"
+                },
                 {
                     "content:encoded": "Last month, the Food and Drug Administration announced it is banning Red No. 3, a food dye additive in processed foods like sodas, sweets and snacks. Recently, it and other dyes were linked to negative behavioral issues in children, and decades ago, high levels of Red No. 3 were linked to cancer in rats. This episode, NPR science podcast <em>Short Wave </em>explains what we know about Red No. 3's harmful health effects and the other dyes that may replace it.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
                     "description": "Last month, the Food and Drug Administration announced it is banning Red No. 3, a food dye additive in processed foods like sodas, sweets and snacks. Recently, it and other dyes were linked to negative behavioral issues in children, and decades ago, high levels of Red No. 3 were linked to cancer in rats. This episode, NPR science podcast <em>Short Wave </em>explains what we know about Red No. 3's harmful health effects and the other dyes that may replace it.<br/><br/>Learn more about sponsor message choices: <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a><br/><br/><a href=\"https://www.npr.org/about-npr/179878450/privacy-policy\">NPR Privacy Policy</a>",
@@ -5513,7 +5541,7 @@
             },
             "itunes:type": "episodic",
             "language": "en-us",
-            "lastBuildDate": "Mon, 03 Feb 2025 08:01:34 +0000",
+            "lastBuildDate": "Tue, 11 Feb 2025 08:01:34 +0000",
             "link": "https://www.npr.org/podcasts-and-shows",
             "media:restriction": {
                 "#text": "es fi fr gb nl no se us dk at ch be au nz ca de it ie lu li ad mc pl pt is mx ee lv lt hk sg my tr gr ar tw hu cz mt bg sk cy br cl co uy sv py hn pa ni pe ec do gt cr bo ph id jp th vn ro il za in",

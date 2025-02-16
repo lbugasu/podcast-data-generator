@@ -34,6 +34,63 @@
                         "Arts",
                         "Books"
                     ],
+                    "content:encoded": "<p><span style=\"font-weight: 400;\">Recorded live at Symphony Hall with Boston Symphony Orchestra musicians and a star-studded cast, this Egyptian, Iraqi, Palestinian, Sudanese and Tunisian tale shows the importance of never biting off more than you can chew.</span></p>",
+                    "dc:creator": {
+                        "#text": "WBUR",
+                        "@xmlns:dc": "http://purl.org/dc/elements/1.1/"
+                    },
+                    "description": "<p><span style=\"font-weight: 400;\">Recorded live at Symphony Hall with Boston Symphony Orchestra musicians and a star-studded cast, this Egyptian, Iraqi, Palestinian, Sudanese and Tunisian tale shows the importance of never biting off more than you can chew.</span></p>",
+                    "enclosure": {
+                        "@length": "22406249",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR4375964086.mp3"
+                    },
+                    "guid": {
+                        "#text": "da100499-8250-4e5e-88b2-1f01d59c7a65",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": " WBUR ",
+                    "itunes:duration": "00:23:20",
+                    "itunes:episode": "33",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://wordpress.wbur.org/wp-content/uploads/2025/02/wellhonorSQ.jpg"
+                    },
+                    "itunes:season": "8",
+                    "itunes:subtitle": "Recorded live at Symphony Hall with Boston Symphony Orchestra musicians and a star-studded cast, this Egyptian, Iraqi, Palestinian, Sudanese and Tunisian tale shows the importance of never biting off more than you can chew.",
+                    "itunes:summary": "<span style=\"font-weight: 400;\">Recorded live at Symphony Hall with Boston Symphony Orchestra musicians and a star-studded cast, this Egyptian, Iraqi, Palestinian, Sudanese and Tunisian tale shows the importance of never biting off more than you can chew.</span>",
+                    "itunes:title": " The Well of Honor ",
+                    "link": "https://www.wbur.org/circleround/2025/02/11/well-of-honor",
+                    "media:content": [
+                        {
+                            "@height": "3000",
+                            "@medium": "image",
+                            "@type": "image/jpeg",
+                            "@url": "https://wordpress.wbur.org/wp-content/uploads/2025/02/wellhonorSQ.jpg",
+                            "@width": "3000",
+                            "media:description": "(Sabina Hahn for WBUR)",
+                            "media:thumbnail": {
+                                "@height": "200",
+                                "@url": "https://wordpress.wbur.org/wp-content/uploads/2025/02/wellhonorSQ-200x200.jpg",
+                                "@width": "200"
+                            }
+                        },
+                        {
+                            "@fileSize": "22406249",
+                            "@medium": "audio",
+                            "@type": "audio/mpeg",
+                            "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR4375964086.mp3"
+                        }
+                    ],
+                    "pubDate": "Tue, 11 Feb 2025 15:00:00 -0500",
+                    "title": "The Well of Honor"
+                },
+                {
+                    "category": [
+                        "Arts",
+                        "Books"
+                    ],
                     "content:encoded": "<p><span style=\"font-weight: 400;\">Maulik Pancholy (Phineas and Ferb, Sanjay and Craig) stars in a classic Indian story about a witty royal adviser who finds an ingenious way to bring the truth to light.</span></p>",
                     "dc:creator": {
                         "#text": "WBUR",
@@ -21502,7 +21559,7 @@
             "itunes:summary": "Created and produced by parents of young children, WBUR's Circle Round adapts carefully-selected folktales from around the world into sound- and music-rich radio plays for kids ages 3-103. Each 15 to 25-minute episode explores important issues like kindness, persistence and generosity. And each episode ends with an activity that inspires a deeper conversation between children and grown-ups.",
             "itunes:type": "serial",
             "language": "en-us",
-            "lastBuildDate": "Sat, 08 Feb 2025 19:30:07 -0500",
+            "lastBuildDate": "Sat, 15 Feb 2025 19:30:14 -0500",
             "link": "https://www.wbur.org/podcasts/circleround",
             "title": "Circle Round"
         }

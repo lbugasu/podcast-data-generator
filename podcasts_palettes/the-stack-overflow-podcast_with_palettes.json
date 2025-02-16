@@ -39,6 +39,83 @@
             },
             "item": [
                 {
+                    "author": "steph@editaud.io (Ryan Donovan, Ken Stott)",
+                    "content:encoded": "<p><a href=\"https://hasura.io/\">Hasura</a> is a GraphQL API platform. Get started exploring <a href=\"https://hasura.io/products\">here</a>.</p><p>Read Ken\u2019s article on the <a href=\"https://hasura.io/resources/the-data-doom-loop\">data doom loop</a>.</p><p>Find Ken on <a href=\"https://www.linkedin.com/in/kenstott/\">LinkedIn</a>.\u00a0</p><p>Shoutout to Stack Overflow user <a href=\"https://stackoverflow.com/users/490392/liquorvicar\">liquorvicar</a>, who earned a <a href=\"https://stackoverflow.com/help/badges/8842/lifeboat\">Lifeboat badge</a> with an exemplary answer to <a href=\"https://stackoverflow.com/questions/8270134/checking-value-in-an-array-inside-one-sql-query-with-where-clause\">Checking value in an array inside one SQL query with WHERE clause</a>.</p>\n",
+                    "description": "<p><a href=\"https://hasura.io/\">Hasura</a> is a GraphQL API platform. Get started exploring <a href=\"https://hasura.io/products\">here</a>.</p><p>Read Ken\u2019s article on the <a href=\"https://hasura.io/resources/the-data-doom-loop\">data doom loop</a>.</p><p>Find Ken on <a href=\"https://www.linkedin.com/in/kenstott/\">LinkedIn</a>.\u00a0</p><p>Shoutout to Stack Overflow user <a href=\"https://stackoverflow.com/users/490392/liquorvicar\">liquorvicar</a>, who earned a <a href=\"https://stackoverflow.com/help/badges/8842/lifeboat\">Lifeboat badge</a> with an exemplary answer to <a href=\"https://stackoverflow.com/questions/8270134/checking-value-in-an-array-inside-one-sql-query-with-where-clause\">Checking value in an array inside one SQL query with WHERE clause</a>.</p>\n",
+                    "enclosure": {
+                        "@length": "29040045",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/2c983dbb-1cf5-4ccd-91f4-50bc7e7fc76e/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=2c983dbb-1cf5-4ccd-91f4-50bc7e7fc76e&feed=XA_851k3"
+                    },
+                    "guid": {
+                        "#text": "d94ad1a9-43da-438a-82e6-f6cc9e261e1f",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ryan Donovan, Ken Stott",
+                    "itunes:duration": "00:29:54",
+                    "itunes:episode": "784",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:keywords": "data doom loop, enterprise software, enterprise data management, data quality, api platform, microservices, doom loop, software architecture, software engineering, api, graphql, data systems, software development, data management, hasura",
+                    "itunes:subtitle": "Ken Stott, Field CTO of API platform Hasura, tells Ryan about the data doom loop: the concept that organizations are spending lots of money on data systems without seeing improvements in data quality or efficiency. Their conversation touches on the challenges of data management, the impact of microservices, the importance of feedback loops in ensuring data quality, and how a data architecture that uses a supergraph would enhance data accessibility and quality.",
+                    "itunes:summary": "Ken Stott, Field CTO of API platform Hasura, tells Ryan about the data doom loop: the concept that organizations are spending lots of money on data systems without seeing improvements in data quality or efficiency. Their conversation touches on the challenges of data management, the impact of microservices, the importance of feedback loops in ensuring data quality, and how a data architecture that uses a supergraph would enhance data accessibility and quality.",
+                    "itunes:title": "Solving the data doom loop",
+                    "link": "https://stackoverflow.blog/podcast/",
+                    "pubDate": "Fri, 14 Feb 2025 05:20:00 +0000",
+                    "title": "Solving the data doom loop"
+                },
+                {
+                    "author": "steph@editaud.io (Stack Overflow)",
+                    "content:encoded": "<p><a href=\"https://en.oceanbase.com/\">OceanBase</a> is an open-source distributed database. Check it out on <a href=\"https://github.com/oceanbase\">GitHub</a>.</p><p>For more information, follow OceanBase on <a href=\"https://www.linkedin.com/company/oceanbase/\">LinkedIn</a>, <a href=\"https://x.com/OceanBaseDB\">X</a>, and <a href=\"https://www.youtube.com/@OceanBaseDB\">YouTube</a>.</p><p>To connect with Charlie Yang, find him on <a href=\"https://www.linkedin.com/in/chuanhuiyang/\">LinkedIn</a>.</p><p>Got questions about OceanBase? Join the discussion <a href=\"https://stackoverflow.com/questions/tagged/oceanbase\">here on Stack Overflow</a>.</p>\n",
+                    "description": "<p><a href=\"https://en.oceanbase.com/\">OceanBase</a> is an open-source distributed database. Check it out on <a href=\"https://github.com/oceanbase\">GitHub</a>.</p><p>For more information, follow OceanBase on <a href=\"https://www.linkedin.com/company/oceanbase/\">LinkedIn</a>, <a href=\"https://x.com/OceanBaseDB\">X</a>, and <a href=\"https://www.youtube.com/@OceanBaseDB\">YouTube</a>.</p><p>To connect with Charlie Yang, find him on <a href=\"https://www.linkedin.com/in/chuanhuiyang/\">LinkedIn</a>.</p><p>Got questions about OceanBase? Join the discussion <a href=\"https://stackoverflow.com/questions/tagged/oceanbase\">here on Stack Overflow</a>.</p>\n",
+                    "enclosure": {
+                        "@length": "21429928",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/30e475f4-9dbb-45ff-9e1b-084f6cea3d7c/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=30e475f4-9dbb-45ff-9e1b-084f6cea3d7c&feed=XA_851k3"
+                    },
+                    "guid": {
+                        "#text": "6a0c454b-cc6f-4788-a2a5-99a5339683b2",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Stack Overflow",
+                    "itunes:duration": "00:22:19",
+                    "itunes:episode": "783",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:subtitle": "SPONSORED BY OCEANBASE\n\nOn this episode, Ryan chats with Charlie Yang, CTO of Oceanbase, about how their consensus-based distributed database handles over a billion customers per month. They discuss the benefits of the native distribution paradigm of Oceanbase, how production and analytics data can live in the same data store, and how distributed data stores can manage the massive data needs of AI. ",
+                    "itunes:summary": "SPONSORED BY OCEANBASE\n\nOn this episode, Ryan chats with Charlie Yang, CTO of Oceanbase, about how their consensus-based distributed database handles over a billion customers per month. They discuss the benefits of the native distribution paradigm of Oceanbase, how production and analytics data can live in the same data store, and how distributed data stores can manage the massive data needs of AI. ",
+                    "itunes:title": "A distributed database that can withstand a meteor strike",
+                    "link": "https://stackoverflow.blog/podcast/",
+                    "pubDate": "Wed, 12 Feb 2025 14:45:38 +0000",
+                    "title": "A distributed database that can withstand a meteor strike"
+                },
+                {
+                    "author": "steph@editaud.io (Ryan Donovan, Sagar Batchu)",
+                    "content:encoded": "<p><a href=\"https://www.speakeasy.com/\">Speakeasy</a> builds API tooling for developers.</p><p>Find Sagar on <a href=\"https://www.linkedin.com/in/sagar-batchu-981b3738/\">LinkedIn</a>.\u00a0</p><p>Kudos to Stack Overflow user <a href=\"https://stackoverflow.com/users/1048572/bergi\">Bergi</a>, who earned a <a href=\"https://stackoverflow.com/help/badges/8842/lifeboat\">Lifeboat badge</a> with an exemplary answer to <a href=\"https://stackoverflow.com/questions/77283810/what-is-the-universal-module-definition-umd\">What is the Universal Module Definition (UMD)?</a>.</p>\n",
+                    "description": "<p><a href=\"https://www.speakeasy.com/\">Speakeasy</a> builds API tooling for developers.</p><p>Find Sagar on <a href=\"https://www.linkedin.com/in/sagar-batchu-981b3738/\">LinkedIn</a>.\u00a0</p><p>Kudos to Stack Overflow user <a href=\"https://stackoverflow.com/users/1048572/bergi\">Bergi</a>, who earned a <a href=\"https://stackoverflow.com/help/badges/8842/lifeboat\">Lifeboat badge</a> with an exemplary answer to <a href=\"https://stackoverflow.com/questions/77283810/what-is-the-universal-module-definition-umd\">What is the Universal Module Definition (UMD)?</a>.</p>\n",
+                    "enclosure": {
+                        "@length": "27735673",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/ee0abd28-0c1b-4cfa-9f70-cbdfcdc72a1f/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=ee0abd28-0c1b-4cfa-9f70-cbdfcdc72a1f&feed=XA_851k3"
+                    },
+                    "guid": {
+                        "#text": "8dbed7ad-c291-443b-bfa0-3c862c40fe21",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ryan Donovan, Sagar Batchu",
+                    "itunes:duration": "00:28:38",
+                    "itunes:episode": "782",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "false",
+                    "itunes:keywords": "developer tools, ai integration, workflow automation, gen ai, ai, automation, api, api design, software development",
+                    "itunes:subtitle": "Sagar Batchu, CEO and cofounder of API tooling company Speakeasy, talks with Ryan about the evolving API landscape, AI integration, the role of human technologists in an increasingly automated environment, and what people building APIs right now should keep in mind. ",
+                    "itunes:summary": "Sagar Batchu, CEO and cofounder of API tooling company Speakeasy, talks with Ryan about the evolving API landscape, AI integration, the role of human technologists in an increasingly automated environment, and what people building APIs right now should keep in mind. ",
+                    "itunes:title": "\u201cIn the short term, more chaos\u201d: What\u2019s next for API design",
+                    "link": "https://stackoverflow.blog/podcast/",
+                    "pubDate": "Tue, 11 Feb 2025 05:20:00 +0000",
+                    "title": "\u201cIn the short term, more chaos\u201d: What\u2019s next for API design"
+                },
+                {
                     "author": "steph@editaud.io (Stack Overflow)",
                     "content:encoded": "<p><a href=\"https://www.verkada.com/\">Verkada</a> is a cloud-based video security company.\u00a0</p><p>Back in the innocent days of 2021, <a href=\"https://stackoverflow.blog/2021/10/15/podcast-384-can-ai-solve-car-accidents-and-find-you-a-parking-space/\">we spoke with a company that makes smart dashcams</a>. See how far video and image processing has come.\u00a0</p><p>Congrats to <a href=\"https://stackoverflow.com/users/1169349/reg\">Reg</a> for earning a Lifeboat badge for their answer on <a href=\"https://stackoverflow.com/questions/52659476/what-is-the-difference-between-jsp-and-spring/52660274#52660274\">What is the difference between JSP and Spring?</a></p>\n",
                     "description": "<p><a href=\"https://www.verkada.com/\">Verkada</a> is a cloud-based video security company.\u00a0</p><p>Back in the innocent days of 2021, <a href=\"https://stackoverflow.blog/2021/10/15/podcast-384-can-ai-solve-car-accidents-and-find-you-a-parking-space/\">we spoke with a company that makes smart dashcams</a>. See how far video and image processing has come.\u00a0</p><p>Congrats to <a href=\"https://stackoverflow.com/users/1169349/reg\">Reg</a> for earning a Lifeboat badge for their answer on <a href=\"https://stackoverflow.com/questions/52659476/what-is-the-difference-between-jsp-and-spring/52660274#52660274\">What is the difference between JSP and Spring?</a></p>\n",
@@ -20561,9 +20638,9 @@
             "itunes:summary": "For more than a dozen years, the Stack Overflow Podcast has been exploring what it means to be a software developer and how the art and practice of programming is changing our world. From Rails to React, from Java to Node.js, join the Stack home team for conversations with fascinating guests to help you understand how technology is made and where it\u2019s headed.",
             "itunes:type": "episodic",
             "language": "en",
-            "lastBuildDate": "Fri, 7 Feb 2025 23:10:59 +0000",
+            "lastBuildDate": "Fri, 14 Feb 2025 05:20:19 +0000",
             "link": "https://stackoverflow.blog/podcast/",
-            "pubDate": "Fri, 7 Feb 2025 23:10:41 +0000",
+            "pubDate": "Fri, 14 Feb 2025 05:20:00 +0000",
             "title": "The Stack Overflow Podcast"
         }
     }

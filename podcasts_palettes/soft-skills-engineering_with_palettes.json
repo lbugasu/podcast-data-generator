@@ -26,6 +26,29 @@
             },
             "item": [
                 {
+                    "description": "<p>In this episode, Dave and Jamison answer these questions:</p>\n\n<ol>\n  <li>\n    <p>I am a mid level engineer overleveled as a senior engineer in a FAANG company. I got super lucky landing this high paying remote job, but dang\u2026 I did underestimate the expectations for my senior level. I had no FAANG experience before, just working at startups, flat hierarchies, just doing the heavy lifting coding.</p>\n\n    <p>Now it is all about impact and multiplying impact across the team. I am told I should do less IC work and more leading of projects and owning initiatives.</p>\n\n    <p>Can you give me some general advice on what actions I can take to get from the mid-level to senior-level? I am not really sure, what taking ownership really means in practice\u2026 These just seem like empty phrases to me without a meaning\u2026</p>\n  </li>\n  <li>\n    <p>I have had a bit of time, while running a 40 minute build, so I looked into open pull requests. One PR caught my eye and I started to read through it and left a comment with a suggestion for a small change. All in all sounds good probably, but the caveat to this is, that the PR was marked as Draft.</p>\n\n    <p>I was thinking that it would be useful for the author of the PR to already get some suggestions during development, but the response got me thinking. The author passive aggressively mentioned that the PR is in Draft and that there is more work to do.</p>\n\n    <p>Am I the jerk for commenting on a draft PR? Second question, what other things should I pay attention to in code reviews to not be a jerk?</p>\n  </li>\n</ol>\n",
+                    "enclosure": {
+                        "@length": "29499460",
+                        "@type": "audio/mpeg",
+                        "@url": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-447.mp3?source=rss"
+                    },
+                    "guid": {
+                        "#text": "ae3525fd-ef1b-42ef-8bc1-56749fec4484",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "",
+                    "itunes:duration": "30:11",
+                    "itunes:explicit": "no",
+                    "itunes:subtitle": "",
+                    "link": "https://softskills.audio/2025/02/10/episode-447-overleveled-at-faang-and-accidental-draft-feedback/",
+                    "pubDate": "Mon, 10 Feb 2025 12:00:00 +0000",
+                    "source": {
+                        "#text": "Soft Skills Engineering",
+                        "@url": "https://softskills.audio"
+                    },
+                    "title": "Episode 447: Overleveled at FAANG and accidental draft feedback"
+                },
+                {
                     "description": "<p>In this episode, Dave and Jamison answer these questions:</p>\n\n<ol>\n  <li>\n    <p>A listener named Matthias (mah-TEA-as) asks,</p>\n\n    <p>In episode 444 you\u2019re talking about the problems when hiring in the age of AI. I\u2019m a manager who\u2019s trying to hire right now and frankly I\u2019m at a loss. If feels like I\u2019m wading through a sea of AI slop. What tips do you have to cut through the slop and reach actually good candidates?</p>\n  </li>\n  <li>\n    <p>Where I work the developers do not seem to \u201cget\u201d source code control systems like git. I\u2019m not a developer but have worked with developers at previous jobs and usually the developers instituted good source control practices themselves.</p>\n\n    <p>Our developers know they should push their code to the repo but only do it weekly/monthly, treating it as a \u201cbackup\u201d. Some back up their laptops using tools like Time Machine so think have taken care of safeguarding their source code that way.</p>\n\n    <p>How can I convince them that working in git, committing their code as they go, pushing regularly, branching/merging, tying code updates to tickets, etc will benefit them far more in the long run?</p>\n  </li>\n</ol>\n",
                     "enclosure": {
                         "@length": "32849637",
@@ -10324,7 +10347,7 @@
             "itunes:subtitle": "It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly advice podcast for software developers about the non-technical stuff that goes into being a great software developer.",
             "itunes:summary": "It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly advice podcast for software developers about the non-technical stuff that goes into being a great software developer.",
             "language": "en",
-            "lastBuildDate": "2025-02-03 12:00:00 +0000",
+            "lastBuildDate": "2025-02-10 12:00:00 +0000",
             "link": "https://softskills.audio/",
             "managingEditor": "Jamison Dance and Dave Smith",
             "title": "Soft Skills Engineering",
