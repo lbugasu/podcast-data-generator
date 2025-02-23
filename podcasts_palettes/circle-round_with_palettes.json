@@ -34,6 +34,63 @@
                         "Arts",
                         "Books"
                     ],
+                    "content:encoded": "<p><span style=\"font-weight: 400;\">Recorded live at Symphony Hall with Boston Symphony Orchestra musicians and a star-studded cast, this indigenous Pacific Northwest tale follows a wily coyote on a daring rescue.</span></p>",
+                    "dc:creator": {
+                        "#text": "WBUR",
+                        "@xmlns:dc": "http://purl.org/dc/elements/1.1/"
+                    },
+                    "description": "<p><span style=\"font-weight: 400;\">Recorded live at Symphony Hall with Boston Symphony Orchestra musicians and a star-studded cast, this indigenous Pacific Northwest tale follows a wily coyote on a daring rescue.</span></p>",
+                    "enclosure": {
+                        "@length": "22952042",
+                        "@type": "audio/mpeg",
+                        "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR6771223800.mp3"
+                    },
+                    "guid": {
+                        "#text": "8f18da85-29af-4f8b-b27d-0fb40fb12fa4",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": " WBUR ",
+                    "itunes:duration": "00:23:54",
+                    "itunes:episode": "34",
+                    "itunes:episodeType": "full",
+                    "itunes:explicit": "no",
+                    "itunes:image": {
+                        "@href": "https://wordpress.wbur.org/wp-content/uploads/2025/02/SalmonSQ.jpg"
+                    },
+                    "itunes:season": "8",
+                    "itunes:subtitle": "Recorded live at Symphony Hall with Boston Symphony Orchestra musicians and a star-studded cast, this indigenous Pacific Northwest tale follows a wily coyote on a daring rescue.",
+                    "itunes:summary": "<span style=\"font-weight: 400;\">Recorded live at Symphony Hall with Boston Symphony Orchestra musicians and a star-studded cast, this indigenous Pacific Northwest tale follows a wily coyote on a daring rescue.</span>",
+                    "itunes:title": " The Salmon Famine ",
+                    "link": "https://www.wbur.org/circleround/2025/02/18/salmon-famine",
+                    "media:content": [
+                        {
+                            "@height": "3000",
+                            "@medium": "image",
+                            "@type": "image/jpeg",
+                            "@url": "https://wordpress.wbur.org/wp-content/uploads/2025/02/SalmonSQ.jpg",
+                            "@width": "3000",
+                            "media:description": "(Sabina Hahn for WBUR)",
+                            "media:thumbnail": {
+                                "@height": "200",
+                                "@url": "https://wordpress.wbur.org/wp-content/uploads/2025/02/SalmonSQ-200x200.jpg",
+                                "@width": "200"
+                            }
+                        },
+                        {
+                            "@fileSize": "22952042",
+                            "@medium": "audio",
+                            "@type": "audio/mpeg",
+                            "@url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR6771223800.mp3"
+                        }
+                    ],
+                    "pubDate": "Tue, 18 Feb 2025 15:00:00 -0500",
+                    "title": "The Salmon Famine"
+                },
+                {
+                    "category": [
+                        "Arts",
+                        "Books"
+                    ],
                     "content:encoded": "<p><span style=\"font-weight: 400;\">Recorded live at Symphony Hall with Boston Symphony Orchestra musicians and a star-studded cast, this Egyptian, Iraqi, Palestinian, Sudanese and Tunisian tale shows the importance of never biting off more than you can chew.</span></p>",
                     "dc:creator": {
                         "#text": "WBUR",
@@ -21559,7 +21616,7 @@
             "itunes:summary": "Created and produced by parents of young children, WBUR's Circle Round adapts carefully-selected folktales from around the world into sound- and music-rich radio plays for kids ages 3-103. Each 15 to 25-minute episode explores important issues like kindness, persistence and generosity. And each episode ends with an activity that inspires a deeper conversation between children and grown-ups.",
             "itunes:type": "serial",
             "language": "en-us",
-            "lastBuildDate": "Sat, 15 Feb 2025 19:30:14 -0500",
+            "lastBuildDate": "Sat, 22 Feb 2025 19:30:10 -0500",
             "link": "https://www.wbur.org/podcasts/circleround",
             "title": "Circle Round"
         }

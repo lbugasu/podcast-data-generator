@@ -10,7 +10,7 @@
         "@xmlns:podcast": "https://podcastindex.org/namespace/1.0",
         "channel": {
             "atom:link": {
-                "@href": "https://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml",
+                "@href": "http://www.kuow.org/feeds/podcasts/weekendedition-sunday/podcasts/rss.xml",
                 "@rel": "self",
                 "@type": "application/rss+xml"
             },
@@ -26,6 +26,300 @@
                 "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
             },
             "item": [
+                {
+                    "author": [
+                        "Hadeel Al-Shalchi",
+                        "Ayesha Rascoe"
+                    ],
+                    "description": "Secretary of State Marco Rubio is in Israel for talks with Prime Minister Netanyahu amid questions over Gaza's future.",
+                    "enclosure": {
+                        "@length": "3654000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/02/20250216_wesun_secretary_of_state_marco_rubio_is_in_israel_for_talks_about_post-war_gaza.mp3?size=3254275&d=203357&e=nx-s1-5297863"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-108426",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Hadeel Al-Shalchi",
+                        "Ayesha Rascoe"
+                    ],
+                    "itunes:duration": "00:03:23",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Secretary of State Marco Rubio is in Israel for talks about post-war Gaza",
+                    "itunes:summary": "Secretary of State Marco Rubio is in Israel for talks with Prime Minister Netanyahu amid questions over Gaza's future.",
+                    "itunes:title": "Secretary of State Marco Rubio is in Israel for talks about post-war Gaza",
+                    "link": "https://www.kuow.org/stories/secretary-of-state-marco-rubio-is-in-israel-for-talks-about-post-war-gaza",
+                    "pubDate": "Sun, 16 Feb 2025 05:07:45 -0800",
+                    "title": "Secretary of State Marco Rubio is in Israel for talks about post-war Gaza"
+                },
+                {
+                    "author": [
+                        "Frank Langfitt",
+                        "Ayesha Rascoe"
+                    ],
+                    "description": "The Trump administration's funding freezes have brought pro-democracy organizations created by Congress to a standstill.",
+                    "enclosure": {
+                        "@length": "5868000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/02/20250216_wesun_the_trump_administration_s_funding_cuts_are_impacting_pro-democracy_organizations.mp3?size=5222445&d=326360&e=nx-s1-5297844"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-108425",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Frank Langfitt",
+                        "Ayesha Rascoe"
+                    ],
+                    "itunes:duration": "00:05:26",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "The Trump administration's funding cuts are impacting pro-democracy organizations",
+                    "itunes:summary": "The Trump administration's funding freezes have brought pro-democracy organizations created by Congress to a standstill.",
+                    "itunes:title": "The Trump administration's funding cuts are impacting pro-democracy organizations",
+                    "link": "https://www.kuow.org/stories/the-trump-administration-s-funding-cuts-are-impacting-pro-democracy-organizations",
+                    "pubDate": "Sun, 16 Feb 2025 05:07:42 -0800",
+                    "title": "The Trump administration's funding cuts are impacting pro-democracy organizations"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "After a chaotic trade deadline involving some of the league's biggest stars, the NBA looks different than it did two weeks ago. The Athletic's Dave DuFour talks to NPR's Ayesha Rascoe.",
+                    "enclosure": {
+                        "@length": "4212000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/02/20250216_wesun_what_the_nba_looks_like_after_a_chaotic_mid-season_trading_period.mp3?size=3754572&d=234617&e=nx-s1-5296491"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-108428",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:03:54",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "What the NBA looks like after a chaotic mid-season trading period",
+                    "itunes:summary": "After a chaotic trade deadline involving some of the league's biggest stars, the NBA looks different than it did two weeks ago. The Athletic's Dave DuFour talks to NPR's Ayesha Rascoe.",
+                    "itunes:title": "What the NBA looks like after a chaotic mid-season trading period",
+                    "link": "https://www.kuow.org/stories/what-the-nba-looks-like-after-a-chaotic-mid-season-trading-period",
+                    "pubDate": "Sun, 16 Feb 2025 05:07:38 -0800",
+                    "title": "What the NBA looks like after a chaotic mid-season trading period"
+                },
+                {
+                    "author": "Sherisse Pham",
+                    "description": "\"Micro dramas\" became a billion-dollar industry in China during the pandemic. Now, they are becoming popular in the U.S., too.",
+                    "enclosure": {
+                        "@length": "4248000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/02/20250216_wesun_after_china_micro_dramas_are_gaining_popularity_in_the_us.mp3?size=3785083&d=236528&e=nx-s1-5293094"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-108429",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Sherisse Pham",
+                    "itunes:duration": "00:03:56",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "After China, 'micro dramas' are gaining popularity in the US",
+                    "itunes:summary": "\"Micro dramas\" became a billion-dollar industry in China during the pandemic. Now, they are becoming popular in the U.S., too.",
+                    "itunes:title": "After China, 'micro dramas' are gaining popularity in the US",
+                    "link": "https://www.kuow.org/stories/after-china-micro-dramas-are-gaining-popularity-in-the-us",
+                    "pubDate": "Sun, 16 Feb 2025 05:07:34 -0800",
+                    "title": "After China, 'micro dramas' are gaining popularity in the US"
+                },
+                {
+                    "author": [
+                        "Ayesha Rascoe",
+                        "Deepa Shivaram"
+                    ],
+                    "description": "As the Trump administration pushes the boundaries of executive authority, some state governors are pushing back.",
+                    "enclosure": {
+                        "@length": "5346000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/02/20250216_wesun_politics_chat_state_governors_push_back_vance_makes_first_international_appearance.mp3?size=4755584&d=297194&e=nx-s1-5291448"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-108427",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Ayesha Rascoe",
+                        "Deepa Shivaram"
+                    ],
+                    "itunes:duration": "00:04:57",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Politics chat: State governors push back, Vance makes first international appearance",
+                    "itunes:summary": "As the Trump administration pushes the boundaries of executive authority, some state governors are pushing back.",
+                    "itunes:title": "Politics chat: State governors push back, Vance makes first international appearance",
+                    "link": "https://www.kuow.org/stories/politics-chat-state-governors-push-back-vance-makes-first-international-appearance",
+                    "pubDate": "Sun, 16 Feb 2025 05:07:21 -0800",
+                    "title": "Politics chat: State governors push back, Vance makes first international appearance"
+                },
+                {
+                    "author": [
+                        "Ayesha Rascoe",
+                        "Eleana Tworek",
+                        "Shannon Rhoades"
+                    ],
+                    "description": "NPR's Ayesha Rascoe talks with Gigi Reece, Nora Cheng, and Penelope Lowenstein. They formed the band Horsegirl after meeting in the School of Rock. Their new album is \"Phonetics On and On.\"",
+                    "enclosure": {
+                        "@length": "8388000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/02/20250216_wesun_horsegirl_members_discuss_their_new_album_phonetics_on_and_on.mp3?size=7464378&d=466470&e=nx-s1-5288127"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-108430",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Ayesha Rascoe",
+                        "Eleana Tworek",
+                        "Shannon Rhoades"
+                    ],
+                    "itunes:duration": "00:07:46",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Horsegirl members discuss their new album 'Phonetics On and On'",
+                    "itunes:summary": "NPR's Ayesha Rascoe talks with Gigi Reece, Nora Cheng, and Penelope Lowenstein. They formed the band Horsegirl after meeting in the School of Rock. Their new album is \"Phonetics On and On.\"",
+                    "itunes:title": "Horsegirl members discuss their new album 'Phonetics On and On'",
+                    "link": "https://www.kuow.org/stories/horsegirl-members-discuss-their-new-album-phonetics-on-and-on",
+                    "pubDate": "Sun, 16 Feb 2025 05:07:11 -0800",
+                    "title": "Horsegirl members discuss their new album 'Phonetics On and On'"
+                },
+                {
+                    "author": [
+                        "Ryan Benk",
+                        "Shannon Rhoades",
+                        "Ayesha Rascoe"
+                    ],
+                    "description": "NPR's Ayesha Rascoe talks with director Christopher Andrews about his new thriller, set in rural Ireland, \"Bring Them Down.\"",
+                    "enclosure": {
+                        "@length": "7074000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/02/20250216_wesun_director_christopher_andrews_discusses_his_thriller_bring_them_down.mp3?size=6303287&d=393903&e=nx-s1-5252611"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-108431",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": [
+                        "Ryan Benk",
+                        "Shannon Rhoades",
+                        "Ayesha Rascoe"
+                    ],
+                    "itunes:duration": "00:06:33",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Director Christopher Andrews discusses his thriller 'Bring Them Down'",
+                    "itunes:summary": "NPR's Ayesha Rascoe talks with director Christopher Andrews about his new thriller, set in rural Ireland, \"Bring Them Down.\"",
+                    "itunes:title": "Director Christopher Andrews discusses his thriller 'Bring Them Down'",
+                    "link": "https://www.kuow.org/stories/director-christopher-andrews-discusses-his-thriller-bring-them-down",
+                    "pubDate": "Sun, 16 Feb 2025 05:07:08 -0800",
+                    "title": "Director Christopher Andrews discusses his thriller 'Bring Them Down'"
+                },
+                {
+                    "author": "Deena Prichep",
+                    "description": "Students at Lewis &amp; Clark College in Oregon are trying to bring more attention to one of the world's smaller and often overlooked plants with this year's seventh annual\u00a0Moss\u00a0Appreciation\u00a0Week. (This story first aired on Morning Edition on February 14, 2025.)",
+                    "enclosure": {
+                        "@length": "4050000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/02/20250216_wesun_moss_doesn_t_get_a_lot_of_love._moss_appreciation_week_in_oregon_aims_to_change_that.mp3?size=3610794&d=225621&e=nx-s1-5269960-e1"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-108424",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Deena Prichep",
+                    "itunes:duration": "00:03:45",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "Moss doesn't get a lot of love. Moss Appreciation Week in Oregon aims to change that",
+                    "itunes:summary": "Students at Lewis &amp; Clark College in Oregon are trying to bring more attention to one of the world's smaller and often overlooked plants with this year's seventh annual\u00a0Moss\u00a0Appreciation\u00a0Week. (This story first aired on Morning Edition on February 14, 2025.)",
+                    "itunes:title": "Moss doesn't get a lot of love. Moss Appreciation Week in Oregon aims to change that",
+                    "link": "https://www.kuow.org/stories/moss-doesn-t-get-a-lot-of-love-moss-appreciation-week-in-oregon-aims-to-change-that",
+                    "pubDate": "Sun, 16 Feb 2025 04:49:44 -0800",
+                    "title": "Moss doesn't get a lot of love. Moss Appreciation Week in Oregon aims to change that"
+                },
+                {
+                    "author": "Ayesha Rascoe",
+                    "description": "NPR's Ayesha Rascoe asks University of Virginia law professor Saikrishna Prakash what happens if the president flouts court orders. Prakash clerked for Assoc. Justice Clarence Thomas.",
+                    "enclosure": {
+                        "@length": "5562000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/02/20250216_wesun_as_judges_move_to_block_trump_s_executive_orders_who_has_the_ultimate_power.mp3?size=4951189&d=309396&e=nx-s1-5294690"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-108422",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Ayesha Rascoe",
+                    "itunes:duration": "00:05:09",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "As judges move to block Trump's executive orders, who has the ultimate power?",
+                    "itunes:summary": "NPR's Ayesha Rascoe asks University of Virginia law professor Saikrishna Prakash what happens if the president flouts court orders. Prakash clerked for Assoc. Justice Clarence Thomas.",
+                    "itunes:title": "As judges move to block Trump's executive orders, who has the ultimate power?",
+                    "link": "https://www.kuow.org/stories/as-judges-move-to-block-trump-s-executive-orders-who-has-the-ultimate-power",
+                    "pubDate": "Sun, 16 Feb 2025 04:49:41 -0800",
+                    "title": "As judges move to block Trump's executive orders, who has the ultimate power?"
+                },
+                {
+                    "author": "Eyder Peralta",
+                    "description": "In Mexico, a country that loves a rags-to-riches story, a street sweeper with a golden voice has suddenly become a pop sensation.",
+                    "enclosure": {
+                        "@length": "4914000",
+                        "@type": "audio/mp3",
+                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2025/02/20250216_wesun_a_23-year-old_street_sweeper_has_become_mexico_s_newest_pop_star.mp3?size=4376495&d=273481&e=nx-s1-5298032"
+                    },
+                    "googleplay:explicit": "no",
+                    "guid": {
+                        "#text": "story-108423",
+                        "@isPermaLink": "false"
+                    },
+                    "itunes:author": "Eyder Peralta",
+                    "itunes:duration": "00:04:33",
+                    "itunes:explicit": "false",
+                    "itunes:image": {
+                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
+                    },
+                    "itunes:subtitle": "A 23-year-old street sweeper has become Mexico's newest pop star",
+                    "itunes:summary": "In Mexico, a country that loves a rags-to-riches story, a street sweeper with a golden voice has suddenly become a pop sensation.",
+                    "itunes:title": "A 23-year-old street sweeper has become Mexico's newest pop star",
+                    "link": "https://www.kuow.org/stories/a-23-year-old-street-sweeper-has-become-mexico-s-newest-pop-star",
+                    "pubDate": "Sun, 16 Feb 2025 04:49:38 -0800",
+                    "title": "A 23-year-old street sweeper has become Mexico's newest pop star"
+                },
                 {
                     "author": "Will Shortz",
                     "description": "NPR's Ayesha Rascoe plays the puzzle with Weekend Edition Puzzlemaster Will Shortz and WUSF listener Wendy Belkin of Clearwater, Fla.",
@@ -2583,278 +2877,6 @@
                     "link": "https://www.kuow.org/stories/how-new-identities-as-parents-and-partners-shape-call-me-spinster-s-music",
                     "pubDate": "Sun, 22 Dec 2024 05:02:15 -0800",
                     "title": "How new identities as parents and partners shape Call Me Spinster's music"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "The rule requires companies disclose fees up front for people booking a hotel or buying a ticket to a live event. NPR's Ayesha Rascoe discusses with Columbia University professor Vicki Morwitz.",
-                    "enclosure": {
-                        "@length": "5634000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/12/20241222_wesun_a_new_ftc_rule_cracks_down_on_junk_fees._here_s_what_to_expect.mp3?size=5010121&d=313095&e=nx-s1-5234098"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-105809",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:05:13",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "A new FTC rule cracks down on 'junk' fees. Here's what to expect",
-                    "itunes:summary": "The rule requires companies disclose fees up front for people booking a hotel or buying a ticket to a live event. NPR's Ayesha Rascoe discusses with Columbia University professor Vicki Morwitz.",
-                    "itunes:title": "A new FTC rule cracks down on 'junk' fees. Here's what to expect",
-                    "link": "https://www.kuow.org/stories/a-new-ftc-rule-cracks-down-on-junk-fees-here-s-what-to-expect",
-                    "pubDate": "Sun, 22 Dec 2024 05:02:11 -0800",
-                    "title": "A new FTC rule cracks down on 'junk' fees. Here's what to expect"
-                },
-                {
-                    "author": [
-                        "Ayesha Rascoe",
-                        "Mara Liasson"
-                    ],
-                    "description": "NPR national political correspondent Mara Liasson joins NPR's Ayesha Rascoe to discuss the spending battle and how it could affect the early months of the incoming Trump administration.",
-                    "enclosure": {
-                        "@length": "5040000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/12/20241222_wesun_politics_chat_government_shutdown_averted_as_biden_signs_stopgap_funding_bill.mp3?size=4484747&d=280265&e=nx-s1-5234060"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-105804",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Ayesha Rascoe",
-                        "Mara Liasson"
-                    ],
-                    "itunes:duration": "00:04:40",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Politics chat: Government shutdown averted as Biden signs stopgap funding bill",
-                    "itunes:summary": "NPR national political correspondent Mara Liasson joins NPR's Ayesha Rascoe to discuss the spending battle and how it could affect the early months of the incoming Trump administration.",
-                    "itunes:title": "Politics chat: Government shutdown averted as Biden signs stopgap funding bill",
-                    "link": "https://www.kuow.org/stories/politics-chat-government-shutdown-averted-as-biden-signs-stopgap-funding-bill",
-                    "pubDate": "Sun, 22 Dec 2024 05:02:08 -0800",
-                    "title": "Politics chat: Government shutdown averted as Biden signs stopgap funding bill"
-                },
-                {
-                    "author": [
-                        "Ayesha Rascoe",
-                        "Jonathan Lambert"
-                    ],
-                    "description": "NPR's Ayesha Rascoe talks with NPR science correspondent Jonathan Lambert about the decision, as well as other conservation efforts the U.S. Fish and Wildlife Service is proposing as 2024 winds down.",
-                    "enclosure": {
-                        "@length": "4788000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/12/20241222_wesun_monarch_butterfly_would_join_threatened_species_list_under_government_proposal.mp3?size=4270334&d=266847&e=nx-s1-5220006"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-105806",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": [
-                        "Ayesha Rascoe",
-                        "Jonathan Lambert"
-                    ],
-                    "itunes:duration": "00:04:26",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Monarch butterfly would join 'threatened' species list under government proposal",
-                    "itunes:summary": "NPR's Ayesha Rascoe talks with NPR science correspondent Jonathan Lambert about the decision, as well as other conservation efforts the U.S. Fish and Wildlife Service is proposing as 2024 winds down.",
-                    "itunes:title": "Monarch butterfly would join 'threatened' species list under government proposal",
-                    "link": "https://www.kuow.org/stories/monarch-butterfly-would-join-threatened-species-list-under-government-proposal",
-                    "pubDate": "Sun, 22 Dec 2024 05:02:04 -0800",
-                    "title": "Monarch butterfly would join 'threatened' species list under government proposal"
-                },
-                {
-                    "author": "Pierce Gentry",
-                    "description": "A Christmas tree farm in the Smoky Mountains tries to bring \"joy to the world\" each season.",
-                    "enclosure": {
-                        "@length": "3420000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/12/20241215_wesun_tree_farm_christmas_concert.mp3?size=3053654&d=190819&e=nx-s1-5227944"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-105480",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Pierce Gentry",
-                    "itunes:duration": "00:03:10",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "This Tennessee Christmas tree farm offers a unique \"choose-and-cut\" experience",
-                    "itunes:summary": "A Christmas tree farm in the Smoky Mountains tries to bring \"joy to the world\" each season.",
-                    "itunes:title": "This Tennessee Christmas tree farm offers a unique \"choose-and-cut\" experience",
-                    "link": "https://www.kuow.org/stories/this-tennessee-christmas-tree-farm-offers-a-unique-choose-and-cut-experience",
-                    "pubDate": "Sun, 15 Dec 2024 06:24:48 -0800",
-                    "title": "This Tennessee Christmas tree farm offers a unique \"choose-and-cut\" experience"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "Ayesha Rascoe talks with British singer-songwriter Cat Burns about young adulthood and her debut album, \"early twenties.\"",
-                    "enclosure": {
-                        "@length": "7758000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/12/20241215_wesun_encore_music-early_twenties-cat_burns.mp3?size=6911000&d=431891&e=nx-s1-4963380-e1"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-105479",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:07:11",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Cat Burns on coming of age and her debut album 'early twenties'",
-                    "itunes:summary": "Ayesha Rascoe talks with British singer-songwriter Cat Burns about young adulthood and her debut album, \"early twenties.\"",
-                    "itunes:title": "Cat Burns on coming of age and her debut album 'early twenties'",
-                    "link": "https://www.kuow.org/stories/cat-burns-on-coming-of-age-and-her-debut-album-early-twenties",
-                    "pubDate": "Sun, 15 Dec 2024 06:19:41 -0800",
-                    "title": "Cat Burns on coming of age and her debut album 'early twenties'"
-                },
-                {
-                    "author": "Ryan Benk",
-                    "description": "The Great Circle is all Indy, no Harrison",
-                    "enclosure": {
-                        "@length": "5976000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/12/20241215_wesun_indiana_jones_and_the_voice_of_troy_baker.mp3?size=5320247&d=332479&e=nx-s1-5215921"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-105474",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ryan Benk",
-                    "itunes:duration": "00:05:32",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/c5420bf7400a05ed905fb2eca9424e84?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "INDIANA JONES AND THE VOICE OF TROY BAKER",
-                    "itunes:summary": "The Great Circle is all Indy, no Harrison",
-                    "itunes:title": "INDIANA JONES AND THE VOICE OF TROY BAKER",
-                    "link": "https://www.kuow.org/stories/indiana-jones-and-the-voice-of-troy-baker",
-                    "pubDate": "Sun, 15 Dec 2024 06:18:51 -0800",
-                    "title": "INDIANA JONES AND THE VOICE OF TROY BAKER"
-                },
-                {
-                    "author": "Jill Kaufman",
-                    "description": "Some colleges are advising foreign students who're leaving the U.S. over the holidays to return before President-elect Donald Trump takes office on January 20th.",
-                    "enclosure": {
-                        "@length": "4158000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/12/20241215_wesun_international_students_are_urged_to_return_to_the_u.s._before_inauguration_day.mp3?size=3710268&d=231862&e=nx-s1-5205383"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-105473",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Jill Kaufman",
-                    "itunes:duration": "00:03:51",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "International students stay in the U.S. for the holidays, fearing their visa status under Trump",
-                    "itunes:summary": "Some colleges are advising foreign students who're leaving the U.S. over the holidays to return before President-elect Donald Trump takes office on January 20th.",
-                    "itunes:title": "International students stay in the U.S. for the holidays, fearing their visa status under Trump",
-                    "link": "https://www.kuow.org/stories/international-students-stay-in-the-u-s-for-the-holidays-fearing-their-visa-status-under-trump",
-                    "pubDate": "Sun, 15 Dec 2024 06:12:08 -0800",
-                    "title": "International students stay in the U.S. for the holidays, fearing their visa status under Trump"
-                },
-                {
-                    "author": "Patrick Davis",
-                    "description": "A German-language Christmas choir in Austin, Texas, has been in operation since 1879. NPR joins the choir as they rehearse for their annual Christmas concert.",
-                    "enclosure": {
-                        "@length": "3132000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/12/20241215_wesun_since_1879_this_austin_texas_choir_aims_to_preserve_their_german_heritage_through_song.mp3?size=2787832&d=174209&e=nx-s1-5213712"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-105475",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Patrick Davis",
-                    "itunes:duration": "00:02:54",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Since 1879, this Austin, Texas choir aims to preserve their German heritage through song",
-                    "itunes:summary": "A German-language Christmas choir in Austin, Texas, has been in operation since 1879. NPR joins the choir as they rehearse for their annual Christmas concert.",
-                    "itunes:title": "Since 1879, this Austin, Texas choir aims to preserve their German heritage through song",
-                    "link": "https://www.kuow.org/stories/since-1879-this-austin-texas-choir-aims-to-preserve-their-german-heritage-through-song",
-                    "pubDate": "Sun, 15 Dec 2024 06:06:54 -0800",
-                    "title": "Since 1879, this Austin, Texas choir aims to preserve their German heritage through song"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "NPR's Ayesha Rascoe asks Urban Institute Senior Fellow Howard Gleckman about the math behind Republican efforts to shrink the federal workforce.",
-                    "enclosure": {
-                        "@length": "4518000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/12/20241215_wesun_congressional_republicans_want_to_reduce_the_federal_workforce.mp3?size=4020812&d=251249&e=nx-s1-5226979"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-105476",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:04:11",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Congressional Republicans want to reduce the federal workforce",
-                    "itunes:summary": "NPR's Ayesha Rascoe asks Urban Institute Senior Fellow Howard Gleckman about the math behind Republican efforts to shrink the federal workforce.",
-                    "itunes:title": "Congressional Republicans want to reduce the federal workforce",
-                    "link": "https://www.kuow.org/stories/congressional-republicans-want-to-reduce-the-federal-workforce",
-                    "pubDate": "Sun, 15 Dec 2024 06:00:39 -0800",
-                    "title": "Congressional Republicans want to reduce the federal workforce"
-                },
-                {
-                    "author": "Ayesha Rascoe",
-                    "description": "Ayesha Rascoe talks to Mazen Gharibah of the London School of Economics about internal opposition to Syrian President Bashar al-Assad, which started long before his ouster this month.",
-                    "enclosure": {
-                        "@length": "6696000",
-                        "@type": "audio/mp3",
-                        "@url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2024/12/20241215_wesun_rebels_took_over_damascus_quickly_but_the_uprising_has_been_decades_in_the_making.mp3?size=5957635&d=372306&e=nx-s1-5227053"
-                    },
-                    "googleplay:explicit": "no",
-                    "guid": {
-                        "#text": "story-105477",
-                        "@isPermaLink": "false"
-                    },
-                    "itunes:author": "Ayesha Rascoe",
-                    "itunes:duration": "00:06:12",
-                    "itunes:explicit": "false",
-                    "itunes:image": {
-                        "@href": "https://kuow-prod.imgix.net/store/6742901960d94628550135ac341c2810.jpg?w=2000&h=2000&fit=crop"
-                    },
-                    "itunes:subtitle": "Rebels took over Damascus quickly, but the uprising has been decades in the making",
-                    "itunes:summary": "Ayesha Rascoe talks to Mazen Gharibah of the London School of Economics about internal opposition to Syrian President Bashar al-Assad, which started long before his ouster this month.",
-                    "itunes:title": "Rebels took over Damascus quickly, but the uprising has been decades in the making",
-                    "link": "https://www.kuow.org/stories/rebels-took-over-damascus-quickly-but-the-uprising-has-been-decades-in-the-making",
-                    "pubDate": "Sun, 15 Dec 2024 05:53:38 -0800",
-                    "title": "Rebels took over Damascus quickly, but the uprising has been decades in the making"
                 }
             ],
             "itunes:author": "NPR",
@@ -2871,7 +2893,7 @@
                 "itunes:name": "Weekend Edition Sunday"
             },
             "language": "en",
-            "lastBuildDate": "Sat, 15 Feb 2025 23:43:05 +0000",
+            "lastBuildDate": "Sun, 23 Feb 2025 00:41:32 +0000",
             "link": "https://www.kuow.org/podcasts/weekendedition-sunday",
             "podcast:locked": "no",
             "title": "Weekend Edition Sunday"
